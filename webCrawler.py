@@ -8,6 +8,8 @@ seedUrl = "https://en.wikipedia.org/wiki/Karen_Sp%C3%A4rck_Jones"
 
 def webCrawler(seedUrl, numPages):
     frontier = queue.Queue()
+    pageSizes = []
+    links =[]
     frontier.put(seedUrl)
 
     count = 0
@@ -15,29 +17,28 @@ def webCrawler(seedUrl, numPages):
     temp = {}
     while((not frontier.empty()) and (count < numPages and depth < 5)):
         url = frontier.get()
-        print("opening: ", url)
-        time.sleep(1)
+        print("Count : ", count, "opening: ", url)
+        # time.sleep(1)
         req = urllib.request.Request(url)
         resp = urllib.request.urlopen(req)
         # print(resp.info())
         # print(resp.geturl())
         respData = resp.read()
-        # print(len(respData))
-
+    
         paragraphs = re.findall(r'<p>(.*?)</p>',str(respData))
         count += 1
+        links.append(url)
+        pageSizes.append(len(respData))
+
         temp[count] = url
-        # aTags = re.findall(r'<a href="(.*?)">',str(paragraphs))
-        aTags = re.findall(r'<a href="([^">]+?)"',str(paragraphs))
-        print(count)
+        aTags = re.findall(r'href=[\'"/wiki/]?([^\'": >]+)',str(paragraphs))
         # TODO
         # write to the file links and the size
         httpString = "https://en.wikipedia.org"
         wikiLinks = "/wiki/"
-        citeNoteStr = "#cite_note"
-        exclude = ":"
+        # exclude = ":"
         for aTag in aTags:
-            if citeNoteStr not in aTag and wikiLinks in aTag and exclude not in aTag:
+            if aTag.startswith(wikiLinks):
                 fullUrl = httpString + aTag
                 frontier.put(fullUrl)
             if len(aTags) == 0:
