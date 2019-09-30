@@ -1,0 +1,1065 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nando's - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Nando's","wgTitle":"Nando's","wgCurRevisionId":918458031,"wgRevisionId":918458031,"wgArticleId":248288,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: uses authors parameter","CS1 maint: archived copy as title","Use dmy dates from April 2017","Use South African English from July 2012","All Wikipedia articles written in South African English","Articles containing potentially dated statements from February 2013","All articles containing potentially dated statements","Articles containing potentially dated statements from December 2015","Articles containing potentially dated statements from 2019","Articles containing potentially dated statements from 2013","Commons category link from Wikidata","Official website different in Wikidata and Wikipedia",
+"Fast-food chains of South Africa","Restaurant franchises","Companies based in Johannesburg","Fast casual restaurants","Restaurants established in 1987","Poultry restaurants","Multinational food companies","Multinational companies headquartered in South Africa","1987 establishments in South Africa","South African brands"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nando's","wgRelevantArticleId":248288,"wgRequestId":"XY-vXQpAME4AAJnSO1YAAAAJ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,
+"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3472954","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":
+"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Nandos_logo.svg/1200px-Nandos_logo.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nando%27s"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nando%27s&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Nando%27s&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Nando%27s"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Nando_s rootpage-Nando_s skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Nando's</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the 17th century London coffee house, see <a href="/wiki/Nando%27s_Coffee_House" title="Nando&#39;s Coffee House">Nando's Coffee House</a>.</div>
+<p class="mw-empty-elt">
+
+</p>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Nando's Ltd</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:Nandos_logo.svg" class="image"><img alt="Nandos logo.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c5/Nandos_logo.svg/220px-Nandos_logo.svg.png" decoding="async" width="220" height="73" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c5/Nandos_logo.svg/330px-Nandos_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c5/Nandos_logo.svg/440px-Nandos_logo.svg.png 2x" data-file-width="154" data-file-height="51" /></a></td></tr><tr><th scope="row" style="padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height:1.35em;"><a href="/wiki/Private_company" class="mw-redirect" title="Private company">Private</a></td></tr><tr><th scope="row" style="padding-right:0.5em;">Industry</th><td class="category" style="line-height:1.35em;"><a href="/wiki/Fast_food" title="Fast food">Fast food</a>/<a href="/wiki/Casual_dining" class="mw-redirect" title="Casual dining">casual dining</a></td></tr><tr><th scope="row" style="padding-right:0.5em;">Genre</th><td class="category" style="line-height:1.35em;">Portuguese style <a href="/wiki/Peri-peri" title="Peri-peri">peri-peri</a> chicken</td></tr><tr><th scope="row" style="padding-right:0.5em;">Founded</th><td style="line-height:1.35em;">1987<span class="noprint">&#59;&#32;32&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1987</span>)</span>, <a href="/wiki/Johannesburg" title="Johannesburg">Johannesburg</a>, South Africa</td></tr><tr><th scope="row" style="padding-right:0.5em;">Founder</th><td class="agent" style="line-height:1.35em;">Fernando Duarte and Robert Brozin</td></tr><tr><th scope="row" style="padding-right:0.5em;">Headquarters</th><td class="label" style="line-height:1.35em;"><a href="/wiki/Johannesburg" title="Johannesburg">Johannesburg</a>, South Africa<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height:1.35em;"><a href="/wiki/Dick_Enthoven" title="Dick Enthoven">Dick Enthoven</a>, owner</td></tr><tr><th scope="row" style="padding-right:0.5em;">Products</th><td style="line-height:1.35em;">Chicken and related cuisine</td></tr><tr><th scope="row" style="padding-right:0.5em;">Website</th><td style="line-height:1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://nandos.com">nandos<wbr />.com</a></span></td></tr></tbody></table>
+<p><b>Nando's</b> is a South African <a href="/wiki/Restaurant_chain" class="mw-redirect" title="Restaurant chain">restaurant chain</a>, specialising in Portuguese food such as <a href="/wiki/Peri-peri" title="Peri-peri">peri-peri</a> style chicken dishes. Founded in <a href="/wiki/Johannesburg" title="Johannesburg">Johannesburg</a> in 1987, Nando's operates over 1,000 outlets in 35 countries.
+</p>
+<style data-mw-deduplicate="TemplateStyles:r886046785">.mw-parser-output .toclimit-2 .toclevel-1 ul,.mw-parser-output .toclimit-3 .toclevel-2 ul,.mw-parser-output .toclimit-4 .toclevel-3 ul,.mw-parser-output .toclimit-5 .toclevel-4 ul,.mw-parser-output .toclimit-6 .toclevel-5 ul,.mw-parser-output .toclimit-7 .toclevel-6 ul{display:none}</style><div class="toclimit-3"><div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Worldwide_locations"><span class="tocnumber">2</span> <span class="toctext">Worldwide locations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Africa"><span class="tocnumber">2.1</span> <span class="toctext">Africa</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#South_Africa"><span class="tocnumber">2.1.1</span> <span class="toctext">South Africa</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Botswana"><span class="tocnumber">2.1.2</span> <span class="toctext">Botswana</span></a></li>
+<li class="toclevel-3 tocsection-6"><a href="#Eswatini"><span class="tocnumber">2.1.3</span> <span class="toctext">Eswatini</span></a></li>
+<li class="toclevel-3 tocsection-7"><a href="#Mauritius"><span class="tocnumber">2.1.4</span> <span class="toctext">Mauritius</span></a></li>
+<li class="toclevel-3 tocsection-8"><a href="#Namibia"><span class="tocnumber">2.1.5</span> <span class="toctext">Namibia</span></a></li>
+<li class="toclevel-3 tocsection-9"><a href="#Zambia"><span class="tocnumber">2.1.6</span> <span class="toctext">Zambia</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#Zimbabwe"><span class="tocnumber">2.1.7</span> <span class="toctext">Zimbabwe</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-11"><a href="#Asia"><span class="tocnumber">2.2</span> <span class="toctext">Asia</span></a>
+<ul>
+<li class="toclevel-3 tocsection-12"><a href="#Bahrain"><span class="tocnumber">2.2.1</span> <span class="toctext">Bahrain</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Bangladesh"><span class="tocnumber">2.2.2</span> <span class="toctext">Bangladesh</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#India"><span class="tocnumber">2.2.3</span> <span class="toctext">India</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Malaysia"><span class="tocnumber">2.2.4</span> <span class="toctext">Malaysia</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#Pakistan"><span class="tocnumber">2.2.5</span> <span class="toctext">Pakistan</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Qatar"><span class="tocnumber">2.2.6</span> <span class="toctext">Qatar</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Singapore"><span class="tocnumber">2.2.7</span> <span class="toctext">Singapore</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-19"><a href="#Europe"><span class="tocnumber">2.3</span> <span class="toctext">Europe</span></a>
+<ul>
+<li class="toclevel-3 tocsection-20"><a href="#Ireland"><span class="tocnumber">2.3.1</span> <span class="toctext">Ireland</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#United_Kingdom"><span class="tocnumber">2.3.2</span> <span class="toctext">United Kingdom</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-22"><a href="#North_America"><span class="tocnumber">2.4</span> <span class="toctext">North America</span></a>
+<ul>
+<li class="toclevel-3 tocsection-23"><a href="#Canada"><span class="tocnumber">2.4.1</span> <span class="toctext">Canada</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#United_States"><span class="tocnumber">2.4.2</span> <span class="toctext">United States</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-25"><a href="#Oceania"><span class="tocnumber">2.5</span> <span class="toctext">Oceania</span></a>
+<ul>
+<li class="toclevel-3 tocsection-26"><a href="#Australia"><span class="tocnumber">2.5.1</span> <span class="toctext">Australia</span></a></li>
+<li class="toclevel-3 tocsection-27"><a href="#New_Zealand"><span class="tocnumber">2.5.2</span> <span class="toctext">New Zealand</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#Controversies"><span class="tocnumber">3</span> <span class="toctext">Controversies</span></a>
+<ul>
+<li class="toclevel-2 tocsection-29"><a href="#Advertising"><span class="tocnumber">3.1</span> <span class="toctext">Advertising</span></a>
+<ul>
+<li class="toclevel-3 tocsection-30"><a href="#Australian_refugee_advertisement"><span class="tocnumber">3.1.1</span> <span class="toctext">Australian refugee advertisement</span></a></li>
+<li class="toclevel-3 tocsection-31"><a href="#Malema_advertisement"><span class="tocnumber">3.1.2</span> <span class="toctext">Malema advertisement</span></a></li>
+<li class="toclevel-3 tocsection-32"><a href="#Last_Dictator_advertisement"><span class="tocnumber">3.1.3</span> <span class="toctext">Last Dictator advertisement</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-33"><a href="#Corporation_tax_bill"><span class="tocnumber">3.2</span> <span class="toctext">Corporation tax bill</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-34"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-35"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-36"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+</div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The restaurant was founded in 1987 in the <a href="/wiki/Johannesburg" title="Johannesburg">Johannesburg</a> suburb <a href="/wiki/Rosettenville,_Gauteng" class="mw-redirect" title="Rosettenville, Gauteng">Rosettenville</a>, by <a href="/wiki/Mozambique" title="Mozambique">Mozambique</a>-born Fernando Duarte and <a href="/wiki/South_African" class="mw-redirect" title="South African">South African</a>-born Robert Brozin. Upon visiting a Portuguese takeaway named Chickenland, and trying the chicken with <a href="/wiki/Peri_peri" class="mw-redirect" title="Peri peri">peri peri</a>, they bought the restaurant for about R80,000 <a href="/wiki/South_African_rand" title="South African rand">rand</a> (equivalent of about <a href="/wiki/Pound_sterling" title="Pound sterling">£</a>25,000 at the time).<sup id="cite_ref-DT_Brown_2-0" class="reference"><a href="#cite_note-DT_Brown-2">&#91;2&#93;</a></sup> They renamed the restaurant Nando's after Fernando's first born son. By 1989, the restaurant had three outlets in Johannesburg and one in Portugal.<sup id="cite_ref-nandos_worldwide_3-0" class="reference"><a href="#cite_note-nandos_worldwide-3">&#91;3&#93;</a></sup><sup id="cite_ref-DT_Brown_2-1" class="reference"><a href="#cite_note-DT_Brown-2">&#91;2&#93;</a></sup> Capricorn Ventures International acquired the chain in 1992.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> As of 2017, there were over 1,000 Nando's branches in 35 countries.<sup id="cite_ref-usa-today-2017_5-0" class="reference"><a href="#cite_note-usa-today-2017-5">&#91;5&#93;</a></sup>
+</p><p>In 2010, <i><a href="/wiki/Advertising_Age" class="mw-redirect" title="Advertising Age">Advertising Age</a></i> magazine named Nando's one of the world's top 30 hottest marketing brands alongside <a href="/wiki/Tata_Nano" title="Tata Nano">Tata Nano</a>, <a href="/wiki/MTN_Group" title="MTN Group">MTN</a> and <a href="/wiki/Natura" class="mw-redirect" title="Natura">Natura</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> As of July 2014 the Nando's restaurant group was ultimately owned by South African businessman <a href="/wiki/Dick_Enthoven" title="Dick Enthoven">Dick Enthoven</a> and his family. Enthoven's son, <a href="/wiki/Robby_Enthoven" title="Robby Enthoven">Robby Enthoven</a> who took over running the restaurants in 1993, was responsible for expanding the Nando's chain in the United Kingdom.<sup id="cite_ref-Jersey_7-0" class="reference"><a href="#cite_note-Jersey-7">&#91;7&#93;</a></sup>
+</p><p>In 2018, American-based recruitment website <a href="/wiki/Indeed" title="Indeed">Indeed</a> named Nando's as the UK's sixth best private sector employer<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> based on millions of employee ratings and reviews.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Worldwide_locations">Worldwide locations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=2" title="Edit section: Worldwide locations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nandos_world_map.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nandos_world_map.png/220px-Nandos_world_map.png" decoding="async" width="220" height="102" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nandos_world_map.png/330px-Nandos_world_map.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nandos_world_map.png/440px-Nandos_world_map.png 2x" data-file-width="1357" data-file-height="628" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Nandos_world_map.png" class="internal" title="Enlarge"></a></div>Nando's locations worldwide</div></div></div>
+<p>Nando's has locations in five continents worldwide.<sup id="cite_ref-nandos_worldwide_3-1" class="reference"><a href="#cite_note-nandos_worldwide-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Africa">Africa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=3" title="Edit section: Africa">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nandos-Canal-Walk.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Nandos-Canal-Walk.jpg/220px-Nandos-Canal-Walk.jpg" decoding="async" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Nandos-Canal-Walk.jpg/330px-Nandos-Canal-Walk.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Nandos-Canal-Walk.jpg/440px-Nandos-Canal-Walk.jpg 2x" data-file-width="675" data-file-height="900" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Nandos-Canal-Walk.jpg" class="internal" title="Enlarge"></a></div>Nando's take-away in <a href="/wiki/Canal_Walk" title="Canal Walk">Canal Walk</a> Shopping Mall, Cape Town, South Africa (2006)</div></div></div>
+<h4><span class="mw-headline" id="South_Africa">South Africa</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=4" title="Edit section: South Africa">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_restaurants_in_South_Africa" title="List of restaurants in South Africa">List of restaurants in South Africa</a></div>
+<p>Fernando Duarte and his friend Robert Brozin are the founders of the first Nando's restaurant bought a joint previously called "ChickenLand" and renamed it Nando's. They opened it in 1987.<sup id="cite_ref-DT_Brown_2-2" class="reference"><a href="#cite_note-DT_Brown-2">&#91;2&#93;</a></sup><sup id="cite_ref-nandos_story_10-0" class="reference"><a href="#cite_note-nandos_story-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> By 1997, there were 105 Nando's restaurants in the country.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Botswana">Botswana</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=5" title="Edit section: Botswana">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Nando's has been operating in Botswana since 1993.<sup id="cite_ref-nandos_worldwide_3-2" class="reference"><a href="#cite_note-nandos_worldwide-3">&#91;3&#93;</a></sup> There are currently 17 restaurants in Botswana: 9 in Gaborone, 1 in Jwaneng, 1 in Maun, 2 in Francistown, 1 in Mahalapye, 1 in Palapye, 1 in Kasane and 1 in Letlhakane.
+</p>
+<h4><span class="mw-headline" id="Eswatini">Eswatini</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=6" title="Edit section: Eswatini">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>There are two outlets in Eswatini, in Mbabane and Manzini.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Mauritius">Mauritius</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=7" title="Edit section: Mauritius">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>There are four Nando's restaurants in Mauritius.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Namibia">Namibia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=8" title="Edit section: Namibia">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Nando's launched in Namibia in 1995.<sup id="cite_ref-nandos_worldwide_3-3" class="reference"><a href="#cite_note-nandos_worldwide-3">&#91;3&#93;</a></sup> Nando's closed all their restaurants in Namibia in 2018.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Zambia">Zambia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=9" title="Edit section: Zambia">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Nando's began operating in Zambia in 2002. Nando's has 50 restaurants in Zambia.<sup id="cite_ref-nandos_worldwide_3-4" class="reference"><a href="#cite_note-nandos_worldwide-3">&#91;3&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Zimbabwe">Zimbabwe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=10" title="Edit section: Zimbabwe">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In Zimbabwe, there are a total of 11 restaurants.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Asia">Asia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=11" title="Edit section: Asia">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nando%27s_Malasia.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Nando%27s_Malasia.jpg/220px-Nando%27s_Malasia.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Nando%27s_Malasia.jpg/330px-Nando%27s_Malasia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Nando%27s_Malasia.jpg/440px-Nando%27s_Malasia.jpg 2x" data-file-width="1000" data-file-height="667" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Nando%27s_Malasia.jpg" class="internal" title="Enlarge"></a></div>Nando's in <a href="/wiki/Penang" title="Penang">Penang</a>, Malaysia (2010)</div></div></div>
+<h4><span class="mw-headline" id="Bahrain">Bahrain</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=12" title="Edit section: Bahrain">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Nando's has five restaurants in Bahrain at present.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Bangladesh">Bangladesh</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=13" title="Edit section: Bangladesh">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Nando's has four restaurants in <a href="/wiki/Dhaka" title="Dhaka">Dhaka</a>, Bangladesh at present. First restaurant was opened in <a href="/wiki/Dhanmondi_Thana" title="Dhanmondi Thana">Dhanmondi</a> in 2007.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="India">India</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=14" title="Edit section: India">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Nando's opened restaurants in India in late 2010. As of February 2013<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Nando%27s&amp;action=edit">&#91;update&#93;</a></sup>, Nando's has restaurants in five cities.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>  Nando's plans additional expansion in India.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Malaysia">Malaysia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=15" title="Edit section: Malaysia">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Nando's has been established in Malaysia since 1998. As of February 2019, there were 76 restaurants operating throughout the country, with plans to operate 100 locations with about 2,000 employees within 4–5 years. The vast majority of the locations are centered around greater <a href="/wiki/Kuala_Lumpur" title="Kuala Lumpur">Kuala Lumpur</a>.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Pakistan">Pakistan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=16" title="Edit section: Pakistan">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Nando's has been established since 2001. It has currently ten restaurants nationwide. Nando's has outlets in Lahore, Karachi  Islamabad and Faisalabad.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Qatar">Qatar</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=17" title="Edit section: Qatar">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In Qatar, Nando's has been established since 2001, with the first restaurant located on Salwa Road.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Singapore">Singapore</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=18" title="Edit section: Singapore">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In Singapore, Nando's opened its first restaurant on 9 May 2010,<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> as of December 2015<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Nando%27s&amp;action=edit">&#91;update&#93;</a></sup> there are eleven outlets in Singapore.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Europe">Europe</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=19" title="Edit section: Europe">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Ireland">Ireland</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=20" title="Edit section: Ireland">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Nando's was first established in Ireland in 2008. The company opened its flagship restaurant on St Andrew Street in the city centre of Dublin in November 2011, employing 60 staff members to manage a  3,800 square feet (350&#160;m<sup>2</sup>) space spread over two floors.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> As of early 2015, they have expanded to a total of 10 outlets in Ireland.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="United_Kingdom">United Kingdom</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=21" title="Edit section: United Kingdom">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:White_Rose_Centre_Nandos.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/White_Rose_Centre_Nandos.jpg/220px-White_Rose_Centre_Nandos.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/White_Rose_Centre_Nandos.jpg/330px-White_Rose_Centre_Nandos.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/White_Rose_Centre_Nandos.jpg/440px-White_Rose_Centre_Nandos.jpg 2x" data-file-width="3648" data-file-height="2736" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:White_Rose_Centre_Nandos.jpg" class="internal" title="Enlarge"></a></div>Nando's Restaurant at the <a href="/wiki/White_Rose_Centre" title="White Rose Centre">White Rose Centre</a> in <a href="/wiki/Leeds" title="Leeds">Leeds</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></div></div></div>
+<p>Nando's opened its first UK restaurant in 1992 in the west London suburbs of <a href="/wiki/Ealing" title="Ealing">Ealing</a> and <a href="/wiki/Earls_Court" class="mw-redirect" title="Earls Court">Earls Court</a>, initially focusing on takeaway food.<sup id="cite_ref-DT_Brown_2-3" class="reference"><a href="#cite_note-DT_Brown-2">&#91;2&#93;</a></sup> The UK arm, owned by the Enthoven family via a private equity company, struggled until chairman Dick Enthoven put his son Robert in control. The focus then moved from takeaways to a mixed service (counter ordering and table service) model.<sup id="cite_ref-DT_Brown_2-4" class="reference"><a href="#cite_note-DT_Brown-2">&#91;2&#93;</a></sup> Branches also chose individual design and decor to move away from a restaurant-chain image. The company employs around 8,000 staff in the UK and, as of 2013, had over 280 branches in Great Britain and Northern Ireland, with some 60 serving food conforming with Muslim dietary laws (<a href="/wiki/Halal" title="Halal">halal</a>).<sup id="cite_ref-DT_Brown_2-5" class="reference"><a href="#cite_note-DT_Brown-2">&#91;2&#93;</a></sup>
+</p><p>In 2010, Nando's UK won the <i><a href="/wiki/Sunday_Times" class="mw-redirect" title="Sunday Times">Sunday Times</a>'</i>s best place to work award in the big company category.<sup id="cite_ref-Observer_Sawyer_33-0" class="reference"><a href="#cite_note-Observer_Sawyer-33">&#91;33&#93;</a></sup> Its sauces and marinades were also retailed in UK supermarkets.<sup id="cite_ref-Observer_Sawyer_33-1" class="reference"><a href="#cite_note-Observer_Sawyer-33">&#91;33&#93;</a></sup>
+</p><p>Nando's claims to have the largest collection of South African art in the UK, with over 5,000 works displayed in restaurants; original artworks are commissioned by the company.<sup id="cite_ref-Observer_Sawyer_33-2" class="reference"><a href="#cite_note-Observer_Sawyer-33">&#91;33&#93;</a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>
+</p><p>Nando's also sells food to take away, delivering in some locations.
+</p>
+<h3><span class="mw-headline" id="North_America">North America</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=22" title="Edit section: North America">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Canada">Canada</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=23" title="Edit section: Canada">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:NandosMarkham.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/NandosMarkham.jpg/220px-NandosMarkham.jpg" decoding="async" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/NandosMarkham.jpg/330px-NandosMarkham.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/NandosMarkham.jpg/440px-NandosMarkham.jpg 2x" data-file-width="4928" data-file-height="3264" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:NandosMarkham.jpg" class="internal" title="Enlarge"></a></div>Nando's in Canada</div></div></div>
+<p>Nando's has operated since 1994 in Canada, with branches in the provinces of British Columbia, Alberta and Ontario.<sup id="cite_ref-MCSA_Erasmus_35-0" class="reference"><a href="#cite_note-MCSA_Erasmus-35">&#91;35&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=24" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Nando's opened its first United States location in 2008 in <a href="/wiki/Washington,_D.C." title="Washington, D.C.">Washington, D.C.</a>  As of 2019<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Nando%27s&amp;action=edit">&#91;update&#93;</a></sup> Nando's had 42 restaurants in the US: 12 in Illinois, 6 in Washington, D.C., 14 in <a href="/wiki/Maryland" title="Maryland">Maryland</a>; and 10 in <a href="/wiki/Virginia" title="Virginia">Virginia</a>.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Oceania">Oceania</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=25" title="Edit section: Oceania">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Nando%27s,_Palmerston_North,_New_Zealand.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nando%27s%2C_Palmerston_North%2C_New_Zealand.JPG/220px-Nando%27s%2C_Palmerston_North%2C_New_Zealand.JPG" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nando%27s%2C_Palmerston_North%2C_New_Zealand.JPG/330px-Nando%27s%2C_Palmerston_North%2C_New_Zealand.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nando%27s%2C_Palmerston_North%2C_New_Zealand.JPG/440px-Nando%27s%2C_Palmerston_North%2C_New_Zealand.JPG 2x" data-file-width="4288" data-file-height="3216" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Nando%27s,_Palmerston_North,_New_Zealand.JPG" class="internal" title="Enlarge"></a></div>A Nando's franchise in <a href="/wiki/Palmerston_North" title="Palmerston North">Palmerston North, New Zealand</a>.</div></div></div>
+<h4><span class="mw-headline" id="Australia">Australia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=26" title="Edit section: Australia">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Nando's has been in the Australian marketplace since 1990, when the first restaurant opened in <a href="/wiki/Tuart_Hill,_Western_Australia" title="Tuart Hill, Western Australia">Tuart Hill</a> in Western Australia. As of 2013<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Nando%27s&amp;action=edit">&#91;update&#93;</a></sup> there were over 270 restaurants in Australia, with further growth planned.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup> Nando's Australia uses certified halal chicken throughout its chains.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup> However, they sell alcohol and bacon, which are not halal, in many restaurants.
+</p>
+<h4><span class="mw-headline" id="New_Zealand">New Zealand</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=27" title="Edit section: New Zealand">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Nando's opened their first store in <a href="/wiki/Glenfield,_New_Zealand" title="Glenfield, New Zealand">Glenfield</a> in 2000. As of February 2013<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Nando%27s&amp;action=edit">&#91;update&#93;</a></sup> there are 31 Nando's outlets in New Zealand.<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Controversies">Controversies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=28" title="Edit section: Controversies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Advertising">Advertising</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=29" title="Edit section: Advertising">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Australian_refugee_advertisement">Australian refugee advertisement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=30" title="Edit section: Australian refugee advertisement">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In Australia, Nando's ran an advertising campaign based around the 2002 political controversy regarding the <a href="/wiki/Immigration_detention_in_Australia" title="Immigration detention in Australia">mandatory detention of refugees</a>. The detainees had been waging a hunger strike campaign, even resorting to physically sewing their lips closed. Nando's adverts proclaimed that the strikers "decided to unsew their lips after hearing the news that with every Nando's quarter chicken combo, Nando's are giving away an extra quarter chicken free". Melbourne's Sphere Advertising said that the ad was designed to spark controversy, saying that they knew that "there's a section of our audience that's going to be uncomfortable... but we want to evoke a response".<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Malema_advertisement">Malema advertisement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=31" title="Edit section: Malema advertisement">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>During the South African national elections of 2009, Nando's made an advert lampooning <a href="/wiki/African_National_Congress_Youth_League" title="African National Congress Youth League">African National Congress Youth League</a> then president <a href="/wiki/Julius_Malema" title="Julius Malema">Julius Malema</a> by using a puppet that resembled him. Malema's lawyers sued Nando's and the original advert was removed. However, an altered version was released, with the puppet's face pixelated and the voice altered. The puppet used in the advert was later sold at auction for R100,000 which was donated to an educational charity.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Last_Dictator_advertisement">Last Dictator advertisement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=32" title="Edit section: Last Dictator advertisement">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In 2011 Nando's launched a "Last dictators" advert in South Africa.<sup id="cite_ref-last_dictator_spoof_commercial_43-0" class="reference"><a href="#cite_note-last_dictator_spoof_commercial-43">&#91;43&#93;</a></sup> The 60-second commercial shows a sad <a href="/wiki/Robert_Mugabe" title="Robert Mugabe">Robert Mugabe</a> dining alone at Christmas in a large mansion while he reminisces about "happier times" with former dictators, such as playing water tag with <a href="/wiki/Muammar_Gaddafi" title="Muammar Gaddafi">Muammar Gaddafi</a>, making snow angels in the sand with <a href="/wiki/Saddam_Hussein" title="Saddam Hussein">Saddam Hussein</a>, singing Karaoke with <a href="/wiki/Mao_Zedong" title="Mao Zedong">Mao Zedong</a>, pushing <a href="/wiki/P._W._Botha" title="P. W. Botha">P. W. Botha</a> on a swing set, and riding a British <a href="/wiki/Covenanter_tank" title="Covenanter tank">Covenanter cruiser tank</a> with <a href="/wiki/Idi_Amin" title="Idi Amin">Idi Amin</a> in a similar fashion to <a href="/wiki/Leonardo_DiCaprio" title="Leonardo DiCaprio">Leonardo DiCaprio</a> and <a href="/wiki/Kate_Winslet" title="Kate Winslet">Kate Winslet</a> embracing each other from the movie <i><a href="/wiki/Titanic_(1997_film)" title="Titanic (1997 film)">Titanic</a>,</i> while the music from "<a href="/wiki/Those_Were_the_Days_(song)" title="Those Were the Days (song)">Those Were the Days</a>" is played.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup> Musekiwa Kumbula, holder of the Nando's franchise in Zimbabwe, said his group "strongly feels the advertisement is insensitive and in poor taste". The advert also offended Chipangano, a Zimbabwean youth militia loyal to Mugabe, who then demanded an apology from Nando's, threatened to boycott the South Africa-based chain, and demanded the advert be withdrawn or the restaurant face retribution.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup> Nando's South Africa subsequently withdrew the advert citing threats to its staff in Zimbabwe from a youth group.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Corporation_tax_bill">Corporation tax bill</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=33" title="Edit section: Corporation tax bill">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Both <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i> newspaper (UK) and the American non-profit publication <i><a href="/wiki/ICIJ#International_Consortium_of_Investigative_Journalists" class="mw-redirect" title="ICIJ">ICIJ</a></i> received documents in July 2014 revealing the details of past and present offshore clients of wealth managers <a href="/wiki/Kleinwort_Benson" title="Kleinwort Benson">Kleinwort Benson</a>, including the Nando's restaurant group. <i>The Guardian</i> published its belief that, through the use of businesses in Malta, Guernsey and the Netherlands, Enthoven legally reduces the group's UK corporation tax bill by "up to a third". According to the British newspaper, Enthoven's profits eventually accumulate in the Kleinwort Benson-managed "Taro III Trust" that is based in <a href="/wiki/Jersey" title="Jersey">Jersey</a> and contains at least £750 million.<sup id="cite_ref-Jersey_7-1" class="reference"><a href="#cite_note-Jersey-7">&#91;7&#93;</a></sup>
+</p><p>While no member of the Enthoven family agreed to speak with <i>The Guardian</i>, a company representative explained that UK tax laws are not applicable to Enthoven, as "he is not resident in the US or the UK." The spokesperson also stated that, in the UK, Nando's paid corporation tax of £12.6 million on a profit of £58.2 million for the year ending February 2013.<sup id="cite_ref-Jersey_7-2" class="reference"><a href="#cite_note-Jersey-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=34" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Chicken_restaurant" class="mw-redirect" title="Chicken restaurant">Chicken restaurant</a></li>
+<li><a href="/wiki/List_of_fast-food_chicken_restaurants" class="mw-redirect" title="List of fast-food chicken restaurants">List of fast-food chicken restaurants</a></li>
+<li><a href="/wiki/Oporto_(restaurant)" title="Oporto (restaurant)">Oporto</a>&#160;– Australian-based Portuguese themed chicken restaurant</li>
+<li><a href="/wiki/TASTE_Holdings" title="TASTE Holdings">TASTE Holdings</a>&#160;– management group in which Chickenland (Pty) Ltd has significant shareholding</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=35" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.zoominfo.com/c/Nandos/57968578">"Nando's - Profile"</a>. Zoominfo.com<span class="reference-accessdate">. Retrieved <span class="nowrap">24 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nando%27s+-+Profile&amp;rft.pub=Zoominfo.com&amp;rft_id=https%3A%2F%2Fwww.zoominfo.com%2Fc%2FNandos%2F57968578&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-DT_Brown-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-DT_Brown_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DT_Brown_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-DT_Brown_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-DT_Brown_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-DT_Brown_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-DT_Brown_2-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Brown, Mick (11 March 2013). <a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/foodanddrink/restaurants/9902231/Nandos-nation-the-chicken-that-conquered-Britain.html">"Nando's nation: the chicken that conquered Britain"</a>. <i>The Daily Telegraph</i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Daily+Telegraph&amp;rft.atitle=Nando%27s+nation%3A+the+chicken+that+conquered+Britain&amp;rft.date=2013-03-11&amp;rft.aulast=Brown&amp;rft.aufirst=Mick&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Ffoodanddrink%2Frestaurants%2F9902231%2FNandos-nation-the-chicken-that-conquered-Britain.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-nandos_worldwide-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-nandos_worldwide_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nandos_worldwide_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-nandos_worldwide_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-nandos_worldwide_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-nandos_worldwide_3-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130413235142/http://www.nandos.com/nandos-worldwide">"Nando's Worldwide"</a>. Nando's. Archived from <a rel="nofollow" class="external text" href="http://www.nandos.com/nandos-worldwide">the original</a> on 13 April 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nando%27s+Worldwide&amp;rft.pub=Nando%27s&amp;rft_id=http%3A%2F%2Fwww.nandos.com%2Fnandos-worldwide&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">McCreesh, Louise. <a rel="nofollow" class="external text" href="https://www.bustle.com/p/who-founded-nandos-channel-5s-new-doc-is-lifting-the-lid-on-the-peri-peri-kingdom-9676079">"There's Nothing Cheeky About These Nando's Facts, Including Its HUGE Fan Base Overseas"</a>. <i>Bustle</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 May</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Bustle&amp;rft.atitle=There%27s+Nothing+Cheeky+About+These+Nando%27s+Facts%2C+Including+Its+HUGE+Fan+Base+Overseas&amp;rft.aulast=McCreesh&amp;rft.aufirst=Louise&amp;rft_id=https%3A%2F%2Fwww.bustle.com%2Fp%2Fwho-founded-nandos-channel-5s-new-doc-is-lifting-the-lid-on-the-peri-peri-kingdom-9676079&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-usa-today-2017-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-usa-today-2017_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Olmstead, Larry (10 August 2017). <a rel="nofollow" class="external text" href="https://www.usatoday.com/story/travel/columnist/greatamericanbites/2017/08/10/nandos-peri-peri-chicago-metro-dc/549414001/">"South Africa-based chicken chain does not disappoint in Chicago and D.C."</a> <i><a href="/wiki/USA_Today" title="USA Today">USA Today</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=USA+Today&amp;rft.atitle=South+Africa-based+chicken+chain+does+not+disappoint+in+Chicago+and+D.C.&amp;rft.date=2017-08-10&amp;rft.aulast=Olmstead&amp;rft.aufirst=Larry&amp;rft_id=https%3A%2F%2Fwww.usatoday.com%2Fstory%2Ftravel%2Fcolumnist%2Fgreatamericanbites%2F2017%2F08%2F10%2Fnandos-peri-peri-chicago-metro-dc%2F549414001%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://adage.com/globalnews/article?article_id=144404">"Marketing"</a>. Nando's<span class="reference-accessdate">. Retrieved <span class="nowrap">16 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Marketing&amp;rft.pub=Nando%27s&amp;rft_id=http%3A%2F%2Fadage.com%2Fglobalnews%2Farticle%3Farticle_id%3D144404&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Jersey-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Jersey_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Jersey_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Jersey_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">David Leigh, <a href="/wiki/James_Ball_(journalist)" title="James Ball (journalist)">James Ball</a> and Leila Haddou (10 July 2014). <a rel="nofollow" class="external text" href="https://www.theguardian.com/business/2014/jul/10/nandos-using-secretive-tax-haven-trust-avoid-inheritance-tax-bills?CMP=EMCNEWEML6619I2">"Nando's using secretive tax haven trust to avoid inheritance tax bills"</a>. <i>The Guardian</i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">12 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Nando%27s+using+secretive+tax+haven+trust+to+avoid+inheritance+tax+bills&amp;rft.date=2014-07-10&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2014%2Fjul%2F10%2Fnandos-using-secretive-tax-haven-trust-avoid-inheritance-tax-bills%3FCMP%3DEMCNEWEML6619I2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: uses authors parameter (<a href="/wiki/Category:CS1_maint:_uses_authors_parameter" title="Category:CS1 maint: uses authors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news">Taylor, Chloe (22 October 2018). <a rel="nofollow" class="external text" href="https://www.cnbc.com/2018/10/22/apple-named-best-private-sector-employer-in-the-uk.html">"Apple named best private sector employer in the UK"</a>. <i>CNBC</i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 October</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=CNBC&amp;rft.atitle=Apple+named+best+private+sector+employer+in+the+UK&amp;rft.date=2018-10-22&amp;rft.aulast=Taylor&amp;rft.aufirst=Chloe&amp;rft_id=https%3A%2F%2Fwww.cnbc.com%2F2018%2F10%2F22%2Fapple-named-best-private-sector-employer-in-the-uk.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://blog.indeed.co.uk/2018/10/22/top-rated-workplaces-private-sector/">"Top-Rated Workplaces: Best in the Private Sector – Indeed Blog"</a>. <i>Indeed Blog</i>. 22 October 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">25 October</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Indeed+Blog&amp;rft.atitle=Top-Rated+Workplaces%3A+Best+in+the+Private+Sector+%E2%80%93+Indeed+Blog&amp;rft.date=2018-10-22&amp;rft_id=http%3A%2F%2Fblog.indeed.co.uk%2F2018%2F10%2F22%2Ftop-rated-workplaces-private-sector%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-nandos_story-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-nandos_story_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nandos.com/our-story">"Nando's Story"</a>. Nando's<span class="reference-accessdate">. Retrieved <span class="nowrap">12 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nando%27s+Story&amp;rft.pub=Nando%27s&amp;rft_id=http%3A%2F%2Fwww.nandos.com%2Four-story&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Sawyer, Miranda (15 May 2010). <a rel="nofollow" class="external text" href="https://www.theguardian.com/lifeandstyle/2010/may/16/nandos-fast-food-chipmunk-tinchy">"How Nando's conquered Britain"</a>. <i>the Guardian</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=the+Guardian&amp;rft.atitle=How+Nando%27s+conquered+Britain&amp;rft.date=2010-05-15&amp;rft.aulast=Sawyer&amp;rft.aufirst=Miranda&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2F2010%2Fmay%2F16%2Fnandos-fast-food-chipmunk-tinchy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.economist.com/node/100999">"Johannesburgers and fries"</a>. <i>The Economist</i>. 25 September 1997<span class="reference-accessdate">. Retrieved <span class="nowrap">12 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Economist&amp;rft.atitle=Johannesburgers+and+fries&amp;rft.date=1997-09-25&amp;rft_id=http%3A%2F%2Fwww.economist.com%2Fnode%2F100999&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.rateyournandos.com/international/swaziland">"The Nando's Review Website"</a>. <i>rateyournandos.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=rateyournandos.com&amp;rft.atitle=The+Nando%27s+Review+Website&amp;rft_id=http%3A%2F%2Fwww.rateyournandos.com%2Finternational%2Fswaziland&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.yelo.mu/company/5511/nandos-mauritius">"Nandos Mauritius (Trianon, Mauritius)"</a>. Yelo.mu<span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nandos+Mauritius+%28Trianon%2C+Mauritius%29&amp;rft.pub=Yelo.mu&amp;rft_id=http%3A%2F%2Fwww.yelo.mu%2Fcompany%2F5511%2Fnandos-mauritius&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://nandos-port-louis.restaurant.mu/">"Nando's (Port Louis): Mauritius Restaurants"</a>. Nandos-port-louis.restaurant.mu<span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nando%27s+%28Port+Louis%29%3A+Mauritius+Restaurants&amp;rft.pub=Nandos-port-louis.restaurant.mu&amp;rft_id=http%3A%2F%2Fnandos-port-louis.restaurant.mu%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.mallofmauritius.com/tenant/nandos/">"Nando's: Bagatelle Mall of Mauritius"</a>. Mallofmauritius.com. 26 November 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nando%27s%3A+Bagatelle+Mall+of+Mauritius&amp;rft.pub=Mallofmauritius.com&amp;rft.date=2014-11-26&amp;rft_id=http%3A%2F%2Fwww.mallofmauritius.com%2Ftenant%2Fnandos%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://nandos-gblc.restaurant.mu/">"Nando's: GBLC"</a>. nandos=gblc.restaurent.mu. 4 April 2018<span class="reference-accessdate">. Retrieved <span class="nowrap">4 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nando%27s%3A+GBLC&amp;rft.pub=nandos%3Dgblc.restaurent.mu&amp;rft.date=2018-04-04&amp;rft_id=http%3A%2F%2Fnandos-gblc.restaurant.mu%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Brandt, Edgar. <a rel="nofollow" class="external text" href="https://neweralive.na/posts/nandos-withdrawal-from-namibia-unexplained">"Nando's withdrawal from Namibia unexplained – New Era Live"</a>. <i>neweralive.na</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 December</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=neweralive.na&amp;rft.atitle=Nando%E2%80%99s+withdrawal+from+Namibia+unexplained+%E2%80%93+New+Era+Live&amp;rft.aulast=Brandt&amp;rft.aufirst=Edgar&amp;rft_id=https%3A%2F%2Fneweralive.na%2Fposts%2Fnandos-withdrawal-from-namibia-unexplained&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web">Anonymous (24 April 2012). <a rel="nofollow" class="external text" href="http://www.nandos.co.zw/about-us">"About us"</a>. <i>nandos.co.zw</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=nandos.co.zw&amp;rft.atitle=About+us&amp;rft.date=2012-04-24&amp;rft.au=Anonymous&amp;rft_id=http%3A%2F%2Fwww.nandos.co.zw%2Fabout-us&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.nandos.com.bh/">"Nando's Bahrain"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 July</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nando%27s+Bahrain&amp;rft_id=https%3A%2F%2Fwww.nandos.com.bh%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.nandos.com.bd/">"Nando's Bangladesh"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">28 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nando%27s+Bangladesh&amp;rft_id=https%3A%2F%2Fwww.nandos.com.bd%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nandosindia.com/restaurants.html">"Nando's India"</a>. <i>Nandosindia.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">19 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nandosindia.com&amp;rft.atitle=Nando%27s+India&amp;rft_id=http%3A%2F%2Fwww.nandosindia.com%2Frestaurants.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://news.franchiseindia.com/franchise/Nando-s-plans-pan-India-expansion-2713/">"Nando's plans pan India expansion"</a>. Franchise India. 2 November 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nando%27s+plans+pan+India+expansion&amp;rft.pub=Franchise+India&amp;rft.date=2010-11-02&amp;rft_id=http%3A%2F%2Fnews.franchiseindia.com%2Ffranchise%2FNando-s-plans-pan-India-expansion-2713%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nandos.com.my/nandos_my/restaurants_lists">"Restaurants &#124; Nando's Malaysia"</a>. <i>Nandos.com.my</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nandos.com.my&amp;rft.atitle=Restaurants+%26%23124%3B+Nando%27s+Malaysia&amp;rft_id=http%3A%2F%2Fwww.nandos.com.my%2Fnandos_my%2Frestaurants_lists&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bfm.my/bg-mac-chung-lynn-ceo-nandos-malaysia-singapore-nandos-ceo-get-frank-on-lessons-learnt">"Nando's CEO gets frank on lessons learnt"</a>. <i>bfm.my</i>. 25 February 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">16 June</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=bfm.my&amp;rft.atitle=Nando%27s+CEO+gets+frank+on+lessons+learnt&amp;rft.date=2019-02-25&amp;rft_id=https%3A%2F%2Fwww.bfm.my%2Fbg-mac-chung-lynn-ceo-nandos-malaysia-singapore-nandos-ceo-get-frank-on-lessons-learnt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160309041023/https://nandospakistan.pk/">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="https://nandospakistan.pk/">the original</a> on 9 March 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">28 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=https%3A%2F%2Fnandospakistan.pk%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nandos.qa/about-us">"Nando's Qatar"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">14 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nando%27s+Qatar&amp;rft_id=http%3A%2F%2Fwww.nandos.qa%2Fabout-us&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nandos.com.sg/nandos_sg/about_us">"About Us &#124; Nando's Singapore"</a>. Nandos.com.sg<span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+Us+%26%23124%3B+Nando%27s+Singapore&amp;rft.pub=Nandos.com.sg&amp;rft_id=http%3A%2F%2Fwww.nandos.com.sg%2Fnandos_sg%2Fabout_us&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nandos.com.sg/nandos_sg/restaurants">"Restaurants &#124; Nando's Singapore"</a>. Nandos.com.sg<span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Restaurants+%26%23124%3B+Nando%27s+Singapore&amp;rft.pub=Nandos.com.sg&amp;rft_id=http%3A%2F%2Fwww.nandos.com.sg%2Fnandos_sg%2Frestaurants&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.rte.ie/news/2011/0810/304789-nandos/">"Nando's to create 65 jobs in Dublin"</a>. <i>RTÉ News</i>. 10 August 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">18 August</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=RT%C3%89+News&amp;rft.atitle=Nando%27s+to+create+65+jobs+in+Dublin&amp;rft.date=2011-08-10&amp;rft_id=http%3A%2F%2Fwww.rte.ie%2Fnews%2F2011%2F0810%2F304789-nandos%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web">Hugh O'Connell (1 November 2011). <a rel="nofollow" class="external text" href="http://businessetc.thejournal.ie/chicken-tastic-nandos-announces-60-new-jobs-in-dublin-268625-Nov2011/">"Chicken-tastic: Nandos announces 60 new jobs in Dublin"</a>. <i>Business ETC</i>. TheJournal.ie<span class="reference-accessdate">. Retrieved <span class="nowrap">18 August</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Business+ETC&amp;rft.atitle=Chicken-tastic%3A+Nandos+announces+60+new+jobs+in+Dublin&amp;rft.date=2011-11-01&amp;rft.au=Hugh+O%27Connell&amp;rft_id=http%3A%2F%2Fbusinessetc.thejournal.ie%2Fchicken-tastic-nandos-announces-60-new-jobs-in-dublin-268625-Nov2011%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nandos.ie/restaurants">"Restaurants &#124; Nando's"</a>. Nandos.ie<span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Restaurants+%26%23124%3B+Nando%27s&amp;rft.pub=Nandos.ie&amp;rft_id=http%3A%2F%2Fwww.nandos.ie%2Frestaurants&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Observer_Sawyer-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-Observer_Sawyer_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Observer_Sawyer_33-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Observer_Sawyer_33-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Sawyer, Miranda (16 May 2010). <a rel="nofollow" class="external text" href="https://www.theguardian.com/lifeandstyle/2010/may/16/nandos-fast-food-chipmunk-tinchy">"How Nando's conquered Britain"</a>. <i>The Observer</i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Observer&amp;rft.atitle=How+Nando%27s+conquered+Britain&amp;rft.date=2010-05-16&amp;rft.aulast=Sawyer&amp;rft.aufirst=Miranda&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2F2010%2Fmay%2F16%2Fnandos-fast-food-chipmunk-tinchy&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121218042638/http://nandos.co.uk/africanart">"African Art"</a>. Nando's. Archived from <a rel="nofollow" class="external text" href="http://www.nandos.co.uk/africanart">the original</a> on 18 December 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=African+Art&amp;rft.pub=Nando%27s&amp;rft_id=http%3A%2F%2Fwww.nandos.co.uk%2Fafricanart&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-MCSA_Erasmus-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-MCSA_Erasmus_35-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Erasmus, Janine (17 July 2008). <a rel="nofollow" class="external text" href="http://www.mediaclubsouthafrica.com/index.php?option=com_content&amp;view=article&amp;id=569:nandos-us-170708&amp;catid=45:economy_news&amp;Itemid=114">"Nando's blazes into US"</a>. Media Club South Africa<span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Nando%27s+blazes+into+US&amp;rft.date=2008-07-17&amp;rft.aulast=Erasmus&amp;rft.aufirst=Janine&amp;rft_id=http%3A%2F%2Fwww.mediaclubsouthafrica.com%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D569%3Anandos-us-170708%26catid%3D45%3Aeconomy_news%26Itemid%3D114&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.nandosperiperi.com/eat/restaurants/all">"Nando's – Our Restaurants"</a>. Nando's USA<span class="reference-accessdate">. Retrieved <span class="nowrap">17 April</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nando%27s+%E2%80%93+Our+Restaurants&amp;rft.pub=Nando%27s+USA&amp;rft_id=https%3A%2F%2Fwww.nandosperiperi.com%2Feat%2Frestaurants%2Fall&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nandos.com.au/about-us">"Nando's: About Us"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 March</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nando%27s%3A+About+Us&amp;rft_id=http%3A%2F%2Fwww.nandos.com.au%2Fabout-us&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nandos.com.au/restaurants">"Nando's Restaurants near Melbourne"</a>. Nando's Australia<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Nando%27s+Restaurants+near+Melbourne&amp;rft.pub=Nando%27s+Australia&amp;rft_id=http%3A%2F%2Fwww.nandos.com.au%2Frestaurants&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nandos.com.au/faq-page">"Burning with Curiosity? &#124; Flame-grilled PERi-PERi chicken restaurants &#124; Nando's Australia"</a>. Nandos.com.au<span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Burning+with+Curiosity%3F+%26%23124%3B+Flame-grilled+PERi-PERi+chicken+restaurants+%26%23124%3B+Nando%27s+Australia&amp;rft.pub=Nandos.com.au&amp;rft_id=http%3A%2F%2Fwww.nandos.com.au%2Ffaq-page&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.franchise.co.nz/article/1874-new-stores-open-as-nando-s-sold-back-to-australia">"New stores open as Nando's sold back to Australia"</a> <span class="cs1-format">(Media release)</span>. <i>Franchise New Zealand</i>. Franchise New Zealand. 3 April 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">15 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Franchise+New+Zealand&amp;rft.atitle=New+stores+open+as+Nando%27s+sold+back+to+Australia&amp;rft.date=2014-04-03&amp;rft_id=http%3A%2F%2Fwww.franchise.co.nz%2Farticle%2F1874-new-stores-open-as-nando-s-sold-back-to-australia&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation news">Gotting, Peter (29 July 2002). <a rel="nofollow" class="external text" href="http://www.theage.com.au/articles/2002/07/28/1027818485483.html">"Asylum seekers' plight used to peddle chickens"</a>. <i>The Age</i>. Melbourne<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Age&amp;rft.atitle=Asylum+seekers%27+plight+used+to+peddle+chickens&amp;rft.date=2002-07-29&amp;rft.au=Gotting%2C+Peter&amp;rft_id=http%3A%2F%2Fwww.theage.com.au%2Farticles%2F2002%2F07%2F28%2F1027818485483.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web">Karyn Maughan (7 May 2009). <a rel="nofollow" class="external text" href="http://www.iol.co.za/index.php?from=rss_South%20Africa&amp;set_id=1&amp;click_id=13&amp;art_id=nw20090507105043840C186257">"Julius puppet finds new home"</a>. IOL News<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Julius+puppet+finds+new+home&amp;rft.pub=IOL+News&amp;rft.date=2009-05-07&amp;rft.au=Karyn+Maughan&amp;rft_id=http%3A%2F%2Fwww.iol.co.za%2Findex.php%3Ffrom%3Drss_South%2520Africa%26set_id%3D1%26click_id%3D13%26art_id%3Dnw20090507105043840C186257&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-last_dictator_spoof_commercial-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-last_dictator_spoof_commercial_43-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Rotherham, Seth (24 November 2011). <a rel="nofollow" class="external text" href="http://www.2oceansvibe.com/2011/11/24/nandos-releases-last-dictator-spoof-commercial-feat-mugabe-gaddafi-and-hussein/">"Nando's Releases 'Last Dictator' Commercial, Feat. Mugabe, Gaddafi And Hussein"</a>. <i>2OceansVibe</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=2OceansVibe&amp;rft.atitle=Nando%27s+Releases+%27Last+Dictator%27+Commercial%2C+Feat.+Mugabe%2C+Gaddafi+And+Hussein&amp;rft.date=2011-11-24&amp;rft.au=Rotherham%2C+Seth&amp;rft_id=http%3A%2F%2Fwww.2oceansvibe.com%2F2011%2F11%2F24%2Fnandos-releases-last-dictator-spoof-commercial-feat-mugabe-gaddafi-and-hussein%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=FyJh1Kyl184"><span class="plainlinks">Nando's – Last Dictator Standing – 2012</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation news">Shaw, Angus (30 November 2011). <a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/media/advertising/last-dictator-spoof-angers-mugabe-faithful-6269818.html">"<span class="cs1-kern-left">'</span>Last dictator' spoof angers Mugabe faithful"</a>. <i>The Independent</i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Independent&amp;rft.atitle=%27Last+dictator%27+spoof+angers+Mugabe+faithful&amp;rft.date=2011-11-30&amp;rft.au=Shaw%2C+Angus&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fmedia%2Fadvertising%2Flast-dictator-spoof-angers-mugabe-faithful-6269818.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/world-africa-16002239">"Nando's 'Mugabe' ad causes controversy in South Africa"</a>. BBC News. 2 December 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">20 December</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Nando%27s+%27Mugabe%27+ad+causes+controversy+in+South+Africa&amp;rft.date=2011-12-02&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fworld-africa-16002239&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANando%27s" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nando%27s&amp;action=edit&amp;section=36" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Nando%27s" class="extiw" title="commons:Category:Nando&#39;s">Nando's</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.nandos.com">Official website</a></span></span> – (global)</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Chicken-based_restaurant_chains" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Chicken_chains" title="Template:Chicken chains"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Chicken_chains" title="Template talk:Chicken chains"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Chicken_chains&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Chicken-based_restaurant_chains" style="font-size:114%;margin:0 4em">Chicken-based restaurant chains</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Global</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Buffalo%27s_Cafe" title="Buffalo&#39;s Cafe">Buffalo's Cafe</a></li>
+<li><a href="/wiki/Chester%27s_International" title="Chester&#39;s International">Chester's</a></li>
+<li><a href="/wiki/Chicken_Cottage" title="Chicken Cottage">Chicken Cottage</a></li>
+<li><a href="/wiki/Church%27s_Chicken" title="Church&#39;s Chicken">Church's / Texas Chicken</a></li>
+<li><a href="/wiki/Dixy_Chicken" title="Dixy Chicken">Dixy Chicken</a></li>
+<li><a href="/wiki/Jollibee" title="Jollibee">Jollibee</a></li>
+<li><a href="/wiki/Kenny_Rogers_Roasters" title="Kenny Rogers Roasters">Kenny Rogers Roasters</a></li>
+<li><a href="/wiki/KFC" title="KFC">KFC</a></li>
+<li><a class="mw-selflink selflink">Nando's</a></li>
+<li><a href="/wiki/Pollo_Campero" title="Pollo Campero">Pollo Campero</a></li>
+<li><a href="/wiki/Popeyes" title="Popeyes">Popeyes</a></li>
+<li><a href="/wiki/Southern_Fried_Chicken" class="mw-redirect" title="Southern Fried Chicken">Southern Fried Chicken</a></li>
+<li><a href="/wiki/Wienerwald_(restaurant)" title="Wienerwald (restaurant)">Wienerwald</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Africa</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chicken_Licken_(restaurant)" title="Chicken Licken (restaurant)">Chicken Licken</a> (ZA)</li>
+<li><a href="/wiki/Chicken_Republic" title="Chicken Republic">Chicken Republic</a> (NG)</li>
+<li><a href="/wiki/Tastee_Fried_Chicken" title="Tastee Fried Chicken">Tastee Fried Chicken</a> (NG)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Asia</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/4_Fingers_Crispy_Chicken" class="mw-redirect" title="4 Fingers Crispy Chicken">4 Fingers Crispy Chicken</a> (SG)</li>
+<li><a href="/wiki/Albaik" title="Albaik">Albaik</a> (SA)</li>
+<li><a href="/wiki/Al_Tazaj" title="Al Tazaj">Al Tazaj</a> (SA)</li>
+<li><a href="/wiki/Bacolod_Chicken_Inasal" title="Bacolod Chicken Inasal">Bacolod Chicken Inasal</a> (PH)</li>
+<li><a href="/wiki/Bonchon_Chicken" title="Bonchon Chicken">Bonchon Chicken</a> (KR)</li>
+<li><a href="/wiki/California_Fried_Chicken" title="California Fried Chicken">California Fried Chicken</a> (ID)</li>
+<li><a href="/wiki/The_Chicken_Rice_Shop" title="The Chicken Rice Shop">The Chicken Rice Shop</a> (MY)</li>
+<li><a href="/wiki/Dicos" title="Dicos">Dicos</a> (CN)</li>
+<li><a href="/wiki/Home_Original_Chicken" title="Home Original Chicken">Home Original Chicken</a> (CN)</li>
+<li><a href="/wiki/KLG_(restaurant_chain)" title="KLG (restaurant chain)">KLG</a> (TW)</li>
+<li><a href="/wiki/Kyochon" title="Kyochon">Kyochon</a> (KR)</li>
+<li><a href="/wiki/Mang_Inasal" title="Mang Inasal">Mang Inasal</a> (PH)</li>
+<li><a href="/wiki/Marrybrown" title="Marrybrown">Marrybrown</a> (MY)</li>
+<li><a href="/wiki/Max%27s_of_Manila" class="mw-redirect" title="Max&#39;s of Manila">Max's of Manila</a> (PH)</li>
+<li><a href="/wiki/Nene_Chicken" title="Nene Chicken">Nene Chicken</a> (KR)</li>
+<li><a href="/wiki/Pelicana_Chicken" title="Pelicana Chicken">Pelicana Chicken</a> (KR)</li>
+<li><a href="/wiki/SCR_(restaurant)" title="SCR (restaurant)">SCR</a> (MY)</li>
+<li><a href="/wiki/TKK_Fried_Chicken" title="TKK Fried Chicken">TKK Fried Chicken</a> (TW)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Europe</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chicken_Cottage" title="Chicken Cottage">Chicken Cottage</a> (UK)</li>
+<li><a href="/wiki/Dixy_Chicken" title="Dixy Chicken">Dixy Chicken</a> (UK)</li>
+<li><a href="/wiki/Morley%27s" title="Morley&#39;s">Morley's</a> (UK)</li>
+<li><a href="/wiki/Sam%27s_Chicken" title="Sam&#39;s Chicken">Sam's Chicken</a> (UK)</li>
+<li><a href="/wiki/Southern_Fried_Chicken_(franchise)" class="mw-redirect" title="Southern Fried Chicken (franchise)">Southern Fried Chicken</a> (UK)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">North America</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boston_Market" title="Boston Market">Boston Market</a></li>
+<li><a href="/wiki/Bojangles%27_Famous_Chicken_%27n_Biscuits" title="Bojangles&#39; Famous Chicken &#39;n Biscuits">Bojangles'</a> (US)</li>
+<li><a href="/wiki/Brown%27s_Chicken_%26_Pasta" title="Brown&#39;s Chicken &amp; Pasta">Brown's Chicken &amp; Pasta</a> (US)</li>
+<li><a href="/wiki/Buffalo_Wild_Wings" title="Buffalo Wild Wings">Buffalo Wild Wings</a></li>
+<li><a href="/wiki/Buffalo_Wings_%26_Rings" title="Buffalo Wings &amp; Rings">Buffalo Wings &amp; Rings</a></li>
+<li><a href="/wiki/Bush%27s_Chicken" title="Bush&#39;s Chicken">Bush's Chicken</a> (US)</li>
+<li><a href="/wiki/Chefette" title="Chefette">Chefette</a> (BB)</li>
+<li><a href="/wiki/Chick-fil-A" title="Chick-fil-A">Chick-fil-A</a> (US)</li>
+<li><a href="/wiki/Chicken_Express" title="Chicken Express">Chicken Express</a> (US)</li>
+<li><a href="/wiki/Chicken_in_the_Rough" title="Chicken in the Rough">Chicken in the Rough</a> (US)</li>
+<li><a href="/wiki/Chicken_Salad_Chick" title="Chicken Salad Chick">Chicken Salad Chick</a> (US)</li>
+<li><a href="/wiki/Cluck-U_Chicken" title="Cluck-U Chicken">Cluck-U</a> (US)</li>
+<li><a href="/wiki/Dixie_Lee_Fried_Chicken" title="Dixie Lee Fried Chicken">Dixie Lee</a> (CA)</li>
+<li><a href="/wiki/El_Pollo_Loco" title="El Pollo Loco">El Pollo Loco</a> (<a href="/wiki/El_Pollo_Loco_(United_States)" title="El Pollo Loco (United States)">US</a>/<a href="/wiki/El_Pollo_Loco_(Mexico)" title="El Pollo Loco (Mexico)">MX</a>)</li>
+<li><a href="/wiki/Foosackly%27s" title="Foosackly&#39;s">Foosackly's</a> (US)</li>
+<li><a href="/wiki/Golden_Chick" title="Golden Chick">Golden Chick</a> (US)</li>
+<li><a href="/wiki/Golden_Skillet" title="Golden Skillet">Golden Skillet</a> (US)</li>
+<li><a href="/wiki/Guthrie%27s" title="Guthrie&#39;s">Guthrie's</a></li>
+<li><a href="/wiki/Hen_House_Restaurants" title="Hen House Restaurants">Hen House Restaurants</a></li>
+<li><a href="/wiki/Harold%27s_Chicken_Shack" title="Harold&#39;s Chicken Shack">Harold's Chicken Shack</a></li>
+<li><a href="/wiki/Hartz_Chicken" title="Hartz Chicken">Hartz Chicken</a></li>
+<li><a href="/wiki/Juan_Pollo" title="Juan Pollo">Juan Pollo</a> (US)</li>
+<li><a href="/wiki/Kyochon" title="Kyochon">Kyochon</a></li>
+<li><a href="/wiki/Lee%27s_Famous_Recipe_Chicken" title="Lee&#39;s Famous Recipe Chicken">Lee's Famous</a></li>
+<li><a href="/wiki/Louisiana_Famous_Fried_Chicken" title="Louisiana Famous Fried Chicken">Louisiana Famous Fried Chicken</a></li>
+<li><a href="/wiki/Mary_Brown%27s" title="Mary Brown&#39;s">Mary Brown's</a> (CA)</li>
+<li><a href="/wiki/Mrs._Winner%27s_Chicken_%26_Biscuits" title="Mrs. Winner&#39;s Chicken &amp; Biscuits">Mrs. Winner's</a></li>
+<li>PDQ (US)</li>
+<li><a href="/wiki/Pioneer_Chicken" title="Pioneer Chicken">Pioneer Chicken</a></li>
+<li><a href="/wiki/Taco_Palenque" title="Taco Palenque">Pollo Palenque</a></li>
+<li><a href="/wiki/Pollo_Tropical" title="Pollo Tropical">Pollo Tropical</a> (US)</li>
+<li><a href="/wiki/Quaker_Steak_%26_Lube" title="Quaker Steak &amp; Lube">Quaker Steak &amp; Lube</a></li>
+<li><a href="/wiki/Raising_Cane%27s_Chicken_Fingers" title="Raising Cane&#39;s Chicken Fingers">Raising Cane's</a> (US)</li>
+<li><a href="/wiki/Ranch_One" title="Ranch One">Ranch One</a></li>
+<li><a href="/wiki/Roscoe%27s_House_of_Chicken_and_Waffles" title="Roscoe&#39;s House of Chicken and Waffles">Roscoe's</a></li>
+<li><a href="/wiki/Roy_Rogers_Restaurants" title="Roy Rogers Restaurants">Roy Rogers</a> (US)</li>
+<li><a href="/wiki/Royal_Castle_(restaurant)" title="Royal Castle (restaurant)">Royal Castle</a> (TT)</li>
+<li><a href="/wiki/Scores_(restaurant)" title="Scores (restaurant)">Scores</a></li>
+<li><a href="/wiki/Smithfield%27s_Chicken_%27N_Bar-B-Q" title="Smithfield&#39;s Chicken &#39;N Bar-B-Q">Smithfield's</a> (US)</li>
+<li><a href="/wiki/St-Hubert" title="St-Hubert">St-Hubert</a> (CA)</li>
+<li><a href="/wiki/Swiss_Chalet" title="Swiss Chalet">Swiss Chalet</a> (CA)</li>
+<li><a href="/wiki/Tip-Top_Restaurant" title="Tip-Top Restaurant">Tip-Top</a></li>
+<li><a href="/wiki/White_Fence_Farm" title="White Fence Farm">White Fence Farm</a></li>
+<li><a href="/wiki/Wild_Wing_Restaurants" title="Wild Wing Restaurants">Wild Wing</a></li>
+<li><a href="/wiki/Wing_Zone" title="Wing Zone">Wing Zone</a> (US)</li>
+<li><a href="/wiki/Wingstop" title="Wingstop">Wingstop</a></li>
+<li><a href="/wiki/WingStreet" title="WingStreet">WingStreet</a></li>
+<li><a href="/wiki/Zankou_Chicken" title="Zankou Chicken">Zankou Chicken</a> (US)</li>
+<li><a href="/wiki/Zaxby%27s" title="Zaxby&#39;s">Zaxby's</a> (US)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Oceania</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chicken_Treat" title="Chicken Treat">Chicken Treat</a> (AU)</li>
+<li><a href="/wiki/Chooks_Fresh_%26_Tasty" title="Chooks Fresh &amp; Tasty">Chooks Fresh &amp; Tasty</a> (AU)</li>
+<li><a href="/wiki/Oporto_(restaurant)" title="Oporto (restaurant)">Oporto</a> (AU)</li>
+<li><a href="/wiki/Red_Rooster" title="Red Rooster">Red Rooster</a> (AU)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">South and<br />Central America</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pollos_Frisby" title="Pollos Frisby">Pollos Frisby</a> (CO)</li>
+<li><a href="/wiki/Rostipollos" title="Rostipollos">Rostipollos</a> (CR)</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/List_of_chicken_restaurants" title="List of chicken restaurants">List of chicken restaurants</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Food_chains_in_Australia" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Food_chains_in_Australia" title="Template:Food chains in Australia"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Food_chains_in_Australia" title="Template talk:Food chains in Australia"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Food_chains_in_Australia&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Food_chains_in_Australia" style="font-size:114%;margin:0 4em">Food chains in Australia</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Casual_dining" class="mw-redirect" title="Casual dining">Casual dining</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hog%27s_Australia%27s_Steakhouse" title="Hog&#39;s Australia&#39;s Steakhouse">Hog's Breath Café</a></li>
+<li><a href="/wiki/La_Porchetta" title="La Porchetta">La Porchetta</a></li>
+<li><a class="mw-selflink selflink">Nando's</a></li>
+<li><a href="/wiki/Pancake_Parlour" title="Pancake Parlour">Pancake Parlour</a></li>
+<li><a href="/wiki/Sizzler_International" class="mw-redirect" title="Sizzler International">Sizzler</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fast_food" title="Fast food">Fast food</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bing_Boy" title="Bing Boy">Bing Boy</a></li>
+<li><a href="/wiki/Boost_Juice" title="Boost Juice">Boost Juice</a></li>
+<li><a href="/wiki/Bucking_Bull" title="Bucking Bull">Bucking Bull</a></li>
+<li><a href="/wiki/Burger_Urge" title="Burger Urge">Burger Urge</a></li>
+<li><a href="/wiki/Carl%27s_Jr." title="Carl&#39;s Jr.">Carl's Jr.</a></li>
+<li><a href="/wiki/Chicken_Treat" title="Chicken Treat">Chicken Treat</a></li>
+<li><a href="/wiki/Chooks_Fresh_%26_Tasty" title="Chooks Fresh &amp; Tasty">Chooks Fresh &amp; Tasty</a></li>
+<li><a href="/wiki/Domino%27s_Pizza_Enterprises" title="Domino&#39;s Pizza Enterprises">Domino's Pizza</a></li>
+<li><a href="/wiki/Eagle_Boys" title="Eagle Boys">Eagle Boys</a></li>
+<li><a href="/wiki/Fast_Eddys" title="Fast Eddys">Fast Eddys</a></li>
+<li><a href="/wiki/Grill%27d" title="Grill&#39;d">Grill'd</a></li>
+<li><a href="/wiki/Guzman_y_Gomez" title="Guzman y Gomez">Guzman y Gomez</a></li>
+<li><a href="/wiki/Hungry_Jack%27s" title="Hungry Jack&#39;s">Hungry Jack's</a> (<a href="/wiki/Burger_King" title="Burger King">Burger King</a>)</li>
+<li><a href="/wiki/KFC" title="KFC">KFC</a></li>
+<li><a href="/wiki/Mad_Mex_Fresh_Mexican_Grill" title="Mad Mex Fresh Mexican Grill">Mad Mex Fresh Mexican Grill</a></li>
+<li><a href="/wiki/McDonald%27s" title="McDonald&#39;s">McDonald's</a></li>
+<li><a href="/wiki/Noodle_Box" title="Noodle Box">Noodle Box</a></li>
+<li><a href="/wiki/Oporto_(restaurant)" title="Oporto (restaurant)">Oporto</a></li>
+<li><a href="/wiki/Pizza_Capers" class="mw-redirect" title="Pizza Capers">Pizza Capers</a></li>
+<li><a href="/wiki/Pizza_Haven_(Australia)" title="Pizza Haven (Australia)">Pizza Haven</a></li>
+<li><a href="/wiki/Pizza_Showtime" title="Pizza Showtime">Pizza Showtime</a></li>
+<li><a href="/wiki/Red_Rooster" title="Red Rooster">Red Rooster</a></li>
+<li><a href="/wiki/Salsa%27s_Fresh_Mex_Grill" title="Salsa&#39;s Fresh Mex Grill">Salsa's Fresh Mex Grill</a></li>
+<li><a href="/wiki/Spudbar" title="Spudbar">Spudbar</a></li>
+<li><a href="/wiki/Sumo_Salad" title="Sumo Salad">Sumo Salad</a></li>
+<li><a href="/wiki/Schnitz" title="Schnitz">Schnitz</a></li>
+<li><a href="/wiki/Uncle_Tony%27s_Kebabs" title="Uncle Tony&#39;s Kebabs">Uncle Tony's Kebabs</a></li>
+<li><a href="/wiki/Zambrero" title="Zambrero">Zambrero</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bakery" title="Bakery">Baked goods</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Donut_King" title="Donut King">Donut King</a></li>
+<li><a href="/wiki/Bakers_Delight" title="Bakers Delight">Bakers Delight</a></li>
+<li><a href="/wiki/Breadtop" title="Breadtop">Breadtop</a></li>
+<li><a href="/wiki/Brumby%27s_Bakeries" title="Brumby&#39;s Bakeries">Brumby's Bakeries</a></li>
+<li><a href="/wiki/Krispy_Kreme" title="Krispy Kreme">Krispy Kreme</a></li>
+<li><a href="/wiki/Pie_Face" title="Pie Face">Pie Face</a></li>
+<li><a href="/wiki/Subway_(restaurant)" title="Subway (restaurant)">Subway</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Coffeehouse" title="Coffeehouse">Coffeehouses</a> and <a href="/wiki/Tea_room" class="mw-redirect" title="Tea room">tea rooms</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/The_Coffee_Club" title="The Coffee Club">The Coffee Club</a></li>
+<li><a href="/wiki/D%C3%B4me_(coffeehouse)" title="Dôme (coffeehouse)">Dôme</a></li>
+<li><a href="/wiki/Gloria_Jean%27s_Coffees" title="Gloria Jean&#39;s Coffees">Gloria Jean's Coffees</a></li>
+<li><a href="/wiki/Hudsons_Coffee" title="Hudsons Coffee">Hudsons Coffee</a></li>
+<li><a href="/wiki/Jamaica_Blue" title="Jamaica Blue">Jamaica Blue</a></li>
+<li><a href="/wiki/McCaf%C3%A9" title="McCafé">McDonald's McCafé</a></li>
+<li><a href="/wiki/Michel%27s_Patisserie" title="Michel&#39;s Patisserie">Michel's Patisserie</a></li>
+<li><a href="/wiki/Muffin_Break" title="Muffin Break">Muffin Break</a></li>
+<li><a href="/wiki/Muzz_Buzz" title="Muzz Buzz">Muzz Buzz</a></li>
+<li><a href="/wiki/Shingle_Inn" title="Shingle Inn">Shingle Inn</a></li>
+<li><a href="/wiki/Starbucks" title="Starbucks">Starbucks Coffee</a></li>
+<li><a href="/wiki/Vittoria_Coffee" title="Vittoria Coffee">Vittoria Coffee</a></li>
+<li><a href="/wiki/Zarraffas_Coffee" title="Zarraffas Coffee">Zarraffas Coffee</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dairy_food" class="mw-redirect" title="Dairy food">Dairy</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baskin-Robbins_Australia" title="Baskin-Robbins Australia">Baskin-Robbins</a></li>
+<li><a href="/wiki/Ben_%26_Jerry%27s" title="Ben &amp; Jerry&#39;s">Ben &amp; Jerry's</a></li>
+<li><a href="/wiki/Cold_Rock_Ice_Creamery" title="Cold Rock Ice Creamery">Cold Rock Ice Creamery</a></li>
+<li><a href="/wiki/Mr_Whippy" title="Mr Whippy">Mr Whippy</a></li>
+<li><a href="/wiki/Wendy%27s_Supa_Sundaes" title="Wendy&#39;s Supa Sundaes">Wendy's Supa Sundaes</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><a href="/wiki/List_of_restaurants_in_Australia" title="List of restaurants in Australia">List of restaurants in Australia</a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Restaurant_chains_in_Ireland" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Food_chains_in_Ireland" title="Template:Food chains in Ireland"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Food_chains_in_Ireland" title="Template talk:Food chains in Ireland"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Food_chains_in_Ireland&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Restaurant_chains_in_Ireland" style="font-size:114%;margin:0 4em"><a href="/wiki/Restaurant_chains_in_Ireland" class="mw-redirect" title="Restaurant chains in Ireland">Restaurant chains in Ireland</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Coffeehouse" title="Coffeehouse">Coffeehouse</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AMT_Coffee" title="AMT Coffee">AMT Coffee</a></li>
+<li><a href="/wiki/Butlers_Chocolates" title="Butlers Chocolates">Butlers Chocolate Café</a></li>
+<li><a href="/wiki/Caff%C3%A8_Nero" title="Caffè Nero">Caffè Nero</a></li>
+<li><a href="/wiki/Caff%C3%A8_Ritazza" title="Caffè Ritazza">Caffè Ritazza</a></li>
+<li><a href="/wiki/Costa_Coffee" title="Costa Coffee">Costa Coffee</a></li>
+<li><a href="/wiki/Esquires" title="Esquires">Esquires</a></li>
+<li><a href="/wiki/Gloria_Jean%27s" class="mw-redirect" title="Gloria Jean&#39;s">Gloria Jean's</a></li>
+<li><a href="/wiki/Insomnia_Coffee_Company" title="Insomnia Coffee Company">Insomnia Coffee Company</a></li>
+<li><a href="/wiki/Starbucks" title="Starbucks">Starbucks</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fast_food_restaurant" title="Fast food restaurant">Fast food restaurants</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abrakebabra" title="Abrakebabra">Abrakebabra</a></li>
+<li><a href="/wiki/Apache_Pizza" title="Apache Pizza">Apache Pizza</a></li>
+<li><a href="/wiki/Burger_King" title="Burger King">Burger King</a></li>
+<li><a href="/wiki/Domino%27s_Pizza" title="Domino&#39;s Pizza">Domino's Pizza</a></li>
+<li><a href="/wiki/Freshly_Chopped" title="Freshly Chopped">Freshly Chopped</a></li>
+<li><a href="/wiki/Four_Star_Pizza" title="Four Star Pizza">Four Star Pizza</a></li>
+<li><a href="/wiki/KFC" title="KFC">KFC</a></li>
+<li><a href="/wiki/McDonald%27s" title="McDonald&#39;s">McDonald's</a></li>
+<li><a href="/wiki/Supermac%27s" title="Supermac&#39;s">Supermac's</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Types_of_restaurants" title="Types of restaurants">Casual dining</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/The_Counter" title="The Counter">The Counter</a></li>
+<li><a href="/wiki/Eddie_Rocket%27s" title="Eddie Rocket&#39;s">Eddie Rocket's</a></li>
+<li><a href="/wiki/Gourmet_Burger_Kitchen" title="Gourmet Burger Kitchen">Gourmet Burger Kitchen</a></li>
+<li><a href="/wiki/Hard_Rock_Cafe" title="Hard Rock Cafe">Hard Rock Café</a></li>
+<li><a href="/wiki/Harry_Ramsden%27s" title="Harry Ramsden&#39;s">Harry Ramsden's</a></li>
+<li><a href="/wiki/Leo_Burdock" title="Leo Burdock">Leo Burdock</a></li>
+<li><a href="/wiki/Mao_(restaurant_chain)" title="Mao (restaurant chain)">MAO</a></li>
+<li><a href="/wiki/PizzaExpress" title="PizzaExpress">Milano</a></li>
+<li><a class="mw-selflink selflink">Nando's</a></li>
+<li><a href="/wiki/Pizza_Hut" title="Pizza Hut">Pizza Hut</a></li>
+<li><a href="/wiki/T.G.I._Friday%27s" class="mw-redirect" title="T.G.I. Friday&#39;s">T.G.I. Friday's</a></li>
+<li><a href="/wiki/Wagamama" title="Wagamama">Wagamama</a></li>
+<li><a href="/wiki/Zizzi" title="Zizzi">Zizzi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sandwich" title="Sandwich">Sandwich shops</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/O%27Briens_Irish_Sandwich_Bars" title="O&#39;Briens Irish Sandwich Bars">O'Briens</a></li>
+<li><a href="/wiki/Quiznos" title="Quiznos">Quiznos</a></li>
+<li><a href="/wiki/Subway_(restaurant)" title="Subway (restaurant)">Subway</a></li>
+<li><a href="/wiki/Upper_Crust_(restaurant_chain)" title="Upper Crust (restaurant chain)">Upper Crust</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Food_chains_in_the_United_Kingdom" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Food_chains_in_the_United_Kingdom" title="Template:Food chains in the United Kingdom"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Food_chains_in_the_United_Kingdom" title="Template talk:Food chains in the United Kingdom"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Food_chains_in_the_United_Kingdom&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Food_chains_in_the_United_Kingdom" style="font-size:114%;margin:0 4em"><a href="/wiki/Category:Catering_and_food_service_companies_of_the_United_Kingdom" title="Category:Catering and food service companies of the United Kingdom">Food chains in the United Kingdom</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Types_of_restaurants#Casual_dining" title="Types of restaurants">Casual dining</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Angus_Steakhouse" title="Angus Steakhouse">Angus Steakhouse</a></li>
+<li><a href="/wiki/ASK_Italian" title="ASK Italian">Ask</a></li>
+<li><a href="/wiki/Beefeater_(restaurant)" title="Beefeater (restaurant)">Beefeater Grill</a></li>
+<li><a href="/wiki/Belgo" title="Belgo">Belgo</a></li>
+<li><a href="/wiki/Bella_Italia" title="Bella Italia">Bella Italia</a></li>
+<li><a href="/wiki/Bill%27s" title="Bill&#39;s">Bill's</a></li>
+<li><a href="/wiki/Brewers_Fayre" title="Brewers Fayre">Brewers Fayre</a></li>
+<li><a href="/wiki/Byron_Hamburgers" title="Byron Hamburgers">Byron Hamburgers</a></li>
+<li><a href="/wiki/Caf%C3%A9_Rouge" title="Café Rouge">Café Rouge</a></li>
+<li><a href="/wiki/Carluccio%27s_Ltd" title="Carluccio&#39;s Ltd">Carluccio's</a></li>
+<li><a href="/wiki/Chiquito_(restaurant)" title="Chiquito (restaurant)">Chiquito</a></li>
+<li><a href="/wiki/C%C3%B4te" title="Côte">Côte</a></li>
+<li><a href="/wiki/Dishoom_(restaurant)" title="Dishoom (restaurant)">Dishoom</a></li>
+<li><a href="/wiki/Ed%27s_Easy_Diner" title="Ed&#39;s Easy Diner">Ed's Easy Diner</a></li>
+<li><a href="/wiki/Franco_Manca" title="Franco Manca">Franco Manca</a></li>
+<li><a href="/wiki/Frankie_%26_Benny%27s" title="Frankie &amp; Benny&#39;s">Frankie &amp; Benny's</a></li>
+<li><a href="/wiki/Giraffe_World_Kitchen" title="Giraffe World Kitchen">Giraffe</a></li>
+<li><a href="/wiki/Gourmet_Burger_Kitchen" title="Gourmet Burger Kitchen">Gourmet Burger Kitchen</a></li>
+<li><a href="/wiki/Harry_Ramsden%27s" title="Harry Ramsden&#39;s">Harry Ramsden's</a></li>
+<li><a href="/wiki/Harvester_(restaurant)" title="Harvester (restaurant)">Harvester</a></li>
+<li><a href="/wiki/Jimmy%27s_Restaurants" title="Jimmy&#39;s Restaurants">Jimmy's Restaurants</a></li>
+<li><a href="/wiki/Las_Iguanas" title="Las Iguanas">Las Iguanas</a></li>
+<li><a href="/wiki/La_Tasca" class="mw-redirect" title="La Tasca">La Tasca</a></li>
+<li><a href="/wiki/Little_Chef" title="Little Chef">Little Chef</a></li>
+<li><a href="/wiki/Loch_Fyne_Restaurants" title="Loch Fyne Restaurants">Loch Fyne Restaurants</a></li>
+<li><a href="/wiki/Manjaros" title="Manjaros">Manjaros</a></li>
+<li><a class="mw-selflink selflink">Nando's</a></li>
+<li><a href="/wiki/OK_Diner" title="OK Diner">OK Diner</a></li>
+<li><a href="/wiki/Pizza_Hut" title="Pizza Hut">Pizza Hut</a></li>
+<li><a href="/wiki/PizzaExpress" title="PizzaExpress">PizzaExpress</a></li>
+<li><a href="/wiki/Prezzo_(restaurant)" title="Prezzo (restaurant)">Prezzo</a></li>
+<li><a href="/wiki/Sticks%27n%27Sushi" title="Sticks&#39;n&#39;Sushi">Sticks'n'Sushi</a></li>
+<li><a href="/wiki/Strada" title="Strada">Strada</a></li>
+<li><a href="/wiki/Table_Table" title="Table Table">Table Table</a></li>
+<li><a href="/wiki/TGI_Fridays" title="TGI Fridays">TGI Fridays</a></li>
+<li><a href="/wiki/Toby_Carvery" title="Toby Carvery">Toby Carvery</a></li>
+<li><a href="/wiki/Tony_Roma%27s" title="Tony Roma&#39;s">Tony Roma's</a></li>
+<li><a href="/wiki/Wagamama" title="Wagamama">Wagamama</a></li>
+<li><a href="/wiki/Wahaca" title="Wahaca">Wahaca</a></li>
+<li><a href="/wiki/Wildwood_Kitchen" title="Wildwood Kitchen">Wildwood Kitchen</a></li>
+<li><a href="/wiki/Zizzi" title="Zizzi">Zizzi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fast_food" title="Fast food">Fast food</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barburrito" title="Barburrito">Barburrito</a></li>
+<li><a href="/wiki/Burger_King" title="Burger King">Burger King</a></li>
+<li><a href="/wiki/Chicken_Cottage" title="Chicken Cottage">Chicken Cottage</a></li>
+<li><a href="/wiki/Chipotle_Mexican_Grill" title="Chipotle Mexican Grill">Chipotle Mexican Grill</a></li>
+<li><a href="/wiki/Dixy_Chicken" title="Dixy Chicken">Dixy Chicken</a></li>
+<li><a href="/wiki/Domino%27s_Pizza_Group" title="Domino&#39;s Pizza Group">Domino's Pizza</a></li>
+<li><a href="/wiki/Five_Guys" title="Five Guys">Five Guys</a></li>
+<li><a href="/wiki/Itsu" title="Itsu">Itsu</a></li>
+<li><a href="/wiki/KFC" title="KFC">KFC</a></li>
+<li><a href="/wiki/Leon_Restaurants" title="Leon Restaurants">Leon</a></li>
+<li><a href="/wiki/McDonald%27s" title="McDonald&#39;s">McDonald's</a></li>
+<li><a href="/wiki/Morley%27s" title="Morley&#39;s">Morley's</a></li>
+<li><a href="/wiki/Papa_John%27s_Pizza" title="Papa John&#39;s Pizza">Papa John's Pizza</a></li>
+<li><a href="/wiki/Sam%27s_Chicken" title="Sam&#39;s Chicken">Sam's Chicken</a></li>
+<li><a href="/wiki/Southern_Fried_Chicken" class="mw-redirect" title="Southern Fried Chicken">Southern Fried Chicken</a></li>
+<li><a href="/wiki/Square_Pie" title="Square Pie">Square Pie</a></li>
+<li><a href="/wiki/Subway_(restaurant)" title="Subway (restaurant)">Subway</a></li>
+<li><a href="/wiki/Taco_Bell" title="Taco Bell">Taco Bell</a></li>
+<li><a href="/wiki/Tops_Pizza" title="Tops Pizza">Tops Pizza</a></li>
+<li><a href="/wiki/Tortilla_(restaurant_chain)" title="Tortilla (restaurant chain)">Tortilla</a></li>
+<li><a href="/wiki/Wasabi_(restaurant)" title="Wasabi (restaurant)">Wasabi</a></li>
+<li><a href="/wiki/Wimpy_(restaurant)" title="Wimpy (restaurant)">Wimpy</a></li>
+<li><a href="/wiki/YO!_Sushi" title="YO! Sushi">YO! Sushi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bakery" title="Bakery">Baked goods</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Auntie_Anne%27s" title="Auntie Anne&#39;s">Auntie Anne's</a></li>
+<li><a href="/wiki/Birds_Bakery" title="Birds Bakery">Birds Bakery</a></li>
+<li><a href="/wiki/Cooplands" title="Cooplands">Cooplands</a></li>
+<li><a href="/wiki/Dunkin%27_Donuts" title="Dunkin&#39; Donuts">Dunkin' Donuts</a></li>
+<li><a href="/wiki/Eat_(restaurant)" title="Eat (restaurant)">Eat</a></li>
+<li><a href="/wiki/Greggs" title="Greggs">Greggs</a></li>
+<li><a href="/wiki/Krispy_Kreme_UK" title="Krispy Kreme UK">Krispy Kreme</a></li>
+<li><a href="/wiki/Millie%27s_Cookies" title="Millie&#39;s Cookies">Millie's Cookies</a></li>
+<li><a href="/wiki/Patisserie_Valerie" title="Patisserie Valerie">Patisserie Valerie</a></li>
+<li><a href="/wiki/Poundbakery" title="Poundbakery">Poundbakery</a></li>
+<li><a href="/wiki/Pret_a_Manger" title="Pret a Manger">Pret a Manger</a></li>
+<li><a href="/wiki/Sayers_(bakery)" title="Sayers (bakery)">Sayers</a></li>
+<li><a href="/wiki/Spudulike" title="Spudulike">Spudulike</a></li>
+<li><a href="/wiki/Upper_Crust_(restaurant_chain)" title="Upper Crust (restaurant chain)">Upper Crust</a></li>
+<li><a href="/wiki/The_West_Cornwall_Pasty_Company" title="The West Cornwall Pasty Company">The West Cornwall Pasty Company</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Coffeehouse" title="Coffeehouse">Coffee shops</a> and <a href="/wiki/Teahouse" title="Teahouse">tea rooms</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AMT_Coffee" title="AMT Coffee">AMT Coffee</a></li>
+<li><a href="/wiki/Bettys_and_Taylors_of_Harrogate#Tea_rooms" title="Bettys and Taylors of Harrogate">Betty's</a></li>
+<li><a href="/wiki/Caff%C3%A8_Nero" title="Caffè Nero">Caffè Nero</a></li>
+<li><a href="/wiki/Caff%C3%A8_Ritazza" title="Caffè Ritazza">Caffè Ritazza</a></li>
+<li><a href="/wiki/Coffee_1" title="Coffee 1">Coffee #1</a></li>
+<li><a href="/wiki/Coffee_Republic" title="Coffee Republic">Coffee Republic</a></li>
+<li><a href="/wiki/Costa_Coffee" title="Costa Coffee">Costa Coffee</a></li>
+<li><a href="/wiki/Harris_%2B_Hoole" title="Harris + Hoole">Harris + Hoole</a></li>
+<li><a href="/wiki/Starbucks" title="Starbucks">Starbucks</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Dairy_product" title="Dairy product">Dairy</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baskin-Robbins" title="Baskin-Robbins">Baskin-Robbins</a></li>
+<li><a href="/wiki/Ben_%26_Jerry%27s" title="Ben &amp; Jerry&#39;s">Ben &amp; Jerry's</a></li>
+<li><a href="/wiki/Kaspa%27s" title="Kaspa&#39;s">Kaspa's</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pub_chain" title="Pub chain">Pub chains</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/All_Bar_One" title="All Bar One">All Bar One</a></li>
+<li><a href="/wiki/Chef_%26_Brewer" title="Chef &amp; Brewer">Chef &amp; Brewer</a></li>
+<li><a href="/wiki/Hungry_Horse" title="Hungry Horse">Hungry Horse</a></li>
+<li><a href="/wiki/O%27Neill%27s_(pub_chain)" title="O&#39;Neill&#39;s (pub chain)">O'Neill's</a></li>
+<li><a href="/wiki/Slug_and_Lettuce" title="Slug and Lettuce">Slug and Lettuce</a></li>
+<li><a href="/wiki/Walkabout_(pub_chain)" title="Walkabout (pub chain)">Walkabout</a></li>
+<li><a href="/wiki/Wetherspoons" title="Wetherspoons">Wetherspoons</a></li>
+<li><a href="/wiki/Yates%27s" title="Yates&#39;s">Yates's</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Fast_food_and_fast_casual_restaurant_chains_in_the_United_States" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Fast-food_chains_of_the_United_States" title="Template:Fast-food chains of the United States"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Fast-food_chains_of_the_United_States" title="Template talk:Fast-food chains of the United States"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Fast-food_chains_of_the_United_States&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Fast_food_and_fast_casual_restaurant_chains_in_the_United_States" style="font-size:114%;margin:0 4em"><a href="/wiki/Fast_food_restaurant" title="Fast food restaurant">Fast food</a> and <a href="/wiki/Fast_casual_restaurant" title="Fast casual restaurant">fast casual</a> <a href="/wiki/List_of_fast_food_restaurant_chains" title="List of fast food restaurant chains">restaurant chains</a> in the United States</div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Burger_chains&amp;#10;*_Chicken_chains&amp;#10;*_Coffeehouse_chains&amp;#10;*_Pizza_chains_&amp;#10;*_Hot_Dog_chains">
+<ul><li><b><a href="/wiki/List_of_hamburger_restaurants" title="List of hamburger restaurants">Burger chains</a></b></li>
+<li><b><a href="/wiki/Template:Chicken_chains" title="Template:Chicken chains">Chicken chains</a></b></li>
+<li><b><a href="/wiki/List_of_coffeehouse_chains" title="List of coffeehouse chains">Coffeehouse chains</a></b></li>
+<li><b><a href="/wiki/Template:Pizza_chains" title="Template:Pizza chains">Pizza chains</a></b></li>
+<li><b><a href="/wiki/List_of_hot_dog_restaurants" title="List of hot dog restaurants">Hot Dog chains</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Asian_cuisine" title="Asian cuisine">Asian</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/L%26L_Hawaiian_Barbecue" title="L&amp;L Hawaiian Barbecue">L&amp;L Hawaiian Barbecue</a></li>
+<li><a href="/wiki/Manchu_Wok" title="Manchu Wok">Manchu Wok</a></li>
+<li><a href="/wiki/Panda_Express" title="Panda Express">Panda Express</a></li>
+<li><a href="/wiki/Pei_Wei_Asian_Diner" title="Pei Wei Asian Diner">Pei Wei Asian Diner</a></li>
+<li><a href="/wiki/P._F._Chang%27s_China_Bistro" title="P. F. Chang&#39;s China Bistro">P. F. Chang's China Bistro</a></li>
+<li><a href="/wiki/Pick_Up_Stix" title="Pick Up Stix">Pick Up Stix</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Baking" title="Baking">Baked goods</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Au_Bon_Pain" title="Au Bon Pain">Au Bon Pain</a></li>
+<li><a href="/wiki/Auntie_Anne%27s" title="Auntie Anne&#39;s">Auntie Anne's</a></li>
+<li><a href="/wiki/Bruegger%27s" title="Bruegger&#39;s">Bruegger's</a></li>
+<li><a href="/wiki/The_Cheesecake_Factory" title="The Cheesecake Factory">Cheesecake Factory</a></li>
+<li><a href="/wiki/Cinnabon" title="Cinnabon">Cinnabon</a></li>
+<li><a href="/wiki/Corner_Bakery_Cafe" title="Corner Bakery Cafe">Corner Bakery Cafe</a></li>
+<li><a href="/wiki/Daylight_Donuts" title="Daylight Donuts">Daylight Donuts</a></li>
+<li><a href="/wiki/Duck_Donuts" title="Duck Donuts">Duck Donuts</a></li>
+<li><a href="/wiki/Einstein_Bros._Bagels" title="Einstein Bros. Bagels">Einstein Bros.</a></li>
+<li><a href="/wiki/Great_American_Cookies" title="Great American Cookies">Great American Cookies</a></li>
+<li><a href="/wiki/Honey_Dew_Donuts" title="Honey Dew Donuts">Honey Dew Donuts</a></li>
+<li><a href="/wiki/Insomnia_Cookies" title="Insomnia Cookies">Insomnia Cookies</a></li>
+<li><a href="/wiki/Krispy_Kreme" title="Krispy Kreme">Krispy Kreme</a></li>
+<li><a href="/wiki/Mrs._Fields" title="Mrs. Fields">Mrs. Fields</a></li>
+<li><a href="/wiki/Nestl%C3%A9_Toll_House_Caf%C3%A9" title="Nestlé Toll House Café">Nestlé Toll House</a></li>
+<li><a href="/wiki/Panera_Bread" title="Panera Bread">Panera Bread</a></li>
+<li><a href="/wiki/Pretzelmaker" title="Pretzelmaker">Pretzelmaker/Pretzel Time</a></li>
+<li><a href="/wiki/Shipley_Do-Nuts" title="Shipley Do-Nuts">Shipley Do-Nuts</a></li>
+<li><a href="/wiki/Tim_Hortons" title="Tim Hortons">Tim Hortons</a></li>
+<li><a href="/wiki/T.J._Cinnamons" title="T.J. Cinnamons">T.J. Cinnamons</a></li>
+<li><a href="/wiki/Wetzel%27s_Pretzels" title="Wetzel&#39;s Pretzels">Wetzel's</a></li>
+<li><a href="/wiki/Winchell%27s_Donuts" title="Winchell&#39;s Donuts">Winchell's</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Chicken_as_food" title="Chicken as food">Chicken</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Boston_Market" title="Boston Market">Boston Market</a></li>
+<li><a href="/wiki/Bojangles%27_Famous_Chicken_%27n_Biscuits" title="Bojangles&#39; Famous Chicken &#39;n Biscuits">Bojangles'</a></li>
+<li><a href="/wiki/Brown%27s_Chicken_%26_Pasta" title="Brown&#39;s Chicken &amp; Pasta">Brown's Chicken &amp; Pasta</a></li>
+<li><a href="/wiki/Bush%27s_Chicken" title="Bush&#39;s Chicken">Bush's Chicken</a></li>
+<li><a href="/wiki/Chester%27s_International" title="Chester&#39;s International">Chester's</a></li>
+<li><a href="/wiki/Chick-fil-A" title="Chick-fil-A">Chick-fil-A</a></li>
+<li><a href="/wiki/Chicken_Express" title="Chicken Express">Chicken Express</a></li>
+<li><a href="/wiki/Chicken_Salad_Chick" title="Chicken Salad Chick">Chicken Salad Chick</a></li>
+<li><a href="/wiki/Church%27s_Chicken" title="Church&#39;s Chicken">Church's / Texas Chicken</a></li>
+<li><a href="/wiki/Cluck-U_Chicken" title="Cluck-U Chicken">Cluck-U</a></li>
+<li><a href="/wiki/El_Pollo_Loco_(United_States)" title="El Pollo Loco (United States)">El Pollo Loco</a></li>
+<li><a href="/wiki/Golden_Chick" title="Golden Chick">Golden Chick</a></li>
+<li><a href="/wiki/Golden_Skillet" title="Golden Skillet">Golden Skillet</a></li>
+<li><a href="/wiki/Guthrie%27s" title="Guthrie&#39;s">Guthrie's</a></li>
+<li><a href="/wiki/Hartz_Chicken" title="Hartz Chicken">Hartz Chicken</a></li>
+<li><a href="/wiki/KFC" title="KFC">KFC</a></li>
+<li><a href="/wiki/Louisiana_Famous_Fried_Chicken" title="Louisiana Famous Fried Chicken">Louisiana Famous Fried Chicken</a></li>
+<li><a href="/wiki/Mrs._Winner%27s_Chicken_%26_Biscuits" title="Mrs. Winner&#39;s Chicken &amp; Biscuits">Mrs. Winner's</a></li>
+<li><a href="/wiki/Popeyes" title="Popeyes">Popeyes</a></li>
+<li><a href="/wiki/Raising_Cane%27s_Chicken_Fingers" title="Raising Cane&#39;s Chicken Fingers">Raising Cane's</a></li>
+<li><a href="/wiki/Roy_Rogers_Restaurants" title="Roy Rogers Restaurants">Roy Rogers</a></li>
+<li><a href="/wiki/Smithfield%27s_Chicken_%27N_Bar-B-Q" title="Smithfield&#39;s Chicken &#39;N Bar-B-Q">Smithfield's</a></li>
+<li><a href="/wiki/Zankou_Chicken" title="Zankou Chicken">Zankou Chicken</a></li>
+<li><a href="/wiki/Zaxby%27s" title="Zaxby&#39;s">Zaxby's</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Drink" title="Drink">Beverages</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Argo_Tea" title="Argo Tea">Argo Tea</a></li>
+<li><a href="/wiki/Biggby_Coffee" title="Biggby Coffee">Biggby Coffee</a></li>
+<li><a href="/wiki/Caribou_Coffee" title="Caribou Coffee">Caribou</a></li>
+<li><a href="/wiki/The_Coffee_Bean_%26_Tea_Leaf" title="The Coffee Bean &amp; Tea Leaf">Coffee Bean &amp; Tea Leaf</a></li>
+<li><a href="/wiki/Coffee_Beanery" title="Coffee Beanery">Coffee Beanery</a></li>
+<li><a href="/wiki/Dunkin%27_Donuts" title="Dunkin&#39; Donuts">Dunkin' Donuts</a></li>
+<li><a href="/wiki/Dunn_Brothers_Coffee" title="Dunn Brothers Coffee">Dunn Bros</a></li>
+<li><a href="/wiki/Gloria_Jean%27s_Coffees" title="Gloria Jean&#39;s Coffees">Gloria Jean's</a></li>
+<li><a href="/wiki/Heine_Brothers%27" title="Heine Brothers&#39;">Heine Brothers'</a></li>
+<li><a href="/wiki/Intelligentsia_Coffee_%26_Tea" title="Intelligentsia Coffee &amp; Tea">Intelligentsia Coffee &amp; Tea</a></li>
+<li><a href="/wiki/Jamba_Juice" title="Jamba Juice">Jamba Juice</a></li>
+<li><a href="/wiki/Juice_It_Up!" title="Juice It Up!">Juice It Up!</a></li>
+<li><a href="/wiki/Orange_Julius" title="Orange Julius">Orange Julius</a></li>
+<li><a href="/wiki/Peet%27s_Coffee" title="Peet&#39;s Coffee">Peet's</a></li>
+<li><a href="/wiki/Planet_Smoothie" title="Planet Smoothie">Planet Smoothie</a></li>
+<li><a href="/wiki/Robeks" title="Robeks">Robeks</a></li>
+<li><a href="/wiki/Seattle%27s_Best_Coffee" title="Seattle&#39;s Best Coffee">Seattle's Best Coffee</a></li>
+<li><a href="/wiki/Smoothie_King" title="Smoothie King">Smoothie King</a></li>
+<li><a href="/wiki/Starbucks" title="Starbucks">Starbucks</a></li>
+<li><a href="/wiki/Tropical_Smoothie_Cafe" title="Tropical Smoothie Cafe">Tropical Smoothie Cafe</a></li>
+<li><a href="/wiki/Tully%27s_Coffee" title="Tully&#39;s Coffee">Tully's</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Frozen_dessert" title="Frozen dessert">Frozen<br />desserts</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baskin-Robbins" title="Baskin-Robbins">Baskin-Robbins</a></li>
+<li><a href="/wiki/Ben_%26_Jerry%27s" title="Ben &amp; Jerry&#39;s">Ben &amp; Jerry's</a></li>
+<li><a href="/wiki/Braum%27s" title="Braum&#39;s">Braum's</a></li>
+<li><a href="/wiki/Bruster%27s_Ice_Cream" title="Bruster&#39;s Ice Cream">Bruster's</a></li>
+<li><a href="/wiki/Carvel_(restaurant)" class="mw-redirect" title="Carvel (restaurant)">Carvel</a></li>
+<li><a href="/wiki/Cold_Stone_Creamery" title="Cold Stone Creamery">Cold Stone Creamery</a></li>
+<li><a href="/wiki/Dairy_Queen" title="Dairy Queen">Dairy Queen</a></li>
+<li><a href="/wiki/Dippin%27_Dots" title="Dippin&#39; Dots">Dippin' Dots</a></li>
+<li><a href="/wiki/Fosters_Freeze" title="Fosters Freeze">Fosters Freeze</a></li>
+<li><a href="/wiki/Friendly%27s" title="Friendly&#39;s">Friendly's</a></li>
+<li><a href="/wiki/Golden_Spoon" title="Golden Spoon">Golden Spoon</a></li>
+<li><a href="/wiki/Graeter%27s" title="Graeter&#39;s">Graeter's</a></li>
+<li><a href="/wiki/H%C3%A4agen-Dazs" title="Häagen-Dazs">Häagen-Dazs</a></li>
+<li><a href="/wiki/Handel%27s_Homemade_Ice_Cream_%26_Yogurt" title="Handel&#39;s Homemade Ice Cream &amp; Yogurt">Handel's</a></li>
+<li><a href="/wiki/MaggieMoo%27s_Ice_Cream_and_Treatery" title="MaggieMoo&#39;s Ice Cream and Treatery">MaggieMoo's</a></li>
+<li><a href="/wiki/Marble_Slab_Creamery" title="Marble Slab Creamery">Marble Slab</a></li>
+<li><a href="/wiki/Menchie%27s_Frozen_Yogurt" title="Menchie&#39;s Frozen Yogurt">Menchie's</a></li>
+<li><a href="/wiki/Oberweis_Dairy" title="Oberweis Dairy">Oberweis</a></li>
+<li><a href="/wiki/Pinkberry" title="Pinkberry">Pinkberry</a></li>
+<li><a href="/wiki/Red_Mango" title="Red Mango">Red Mango</a></li>
+<li><a href="/wiki/Rita%27s_Italian_Ice" title="Rita&#39;s Italian Ice">Rita's</a></li>
+<li><a href="/wiki/Sweet_Frog" title="Sweet Frog">Sweet Frog</a></li>
+<li><a href="/wiki/Tastee-Freez" title="Tastee-Freez">Tastee-Freez</a></li>
+<li><a href="/wiki/TCBY" title="TCBY">TCBY</a></li>
+<li><a href="/wiki/Tropical_Sno" title="Tropical Sno">Tropical Sno</a></li>
+<li><a href="/wiki/Tutti_Frutti_Frozen_Yogurt" title="Tutti Frutti Frozen Yogurt">Tutti Frutti</a></li>
+<li><a href="/wiki/Yogen_Fr%C3%BCz" title="Yogen Früz">Yogen Früz</a></li>
+<li><a href="/wiki/Yogurtland" title="Yogurtland">Yogurtland</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hamburger" title="Hamburger">Hamburgers</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/A%26W_Restaurants" title="A&amp;W Restaurants">A&amp;W</a></li>
+<li><a href="/wiki/Arctic_Circle_Restaurants" title="Arctic Circle Restaurants">Arctic Circle</a></li>
+<li><a href="/wiki/Back_Yard_Burgers" title="Back Yard Burgers">Back Yard</a></li>
+<li><a href="/wiki/Big_Boy_Restaurants" title="Big Boy Restaurants">Big Boy</a></li>
+<li><a href="/wiki/BurgerFi" title="BurgerFi">BurgerFi</a></li>
+<li><a href="/wiki/Burger_King" title="Burger King">Burger King</a></li>
+<li><a href="/wiki/Carl%27s_Jr." title="Carl&#39;s Jr.">Carl's Jr.</a></li>
+<li><a href="/wiki/Checkers_and_Rally%27s" title="Checkers and Rally&#39;s">Checkers/Rally's</a></li>
+<li><a href="/wiki/Cook_Out_(restaurant)" title="Cook Out (restaurant)">Cook Out</a></li>
+<li><a href="/wiki/Cheeburger_Cheeburger" title="Cheeburger Cheeburger">Cheeburger Cheeburger</a></li>
+<li><a href="/wiki/Culver%27s" title="Culver&#39;s">Culver's</a></li>
+<li><a href="/wiki/Dairy_Queen" title="Dairy Queen">Dairy Queen</a></li>
+<li><a href="/wiki/Fatburger" title="Fatburger">Fatburger</a></li>
+<li><a href="/wiki/Five_Guys" title="Five Guys">Five Guys</a></li>
+<li><a href="/wiki/Freddy%27s_Frozen_Custard_%26_Steakburgers" title="Freddy&#39;s Frozen Custard &amp; Steakburgers">Freddy's</a></li>
+<li><a href="/wiki/Fuddruckers" title="Fuddruckers">Fuddruckers</a></li>
+<li><a href="/wiki/The_Habit_Burger_Grill" title="The Habit Burger Grill">The Habit</a></li>
+<li><a href="/wiki/Hardee%27s" title="Hardee&#39;s">Hardee's</a></li>
+<li><a href="/wiki/Hwy_55_Burgers_Shakes_%26_Fries" title="Hwy 55 Burgers Shakes &amp; Fries">Hwy 55</a></li>
+<li><a href="/wiki/In-N-Out_Burger" title="In-N-Out Burger">In-N-Out</a></li>
+<li><a href="/wiki/Jack_in_the_Box" title="Jack in the Box">Jack in the Box</a></li>
+<li><a href="/wiki/Johnny_Rockets" title="Johnny Rockets">Johnny Rockets</a></li>
+<li><a href="/wiki/Krystal_(restaurant)" title="Krystal (restaurant)">Krystal</a></li>
+<li><a href="/wiki/McDonald%27s" title="McDonald&#39;s">McDonald's</a></li>
+<li><a href="/wiki/Red_Robin" title="Red Robin">Red Robin</a></li>
+<li><a href="/wiki/Roy_Rogers_Restaurants" title="Roy Rogers Restaurants">Roy Rogers</a></li>
+<li><a href="/wiki/Shake_Shack" title="Shake Shack">Shake Shack</a></li>
+<li><a href="/wiki/Smashburger" title="Smashburger">Smashburger</a></li>
+<li><a href="/wiki/Sonic_Drive-In" title="Sonic Drive-In">Sonic</a></li>
+<li><a href="/wiki/Steak_%27n_Shake" title="Steak &#39;n Shake">Steak 'n Shake</a></li>
+<li><a href="/wiki/Wayback_Burgers" title="Wayback Burgers">Wayback</a></li>
+<li><a href="/wiki/Wendy%27s" title="Wendy&#39;s">Wendy's</a></li>
+<li><a href="/wiki/Whataburger" title="Whataburger">Whataburger</a></li>
+<li><a href="/wiki/White_Castle_(restaurant)" title="White Castle (restaurant)">White Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hot_dog" title="Hot dog">Hot dogs</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hot_Dog_on_a_Stick" title="Hot Dog on a Stick">Hot Dog on a Stick</a></li>
+<li><a href="/wiki/Nathan%27s_Famous" title="Nathan&#39;s Famous">Nathan's Famous</a></li>
+<li><a href="/wiki/Portillo%27s_Restaurants" title="Portillo&#39;s Restaurants">Portillo's</a></li>
+<li><a href="/wiki/Wienerschnitzel" title="Wienerschnitzel">Wienerschnitzel</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Mexican_cuisine#Outside_of_Mexico" title="Mexican cuisine">Mexican-style</a> /<br /><a href="/wiki/Tex-Mex" title="Tex-Mex">Tex-Mex</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baja_Fresh" title="Baja Fresh">Baja Fresh</a></li>
+<li><a href="/wiki/Cafe_Rio" title="Cafe Rio">Cafe Rio</a></li>
+<li><a href="/wiki/Chipotle_Mexican_Grill" title="Chipotle Mexican Grill">Chipotle</a></li>
+<li><a href="/wiki/Del_Taco" title="Del Taco">Del Taco</a></li>
+<li><a href="/wiki/El_Pollo_Loco_(United_States)" title="El Pollo Loco (United States)">El Pollo Loco</a></li>
+<li><a href="/wiki/Freebirds_World_Burrito" title="Freebirds World Burrito">Freebirds</a></li>
+<li><a href="/wiki/Fuzzy%27s_Taco_Shop" title="Fuzzy&#39;s Taco Shop">Fuzzy's</a></li>
+<li><a href="/wiki/Green_Burrito" class="mw-redirect" title="Green Burrito">Green/Red Burrito</a></li>
+<li><a href="/wiki/La_Salsa" title="La Salsa">La Salsa</a></li>
+<li><a href="/wiki/Moe%27s_Southwest_Grill" title="Moe&#39;s Southwest Grill">Moe's</a></li>
+<li><a href="/wiki/Pancheros_Mexican_Grill" title="Pancheros Mexican Grill">Pancheros</a></li>
+<li><a href="/wiki/Qdoba" title="Qdoba">Qdoba</a></li>
+<li><a href="/wiki/Rubio%27s_Coastal_Grill" title="Rubio&#39;s Coastal Grill">Rubio's</a></li>
+<li><a href="/wiki/Rusty_Taco" title="Rusty Taco">Rusty Taco</a></li>
+<li><a href="/wiki/Taco_Bell" title="Taco Bell">Taco Bell</a></li>
+<li><a href="/wiki/Taco_Bueno" title="Taco Bueno">Taco Bueno</a></li>
+<li><a href="/wiki/Taco_Cabana" title="Taco Cabana">Taco Cabana</a></li>
+<li><a href="/wiki/Taco_del_Mar" title="Taco del Mar">Taco del Mar</a></li>
+<li><a href="/wiki/Taco_John%27s" title="Taco John&#39;s">Taco John's</a></li>
+<li><a href="/wiki/Taco_Mayo" title="Taco Mayo">Taco Mayo</a></li>
+<li><a href="/wiki/Taco_Time" title="Taco Time">Taco Time</a></li>
+<li><a href="/wiki/Tijuana_Flats" title="Tijuana Flats">Tijuana Flats</a></li>
+<li><a href="/wiki/Wahoo%27s_Fish_Taco" title="Wahoo&#39;s Fish Taco">Wahoo's Fish Taco</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Denny%27s" title="Denny&#39;s">Denny's</a></li>
+<li><a href="/wiki/Fazoli%27s" title="Fazoli&#39;s">Fazoli's</a></li>
+<li><a href="/wiki/The_Halal_Guys" title="The Halal Guys">The Halal Guys</a></li>
+<li><a href="/wiki/Hooters" title="Hooters">Hooters</a></li>
+<li><a href="/wiki/IHOP" title="IHOP">IHOP</a></li>
+<li><a href="/wiki/Noodles_%26_Company" title="Noodles &amp; Company">Noodles &amp; Company</a></li>
+<li><a href="/wiki/Sbarro" title="Sbarro">Sbarro</a></li>
+<li><a href="/wiki/Skyline_Chili" title="Skyline Chili">Skyline Chili</a></li>
+<li><a href="/wiki/Zippy%27s" title="Zippy&#39;s">Zippy's</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sandwich" title="Sandwich">Sandwiches</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arby%27s" title="Arby&#39;s">Arby's</a></li>
+<li><a href="/wiki/Atlanta_Bread_Company" title="Atlanta Bread Company">Atlanta Bread</a></li>
+<li><a href="/wiki/Blimpie" title="Blimpie">Blimpie</a></li>
+<li><a href="/wiki/Capriotti%27s" title="Capriotti&#39;s">Capriotti's</a></li>
+<li><a href="/wiki/Charleys_Philly_Steaks" title="Charleys Philly Steaks">Charley's</a></li>
+<li><a href="/wiki/Cos%C3%AC_(restaurant)" title="Così (restaurant)">Così</a></li>
+<li><a href="/wiki/Cousins_Subs" title="Cousins Subs">Cousins</a></li>
+<li><a href="/wiki/D%27Angelo_Grilled_Sandwiches" title="D&#39;Angelo Grilled Sandwiches">D'Angelo</a></li>
+<li><a href="/wiki/Daphne%27s_Greek_Cafe" title="Daphne&#39;s Greek Cafe">Daphne's</a></li>
+<li><a href="/wiki/Erbert_%26_Gerbert%27s" title="Erbert &amp; Gerbert&#39;s">Erbert &amp; Gerbert's</a></li>
+<li><a href="/wiki/Firehouse_Subs" title="Firehouse Subs">Firehouse Subs</a></li>
+<li><a href="/wiki/Great_Wraps" title="Great Wraps">Great Wraps</a></li>
+<li><a href="/wiki/Jason%27s_Deli" title="Jason&#39;s Deli">Jason's</a></li>
+<li><a href="/wiki/Jerry%27s_Subs_%26_Pizza" title="Jerry&#39;s Subs &amp; Pizza">Jerry's Subs</a></li>
+<li><a href="/wiki/Jersey_Mike%27s_Subs" title="Jersey Mike&#39;s Subs">Jersey Mike's</a></li>
+<li><a href="/wiki/Jimmy_John%27s" title="Jimmy John&#39;s">Jimmy John's</a></li>
+<li><a href="/wiki/Lee%27s_Sandwiches" title="Lee&#39;s Sandwiches">Lee's Sandwiches</a></li>
+<li><a href="/wiki/Lenny%27s_Sub_Shop" class="mw-redirect" title="Lenny&#39;s Sub Shop">Lenny's Sub</a></li>
+<li><a href="/wiki/McAlister%27s_Deli" title="McAlister&#39;s Deli">McAlister's Deli</a></li>
+<li><a href="/wiki/Miami_Subs_Grill" title="Miami Subs Grill">Miami Subs</a></li>
+<li><a href="/wiki/Newk%27s_Eatery" title="Newk&#39;s Eatery">Newk's Eatery</a></li>
+<li><a href="/wiki/Penn_Station_(restaurant)" title="Penn Station (restaurant)">Penn Station</a></li>
+<li><a href="/wiki/Port_of_Subs" title="Port of Subs">Port of Subs</a></li>
+<li><a href="/wiki/Potbelly_Sandwich_Works" class="mw-redirect" title="Potbelly Sandwich Works">Potbelly</a></li>
+<li><a href="/wiki/Primo_Hoagies" title="Primo Hoagies">Primo Hoagies</a></li>
+<li><a href="/wiki/Quiznos" title="Quiznos">Quiznos</a></li>
+<li><a href="/wiki/Rax_Roast_Beef" title="Rax Roast Beef">Rax</a></li>
+<li><a href="/wiki/Sandella%27s_Flatbread_Caf%C3%A9" title="Sandella&#39;s Flatbread Café">Sandella's</a></li>
+<li><a href="/wiki/Schlotzsky%27s" title="Schlotzsky&#39;s">Schlotzsky's</a></li>
+<li><a href="/wiki/Steak_Escape" title="Steak Escape">Steak Escape</a></li>
+<li><a href="/wiki/Subway_(restaurant)" title="Subway (restaurant)">Subway</a></li>
+<li><a href="/wiki/Togo%27s" title="Togo&#39;s">Togo's</a></li>
+<li><a href="/wiki/Tubby%27s" title="Tubby&#39;s">Tubby's</a></li>
+<li><a href="/wiki/Tudor%27s_Biscuit_World" title="Tudor&#39;s Biscuit World">Tudor's Biscuit World</a></li>
+<li><a href="/wiki/Which_Wich%3F" title="Which Wich?">Which Wich?</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Seafood" title="Seafood">Seafood</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arthur_Treacher%27s" title="Arthur Treacher&#39;s">Arthur Treacher's</a></li>
+<li><a href="/wiki/California_Fish_Grill" title="California Fish Grill">California Fish Grill</a></li>
+<li><a href="/wiki/Captain_D%27s" title="Captain D&#39;s">Captain D's</a></li>
+<li><a href="/wiki/H._Salt_Esquire" title="H. Salt Esquire">H. Salt Esquire</a></li>
+<li><a href="/wiki/Ivar%27s" title="Ivar&#39;s">Ivar's</a></li>
+<li><a href="/wiki/Long_John_Silver%27s" title="Long John Silver&#39;s">Long John Silver's</a></li>
+<li><a href="/wiki/Skippers_Seafood_%26_Chowder_House" title="Skippers Seafood &amp; Chowder House">Skippers Seafood &amp; Chowder House</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bresler%27s_Ice_Cream" title="Bresler&#39;s Ice Cream">Bresler's</a></li>
+<li><a href="/wiki/Brigham%27s_Ice_Cream" title="Brigham&#39;s Ice Cream">Brigham's</a></li>
+<li><a href="/wiki/Burger_Chef" title="Burger Chef">Burger Chef</a></li>
+<li><a href="/wiki/Carrols_Restaurant_Group" title="Carrols Restaurant Group">Carrols</a></li>
+<li><a href="/wiki/D%27Lites" title="D&#39;Lites">D'Lites</a></li>
+<li><a href="/wiki/Dawn_Donuts" title="Dawn Donuts">Dawn Donuts</a></li>
+<li><a href="/wiki/Druther%27s" title="Druther&#39;s">Druther's</a></li>
+<li><a href="/wiki/Henry%27s_Hamburgers" title="Henry&#39;s Hamburgers">Henry's Hamburgers</a></li>
+<li><a href="/wiki/Hot_%27n_Now" title="Hot &#39;n Now">Hot 'n Now</a></li>
+<li><a href="/wiki/Hot_Sam_Pretzels" title="Hot Sam Pretzels">Hot Sam Pretzels</a></li>
+<li><a href="/wiki/Naugles" title="Naugles">Naugles</a></li>
+<li><a href="/wiki/Red_Barn_(restaurant)" title="Red Barn (restaurant)">Red Barn</a></li>
+<li><a href="/wiki/Sandy%27s" title="Sandy&#39;s">Sandy's</a></li>
+<li><a href="/wiki/Teavana" title="Teavana">Teavana</a></li>
+<li><a href="/wiki/White_Tower_Hamburgers" title="White Tower Hamburgers">White Tower</a></li>
+<li><a href="/wiki/Zantigo" title="Zantigo">Zantigo</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20190928221625
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.848 seconds
+Real time usage: 1.034 seconds
+Preprocessor visited node count: 4055/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 177825/2097152 bytes
+Template argument size: 3849/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 131652/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.367/10.000 seconds
+Lua memory usage: 7.97 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  777.485      1 -total
+ 48.68%  378.478      1 Template:Reflist
+ 28.49%  221.530     32 Template:Cite_web
+ 10.37%   80.601      1 Template:Infobox_company
+  8.87%   68.960      1 Template:Infobox
+  7.89%   61.350     11 Template:Cite_news
+  6.78%   52.723      1 Template:Commons_category
+  5.44%   42.286      1 Template:Commons
+  5.17%   40.235      6 Template:Navbox
+  5.08%   39.515      1 Template:Sister_project
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:248288-0!canonical and timestamp 20190928221624 and revision id 918458031
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nando%27s&amp;oldid=918458031">https://en.wikipedia.org/w/index.php?title=Nando%27s&amp;oldid=918458031</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fast-food_chains_of_South_Africa" title="Category:Fast-food chains of South Africa">Fast-food chains of South Africa</a></li><li><a href="/wiki/Category:Restaurant_franchises" title="Category:Restaurant franchises">Restaurant franchises</a></li><li><a href="/wiki/Category:Companies_based_in_Johannesburg" title="Category:Companies based in Johannesburg">Companies based in Johannesburg</a></li><li><a href="/wiki/Category:Fast_casual_restaurants" title="Category:Fast casual restaurants">Fast casual restaurants</a></li><li><a href="/wiki/Category:Restaurants_established_in_1987" title="Category:Restaurants established in 1987">Restaurants established in 1987</a></li><li><a href="/wiki/Category:Poultry_restaurants" title="Category:Poultry restaurants">Poultry restaurants</a></li><li><a href="/wiki/Category:Multinational_food_companies" title="Category:Multinational food companies">Multinational food companies</a></li><li><a href="/wiki/Category:Multinational_companies_headquartered_in_South_Africa" title="Category:Multinational companies headquartered in South Africa">Multinational companies headquartered in South Africa</a></li><li><a href="/wiki/Category:1987_establishments_in_South_Africa" title="Category:1987 establishments in South Africa">1987 establishments in South Africa</a></li><li><a href="/wiki/Category:South_African_brands" title="Category:South African brands">South African brands</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_uses_authors_parameter" title="Category:CS1 maint: uses authors parameter">CS1 maint: uses authors parameter</a></li><li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2017" title="Category:Use dmy dates from April 2017">Use dmy dates from April 2017</a></li><li><a href="/wiki/Category:Use_South_African_English_from_July_2012" title="Category:Use South African English from July 2012">Use South African English from July 2012</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_written_in_South_African_English" title="Category:All Wikipedia articles written in South African English">All Wikipedia articles written in South African English</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_February_2013" title="Category:Articles containing potentially dated statements from February 2013">Articles containing potentially dated statements from February 2013</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_December_2015" title="Category:Articles containing potentially dated statements from December 2015">Articles containing potentially dated statements from December 2015</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2019" title="Category:Articles containing potentially dated statements from 2019">Articles containing potentially dated statements from 2019</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2013" title="Category:Articles containing potentially dated statements from 2013">Articles containing potentially dated statements from 2013</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia" title="Category:Official website different in Wikidata and Wikipedia">Official website different in Wikidata and Wikipedia</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nando%27s" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nando%27s" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Nando%27s" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Nando%27s" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Nando%27s">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Nando%27s&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nando%27s&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Nando%27s" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nando%27s" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nando%27s&amp;oldid=918458031" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nando%27s&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3472954" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nando%27s&amp;id=918458031" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Nando%27s" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nando%27s">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nando%27s&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Nando%27s&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Nando%27s" title="Nando&#039;s – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Nando%E2%80%99s" title="Nando’s – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Nando%27s" title="Nando&#039;s – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%82%9C%EB%8F%84%EC%8A%A4" title="난도스 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Nando%27s" title="Nando&#039;s – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Nando%27s" title="Nando&#039;s – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Nando%27s" title="Nando&#039;s – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%86%DB%8C%D9%86%DA%88%D9%88%D8%B2" title="نینڈوز – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Nando%E2%80%99s" title="Nando’s – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Nando%E2%80%99s" title="Nando’s – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Nando%27s" title="Nando&#039;s – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Nando%E2%80%99s" title="Nando’s – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Nando%27s" title="Nando&#039;s – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3472954#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 28 September 2019, at 19:28<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nando%27s&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.848","walltime":"1.034","ppvisitednodes":{"value":4055,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":177825,"limit":2097152},"templateargumentsize":{"value":3849,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":131652,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  777.485      1 -total"," 48.68%  378.478      1 Template:Reflist"," 28.49%  221.530     32 Template:Cite_web"," 10.37%   80.601      1 Template:Infobox_company","  8.87%   68.960      1 Template:Infobox","  7.89%   61.350     11 Template:Cite_news","  6.78%   52.723      1 Template:Commons_category","  5.44%   42.286      1 Template:Commons","  5.17%   40.235      6 Template:Navbox","  5.08%   39.515      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.367","limit":"10.000"},"limitreport-memusage":{"value":8361007,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20190928221625","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Nando's","url":"https:\/\/en.wikipedia.org\/wiki\/Nando%27s","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3472954","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3472954","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-06-17T22:13:38Z","dateModified":"2019-09-28T19:28:23Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/c\/c5\/Nandos_logo.svg","headline":"international casual dining restaurant chain originating in South Africa"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":115,"wgHostname":"mw1243"});});</script>
+</body>
+</html>
+

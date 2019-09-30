@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Rugby League Heritage Centre - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Rugby_League_Heritage_Centre","wgTitle":"Rugby League Heritage Centre","wgCurRevisionId":918701404,"wgRevisionId":918701404,"wgArticleId":13930888,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with a promotional tone from September 2017","All articles with a promotional tone","Coordinates on Wikidata","Rugby league in England","Sport in Huddersfield","Buildings and structures in Huddersfield","Tourist attractions in Huddersfield","Sports museums in England","History of rugby league","Museums established in 2005","Museums in West Yorkshire","Rugby league museums and halls of fame","Defunct museums in England"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],
+"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Rugby_League_Heritage_Centre","wgRelevantArticleId":13930888,"wgRequestId":"XZE5aQpAMFIAAHHQ-EYAAAAM","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat"
+:53.648,"lon":-1.7833},"wgWikibaseItemId":"Q7378210","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice",
+"ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Rugby_League_Heritage_Centre"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Rugby_League_Heritage_Centre&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Rugby_League_Heritage_Centre&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Rugby_League_Heritage_Centre"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Rugby_League_Heritage_Centre rootpage-Rugby_League_Heritage_Centre skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Rugby League Heritage Centre</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Advert plainlinks metadata ambox ambox-content ambox-Advert" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>contains content that is written like <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_soapbox_or_means_of_promotion" title="Wikipedia:What Wikipedia is not">an advertisement</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Rugby_League_Heritage_Centre&amp;action=edit">improve it</a> by removing <a href="/wiki/Wikipedia:Spam" title="Wikipedia:Spam">promotional content</a> and inappropriate <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external links</a>, and by adding encyclopedic content written from a <a href="/wiki/Wikipedia:Neutral_point_of_view" title="Wikipedia:Neutral point of view">neutral point of view</a>.</span>  <small class="date-container"><i>(<span class="date">September 2017</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>The <b>Rugby League Heritage Centre</b> was formerly located in the basement of the <a href="/wiki/George_Hotel,_Huddersfield" title="George Hotel, Huddersfield">George Hotel</a>, <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, England. It was the only rugby league heritage museum and was the brainchild of <a href="/wiki/Sky_Sports" title="Sky Sports">Sky Sports</a> presenter and former <a href="/wiki/Great_Britain_national_rugby_league_team" title="Great Britain national rugby league team">Great Britain</a> international <a href="/wiki/Mike_Stephenson" title="Mike Stephenson">Mike Stephenson</a>. 
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#See_also"><span class="tocnumber">2</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rugby_League_Heritage_Centre&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Plaque_on_the_George_Hotel,_Huddersfield_(10252321744).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Plaque_on_the_George_Hotel%2C_Huddersfield_%2810252321744%29.jpg/220px-Plaque_on_the_George_Hotel%2C_Huddersfield_%2810252321744%29.jpg" decoding="async" width="220" height="169" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Plaque_on_the_George_Hotel%2C_Huddersfield_%2810252321744%29.jpg/330px-Plaque_on_the_George_Hotel%2C_Huddersfield_%2810252321744%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Plaque_on_the_George_Hotel%2C_Huddersfield_%2810252321744%29.jpg/440px-Plaque_on_the_George_Hotel%2C_Huddersfield_%2810252321744%29.jpg 2x" data-file-width="2904" data-file-height="2235" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Plaque_on_the_George_Hotel,_Huddersfield_(10252321744).jpg" class="internal" title="Enlarge"></a></div>Commemorative plaque to the foundation of Rugby League on George Hotel, Huddersfield</div></div></div>
+<p>Twenty-one northern clubs held a meeting and by a majority of 20 to 1 voted to <a href="/wiki/History_of_rugby_league" title="History of rugby league">secede</a> from the <a href="/wiki/Rugby_Football_Union" title="Rugby Football Union">Rugby Football Union</a> to set up their own <a href="/wiki/Rugby_Football_League" title="Rugby Football League">Northern Rugby Football Union</a> at the George Hotel, Huddersfield on August 29, 1895. In 1922 this became the <a href="/wiki/Rugby_Football_League" title="Rugby Football League">Rugby Football League</a>.
+</p><p>The Rugby League Heritage Centre was opened at the George Hotel on 30 August 2005 by former players <a href="/wiki/Billy_Boston" title="Billy Boston">Billy Boston</a>, <a href="/wiki/Neil_Fox_(rugby_league)" title="Neil Fox (rugby league)">Neil Fox</a> and <a href="/wiki/Mick_Sullivan" title="Mick Sullivan">Mick Sullivan</a>. The centre featured displays of memorabilia, including rare jerseys, medals, caps, programmes and photographs owned by <a href="/wiki/Mike_Stephenson" title="Mike Stephenson">Mike Stephenson</a>. 
+</p><p>In 2013, the hotel was sold. The sporting charity, Rugby League Cares, was given £97,200 from the Heritage Lottery Fund to secure the collection. The collection was put on tour and in storage until a new location could be arranged.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>In 2016, plans were announced for a new <a href="/wiki/National_Rugby_League_Museum" title="National Rugby League Museum">National Rugby League Museum</a>, based in nearby <a href="/wiki/Bradford" title="Bradford">Bradford</a>, to succeed the Heritage Centre.<sup id="cite_ref-RFL200916_2-0" class="reference"><a href="#cite_note-RFL200916-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rugby_League_Heritage_Centre&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Webb_Ellis_Rugby_Football_Museum" title="Webb Ellis Rugby Football Museum">Webb Ellis Rugby Football Museum</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rugby_League_Heritage_Centre&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/news/west-yorkshire-news/george-hotels-rugby-league-heritage-7813909">"George Hotel's Rugby League Heritage Centre memorabilia to go on tour - before heading back to new Huddersfield home"</a>. Daily Huddersfield Examiner. September 23, 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">21 March</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=George+Hotel%27s+Rugby+League+Heritage+Centre+memorabilia+to+go+on+tour+-+before+heading+back+to+new+Huddersfield+home&amp;rft.pub=Daily+Huddersfield+Examiner&amp;rft.date=2014-09-23&amp;rft_id=http%3A%2F%2Fwww.examiner.co.uk%2Fnews%2Fwest-yorkshire-news%2Fgeorge-hotels-rugby-league-heritage-7813909&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARugby+League+Heritage+Centre" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-RFL200916-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-RFL200916_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.rugby-league.com/challengecup/article/38548/bradford-to-be-the-home-of-national-rugby-league-museum">"Bradford to be the home of National Rugby League Museum"</a>. <a href="/wiki/Rugby_Football_League" title="Rugby Football League">Rugby Football League</a>. 20 September 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">20 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bradford+to+be+the+home+of+National+Rugby+League+Museum&amp;rft.pub=Rugby+Football+League&amp;rft.date=2016-09-20&amp;rft_id=http%3A%2F%2Fwww.rugby-league.com%2Fchallengecup%2Farticle%2F38548%2Fbradford-to-be-the-home-of-national-rugby-league-museum&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARugby+League+Heritage+Centre" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rugby_League_Heritage_Centre&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081021163949/http://www.rlheritage.co.uk/">Gillette Rugby League Heritage Centre</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="West_Yorkshire_museums" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:West_Yorkshire_museums" title="Template:West Yorkshire museums"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:West_Yorkshire_museums" title="Template talk:West Yorkshire museums"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:West_Yorkshire_museums&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="West_Yorkshire_museums" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_museums_in_West_Yorkshire" title="List of museums in West Yorkshire">West Yorkshire museums</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Museums_in_Bradford" title="Category:Museums in Bradford">City of Bradford museums</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Baildon" title="Baildon">Baildon</a></b>: <a href="/wiki/Bracken_Hall_Countryside_Centre_and_Museum" title="Bracken Hall Countryside Centre and Museum">Bracken Hall Countryside Centre and Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Bradford" title="Bradford">Bradford</a></b>: <a href="/wiki/Bolling_Hall,_Bradford" title="Bolling Hall, Bradford">Bolling Hall Museum</a></li>
+<li><a href="/wiki/Bradford_Industrial_Museum" title="Bradford Industrial Museum">Bradford Industrial Museum</a></li>
+<li><a href="/wiki/Cartwright_Hall" title="Cartwright Hall">Cartwright Hall</a></li>
+<li><a href="/wiki/National_Media_Museum" class="mw-redirect" title="National Media Museum">National Media Museum</a></li>
+<li><a href="/wiki/Peace_Museum,_Bradford" title="Peace Museum, Bradford">Peace Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Haworth" title="Haworth">Haworth</a></b>: <a href="/wiki/Bront%C3%AB_Parsonage_Museum" title="Brontë Parsonage Museum">Brontë Parsonage Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Ilkley" title="Ilkley">Ilkley</a></b>: <a href="/wiki/Ilkley_Toy_Museum" title="Ilkley Toy Museum">Ilkley Toy Museum</a></li>
+<li><a href="/wiki/Manor_House_Museum" title="Manor House Museum">Manor House Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Keighley" title="Keighley">Keighley</a></b>: <a href="/wiki/Cliffe_Castle_Museum" title="Cliffe Castle Museum">Cliffe Castle Museum</a></li>
+<li><a href="/wiki/East_Riddlesden_Hall" title="East Riddlesden Hall">East Riddlesden Hall</a></li>
+<li><a href="/wiki/Keighley_and_Worth_Valley_Railway" title="Keighley and Worth Valley Railway">Keighley and Worth Valley Railway</a></li>
+<li><a href="/wiki/Museum_of_Rail_Travel" title="Museum of Rail Travel">Museum of Rail Travel</a></li></ul>
+<ul><li><b><a href="/wiki/Saltaire" title="Saltaire">Saltaire</a></b>: <a href="/wiki/Salts_Mill" title="Salts Mill">Salts Mill</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Calderdale" title="Calderdale">Calderdale</a> museums</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Brighouse" title="Brighouse">Brighouse</a></b>: <a href="/w/index.php?title=Smith_Art_Gallery&amp;action=edit&amp;redlink=1" class="new" title="Smith Art Gallery (page does not exist)">Smith Art Gallery</a></li></ul>
+<ul><li><b><a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a></b>: <a href="/wiki/Bankfield_Museum" title="Bankfield Museum">Bankfield Museum</a></li>
+<li><a href="/wiki/Dean_Clough" title="Dean Clough">Dean Clough</a></li>
+<li><a href="/wiki/Eureka!_(museum)" title="Eureka! (museum)">Eureka! The National Children's Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Hebden_Bridge" title="Hebden Bridge">Hebden Bridge</a></b>: <a href="/wiki/Hardcastle_Crags" title="Hardcastle Crags">Gibson Mill</a></li></ul>
+<ul><li><b><a href="/wiki/Heptonstall" title="Heptonstall">Heptonstall</a></b>: <a href="/w/index.php?title=Heptonstall_Museum&amp;action=edit&amp;redlink=1" class="new" title="Heptonstall Museum (page does not exist)">Heptonstall Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Shibden" title="Shibden">Shibden</a></b>: <a href="/wiki/Shibden_Hall" title="Shibden Hall">Shibden Hall</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kirklees" title="Kirklees">Kirklees</a> museums</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Batley" title="Batley">Batley</a></b> &amp; <b><a href="/wiki/Birstall,_West_Yorkshire" title="Birstall, West Yorkshire">Birstall</a></b>: <a href="/wiki/Bagshaw_Museum" title="Bagshaw Museum">Bagshaw Museum</a>, <a href="/wiki/Oakwell_Hall" title="Oakwell Hall">Oakwell Hall</a></li></ul>
+<ul><li><b><a href="/wiki/Dewsbury" title="Dewsbury">Dewsbury</a></b>: <a href="/w/index.php?title=Dewsbury_Bus_Museum&amp;action=edit&amp;redlink=1" class="new" title="Dewsbury Bus Museum (page does not exist)">Dewsbury Bus Museum</a></li>
+<li><a href="/w/index.php?title=Dewsbury_Museum&amp;action=edit&amp;redlink=1" class="new" title="Dewsbury Museum (page does not exist)">Dewsbury Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Gomersal" title="Gomersal">Gomersal</a></b>: <a href="/wiki/Red_House_Museum" title="Red House Museum">Red House Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></b>: <a href="/wiki/Castle_Hill,_Huddersfield" title="Castle Hill, Huddersfield">Castle Hill</a></li>
+<li><a href="/wiki/Colne_Valley_Museum" title="Colne Valley Museum">Colne Valley Museum</a></li>
+<li><a class="mw-selflink selflink">Rugby League Heritage Centre</a></li>
+<li><a href="/wiki/Tolson_Museum" title="Tolson Museum">Tolson Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Marsden,_West_Yorkshire" title="Marsden, West Yorkshire">Marsden</a></b>: <a href="/wiki/Standedge_Tunnels#Standedge_Tunnel_Visitor_Centre" title="Standedge Tunnels"> Standedge Tunnel Visitor Centre</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Museums_in_Leeds" title="Category:Museums in Leeds">City of Leeds museums</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Aberford" title="Aberford">Aberford</a></b>: <a href="/wiki/Lotherton_Hall" title="Lotherton Hall">Lotherton Hall</a></li></ul>
+<ul><li><b><a href="/wiki/Leeds" title="Leeds">Leeds</a></b>: <a href="/wiki/Abbey_House_Museum" title="Abbey House Museum">Abbey House Museum</a></li>
+<li><a href="/wiki/Armley_Mills_Industrial_Museum" class="mw-redirect" title="Armley Mills Industrial Museum">Armley Mills Industrial Museum</a></li>
+<li><a href="/wiki/Bramham_Park" title="Bramham Park">Bramham Park</a></li>
+<li><a href="/wiki/Harewood_House" title="Harewood House">Harewood House</a></li>
+<li><a href="/wiki/Henry_Moore_Foundation" title="Henry Moore Foundation">Henry Moore Institute in Leeds</a></li>
+<li><a href="/wiki/Kirkstall_Abbey" title="Kirkstall Abbey">Kirkstall Abbey</a></li>
+<li><a href="/wiki/Leeds_Art_Gallery" title="Leeds Art Gallery">Leeds Art Gallery</a></li>
+<li><a href="/wiki/Leeds_City_Museum" title="Leeds City Museum">Leeds City Museum</a></li>
+<li><a href="/wiki/Leeds_College_of_Art" class="mw-redirect" title="Leeds College of Art">Leeds College of Art</a></li>
+<li><a href="/wiki/Middleton_Railway" title="Middleton Railway">Middleton Railway Museum</a></li>
+<li><a href="/wiki/Royal_Armouries_Museum" title="Royal Armouries Museum">Royal Armouries Museum</a></li>
+<li><a href="/wiki/Temple_Newsam" title="Temple Newsam">Temple Newsam</a></li>
+<li><a href="/wiki/Thackray_Museum" class="mw-redirect" title="Thackray Museum">Thackray Museum</a></li>
+<li><a href="/wiki/Thwaite_Mills_Museum" class="mw-redirect" title="Thwaite Mills Museum">Thwaite Mills Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Otley" title="Otley">Otley</a></b>: <a href="/wiki/Otley_Museum" title="Otley Museum">Otley Museum</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/City_of_Wakefield" title="City of Wakefield">City of Wakefield</a> museums</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Netherton,_Wakefield" title="Netherton, Wakefield">Netherton</a></b>: <a href="/wiki/National_Coal_Mining_Museum_for_England" title="National Coal Mining Museum for England">National Coal Mining Museum for England</a></li></ul>
+<ul><li><b><a href="/wiki/Nostell" title="Nostell">Nostell</a></b>: <a href="/wiki/Nostell_Priory" title="Nostell Priory">Nostell Priory</a></li></ul>
+<ul><li><b><a href="/wiki/Pontefract" title="Pontefract">Pontefract</a></b>: <a href="/wiki/Pontefract_Museum" title="Pontefract Museum">Pontefract Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Wakefield" title="Wakefield">Wakefield</a></b>: <a href="/wiki/The_Hepworth_Wakefield" title="The Hepworth Wakefield">The Hepworth Wakefield</a></li>
+<li><a href="/wiki/Wakefield_Museum" title="Wakefield Museum">Wakefield Museum</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Rugby_League_Heritage_Centre&amp;params=53.648_N_1.7833_W_type:landmark_region:GB_scale:5000"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°38′53″N</span> <span class="longitude">1°47′00″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6480°N 1.7833°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6480; -1.7833</span></span></span></a></span></span></span>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1347
+Cached time: 20190929230727
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.156 seconds
+Real time usage: 0.234 seconds
+Preprocessor visited node count: 305/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 24588/2097152 bytes
+Template argument size: 106/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6194/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.078/10.000 seconds
+Lua memory usage: 2.55 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  183.002      1 -total
+ 44.31%   81.091      1 Template:Reflist
+ 37.54%   68.698      2 Template:Cite_web
+ 33.11%   60.588      1 Template:Advert
+ 22.66%   41.476      1 Template:Ambox
+ 12.37%   22.642      1 Template:Coord
+  8.88%   16.257      1 Template:West_Yorkshire_museums
+  6.99%   12.785      1 Template:Navbox
+  1.69%    3.097      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:13930888-0!canonical and timestamp 20190929230800 and revision id 918701404
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Rugby_League_Heritage_Centre&amp;oldid=918701404">https://en.wikipedia.org/w/index.php?title=Rugby_League_Heritage_Centre&amp;oldid=918701404</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Rugby_league_in_England" title="Category:Rugby league in England">Rugby league in England</a></li><li><a href="/wiki/Category:Sport_in_Huddersfield" title="Category:Sport in Huddersfield">Sport in Huddersfield</a></li><li><a href="/wiki/Category:Buildings_and_structures_in_Huddersfield" title="Category:Buildings and structures in Huddersfield">Buildings and structures in Huddersfield</a></li><li><a href="/wiki/Category:Tourist_attractions_in_Huddersfield" title="Category:Tourist attractions in Huddersfield">Tourist attractions in Huddersfield</a></li><li><a href="/wiki/Category:Sports_museums_in_England" title="Category:Sports museums in England">Sports museums in England</a></li><li><a href="/wiki/Category:History_of_rugby_league" title="Category:History of rugby league">History of rugby league</a></li><li><a href="/wiki/Category:Museums_established_in_2005" title="Category:Museums established in 2005">Museums established in 2005</a></li><li><a href="/wiki/Category:Museums_in_West_Yorkshire" title="Category:Museums in West Yorkshire">Museums in West Yorkshire</a></li><li><a href="/wiki/Category:Rugby_league_museums_and_halls_of_fame" title="Category:Rugby league museums and halls of fame">Rugby league museums and halls of fame</a></li><li><a href="/wiki/Category:Defunct_museums_in_England" title="Category:Defunct museums in England">Defunct museums in England</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_a_promotional_tone_from_September_2017" title="Category:Articles with a promotional tone from September 2017">Articles with a promotional tone from September 2017</a></li><li><a href="/wiki/Category:All_articles_with_a_promotional_tone" title="Category:All articles with a promotional tone">All articles with a promotional tone</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Rugby+League+Heritage+Centre" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Rugby+League+Heritage+Centre" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Rugby_League_Heritage_Centre" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Rugby_League_Heritage_Centre" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Rugby_League_Heritage_Centre">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Rugby_League_Heritage_Centre&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Rugby_League_Heritage_Centre&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Rugby_League_Heritage_Centre" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Rugby_League_Heritage_Centre" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Rugby_League_Heritage_Centre&amp;oldid=918701404" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Rugby_League_Heritage_Centre&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7378210" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Rugby_League_Heritage_Centre&amp;id=918701404" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Rugby+League+Heritage+Centre">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Rugby+League+Heritage+Centre&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Rugby_League_Heritage_Centre&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7378210#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 September 2019, at 23:08<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Rugby_League_Heritage_Centre&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.156","walltime":"0.234","ppvisitednodes":{"value":305,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":24588,"limit":2097152},"templateargumentsize":{"value":106,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6194,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  183.002      1 -total"," 44.31%   81.091      1 Template:Reflist"," 37.54%   68.698      2 Template:Cite_web"," 33.11%   60.588      1 Template:Advert"," 22.66%   41.476      1 Template:Ambox"," 12.37%   22.642      1 Template:Coord","  8.88%   16.257      1 Template:West_Yorkshire_museums","  6.99%   12.785      1 Template:Navbox","  1.69%    3.097      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.078","limit":"10.000"},"limitreport-memusage":{"value":2676764,"limit":52428800}},"cachereport":{"origin":"mw1347","timestamp":"20190929230727","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Rugby League Heritage Centre","url":"https:\/\/en.wikipedia.org\/wiki\/Rugby_League_Heritage_Centre","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7378210","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7378210","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-10-26T22:18:44Z","dateModified":"2019-09-29T23:08:00Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":93,"wgHostname":"mw1247"});});</script>
+</body>
+</html>
+

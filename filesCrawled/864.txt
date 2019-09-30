@@ -1,0 +1,1023 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>City of Leeds - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"City_of_Leeds","wgTitle":"City of Leeds","wgCurRevisionId":915990925,"wgRevisionId":915990925,"wgArticleId":24447020,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 Czech-language sources (cs)","Use dmy dates from February 2017","Use British English from July 2014","Articles with short description","Coordinates on Wikidata","Pages using infobox settlement with possible area code list","Articles with OS grid coordinates","Articles containing potentially dated statements from May 2014","All articles containing potentially dated statements","Wikipedia articles in need of updating from July 2016","All Wikipedia articles in need of updating","Commons category link is on Wikidata","Leeds City Region","Cities in Yorkshire and the Humber",
+"Metropolitan boroughs","Local government districts of Yorkshire and the Humber"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"City_of_Leeds","wgRelevantArticleId":24447020,"wgRequestId":"XYyKRQpAADsAAAptWJ8AAAAL","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},
+"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":53.79972222222222,"lon":-1.5491666666666666},"wgWikibaseItemId":"Q774015","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready",
+"skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Leeds_UK_locator_map.svg/1200px-Leeds_UK_locator_map.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/City_of_Leeds"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=City_of_Leeds&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=City_of_Leeds&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/City_of_Leeds"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-City_of_Leeds rootpage-City_of_Leeds skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">City of Leeds</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Leeds" title="Leeds">Leeds</a> and <a href="/wiki/Leeds_City_Region" title="Leeds City Region">Leeds City Region</a></div>
+<div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Leeds_(disambiguation)" class="mw-disambig" title="Leeds (disambiguation)">Leeds (disambiguation)</a>.</div>
+<p class="mw-empty-elt">
+
+</p>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">City and Metropolitan borough in England</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div style="display:inline" class="fn org">City of Leeds</div></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><div class="category"><a href="/wiki/City_status_in_the_United_Kingdom" title="City status in the United Kingdom">City</a> and <a href="/wiki/Metropolitan_borough" title="Metropolitan borough">Metropolitan borough</a></div></td></tr><tr class="mergedtoprow"><td colspan="2" class="maptable" style="text-align:center"><div style="display:table; width:100%; background:none;">
+<div style="display:table-row"><div style="display:table-cell;vertical-align:middle; text-align:center;"><a href="/wiki/File:Leedscitycouncil.png" class="image" title="Official logo of City of Leeds"><img alt="Official logo of City of Leeds" src="//upload.wikimedia.org/wikipedia/en/thumb/e/ea/Leedscitycouncil.png/100px-Leedscitycouncil.png" decoding="async" width="100" height="127" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/ea/Leedscitycouncil.png/150px-Leedscitycouncil.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/ea/Leedscitycouncil.png/200px-Leedscitycouncil.png 2x" data-file-width="280" data-file-height="356" /></a><br /><a href="/wiki/Coat_of_arms_of_Leeds" title="Coat of arms of Leeds">Coat of arms</a></div></div></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center">Motto(s):&#160;<div style="display:inline" class="nickname">"Pro Rege et Lege" <i>"For king and the law"</i></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Leeds_UK_locator_map.svg" class="image" title="Leeds shown within West Yorkshire and England"><img alt="Leeds shown within West Yorkshire and England" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Leeds_UK_locator_map.svg/250px-Leeds_UK_locator_map.svg.png" decoding="async" width="250" height="182" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Leeds_UK_locator_map.svg/375px-Leeds_UK_locator_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Leeds_UK_locator_map.svg/500px-Leeds_UK_locator_map.svg.png 2x" data-file-width="1425" data-file-height="1039" /></a><div style="padding:0.3em 0 0 0;">Leeds shown within West Yorkshire and England</div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=City_of_Leeds&amp;params=53_47_59_N_1_32_57_W_region:GB_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°47′59″N</span> <span class="longitude">1°32′57″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.79972°N 1.54917°W</span><span style="display:none">&#xfeff; / <span class="geo">53.79972; -1.54917</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=City_of_Leeds&amp;params=53_47_59_N_1_32_57_W_region:GB_type:city"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°47′59″N</span> <span class="longitude">1°32′57″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.79972°N 1.54917°W</span><span style="display:none">&#xfeff; / <span class="geo">53.79972; -1.54917</span></span></span></a></span></span></span></td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign state</a></th><td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Constituent country</a></th><td><a href="/wiki/England" title="England">England</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Regions_of_England" title="Regions of England">Region</a></th><td><a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire and the Humber</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">Ceremonial county</a></th><td><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></td></tr><tr class="mergedrow"><th scope="row">Admin HQ</th><td><a href="/wiki/Leeds" title="Leeds">Leeds</a></td></tr><tr class="mergedtoprow"><th scope="row">Borough Charter</th><td>1207</td></tr><tr class="mergedrow"><th scope="row">Town Charter</th><td>1626</td></tr><tr class="mergedrow"><th scope="row">City status</th><td>1893</td></tr><tr class="mergedrow"><th scope="row">City of Leeds Met. District created</th><td>1974</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Government<div style="font-weight:normal;display:inline;"></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Type</th><td><a href="/wiki/Metropolitan_borough" title="Metropolitan borough">Metropolitan borough</a>, <a href="/wiki/City_status_in_the_United_Kingdom" title="City status in the United Kingdom">City</a></td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Governing&#160;body</th><td><a href="/wiki/Leeds_City_Council" title="Leeds City Council">Leeds City Council</a></td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;<a href="/wiki/Lord_Mayor" class="mw-redirect" title="Lord Mayor">Lord Mayor</a></th><td>Cllr <a href="/wiki/Lord_Mayor_of_Leeds" class="mw-redirect" title="Lord Mayor of Leeds">Graham Latty</a> (<a href="/wiki/Conservative_Party_(UK)" title="Conservative Party (UK)">Conservative</a>)</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Leader of the Council</th><td>Cllr <a href="/wiki/Judith_Blake" title="Judith Blake">Judith Blake</a> (<a href="/wiki/Labour_Party_(UK)" title="Labour Party (UK)">Labour</a>)</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Chief Executive</th><td>Tom Riordan</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;<a href="/wiki/List_of_MPs_elected_in_the_2010_United_Kingdom_general_election" title="List of MPs elected in the 2010 United Kingdom general election">MPs</a>:</th><td><a href="/wiki/Stuart_Andrew" title="Stuart Andrew">Stuart Andrew</a> (<a href="/wiki/Conservative_Party_(UK)" title="Conservative Party (UK)">C</a>)<br /><a href="/wiki/Hilary_Benn" title="Hilary Benn">Hilary Benn</a> (<a href="/wiki/Labour_Party_(UK)" title="Labour Party (UK)">L</a>)<br /><a href="/wiki/Richard_Burgon" title="Richard Burgon">Richard Burgon</a> (<a href="/wiki/Labour_Party_(UK)" title="Labour Party (UK)">L</a>)<br /><a href="/wiki/Fabian_Hamilton" title="Fabian Hamilton">Fabian Hamilton</a> (<a href="/wiki/Labour_Party_(UK)" title="Labour Party (UK)">L</a>)<br /><a href="/wiki/Andrea_Jenkyns" title="Andrea Jenkyns">Andrea Jenkyns</a> (<a href="/wiki/Conservative_Party_(UK)" title="Conservative Party (UK)">C</a>)<br /><a href="/wiki/Rachel_Reeves" title="Rachel Reeves">Rachel Reeves</a> (<a href="/wiki/Labour_Party_(UK)" title="Labour Party (UK)">L</a>)<br /><a href="/wiki/Alec_Shelbrooke" title="Alec Shelbrooke">Alec Shelbrooke</a> (<a href="/wiki/Conservative_Party_(UK)" title="Conservative Party (UK)">C</a>)<br /><a href="/wiki/Alex_Sobel" title="Alex Sobel">Alex Sobel</a> (<a href="/wiki/Labour_Party_(UK)" title="Labour Party (UK)">L</a>)</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Area<div style="font-weight:normal;display:inline;"></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>213&#160;sq&#160;mi (551.72&#160;km<sup>2</sup>)</td></tr><tr class="mergedtoprow"><th scope="row">Highest&#160;elevation<div style="font-weight:normal;display:inline;"><sup id="cite_ref-note_1_1-0" class="reference"><a href="#cite_note-note_1-1">&#91;1&#93;</a></sup></div></th><td>1,120&#160;ft (340&#160;m)</td></tr><tr class="mergedbottomrow"><th scope="row">Lowest&#160;elevation<div style="font-weight:normal;display:inline;"><sup id="cite_ref-note_2_2-0" class="reference"><a href="#cite_note-note_2-2">&#91;2&#93;</a></sup></div></th><td>30&#160;ft (10&#160;m)</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population<div style="font-weight:normal;display:inline;"><span class="nowrap">&#160;</span>(mid-2018&#160;est.)</div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>789,194 (<a href="/wiki/List_of_English_districts_by_population" title="List of English districts by population">Ranked 2nd</a>)</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Density</th><td>3,574/sq&#160;mi (1,380/km<sup>2</sup>)</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Ethnicity <br />(2011 census)<sup id="cite_ref-stats_1_3-0" class="reference"><a href="#cite_note-stats_1-3">&#91;3&#93;</a></sup><div style="font-weight:normal;display:inline;"></div></th><td>85% White<br />5.7% Asian or Asian British<br />3.5% Black or Black British<br />2.7% Mixed Race<br />3.1% Other</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td><a href="/wiki/UTC%2B0" class="mw-redirect" title="UTC+0">UTC+0</a> (<a href="/wiki/Greenwich_Mean_Time" title="Greenwich Mean Time">Greenwich Mean Time</a>)</td></tr><tr class="mergedrow"><th scope="row"><span style="white-space:nowrap">&#160;•&#160;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th><td><a href="/wiki/UTC%2B1" class="mw-redirect" title="UTC+1">UTC+1</a> (<a href="/wiki/British_Summer_Time" title="British Summer Time">British Summer Time</a>)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/List_of_postcode_areas_in_the_United_Kingdom" title="List of postcode areas in the United Kingdom">Postcode areas</a></th><td class="adr"><div class="postal-code"><a href="/wiki/LS_postcode_area" title="LS postcode area">LS</a>, <a href="/wiki/WF_postcode_area" title="WF postcode area">WF</a>, <a href="/wiki/BD_postcode_area" title="BD postcode area">BD</a></div></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Telephone_numbering_plan" title="Telephone numbering plan">Area code(s)</a></th><td>0113, 01924, 01937, 01943, 01977</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/ISO_3166-2:GB" title="ISO 3166-2:GB">ISO 3166-2</a></th><td>GB-LDS</td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/ONS_coding_system" title="ONS coding system">ONS code</a></th><td>00DA (ONS)<br />E08000035 (GSS)</td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Nomenclature_of_Territorial_Units_for_Statistics" title="Nomenclature of Territorial Units for Statistics">NUTS 3</a></th><td>UKE42</td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/British_national_grid_reference_system" class="mw-redirect" title="British national grid reference system">OS grid reference</a></th><td><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.799666817806;-1.5520813759952_region:GB_scale:25000?pagename=City_of_Leeds">SE296338</a></span></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/European_Parliament" title="European Parliament">Euro. Parlt. Const.</a></th><td><a href="/wiki/Yorkshire_and_the_Humber_(European_Parliament_constituency)" title="Yorkshire and the Humber (European Parliament constituency)">Yorkshire &amp; the Humber</a></td></tr><tr class="mergedrow"><th scope="row">Primary Airport</th><td><a href="/wiki/Leeds_Bradford_Airport" title="Leeds Bradford Airport">Leeds Bradford Airport</a></td></tr><tr class="mergedtoprow"><th scope="row">Website</th><td><a rel="nofollow" class="external text" href="http://www.leeds.gov.uk/">www.leeds.gov.uk</a></td></tr></tbody></table>
+<p>The <b>City of Leeds</b> (<span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="&#39;l&#39; in &#39;lie&#39;">l</span><span title="/iː/: &#39;ee&#39; in &#39;fleece&#39;">iː</span><span title="&#39;d&#39; in &#39;dye&#39;">d</span><span title="&#39;z&#39; in &#39;zoom&#39;">z</span></span>/</a></span></span> <sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>) is a <a href="/wiki/Local_government_district" class="mw-redirect" title="Local government district">local government district</a> of <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, England, governed by <a href="/wiki/Leeds_City_Council" title="Leeds City Council">Leeds City Council</a>, with the status of a <a href="/wiki/City_status_in_the_United_Kingdom" title="City status in the United Kingdom">city</a> and <a href="/wiki/Metropolitan_borough" title="Metropolitan borough">metropolitan borough</a>. The metropolitan district includes the administrative centre <a href="/wiki/Leeds" title="Leeds">Leeds</a> and the ten towns of <a href="/wiki/Farsley" title="Farsley">Farsley</a>, <a href="/wiki/Garforth" title="Garforth">Garforth</a>, <a href="/wiki/Guiseley" title="Guiseley">Guiseley</a>, <a href="/wiki/Horsforth" title="Horsforth">Horsforth</a>, <a href="/wiki/Morley,_West_Yorkshire" title="Morley, West Yorkshire">Morley</a>, <a href="/wiki/Otley" title="Otley">Otley</a>, <a href="/wiki/Pudsey" title="Pudsey">Pudsey</a>, <a href="/wiki/Rothwell,_West_Yorkshire" title="Rothwell, West Yorkshire">Rothwell</a>, <a href="/wiki/Wetherby" title="Wetherby">Wetherby</a> and <a href="/wiki/Yeadon,_West_Yorkshire" title="Yeadon, West Yorkshire">Yeadon</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> It has a population of 789,194 (mid-2018&#160;est.), making it technically the second <a href="/wiki/List_of_English_districts_by_population" title="List of English districts by population">largest city</a> in England by population behind <a href="/wiki/Birmingham" title="Birmingham">Birmingham</a>.
+</p><p>The current city boundaries were set on 1 April 1974 by the provisions of the <a href="/wiki/Local_Government_Act_1972" title="Local Government Act 1972">Local Government Act 1972</a>, as part a reform of <a href="/wiki/Local_government_in_England" title="Local government in England">local government in England</a>. The city is a <a href="/wiki/Amalgamation_(politics)" class="mw-redirect" title="Amalgamation (politics)">merger</a> of eleven former local government districts; the unitary <a href="/wiki/County_Borough_of_Leeds" title="County Borough of Leeds">City and County Borough of Leeds</a> combined with the <a href="/wiki/Municipal_borough" title="Municipal borough">municipal boroughs</a> of <a href="/wiki/Municipal_Borough_of_Morley" title="Municipal Borough of Morley">Morley</a> and <a href="/wiki/Municipal_Borough_of_Pudsey" title="Municipal Borough of Pudsey">Pudsey</a>, the <a href="/wiki/Urban_district_(Great_Britain_and_Ireland)" title="Urban district (Great Britain and Ireland)">urban districts</a> of <a href="/wiki/Aireborough_Urban_District" class="mw-redirect" title="Aireborough Urban District">Aireborough</a>, <a href="/wiki/Garforth_Urban_District" class="mw-redirect" title="Garforth Urban District">Garforth</a>, <a href="/wiki/Horsforth_Urban_District" class="mw-redirect" title="Horsforth Urban District">Horsforth</a>, <a href="/wiki/Otley_Urban_District" class="mw-redirect" title="Otley Urban District">Otley</a> and <a href="/wiki/Rothwell_Urban_District_(Yorkshire)" class="mw-redirect" title="Rothwell Urban District (Yorkshire)">Rothwell</a>, and parts of the <a href="/wiki/Rural_district" title="Rural district">rural districts</a> of <a href="/wiki/Tadcaster_Rural_District" title="Tadcaster Rural District">Tadcaster</a>, <a href="/wiki/Wharfedale_Rural_District" title="Wharfedale Rural District">Wharfedale</a> and <a href="/wiki/Wetherby_Rural_District" title="Wetherby Rural District">Wetherby</a> from the <a href="/wiki/West_Riding_of_Yorkshire" title="West Riding of Yorkshire">West Riding of Yorkshire</a>.
+</p><p>For its first 12 years the city had a two-tier system of local government; Leeds City Council shared power with the West Yorkshire County Council. Since the <a href="/wiki/Local_Government_Act_1985" title="Local Government Act 1985">Local Government Act 1985</a> Leeds City Council has effectively been a <a href="/wiki/Unitary_authority" title="Unitary authority">unitary authority</a>, serving as the sole <a href="/wiki/Executive_(government)" title="Executive (government)">executive</a>, <a href="/wiki/Deliberation" title="Deliberation">deliberative</a> and <a href="/wiki/Legislative" class="mw-redirect" title="Legislative">legislative</a> body responsible for local policy, setting <a href="/wiki/Council_tax" class="mw-redirect" title="Council tax">council tax</a>, and allocating budget in the city, and is a member of the <a href="/wiki/Leeds_City_Region" title="Leeds City Region">Leeds City Region Partnership</a>. The City of Leeds is divided into 31 <a href="/wiki/Civil_parish" title="Civil parish">civil parishes</a> and a single <a href="/wiki/Unparished_area" title="Unparished area">unparished area</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Background"><span class="tocnumber">1.1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Formation"><span class="tocnumber">1.2</span> <span class="toctext">Formation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Governance"><span class="tocnumber">3</span> <span class="toctext">Governance</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Demography"><span class="tocnumber">4</span> <span class="toctext">Demography</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Economy"><span class="tocnumber">5</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Education"><span class="tocnumber">6</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Transport"><span class="tocnumber">7</span> <span class="toctext">Transport</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Twin_cities"><span class="tocnumber">8</span> <span class="toctext">Twin cities</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes_and_references"><span class="tocnumber">9</span> <span class="toctext">Notes and references</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=City_of_Leeds&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/History_of_Leeds" title="History of Leeds">History of Leeds</a> and <a href="/wiki/County_Borough_of_Leeds" title="County Borough of Leeds">County Borough of Leeds</a></div>
+<h3><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=City_of_Leeds&amp;action=edit&amp;section=2" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/County_Borough_of_Leeds" title="County Borough of Leeds">Borough of Leeds</a> was created in 1207, when Maurice Paynel, lord of the manor, granted a charter covering a small area adjacent to a crossing of the River Aire, between the old settlement centred on Leeds Parish Church to the east and the manor house and mills to the west. In 1626 a charter was granted by Charles I, incorporating the entire parish as the <a href="/wiki/County_Borough_of_Leeds" title="County Borough of Leeds">Borough of Leeds</a>; it was reformed by the <a href="/wiki/Municipal_Corporations_Act_1835" title="Municipal Corporations Act 1835">Municipal Corporations Act 1835</a>. The parish and borough included the chapelries of <a href="/wiki/Chapel_Allerton" title="Chapel Allerton">Chapel Allerton</a>, <a href="/wiki/Armley" title="Armley">Armley</a>, <a href="/wiki/Beeston,_Leeds" title="Beeston, Leeds">Beeston</a>, <a href="/wiki/Beeston,_Leeds" title="Beeston, Leeds">Bramley</a>, <a href="/wiki/Farnley,_West_Yorkshire" class="mw-redirect" title="Farnley, West Yorkshire">Farnley</a>, <a href="/wiki/Headingley_cum_Burley" class="mw-redirect" title="Headingley cum Burley">Headingley cum Burley</a>, <a href="/wiki/Holbeck" title="Holbeck">Holbeck</a>, <a href="/wiki/Hunslet" title="Hunslet">Hunslet</a>, <a href="/wiki/Leeds" title="Leeds">Leeds</a>, <a href="/wiki/Potternewton" title="Potternewton">Potternewton</a> and <a href="/wiki/Wortley,_West_Yorkshire" class="mw-redirect" title="Wortley, West Yorkshire">Wortley</a>. The borough was located in the <a href="/wiki/West_Riding_of_Yorkshire" title="West Riding of Yorkshire">West Riding</a> of <a href="/wiki/Yorkshire" title="Yorkshire">Yorkshire</a> and gained <a href="/wiki/City_status_in_the_United_Kingdom" title="City status in the United Kingdom">city status</a> in 1893. When a county council was formed for the riding in 1889, Leeds was excluded from its area of responsibility and formed a <a href="/wiki/County_borough" title="County borough">county borough</a>. The borough made a significant number of territorial expansions, expanding from 21,593 acres (87.38&#160;km<sup>2</sup>) in 1911 to 40,612 acres (164.35&#160;km<sup>2</sup>) in 1961;<sup id="cite_ref-county_borough_6-0" class="reference"><a href="#cite_note-county_borough-6">&#91;6&#93;</a></sup> adding in stages the former area of the Roundhay, Seacroft, Shadwell and <a href="/wiki/Middleton,_West_Yorkshire" class="mw-redirect" title="Middleton, West Yorkshire">Middleton</a> parishes and gaining other parts of adjacent districts.
+</p>
+<h3><span class="mw-headline" id="Formation">Formation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=City_of_Leeds&amp;action=edit&amp;section=3" title="Edit section: Formation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A review of local government arrangements <a href="/wiki/Redcliffe-Maud_Report" title="Redcliffe-Maud Report">completed in 1969</a> proposed the creation of a new large district centred on Leeds, occupying 317,000 acres (1,280&#160;km<sup>2</sup>) and including 840,000 people. The proposed area was significantly reduced in a 1971 <a href="/wiki/White_paper" title="White paper">white paper</a>; and within a year every local authority to be incorporated into it protested or demonstrated.<sup id="cite_ref-fraser_7-0" class="reference"><a href="#cite_note-fraser-7">&#91;7&#93;</a></sup> The final proposal reduced the area further and following the enactment of the <a href="/wiki/Local_Government_Act_1972" title="Local Government Act 1972">Local Government Act 1972</a>, the county borough was abolished on 1 April 1974 and its former area was combined with that of the municipal boroughs of <a href="/wiki/Municipal_Borough_of_Morley" title="Municipal Borough of Morley">Morley</a> and <a href="/wiki/Municipal_Borough_of_Pudsey" title="Municipal Borough of Pudsey">Pudsey</a>; the urban districts of <a href="/wiki/Aireborough_Urban_District" class="mw-redirect" title="Aireborough Urban District">Aireborough</a>, <a href="/wiki/Horsforth_Urban_District" class="mw-redirect" title="Horsforth Urban District">Horsforth</a>, <a href="/wiki/Otley_Urban_District" class="mw-redirect" title="Otley Urban District">Otley</a>, <a href="/wiki/Garforth_Urban_District" class="mw-redirect" title="Garforth Urban District">Garforth</a> and <a href="/wiki/Rothwell_Urban_District_(Yorkshire)" class="mw-redirect" title="Rothwell Urban District (Yorkshire)">Rothwell</a>; and parts of the rural districts of <a href="/wiki/Tadcaster_Rural_District" title="Tadcaster Rural District">Tadcaster</a>, <a href="/wiki/Wetherby_Rural_District" title="Wetherby Rural District">Wetherby</a> and <a href="/wiki/Wharfedale_Rural_District" title="Wharfedale Rural District">Wharfedale</a>. The new district gained both borough and city status, as had been held by the county borough; and forms part of the county of <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th colspan="2">Formation of the metropolitan district in 1974
+</th></tr>
+<tr>
+<td>The former county borough is shaded in grey. Other areas:
+<ol><li>Municipal Borough of Morley</li>
+<li>Municipal Borough of Pudsey</li>
+<li>Aireborough Urban District</li>
+<li>Horsforth Urban District</li>
+<li>Otley Urban District</li>
+<li>Garforth Urban District</li>
+<li>Rothwell Urban District</li>
+<li>8a. Tadcaster Rural District (part)</li>
+<li>Wetherby Rural District (part)</li>
+<li>Wharfedale Rural District (part)</li></ol>
+</td>
+<td><a href="/wiki/File:Leeds1974.png" class="image"><img alt="Leeds1974.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Leeds1974.png/300px-Leeds1974.png" decoding="async" width="300" height="248" srcset="//upload.wikimedia.org/wikipedia/commons/5/51/Leeds1974.png 1.5x" data-file-width="400" data-file-height="330" /></a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=City_of_Leeds&amp;action=edit&amp;section=4" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:South_Leeds_aerial_photograph.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/South_Leeds_aerial_photograph.jpg/220px-South_Leeds_aerial_photograph.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/South_Leeds_aerial_photograph.jpg/330px-South_Leeds_aerial_photograph.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/South_Leeds_aerial_photograph.jpg/440px-South_Leeds_aerial_photograph.jpg 2x" data-file-width="1600" data-file-height="1200" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:South_Leeds_aerial_photograph.jpg" class="internal" title="Enlarge"></a></div>An aerial photograph of South Leeds, showing Beeston, Holbeck, Wortley, Elland Road stadium and the M621</div></div></div>
+<p><a href="/wiki/List_of_places_in_Leeds" title="List of places in Leeds">The district and its settlements</a> are situated in the eastern foothills of the <a href="/wiki/Pennines" title="Pennines">Pennines</a> astride the <a href="/wiki/River_Aire" title="River Aire">River Aire</a> whose valley, the Aire Gap, provides a road and rail corridor that facilitates communications with cities to the west of the Pennines. The district extends 15 miles (24&#160;km) from east to west and 13 miles (21&#160;km) from north to south; with over 65% covered with <a href="/wiki/Green_belt_(UK)" class="mw-redirect" title="Green belt (UK)">green belt</a> land. The highest point, at 1,115&#160;feet (340&#160;m), is at its north western extremity on the eastern slopes of Rombalds Moor, better known as <a href="/wiki/Ilkley_Moor" title="Ilkley Moor">Ilkley Moor</a>, on the boundary with the <a href="/wiki/City_of_Bradford" title="City of Bradford">City of Bradford</a>. The lowest points are at around 33&#160;feet (10&#160;m), in the east: where <a href="/wiki/River_Wharfe" title="River Wharfe">River Wharfe</a> crosses the boundary with <a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a> south of <a href="/wiki/Thorp_Arch_Trading_Estate" title="Thorp Arch Trading Estate">Thorp Arch Trading Estate</a> and where the River Aire (at this point forming the <a href="/wiki/City_of_Wakefield" title="City of Wakefield">City of Wakefield</a> boundary) meets the North Yorkshire boundary near <a href="/wiki/Fairburn_Ings_RSPB_reserve" title="Fairburn Ings RSPB reserve">Fairburn Ings</a>. To the north and east Leeds is bordered by <a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a>: <a href="/wiki/Harrogate_(borough)" class="mw-redirect" title="Harrogate (borough)">Harrogate district</a> to the north and <a href="/wiki/Selby_(district)" class="mw-redirect" title="Selby (district)">Selby district</a> to the east. The remaining borders are with other districts of <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>: <a href="/wiki/City_of_Wakefield" title="City of Wakefield">Wakefield</a> to the south, <a href="/wiki/Kirklees" title="Kirklees">Kirklees</a> to the south west, and <a href="/wiki/City_of_Bradford" title="City of Bradford">Bradford</a> to the west.<sup id="cite_ref-city_region_8-0" class="reference"><a href="#cite_note-city_region-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Governance">Governance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=City_of_Leeds&amp;action=edit&amp;section=5" title="Edit section: Governance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/Leeds_City_Council" title="Leeds City Council">Leeds City Council</a> and <a href="/wiki/History_of_local_government_in_Yorkshire" title="History of local government in Yorkshire">History of local government in Yorkshire</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Leeds_Civic_Hall_11_Sep_2016.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Leeds_Civic_Hall_11_Sep_2016.jpg/250px-Leeds_Civic_Hall_11_Sep_2016.jpg" decoding="async" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Leeds_Civic_Hall_11_Sep_2016.jpg/375px-Leeds_Civic_Hall_11_Sep_2016.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Leeds_Civic_Hall_11_Sep_2016.jpg/500px-Leeds_Civic_Hall_11_Sep_2016.jpg 2x" data-file-width="3264" data-file-height="2448" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Leeds_Civic_Hall_11_Sep_2016.jpg" class="internal" title="Enlarge"></a></div>Leeds Civic hall, Millennium Square, meeting place of Leeds City Council</div></div></div>
+<p><a href="/wiki/Leeds_City_Council" title="Leeds City Council">Leeds City Council</a> is the local authority of the district. The council is composed of 99 councillors, three for each of the city's <a href="/wiki/Wards_of_the_United_Kingdom" class="mw-redirect" title="Wards of the United Kingdom">wards</a>. Elections are held three years out of four, on the first Thursday of May. One third of the councillors are elected, for a four-year term, in each election. 2004 saw all seats up for election due to boundary changes. It is currently run by a <a href="/wiki/Labour_Party_(UK)" title="Labour Party (UK)">Labour</a> administration. Before the 2011 election, the council had been under <a href="/wiki/No_overall_control" title="No overall control">no overall control</a> since 2004. The Chief Executive of Leeds City Council is Tom Riordan while the Leader of the Council is Councillor <a href="/wiki/Judith_Blake" title="Judith Blake">Judith Blake</a> of the Labour Party. As a <a href="/wiki/Metropolitan_county" title="Metropolitan county">metropolitan county</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a> does not have a county council, so Leeds City Council is the primary provider of local government services. The district forms part of the <a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire and the Humber</a> region of England.
+</p><p>Most of the district is an <a href="/wiki/Unparished_area" title="Unparished area">unparished area</a>, comprising Leeds itself (the area of the former county borough), Pudsey, Garforth, Rothwell and the area of the former urban district of Aireborough.  In the unparished area there is no lower tier of government. Outside the unparished area there are 31 <a href="/wiki/Civil_parish" title="Civil parish">civil parishes</a>, represented by <a href="/wiki/Parish_councils_in_England" title="Parish councils in England">parish councils</a>.  These form the lowest tier of local government<sup id="cite_ref-leeds_parish_9-0" class="reference"><a href="#cite_note-leeds_parish-9">&#91;9&#93;</a></sup> and absorb some limited functions from Leeds City Council in their areas. The councils of the civil parishes of <a href="/wiki/Horsforth" title="Horsforth">Horsforth</a>, <a href="/wiki/Morley,_West_Yorkshire" title="Morley, West Yorkshire">Morley</a>, <a href="/wiki/Otley" title="Otley">Otley</a> and <a href="/wiki/Wetherby" title="Wetherby">Wetherby</a> are town councils.<sup id="cite_ref-map_10-0" class="reference"><a href="#cite_note-map-10">&#91;10&#93;</a></sup>  The 27 other civil parishes are:
+</p>
+<table>
+<tbody><tr>
+<td>
+<ul><li><a href="/wiki/Aberford" title="Aberford">Aberford</a></li>
+<li><a href="/wiki/Allerton_Bywater" title="Allerton Bywater">Allerton Bywater</a></li>
+<li><a href="/wiki/Alwoodley" title="Alwoodley">Alwoodley</a></li>
+<li><a href="/wiki/Arthington" title="Arthington">Arthington</a></li>
+<li><a href="/wiki/Bardsey_cum_Rigton" title="Bardsey cum Rigton">Bardsey cum Rigton</a></li>
+<li><a href="/wiki/Barwick_in_Elmet_and_Scholes" title="Barwick in Elmet and Scholes">Barwick in Elmet and Scholes</a></li>
+<li><a href="/wiki/Boston_Spa" title="Boston Spa">Boston Spa</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Bramham_cum_Oglethorpe" title="Bramham cum Oglethorpe">Bramham cum Oglethorpe</a></li>
+<li><a href="/wiki/Bramhope" title="Bramhope">Bramhope</a> and Carlton</li>
+<li><a href="/wiki/Clifford,_West_Yorkshire" title="Clifford, West Yorkshire">Clifford</a></li>
+<li><a href="/wiki/Collingham,_West_Yorkshire" title="Collingham, West Yorkshire">Collingham</a> with <a href="/wiki/Linton,_West_Yorkshire" title="Linton, West Yorkshire">Linton</a></li>
+<li><a href="/wiki/Drighlington" title="Drighlington">Drighlington</a></li>
+<li><a href="/wiki/East_Keswick" title="East Keswick">East Keswick</a></li>
+<li><a href="/wiki/Gildersome" title="Gildersome">Gildersome</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Great_Preston" title="Great Preston">Great and Little Preston</a></li>
+<li><a href="/wiki/Harewood" title="Harewood">Harewood</a></li>
+<li><a href="/wiki/Kippax,_West_Yorkshire" title="Kippax, West Yorkshire">Kippax</a></li>
+<li><a href="/wiki/Ledsham,_West_Yorkshire" title="Ledsham, West Yorkshire">Ledsham</a></li>
+<li><a href="/wiki/Ledston" title="Ledston">Ledston</a></li>
+<li><a href="/wiki/Micklefield" title="Micklefield">Micklefield</a></li>
+<li><a href="/wiki/Pool_in_Wharfedale" class="mw-redirect" title="Pool in Wharfedale">Pool in Wharfedale</a></li></ul>
+</td>
+<td>
+<ul><li><a href="/wiki/Scarcroft" title="Scarcroft">Scarcroft</a></li>
+<li><a href="/wiki/Shadwell,_Leeds" class="mw-redirect" title="Shadwell, Leeds">Shadwell</a></li>
+<li><a href="/wiki/Swillington" title="Swillington">Swillington</a></li>
+<li><a href="/wiki/Thorner" title="Thorner">Thorner</a></li>
+<li><a href="/wiki/Thorp_Arch_(village)" class="mw-redirect" title="Thorp Arch (village)">Thorp Arch</a></li>
+<li><a href="/wiki/Walton,_Leeds" title="Walton, Leeds">Walton</a></li></ul>
+</td></tr></tbody></table>
+<p>The district is represented by eight <a href="/wiki/Member_of_Parliament" class="mw-redirect" title="Member of Parliament">MPs</a>, for the constituencies of <a href="/wiki/Elmet_and_Rothwell_(UK_Parliament_constituency)" title="Elmet and Rothwell (UK Parliament constituency)">Elmet and Rothwell</a> (<a href="/wiki/Alec_Shelbrooke" title="Alec Shelbrooke">Alec Shelbrooke</a>, Conservative); <a href="/wiki/Leeds_Central_(UK_Parliament_constituency)" title="Leeds Central (UK Parliament constituency)">Leeds Central</a> (<a href="/wiki/Hilary_Benn" title="Hilary Benn">Hilary Benn</a>, Labour); <a href="/wiki/Leeds_East_(UK_Parliament_constituency)" title="Leeds East (UK Parliament constituency)">Leeds East</a> (<a href="/wiki/Richard_Burgon" title="Richard Burgon">Richard Burgon</a>, Labour); <a href="/wiki/Leeds_North_East_(UK_Parliament_constituency)" title="Leeds North East (UK Parliament constituency)">Leeds North East</a> (<a href="/wiki/Fabian_Hamilton" title="Fabian Hamilton">Fabian Hamilton</a>, Labour); <a href="/wiki/Leeds_North_West_(UK_Parliament_constituency)" title="Leeds North West (UK Parliament constituency)">Leeds North West</a> (<a href="/wiki/Alex_Sobel" title="Alex Sobel">Alex Sobel</a>, Labour); <a href="/wiki/Leeds_West_(UK_Parliament_constituency)" title="Leeds West (UK Parliament constituency)">Leeds West</a> (<a href="/wiki/Rachel_Reeves" title="Rachel Reeves">Rachel Reeves</a>, Labour); <a href="/wiki/Morley_and_Outwood_(UK_Parliament_constituency)" title="Morley and Outwood (UK Parliament constituency)">Morley and Outwood</a> (constituency shared with <a href="/wiki/City_of_Wakefield" title="City of Wakefield">City of Wakefield</a>) (<a href="/wiki/Andrea_Jenkyns" title="Andrea Jenkyns">Andrea Jenkyns</a>, Conservative); and <a href="/wiki/Pudsey_(UK_Parliament_constituency)" title="Pudsey (UK Parliament constituency)">Pudsey</a> (<a href="/wiki/Stuart_Andrew" title="Stuart Andrew">Stuart Andrew</a>, Conservative). Leeds is within the <a href="/wiki/Yorkshire_and_the_Humber_(European_Parliament_constituency)" title="Yorkshire and the Humber (European Parliament constituency)">Yorkshire and the Humber</a> European constituency, which as of May 2014<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=City_of_Leeds&amp;action=edit">&#91;update&#93;</a></sup> is represented by three <a href="/wiki/United_Kingdom_Independence_Party" class="mw-redirect" title="United Kingdom Independence Party">UKIP</a>, two <a href="/wiki/Labour_Party_(UK)" title="Labour Party (UK)">Labour</a>, and one <a href="/wiki/Conservative_Party_(UK)" title="Conservative Party (UK)">Conservative</a> <a href="/wiki/Member_of_the_European_Parliament" title="Member of the European Parliament">MEPs</a>. The voting figures for Leeds in the <a href="/wiki/2009_European_Parliament_election_in_the_United_Kingdom" title="2009 European Parliament election in the United Kingdom">European Parliament election</a> in June 2009 were: Conservative 22.6%, Labour 21.4%, UKIP 15.9%, Lib Dem 13.8%, BNP 10.0%, <a href="/wiki/Green_Party_of_England_and_Wales" title="Green Party of England and Wales">Green</a> 9.4%.<sup id="cite_ref-euro_election_11-0" class="reference"><a href="#cite_note-euro_election-11">&#91;11&#93;</a></sup> <sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The date of the event predicted near this tag has passed. (July 2016)">needs update</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Demography">Demography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=City_of_Leeds&amp;action=edit&amp;section=6" title="Edit section: Demography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Demography_of_Leeds" title="Demography of Leeds">Demography of Leeds</a></div>
+<table class="wikitable" align="right" style="font-size:85%;margin-left:10px;">
+
+<tbody><tr>
+<th colspan="4"><b>Leeds compared</b>
+</th></tr>
+<tr>
+<th><a href="/wiki/United_Kingdom_Census_2001" class="mw-redirect" title="United Kingdom Census 2001">2001 UK Census</a><sup id="cite_ref-Leeds_ethnic_group_12-0" class="reference"><a href="#cite_note-Leeds_ethnic_group-12">&#91;12&#93;</a></sup></th>
+<th>City of Leeds<br />metropolitan district</th>
+<th><a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire<br />and the Humber</a></th>
+<th>England
+</th></tr>
+<tr>
+<td>Population</td>
+<td>715,402</td>
+<td>4,964,833</td>
+<td>49,138,831
+</td></tr>
+<tr>
+<td>White</td>
+<td>91.8%</td>
+<td>93.5%</td>
+<td>90.9%
+</td></tr>
+<tr>
+<td>Asian</td>
+<td>4.5%</td>
+<td>4.5%</td>
+<td>4.6%
+</td></tr>
+<tr>
+<td>Black</td>
+<td>1.4%</td>
+<td>0.7%</td>
+<td>2.3%
+</td></tr></tbody></table>
+<p>At the <a href="/wiki/United_Kingdom_Census_2001" class="mw-redirect" title="United Kingdom Census 2001">2001 UK census</a>, the district had a total population of 715,402.<sup id="cite_ref-Leeds_ethnic_group_12-1" class="reference"><a href="#cite_note-Leeds_ethnic_group-12">&#91;12&#93;</a></sup> Of the 301,614 households in Leeds, 33.3% were married couples living together, 31.6% were one-person households, 9.0% were <a href="/wiki/Cohabitation" title="Cohabitation">co-habiting</a> couples and 9.8% were lone parents, following a similar trend to the rest of England.<sup id="cite_ref-household_13-0" class="reference"><a href="#cite_note-household-13">&#91;13&#93;</a></sup> The population density was 1,967/km<sup>2</sup> (5,090/sq&#160;mi)<sup id="cite_ref-household_13-1" class="reference"><a href="#cite_note-household-13">&#91;13&#93;</a></sup> and for every 100 females, there were 93.5 males. Of those aged 16–74, 30.9% had no <a href="/wiki/National_Qualifications_Framework" class="mw-redirect" title="National Qualifications Framework">academic qualifications</a>, higher than the 28.9% in all of England.<sup id="cite_ref-key_stats_14-0" class="reference"><a href="#cite_note-key_stats-14">&#91;14&#93;</a></sup> Of the residents, 6.6% were born outside the United Kingdom, lower than the England average of 9.2%.<sup id="cite_ref-stats_birth_15-0" class="reference"><a href="#cite_note-stats_birth-15">&#91;15&#93;</a></sup>
+</p><p>The majority of people in Leeds identify themselves as <a href="/wiki/Christianity" title="Christianity">Christian</a>.<sup id="cite_ref-Census_Data_16-0" class="reference"><a href="#cite_note-Census_Data-16">&#91;16&#93;</a></sup> The proportion of <a href="/wiki/Muslim" class="mw-redirect" title="Muslim">Muslims</a> is average for the country.<sup id="cite_ref-Census_Data_16-1" class="reference"><a href="#cite_note-Census_Data-16">&#91;16&#93;</a></sup> Leeds has the third-largest <a href="/wiki/Judaism" title="Judaism">Jewish</a> community in the United Kingdom, after those of London and Manchester. The areas of <a href="/wiki/Alwoodley" title="Alwoodley">Alwoodley</a> and <a href="/wiki/Moortown,_West_Yorkshire" class="mw-redirect" title="Moortown, West Yorkshire">Moortown</a> contain sizeable Jewish populations.<sup id="cite_ref-Freedman_17-0" class="reference"><a href="#cite_note-Freedman-17">&#91;17&#93;</a></sup> 16.8% of Leeds residents in the 2001 census declared themselves as having "no religion", which is broadly in line with the figure for the whole of the UK (also 8.1% "religion not stated").
+</p><p>The crime rate in Leeds is well above the national average, like many other English major cities.<sup id="cite_ref-crime_street_18-0" class="reference"><a href="#cite_note-crime_street-18">&#91;18&#93;</a></sup><sup id="cite_ref-crime_stat_19-0" class="reference"><a href="#cite_note-crime_stat-19">&#91;19&#93;</a></sup> In July 2006, the <a href="/wiki/Think_tank" title="Think tank">think tank</a> <a href="/wiki/Reform_(think_tank)" title="Reform (think tank)">Reform</a> calculated rates of crime for different offences and has related this to populations of major urban areas (defined as towns over 100,000 population). Leeds was 11th in this rating (excluding London boroughs, 23rd including London boroughs).<sup id="cite_ref-reform_20-0" class="reference"><a href="#cite_note-reform-20">&#91;20&#93;</a></sup> The table below details the population of the current area of the district since 1801, including the percentage change since the last available census data.
+</p>
+<table class="wikitable" style="font-size:90%;width:70%;border:0px;text-align:center;line-height:120%;">
+<tbody><tr>
+<th colspan="22" style="text-align:center;font-size:90%;"><a href="/wiki/Population_growth" title="Population growth">Population growth</a> in City of Leeds since 1801
+</th></tr>
+<tr>
+<th style="background: #99CCCC; color: #000080" height="17">Year
+</th>
+<th style="background: #FFFFFF; color:#000080;">1801
+</th>
+<th style="background: #FFFFFF; color:#000080;">1811
+</th>
+<th style="background: #FFFFFF; color:#008080;">1821
+</th>
+<th style="background: #FFFFFF; color:#000080;">1831
+</th>
+<th style="background: #FFFFFF; color:#000080;">1841
+</th>
+<th style="background: #FFFFFF; color:#000080;">1851
+</th>
+<th style="background: #FFFFFF; color:#000080;">1861
+</th>
+<th style="background: #FFFFFF; color:#000080;">1871
+</th>
+<th style="background: #FFFFFF; color:#000080;">1881
+</th>
+<th style="background: #FFFFFF; color:#000080;">1891
+</th>
+<th style="background: #FFFFFF; color:#000080;">1901
+</th>
+<th style="background: #FFFFFF; color:#000080;">1911
+</th>
+<th style="background: #FFFFFF; color:#000080;">1921
+</th>
+<th style="background: #FFFFFF; color:#000080;">1931
+</th>
+<th style="background: #FFFFFF; color:#000080;">1941
+</th>
+<th style="background: #FFFFFF; color:#000080;">1951
+</th>
+<th style="background: #FFFFFF; color:#000080;">1961
+</th>
+<th style="background: #FFFFFF; color:#000080;">1971
+</th>
+<th style="background: #FFFFFF; color:#000080;">1981
+</th>
+<th style="background: #FFFFFF; color:#000080;">1991
+</th>
+<th style="background: #FFFFFF; color:#000080;">2001
+</th></tr>
+<tr align="center">
+<th style="background: #99CCCC; color: #000080" height="17">Population
+</th>
+<td style="background: #FFFFFF; color: black;">94,421
+</td>
+<td style="background: #FFFFFF; color: black;">108,459
+</td>
+<td style="background: #FFFFFF; color: black;">137,476
+</td>
+<td style="background: #FFFFFF; color: black;">183,015
+</td>
+<td style="background: #FFFFFF; color: black;">222,189
+</td>
+<td style="background: #FFFFFF; color: black;">249,992
+</td>
+<td style="background: #FFFFFF; color: black;">311,197
+</td>
+<td style="background: #FFFFFF; color: black;">372,402
+</td>
+<td style="background: #FFFFFF; color: black;">433,607
+</td>
+<td style="background: #FFFFFF; color: black;">503,493
+</td>
+<td style="background: #FFFFFF; color: black;">552,479
+</td>
+<td style="background: #FFFFFF; color: black;">606,250
+</td>
+<td style="background: #FFFFFF; color: black;">625,854
+</td>
+<td style="background: #FFFFFF; color: black;">646,119
+</td>
+<td style="background: #FFFFFF; color: black;">668,667
+</td>
+<td style="background: #FFFFFF; color: black;">692,003
+</td>
+<td style="background: #FFFFFF; color: black;">715,260
+</td>
+<td style="background: #FFFFFF; color: black;">739,401
+</td>
+<td style="background: #FFFFFF; color: black;">696,732
+</td>
+<td style="background: #FFFFFF; color: black;">716,760
+</td>
+<td style="background: #FFFFFF; color: black;">715,404
+</td></tr>
+<tr>
+<th style="background: #99CCCC; color: #000080" height="17">% change
+</th>
+<td style="background: #FFFFFF; color: black;">–
+</td>
+<td style="background: #FFFFFF; color: black;">+14.87
+</td>
+<td style="background: #FFFFFF; color: black;">+26.75
+</td>
+<td style="background: #FFFFFF; color: black;">+33.13
+</td>
+<td style="background: #FFFFFF; color: black;">+21.40
+</td>
+<td style="background: #FFFFFF; color: black;">+12.51
+</td>
+<td style="background: #FFFFFF; color: black;">+24.48
+</td>
+<td style="background: #FFFFFF; color: black;">+19.67
+</td>
+<td style="background: #FFFFFF; color: black;">+16.44
+</td>
+<td style="background: #FFFFFF; color: black;">+16.12
+</td>
+<td style="background: #FFFFFF; color: black;">+9.73
+</td>
+<td style="background: #FFFFFF; color: black;">+9.73
+</td>
+<td style="background: #FFFFFF; color: black;">+3.23
+</td>
+<td style="background: #FFFFFF; color: black;">+3.24
+</td>
+<td style="background: #FFFFFF; color: black;">+3.49
+</td>
+<td style="background: #FFFFFF; color: black;">+3.49
+</td>
+<td style="background: #FFFFFF; color: black;">+3.36
+</td>
+<td style="background: #FFFFFF; color: black;">+3.38
+</td>
+<td style="background: #FFFFFF; color: black;">&#8722;5.77
+</td>
+<td style="background: #FFFFFF; color: black;">+2.87
+</td>
+<td style="background: #FFFFFF; color: black;">&#8722;0.19
+</td></tr>
+<tr>
+<td colspan="22" style="text-align:center;font-size:90%;"><small>Source: <i>Vision of Britain</i><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup></small>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=City_of_Leeds&amp;action=edit&amp;section=7" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Economy_of_Leeds" title="Economy of Leeds">Economy of Leeds</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Infirmary_Street,_Leeds.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Infirmary_Street%2C_Leeds.jpg/250px-Infirmary_Street%2C_Leeds.jpg" decoding="async" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Infirmary_Street%2C_Leeds.jpg/375px-Infirmary_Street%2C_Leeds.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Infirmary_Street%2C_Leeds.jpg/500px-Infirmary_Street%2C_Leeds.jpg 2x" data-file-width="3648" data-file-height="2736" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Infirmary_Street,_Leeds.jpg" class="internal" title="Enlarge"></a></div>Infirmary Street in <a href="/wiki/Leeds_city_centre#Financial_Quarter" title="Leeds city centre">Leeds Financial Quarter</a></div></div></div>
+<p>Leeds has a diverse economy with the service sector now dominating over the traditional manufacturing industries. It is the location of one of the largest financial centres in England outside London. New tertiary industries such as <a href="/wiki/Retail" title="Retail">retail</a>, <a href="/wiki/Call_centre" title="Call centre">call centres</a>, <a href="/wiki/Office" title="Office">offices</a> and <a href="/wiki/News_media" title="News media">media</a> have contributed to a high rate of economic growth. This is a chart of trend of regional gross value added of Leeds at current basic prices with figures in millions of British pounds sterling.<sup id="cite_ref-chart_econ_22-0" class="reference"><a href="#cite_note-chart_econ-22">&#91;22&#93;</a></sup>
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Year</th>
+<th>Regional Gross<br />Value Added<sup class="reference plainlinks nourlexpansion" id="ref_4"><a href="#endnote_4">4</a></sup></th>
+<th>Agriculture<sup class="reference plainlinks nourlexpansion" id="ref_1"><a href="#endnote_1">1</a></sup></th>
+<th>Industry<sup class="reference plainlinks nourlexpansion" id="ref_2"><a href="#endnote_2">2</a></sup></th>
+<th>Services<sup class="reference plainlinks nourlexpansion" id="ref_3"><a href="#endnote_3">3</a></sup>
+</th></tr>
+<tr>
+<td>1995</td>
+<td><b>8,713</b></td>
+<td>43</td>
+<td>2,652</td>
+<td>6,018
+</td></tr>
+<tr>
+<td>2000</td>
+<td><b>11,681</b></td>
+<td>32</td>
+<td>2,771</td>
+<td>8,878
+</td></tr>
+<tr>
+<td>2003</td>
+<td><b>13,637</b></td>
+<td>36</td>
+<td>3,018</td>
+<td>10,583
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=City_of_Leeds&amp;action=edit&amp;section=8" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_schools_in_Leeds" title="List of schools in Leeds">List of schools in Leeds</a></div>
+<p>Education Leeds, a non-profit company owned by Leeds City Council, provided educational services between 2001 and 2011. In April 2011 Leeds City Council disbanded Education Leeds and has consolidated educational services into the Children's Services Department of the council itself.<sup id="cite_ref-edu_leeds_23-0" class="reference"><a href="#cite_note-edu_leeds-23">&#91;23&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Transport">Transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=City_of_Leeds&amp;action=edit&amp;section=9" title="Edit section: Transport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Bus_outside_Leeds_railway_station_-_DSC07509.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bus_outside_Leeds_railway_station_-_DSC07509.JPG/250px-Bus_outside_Leeds_railway_station_-_DSC07509.JPG" decoding="async" width="250" height="188" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bus_outside_Leeds_railway_station_-_DSC07509.JPG/375px-Bus_outside_Leeds_railway_station_-_DSC07509.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bus_outside_Leeds_railway_station_-_DSC07509.JPG/500px-Bus_outside_Leeds_railway_station_-_DSC07509.JPG 2x" data-file-width="3648" data-file-height="2736" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bus_outside_Leeds_railway_station_-_DSC07509.JPG" class="internal" title="Enlarge"></a></div>Bus outside Leeds railway station, 2010</div></div></div>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Transport_in_Leeds" title="Transport in Leeds">Transport in Leeds</a></div>
+<p><a href="/wiki/Leeds_city_centre" title="Leeds city centre">Leeds city centre</a> is connected to the <a href="/wiki/National_Rail" title="National Rail">National Rail</a> network at <a href="/wiki/Leeds_railway_station" title="Leeds railway station">Leeds railway station</a>. Public transport in West Yorkshire is coordinated by the <a href="/wiki/West_Yorkshire_Passenger_Transport_Executive" class="mw-redirect" title="West Yorkshire Passenger Transport Executive">West Yorkshire Passenger Transport Executive</a>, under the control of a joint-board of local authorities in the county and including Leeds City Council.
+</p>
+<h2><span class="mw-headline" id="Twin_cities">Twin cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=City_of_Leeds&amp;action=edit&amp;section=10" title="Edit section: Twin cities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_the_United_Kingdom" title="List of twin towns and sister cities in the United Kingdom">List of twin towns and sister cities in the United Kingdom</a></div>
+<p>The City has several <a href="/wiki/Town_twinning" class="mw-redirect" title="Town twinning">twinning</a> or partnership arrangements:
+</p>
+<table class="wikitable">
+
+<tbody><tr valign="top">
+<td>
+<ul><li><span class="flagicon"><a href="/wiki/Czech_Republic" title="Czech Republic"><img alt="Czech Republic" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Brno" title="Brno">Brno</a>, Czech Republic<sup id="cite_ref-brno/leeds_24-0" class="reference"><a href="#cite_note-brno/leeds-24">&#91;24&#93;</a></sup><sup id="cite_ref-Brno_twinnings_25-0" class="reference"><a href="#cite_note-Brno_twinnings-25">&#91;25&#93;</a></sup><sup id="cite_ref-Brno_26-0" class="reference"><a href="#cite_note-Brno-26">&#91;26&#93;</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Dortmund" title="Dortmund">Dortmund</a>, Germany<sup id="cite_ref-dort_27-0" class="reference"><a href="#cite_note-dort-27">&#91;27&#93;</a></sup><sup id="cite_ref-RuhrTwins2010_28-0" class="reference"><a href="#cite_note-RuhrTwins2010-28">&#91;28&#93;</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/South_Africa" title="South Africa"><img alt="South Africa" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Durban" title="Durban">Durban</a>, South Africa<sup id="cite_ref-durb_29-0" class="reference"><a href="#cite_note-durb-29">&#91;29&#93;</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Hangzhou" title="Hangzhou">Hangzhou</a>, China<sup id="cite_ref-hang_30-0" class="reference"><a href="#cite_note-hang-30">&#91;30&#93;</a></sup></li></ul>
+</td>
+<td>
+<ul><li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Lille" title="Lille">Lille</a>, France<sup id="cite_ref-Archant_twinning_31-0" class="reference"><a href="#cite_note-Archant_twinning-31">&#91;31&#93;</a></sup><sup id="cite_ref-lille_32-0" class="reference"><a href="#cite_note-lille-32">&#91;32&#93;</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></a></span> <a href="/wiki/Louisville,_Kentucky" title="Louisville, Kentucky">Louisville</a>, United States<sup id="cite_ref-louis_33-0" class="reference"><a href="#cite_note-louis-33">&#91;33&#93;</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Siegen" title="Siegen">Siegen</a>, Germany<sup id="cite_ref-siegen_34-0" class="reference"><a href="#cite_note-siegen-34">&#91;34&#93;</a></sup></li></ul>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=City_of_Leeds&amp;action=edit&amp;section=11" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Yorkshire_rose.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Yorkshire_rose.svg/29px-Yorkshire_rose.svg.png" decoding="async" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Yorkshire_rose.svg/44px-Yorkshire_rose.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Yorkshire_rose.svg/59px-Yorkshire_rose.svg.png 2x" data-file-width="276" data-file-height="264" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Yorkshire" title="Portal:Yorkshire">Yorkshire portal</a></span></li></ul></div>
+<p><b>Notes</b>
+</p>
+<ul><li><span class="citation wikicite" id="endnote_1"><b><a href="#ref_1">^1</a></b></span>  includes hunting and forestry</li>
+<li><span class="citation wikicite" id="endnote_2"><b><a href="#ref_2">^2</a></b></span>  includes energy and construction</li>
+<li><span class="citation wikicite" id="endnote_3"><b><a href="#ref_3">^3</a></b></span>  includes financial intermediation services indirectly measured</li>
+<li><span class="citation wikicite" id="endnote_4"><b><a href="#ref_4">^4</a></b></span>  Components may not sum to totals due to rounding</li></ul>
+<p><b>References</b>
+</p>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-note_1-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-note_1_1-0">^</a></b></span> <span class="reference-text">Max at SE140445 Hawksworth Moor in extreme west of city</span>
+</li>
+<li id="cite_note-note_2-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-note_2_2-0">^</a></b></span> <span class="reference-text">Min at points where city boundary crosses Rivers Aire and Wharfe in extreme east.</span>
+</li>
+<li id="cite_note-stats_1-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-stats_1_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">National Statistics: Neighbourhood Statistics. <a rel="nofollow" class="external text" href="http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rpt-ethnicity.html">"Ethnicity and National Identity in England and Wales 2011"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ethnicity+and+National+Identity+in+England+and+Wales+2011&amp;rft.au=National+Statistics%3A+Neighbourhood+Statistics&amp;rft_id=http%3A%2F%2Fwww.ons.gov.uk%2Fons%2Frel%2Fcensus%2F2011-census%2Fkey-statistics-for-local-authorities-in-england-and-wales%2Frpt-ethnicity.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.collinsdictionary.com/dictionary/english/leeds?showCookiePolicy=true">"Leeds"</a>. Collins Dictionary. n.d<span class="reference-accessdate">. Retrieved <span class="nowrap">24 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leeds&amp;rft.pub=Collins+Dictionary&amp;rft_id=http%3A%2F%2Fwww.collinsdictionary.com%2Fdictionary%2Fenglish%2Fleeds%3FshowCookiePolicy%3Dtrue&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="#CITEREFVan_den_Berg2006">Van den Berg 2006</a>, p.&#160;179.</span>
+</li>
+<li id="cite_note-county_borough-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-county_borough_6-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Great_Britain_Historical_GIS" title="Great Britain Historical GIS">Great Britain Historical GIS</a> / University of Portsmouth, <a rel="nofollow" class="external text" href="http://www.visionofbritain.org.uk/relationships.jsp?u_id=10108809&amp;c_id=10001043">Leeds MB/CB</a>&#160;(<a rel="nofollow" class="external text" href="http://www.visionofbritain.org.uk/boundary_map_page.jsp?first=true&amp;u_id=10108809">historic map</a>)&#160;<a rel="nofollow" class="external text" href="http://www.visionofbritain.org.uk/data_cube_page.jsp?data_theme=T_POP&amp;data_cube=N_TOT_POP&amp;u_id=10108809&amp;c_id=10001043&amp;add=N">population</a>&#160;(<a rel="nofollow" class="external text" href="http://www.visionofbritain.org.uk/data_cube_page.jsp?data_theme=T_POP&amp;data_cube=N_AREA_ACRES&amp;u_id=10108809&amp;c_id=10001043&amp;add=Y">area</a> ). Retrieved 24 September 2009. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120213031954/http://www.visionofbritain.org.uk/relationships.jsp?u_id=10108809&amp;c_id=10001043">Archived</a> 13 February 2012 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-fraser-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-fraser_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Derek Fraser (1982). <i>A History of modern Leeds</i>. Manchester University Press.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+History+of+modern+Leeds&amp;rft.pub=Manchester+University+Press&amp;rft.date=1982&amp;rft.au=Derek+Fraser&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-city_region-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-city_region_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090619211350/http://www.leeds.gov.uk/maps/leeds_cr.html">"Leeds Maps - Leeds City Region"</a>. Leeds City Council. Archived from <a rel="nofollow" class="external text" href="http://www.leeds.gov.uk/maps/leeds_cr.html">the original</a> on 19 June 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">16 April</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leeds+Maps+-+Leeds+City+Region&amp;rft.pub=Leeds+City+Council&amp;rft_id=http%3A%2F%2Fwww.leeds.gov.uk%2Fmaps%2Fleeds_cr.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-leeds_parish-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-leeds_parish_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090405042856/http://www.leeds.gov.uk/Council_and_democracy/Councillors_democracy_and_elections/Parish_and_town_councils.aspx">"Parish and Town Councils"</a>. Leeds City Council. Archived from <a rel="nofollow" class="external text" href="http://www.leeds.gov.uk/Council_and_democracy/Councillors_democracy_and_elections/Parish_and_town_councils.aspx">the original</a> on 5 April 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">1 April</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Parish+and+Town+Councils&amp;rft.pub=Leeds+City+Council&amp;rft_id=http%3A%2F%2Fwww.leeds.gov.uk%2FCouncil_and_democracy%2FCouncillors_democracy_and_elections%2FParish_and_town_councils.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-map-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-map_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.leeds.gov.uk/maps/leeds_mpb.html">"Leeds civil parish map 2008"</a>. Leeds City Council<span class="reference-accessdate">. Retrieved <span class="nowrap">1 April</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leeds+civil+parish+map+2008&amp;rft.pub=Leeds+City+Council&amp;rft_id=http%3A%2F%2Fwww.leeds.gov.uk%2Fmaps%2Fleeds_mpb.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-euro_election-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-euro_election_11-0">^</a></b></span> <span class="reference-text"><cite class="citation news">Rogers, Simon (10 June 2009). <a rel="nofollow" class="external text" href="https://www.theguardian.com/news/datablog/table/2009/jun/09/european-elections-elections-2009">"Exactly how well did the BNP do where you live?"</a>. <i>Guardian: Data Blog</i>. London<span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Guardian%3A+Data+Blog&amp;rft.atitle=Exactly+how+well+did+the+BNP+do+where+you+live%3F&amp;rft.date=2009-06-10&amp;rft.aulast=Rogers&amp;rft.aufirst=Simon&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Fdatablog%2Ftable%2F2009%2Fjun%2F09%2Feuropean-elections-elections-2009&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Leeds_ethnic_group-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Leeds_ethnic_group_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Leeds_ethnic_group_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://neighbourhood.statistics.gov.uk/dissemination/LeadTableView.do?a=7&amp;b=276810&amp;c=Leeds&amp;d=13&amp;e=16&amp;g=382985&amp;i=1001x1003x1004&amp;o=1&amp;m=0&amp;r=1&amp;s=1231357883004&amp;enc=1&amp;dsFamilyId=87">"Leeds Metropolitan Borough ethnic group"</a>. Office for National Statistics<span class="reference-accessdate">. Retrieved <span class="nowrap">22 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leeds+Metropolitan+Borough+ethnic+group&amp;rft.pub=Office+for+National+Statistics&amp;rft_id=http%3A%2F%2Fneighbourhood.statistics.gov.uk%2Fdissemination%2FLeadTableView.do%3Fa%3D7%26b%3D276810%26c%3DLeeds%26d%3D13%26e%3D16%26g%3D382985%26i%3D1001x1003x1004%26o%3D1%26m%3D0%26r%3D1%26s%3D1231357883004%26enc%3D1%26dsFamilyId%3D87&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-household-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-household_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-household_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://neighbourhood.statistics.gov.uk/dissemination/LeadTableView.do?a=7&amp;b=276810&amp;c=Leeds&amp;d=13&amp;e=16&amp;g=382985&amp;i=1001x1003x1004&amp;o=1&amp;m=0&amp;r=1&amp;s=1231357883004&amp;enc=1&amp;dsFamilyId=165">"Leeds Metropolitan Borough household composition (households)"</a>. Office for National Statistics<span class="reference-accessdate">. Retrieved <span class="nowrap">22 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leeds+Metropolitan+Borough+household+composition+%28households%29&amp;rft.pub=Office+for+National+Statistics&amp;rft_id=http%3A%2F%2Fneighbourhood.statistics.gov.uk%2Fdissemination%2FLeadTableView.do%3Fa%3D7%26b%3D276810%26c%3DLeeds%26d%3D13%26e%3D16%26g%3D382985%26i%3D1001x1003x1004%26o%3D1%26m%3D0%26r%3D1%26s%3D1231357883004%26enc%3D1%26dsFamilyId%3D165&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-key_stats-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-key_stats_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://neighbourhood.statistics.gov.uk/dissemination/LeadKeyFigures.do?a=7&amp;b=276810&amp;c=Leeds&amp;d=13&amp;e=16&amp;g=382985&amp;i=1001x1003x1004&amp;o=1&amp;m=0&amp;r=1&amp;s=1231357882989&amp;enc=1">"Leeds Metropolitan Borough key statistics"</a>. Office for National Statistics<span class="reference-accessdate">. Retrieved <span class="nowrap">22 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leeds+Metropolitan+Borough+key+statistics&amp;rft.pub=Office+for+National+Statistics&amp;rft_id=http%3A%2F%2Fneighbourhood.statistics.gov.uk%2Fdissemination%2FLeadKeyFigures.do%3Fa%3D7%26b%3D276810%26c%3DLeeds%26d%3D13%26e%3D16%26g%3D382985%26i%3D1001x1003x1004%26o%3D1%26m%3D0%26r%3D1%26s%3D1231357882989%26enc%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-stats_birth-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-stats_birth_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://neighbourhood.statistics.gov.uk/dissemination/LeadTableView.do?a=7&amp;b=276810&amp;c=Leeds&amp;d=13&amp;e=16&amp;g=382985&amp;i=1001x1003x1004&amp;o=1&amp;m=0&amp;r=1&amp;s=1231357883004&amp;enc=1&amp;dsFamilyId=85">"Leeds Metropolitan Borough country of birth data"</a>. Office for National Statistics<span class="reference-accessdate">. Retrieved <span class="nowrap">22 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leeds+Metropolitan+Borough+country+of+birth+data&amp;rft.pub=Office+for+National+Statistics&amp;rft_id=http%3A%2F%2Fneighbourhood.statistics.gov.uk%2Fdissemination%2FLeadTableView.do%3Fa%3D7%26b%3D276810%26c%3DLeeds%26d%3D13%26e%3D16%26g%3D382985%26i%3D1001x1003x1004%26o%3D1%26m%3D0%26r%3D1%26s%3D1231357883004%26enc%3D1%26dsFamilyId%3D85&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Census_Data-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-Census_Data_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Census_Data_16-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.statistics.gov.uk/census2001/profiles/00DA-A.asp">"Leeds Census 2001"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leeds+Census+2001&amp;rft_id=http%3A%2F%2Fwww.statistics.gov.uk%2Fcensus2001%2Fprofiles%2F00DA-A.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Freedman-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Freedman_17-0">^</a></b></span> <span class="reference-text">M. Freedman (1988) "The Leeds Jewish Community" pp.&#160;161–174 <i>in</i> L. S. Tate (ed) <i>Aspects of Leeds</i> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-871647-38-X" title="Special:BookSources/1-871647-38-X">1-871647-38-X</a></span>
+</li>
+<li id="cite_note-crime_street-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-crime_street_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081009215103/http://www.upmystreet.com/local/police-crime/figures/l/Leeds-4292.html">"Crime figures in Leeds"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.upmystreet.com/local/police-crime/figures/l/Leeds-4292.html">the original</a> on 9 October 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Crime+figures+in+Leeds&amp;rft_id=http%3A%2F%2Fwww.upmystreet.com%2Flocal%2Fpolice-crime%2Ffigures%2Fl%2FLeeds-4292.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-crime_stat-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-crime_stat_19-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.crimestatistics.org.uk/tool/Default.asp?region=7&amp;force=28&amp;cdrp=106&amp;l1=0&amp;l2=0&amp;l3=0&amp;sub=0&amp;v=36">"Crime Statistics for Leeds Apr 2005 - Mar 2006"</a>. <a href="/wiki/Home_Office" title="Home Office">Home Office</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Crime+Statistics+for+Leeds+Apr+2005+-+Mar+2006&amp;rft.pub=Home+Office&amp;rft_id=http%3A%2F%2Fwww.crimestatistics.org.uk%2Ftool%2FDefault.asp%3Fregion%3D7%26force%3D28%26cdrp%3D106%26l1%3D0%26l2%3D0%26l3%3D0%26sub%3D0%26v%3D36&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-reform-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-reform_20-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061011112906/http://www.reform.co.uk/filestore/pdf/Urban%20crime%20rankings%2C%20Reform%2C%20July%202006.pdf">"Urban Crime Rankings"</a> <span class="cs1-format">(PDF)</span>. July 2006. pp.&#160;43, 45. Archived from <a rel="nofollow" class="external text" href="http://www.reform.co.uk/filestore/pdf/Urban%20crime%20rankings,%20Reform,%20July%202006.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 11 October 2006.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Urban+Crime+Rankings&amp;rft.pages=43%2C+45&amp;rft.date=2006-07&amp;rft_id=http%3A%2F%2Fwww.reform.co.uk%2Ffilestore%2Fpdf%2FUrban%2520crime%2520rankings%2C%2520Reform%2C%2520July%25202006.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.visionofbritain.org.uk/data_cube_table_page.jsp?data_theme=T_POP&amp;data_cube=N_TPop&amp;u_id=10057140&amp;c_id=10001043&amp;add=N">"Leeds District: total population"</a>. Vision of Britain<span class="reference-accessdate">. Retrieved <span class="nowrap">19 December</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leeds+District%3A+total+population&amp;rft.pub=Vision+of+Britain&amp;rft_id=http%3A%2F%2Fwww.visionofbritain.org.uk%2Fdata_cube_table_page.jsp%3Fdata_theme%3DT_POP%26data_cube%3DN_TPop%26u_id%3D10057140%26c_id%3D10001043%26add%3DN&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-chart_econ-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-chart_econ_22-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060525140007/http://www.statistics.gov.uk/downloads/theme_economy/RegionalGVA.pdf">"Regional Gross Value Added"</a> <span class="cs1-format">(PDF)</span>. Office for National Statistics. pp.&#160;240–253. Archived from <a rel="nofollow" class="external text" href="http://www.statistics.gov.uk/downloads/theme_economy/RegionalGVA.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 25 May 2006.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Regional+Gross+Value+Added&amp;rft.pages=240-253&amp;rft.pub=Office+for+National+Statistics&amp;rft_id=http%3A%2F%2Fwww.statistics.gov.uk%2Fdownloads%2Ftheme_economy%2FRegionalGVA.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-edu_leeds-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-edu_leeds_23-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.is/20130420053631/http://www.educationleeds.co.uk/DisplayText.aspx?section=17&amp;pageno=195">"Education Leeds – the organisation"</a>. EducationLeeds.co.uk. Archived from <a rel="nofollow" class="external text" href="http://www.educationleeds.co.uk/DisplayText.aspx?section=17&amp;pageno=195">the original</a> on 20 April 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">22 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Education+Leeds+%E2%80%93+the+organisation&amp;rft.pub=EducationLeeds.co.uk&amp;rft_id=http%3A%2F%2Fwww.educationleeds.co.uk%2FDisplayText.aspx%3Fsection%3D17%26pageno%3D195&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-brno/leeds-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-brno/leeds_24-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.leeds.gov.uk/page.aspx?pageidentifier=74bb3508-0d14-45f3-b7d7-ec8a267c27be">"Leeds – Brno partnership"</a>. Leeds.gov.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leeds+%E2%80%93+Brno+partnership&amp;rft.pub=Leeds.gov.uk&amp;rft_id=http%3A%2F%2Fwww.leeds.gov.uk%2Fpage.aspx%3Fpageidentifier%3D74bb3508-0d14-45f3-b7d7-ec8a267c27be&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Brno_twinnings-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brno_twinnings_25-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160115084015/http://www2.brno.cz/index.php?lan=en&amp;nav01=2222&amp;nav02=1249">"City of Brno Foreign Relations - Statutory city of Brno"</a>. <i>www2.brno.cz</i> (in Czech). Archived from <a rel="nofollow" class="external text" href="http://www2.brno.cz/index.php?lan=en&amp;nav01=2222&amp;nav02=1249">the original</a> on 15 January 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">6 September</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www2.brno.cz&amp;rft.atitle=City+of+Brno+Foreign+Relations+-+Statutory+city+of+Brno&amp;rft_id=http%3A%2F%2Fwww2.brno.cz%2Findex.php%3Flan%3Den%26nav01%3D2222%26nav02%3D1249&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Brno-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brno_26-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.brno.cz/index.php?nav02=1985&amp;nav01=34&amp;nav03=1010&amp;nav04=1016&amp;nav05=1249&amp;nav06=1272">"Brno – Partnerská města"</a>. <i>www.brno.cz</i> (in Czech). 2006–2009<span class="reference-accessdate">. Retrieved <span class="nowrap">17 July</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.brno.cz&amp;rft.atitle=Brno+%E2%80%93+Partnersk%C3%A1+m%C4%9Bsta&amp;rft_id=http%3A%2F%2Fwww.brno.cz%2Findex.php%3Fnav02%3D1985%26nav01%3D34%26nav03%3D1010%26nav04%3D1016%26nav05%3D1249%26nav06%3D1272&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-dort-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-dort_27-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081204141101/http://www.leeds.gov.uk/Advice_and_benefits/Tourism_and_travel/Town_twinning/Leeds__Dortmund_partnership.aspx">"Leeds – Dortmund partnership"</a>. Leeds.gov.uk. Archived from <a rel="nofollow" class="external text" href="http://www.leeds.gov.uk/Advice_and_benefits/Tourism_and_travel/Town_twinning/Leeds__Dortmund_partnership.aspx">the original</a> on 4 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leeds+%E2%80%93+Dortmund+partnership&amp;rft.pub=Leeds.gov.uk&amp;rft_id=http%3A%2F%2Fwww.leeds.gov.uk%2FAdvice_and_benefits%2FTourism_and_travel%2FTown_twinning%2FLeeds&#95;_Dortmund_partnership.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-RuhrTwins2010-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-RuhrTwins2010_28-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.webcitation.org/5lctsW5KG?url=http://www.twins2010.com/fileadmin/user_upload/pic/Dokumente/List_of_Twin_Towns_01.pdf?PHPSESSID=2edd34819db21e450d3bb625549ce4fd">"List of Twin Towns in the Ruhr District"</a> <span class="cs1-format">(PDF)</span>. <i>www.twins2010.com</i>. Archived from <a rel="nofollow" class="external text" href="http://www.twins2010.com/fileadmin/user_upload/pic/Dokumente/List_of_Twin_Towns_01.pdf?PHPSESSID=2edd34819db21e450d3bb625549ce4fd">the original</a> <span class="cs1-format">(PDF)</span> on 28 November 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">28 October</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.twins2010.com&amp;rft.atitle=List+of+Twin+Towns+in+the+Ruhr+District&amp;rft_id=http%3A%2F%2Fwww.twins2010.com%2Ffileadmin%2Fuser_upload%2Fpic%2FDokumente%2FList_of_Twin_Towns_01.pdf%3FPHPSESSID%3D2edd34819db21e450d3bb625549ce4fd&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-durb-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-durb_29-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.leeds.gov.uk/page.aspx?pageidentifier=6555f52e-1de9-499b-8eda-7b86bf24ac8c">"Leeds – Durban partnership"</a>. Leeds.gov.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leeds+%E2%80%93+Durban+partnership&amp;rft.pub=Leeds.gov.uk&amp;rft_id=http%3A%2F%2Fwww.leeds.gov.uk%2Fpage.aspx%3Fpageidentifier%3D6555f52e-1de9-499b-8eda-7b86bf24ac8c&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-hang-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-hang_30-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.leeds.gov.uk/page.aspx?pageidentifier=32283a2b-11e6-4257-b018-ca6f95567d1a">"Leeds – Hangzhou partnership"</a>. Leeds.gov.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leeds+%E2%80%93+Hangzhou+partnership&amp;rft.pub=Leeds.gov.uk&amp;rft_id=http%3A%2F%2Fwww.leeds.gov.uk%2Fpage.aspx%3Fpageidentifier%3D32283a2b-11e6-4257-b018-ca6f95567d1a&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Archant_twinning-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-Archant_twinning_31-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130705094933/http://www.completefrance.com/language-culture/twin-towns">"British towns twinned with French towns"</a>. <i>Archant Community Media Ltd</i>. Archived from <a rel="nofollow" class="external text" href="http://www.completefrance.com/language-culture/twin-towns">the original</a> on 5 July 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">11 July</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Archant+Community+Media+Ltd&amp;rft.atitle=British+towns+twinned+with+French+towns&amp;rft_id=http%3A%2F%2Fwww.completefrance.com%2Flanguage-culture%2Ftwin-towns&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-lille-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-lille_32-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.leeds.gov.uk/page.aspx?pageidentifier=ac0a4504-f720-4eff-9376-5bff2a4576a0">"Leeds – Lille partnership"</a>. Leeds.gov.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leeds+%E2%80%93+Lille+partnership&amp;rft.pub=Leeds.gov.uk&amp;rft_id=http%3A%2F%2Fwww.leeds.gov.uk%2Fpage.aspx%3Fpageidentifier%3Dac0a4504-f720-4eff-9376-5bff2a4576a0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-louis-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-louis_33-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.leeds.gov.uk/page.aspx?pageidentifier=f665edae-e44d-495b-b4e3-0385a941082f">"Leeds – Louisville partnership"</a>. Leeds.gov.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leeds+%E2%80%93+Louisville+partnership&amp;rft.pub=Leeds.gov.uk&amp;rft_id=http%3A%2F%2Fwww.leeds.gov.uk%2Fpage.aspx%3Fpageidentifier%3Df665edae-e44d-495b-b4e3-0385a941082f&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-siegen-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-siegen_34-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.leeds.gov.uk/Advice_and_benefits/Tourism_and_travel/Town_twinning/Leeds__Siegen_partnership.aspx">"Leeds – Siegen partnership"</a>. Leeds.gov.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">14 October</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Leeds+%E2%80%93+Siegen+partnership&amp;rft.pub=Leeds.gov.uk&amp;rft_id=http%3A%2F%2Fwww.leeds.gov.uk%2FAdvice_and_benefits%2FTourism_and_travel%2FTown_twinning%2FLeeds&#95;_Siegen_partnership.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<p><b>Bibliography</b>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style=""> 
+<ul><li><cite id="CITEREFBurtGrady1994" class="citation">Burt, Steven; Grady, Kevin (1994), <i>The Illustrated History of Leeds</i>, Breedon Books, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-873626-35-5" title="Special:BookSources/1-873626-35-5"><bdi>1-873626-35-5</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Illustrated+History+of+Leeds&amp;rft.pub=Breedon+Books&amp;rft.date=1994&amp;rft.isbn=1-873626-35-5&amp;rft.aulast=Burt&amp;rft.aufirst=Steven&amp;rft.au=Grady%2C+Kevin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFFraser1982" class="citation">Fraser, Derek (1982), <i>A History of Modern Leeds</i>, Manchester University Press, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7190-0781-1" title="Special:BookSources/978-0-7190-0781-1"><bdi>978-0-7190-0781-1</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+History+of+Modern+Leeds&amp;rft.pub=Manchester+University+Press&amp;rft.date=1982&amp;rft.isbn=978-0-7190-0781-1&amp;rft.aulast=Fraser&amp;rft.aufirst=Derek&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFVan_den_Berg2006" class="citation">Van den Berg, Leo (2006), <i>The Safe City: Safety and Urban Development in European Cities</i>, Ashgate, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7546-4723-2" title="Special:BookSources/978-0-7546-4723-2"><bdi>978-0-7546-4723-2</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Safe+City%3A+Safety+and+Urban+Development+in+European+Cities&amp;rft.pub=Ashgate&amp;rft.date=2006&amp;rft.isbn=978-0-7546-4723-2&amp;rft.aulast=Van+den+Berg&amp;rft.aufirst=Leo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACity+of+Leeds" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=City_of_Leeds&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:City_of_Leeds" class="extiw" title="commons:Category:City of Leeds">City of Leeds</a> at Wikimedia Commons
+</p>
+<ul><li><a href="/wiki/File:Wikivoyage-Logo-v3-icon.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/16px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/24px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/32px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></a> <a href="https://en.wikivoyage.org/wiki/Leeds#Q774015" class="extiw" title="voy:Leeds">Leeds</a> travel guide from Wikivoyage</li>
+<li><a rel="nofollow" class="external text" href="http://www.leeds.gov.uk/">Leeds City Council</a> Leeds City Council.</li>
+<li><a rel="nofollow" class="external text" href="http://www.leedschamber.co.uk">'Leeds Chamber of Commerce &amp; Industry'</a> Leeds Chamber of Commerce &amp; Industry.</li>
+<li><a rel="nofollow" class="external text" href="http://www.leedsinitiative.org/">'Leeds Initiative'</a> Leeds Initiative city partnership.</li>
+<li><a rel="nofollow" class="external text" href="http://www.leodis.net/">Leodis</a> Leeds Library &amp; Information Service photograph archive.</li></ul>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Yorkshire_rose.svg" class="image"><img alt="Yorkshire rose.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Yorkshire_rose.svg/22px-Yorkshire_rose.svg.png" decoding="async" width="22" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Yorkshire_rose.svg/33px-Yorkshire_rose.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Yorkshire_rose.svg/44px-Yorkshire_rose.svg.png 2x" data-file-width="276" data-file-height="264" /></a></span><a href="/wiki/Portal:Yorkshire" title="Portal:Yorkshire">Yorkshire portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Flag_of_England.svg" class="image"><img alt="Flag of England.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/24px-Flag_of_England.svg.png" decoding="async" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/36px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/48px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span><a href="/wiki/Portal:England" title="Portal:England">England portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Flag_of_the_United_Kingdom.svg" class="image"><img alt="Flag of the United Kingdom.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/24px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="24" height="12" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/36px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/48px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span><a href="/wiki/Portal:United_Kingdom" title="Portal:United Kingdom">United Kingdom portal</a></span></li></ul></div>
+<div role="navigation" class="navbox" aria-labelledby="Leeds" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Leeds" title="Template:Leeds"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Leeds" title="Template talk:Leeds"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Leeds&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Leeds" style="font-size:114%;margin:0 4em"><a href="/wiki/Leeds" title="Leeds">Leeds</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">About Leeds</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Architecture_of_Leeds" title="Architecture of Leeds">Architecture</a>
+<ul><li><a href="/wiki/List_of_tallest_buildings_and_structures_in_Leeds" title="List of tallest buildings and structures in Leeds">Tallest buildings</a></li>
+<li><a href="/wiki/Grade_I_listed_buildings_in_West_Yorkshire#Leeds" title="Grade I listed buildings in West Yorkshire">Grade I buildings</a></li></ul></li>
+<li><a href="/wiki/Leeds_City_Centre" class="mw-redirect" title="Leeds City Centre">City Centre</a></li>
+<li><a href="/wiki/Culture_of_Leeds" title="Culture of Leeds">Culture</a>
+<ul><li><a href="/wiki/Leeds#Media" title="Leeds">Media</a></li>
+<li><a href="/wiki/Music_in_Leeds" title="Music in Leeds">Music</a></li>
+<li><a href="/wiki/Sport_in_Leeds" title="Sport in Leeds">Sport</a></li></ul></li>
+<li><a href="/wiki/Demography_of_Leeds" title="Demography of Leeds">Demography</a></li>
+<li><a href="/wiki/Economy_of_Leeds" title="Economy of Leeds">Economy</a></li>
+<li><a href="/wiki/History_of_Leeds" title="History of Leeds">History</a></li>
+<li><a href="/wiki/List_of_people_from_Leeds" title="List of people from Leeds">People</a></li>
+<li><a href="/wiki/List_of_places_of_worship_in_the_City_of_Leeds" title="List of places of worship in the City of Leeds">Places of worship</a></li>
+<li><a href="/wiki/List_of_schools_in_Leeds" title="List of schools in Leeds">Schools</a></li>
+<li><a href="/wiki/Transport_in_Leeds" title="Transport in Leeds">Transport</a>
+<ul><li><a href="/wiki/Cycling_in_Leeds" title="Cycling in Leeds">Cycling</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Parliamentary constituencies</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Elmet_and_Rothwell_(UK_Parliament_constituency)" title="Elmet and Rothwell (UK Parliament constituency)">Elmet and Rothwell</a></li>
+<li><a href="/wiki/Leeds_Central_(UK_Parliament_constituency)" title="Leeds Central (UK Parliament constituency)">Leeds Central</a></li>
+<li><a href="/wiki/Leeds_East_(UK_Parliament_constituency)" title="Leeds East (UK Parliament constituency)">Leeds East</a></li>
+<li><a href="/wiki/Leeds_North_East_(UK_Parliament_constituency)" title="Leeds North East (UK Parliament constituency)">Leeds North East</a></li>
+<li><a href="/wiki/Leeds_North_West_(UK_Parliament_constituency)" title="Leeds North West (UK Parliament constituency)">Leeds North West</a></li>
+<li><a href="/wiki/Leeds_West_(UK_Parliament_constituency)" title="Leeds West (UK Parliament constituency)">Leeds West</a></li>
+<li><a href="/wiki/Morley_and_Outwood_(UK_Parliament_constituency)" title="Morley and Outwood (UK Parliament constituency)">Morley and Outwood</a></li>
+<li><a href="/wiki/Pudsey_(UK_Parliament_constituency)" title="Pudsey (UK Parliament constituency)">Pudsey</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Government</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">City of Leeds</a></li>
+<li><a href="/wiki/Leeds_City_Council" title="Leeds City Council">Leeds City Council</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Areas (<a href="/wiki/List_of_places_in_Leeds" title="List of places in Leeds">List</a>)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adel,_Leeds" title="Adel, Leeds">Adel</a></li>
+<li><a href="/wiki/Alwoodley" title="Alwoodley">Alwoodley</a></li>
+<li><a href="/wiki/Armley" title="Armley">Armley</a></li>
+<li><a href="/wiki/Beckett_Park" title="Beckett Park">Beckett Park</a></li>
+<li><a href="/wiki/Beeston,_Leeds" title="Beeston, Leeds">Beeston</a></li>
+<li><a href="/wiki/Bramhope" title="Bramhope">Bramhope</a></li>
+<li><a href="/wiki/Bramley,_Leeds" title="Bramley, Leeds">Bramley</a></li>
+<li><a href="/wiki/Burley,_Leeds" title="Burley, Leeds">Burley</a></li>
+<li><a href="/wiki/Chapel_Allerton" title="Chapel Allerton">Chapel Allerton</a></li>
+<li><a href="/wiki/Chapeltown,_Leeds" title="Chapeltown, Leeds">Chapeltown</a></li>
+<li><a href="/wiki/Cookridge" title="Cookridge">Cookridge</a></li>
+<li><a href="/wiki/Farnley,_Leeds" title="Farnley, Leeds">Farnley</a></li>
+<li><a href="/wiki/Far_Headingley" title="Far Headingley">Far Headingley</a></li>
+<li><a href="/wiki/Halton,_Leeds" title="Halton, Leeds">Halton</a></li>
+<li><a href="/wiki/Harehills" title="Harehills">Harehills</a></li>
+<li><a href="/wiki/Hawksworth,_Leeds" title="Hawksworth, Leeds">Hawksworth</a></li>
+<li><a href="/wiki/Headingley" title="Headingley">Headingley</a></li>
+<li><a href="/wiki/Holbeck" title="Holbeck">Holbeck</a></li>
+<li><a href="/wiki/Holt_Park" title="Holt Park">Holt Park</a></li>
+<li><a href="/wiki/Hunslet" title="Hunslet">Hunslet</a></li>
+<li><a href="/wiki/Kirkstall" title="Kirkstall">Kirkstall</a></li>
+<li><a href="/wiki/Lawnswood" title="Lawnswood">Lawnswood</a></li>
+<li><a href="/wiki/Little_London,_Leeds" title="Little London, Leeds">Little London</a></li>
+<li><a href="/wiki/Meanwood" title="Meanwood">Meanwood</a></li>
+<li><a href="/wiki/Moor_Grange" title="Moor Grange">Moor Grange</a></li>
+<li><a href="/wiki/Oakwood,_Leeds" title="Oakwood, Leeds">Oakwood</a></li>
+<li><a href="/wiki/Roundhay" title="Roundhay">Roundhay</a></li>
+<li><a href="/wiki/Sheepscar" title="Sheepscar">Sheepscar</a></li>
+<li><a href="/wiki/Seacroft" title="Seacroft">Seacroft</a></li>
+<li><a href="/wiki/Tinshill" title="Tinshill">Tinshill</a></li>
+<li><a href="/wiki/West_Park,_Leeds" title="West Park, Leeds">West Park</a></li>
+<li><a href="/wiki/Woodhouse,_Leeds" title="Woodhouse, Leeds">Woodhouse</a></li>
+<li><a href="/wiki/Wortley,_Leeds" title="Wortley, Leeds">Wortley</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Leeds" title="Category:Leeds">Category</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Ceremonial_county_of_West_Yorkshire" style="padding:3px"><table class="nowraplinks hlist vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:West_Yorkshire" title="Template:West Yorkshire"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:West_Yorkshire" title="Template talk:West Yorkshire"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:West_Yorkshire&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Ceremonial_county_of_West_Yorkshire" class="adr" style="font-size:114%;margin:0 4em"><span class="category"><a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">Ceremonial county</a></span> of <span class="fn org region"><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></span></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="Yorkshire_Portal"><i><a href="/wiki/Portal:Yorkshire" title="Portal:Yorkshire">Yorkshire Portal</a></i></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Metropolitan districts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/City_of_Bradford" title="City of Bradford">City of Bradford</a></li>
+<li><a class="mw-selflink selflink">City of Leeds</a></li>
+<li><a href="/wiki/City_of_Wakefield" title="City of Wakefield">City of Wakefield</a></li>
+<li><a href="/wiki/Calderdale" title="Calderdale">Metropolitan Borough of Calderdale</a></li>
+<li><a href="/wiki/Kirklees" title="Kirklees">Metropolitan Borough of Kirklees</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Major settlements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baildon" title="Baildon">Baildon</a></li>
+<li><a href="/wiki/Batley" title="Batley">Batley</a></li>
+<li><a href="/wiki/Bingley" title="Bingley">Bingley</a></li>
+<li><a href="/wiki/Bradford" title="Bradford">Bradford</a></li>
+<li><a href="/wiki/Brighouse" title="Brighouse">Brighouse</a></li>
+<li><a href="/wiki/Castleford" title="Castleford">Castleford</a></li>
+<li><a href="/wiki/Cleckheaton" title="Cleckheaton">Cleckheaton</a></li>
+<li><a href="/wiki/Denholme" title="Denholme">Denholme</a></li>
+<li><a href="/wiki/Dewsbury" title="Dewsbury">Dewsbury</a></li>
+<li><a href="/wiki/Elland" title="Elland">Elland</a></li>
+<li><a href="/wiki/Farsley" title="Farsley">Farsley</a></li>
+<li><a href="/wiki/Featherstone" title="Featherstone">Featherstone</a></li>
+<li><a href="/wiki/Guiseley" title="Guiseley">Guiseley</a></li>
+<li><a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a></li>
+<li><a href="/wiki/Hebden_Bridge" title="Hebden Bridge">Hebden Bridge</a></li>
+<li><a href="/wiki/Heckmondwike" title="Heckmondwike">Heckmondwike</a></li>
+<li><a href="/wiki/Hemsworth" title="Hemsworth">Hemsworth</a></li>
+<li><a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a></li>
+<li><a href="/wiki/Horbury" title="Horbury">Horbury</a></li>
+<li><a href="/wiki/Horsforth" title="Horsforth">Horsforth</a></li>
+<li><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></li>
+<li><a href="/wiki/Ilkley" title="Ilkley">Ilkley</a></li>
+<li><a href="/wiki/Keighley" title="Keighley">Keighley</a></li>
+<li><a href="/wiki/Knottingley" title="Knottingley">Knottingley</a></li>
+<li><a href="/wiki/Leeds" title="Leeds">Leeds</a></li>
+<li><a href="/wiki/Meltham" title="Meltham">Meltham</a></li>
+<li><a href="/wiki/Mirfield" title="Mirfield">Mirfield</a></li>
+<li><a href="/wiki/Morley,_West_Yorkshire" title="Morley, West Yorkshire">Morley</a></li>
+<li><a href="/wiki/Normanton,_West_Yorkshire" title="Normanton, West Yorkshire">Normanton</a></li>
+<li><a href="/wiki/Ossett" title="Ossett">Ossett</a></li>
+<li><a href="/wiki/Otley" title="Otley">Otley</a></li>
+<li><a href="/wiki/Pontefract" title="Pontefract">Pontefract</a></li>
+<li><a href="/wiki/Pudsey" title="Pudsey">Pudsey</a></li>
+<li><a href="/wiki/Rothwell,_West_Yorkshire" title="Rothwell, West Yorkshire">Rothwell</a></li>
+<li><a href="/wiki/Shipley,_West_Yorkshire" title="Shipley, West Yorkshire">Shipley</a></li>
+<li><a href="/wiki/Silsden" title="Silsden">Silsden</a></li>
+<li><a href="/wiki/South_Elmsall" title="South Elmsall">South Elmsall</a></li>
+<li><a href="/wiki/Sowerby_Bridge" title="Sowerby Bridge">Sowerby Bridge</a></li>
+<li><a href="/wiki/Todmorden" title="Todmorden">Todmorden</a></li>
+<li><a href="/wiki/Wakefield" title="Wakefield">Wakefield</a></li>
+<li><a href="/wiki/Warley_Town" title="Warley Town">Warley Town</a></li>
+<li><a href="/wiki/Wetherby" title="Wetherby">Wetherby</a></li>
+<li><a href="/wiki/Yeadon,_West_Yorkshire" title="Yeadon, West Yorkshire">Yeadon</a><br /><i>See also:</i> <b><a href="/wiki/List_of_civil_parishes_in_West_Yorkshire" class="mw-redirect" title="List of civil parishes in West Yorkshire">List of civil parishes in West Yorkshire</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Topics</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Parliamentary_constituencies_in_West_Yorkshire" title="List of Parliamentary constituencies in West Yorkshire">Parliamentary constituencies</a></li>
+<li><a href="/wiki/West_Yorkshire_Joint_Services" title="West Yorkshire Joint Services">West Yorkshire Joint Services</a></li>
+<li><a href="/wiki/List_of_places_in_West_Yorkshire" class="mw-redirect" title="List of places in West Yorkshire">Places</a></li>
+<li><a href="/wiki/List_of_settlements_in_West_Yorkshire_by_population" title="List of settlements in West Yorkshire by population">Population of major settlements</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire" title="List of Sites of Special Scientific Interest in West Yorkshire">SSSIs</a></li>
+<li><a href="/wiki/Category:Country_houses_in_West_Yorkshire" title="Category:Country houses in West Yorkshire">Country houses</a></li>
+<li><a href="/wiki/Grade_I_listed_buildings_in_West_Yorkshire" title="Grade I listed buildings in West Yorkshire">Grade I listed buildings</a></li>
+<li><a href="/wiki/Grade_II*_listed_buildings_in_West_Yorkshire" title="Grade II* listed buildings in West Yorkshire">Grade II* listed buildings</a></li>
+<li><a href="/wiki/List_of_windmills_in_West_Yorkshire" title="List of windmills in West Yorkshire">Windmills</a></li>
+<li><a href="/wiki/History_of_West_Yorkshire" class="mw-redirect" title="History of West Yorkshire">History</a></li>
+<li><a href="/wiki/Lord_Lieutenant_of_West_Yorkshire" title="Lord Lieutenant of West Yorkshire">Lord Lieutenants</a></li>
+<li><a href="/wiki/High_Sheriff_of_West_Yorkshire" title="High Sheriff of West Yorkshire">High Sheriffs</a></li>
+<li><a href="/wiki/List_of_monastic_houses_in_West_Yorkshire" title="List of monastic houses in West Yorkshire">Monastic houses</a></li>
+<li><a href="/wiki/List_of_museums_in_West_Yorkshire" title="List of museums in West Yorkshire">Museums</a></li>
+<li><a href="/wiki/List_of_rivers_of_Yorkshire" title="List of rivers of Yorkshire">Rivers</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Districts_of_Yorkshire_and_the_Humber" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Yorkshire_and_the_Humber" title="Template:Yorkshire and the Humber"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Yorkshire_and_the_Humber" title="Template talk:Yorkshire and the Humber"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Yorkshire_and_the_Humber&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Districts_of_Yorkshire_and_the_Humber" style="font-size:114%;margin:0 4em"><a href="/wiki/Districts_of_England" title="Districts of England">Districts</a> of <a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire and the Humber</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/North_Lincolnshire" title="North Lincolnshire">North Lincolnshire</a></li>
+<li><a href="/wiki/North_East_Lincolnshire" title="North East Lincolnshire">North East Lincolnshire</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Yorkshire_and_the_Humber_districts_2011_map.svg" class="image"><img alt="Yorkshire and the Humber districts 2011 map.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Yorkshire_and_the_Humber_districts_2011_map.svg/175px-Yorkshire_and_the_Humber_districts_2011_map.svg.png" decoding="async" width="175" height="149" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Yorkshire_and_the_Humber_districts_2011_map.svg/263px-Yorkshire_and_the_Humber_districts_2011_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Yorkshire_and_the_Humber_districts_2011_map.svg/350px-Yorkshire_and_the_Humber_districts_2011_map.svg.png 2x" data-file-width="1425" data-file-height="1212" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Craven" title="Craven">Craven</a></li>
+<li><a href="/wiki/Hambleton_District" title="Hambleton District">Hambleton</a></li>
+<li><a href="/wiki/Borough_of_Harrogate" title="Borough of Harrogate">Harrogate</a></li>
+<li><a href="/wiki/Richmondshire" title="Richmondshire">Richmondshire</a></li>
+<li><a href="/wiki/Ryedale" title="Ryedale">Ryedale</a></li>
+<li><a href="/wiki/Borough_of_Scarborough" title="Borough of Scarborough">Scarborough</a></li>
+<li><a href="/wiki/Selby_District" title="Selby District">Selby</a></li>
+<li><b><a href="/wiki/York" title="York">York</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/South_Yorkshire" title="South Yorkshire">South Yorkshire</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Metropolitan_Borough_of_Barnsley" title="Metropolitan Borough of Barnsley">Barnsley</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Doncaster" title="Metropolitan Borough of Doncaster">Doncaster</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Rotherham" title="Metropolitan Borough of Rotherham">Rotherham</a></li>
+<li><b><a href="/wiki/Sheffield" title="Sheffield">Sheffield</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/City_of_Bradford" title="City of Bradford">Bradford</a></b></li>
+<li><a href="/wiki/Calderdale" title="Calderdale">Calderdale</a></li>
+<li><a href="/wiki/Kirklees" title="Kirklees">Kirklees</a></li>
+<li><b><a class="mw-selflink selflink">Leeds</a></b></li>
+<li><b><a href="/wiki/City_of_Wakefield" title="City of Wakefield">Wakefield</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a></li>
+<li><b><a href="/wiki/Kingston_upon_Hull" title="Kingston upon Hull">Kingston upon Hull</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Cities_of_the_United_Kingdom" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:UK_cities" title="Template:UK cities"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:UK_cities" title="Template talk:UK cities"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:UK_cities&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Cities_of_the_United_Kingdom" style="font-size:114%;margin:0 4em"><a href="/wiki/City_status_in_the_United_Kingdom" title="City status in the United Kingdom">Cities</a> of the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">England</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bath,_Somerset" title="Bath, Somerset">Bath</a></li>
+<li><a href="/wiki/Birmingham" title="Birmingham">Birmingham</a></li>
+<li><a href="/wiki/City_of_Bradford" title="City of Bradford">Bradford</a></li>
+<li><a href="/wiki/Brighton_and_Hove" title="Brighton and Hove">Brighton and Hove</a></li>
+<li><a href="/wiki/Bristol" title="Bristol">Bristol</a></li>
+<li><a href="/wiki/Cambridge" title="Cambridge">Cambridge</a></li>
+<li><a href="/wiki/City_of_Canterbury" title="City of Canterbury">Canterbury</a></li>
+<li><a href="/wiki/City_of_Carlisle" title="City of Carlisle">Carlisle</a></li>
+<li><a href="/wiki/City_of_Chelmsford" title="City of Chelmsford">Chelmsford</a></li>
+<li><a href="/wiki/Chester" title="Chester">Chester</a></li>
+<li><a href="/wiki/Chichester" title="Chichester">Chichester</a></li>
+<li><a href="/wiki/Coventry" title="Coventry">Coventry</a></li>
+<li><a href="/wiki/Derby" title="Derby">Derby</a></li>
+<li><a href="/wiki/Durham,_England" title="Durham, England">Durham</a></li>
+<li><a href="/wiki/Ely,_Cambridgeshire" title="Ely, Cambridgeshire">Ely</a></li>
+<li><a href="/wiki/Exeter" title="Exeter">Exeter</a></li>
+<li><a href="/wiki/Gloucester" title="Gloucester">Gloucester</a></li>
+<li><a href="/wiki/Hereford" title="Hereford">Hereford</a></li>
+<li><a href="/wiki/Kingston_upon_Hull" title="Kingston upon Hull">Kingston upon Hull</a></li>
+<li><a href="/wiki/City_of_Lancaster" title="City of Lancaster">Lancaster</a></li>
+<li><a class="mw-selflink selflink">Leeds</a></li>
+<li><a href="/wiki/Leicester" title="Leicester">Leicester</a></li>
+<li><a href="/wiki/Lichfield" title="Lichfield">Lichfield</a></li>
+<li><a href="/wiki/Lincoln,_England" title="Lincoln, England">Lincoln</a></li>
+<li><a href="/wiki/Liverpool" title="Liverpool">Liverpool</a></li>
+<li><a href="/wiki/City_of_London" title="City of London">London</a></li>
+<li><a href="/wiki/Manchester" title="Manchester">Manchester</a></li>
+<li><a href="/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle upon Tyne</a></li>
+<li><a href="/wiki/Norwich" title="Norwich">Norwich</a></li>
+<li><a href="/wiki/Nottingham" title="Nottingham">Nottingham</a></li>
+<li><a href="/wiki/Oxford" title="Oxford">Oxford</a></li>
+<li><a href="/wiki/Peterborough" title="Peterborough">Peterborough</a></li>
+<li><a href="/wiki/Plymouth" title="Plymouth">Plymouth</a></li>
+<li><a href="/wiki/Portsmouth" title="Portsmouth">Portsmouth</a></li>
+<li><a href="/wiki/City_of_Preston,_Lancashire" title="City of Preston, Lancashire">Preston</a></li>
+<li><a href="/wiki/Ripon" title="Ripon">Ripon</a></li>
+<li><a href="/wiki/City_of_St_Albans" class="mw-redirect" title="City of St Albans">St Albans</a></li>
+<li><a href="/wiki/City_of_Salford" title="City of Salford">Salford</a></li>
+<li><a href="/wiki/Salisbury" title="Salisbury">Salisbury</a></li>
+<li><a href="/wiki/Sheffield" title="Sheffield">Sheffield</a></li>
+<li><a href="/wiki/Southampton" title="Southampton">Southampton</a></li>
+<li><a href="/wiki/Stoke-on-Trent" title="Stoke-on-Trent">Stoke-on-Trent</a></li>
+<li><a href="/wiki/City_of_Sunderland" title="City of Sunderland">Sunderland</a></li>
+<li><a href="/wiki/Truro" title="Truro">Truro</a></li>
+<li><a href="/wiki/City_of_Wakefield" title="City of Wakefield">Wakefield</a></li>
+<li><a href="/wiki/Wells,_Somerset" title="Wells, Somerset">Wells</a></li>
+<li><a href="/wiki/City_of_Westminster" title="City of Westminster">Westminster</a></li>
+<li><a href="/wiki/City_of_Winchester" title="City of Winchester">Winchester</a></li>
+<li><a href="/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a></li>
+<li><a href="/wiki/Worcester" title="Worcester">Worcester</a></li>
+<li><a href="/wiki/York" title="York">York</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Scotland</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aberdeen" title="Aberdeen">Aberdeen</a></li>
+<li><a href="/wiki/Dundee" title="Dundee">Dundee</a></li>
+<li><a href="/wiki/Edinburgh" title="Edinburgh">Edinburgh</a></li>
+<li><a href="/wiki/Glasgow" title="Glasgow">Glasgow</a></li>
+<li><a href="/wiki/Inverness" title="Inverness">Inverness</a></li>
+<li><a href="/wiki/Perth,_Scotland" title="Perth, Scotland">Perth</a></li>
+<li><a href="/wiki/Stirling" title="Stirling">Stirling</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Wales</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bangor,_Gwynedd" title="Bangor, Gwynedd">Bangor</a></li>
+<li><a href="/wiki/Cardiff" title="Cardiff">Cardiff</a></li>
+<li><a href="/wiki/Newport,_Wales" title="Newport, Wales">Newport</a></li>
+<li><a href="/wiki/St_Asaph" title="St Asaph">St Asaph</a></li>
+<li><a href="/wiki/St_Davids" title="St Davids">St Davids</a></li>
+<li><a href="/wiki/Swansea" title="Swansea">Swansea</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Northern Ireland</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Armagh" title="Armagh">Armagh</a></li>
+<li><a href="/wiki/Belfast" title="Belfast">Belfast</a></li>
+<li><a href="/wiki/Derry" title="Derry">Derry</a></li>
+<li><a href="/wiki/Lisburn" title="Lisburn">Lisburn</a></li>
+<li><a href="/wiki/Newry" title="Newry">Newry</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Metropolitan_districts_of_England" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Metropolitan_districts_of_England" title="Template:Metropolitan districts of England"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Metropolitan_districts_of_England" title="Template talk:Metropolitan districts of England"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Metropolitan_districts_of_England&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Metropolitan_districts_of_England" style="font-size:114%;margin:0 4em"><a href="/wiki/Metropolitan_borough" title="Metropolitan borough">Metropolitan districts of England</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Districts</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Metropolitan_Borough_of_Barnsley" title="Metropolitan Borough of Barnsley">Barnsley</a></li>
+<li><a href="/wiki/Birmingham" title="Birmingham">Birmingham</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Bolton" title="Metropolitan Borough of Bolton">Bolton</a></li>
+<li><a href="/wiki/City_of_Bradford" title="City of Bradford">Bradford</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Bury" title="Metropolitan Borough of Bury">Bury</a></li>
+<li><a href="/wiki/Calderdale" title="Calderdale">Calderdale</a></li>
+<li><a href="/wiki/Coventry" title="Coventry">Coventry</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Doncaster" title="Metropolitan Borough of Doncaster">Doncaster</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Dudley" title="Metropolitan Borough of Dudley">Dudley</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Gateshead" title="Metropolitan Borough of Gateshead">Gateshead</a></li>
+<li><a href="/wiki/Kirklees" title="Kirklees">Kirklees</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Knowsley" title="Metropolitan Borough of Knowsley">Knowsley</a></li>
+<li><a class="mw-selflink selflink">Leeds</a></li>
+<li><a href="/wiki/Liverpool" title="Liverpool">Liverpool</a></li>
+<li><a href="/wiki/Manchester" title="Manchester">Manchester</a></li>
+<li><a href="/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle upon Tyne</a></li>
+<li><a href="/wiki/North_Tyneside" title="North Tyneside">North Tyneside</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Oldham" title="Metropolitan Borough of Oldham">Oldham</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Rochdale" title="Metropolitan Borough of Rochdale">Rochdale</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Rotherham" title="Metropolitan Borough of Rotherham">Rotherham</a></li>
+<li><a href="/wiki/City_of_Salford" title="City of Salford">Salford</a></li>
+<li><a href="/wiki/Sandwell" title="Sandwell">Sandwell</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Sefton" title="Metropolitan Borough of Sefton">Sefton</a></li>
+<li><a href="/wiki/Sheffield" title="Sheffield">Sheffield</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Solihull" title="Metropolitan Borough of Solihull">Solihull</a></li>
+<li><a href="/wiki/South_Tyneside" title="South Tyneside">South Tyneside</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_St_Helens" title="Metropolitan Borough of St Helens">St Helens</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Stockport" title="Metropolitan Borough of Stockport">Stockport</a></li>
+<li><a href="/wiki/City_of_Sunderland" title="City of Sunderland">Sunderland</a></li>
+<li><a href="/wiki/Tameside" title="Tameside">Tameside</a></li>
+<li><a href="/wiki/Trafford" title="Trafford">Trafford</a></li>
+<li><a href="/wiki/City_of_Wakefield" title="City of Wakefield">Wakefield</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Walsall" title="Metropolitan Borough of Walsall">Walsall</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Wigan" title="Metropolitan Borough of Wigan">Wigan</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Wirral" title="Metropolitan Borough of Wirral">Wirral</a></li>
+<li><a href="/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a></li></ul>
+</div></td><td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:English_metropolitan_boroughs_2009.svg" class="image"><img alt="English metropolitan boroughs 2009.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/English_metropolitan_boroughs_2009.svg/125px-English_metropolitan_boroughs_2009.svg.png" decoding="async" width="125" height="152" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/English_metropolitan_boroughs_2009.svg/188px-English_metropolitan_boroughs_2009.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/English_metropolitan_boroughs_2009.svg/250px-English_metropolitan_boroughs_2009.svg.png 2x" data-file-width="1108" data-file-height="1345" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Councils</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barnsley_Metropolitan_Borough_Council" title="Barnsley Metropolitan Borough Council">Barnsley</a></li>
+<li><a href="/wiki/Birmingham_City_Council" title="Birmingham City Council">Birmingham</a></li>
+<li><a href="/wiki/Bolton_Council" title="Bolton Council">Bolton</a></li>
+<li><a href="/wiki/City_of_Bradford_Metropolitan_District_Council" title="City of Bradford Metropolitan District Council">Bradford</a></li>
+<li><a href="/wiki/Bury_Metropolitan_Borough_Council" title="Bury Metropolitan Borough Council">Bury</a></li>
+<li><a href="/wiki/Calderdale_Metropolitan_Borough_Council" title="Calderdale Metropolitan Borough Council">Calderdale</a></li>
+<li><a href="/wiki/Coventry_City_Council" title="Coventry City Council">Coventry</a></li>
+<li><a href="/wiki/Doncaster_Council" class="mw-redirect" title="Doncaster Council">Doncaster</a></li>
+<li><a href="/wiki/Dudley_Metropolitan_Borough_Council" title="Dudley Metropolitan Borough Council">Dudley</a></li>
+<li><a href="/wiki/Gateshead_Metropolitan_Borough_Council" class="mw-redirect" title="Gateshead Metropolitan Borough Council">Gateshead</a></li>
+<li><a href="/wiki/Kirklees_Council" title="Kirklees Council">Kirklees</a></li>
+<li><a href="/wiki/Knowsley_Metropolitan_Borough_Council" title="Knowsley Metropolitan Borough Council">Knowsley</a></li>
+<li><a href="/wiki/Leeds_City_Council" title="Leeds City Council">Leeds</a></li>
+<li><a href="/wiki/Liverpool_City_Council" title="Liverpool City Council">Liverpool</a></li>
+<li><a href="/wiki/Manchester_City_Council" title="Manchester City Council">Manchester</a></li>
+<li><a href="/wiki/Newcastle_City_Council" title="Newcastle City Council">Newcastle upon Tyne</a></li>
+<li><a href="/wiki/North_Tyneside_Council" title="North Tyneside Council">North Tyneside</a></li>
+<li><a href="/wiki/Oldham_Council" title="Oldham Council">Oldham</a></li>
+<li><a href="/wiki/Rochdale_Borough_Council" title="Rochdale Borough Council">Rochdale</a></li>
+<li><a href="/wiki/Rotherham_Metropolitan_Borough_Council" title="Rotherham Metropolitan Borough Council">Rotherham</a></li>
+<li><a href="/wiki/Salford_City_Council" title="Salford City Council">Salford</a></li>
+<li><a href="/wiki/Sandwell_Metropolitan_Borough_Council" title="Sandwell Metropolitan Borough Council">Sandwell</a></li>
+<li><a href="/wiki/Sefton_Council" title="Sefton Council">Sefton</a></li>
+<li><a href="/wiki/Sheffield_City_Council" title="Sheffield City Council">Sheffield</a></li>
+<li><a href="/wiki/Solihull_Metropolitan_Borough_Council" title="Solihull Metropolitan Borough Council">Solihull</a></li>
+<li><a href="/wiki/South_Tyneside_Council" title="South Tyneside Council">South Tyneside</a></li>
+<li><a href="/wiki/St_Helens_Council" title="St Helens Council">St Helens</a></li>
+<li><a href="/wiki/Stockport_Metropolitan_Borough_Council" title="Stockport Metropolitan Borough Council">Stockport</a></li>
+<li><a href="/wiki/Sunderland_City_Council" title="Sunderland City Council">Sunderland</a></li>
+<li><a href="/wiki/Tameside_Metropolitan_Borough_Council" title="Tameside Metropolitan Borough Council">Tameside</a></li>
+<li><a href="/wiki/Trafford_Council" title="Trafford Council">Trafford</a></li>
+<li><a href="/wiki/Wakefield_Council" title="Wakefield Council">Wakefield</a></li>
+<li><a href="/wiki/Walsall_Council" title="Walsall Council">Walsall</a></li>
+<li><a href="/wiki/Wigan_Metropolitan_Borough_Council" title="Wigan Metropolitan Borough Council">Wigan</a></li>
+<li><a href="/wiki/Wirral_Council" title="Wirral Council">Wirral</a></li>
+<li><a href="/wiki/Wolverhampton_City_Council" class="mw-redirect" title="Wolverhampton City Council">Wolverhampton</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Local elections</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barnsley_Metropolitan_Borough_Council_elections" title="Barnsley Metropolitan Borough Council elections">Barnsley</a></li>
+<li><a href="/wiki/Birmingham_City_Council_elections" title="Birmingham City Council elections">Birmingham</a></li>
+<li><a href="/wiki/Bolton_Metropolitan_Borough_Council_elections" title="Bolton Metropolitan Borough Council elections">Bolton</a></li>
+<li><a href="/wiki/City_of_Bradford_Metropolitan_District_Council_elections" title="City of Bradford Metropolitan District Council elections">Bradford</a></li>
+<li><a href="/wiki/Bury_Metropolitan_Borough_Council_elections" title="Bury Metropolitan Borough Council elections">Bury</a></li>
+<li><a href="/wiki/Calderdale_Metropolitan_Borough_Council_elections" title="Calderdale Metropolitan Borough Council elections">Calderdale</a></li>
+<li><a href="/wiki/Coventry_City_Council_elections" title="Coventry City Council elections">Coventry</a></li>
+<li><a href="/wiki/Doncaster_Metropolitan_Borough_Council_elections" title="Doncaster Metropolitan Borough Council elections">Doncaster</a></li>
+<li><a href="/wiki/Dudley_Metropolitan_Borough_Council_elections" title="Dudley Metropolitan Borough Council elections">Dudley</a></li>
+<li><a href="/wiki/Gateshead_Metropolitan_Borough_Council_elections" title="Gateshead Metropolitan Borough Council elections">Gateshead</a></li>
+<li><a href="/wiki/Kirklees_Metropolitan_Borough_Council_elections" title="Kirklees Metropolitan Borough Council elections">Kirklees</a></li>
+<li><a href="/wiki/Knowsley_Metropolitan_Borough_Council_elections" title="Knowsley Metropolitan Borough Council elections">Knowsley</a></li>
+<li><a href="/wiki/Leeds_City_Council_elections" title="Leeds City Council elections">Leeds</a></li>
+<li><a href="/wiki/Liverpool_City_Council_elections" title="Liverpool City Council elections">Liverpool</a></li>
+<li><a href="/wiki/Manchester_City_Council_elections" title="Manchester City Council elections">Manchester</a></li>
+<li><a href="/wiki/Newcastle_City_Council_elections" title="Newcastle City Council elections">Newcastle upon Tyne</a></li>
+<li><a href="/wiki/North_Tyneside_Metropolitan_Borough_Council_elections" title="North Tyneside Metropolitan Borough Council elections">North Tyneside</a></li>
+<li><a href="/wiki/Oldham_Metropolitan_Borough_Council_elections" title="Oldham Metropolitan Borough Council elections">Oldham</a></li>
+<li><a href="/wiki/Rochdale_Metropolitan_Borough_Council_elections" title="Rochdale Metropolitan Borough Council elections">Rochdale</a></li>
+<li><a href="/wiki/Rotherham_Metropolitan_Borough_Council_elections" title="Rotherham Metropolitan Borough Council elections">Rotherham</a></li>
+<li><a href="/wiki/Salford_City_Council_elections" title="Salford City Council elections">Salford</a></li>
+<li><a href="/wiki/Sandwell_Metropolitan_Borough_Council_elections" title="Sandwell Metropolitan Borough Council elections">Sandwell</a></li>
+<li><a href="/wiki/Sefton_Metropolitan_Borough_Council_elections" title="Sefton Metropolitan Borough Council elections">Sefton</a></li>
+<li><a href="/wiki/Sheffield_City_Council_elections" title="Sheffield City Council elections">Sheffield</a></li>
+<li><a href="/wiki/Solihull_Metropolitan_Borough_Council_elections" title="Solihull Metropolitan Borough Council elections">Solihull</a></li>
+<li><a href="/wiki/South_Tyneside_Metropolitan_Borough_Council_elections" title="South Tyneside Metropolitan Borough Council elections">South Tyneside</a></li>
+<li><a href="/wiki/St_Helens_Metropolitan_Borough_Council_elections" title="St Helens Metropolitan Borough Council elections">St Helens</a></li>
+<li><a href="/wiki/Stockport_Metropolitan_Borough_Council_elections" title="Stockport Metropolitan Borough Council elections">Stockport</a></li>
+<li><a href="/wiki/Sunderland_City_Council_elections" title="Sunderland City Council elections">Sunderland</a></li>
+<li><a href="/wiki/Tameside_Metropolitan_Borough_Council_elections" title="Tameside Metropolitan Borough Council elections">Tameside</a></li>
+<li><a href="/wiki/Trafford_Metropolitan_Borough_Council_elections" title="Trafford Metropolitan Borough Council elections">Trafford</a></li>
+<li><a href="/wiki/Wakefield_Metropolitan_District_Council_elections" title="Wakefield Metropolitan District Council elections">Wakefield</a></li>
+<li><a href="/wiki/Walsall_Metropolitan_Borough_Council_elections" title="Walsall Metropolitan Borough Council elections">Walsall</a></li>
+<li><a href="/wiki/Wigan_Metropolitan_Borough_Council_elections" title="Wigan Metropolitan Borough Council elections">Wigan</a></li>
+<li><a href="/wiki/Wirral_Metropolitan_Borough_Council_elections" title="Wirral Metropolitan Borough Council elections">Wirral</a></li>
+<li><a href="/wiki/Wolverhampton_City_Council_elections" class="mw-redirect" title="Wolverhampton City Council elections">Wolverhampton</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1257
+Cached time: 20190926092033
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.284 seconds
+Real time usage: 1.895 seconds
+Preprocessor visited node count: 7810/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 179883/2097152 bytes
+Template argument size: 18017/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 98223/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.483/10.000 seconds
+Lua memory usage: 12.32 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1559.978      1 -total
+ 29.12%  454.280      1 Template:Infobox_settlement
+ 24.10%  375.913      1 Template:Reflist
+ 23.21%  361.999      1 Template:Infobox
+ 16.39%  255.751     27 Template:Cite_web
+  9.02%  140.722      1 Template:Update_inline
+  4.92%   76.800      7 Template:Flagicon
+  4.50%   70.176      1 Template:Coord
+  3.69%   57.514      5 Template:Navbox
+  3.04%   47.412      1 Template:As_of
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:24447020-0!canonical and timestamp 20190926092031 and revision id 915990925
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=City_of_Leeds&amp;oldid=915990925">https://en.wikipedia.org/w/index.php?title=City_of_Leeds&amp;oldid=915990925</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Leeds_City_Region" title="Category:Leeds City Region">Leeds City Region</a></li><li><a href="/wiki/Category:Cities_in_Yorkshire_and_the_Humber" title="Category:Cities in Yorkshire and the Humber">Cities in Yorkshire and the Humber</a></li><li><a href="/wiki/Category:Metropolitan_boroughs" title="Category:Metropolitan boroughs">Metropolitan boroughs</a></li><li><a href="/wiki/Category:Local_government_districts_of_Yorkshire_and_the_Humber" title="Category:Local government districts of Yorkshire and the Humber">Local government districts of Yorkshire and the Humber</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_Czech-language_sources_(cs)" title="Category:CS1 Czech-language sources (cs)">CS1 Czech-language sources (cs)</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_February_2017" title="Category:Use dmy dates from February 2017">Use dmy dates from February 2017</a></li><li><a href="/wiki/Category:Use_British_English_from_July_2014" title="Category:Use British English from July 2014">Use British English from July 2014</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Pages_using_infobox_settlement_with_possible_area_code_list" title="Category:Pages using infobox settlement with possible area code list">Pages using infobox settlement with possible area code list</a></li><li><a href="/wiki/Category:Articles_with_OS_grid_coordinates" title="Category:Articles with OS grid coordinates">Articles with OS grid coordinates</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_May_2014" title="Category:Articles containing potentially dated statements from May 2014">Articles containing potentially dated statements from May 2014</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Wikipedia_articles_in_need_of_updating_from_July_2016" title="Category:Wikipedia articles in need of updating from July 2016">Wikipedia articles in need of updating from July 2016</a></li><li><a href="/wiki/Category:All_Wikipedia_articles_in_need_of_updating" title="Category:All Wikipedia articles in need of updating">All Wikipedia articles in need of updating</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=City+of+Leeds" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=City+of+Leeds" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/City_of_Leeds" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:City_of_Leeds" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/City_of_Leeds">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=City_of_Leeds&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=City_of_Leeds&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/City_of_Leeds" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/City_of_Leeds" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=City_of_Leeds&amp;oldid=915990925" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=City_of_Leeds&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q774015" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=City_of_Leeds&amp;id=915990925" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:City_of_Leeds" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=City+of+Leeds">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=City+of+Leeds&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=City_of_Leeds&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%B3%DB%8C%D8%AA%DB%8C_%D9%84%DB%8C%D8%AF%D8%B2" title="سیتی لیدز – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B9%D0%B4%D1%81_(%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D0%B0)" title="Лийдс (община) – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/City_and_Borough_of_Leeds" title="City and Borough of Leeds – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/City_of_Leeds" title="City of Leeds – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%AA%DB%8C_%D9%84%DB%8C%D8%AF%D8%B2" title="سیتی لیدز – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Cit%C3%A9_de_Leeds" title="Cité de Leeds – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%8B%9C%ED%8B%B0%EC%98%A4%EB%B8%8C%EB%A6%AC%EC%A6%88" title="시티오브리즈 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Kota_Leeds" title="Kota Leeds – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Citt%C3%A0_di_Leeds" title="Città di Leeds – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9C%D7%99%D7%93%D7%A1" title="לידס – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/City_of_Leeds" title="City of Leeds – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%86%E3%82%A3%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%AA%E3%83%BC%E3%82%BA" title="シティ・オブ・リーズ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/City_of_Leeds" title="City of Leeds – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/City_of_Leeds" title="City of Leeds – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%82%D0%B8-%D0%BE%D1%84-%D0%9B%D0%B8%D0%B4%D1%81" title="Сити-оф-Лидс – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/City_of_Leeds" title="City of Leeds – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Leeds_(storstadsdistrikt)" title="Leeds (storstadsdistrikt) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Leeds_%C5%9Eehri" title="Leeds Şehri – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%84%DB%8C%DA%88%D8%B2_%D8%B4%DB%81%D8%B1" title="لیڈز شہر – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Leeds_(syudad)" title="Leeds (syudad) – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%88%A9%E8%8C%B2%E5%B8%82" title="利茲市 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q774015#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 16 September 2019, at 11:08<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=City_of_Leeds&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.284","walltime":"1.895","ppvisitednodes":{"value":7810,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":179883,"limit":2097152},"templateargumentsize":{"value":18017,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":98223,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1559.978      1 -total"," 29.12%  454.280      1 Template:Infobox_settlement"," 24.10%  375.913      1 Template:Reflist"," 23.21%  361.999      1 Template:Infobox"," 16.39%  255.751     27 Template:Cite_web","  9.02%  140.722      1 Template:Update_inline","  4.92%   76.800      7 Template:Flagicon","  4.50%   70.176      1 Template:Coord","  3.69%   57.514      5 Template:Navbox","  3.04%   47.412      1 Template:As_of"]},"scribunto":{"limitreport-timeusage":{"value":"0.483","limit":"10.000"},"limitreport-memusage":{"value":12921833,"limit":52428800}},"cachereport":{"origin":"mw1257","timestamp":"20190926092033","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"City of Leeds","url":"https:\/\/en.wikipedia.org\/wiki\/City_of_Leeds","sameAs":"http:\/\/www.wikidata.org\/entity\/Q774015","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q774015","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-09-23T15:50:47Z","dateModified":"2019-09-16T11:08:00Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c7\/Leeds_UK_locator_map.svg","headline":"local government district of West Yorkshire, England"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1264"});});</script>
+</body>
+</html>
+

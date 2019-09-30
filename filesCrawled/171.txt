@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Chinese surname - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Chinese_surname","wgTitle":"Chinese surname","wgCurRevisionId":918182530,"wgRevisionId":918182530,"wgArticleId":54761,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with Chinese-language external links","Webarchive template wayback links","Articles with short description","Use dmy dates from April 2018","Articles containing Chinese-language text","All articles with unsourced statements","Articles with unsourced statements from July 2012","Articles containing simplified Chinese-language text","Articles containing traditional Chinese-language text","Articles with unsourced statements from April 2012","Chinese-language surnames","Surname"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chinese_surname","wgRelevantArticleId":54761,"wgRequestId":"XY35VQpAAEIAAGQ-G2YAAAAW","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia",
+"wgWikibaseItemId":"Q1093580","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Chinese_surname"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Chinese_surname&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Chinese_surname&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Chinese_surname"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Chinese_surname rootpage-Chinese_surname skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Chinese surname</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surnames used by Han Chinese and Sinicized ethnic groups</div>
+<p class="mw-empty-elt">
+</p><p><b>Chinese surnames</b> are used by <a href="/wiki/Han_Chinese" title="Han Chinese">Han Chinese</a> and <a href="/wiki/Sinicization" title="Sinicization">Sinicized</a> ethnic groups in <a href="/wiki/China" title="China">China</a>, <a href="/wiki/Brunei" title="Brunei">Brunei</a>, <a href="/wiki/Korea" title="Korea">Korea</a>, <a href="/wiki/Indonesia" title="Indonesia">Indonesia</a>, <a href="/wiki/Philippines" title="Philippines">Philippines</a>, <a href="/wiki/Vietnam" title="Vietnam">Vietnam</a> and among <a href="/wiki/Overseas_Chinese" title="Overseas Chinese">overseas Chinese</a> communities. In ancient times two types of surnames existed, namely <i>xing</i> (<a href="/wiki/Chinese_language" title="Chinese language">Chinese</a>&#58; <span lang="zh"><a href="https://en.wiktionary.org/wiki/%E5%A7%93" class="extiw" title="wiktionary:姓">姓</a></span>; <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>&#58; <i><span lang="zh-Latn-pinyin">xìng</span></i>) or <b>clan names</b>, and <i>shi</i> (<a href="/wiki/Chinese_language" title="Chinese language">Chinese</a>&#58; <span lang="zh"><a href="https://en.wiktionary.org/wiki/%E6%B0%8F" class="extiw" title="wiktionary:氏">氏</a></span>; <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>&#58; <i><span lang="zh-Latn-pinyin">shì</span></i>) or <b>lineage names</b>.
+</p><p>Chinese family names are <a href="/wiki/Patrilineality" title="Patrilineality">patrilineal</a>, passed from father to children (in adoption, the adoptee usually also takes the same surname). Women do not normally change their surnames upon marriage, except sometimes in places with more western influences such as <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a>. Traditionally Chinese surnames have been <a href="/wiki/Exogamous" class="mw-redirect" title="Exogamous">exogamous</a> in that people tend to marry those with different last names.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The colloquial expressions <i>lǎobǎixìng</i> (老百姓;  lit. "old hundred surnames") and <i>bǎixìng</i> (<a href="https://en.wiktionary.org/wiki/%E7%99%BE" class="extiw" title="wikt:百">百</a><a href="https://en.wiktionary.org/wiki/%E5%A7%93" class="extiw" title="wikt:姓">姓</a>, lit. "hundred surnames") are used in Chinese to mean "ordinary folks", "the people", or "<a href="/wiki/Commoner" title="Commoner">commoners</a>".
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origin_of_Chinese_surnames"><span class="tocnumber">1</span> <span class="toctext">Origin of Chinese surnames</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Xing"><span class="tocnumber">1.1</span> <span class="toctext">Xing</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Shi"><span class="tocnumber">1.2</span> <span class="toctext">Shi</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Distribution_of_surnames"><span class="tocnumber">2</span> <span class="toctext">Distribution of surnames</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Surnames_at_present"><span class="tocnumber">3</span> <span class="toctext">Surnames at present</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Variations_in_romanization"><span class="tocnumber">3.1</span> <span class="toctext">Variations in romanization</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Sociological_use_of_surnames"><span class="tocnumber">4</span> <span class="toctext">Sociological use of surnames</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Common_Chinese_surnames"><span class="tocnumber">5</span> <span class="toctext">Common Chinese surnames</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Mainland_China"><span class="tocnumber">5.1</span> <span class="toctext">Mainland China</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Taiwan"><span class="tocnumber">5.2</span> <span class="toctext">Taiwan</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Citations"><span class="tocnumber">7.1</span> <span class="toctext">Citations</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Sources"><span class="tocnumber">7.2</span> <span class="toctext">Sources</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Origin_of_Chinese_surnames">Origin of Chinese surnames</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_surname&amp;action=edit&amp;section=1" title="Edit section: Origin of Chinese surnames">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Prior to the <a href="/wiki/Warring_States_period" title="Warring States period">Warring States period</a> (fifth century BC), only the ruling families and the aristocratic elite had surnames. Historically there was also a difference between <b>clan names</b> or <i><b>xing</b></i> (<a href="https://en.wiktionary.org/wiki/%E5%A7%93" class="extiw" title="wikt:姓">姓</a>) and <b>lineage names</b> or <i><b>shi</b></i> (<a href="https://en.wiktionary.org/wiki/%E6%B0%8F" class="extiw" title="wikt:氏">氏</a>). 
+</p>
+<h3><span class="mw-headline" id="Xing">Xing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_surname&amp;action=edit&amp;section=2" title="Edit section: Xing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i><b>Xing</b></i> were surnames held by the noble clans. They generally are composed of a nü (<a href="https://en.wiktionary.org/wiki/%E5%A5%B3" class="extiw" title="wikt:女">女</a>, "female") <a href="/wiki/Radical_(Chinese_characters)" title="Radical (Chinese characters)">radical</a> which has been taken by some as evidence they originated from <a href="/wiki/Matriarchal" class="mw-redirect" title="Matriarchal">matriarchal</a> societies based on <a href="/wiki/Women_in_ancient_and_imperial_China#Neolithic" title="Women in ancient and imperial China">maternal lineages</a>. 
+</p><p>Another hypothesis has been proposed based upon observation of the evolution of characters in oracular scripture from the <a href="/wiki/Shang_dynasty" title="Shang dynasty">Shang dynasty</a> through the <a href="/wiki/Zhou_dynasty" title="Zhou dynasty">Zhou</a>: the 女 radical seems to appear during the Zhou period next to Shang <a href="/wiki/Chinese_character" class="mw-redirect" title="Chinese character">sinograms</a> indicating an ethnic group or a tribe. This combination seems to designate specifically a female and could mean "lady of such or such clan". The structure of the <i>xing</i> sinogram could reflect the fact that in the royal court of Zhou, at least in the beginning, only females (wives married into the Zhou family from other clans) were called by their birth clan name, while the men were usually designated by their title or fief.
+</p>
+<h3><span class="mw-headline" id="Shi">Shi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_surname&amp;action=edit&amp;section=3" title="Edit section: Shi">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Prior to the <a href="/wiki/Qin_dynasty" title="Qin dynasty">Qin dynasty</a> (3rd century BC) China was largely a <i><a href="/wiki/Fengjian" title="Fengjian">fengjian</a></i> (feudal) society. As fiefdoms were divided and subdivided among descendants, so additional sub-surnames known as  <i>shi</i> were created to distinguish between noble lineages according to seniority, though in theory they shared the same ancestor. In this way, a nobleman would hold a <i>shi</i> and a <i>xing</i>. 
+</p><p>The difference between <i>xing</i> and <i>shi</i> was blurry, initially for women, ever since the <a href="/wiki/Spring_and_Autumn_period" title="Spring and Autumn period">Spring and Autumn period</a>. For example: <a href="/wiki/Spring_and_Autumn_Annals" title="Spring and Autumn Annals">Chunqiu</a> is referred to Duke Xuan of <a href="/wiki/Lu_(state)" title="Lu (state)">Lu</a>'s consort Lady Mujiang (穆姜), who bore the clan name (姓, <i>xing</i>) Jiang, as <i>Jiangshi</i> 姜氏, "[lady of the] Jiang lineage (!)" (氏, <i>shi</i>)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>.
+</p><p>After the states of China were unified by <a href="/wiki/Qin_Shi_Huang" title="Qin Shi Huang">Qin Shi Huang</a> in 221 BC, surnames gradually spread to the lower classes. Many <i>shi</i> surnames survive to the present day. According to <a href="/wiki/Jiang_Kanghu" title="Jiang Kanghu">Kiang Kang-Hu</a>, there are 18 sources from which Chinese surnames may be derived,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> while others suggested at least 24.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> These may be names associated with a ruling dynasty such as the various titles and names of rulers, nobility and dynasty, or they may be place names of various territories, districts, towns, villages, and specific locations, the title of official posts or occupations, or names of objects, or they may be derived from the names of family members or clans, and in a few cases, names of contempt given by a ruler.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> 
+</p><p>The following are some of the common sources:
+</p>
+<ol><li><i><b>Xing</b></i>: These were usually reserved for the central lineage of the royal family, with collateral lineages taking their own <i>shi</i>.  The traditional description was what were known as the "Eight Great <i>Xing</i>s of High Antiquity" (<a href="https://en.wiktionary.org/wiki/%E4%B8%8A" class="extiw" title="wikt:上">上</a><a href="https://en.wiktionary.org/wiki/%E5%8F%A4" class="extiw" title="wikt:古">古</a><a href="https://en.wiktionary.org/wiki/%E5%85%AB" class="extiw" title="wikt:八">八</a><a href="https://en.wiktionary.org/wiki/%E5%A4%A7" class="extiw" title="wikt:大">大</a><a href="https://en.wiktionary.org/wiki/%E5%A7%93" class="extiw" title="wikt:姓">姓</a>), namely <a href="/wiki/Jiang_(surname)#姜" title="Jiang (surname)">Jiāng</a> (<a href="https://en.wiktionary.org/wiki/%E5%A7%9C" class="extiw" title="wikt:姜">姜</a>), <a href="/wiki/J%C4%AB" class="mw-redirect" title="Jī">Jī</a> (<a href="https://en.wiktionary.org/wiki/%E5%A7%AC" class="extiw" title="wikt:姬">姬</a>), <a href="/wiki/Yao_(surname)" title="Yao (surname)">Yáo</a> (<a href="https://en.wiktionary.org/wiki/%E5%A7%9A" class="extiw" title="wikt:姚">姚</a>), <a href="/wiki/Y%C3%ADng" title="Yíng">Yíng</a> (<a href="https://en.wiktionary.org/wiki/%E5%AC%B4" class="extiw" title="wikt:嬴">嬴</a>), <a href="/wiki/Si_(surname)" title="Si (surname)">Sì</a> (<a href="https://en.wiktionary.org/wiki/%E5%A7%92" class="extiw" title="wikt:姒">姒</a>), Yún (<a href="https://en.wiktionary.org/wiki/%E5%A6%98" class="extiw" title="wikt:妘">妘</a>), <a href="/wiki/Gui_(surname)" title="Gui (surname)">Guī</a> (<a href="https://en.wiktionary.org/wiki/%E5%AA%AF" class="extiw" title="wikt:媯">媯</a>) and Rèn (<a href="https://en.wiktionary.org/wiki/%E5%A6%8A" class="extiw" title="wikt:妊">妊</a>), though some sources quote <a href="/wiki/Ji_(surname_%E5%A7%9E)" title="Ji (surname 姞)">Jí</a> (<a href="https://en.wiktionary.org/wiki/%E5%A7%9E" class="extiw" title="wikt:姞">姞</a>) as the last one instead of Rèn.  Of these <i>xing</i>, only Jiang and Yao have survived in their original form to modern days as frequently occurring surnames.</li>
+<li><b>Royal decree by the Emperor</b>, such as <a href="/wiki/Kuang_(surname)" title="Kuang (surname)">Kuang</a> (<a href="https://en.wiktionary.org/wiki/%E9%84%BA" class="extiw" title="wikt:鄺">鄺</a>).</li>
+<li><b>State name</b>: Many nobles and commoners took the name of their state, either to show their continuing allegiance or as a matter of national and ethnic identity.  These are some of the most common Chinese surnames.</li>
+<li><b>Name of a fief or place of origin</b>: Fiefdoms were often granted to collateral branches of the aristocracy and it was natural as part of the process of sub-surnaming for their names to be used. An example is Di, Marquis of Ouyangting, whose descendants took the surname <a href="/wiki/Ouyang_(surname)" class="mw-redirect" title="Ouyang (surname)">Ouyang</a> (<a href="https://en.wiktionary.org/wiki/%E6%AD%90%E9%99%BD" class="extiw" title="wikt:歐陽">歐陽</a>). There are some two hundred examples of this identified, often of two-character surnames, but few have survived to the present.</li>
+<li><b>Names of an ancestor</b>: Like the previous example, this was also a common origin with close to 500 or 600 examples, 200 of which are two-character surnames. Often an ancestor's <a href="/wiki/Courtesy_name" title="Courtesy name">courtesy name</a> would be used. For example, <a href="/wiki/Yuan_Taotu" title="Yuan Taotu">Yuan Taotu</a> took the second character of his grandfather's courtesy name Boyuan (<a href="https://en.wiktionary.org/wiki/%E4%BC%AF%E7%88%B0" class="extiw" title="wikt:伯爰">伯爰</a>) as his surname. Sometimes titles granted to ancestors could also be taken as surnames.</li>
+<li><b>Seniority within the family</b>: In ancient usage, the characters of <i>meng</i> (<a href="https://en.wiktionary.org/wiki/%E5%AD%9F" class="extiw" title="wikt:孟">孟</a>), <i>zhong</i> (<a href="https://en.wiktionary.org/wiki/%E4%BB%B2" class="extiw" title="wikt:仲">仲</a>), <i>shu</i> (<a href="https://en.wiktionary.org/wiki/%E5%8F%94" class="extiw" title="wikt:叔">叔</a>) and <i>ji</i> (<a href="https://en.wiktionary.org/wiki/%E5%AD%A3" class="extiw" title="wikt:季">季</a>) were used to denote the first, second, third and fourth (or last) eldest sons in a family. These were sometimes adopted as surnames. Of these, <a href="/wiki/Meng_(surname)" title="Meng (surname)">Meng</a> is the best known, being the surname of the philosopher <a href="/wiki/Mencius" title="Mencius">Mencius</a>.</li>
+<li><b>Occupation</b>
+<ol><li>From official positions, such as <a href="/wiki/Shi_(surname)" title="Shi (surname)">Shǐ</a> (<a href="https://en.wiktionary.org/wiki/%E5%8F%B2" class="extiw" title="wikt:史">史</a>, "historian"), Jí (<a href="https://en.wiktionary.org/wiki/%E7%B1%8D" class="extiw" title="wikt:籍">籍</a>, "royal librarian"), <a href="/wiki/Ling_(surname)" title="Ling (surname)">Líng</a> (<a href="https://en.wiktionary.org/wiki/%E5%87%8C" class="extiw" title="wikt:凌">凌</a>, "ice master"), Cāng (<a href="https://en.wiktionary.org/wiki/%E5%80%89" class="extiw" title="wikt:倉">倉</a>, "granary manager"), Kù (<a href="https://en.wiktionary.org/wiki/%E5%BA%AB" class="extiw" title="wikt:庫">庫</a>, "store manager"), Jiàn (<a href="https://en.wiktionary.org/wiki/%E8%AB%AB" class="extiw" title="wikt:諫">諫</a>, "<a href="/wiki/Adviser" title="Adviser">adviser</a>"), Shàngguān (<a href="https://en.wiktionary.org/wiki/%E4%B8%8A%E5%AE%98" class="extiw" title="wikt:上官">上官</a>, "high official"), <a href="/wiki/Taishi_(surname)" title="Taishi (surname)">Tàishǐ</a> (<a href="https://en.wiktionary.org/wiki/%E5%A4%AA%E5%8F%B2" class="extiw" title="wikt:太史">太史</a>, "grand historian"), Zhōngháng (<a href="https://en.wiktionary.org/wiki/%E4%B8%AD%E8%A1%8C" class="extiw" title="wikt:中行">中行</a>, "commander of middle <a href="/wiki/Column_(formation)" title="Column (formation)">column</a>"), Yuèzhèng (<a href="https://en.wiktionary.org/wiki/%E6%A8%82%E6%AD%A3" class="extiw" title="wikt:樂正">樂正</a>, "chief musician"), and in the case of <a href="/wiki/Shang_dynasty" title="Shang dynasty">Shang</a>'s "Five Officials" (<a href="https://en.wiktionary.org/wiki/%E4%BA%94%E5%AE%98" class="extiw" title="wikt:五官">五官</a>), namely <a href="/wiki/Sima_(Chinese_surname)" title="Sima (Chinese surname)">Sīmǎ</a> (<a href="https://en.wiktionary.org/wiki/%E5%8F%B8%E9%A6%AC" class="extiw" title="wikt:司馬">司馬</a>, "minister of horses", akin to <a href="/wiki/Defence_minister" title="Defence minister">defence minister</a>), <a href="/wiki/Situ_(surname)" title="Situ (surname)">Sītú</a> (<a href="https://en.wiktionary.org/wiki/%E5%8F%B8%E5%BE%92" class="extiw" title="wikt:司徒">司徒</a>, "<a href="/wiki/Situ_(office)" title="Situ (office)">minister of the masses</a>", akin to treasurer), Sīkōng (<a href="https://en.wiktionary.org/wiki/%E5%8F%B8%E7%A9%BA" class="extiw" title="wikt:司空">司空</a>, "minister of works", akin to minister of infrastructure), Sīshì (<a href="https://en.wiktionary.org/wiki/%E5%8F%B8%E5%A3%AB" class="extiw" title="wikt:司士">司士</a>, "minister of <a href="/wiki/Yeomen" class="mw-redirect" title="Yeomen">yeomen</a>", akin to chief <a href="/wiki/Ombudsman" title="Ombudsman">ombudsman</a>) and Sīkòu (<a href="https://en.wiktionary.org/wiki/%E5%8F%B8%E5%AF%87" class="extiw" title="wikt:司寇">司寇</a>, "minister of bandits", akin to <a href="/wiki/Attorney_general" title="Attorney general">attorney general</a>);</li>
+<li>From <a href="/wiki/Noble_title" class="mw-redirect" title="Noble title">noble titles</a>, such as <a href="/wiki/Wang_(surname)" title="Wang (surname)">Wáng</a> (<a href="https://en.wiktionary.org/wiki/%E7%8E%8B" class="extiw" title="wikt:王">王</a>, "king"), <a href="/wiki/Hou_(surname)" title="Hou (surname)">Hóu</a> (<a href="https://en.wiktionary.org/wiki/%E4%BE%AF" class="extiw" title="wikt:侯">侯</a>, "marquis"), <a href="/wiki/Xiahou" title="Xiahou">Xiàhóu</a> (<a href="https://en.wiktionary.org/wiki/%E5%A4%8F%E4%BE%AF" class="extiw" title="wikt:夏侯">夏侯</a>, "<a href="/wiki/Marquis" class="mw-redirect" title="Marquis">Marquis</a> of <a href="/wiki/Xia_County" title="Xia County">Xia</a>") and <a href="/wiki/Gongsun" title="Gongsun">Gōngsūn</a> (<a href="https://en.wiktionary.org/wiki/%E5%85%AC%E5%AD%AB" class="extiw" title="wikt:公孫">公孫</a>, "Duke's descendant");</li>
+<li>From more lowly occupations, as with <a href="/wiki/Tao_(surname)" title="Tao (surname)">Táo</a> (<a href="https://en.wiktionary.org/wiki/%E9%99%B6" class="extiw" title="wikt:陶">陶</a>, "<a href="/wiki/Pottery" title="Pottery">potter</a>"), <a href="/wiki/Tu_(surname)" title="Tu (surname)">Tú</a> (<a href="https://en.wiktionary.org/wiki/%E5%B1%A0" class="extiw" title="wikt:屠">屠</a>, "butcher"), Bú (<a href="https://en.wiktionary.org/wiki/%E5%8D%9C" class="extiw" title="wikt:卜">卜</a>, "<a href="/wiki/Divination" title="Divination">diviner</a>"), Jiàng (<a href="https://en.wiktionary.org/wiki/%E5%8C%A0" class="extiw" title="wikt:匠">匠</a>, "<a href="/wiki/Artisan" title="Artisan">craftsman</a>"), <a href="/wiki/Wu_(surname)" title="Wu (surname)">Wū</a> (<a href="https://en.wiktionary.org/wiki/%E5%B7%AB" class="extiw" title="wikt:巫">巫</a>, "<a href="/wiki/Wu_(shaman)" title="Wu (shaman)">shaman</a>") and Chú (<a href="https://en.wiktionary.org/wiki/%E5%BB%9A" class="extiw" title="wikt:廚">廚</a>, "cook").</li></ol></li>
+<li><b>Ethnic and religious groups</b>: <a href="/wiki/Ethnic_minorities_in_China" title="Ethnic minorities in China">Non-Han Chinese peoples in China</a> sometimes took the name of their ethnic groups as <a href="/wiki/Sinicization" title="Sinicization">sinicized</a> surnames, such as <a href="/wiki/Hu_(surname)" title="Hu (surname)">Hú</a> (<a href="https://en.wiktionary.org/wiki/%E8%83%A1" class="extiw" title="wikt:胡">胡</a>, "barbarian"), <a href="/wiki/Jin_(Chinese_surname)" title="Jin (Chinese surname)">Jīn</a> (<a href="https://en.wiktionary.org/wiki/%E9%87%91" class="extiw" title="wikt:金">金</a>, "<a href="/wiki/Jurchen_people" title="Jurchen people">Jurchen</a>"), Mǎn (<a href="https://en.wiktionary.org/wiki/%E6%BB%BF" class="extiw" title="wikt:滿">滿</a>, "<a href="/wiki/Manchu" class="mw-redirect" title="Manchu">Manchu</a>"), <a href="/wiki/Di_(surname)" title="Di (surname)">Dí</a> (<a href="https://en.wiktionary.org/wiki/%E7%8B%84" class="extiw" title="wikt:狄">狄</a>, "<a href="/wiki/Beidi" title="Beidi">Di people</a>"), Huí (<a href="https://en.wiktionary.org/wiki/%E5%9B%9E" class="extiw" title="wikt:回">回</a>, "<a href="/wiki/Hui_people" title="Hui people">Hui people</a>") and <a href="/wiki/Murong" title="Murong">Mùróng</a> (<a href="https://en.wiktionary.org/wiki/%E6%85%95%E5%AE%B9" class="extiw" title="wikt:慕容">慕容</a>, a <a href="/wiki/Xianbei" title="Xianbei">Xianbei</a> tribe).  Many <a href="/wiki/Hui_Muslim" class="mw-redirect" title="Hui Muslim">Hui Muslims</a> adopted the <a href="/wiki/Ma_(surname)" title="Ma (surname)">surname Ma</a> (<a href="https://en.wiktionary.org/wiki/%E9%A6%AC" class="extiw" title="wikt:馬">馬</a>), an old Chinese surname, when they were required to use Chinese surnames during the Ming dynasty as it sounded close to the first syllable of Mohammad; it was also fitting for some of those who were caravaneers as the word means "horse".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li></ol>
+<p>Many also changed their surnames throughout history for a number of reasons.  
+</p>
+<ul><li>A ruler may bestow his own surname on those he considered to have given outstanding service to him, for example the surname <a href="/wiki/Liu" title="Liu">Liu</a> (<a href="https://en.wiktionary.org/wiki/%E5%8A%89" class="extiw" title="wikt:劉">劉</a>) was granted by emperors in the <a href="/wiki/Han_dynasty" title="Han dynasty">Han dynasty</a>, <a href="/wiki/Li_(surname_%E6%9D%8E)" title="Li (surname 李)">Li</a> (<a href="https://en.wiktionary.org/wiki/%E6%9D%8E" class="extiw" title="wikt:李">李</a>) during the Tang dynasty, and <a href="/wiki/Zhao_(surname)" title="Zhao (surname)">Zhao</a> (<a href="https://en.wiktionary.org/wiki/%E8%B6%99" class="extiw" title="wikt:趙">趙</a>) from the <a href="/wiki/Song_dynasty" title="Song dynasty">Song dynasty</a>.</li>
+<li>Others however may avoid using the name of a ruler, for example <a href="/wiki/Shi_(surname)" title="Shi (surname)">Shi</a> (<a href="https://en.wiktionary.org/wiki/%E5%B8%AB" class="extiw" title="wikt:師">師</a>) was changed to Shuai (<a href="https://en.wiktionary.org/wiki/%E5%B8%A5" class="extiw" title="wikt:帥">帥</a>) to <a href="/wiki/Naming_taboo" title="Naming taboo">avoid conflict</a> with the name of <a href="/wiki/Sima_Shi" title="Sima Shi">Sima Shi</a>.  Others may modify their name in order to escape from their enemies at times of turmoil, for example Duanmu (<a href="https://en.wiktionary.org/wiki/%E7%AB%AF%E6%9C%A8" class="extiw" title="wikt:端木">端木</a>) to Mu (<a href="https://en.wiktionary.org/wiki/%E6%9C%A8" class="extiw" title="wikt:木">木</a> and <a href="https://en.wiktionary.org/wiki/%E6%B2%90" class="extiw" title="wikt:沐">沐</a>), and Gong (<a href="https://en.wiktionary.org/wiki/%E5%85%B1" class="extiw" title="wikt:共">共</a>) to <a href="/wiki/Gong_(surname)" title="Gong (surname)">Gong</a> (<a href="https://en.wiktionary.org/wiki/%E9%BE%94" class="extiw" title="wikt:龔">龔</a>).</li>
+<li>The name may also be changed by simplification of the writing e.g. Mu (<a href="https://en.wiktionary.org/wiki/%E5%B9%95" class="extiw" title="wikt:幕">幕</a>) to <a href="/wiki/Mo_(Chinese_surname)" title="Mo (Chinese surname)">Mo</a> (<a href="https://en.wiktionary.org/wiki/%E8%8E%AB" class="extiw" title="wikt:莫">莫</a>), or reducing from double or multiple character names to single character names e.g. Duangan (<a href="https://en.wiktionary.org/wiki/%E6%AE%B5%E5%B9%B2" class="extiw" title="wikt:段干">段干</a>) to Duan (<a href="https://en.wiktionary.org/wiki/%E6%AE%B5" class="extiw" title="wikt:段">段</a>).</li>
+<li>It may also have occurred through error, or changed due to a dissatisfaction with the name (e.g. <a href="https://en.wiktionary.org/wiki/%E5%93%80" class="extiw" title="wikt:哀">哀</a>, "sorrow", to <a href="https://en.wiktionary.org/wiki/%E8%A1%B7" class="extiw" title="wikt:衷">衷</a>, "heartfelt feeling").<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Distribution_of_surnames">Distribution of surnames</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_surname&amp;action=edit&amp;section=4" title="Edit section: Distribution of surnames">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" align="right" style="text-align:center; width:30%">
+
+<tbody><tr>
+<th colspan="2" style="background:#ccc;">Regions with high concentration of particular surnames
+</th></tr>
+<tr>
+<th width="33%">Region
+</th>
+<th width="33%">Surnames
+</th></tr>
+<tr>
+<th><a href="/wiki/Liaoning" title="Liaoning">Liaoning</a>
+</th>
+<td><a href="/wiki/Zhang_(surname)" title="Zhang (surname)">Zhang</a> (张/張), <a href="/wiki/Jiang_(surname)" title="Jiang (surname)">Jiang</a> (江)
+</td></tr>
+<tr>
+<th><a href="/wiki/Guangdong" title="Guangdong">Guangdong</a>
+</th>
+<td><a href="/wiki/Liang_(surname)" title="Liang (surname)">Liang/Leung</a> (梁), <a href="/wiki/Luo_(surname)" title="Luo (surname)">Luo</a> (罗/羅), <a href="/wiki/Kuang_(surname)" title="Kuang (surname)">Kuang</a> (邝/鄺), Chan/<a href="/wiki/Chen_(surname)" title="Chen (surname)">Chen</a> (陈/陳)
+</td></tr>
+<tr>
+<th><a href="/wiki/Guangxi" title="Guangxi">Guangxi</a>
+</th>
+<td>Liang (梁), <a href="/wiki/Lu_(surname_%E9%99%86)" class="mw-redirect" title="Lu (surname 陆)">Lu</a> (陆/陸), <a href="/wiki/Chong_(surname)" title="Chong (surname)">Zhang/Chong</a> (章)
+</td></tr>
+<tr>
+<th><a href="/wiki/Fujian" title="Fujian">Fujian</a>
+</th>
+<td><a href="/wiki/Zheng_(surname)" title="Zheng (surname)">Zheng</a> (郑/鄭), <a href="/wiki/Lin_(surname)" title="Lin (surname)">Lin</a> (林), <a href="/wiki/X%C7%94_(surname)" class="mw-redirect" title="Xǔ (surname)">Xǔ</a> (许/許), <a href="/wiki/Xie_(surname)" title="Xie (surname)">Xie</a> (谢/謝)
+</td></tr>
+<tr>
+<th><a href="/wiki/Anhui" title="Anhui">Anhui</a>
+</th>
+<td><a href="/wiki/Wang_(surname)" title="Wang (surname)">Wang</a> (汪)
+</td></tr>
+<tr>
+<th><a href="/wiki/Jiangsu" title="Jiangsu">Jiangsu</a>
+</th>
+<td><a href="/wiki/X%C3%BA" class="mw-redirect" title="Xú">Xú</a> (徐), <a href="/wiki/Zhu_(surname)" title="Zhu (surname)">Zhu</a> (朱)
+</td></tr>
+<tr>
+<th>Shanghai
+</th>
+<td><a href="/wiki/Wang_(surname)" title="Wang (surname)">Wang</a> (王), <a href="/wiki/Yang_(surname)" title="Yang (surname)">Yang</a> (杨/楊)
+</td></tr>
+<tr>
+<th><a href="/wiki/Zhejiang" title="Zhejiang">Zhejiang</a>
+</th>
+<td><a href="/wiki/Mao_(surname)" title="Mao (surname)">Mao</a> (毛), <a href="/wiki/Sh%C4%9Bn_(surname)" class="mw-redirect" title="Shěn (surname)">Shen</a> (沈)
+</td></tr>
+<tr>
+<th><a href="/wiki/Jiangxi" title="Jiangxi">Jiangxi</a>
+</th>
+<td><a href="/wiki/Hu_(surname)" title="Hu (surname)">Hu</a> (胡)
+</td></tr>
+<tr>
+<th><a href="/wiki/Hubei" title="Hubei">Hubei</a>
+</th>
+<td>Hu (胡)
+</td></tr>
+<tr>
+<th><a href="/wiki/Hunan" title="Hunan">Hunan</a>
+</th>
+<td><a href="/wiki/Tan_(surname)" title="Tan (surname)">Tan</a> (谭/譚)
+</td></tr>
+<tr>
+<th><a href="/wiki/Sichuan" title="Sichuan">Sichuan</a>
+</th>
+<td><a href="/wiki/He_(surname)" title="He (surname)">He</a> (何), <a href="/wiki/Deng_(surname)" title="Deng (surname)">Deng</a> (邓/鄧)
+</td></tr>
+<tr>
+<th><a href="/wiki/Guizhou" title="Guizhou">Guizhou</a>
+</th>
+<td><a href="/wiki/Wu_(surname)" title="Wu (surname)">Wu</a> (吴/吳)
+</td></tr>
+<tr>
+<th><a href="/wiki/Yunnan" title="Yunnan">Yunnan</a>
+</th>
+<td><a href="/wiki/Yang_(surname)" title="Yang (surname)">Yang</a> (杨/楊)
+</td></tr>
+<tr>
+<th><a href="/wiki/Henan" title="Henan">Henan</a>
+</th>
+<td><a href="/wiki/Cheng_(surname)" title="Cheng (surname)">Cheng</a> (程)
+</td></tr>
+<tr>
+<th><a href="/wiki/Gansu" title="Gansu">Gansu</a>
+</th>
+<td><a href="/wiki/Gao_(surname)" title="Gao (surname)">Gao</a> (高)
+</td></tr>
+<tr>
+<th><a href="/wiki/Ningxia" title="Ningxia">Ningxia</a>
+</th>
+<td>Wan (万/萬)
+</td></tr>
+<tr>
+<th><a href="/wiki/Shaanxi" title="Shaanxi">Shaanxi</a>
+</th>
+<td><a href="/wiki/Xue" title="Xue">Xue</a> (薛)
+</td></tr>
+<tr>
+<th><a href="/wiki/Qinghai" title="Qinghai">Qinghai</a>
+</th>
+<td><a href="/wiki/Bao_(surname)" title="Bao (surname)">Bao</a> (鲍/鮑)
+</td></tr>
+<tr>
+<th><a href="/wiki/Xinjiang" title="Xinjiang">Xinjiang</a>
+</th>
+<td><a href="/wiki/Ma_(surname)" title="Ma (surname)">Ma</a> (马/馬)
+</td></tr>
+<tr>
+<th><a href="/wiki/Shandong" title="Shandong">Shandong</a>
+</th>
+<td><a href="/wiki/Kong_(surname)" title="Kong (surname)">Kong</a> (孔)
+</td></tr>
+<tr>
+<th><a href="/wiki/Shanxi" title="Shanxi">Shanxi</a>
+</th>
+<td><a href="/wiki/Dong_(Chinese_surname)" class="mw-redirect" title="Dong (Chinese surname)">Dong</a> (董) and <a href="/wiki/Guo" title="Guo">Guo</a> (郭)
+</td></tr>
+<tr>
+<th><a href="/wiki/Inner_Mongolia" title="Inner Mongolia">Inner Mongolia</a>
+</th>
+<td><a href="/wiki/Pan_(surname)" title="Pan (surname)">Pan</a> (潘)
+</td></tr>
+<tr>
+<th><a href="/wiki/Northeast_China" title="Northeast China">Manchuria</a>
+</th>
+<td><a href="/wiki/Yu_(Chinese_surname)" title="Yu (Chinese surname)">Yu</a> (于)
+</td></tr>
+<tr>
+<th><a href="/wiki/Taiwan" title="Taiwan">Taiwan</a>
+</th>
+<td><a href="/wiki/Chen_(surname)" title="Chen (surname)">Chen</a> (陳)
+</td></tr>
+</tbody></table>
+<p>Surnames are not evenly distributed throughout China's geography. In northern China, Wáng (<a href="https://en.wiktionary.org/wiki/%E7%8E%8B#Chinese" class="extiw" title="wiktionary:王">王</a>) is the most common surname, being shared by 9.9% of the population. Next are Lǐ (<a href="https://en.wiktionary.org/wiki/%E6%9D%8E#Chinese" class="extiw" title="wiktionary:李">李</a>), Zhāng (<a href="https://en.wiktionary.org/wiki/%E5%BC%A0#Chinese" class="extiw" title="wiktionary:张">张</a>/<a href="https://en.wiktionary.org/wiki/%E5%BC%B5#Chinese" class="extiw" title="wiktionary:張">張</a>) and Liú (<a href="https://en.wiktionary.org/wiki/%E5%88%98#Chinese" class="extiw" title="wiktionary:刘">刘</a>/<a href="https://en.wiktionary.org/wiki/%E5%8A%89#Chinese" class="extiw" title="wiktionary:劉">劉</a>). In the south, Chén (<a href="https://en.wiktionary.org/wiki/%E9%99%88#Chinese" class="extiw" title="wiktionary:陈">陈</a>/<a href="https://en.wiktionary.org/wiki/%E9%99%B3#Chinese" class="extiw" title="wiktionary:陳">陳</a>) is the most common, being shared by 10.6% of the population. Next are Lǐ (李), Huáng (<a href="https://en.wiktionary.org/wiki/%E9%BB%84#Chinese" class="extiw" title="wiktionary:黄">黄</a>/<a href="https://en.wiktionary.org/wiki/%E9%BB%83#Chinese" class="extiw" title="wiktionary:黃">黃</a>), Lín (<a href="https://en.wiktionary.org/wiki/%E6%9E%97#Chinese" class="extiw" title="wiktionary:林">林</a>) and Zhāng (张/張). Around the major crossing points of the <a href="/wiki/Yangtze_River" class="mw-redirect" title="Yangtze River">Yangzi River</a>, the most common surname is Lĭ (李), taking up 7.7%, followed by Wáng (王), Zhāng (张/張), Chan/Chén (陈/陳) and Liú (刘/劉).
+</p><p>A 1987 study showed over 450 family names in common use in Beijing, but there were fewer than 300 family names in <a href="/wiki/Fujian" title="Fujian">Fujian</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>&#93;</sup>
+</p><p>A study by <a href="/wiki/Geneticist" title="Geneticist">geneticist</a> <a href="/wiki/Yuan_Yida" title="Yuan Yida">Yuan Yida</a> has found that of all the people with a particular surname, there tends to be a population concentration in a certain province,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>&#93;</sup> as tabulated to the right. It does not show, however, the most common surnames in any one province.
+</p><p>The 55th most common family name "Xiào" (<a href="https://en.wiktionary.org/wiki/%E8%82%96#Chinese" class="extiw" title="wiktionary:肖">肖</a>) appears to be very rare in Hong Kong. This is explained by the fact Hong Kong uses <a href="/wiki/Traditional_Chinese_character" class="mw-redirect" title="Traditional Chinese character">Traditional Chinese characters</a> rather than <a href="/wiki/Simplified_Chinese_character" class="mw-redirect" title="Simplified Chinese character">Simplified Chinese characters</a>. Originally, the surname <a href="https://en.wiktionary.org/wiki/%E8%95%AD#Chinese" class="extiw" title="wiktionary:蕭">蕭</a> (Xiāo) was rather common while the surname 肖 (Xiào) was extremely rare, if not non-existent (it is mentioned only sporadically in historical texts). The first round of simplification in 1956 simplified 蕭 into <a href="https://en.wiktionary.org/wiki/%E8%90%A7#Chinese" class="extiw" title="wiktionary:萧">萧</a>, keeping 蕭/萧 and 肖 distinct. However the <a href="/wiki/Second_round_of_simplified_Chinese_characters" title="Second round of simplified Chinese characters">second-round</a> in 1977, which has long been abolished, merged 萧 and 肖 into 肖. Despite the retraction of the second round, some people have kept 肖 as their surname, so that there are now two separate surnames, 萧 and 肖.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>&#93;</sup>
+</p><p>Chén (<a href="https://en.wiktionary.org/wiki/%E9%99%88#Chinese" class="extiw" title="wiktionary:陈">陈</a>/<a href="https://en.wiktionary.org/wiki/%E9%99%B3#Chinese" class="extiw" title="wiktionary:陳">陳</a>) is perhaps the most common surname in <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a> and <a href="/wiki/Macau" title="Macau">Macau</a>, where it is romanized as Chan, and is also common in <a href="/wiki/Taiwan" title="Taiwan">Taiwan</a>, where it is romanized as Chén.
+</p><p>Fāng (<a href="https://en.wiktionary.org/wiki/%E6%96%B9#Chinese" class="extiw" title="wiktionary:方">方</a>), which is only the 47th most common overall, is much more common in San Francisco's Chinatown in the United States, although the surname is more often than not romanized as Fong, as based on the <a href="/wiki/Yue_Chinese" title="Yue Chinese">Yue</a> dialect. As with the concentration of family names, this can also be explained statistically, as a person with an uncommon name moving to an unsettled area and leaving his family name to large number of descendants.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>&#93;</sup>
+</p><p>After the <a href="/wiki/Song_Dynasty" class="mw-redirect" title="Song Dynasty">Song Dynasty</a>, surname distributions in China largely settled down.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>&#93;</sup> The <a href="/wiki/Kuang_(surname)" title="Kuang (surname)">Kuàng</a> (<a href="https://en.wiktionary.org/wiki/%E9%82%9D#Chinese" class="extiw" title="wiktionary:邝">邝</a>/<a href="https://en.wiktionary.org/wiki/%E9%84%BA#Chinese" class="extiw" title="wiktionary:鄺">鄺</a>) family, for example, migrated from the northern capital and settled in <a href="/wiki/Guangdong" title="Guangdong">Guangdong</a> after the Song Dynasty revolts.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2012)">citation needed</span></a></i>&#93;</sup> Villages are often made up of a single <a href="/wiki/Patrilineage" class="mw-redirect" title="Patrilineage">patrilineage</a> with individuals having the same surname, often with a common male ancestor. They usually intermarry with others from nearby villages, creating genetic clusters.
+</p>
+<h2><span class="mw-headline" id="Surnames_at_present">Surnames at present</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_surname&amp;action=edit&amp;section=5" title="Edit section: Surnames at present">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Of the thousands of surnames which have been identified from historical texts prior to the modern era, most have either been lost (see <a href="/wiki/Extinction_of_family_names" class="mw-redirect" title="Extinction of family names">extinction of family names</a>) or simplified. Historically there are close to 12,000 surnames recorded (including those from non-Han Chinese ethnic groups), of which only about 3,100 are in current use,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> a factor of almost 4:1 (about 75%) reduction. Surname extinction is due to various factors, such as people taking the names of their rulers, orthographic simplifications, taboos against using characters from an emperor's name, and others. A recent example of near surname extinction is the rare surname Shan (𢒉).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+The character is not able to be displayed on a computer and people born after the system change as well as people who didn't want a hassle had to change their name to another character such as Xian (冼). The name still exists for those who were grandfathered but some people from the village are concerned that future generations will forget their name origin.
+</p><p>While new names have arisen for various reasons, this has been outweighed by old names disappearing. The most significant factor affecting the surname frequency is other ethnic groups identifying as Han and adopting Han names.<sup id="cite_ref-du1992_11-0" class="reference"><a href="#cite_note-du1992-11">&#91;11&#93;</a></sup> In recent centuries some two-character surnames have often dropped a character. Since the founding of the People's Republic of China, moreover, some surnames have been graphically simplified.
+</p><p>Although there are thousands of Chinese family names, the <a href="/wiki/List_of_common_Chinese_surnames" title="List of common Chinese surnames">100</a> most common, which together make up less than 5% of those in existence, are shared by 85% of the population.  The three most common surnames in Mainland China are <a href="/wiki/Li_(surname_%E6%9D%8E)" title="Li (surname 李)">Li</a>, <a href="/wiki/Wang_(surname)" title="Wang (surname)">Wang</a> and <a href="/wiki/Zhang_(surname)" title="Zhang (surname)">Zhang</a>, which make up 7.9%, 7.4% and 7.1% respectively. Together they number close to 300 million and are easily the most common surnames in the world. In Chinese, the phrase "third son of Zhang, fourth son of Li" (<a href="/wiki/Chinese_language" title="Chinese language">Chinese</a>&#58; <span lang="zh"><a href="https://en.wiktionary.org/wiki/%E5%BC%A0" class="extiw" title="wikt:张">张</a><a href="https://en.wiktionary.org/wiki/%E4%B8%89" class="extiw" title="wikt:三">三</a><a href="https://en.wiktionary.org/wiki/%E6%9D%8E" class="extiw" title="wikt:李">李</a><a href="https://en.wiktionary.org/wiki/%E5%9B%9B" class="extiw" title="wikt:四">四</a></span>; <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>&#58; <i><span lang="zh-Latn-pinyin"><a href="https://en.wiktionary.org/wiki/zh%C4%81ng" class="extiw" title="wikt:zhāng">zhāng</a><a href="https://en.wiktionary.org/wiki/s%C4%81n" class="extiw" title="wikt:sān"> sān</a><a href="https://en.wiktionary.org/wiki/l%C7%90" class="extiw" title="wikt:lǐ"> lǐ</a><a href="https://en.wiktionary.org/wiki/s%C3%AC" class="extiw" title="wikt:sì"> sì</a></span></i>) is used to say "just anybody".
+</p><p>In a 1990 study, the top 200 family names accounted for over 96% of a random sample of 174,900 persons, with over 500 other names accounting for the remaining 4%.  In a different study (1987), which combined data from Taiwan and China (sample size of 570,000 persons), the top 19 names covered 55.6%,<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> and the top 100 names covered 87% of the sample. Other data suggest that the top 50 names comprise 70% of the population.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>Most commonly occurring Chinese family names have only one character; however, about twenty <a href="/wiki/Chinese_compound_surname" title="Chinese compound surname">double-character family names</a> have survived into modern times.  These include <a href="/wiki/Sima_(Chinese_surname)" title="Sima (Chinese surname)">Sima</a> (<a href="https://en.wiktionary.org/wiki/%E5%8F%B8" class="extiw" title="wiktionary:司">司</a> <a href="https://en.wiktionary.org/wiki/%E9%A6%AC" class="extiw" title="wiktionary:馬">馬</a>, simp. <a href="https://en.wiktionary.org/wiki/%E5%8F%B8" class="extiw" title="wiktionary:司">司</a> <a href="https://en.wiktionary.org/wiki/%E9%A9%AC" class="extiw" title="wiktionary:马">马</a>), <a href="/wiki/Zhuge" title="Zhuge">Zhuge</a> (<a href="https://en.wiktionary.org/wiki/%E8%AB%B8" class="extiw" title="wiktionary:諸">諸</a> <a href="https://en.wiktionary.org/wiki/%E8%91%9B" class="extiw" title="wiktionary:葛">葛</a>, simp. <a href="https://en.wiktionary.org/wiki/%E8%AF%B8" class="extiw" title="wiktionary:诸">诸</a> <a href="https://en.wiktionary.org/wiki/%E8%91%9B" class="extiw" title="wiktionary:葛">葛</a>), <a href="/wiki/Ouyang" title="Ouyang">Ouyang</a> (<a href="https://en.wiktionary.org/wiki/%E6%AD%90" class="extiw" title="wiktionary:歐">歐</a> <a href="https://en.wiktionary.org/wiki/%E9%99%BD" class="extiw" title="wiktionary:陽">陽</a>, simp. <a href="https://en.wiktionary.org/wiki/%E6%AC%A7" class="extiw" title="wiktionary:欧">欧</a> <a href="https://en.wiktionary.org/wiki/%E9%98%B3" class="extiw" title="wiktionary:阳">阳</a>), occasionally romanized as <i>O'Young</i>, suggesting an Irish origin to English-speakers, and <a href="/wiki/Situ_(surname)" title="Situ (surname)">Situ</a> (or Sito <a href="https://en.wiktionary.org/wiki/%E5%8F%B8" class="extiw" title="wiktionary:司">司</a> <a href="https://en.wiktionary.org/wiki/%E5%BE%92" class="extiw" title="wiktionary:徒">徒</a>). Sima, Zhuge, and Ouyang also happen to be the surnames of four extremely famous premodern Chinese historical figures. There are family names with three or more characters, but those are not ethnically Han Chinese.  For example, Aixinjueluo (<a href="https://en.wiktionary.org/wiki/%E6%84%9B" class="extiw" title="wiktionary:愛">愛</a> <a href="https://en.wiktionary.org/wiki/%E6%96%B0" class="extiw" title="wiktionary:新">新</a> <a href="https://en.wiktionary.org/wiki/%E8%A6%BA" class="extiw" title="wiktionary:覺">覺</a> <a href="https://en.wiktionary.org/wiki/%E7%BE%85" class="extiw" title="wiktionary:羅">羅</a>, also romanized from the <a href="/wiki/Manchu_language" title="Manchu language">Manchu language</a> as <a href="/wiki/Aisin_Gioro" title="Aisin Gioro">Aisin Gioro</a>), was the family name of the <a href="/wiki/Manchu_people" title="Manchu people">Manchu</a> royal family of the <a href="/wiki/Qing_dynasty" title="Qing dynasty">Qing dynasty</a>.
+</p>
+<h3><span class="mw-headline" id="Variations_in_romanization">Variations in romanization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_surname&amp;action=edit&amp;section=6" title="Edit section: Variations in romanization">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Transliteration" title="Transliteration">Transliteration</a> of Chinese family names (see <a href="/wiki/List_of_common_Chinese_surnames" title="List of common Chinese surnames">List of common Chinese surnames</a>) into foreign languages poses a number of problems. Chinese surnames are shared by people speaking a number of dialects and languages which often have different pronunciations of their surnames. The spread of the <a href="/wiki/Overseas_Chinese" title="Overseas Chinese">Chinese diaspora</a> into all parts of the world resulted in the <a href="/wiki/Romanization" title="Romanization">Romanization</a> of the surnames based on different languages. As a result, it is common for the same surname to be transliterated differently. In certain dialects, different surnames could be <a href="/wiki/Homonyms" class="mw-redirect" title="Homonyms">homonyms</a> so it is common for family names to appear ambiguous when transliterated. Example: 鄭/郑 (pinyin: Zheng) can be romanized into Chang, Cheng, Chung, Teh, Tay, Tee, Tsang, Zeng or Zheng,  (in <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>, Chang, Cheng, Zheng and Zeng are all different names). Translating Chinese surnames from foreign transliteration often presents ambiguity. For example, the surname "Li" are all mandarin-based pinyin transliteration for the surnames 黎 (Lí); 李, 理 and 里 (Lǐ); 郦/酈, 栗, 厉/厲, and 利 (Lì) depending on the <a href="/wiki/Tone_(linguistics)" title="Tone (linguistics)">tone</a> which are often omitted in foreign transliterations.
+</p><p>Due to the different pronunciation and romanizations, it is sometimes easy to tell whether a Chinese person has origins in mainland China, Hong Kong, Macau, Indonesia, Malaysia, Philippines, Singapore, or Taiwan. In general people who are of Mainland descent will have both their surnames and names in <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>. Those who are Taiwanese descent use <a href="/wiki/Wade-Giles" class="mw-redirect" title="Wade-Giles">Wade-Giles</a> romanization. People from Southeast Asia (mainly Thailand, Malaysia, Indonesia and the Philippines) and Hong Kong usually base their romanization of surnames and names on the <a href="/wiki/Min_Chinese" title="Min Chinese">Min</a>, <a href="/wiki/Hakka_Chinese" title="Hakka Chinese">Hakka</a> and <a href="/wiki/Yue_Chinese" title="Yue Chinese">Cantonese</a> languages. The younger generation from Singapore predominantly have their surname in dialect and given name in English.
+</p><p>There are also people who use non-standard romanizations, e.g. the Hong Kong <a href="/wiki/Media_mogul" class="mw-redirect" title="Media mogul">media mogul</a> 邵逸夫  <a href="/wiki/Run_Run_Shaw" title="Run Run Shaw">Run Run Shaw</a>'s surname 邵 is spelt as Shaw, pinyin: Shao.
+</p><p>The use of different systems of romanization based on different Chinese language variants from 1900~1970 also contributed to the variations.
+</p><p>Some examples:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Written form</th>
+<th><a href="/wiki/Pinyin" title="Pinyin">Pinyin</a><br />(Mainland China)</th>
+<th><a href="/wiki/Wade-Giles" class="mw-redirect" title="Wade-Giles">Wade-Giles</a><br />(Taiwan)</th>
+<th><a href="/wiki/Hokkien" title="Hokkien">Hokkien</a>  / <a href="/wiki/Teochew_dialect" title="Teochew dialect">Teochew</a><br />(Indonesia/Malaysia/Singapore)</th>
+<th><a href="/wiki/Yue_Chinese" title="Yue Chinese">Cantonese</a> <br />(Hong Kong/Macau)</th>
+<th>Current meaning <br />(the original meanings of the surnames may differ greatly)
+</th></tr>
+<tr>
+<td>陈 / 陳</td>
+<td>Chen</td>
+<td>Ch'en</td>
+<td>Tan/Tang/Tung/Chin/Tjhin</td>
+<td>Chan</td>
+<td><a href="/wiki/State_of_Chen" class="mw-redirect" title="State of Chen">State of Chen</a>
+</td></tr>
+<tr>
+<td>关 / 關</td>
+<td>Guan</td>
+<td>Kuan</td>
+<td>Kwang/Kuang</td>
+<td>Kwan</td>
+<td>gate, gateway, mountain pass; to close; to shut; to turn off; to concern; to involve
+</td></tr>
+<tr>
+<td>何</td>
+<td>He</td>
+<td>Ho</td>
+<td>Ho/Hoe</td>
+<td>Ho</td>
+<td>carry; what; how; why; which
+</td></tr>
+<tr>
+<td>黄 / 黃</td>
+<td>Huang</td>
+<td>Huang</td>
+<td>Uy/Ooi/Oei/Wee/Ng/Wong/Bong</td>
+<td>Wong</td>
+<td><a href="/wiki/State_of_Huang" class="mw-redirect" title="State of Huang">State of Huang</a>
+</td></tr>
+<tr>
+<td>简 / 簡</td>
+<td>Jian</td>
+<td>Chien</td>
+<td>Kan/Kean</td>
+<td>Kan/Gan</td>
+<td>simple
+</td></tr>
+<tr>
+<td>金</td>
+<td>Jin</td>
+<td>Chin</td>
+<td>Kim</td>
+<td>Kam</td>
+<td>gold/golden
+</td></tr>
+<tr>
+<td>林</td>
+<td>Lin</td>
+<td>Lin</td>
+<td>Lim/Liem</td>
+<td>Lam</td>
+<td>woods; forest
+</td></tr>
+<tr>
+<td>王</td>
+<td>Wang</td>
+<td>Wang</td>
+<td>Ong/Heng/Vang</td>
+<td>Wong</td>
+<td>king
+</td></tr>
+<tr>
+<td>吴 / 吳</td>
+<td>Wu</td>
+<td>Wu</td>
+<td>Goh</td>
+<td>Ng</td>
+<td><a href="/wiki/State_of_Wu" class="mw-redirect" title="State of Wu">State of Wu</a>
+</td></tr>
+<tr>
+<td>许 / 許</td>
+<td>Xu</td>
+<td>Hsü</td>
+<td>Koh/Kho/Khoh/Khor/Khaw/Ko(Malaysia)/Hee</td>
+<td>Hui/Hua</td>
+<td>State of Xu
+</td></tr>
+<tr>
+<td>张 / 張</td>
+<td>Zhang</td>
+<td>Chang</td>
+<td>Teo/Chong/Tear</td>
+<td>Cheung/Cheong</td>
+<td>a <a href="/wiki/Measure_word" title="Measure word">measure word</a> for flat objects like paper or tables; open up
+</td></tr>
+<tr>
+<td>赵 / 趙</td>
+<td>Zhao</td>
+<td>Chao</td>
+<td>Chew/Teo</td>
+<td>Chiu/Chiew</td>
+<td><a href="/wiki/State_of_Zhao" class="mw-redirect" title="State of Zhao">State of Zhao</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</td></tr></tbody></table>
+<p>Malaysia/Singapore/Indonesia/Philippines: various spellings are used depending on name origin.
+</p><p>See <a href="/wiki/List_of_common_Chinese_surnames" title="List of common Chinese surnames">List of common Chinese surnames</a> for the different spellings and more examples.
+</p>
+<h2><span class="mw-headline" id="Sociological_use_of_surnames">Sociological use of surnames</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_surname&amp;action=edit&amp;section=7" title="Edit section: Sociological use of surnames">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:TongshanXian-G106-G316-junction-0018.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/TongshanXian-G106-G316-junction-0018.jpg/220px-TongshanXian-G106-G316-junction-0018.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/19/TongshanXian-G106-G316-junction-0018.jpg/330px-TongshanXian-G106-G316-junction-0018.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/19/TongshanXian-G106-G316-junction-0018.jpg/440px-TongshanXian-G106-G316-junction-0018.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:TongshanXian-G106-G316-junction-0018.jpg" class="internal" title="Enlarge"></a></div>Many village names in China are linked to surnames. Pictured is Jiajiayuan (贾家源), i.e. "<a href="/wiki/Jia_(surname)" title="Jia (surname)">Jia Family</a>'s Spring", in Honggang Town, <a href="/wiki/Tongshan_County,_Hubei" class="mw-redirect" title="Tongshan County, Hubei">Tongshan County, Hubei</a></div></div></div>
+<p>Throughout most of Chinese history, surnames have served sociological functions. Because of their association with the aristocratic elite in their early developments, surnames were often used as symbols of nobility. Thus nobles would use their surnames to be able to trace their ancestry and compete for seniority in terms of hereditary rank. Examples of early <a href="/wiki/Genealogy" title="Genealogy">genealogies</a> among the royalty can be found in <a href="/wiki/Sima_Qian" title="Sima Qian">Sima Qian</a>'s <i>Historical Records</i>, which contain tables recording the descent lines of noble houses called <i>shibiao</i> (<a href="/wiki/Chinese_language" title="Chinese language">Chinese</a>&#58; <span lang="zh">世表</span>; <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>&#58; <i><span lang="zh-Latn-pinyin">shìbiǎo</span></i>).
+</p><p>Later, during the Han dynasty, these tables were used by prominent families to glorify themselves and sometimes even to legitimize their political power. For example, <a href="/wiki/Cao_Pi" title="Cao Pi">Cao Pi</a>, who forced the abdication of the last Han emperor in his favor, claimed descent from the <a href="/wiki/Yellow_Emperor" title="Yellow Emperor">Yellow Emperor</a>. Chinese emperors sometimes passed their own surnames to subjects as honors. Unlike European practice in which some surnames are obviously noble, Chinese emperors and members of the royal family had regular surnames except in cases where they came from non-Han ethnic groups. This was a result of Chinese imperial theory in which a commoner could receive the <a href="/wiki/Mandate_of_Heaven" title="Mandate of Heaven">Mandate of Heaven</a> and become emperor. Upon becoming emperor, the emperor would retain his original surname. Also as a consequence, many people also had the same surname as the emperor, but had no direct relation to the royal family.
+</p><p>The Tang dynasty was the last period when the great aristocratic families, mostly descended from the nobility of pre-Qin states, held significant centralized and regional power. The surname was used as a source of prestige and common allegiance. During the period many genealogical records called <i>pudie</i> (<a href="/wiki/Simplified_Chinese_characters" title="Simplified Chinese characters">simplified Chinese</a>&#58; <span lang="zh-Hans">谱牒</span>; <a href="/wiki/Traditional_Chinese_characters" title="Traditional Chinese characters">traditional Chinese</a>&#58; <span lang="zh-Hant">譜牒</span>; <a href="/wiki/Pinyin" title="Pinyin">pinyin</a>&#58; <i><span lang="zh-Latn-pinyin">pǔdié</span></i>) were compiled to trace the complex descent lines of clans and their marriage ties to other clans. Many of these were collected by <a href="/wiki/Ouyang_Xiu" title="Ouyang Xiu">Ouyang Xiu</a> in his <i>New History of Tang</i>. To differentiate between different surnames, the Tang also choronyms before stating beforehand, for example Lǒngxī Lǐshì 隴西李氏, meaning Li of Longxi. These were generally the names of commanderies used prior to the reorganization during the Tang, so that they became exclusively associated to clans as their common use had died out. Cadet branches were also listed for further differentiation, such as Gūzāng Fáng 姑臧房, meaning Clan Li of Guzang. 
+</p><p>During the Song dynasty, ordinary clans began to organize themselves into corporate units and produce genealogies. This trend was led by the poet <a href="/wiki/Su_Shi" title="Su Shi">Su Shi</a> and his father. As competition for resources and positions in the bureaucracy intensified, individuals used their common ancestry and surname to promote solidarity. They established schools to educate their sons and held common lands to aid disadvantaged families. Ancestral temples were also erected to promote surname identity. Clan cohesion was usually encouraged by successive imperial governments since it aided in social stability. During the Qing dynasty surname associations often undertook extrajudicial roles, providing primitive legal and social security functions. They played important roles in the Chinese diaspora to South-East Asia and elsewhere, providing the infrastructure for the establishment of trading networks. In southern China, however, clans sometimes engaged in armed conflict in competition for land. Clans continued the tradition of tracing their ancestry to the distant past as a matter of prestige. Most of these origin myths, though well established, are spurious.
+</p><p>As a result of the importance of surnames, rules and traditions regarding family and marriage grew increasingly complex. For example, in Taiwan, there is a clan with the so-called "double Liao" surname.  The story is that "Chang Yuan-zih of Liao's in Siluo married the only daughter of Liao San-Jiou-Lang who had no son, and he took the oath that he should be in the name of Liao when alive and should be in the name of Chang after death."<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> In some places, there are additional taboos against marriage between people of the same surname, considered to be closely related. Conversely, in some areas, there are different clans with the same surname which are not considered to be related, but even in these cases surname <a href="/wiki/Exogamy" title="Exogamy">exogamy</a> is generally practiced.
+</p><p>Surname identity and solidarity has declined markedly since the 1930s with the decline of <a href="/wiki/Confucianism" title="Confucianism">Confucianism</a> and later, the rise of <a href="/wiki/Communism" title="Communism">Communism</a> in Mainland China. During the <a href="/wiki/Cultural_Revolution" title="Cultural Revolution">Cultural Revolution</a>, surname culture was actively persecuted by the government with the destruction of ancestral temples and genealogies. Moreover, the influx of Western culture and forces of <a href="/wiki/Globalization" title="Globalization">globalization</a> have also contributed to erode the previous sociological uses of the Chinese surnames.
+</p>
+<h2><span class="mw-headline" id="Common_Chinese_surnames">Common Chinese surnames</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_surname&amp;action=edit&amp;section=8" title="Edit section: Common Chinese surnames">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Mainland_China">Mainland China</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_surname&amp;action=edit&amp;section=9" title="Edit section: Mainland China">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">For a more comprehensive list, see <a href="/wiki/List_of_common_Chinese_surnames" title="List of common Chinese surnames">List of common Chinese surnames</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_most_common_surnames_in_Asia#China" title="List of most common surnames in Asia">estimated sizes of the 20 largest Chinese surnames</a> (2006)</div>
+<p>According to a comprehensive survey of <a href="/wiki/Hukou_system" title="Hukou system">residential permits</a> released by the <a href="/wiki/PRC" class="mw-redirect" title="PRC">Chinese</a> <a href="/wiki/Ministry_of_Public_Security_of_the_People%27s_Republic_of_China" class="mw-redirect" title="Ministry of Public Security of the People&#39;s Republic of China">Ministry of Public Security</a> on 24 April 2007,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-Eastday_17-0" class="reference"><a href="#cite_note-Eastday-17">&#91;17&#93;</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> the ten most common surnames in mainland China are <a href="/wiki/Wang_(surname)" title="Wang (surname)">Wang</a> (王), <a href="/wiki/Li_(surname_%E6%9D%8E)" title="Li (surname 李)">Li</a> (李), <a href="/wiki/Zhang_(surname)" title="Zhang (surname)">Zhang</a> (张), <a href="/wiki/Liu_(surname)" class="mw-redirect" title="Liu (surname)">Liu</a> (刘), <a href="/wiki/Chen_(surname)" title="Chen (surname)">Chen</a> (陈), <a href="/wiki/Yang_(surname)" title="Yang (surname)">Yang</a> (杨), <a href="/wiki/Huang_(surname)" title="Huang (surname)">Huang</a> (黄), <a href="/wiki/Zhao_(surname)" title="Zhao (surname)">Zhao</a> (赵), <a href="/wiki/Wu_(surname)" title="Wu (surname)">Wu</a> (吴), and <a href="/wiki/Zhou_(surname)" title="Zhou (surname)">Zhou</a> (周). The same names were also found (in slightly different orders) by a fairly comprehensive survey of 296 million people in 2006,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> and by the <a href="/wiki/1982_Chinese_census" class="mw-redirect" title="1982 Chinese census">1982 census</a>.<sup id="cite_ref-Peeps_20-0" class="reference"><a href="#cite_note-Peeps-20">&#91;20&#93;</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p><p>A commonly cited fact from the 1990 edition of the <i><a href="/wiki/Guinness_Book_of_World_Records" class="mw-redirect" title="Guinness Book of World Records">Guinness Book of World Records</a></i> estimated that Zhang was the most common surname in the world,<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> but no comprehensive information from China was available at the time and more recent editions have omitted the claim.
+</p><p>The MPS survey revealed that the top 3 surnames in China have a combined population larger than Indonesia,<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> the world's fourth-most-populous country. The top 10 surnames each have populations greater than 20&#160;million; the top 22 have more than 10&#160;million. The top <a href="/wiki/List_of_common_Chinese_surnames" title="List of common Chinese surnames">100 surnames</a> cover 84.77% of China's population.<sup id="cite_ref-Eastday_17-1" class="reference"><a href="#cite_note-Eastday-17">&#91;17&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Taiwan">Taiwan</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_surname&amp;action=edit&amp;section=10" title="Edit section: Taiwan">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/List_of_common_Taiwanese_surnames" class="mw-redirect" title="List of common Taiwanese surnames">List of common Taiwanese surnames</a></div>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Taiwanese_surnames_by_frequency.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Taiwanese_surnames_by_frequency.png/300px-Taiwanese_surnames_by_frequency.png" decoding="async" width="300" height="300" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Taiwanese_surnames_by_frequency.png/450px-Taiwanese_surnames_by_frequency.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Taiwanese_surnames_by_frequency.png/600px-Taiwanese_surnames_by_frequency.png 2x" data-file-width="667" data-file-height="666" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Taiwanese_surnames_by_frequency.png" class="internal" title="Enlarge"></a></div>Distribution of Taiwanese Surnames<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;"><div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #3266cc; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;陳 Chen (11.06%)</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #dc3812; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;林 Lin (8.28%)</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #fe9900; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;黃 Huang (6.01%)</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #109619; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;張 Chang (5.26%)</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #990099; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;李 Lee (5.11%)</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #0099c5; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;王 Wang (4.12%)</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #dd4578; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;吳 Wu (4.04%)</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #66aa00; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;劉 Liu (3.17%)</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #b82e2e; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;蔡 Tsai (2.91%)</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #316394; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;楊 Yang (2.66%)</div> <div class="legend" style="-webkit-column-break-inside: avoid;page-break-inside: avoid;break-inside: avoid-column"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #994499; color:black; font-size:100%; text-align:center;">&#160;</span>&#160;Other (47.4%)</div></div></div></div></div>
+<p>Names in Taiwan&#160;&#8211;&#32;both among the immigrant <a href="/wiki/Han_Chinese" title="Han Chinese">ethnic Chinese</a> and <a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aborigines</a>&#160;&#8211;&#32;are similar to those in southeast China but differ somewhat from the distribution of names among all Han Chinese. According to a comprehensive survey of residential permits released by the Taiwanese <a href="/wiki/Ministry_of_the_Interior_(Taiwan)" title="Ministry of the Interior (Taiwan)">Ministry of the Interior</a>'s Department of Population in February 2005,<sup id="cite_ref-TaiRank_24-0" class="reference"><a href="#cite_note-TaiRank-24">&#91;24&#93;</a></sup> the ten most common surnames in Taiwan are <a href="/wiki/Chen_(surname)" title="Chen (surname)">Chen</a> (陳), <a href="/wiki/Lin_(surname)" title="Lin (surname)">Lin</a> (林), <a href="/wiki/Huang_(surname)" title="Huang (surname)">Huang</a> (黃), <a href="/wiki/Zhang_(surname)" title="Zhang (surname)">Chang</a> (張), <a href="/wiki/Li_(surname_%E6%9D%8E)" title="Li (surname 李)">Li</a> (李), <a href="/wiki/Wang_(surname)" title="Wang (surname)">Wang</a> (王), <a href="/wiki/Wu_(surname)" title="Wu (surname)">Wu</a> (吳), <a href="/wiki/Liu_(surname)" class="mw-redirect" title="Liu (surname)">Liu</a> (劉), <a href="/wiki/Cai_(surname)" title="Cai (surname)">Tsai</a> (蔡), and <a href="/wiki/Yang_(surname)" title="Yang (surname)">Yang</a> (楊).
+</p><p>Taiwanese surnames include some local variants like <a href="/wiki/Tu_(surname)" title="Tu (surname)">Tu</a> (塗) which do not even appear among the <i><a href="/wiki/Hundred_Family_Surnames" title="Hundred Family Surnames">Hundred Family Surnames</a></i>. However, names in Taiwan show less diversity than China as a whole: the top ten comprise 52.63% of the Taiwanese population and the top hundred 96.11%.<sup id="cite_ref-TaiRank_24-1" class="reference"><a href="#cite_note-TaiRank-24">&#91;24&#93;</a></sup> There were also only 1,989 surnames recorded by the Ministry's survey,<sup id="cite_ref-TaiRank_24-2" class="reference"><a href="#cite_note-TaiRank-24">&#91;24&#93;</a></sup> against China's four or five thousand.
+</p><p>As is typical of China as a whole, these surnames conflate many different lineages and origins, although tradition may bind them to the same <a href="/wiki/Ancestral_temple" class="mw-redirect" title="Ancestral temple">ancestral temples</a> and rituals or <a href="/wiki/Incest_taboo" title="Incest taboo">ban intermarriage</a>. For example, some Taiwanese converts to <a href="/wiki/Presbyterian_Church_in_Taiwan" title="Presbyterian Church in Taiwan">Presbyterianism</a> adopted the name <a href="/w/index.php?title=Kai_(surname)&amp;action=edit&amp;redlink=1" class="new" title="Kai (surname) (page does not exist)">Kai</a> (偕, <a href="/wiki/Pinyin" title="Pinyin">pinyin</a> <i>Xié</i>) in honor of the Canadian missionary <a href="/wiki/George_Leslie_Mackay" title="George Leslie Mackay">George Leslie Mackay</a> (馬偕, <a href="/wiki/Pe%CC%8Dh-%C5%8De-j%C4%AB" title="Pe̍h-ōe-jī">Pe̍h-ōe-jī</a> <i>Má-kai</i>).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2012)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_surname&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Onomastics" title="Onomastics">Onomastics</a></li>
+<li><a href="/wiki/Exogamy" title="Exogamy">Exogamy</a></li></ul>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/32px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="32" height="21" class="noviewer thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/48px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/64px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:China" title="Portal:China">China portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Chinese_clan" class="mw-redirect" title="Chinese clan">Chinese clan</a></li>
+<li><a href="/wiki/Chinese_compound_surname" title="Chinese compound surname">Chinese compound surname</a></li>
+<li><a href="/wiki/Chinese_given_name" title="Chinese given name">Chinese given name</a></li>
+<li><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy name</a></li>
+<li><a href="/wiki/Art_name" title="Art name">Art name</a></li>
+<li><a href="/wiki/Generation_name" title="Generation name">Generation name</a></li>
+<li><a href="/wiki/Hundred_Family_Surnames" title="Hundred Family Surnames">Hundred Family Surnames</a></li>
+<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese name</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese name</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean name</a></li>
+<li><a href="/wiki/List_of_common_Chinese_surnames" title="List of common Chinese surnames">List of common Chinese surnames</a></li>
+<li><a href="/wiki/Naming_laws_in_the_People%27s_Republic_of_China" class="mw-redirect" title="Naming laws in the People&#39;s Republic of China">Naming laws in the People's Republic of China</a></li>
+<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese name</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_surname&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Citations">Citations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_surname&amp;action=edit&amp;section=13" title="Edit section: Citations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Chinese Society in Singapore, The Study of Chinese Society: Essays, Maurice Freedman, George William Skinner, Stanford University Press, 1979, pp. 133</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">The Eclectic Magazine of Foreign Literature, Science, and Art, Volume 38; Volume 101, Harry Houdini Collection, John Davis Batchelder Collection, Leavitt, Trow, &amp; Company, 1883  p. 852</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="/wiki/Edwin_G._Pulleyblank" title="Edwin G. Pulleyblank">Pulleyblank, E.</a> (2000). "Ji 姬 and Jiang 姜: The Role of Exogamic Clans in the Organization of the Zhou Polity". <i>Early China</i>, 25, 1-27. doi:10.1017/S0362502800004259</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Kiang Kang-Hu (1934). <a rel="nofollow" class="external text" href="https://books.google.com/books/about/On_Chinese_studies.html?id=rSYhAAAAMAAJ"><i>On Chinese Studies</i></a>. pp.&#160;127–8.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=On+Chinese+Studies&amp;rft.pages=127-8&amp;rft.date=1934&amp;rft.au=Kiang+Kang-Hu&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%2Fabout%2FOn_Chinese_studies.html%3Fid%3DrSYhAAAAMAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+surname" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Sheau-yueh J. Chao (2009). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=t26Iv0Octa0C&amp;pg=PA4"><i>In Search of Your Asian Roots&#160;: Genealogical Research on Chinese Surnames</i></a>. Clearfield. pp.&#160;4–7. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0806349466" title="Special:BookSources/978-0806349466"><bdi>978-0806349466</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=In+Search+of+Your+Asian+Roots+%3A+Genealogical+Research+on+Chinese+Surnames&amp;rft.pages=4-7&amp;rft.pub=Clearfield&amp;rft.date=2009&amp;rft.isbn=978-0806349466&amp;rft.au=Sheau-yueh+J.+Chao&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dt26Iv0Octa0C%26pg%3DPA4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+surname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Russell Jones (1997). <i>Chinese names</i>. Pelanduk Publications. pp.&#160;1–3. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-9679786194" title="Special:BookSources/978-9679786194"><bdi>978-9679786194</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chinese+names&amp;rft.pages=1-3&amp;rft.pub=Pelanduk+Publications&amp;rft.date=1997&amp;rft.isbn=978-9679786194&amp;rft.au=Russell+Jones&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+surname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">Leif Manger. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=8WGOAQAAQBAJ&amp;pg=PA132"><i>Muslim Diversity: Local Islam in Global Contexts</i></a>. Routledge. p.&#160;132. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781136818578" title="Special:BookSources/9781136818578"><bdi>9781136818578</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Muslim+Diversity%3A+Local+Islam+in+Global+Contexts&amp;rft.pages=132&amp;rft.pub=Routledge&amp;rft.isbn=9781136818578&amp;rft.au=Leif+Manger&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D8WGOAQAAQBAJ%26pg%3DPA132&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+surname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Sheau-yueh J. Chao (2009). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=t26Iv0Octa0C&amp;pg=PA8&amp;f=false#v=onepage&amp;q&amp;f=false"><i>In Search of Your Asian Roots&#160;: Genealogical Research on Chinese Surnames</i></a>. Clearfield. pp.&#160;8–9. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0806349466" title="Special:BookSources/978-0806349466"><bdi>978-0806349466</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=In+Search+of+Your+Asian+Roots+%3A+Genealogical+Research+on+Chinese+Surnames&amp;rft.pages=8-9&amp;rft.pub=Clearfield&amp;rft.date=2009&amp;rft.isbn=978-0806349466&amp;rft.au=Sheau-yueh+J.+Chao&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dt26Iv0Octa0C%26pg%3DPA8%26f%3Dfalse%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+surname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">(<a href="#CITEREFEconomist1995">Economist 1995</a>)</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.epochtimes.com/gb/10/8/15/n2996024.htm">"电脑打不出来 山东200村民被迫改姓"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">30 November</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E7%94%B5%E8%84%91%E6%89%93%E4%B8%8D%E5%87%BA%E6%9D%A5+%E5%B1%B1%E4%B8%9C200%E6%9D%91%E6%B0%91%E8%A2%AB%E8%BF%AB%E6%94%B9%E5%A7%93&amp;rft_id=http%3A%2F%2Fwww.epochtimes.com%2Fgb%2F10%2F8%2F15%2Fn2996024.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+surname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-du1992-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-du1992_11-0">^</a></b></span> <span class="reference-text">(<a href="#CITEREFDu_et_al.1992">Du et al. 1992</a>)</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Sun Bin (19 December 2005). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060302091859/http://sun-bin.blogspot.com/2005/12/chinese-and-korean-family-names.html">"Sun Bin: Chinese and Korean Family Names"</a>. Archived from <a rel="nofollow" class="external text" href="http://sun-bin.blogspot.com/2005/12/chinese-and-korean-family-names.html">the original</a> on 2 March 2006.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sun+Bin%3A+Chinese+and+Korean+Family+Names&amp;rft.date=2005-12-19&amp;rft.au=Sun+Bin&amp;rft_id=http%3A%2F%2Fsun-bin.blogspot.com%2F2005%2F12%2Fchinese-and-korean-family-names.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+surname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060113025139/http://www.diversity-whatworks.gov.uk/publications/pdf/hmlandregistryculturaldiversity.pdf">"Cultural Diversity"</a> <span class="cs1-format">(PDF)</span>. <i>HM Land Registry</i>. Archived from <a rel="nofollow" class="external text" href="http://www.diversity-whatworks.gov.uk/publications/pdf/hmlandregistryculturaldiversity.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 13 January 2006.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=HM+Land+Registry&amp;rft.atitle=Cultural+Diversity&amp;rft_id=http%3A%2F%2Fwww.diversity-whatworks.gov.uk%2Fpublications%2Fpdf%2Fhmlandregistryculturaldiversity.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+surname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://humanum.arts.cuhk.edu.hk/Lexis/Lindict/Lindict.php?query=%bb%af&amp;category=wholerecord">"ㄓㄠˋ &#91;zhao4&#93;"</a>. <i>Humanum.arts.cuhk.edu.hk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Humanum.arts.cuhk.edu.hk&amp;rft.atitle=%E3%84%93%E3%84%A0%CB%8B+%5Bzhao4%5D+.&amp;rft_id=http%3A%2F%2Fhumanum.arts.cuhk.edu.hk%2FLexis%2FLindict%2FLindict.php%3Fquery%3D%25bb%25af%26category%3Dwholerecord&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+surname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.yunlin.gov.tw/english/from/index-1.asp?m=2&amp;m1=15&amp;m2=113&amp;gp=71&amp;id=35">"Siluo Liao's Family Temple (3rd grade relic)"</a>. Yunlin County Government.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Siluo+Liao%27s+Family+Temple+%283rd+grade+relic%29&amp;rft.pub=Yunlin+County+Government&amp;rft_id=http%3A%2F%2Fwww.yunlin.gov.tw%2Fenglish%2Ffrom%2Findex-1.asp%3Fm%3D2%26m1%3D15%26m2%3D113%26gp%3D71%26id%3D35&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+surname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Xinhua News. 24 April 2007. "中国姓氏排行". "<a rel="nofollow" class="external text" href="http://blog.sina.com.cn/s/blog_486c0f6701000dsu.html">天下第一大姓——王</a>." 14 November 2007. Accessed 26 March 2012.</span>
+</li>
+<li id="cite_note-Eastday-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Eastday_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Eastday_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://news.eastday.com/c/20070424/u1a2791347.html">公安部统计：'王'成中国第一大姓 有9288万人</a>." 24 April 2007. Accessed 27 March 2012.<span class="languageicon">(in Chinese)</span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Baidu Baike. "<a rel="nofollow" class="external text" href="http://baike.baidu.com/view/33020.html">新百家姓</a>". <span class="languageicon">(in Chinese)</span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080421054455/http://www.nciic.com.cn/yewufanwei-rksu-mfcp2.htm">"人口数据统计"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.nciic.com.cn/yewufanwei-rksu-mfcp2.htm">the original</a> on 21 April 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E4%BA%BA%E5%8F%A3%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1&amp;rft_id=http%3A%2F%2Fwww.nciic.com.cn%2Fyewufanwei-rksu-mfcp2.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+surname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> It was conducted by <a href="/wiki/Yuan_Yida" title="Yuan Yida">Yuan Yida</a> of the <a href="/wiki/Chinese_Academy_of_Sciences" title="Chinese Academy of Sciences">Chinese Academy of Sciences</a>' Institute of Genetics and Developmental Biology. The authoritative results of this survey were previously published on the <a href="/wiki/National_Citizen_Identity_Information_Center" class="mw-redirect" title="National Citizen Identity Information Center">National Citizen Identity Information Center</a></span>
+</li>
+<li id="cite_note-Peeps-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-Peeps_20-0">^</a></b></span> <span class="reference-text"><i>People's Daily Online</i>. "<a rel="nofollow" class="external text" href="http://english.peopledaily.com.cn/200411/19/eng20041119_164456.html">China issues first set of stamps of Chinese family names</a>". 19 November 2004. Accessed 28 March 2012.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">挑灯看剑 踏雪寻梅. "<a rel="nofollow" class="external text" href="http://blog.sina.com.cn/s/blog_5cc7bc89010100lx.html">新'百家姓'图腾，快来看看您的尊姓啥模样</a> [The New <i><a href="/wiki/Hundred_Family_Surnames" title="Hundred Family Surnames">Hundred Family Surnames</a></i>'s Totems: Quick, Come Look at Your Honorable Surname's Picture]". 12 December 2011. Accessed 28 March 2012. <span class="languageicon">(in Chinese)</span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">McFarlan, Donald. <i>1990 Guinness Book of World Records</i>. Sterling Pub. Co., 2001. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/189205101X" title="Special:BookSources/189205101X">189205101X</a>.</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Badan Pusat Statistik. "<a rel="nofollow" class="external text" href="http://dds.bps.go.id/eng/tab_sub/view.php?tabel=1&amp;daftar=1&amp;id_subyek=12&amp;notab=1">Population of Indonesia by Province 1971, 1980, 1990, 1995 , 2000 and 2010</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110718192001/http://dds.bps.go.id/eng/tab_sub/view.php?tabel=1&amp;daftar=1&amp;id_subyek=12&amp;notab=1">Archived</a> 18 July 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>". 2009. Accessed 29 March 2012.</span>
+</li>
+<li id="cite_note-TaiRank-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-TaiRank_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TaiRank_24-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-TaiRank_24-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">中华百家姓-千字文-国学经典-文化经典. "<a rel="nofollow" class="external text" href="http://wuyilaoren.blog.163.com/blog/static/165227073201058925589/">中国台湾姓氏排行</a> [China (Taiwanese) Surname Ranking]." 8 June 2010. Accessed 31 March 2012. <span class="languageicon">(in Chinese)</span></span>
+</li>
+</ol></div></div>
+<h3><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_surname&amp;action=edit&amp;section=14" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ul><li><cite id="CITEREFDu_et_al.1992" class="citation">Du, Ruofu; Yida, Yuan; Hwang, Juliana; Mountain, Joanna L.; <a href="/wiki/Luigi_Luca_Cavalli-Sforza" title="Luigi Luca Cavalli-Sforza">Cavalli-Sforza, L. Luca</a> (1992), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20121120173231/http://hsblogs.stanford.edu/morrison/files/2011/02/27.pdf"><i>Chinese Surnames and the Genetic Differences between North and South China</i></a> <span class="cs1-format">(PDF)</span>, Journal of Chinese Linguistics Monograph Series, pp.&#160;18–22 (History of Chinese surnames and sources of data for the present research), archived from <a rel="nofollow" class="external text" href="http://hsblogs.stanford.edu/morrison/files/2011/02/27.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 20 November 2012, also part of <a rel="nofollow" class="external text" href="http://hsblogs.stanford.edu/morrison/">Morrison Institute for Population and Resource Studies</a> <a rel="nofollow" class="external text" href="http://hsblogs.stanford.edu/morrison/morrison-institute-working-papers1-pdf/">Working papers</a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chinese+Surnames+and+the+Genetic+Differences+between+North+and+South+China&amp;rft.series=Journal+of+Chinese+Linguistics+Monograph+Series&amp;rft.pages=18-22+%28History+of+Chinese+surnames+and+sources+of+data+for+the+present+research%29&amp;rft.date=1992&amp;rft.aulast=Du&amp;rft.aufirst=Ruofu&amp;rft.au=Yida%2C+Yuan&amp;rft.au=Hwang%2C+Juliana&amp;rft.au=Mountain%2C+Joanna+L.&amp;rft.au=Cavalli-Sforza%2C+L.+Luca&amp;rft_id=http%3A%2F%2Fhsblogs.stanford.edu%2Fmorrison%2Ffiles%2F2011%2F02%2F27.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+surname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFEconomist1992" class="citation">"O rare John Smith", <i><a href="/wiki/The_Economist" title="The Economist">The Economist</a></i> (US ed.): 32, 3 June 1995, <q>Only 3,100 surnames are now in use in China [...] compared with nearly 12,000 in the past. An 'evolutionary dwindling' of surnames is common to all societies. [...] [B]ut in China, [Du] says, where surnames have been in use far longer than in most other places, the paucity has become acute.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Economist&amp;rft.atitle=O+rare+John+Smith&amp;rft.pages=32&amp;rft.date=1995-06-03&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+surname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFCook1997" class="citation">Cook, Steven (6 March 1997), <a rel="nofollow" class="external text" href="http://www.csmonitor.com/1997/0306/030697.home.home.2.html">"China's Identity Crisis: Many People, Few Names"</a>, <i><a href="/wiki/Christian_Science_Monitor" class="mw-redirect" title="Christian Science Monitor">Christian Science Monitor</a></i>, <q>Why the lack of surnames, then? The reason, according to Du Ruofu of the Chinese Academy of Sciences, is that all societies experience an 'evolutionary dwindling' of family names as less-common ones die out. Because the Chinese have used surnames for thousands of years (compared to just a few centuries in many parts of Europe), this effect has become particularly significant.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Christian+Science+Monitor&amp;rft.atitle=China%27s+Identity+Crisis%3A+Many+People%2C+Few+Names&amp;rft.date=1997-03-06&amp;rft.aulast=Cook&amp;rft.aufirst=Steven&amp;rft_id=http%3A%2F%2Fwww.csmonitor.com%2F1997%2F0306%2F030697.home.home.2.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+surname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_surname&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://lost-theory.org/ocrat/chargif/surnames.html">Chinese Surnames (Simplified)</a>, with sound</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20020211015316/http://www.geocities.com/cplai/lastname.htm">Chinese-sounding surnames in the 1990 US census</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.archives.gov/research/alic/reference/ethnic-heritage.html#asian">Chinese family name information from the US National Archives</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.char4u.com/article_info.php?articles_id=13">Meaning Behind 19 Most Common Chinese Surnames</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080113052638/http://name.netor.com/wjx.asp">The Ten-Thousand Families of Surnames from Netor (NETOR纪念:万家姓氏) (in simplified Chinese only)</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.yourchineseastrology.com/chinese-name/surnames/">Top 10 Chinese Surnames in 2019</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1281
+Cached time: 20190927115745
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.672 seconds
+Real time usage: 0.866 seconds
+Preprocessor visited node count: 7804/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 50282/2097152 bytes
+Template argument size: 5102/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 46741/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.291/10.000 seconds
+Lua memory usage: 11.14 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  745.748      1 -total
+ 43.96%  327.813      1 Template:Reflist
+ 18.16%  135.432      4 Template:Zh_icon
+ 17.81%  132.807      1 Template:Link_language
+ 14.17%  105.700      7 Template:Citation_needed
+ 12.66%   94.426      7 Template:Fix
+ 11.71%   87.291      5 Template:Cite_book
+ 11.39%   84.944     71 Template:Linktext
+  6.44%   48.025     15 Template:Category_handler
+  5.85%   43.618      1 Template:Short_description
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:54761-0!canonical and timestamp 20190927115750 and revision id 918182530
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Chinese_surname&amp;oldid=918182530">https://en.wikipedia.org/w/index.php?title=Chinese_surname&amp;oldid=918182530</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chinese-language_surnames" title="Category:Chinese-language surnames">Chinese-language surnames</a></li><li><a href="/wiki/Category:Surname" title="Category:Surname">Surname</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_Chinese-language_external_links" title="Category:Articles with Chinese-language external links">Articles with Chinese-language external links</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2018" title="Category:Use dmy dates from April 2018">Use dmy dates from April 2018</a></li><li><a href="/wiki/Category:Articles_containing_Chinese-language_text" title="Category:Articles containing Chinese-language text">Articles containing Chinese-language text</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2012" title="Category:Articles with unsourced statements from July 2012">Articles with unsourced statements from July 2012</a></li><li><a href="/wiki/Category:Articles_containing_simplified_Chinese-language_text" title="Category:Articles containing simplified Chinese-language text">Articles containing simplified Chinese-language text</a></li><li><a href="/wiki/Category:Articles_containing_traditional_Chinese-language_text" title="Category:Articles containing traditional Chinese-language text">Articles containing traditional Chinese-language text</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2012" title="Category:Articles with unsourced statements from April 2012">Articles with unsourced statements from April 2012</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Chinese+surname" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Chinese+surname" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Chinese_surname" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Chinese_surname" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Chinese_surname">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Chinese_surname&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Chinese_surname&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Chinese_surname" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Chinese_surname" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Chinese_surname&amp;oldid=918182530" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Chinese_surname&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1093580" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Chinese_surname&amp;id=918182530" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Chinese+surname">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Chinese+surname&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Chinese_surname&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/H%C3%A0n-s%C3%A8ng" title="Hàn-sèng – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Apellido_chino" title="Apellido chino – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Nom_de_famille_chinois" title="Nom de famille chinois – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Marga_Tionghoa" title="Marga Tionghoa – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Marga_Tionghoa" title="Marga Tionghoa – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/K%C3%ADnai_csal%C3%A1dnevek" title="Kínai családnevek – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Chinese_achternaam" title="Chinese achternaam – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%BC%A2%E5%A7%93" title="漢姓 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Chi%C5%84skie_nazwiska" title="Chińskie nazwiska – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F" title="Китайская фамилия – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%8D_ng%C6%B0%E1%BB%9Di_Hoa" title="Họ người Hoa – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B1%89%E5%A7%93" title="汉姓 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1093580#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 September 2019, at 11:57<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Chinese_surname&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.672","walltime":"0.866","ppvisitednodes":{"value":7804,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":50282,"limit":2097152},"templateargumentsize":{"value":5102,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":46741,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  745.748      1 -total"," 43.96%  327.813      1 Template:Reflist"," 18.16%  135.432      4 Template:Zh_icon"," 17.81%  132.807      1 Template:Link_language"," 14.17%  105.700      7 Template:Citation_needed"," 12.66%   94.426      7 Template:Fix"," 11.71%   87.291      5 Template:Cite_book"," 11.39%   84.944     71 Template:Linktext","  6.44%   48.025     15 Template:Category_handler","  5.85%   43.618      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.291","limit":"10.000"},"limitreport-memusage":{"value":11679334,"limit":52428800}},"cachereport":{"origin":"mw1281","timestamp":"20190927115745","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Chinese surname","url":"https:\/\/en.wikipedia.org\/wiki\/Chinese_surname","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1093580","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1093580","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-06-02T21:54:05Z","dateModified":"2019-09-27T11:57:50Z","headline":"surnames used by Han Chinese and Sinicized ethnic groups"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1271"});});</script>
+</body>
+</html>
+

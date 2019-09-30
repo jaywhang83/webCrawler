@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Baron Willoughby de Eresby - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Baron_Willoughby_de_Eresby","wgTitle":"Baron Willoughby de Eresby","wgCurRevisionId":879290411,"wgRevisionId":879290411,"wgArticleId":456749,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","Barons Willoughby de Eresby","1313 establishments in England","Noble titles created in 1313","Baronies in the Peerage of England","Baronies by writ","Willoughby family"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug",
+"Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Baron_Willoughby_de_Eresby","wgRelevantArticleId":456749,"wgRequestId":"XY@l0QpAICMAALaViBQAAABE","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q808681","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":
+"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Coronet_of_a_British_Baron.svg/1200px-Coronet_of_a_British_Baron.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Baron_Willoughby_de_Eresby"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Baron_Willoughby_de_Eresby&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Baron_Willoughby_de_Eresby&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Baron_Willoughby_de_Eresby"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Baron_Willoughby_de_Eresby rootpage-Baron_Willoughby_de_Eresby skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Baron Willoughby de Eresby</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" class="fn" style="text-align:center;font-size:125%;font-weight:bold">Barony of Willoughby de Eresby</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Coronet_of_a_British_Baron.svg" class="image"><img alt="Coronet of a British Baron.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Coronet_of_a_British_Baron.svg/150px-Coronet_of_a_British_Baron.svg.png" decoding="async" width="150" height="122" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Coronet_of_a_British_Baron.svg/225px-Coronet_of_a_British_Baron.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Coronet_of_a_British_Baron.svg/300px-Coronet_of_a_British_Baron.svg.png 2x" data-file-width="220" data-file-height="179" /></a><br /><a href="/wiki/File:Willoughby-Drummond-Heathcote.svg" class="image"><img alt="Willoughby-Drummond-Heathcote.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Willoughby-Drummond-Heathcote.svg/180px-Willoughby-Drummond-Heathcote.svg.png" decoding="async" width="180" height="198" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Willoughby-Drummond-Heathcote.svg/270px-Willoughby-Drummond-Heathcote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Willoughby-Drummond-Heathcote.svg/360px-Willoughby-Drummond-Heathcote.svg.png 2x" data-file-width="512" data-file-height="563" /></a><div><i>Quarterly, 1st and 4th, or fretty azure</i> (for Willoughby); <i>2nd, or three bars wavy gules</i> (for Drummond); <i>3rd, ermine three pomeis, each charged with a cross or</i> (for Heathcote)<sup id="cite_ref-burke_1-0" class="reference"><a href="#cite_note-burke-1">&#91;1&#93;</a></sup></div></td></tr><tr><th scope="row">Creation date</th><td>26 July 1313</td></tr><tr><th scope="row">Monarch</th><td><a href="/wiki/Edward_II_of_England" title="Edward II of England">Edward II</a></td></tr><tr><th scope="row">Peerage</th><td><a href="/wiki/Peerage_of_England" title="Peerage of England">Peerage of England</a></td></tr><tr><th scope="row">First holder</th><td><a href="/w/index.php?title=Robert_de_Willoughby,_1st_Baron_Willoughby_de_Eresby&amp;action=edit&amp;redlink=1" class="new" title="Robert de Willoughby, 1st Baron Willoughby de Eresby (page does not exist)">Robert de Willoughby, 1st Baron Willoughby de Eresby</a></td></tr><tr><th scope="row">Present holder</th><td><a href="/wiki/Jane_Heathcote-Drummond-Willoughby,_28th_Baroness_Willoughby_de_Eresby" title="Jane Heathcote-Drummond-Willoughby, 28th Baroness Willoughby de Eresby">Jane Heathcote-Drummond-Willoughby, 28th Baroness Willoughby de Eresby</a></td></tr><tr><th scope="row">Heir apparent</th><td>Sebastian St Maur Miller <span style="font-size:85%;">(co-heir)</span><br /> <a href="/wiki/Sir_John_Aird,_4th_Baronet" title="Sir John Aird, 4th Baronet">Sir John Aird, 4th Baronet</a> <span style="font-size:85%;">(co-heir)</span></td></tr><tr><th scope="row">Motto</th><td><i>Loyauté me oblige</i> ("Loyalty binds me")<sup id="cite_ref-burke_1-1" class="reference"><a href="#cite_note-burke-1">&#91;1&#93;</a></sup></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/File:WilloughbyArms.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/WilloughbyArms.png/200px-WilloughbyArms.png" decoding="async" width="200" height="231" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/WilloughbyArms.png/300px-WilloughbyArms.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/WilloughbyArms.png/400px-WilloughbyArms.png 2x" data-file-width="806" data-file-height="931" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:WilloughbyArms.png" class="internal" title="Enlarge"></a></div>Arms of Willoughby, adopted by the 3rd Baron Willoughby de Eresby upon his marriage (c. 1349) to Cecily Ufford: <i>Quarterly 1 &amp; 4: Sable, a cross engrailed or (<a href="/wiki/Robert_d%27Ufford,_1st_Earl_of_Suffolk" class="mw-redirect" title="Robert d&#39;Ufford, 1st Earl of Suffolk">Ufford</a>); 2 &amp; 3: Gules, a cross moline argent</i> (Bec of Eresby)</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Catherine,_Duchess_of_Suffolk_by_Hans_Holbein_the_Younger.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Catherine%2C_Duchess_of_Suffolk_by_Hans_Holbein_the_Younger.jpg/220px-Catherine%2C_Duchess_of_Suffolk_by_Hans_Holbein_the_Younger.jpg" decoding="async" width="220" height="305" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Catherine%2C_Duchess_of_Suffolk_by_Hans_Holbein_the_Younger.jpg/330px-Catherine%2C_Duchess_of_Suffolk_by_Hans_Holbein_the_Younger.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Catherine%2C_Duchess_of_Suffolk_by_Hans_Holbein_the_Younger.jpg/440px-Catherine%2C_Duchess_of_Suffolk_by_Hans_Holbein_the_Younger.jpg 2x" data-file-width="1081" data-file-height="1500" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Catherine,_Duchess_of_Suffolk_by_Hans_Holbein_the_Younger.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Catherine_Willoughby,_12th_Baroness_Willoughby_de_Eresby" class="mw-redirect" title="Catherine Willoughby, 12th Baroness Willoughby de Eresby">Catherine Willoughby, 12th Baroness Willoughby de Eresby</a></div></div></div>
+<p><b>Baron Willoughby de Eresby</b> <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;w&#39; in &#39;wind&#39;">w</span><span title="/ɪ/: &#39;i&#39; in &#39;kit&#39;">ɪ</span><span title="&#39;l&#39; in &#39;lie&#39;">l</span><span title="/ə/: &#39;a&#39; in &#39;about&#39;">ə</span><span title="&#39;b&#39; in &#39;buy&#39;">b</span><span title="/i/: &#39;y&#39; in &#39;happy&#39;">i</span></span> <wbr /><span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;d&#39; in &#39;dye&#39;">d</span><span title="/ɪər/: &#39;ear&#39; in &#39;near&#39;">ɪər</span><span title="&#39;z&#39; in &#39;zoom&#39;">z</span><span title="&#39;b&#39; in &#39;buy&#39;">b</span><span title="/i/: &#39;y&#39; in &#39;happy&#39;">i</span></span>/</a></span></span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> is a title in the <a href="/wiki/Peerage_of_England" title="Peerage of England">Peerage of England</a>.  It was created in 1313 for Robert de Willoughby. Since 1983, the title has been held by <a href="/wiki/Jane_Heathcote-Drummond-Willoughby,_28th_Baroness_Willoughby_de_Eresby" title="Jane Heathcote-Drummond-Willoughby, 28th Baroness Willoughby de Eresby">Jane Heathcote-Drummond-Willoughby, 28th Baroness Willoughby de Eresby</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Barons_Willoughby_de_Eresby_(1313)"><span class="tocnumber">2</span> <span class="toctext">Barons Willoughby de Eresby (1313)</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Further_reading"><span class="tocnumber">4</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baron_Willoughby_de_Eresby&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The title of <b>Baron Willoughby</b> was created <a href="/wiki/Hereditary_peer#Writs_of_summons" title="Hereditary peer">by writ</a> in 1313 for Robert de Willoughby, <a href="/wiki/Lord_of_the_manor" title="Lord of the manor">lord of the manor</a> of Eresby in the parish of <a href="/wiki/Spilsby" title="Spilsby">Spilsby</a>, <a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a>. He was the son of Sir William de Willoughby and Alice, daughter of <a href="/wiki/John_Beke,_1st_Baron_Beke" title="John Beke, 1st Baron Beke">John Beke, 1st Baron Beke</a>  of Eresby.  The writ was addressed to "Roberto de Wylghby," and the suffix of <b>de Eresby</b> was added to the title between 1350-1360 to distinguish it from other members of the de Willoughby family.<sup id="cite_ref-burke_1-2" class="reference"><a href="#cite_note-burke-1">&#91;1&#93;</a></sup>
+</p><p>The fourteenth Baron was created <a href="/wiki/Earl_of_Lindsey" title="Earl of Lindsey">Earl of Lindsey</a> in 1626. His great-grandson, the fourth Earl and seventeenth Baron, was created Marquess of Lindsey in 1706 and Duke of Ancaster and Kesteven in 1715. On the death of the first Duke's great-grandson, the fourth Duke, the Dukedom, Marquessate and Earldom were inherited by his uncle, while the Barony of Willoughby de Eresby fell into abeyance between the late Duke's sisters Lady Priscilla and Lady Georgiana. In 1780, the title was called out of abeyance in favour of Priscilla. She was the wife of <a href="/wiki/Peter_Burrell,_1st_Baron_Gwydyr" title="Peter Burrell, 1st Baron Gwydyr">Peter Burrell, 1st Baron Gwydyr</a>. Their son Peter inherited both Baronies. On the death of Peter's only son Albyric, the Barony of Gwydyr was passed on to a cousin, while the Barony of Willoughby de Eresby fell into abeyance between his sisters Clementina Drummond-Willoughby, wife of <a href="/wiki/Gilbert_John_Heathcote,_1st_Baron_Aveland" class="mw-redirect" title="Gilbert John Heathcote, 1st Baron Aveland">Gilbert John Heathcote, 1st Baron Aveland</a> and Charlotte, wife of <a href="/wiki/Robert_Carrington,_2nd_Baron_Carrington" title="Robert Carrington, 2nd Baron Carrington">Robert Carrington, 2nd Baron Carrington</a>. In 1871 the abeyance was terminated in favour of Clementina. She was succeeded by her and Lord Aveland's son Gilbert, 2nd Baron Aveland and 25th Baron Willoughby de Eresby. In 1892 he was created <b>Earl of Ancaster</b>, a revival of the Ancaster title created for his maternal ancestor in 1715. On the death of his grandson, the third Earl, in 1983, the Earldom and Barony of Aveland became extinct (while the Baronetcy also held by the Earl was passed on to a distant relative), while the Barony of Willoughby de Eresby was inherited by the late Earl's daughter, Nancy, the present holder of the title.
+</p><p>Since 1626, the Barony of Willoughby de Eresby has been associated with office of <a href="/wiki/Lord_Great_Chamberlain" title="Lord Great Chamberlain">Lord Great Chamberlain</a>. In that year, the first Earl of Lindsey inherited the Great Chamberlainship. Upon the death of the fourth Duke of Ancaster and Kesteven, it was divided between his sisters Priscilla and Georgiana (who was later <a href="/wiki/Marchioness_of_Cholmondeley" class="mw-redirect" title="Marchioness of Cholmondeley">Marchioness of Cholmondeley</a>). Thereafter, the barony of Willoughby de Eresby has been associated with the senior share of the Lord Great Chamberlainship. However, it has not been associated with the highest share. The share belonging to Lady Cholmondeley has been passed intact to her heirs, the <a href="/wiki/Marquess_of_Cholmondeley" title="Marquess of Cholmondeley">Marquesses of Cholmondeley</a>, but Lady Willoughby de Eresby's share has been split between many heirs. As of 2004, only one-fourth of the Lord Great Chamberlainship is possessed by the holder of the barony.
+</p><p>The peerage has been held by a woman six times, more than any other peerage except that of <a href="/wiki/Baron_de_Ros" title="Baron de Ros">Baron de Ros</a>.
+</p><p>The family seats are <a href="/wiki/Grimsthorpe_Castle" title="Grimsthorpe Castle">Grimsthorpe Castle</a> in Edenham, near <a href="/wiki/Bourne,_Lincolnshire" title="Bourne, Lincolnshire">Bourne, Lincolnshire</a> and <a href="/wiki/Drummond_Castle" title="Drummond Castle">Drummond Castle</a>, near <a href="/wiki/Crieff" title="Crieff">Crieff</a>, <a href="/wiki/Perthshire" title="Perthshire">Perthshire</a>, <a href="/wiki/Scotland" title="Scotland">Scotland</a>, originally the family seat of the <a href="/wiki/Earl_of_Perth" title="Earl of Perth">Drummond earls of Perth</a>.
+</p>
+<h2><span id="Barons_Willoughby_de_Eresby_.281313.29"></span><span class="mw-headline" id="Barons_Willoughby_de_Eresby_(1313)">Barons Willoughby de Eresby (1313)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baron_Willoughby_de_Eresby&amp;action=edit&amp;section=2" title="Edit section: Barons Willoughby de Eresby (1313)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Willoughby_arms.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Willoughby_arms.svg/220px-Willoughby_arms.svg.png" decoding="async" width="220" height="242" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Willoughby_arms.svg/330px-Willoughby_arms.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Willoughby_arms.svg/440px-Willoughby_arms.svg.png 2x" data-file-width="512" data-file-height="563" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Willoughby_arms.svg" class="internal" title="Enlarge"></a></div>The Ancient Arms of Willoughby (bef. 1300 - c.1349)</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Priscilla,_Lady_Willoughby_de_Eresby.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Priscilla%2C_Lady_Willoughby_de_Eresby.png/220px-Priscilla%2C_Lady_Willoughby_de_Eresby.png" decoding="async" width="220" height="275" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Priscilla%2C_Lady_Willoughby_de_Eresby.png/330px-Priscilla%2C_Lady_Willoughby_de_Eresby.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Priscilla%2C_Lady_Willoughby_de_Eresby.png/440px-Priscilla%2C_Lady_Willoughby_de_Eresby.png 2x" data-file-width="3513" data-file-height="4391" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Priscilla,_Lady_Willoughby_de_Eresby.png" class="internal" title="Enlarge"></a></div><a href="/wiki/Priscilla_Bertie,_21st_Baroness_Willoughby_de_Eresby" title="Priscilla Bertie, 21st Baroness Willoughby de Eresby">Priscilla Bertie, 21st Baroness Willoughby de Eresby</a> (1761–1828), portrait miniature by <a href="/wiki/Sampson_Towgood_Roch" title="Sampson Towgood Roch">Sampson Towgood Roch</a>.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:21st_Baroness_Willoughby_de_Eresby_coa.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/21st_Baroness_Willoughby_de_Eresby_coa.png/220px-21st_Baroness_Willoughby_de_Eresby_coa.png" decoding="async" width="220" height="138" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/e/ea/21st_Baroness_Willoughby_de_Eresby_coa.png 1.5x" data-file-width="300" data-file-height="188" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:21st_Baroness_Willoughby_de_Eresby_coa.png" class="internal" title="Enlarge"></a></div>Arms of Bertie: <i>Argent, three battering rams fesswise in pale or headed armed and garnished azure</i><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> (family of <a href="/wiki/Priscilla_Bertie,_21st_Baroness_Willoughby_de_Eresby" title="Priscilla Bertie, 21st Baroness Willoughby de Eresby">Priscilla Barbara Elizabeth Bertie, 21st Baroness Willoughby de Eresby</a> (1761–1828))</div></div></div>
+<ul><li><a href="/w/index.php?title=Robert_de_Willoughby,_1st_Baron_Willoughby_de_Eresby&amp;action=edit&amp;redlink=1" class="new" title="Robert de Willoughby, 1st Baron Willoughby de Eresby (page does not exist)">Robert de Willoughby, 1st Baron Willoughby de Eresby</a> (1260–1317)</li>
+<li><a href="/w/index.php?title=John_de_Willoughby,_2nd_Baron_Willoughby_de_Eresby&amp;action=edit&amp;redlink=1" class="new" title="John de Willoughby, 2nd Baron Willoughby de Eresby (page does not exist)">John de Willoughby, 2nd Baron Willoughby de Eresby</a> (1304–1349)</li>
+<li><a href="/w/index.php?title=John_de_Willoughby,_3rd_Baron_Willoughby_de_Eresby&amp;action=edit&amp;redlink=1" class="new" title="John de Willoughby, 3rd Baron Willoughby de Eresby (page does not exist)">John de Willoughby, 3rd Baron Willoughby de Eresby</a> (1329–1372)</li>
+<li><a href="/w/index.php?title=Robert_Willoughby,_4th_Baron_Willoughby_de_Eresby&amp;action=edit&amp;redlink=1" class="new" title="Robert Willoughby, 4th Baron Willoughby de Eresby (page does not exist)">Robert Willoughby, 4th Baron Willoughby de Eresby</a> (1349–1396)</li>
+<li><a href="/wiki/William_Willoughby,_5th_Baron_Willoughby_de_Eresby" title="William Willoughby, 5th Baron Willoughby de Eresby">William Willoughby, 5th Baron Willoughby de Eresby</a> (1370–1409), <a href="/wiki/Order_of_the_Garter" title="Order of the Garter">KG</a>
+<ul><li>Married Lucy le Strange and <a href="/wiki/Joan_Holland" title="Joan Holland">Joan Holland</a>. His daughter Margery, by Lucy,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> married William FitzHugh, 4th <a href="/wiki/Baron_FitzHugh" title="Baron FitzHugh">Lord FitzHugh</a> of <a href="/wiki/Ravensworth" title="Ravensworth">Ravensworth</a> and had a son Henry who became the 5th Lord FitzHugh. Two of the 5th Lord FitzHugh's daughters included <a href="/wiki/Alice_FitzHugh" title="Alice FitzHugh">Alice</a> and <a href="/wiki/Elizabeth_FitzHugh,_Baroness_Vaux_of_Harrowden" class="mw-redirect" title="Elizabeth FitzHugh, Baroness Vaux of Harrowden">Elizabeth FitzHugh</a>. Elizabeth, from her first marriage, was the mother of <a href="/wiki/Sir_Thomas_Parr" class="mw-redirect" title="Sir Thomas Parr">Sir Thomas Parr</a> and thus paternal grandmother of Queen consort <a href="/wiki/Catherine_Parr" title="Catherine Parr">Katherine Parr</a>.</li></ul></li>
+<li><a href="/wiki/Robert_Willoughby,_6th_Baron_Willoughby_de_Eresby" title="Robert Willoughby, 6th Baron Willoughby de Eresby">Robert Willoughby, 6th Baron Willoughby de Eresby</a> (1385–1452)</li>
+<li><a href="/wiki/Joan_Willoughby,_7th_Baroness_Willoughby_de_Eresby" title="Joan Willoughby, 7th Baroness Willoughby de Eresby">Joan Willoughby, 7th Baroness Willoughby de Eresby</a> (d. 1462)</li>
+<li><a href="/wiki/Robert_Welles,_8th_Baron_Willoughby_de_Eresby" title="Robert Welles, 8th Baron Willoughby de Eresby">Robert Welles, 8th Baron Willoughby de Eresby</a> (d. 1470)</li>
+<li><a href="/wiki/Joan_Welles,_9th_Baroness_Willoughby_de_Eresby" title="Joan Welles, 9th Baroness Willoughby de Eresby">Joan Welles, 9th Baroness Willoughby de Eresby</a> (d. 1475)</li>
+<li><a href="/wiki/Christopher_Willoughby,_10th_Baron_Willoughby_de_Eresby" title="Christopher Willoughby, 10th Baron Willoughby de Eresby">Christopher Willoughby, 10th Baron Willoughby de Eresby</a> (1453–1499)</li>
+<li><a href="/wiki/William_Willoughby,_11th_Baron_Willoughby_de_Eresby" title="William Willoughby, 11th Baron Willoughby de Eresby">William Willoughby, 11th Baron Willoughby de Eresby</a> (1482–1526)</li>
+<li><a href="/wiki/Catherine_Willoughby,_12th_Baroness_Willoughby_de_Eresby" class="mw-redirect" title="Catherine Willoughby, 12th Baroness Willoughby de Eresby">Catherine Willoughby, 12th Baroness Willoughby de Eresby</a> (1519–1580)</li>
+<li><a href="/wiki/Peregrine_Bertie,_13th_Baron_Willoughby_de_Eresby" title="Peregrine Bertie, 13th Baron Willoughby de Eresby">Peregrine Bertie, 13th Baron Willoughby de Eresby</a> (1555–1601)</li>
+<li><a href="/wiki/Robert_Bertie,_1st_Earl_of_Lindsey" title="Robert Bertie, 1st Earl of Lindsey">Robert Bertie, 1st Earl of Lindsey, 14th Baron Willoughby de Eresby</a> (1582–1642)</li>
+<li><a href="/wiki/Montagu_Bertie,_2nd_Earl_of_Lindsey" title="Montagu Bertie, 2nd Earl of Lindsey">Montagu Bertie, 2nd Earl of Lindsey, 15th Baron Willoughby de Eresby</a> (d. 1666)</li>
+<li><a href="/wiki/Robert_Bertie,_3rd_Earl_of_Lindsey" title="Robert Bertie, 3rd Earl of Lindsey">Robert Bertie, 3rd Earl of Lindsey, 16th Baron Willoughby de Eresby</a> (1630–1701)</li>
+<li><a href="/wiki/Robert_Bertie,_1st_Duke_of_Ancaster_and_Kesteven" title="Robert Bertie, 1st Duke of Ancaster and Kesteven">Robert Bertie, 1st Duke of Ancaster and Kesteven, 17th Baron Willoughby de Eresby</a> (1660–1723)</li>
+<li><a href="/wiki/Peregrine_Bertie,_2nd_Duke_of_Ancaster_and_Kesteven" title="Peregrine Bertie, 2nd Duke of Ancaster and Kesteven">Peregrine Bertie, 2nd Duke of Ancaster and Kesteven, 18th Baron Willoughby de Eresby</a> (1686–1742)</li>
+<li><a href="/wiki/Peregrine_Bertie,_3rd_Duke_of_Ancaster_and_Kesteven" title="Peregrine Bertie, 3rd Duke of Ancaster and Kesteven">Peregrine Bertie, 3rd Duke of Ancaster and Kesteven, 19th Baron Willoughby de Eresby</a> (1714–1778)</li>
+<li><a href="/wiki/Robert_Bertie,_4th_Duke_of_Ancaster_and_Kesteven" title="Robert Bertie, 4th Duke of Ancaster and Kesteven">Robert Bertie, 4th Duke of Ancaster and Kesteven, 20th Baron Willoughby de Eresby</a> (1756–1779) (abeyant 1779)</li>
+<li><a href="/wiki/Priscilla_Bertie,_21st_Baroness_Willoughby_de_Eresby" title="Priscilla Bertie, 21st Baroness Willoughby de Eresby">Priscilla Barbara Elizabeth Bertie, 21st Baroness Willoughby de Eresby</a> (1761–1828) (abeyance terminated 1780)</li>
+<li><a href="/wiki/Peter_Drummond-Burrell,_22nd_Baron_Willoughby_de_Eresby" title="Peter Drummond-Burrell, 22nd Baron Willoughby de Eresby">Peter Robert Drummond-Burrell, 22nd Baron Willoughby de Eresby, 2nd Baron Gwydyr</a> (1782–1865)</li>
+<li><a href="/wiki/Albyric_Drummond-Willoughby,_23rd_Baron_Willoughby_de_Eresby" title="Albyric Drummond-Willoughby, 23rd Baron Willoughby de Eresby">Albyric Drummond-Willoughby, 23rd Baron Willoughby de Eresby, 3rd Baron Gwydyr</a> (d. 1870) (abeyant 1870)</li>
+<li><a href="/wiki/Clementina_Drummond-Willoughby,_24th_Baroness_Willoughby_de_Eresby" title="Clementina Drummond-Willoughby, 24th Baroness Willoughby de Eresby">Clementina Elizabeth Drummond-Willoughby, 24th Baroness Willoughby de Eresby</a> (1809–1888) (abeyance terminated 1871)</li>
+<li><a href="/wiki/Gilbert_Heathcote-Drummond-Willoughby,_1st_Earl_of_Ancaster" title="Gilbert Heathcote-Drummond-Willoughby, 1st Earl of Ancaster">Gilbert Henry Heathcote-Drummond-Willoughby, 1st Earl of Ancaster, 25th Baron Willoughby de Eresby</a> (1830–1910)</li>
+<li><a href="/wiki/Gilbert_Heathcote-Drummond-Willoughby,_2nd_Earl_of_Ancaster" title="Gilbert Heathcote-Drummond-Willoughby, 2nd Earl of Ancaster">Gilbert Heathcote-Drummond-Willoughby, 2nd Earl of Ancaster, 26th Baron Willoughby de Eresby</a> (1867–1951)</li>
+<li><a href="/wiki/Gilbert_Heathcote-Drummond-Willoughby,_3rd_Earl_of_Ancaster" class="mw-redirect" title="Gilbert Heathcote-Drummond-Willoughby, 3rd Earl of Ancaster">Gilbert James Heathcote-Drummond-Willoughby, 3rd Earl of Ancaster, 27th Baron Willoughby de Eresby</a> (1907–1983)</li>
+<li><a href="/wiki/Jane_Heathcote-Drummond-Willoughby,_28th_Baroness_Willoughby_de_Eresby" title="Jane Heathcote-Drummond-Willoughby, 28th Baroness Willoughby de Eresby">(Nancy) Jane Marie Heathcote-Drummond-Willoughby, 28th Baroness Willoughby de Eresby</a> (b. 1934)</li></ul>
+<p>The co-heirs presumptive are Sebastian St Maur Miller (b. 1965) and <a href="/wiki/Sir_John_Aird,_4th_Baronet" title="Sir John Aird, 4th Baronet">Sir John Aird, 4th Baronet</a> (b. 1940). The former is the son of Carola Ramsden, the only child of the 26th Baron's elder daughter, Lady Catherine. The latter is the eldest child and only son of the 26th Baron's younger daughter, Lady Priscilla.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baron_Willoughby_de_Eresby&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Earl_of_Lindsey" title="Earl of Lindsey">Earl of Lindsey</a></li>
+<li><a href="/wiki/Earl_of_Abingdon" title="Earl of Abingdon">Earl of Abingdon</a></li>
+<li><a href="/wiki/Duke_of_Ancaster_and_Kesteven" class="mw-redirect" title="Duke of Ancaster and Kesteven">Duke of Ancaster and Kesteven</a></li>
+<li><a href="/wiki/Earl_of_Ancaster" class="mw-redirect" title="Earl of Ancaster">Earl of Ancaster</a></li>
+<li><a href="/wiki/Baron_Gwydyr" title="Baron Gwydyr">Baron Gwydyr</a></li></ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baron_Willoughby_de_Eresby&amp;action=edit&amp;section=4" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.nationalarchives.gov.uk/a2a/records.aspx?cat=057-anc_4&amp;cid=-1#-1">National Archives, Archives of Barons Willoughby de Eresby, ref: ANC</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baron_Willoughby_de_Eresby&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-burke-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-burke_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-burke_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-burke_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="Burke" class="citation book"><a href="/wiki/Charles_Mosley_(genealogist)" title="Charles Mosley (genealogist)">Mosley, Charles</a>, ed. (2003). <i>Burke's Peerage, Baronetage &amp; Knighthood</i> (107 ed.). Burke's Peerage &amp; Gentry. pp.&#160;4193–4194. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-9711966-2-1" title="Special:BookSources/0-9711966-2-1"><bdi>0-9711966-2-1</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Burke%27s+Peerage%2C+Baronetage+%26+Knighthood&amp;rft.pages=4193-4194&amp;rft.edition=107&amp;rft.pub=Burke%27s+Peerage+%26+Gentry&amp;rft.date=2003&amp;rft.isbn=0-9711966-2-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABaron+Willoughby+de+Eresby" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.merriam-webster.com/dictionary/Willoughby">"Willoughby"</a>. <i><a href="/wiki/Merriam-Webster" title="Merriam-Webster">Merriam-Webster Dictionary</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Merriam-Webster+Dictionary&amp;rft.atitle=Willoughby&amp;rft_id=https%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2FWilloughby&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABaron+Willoughby+de+Eresby" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Kidd, Charles, <i>Debrett's peerage &amp; Baronetage</i> 2015 Edition, London, 2015, p.P751</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Sir Bernard Burke. <i>A genealogical history of the dormant, abeyant, forfeited, and extinct peerages of the British empire.</i> Harrison, 1866. pg 586, 1049.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Douglas Richardson, Kimball G. Everingham. <i>Plantagenet ancestry: a study in colonial and medieval families.</i> Genealogical Publishing Com, 2004. pg 325.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Baron_Willoughby_de_Eresby&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Grimsthorpe_Castle" title="Grimsthorpe Castle">Grimsthorpe Castle</a> <a rel="nofollow" class="external autonumber" href="http://www.grimsthorpe.co.uk/">[1]</a></li>
+<li><a href="/wiki/Drummond_Castle" title="Drummond Castle">Drummond Castle</a> <a rel="nofollow" class="external autonumber" href="http://www.drummondcastlegardens.co.uk/">[2]</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="23x15px&amp;#124;border_&amp;#124;alt=Kingdom_of_England&amp;#124;link=Kingdom_of_England_Extant_baronies_of_England" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Extant_Barons_of_England" title="Template:Extant Barons of England"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Extant_Barons_of_England&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Extant Barons of England (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Extant_Barons_of_England&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="23x15px&amp;#124;border_&amp;#124;alt=Kingdom_of_England&amp;#124;link=Kingdom_of_England_Extant_baronies_of_England" style="font-size:114%;margin:0 4em"><span class="flagicon"><a href="/wiki/Kingdom_of_England" title="Kingdom of England"><img alt="Kingdom of England" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span> <a href="/wiki/List_of_barons_in_the_peerages_of_Britain_and_Ireland" title="List of barons in the peerages of Britain and Ireland">Extant baronies of England</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baron_de_Ros" title="Baron de Ros">de Ros</a></li>
+<li><a href="/wiki/Baron_Mowbray" title="Baron Mowbray">Mowbray</a></li>
+<li><a href="/wiki/Baron_Hastings" title="Baron Hastings">Hastings</a></li>
+<li><a href="/wiki/Baron_FitzWalter" title="Baron FitzWalter">FitzWalter</a></li>
+<li><i><a href="/wiki/Baron_Segrave" title="Baron Segrave">Segrave</a></i></li>
+<li><a href="/wiki/Baron_Clinton" title="Baron Clinton">Clinton</a></li>
+<li><a href="/wiki/Baron_de_Clifford" title="Baron de Clifford">de Clifford</a></li>
+<li><a href="/wiki/Baron_Zouche" title="Baron Zouche">Zouche</a></li>
+<li><a class="mw-selflink selflink">Willoughby de Eresby</a></li>
+<li><a href="/wiki/Baron_Strabolgi" title="Baron Strabolgi">Strabolgi</a></li>
+<li><a href="/wiki/Baron_Dacre" title="Baron Dacre">Dacre</a></li>
+<li><a href="/wiki/Baron_Darcy_de_Knayth" title="Baron Darcy de Knayth">Darcy de Knayth</a></li>
+<li><a href="/wiki/Baron_Cromwell" title="Baron Cromwell">Cromwell</a></li>
+<li><a href="/wiki/Baron_Camoys" title="Baron Camoys">Camoys</a></li>
+<li><a href="/wiki/Baron_Grey_of_Codnor" title="Baron Grey of Codnor">Grey of Codnor</a></li>
+<li><a href="/wiki/Baron_Berkeley" title="Baron Berkeley">Berkeley</a></li>
+<li><a href="/wiki/Baron_Latimer" title="Baron Latimer">Latimer</a></li>
+<li><a href="/wiki/Baron_Dudley" title="Baron Dudley">Dudley</a></li>
+<li><a href="/wiki/Baron_Saye_and_Sele" title="Baron Saye and Sele">Saye and Sele</a></li>
+<li><i><a href="/wiki/Baron_Stourton" title="Baron Stourton">Stourton</a></i></li>
+<li><a href="/wiki/Baron_Berners" title="Baron Berners">Berners</a></li>
+<li><a href="/wiki/Baron_Herbert" title="Baron Herbert">Herbert</a></li>
+<li><a href="/wiki/Baron_Willoughby_de_Broke" title="Baron Willoughby de Broke">Willoughby de Broke</a></li>
+<li><a href="/wiki/Baron_Vaux_of_Harrowden" title="Baron Vaux of Harrowden">Vaux of Harrowden</a></li>
+<li><a href="/wiki/Baron_Braye" title="Baron Braye">Braye</a></li>
+<li><a href="/wiki/Baron_Burgh" title="Baron Burgh">Burgh</a></li>
+<li><a href="/wiki/Baron_Wharton" title="Baron Wharton">Wharton</a></li>
+<li><a href="/wiki/Baron_St_John_of_Bletso" title="Baron St John of Bletso">St John of Bletso</a></li>
+<li><a href="/wiki/Baron_Howard_de_Walden" title="Baron Howard de Walden">Howard de Walden</a></li>
+<li><a href="/wiki/Baron_Petre" title="Baron Petre">Petre</a></li>
+<li><a href="/wiki/Baron_Dormer" title="Baron Dormer">Dormer</a></li>
+<li><a href="/wiki/Baron_Teynham" title="Baron Teynham">Teynham</a></li>
+<li><a href="/wiki/Baron_Strange" title="Baron Strange">Strange</a></li>
+<li><a href="/wiki/Baron_Stafford" title="Baron Stafford">Stafford</a></li>
+<li><a href="/wiki/Baron_Byron" title="Baron Byron">Byron</a></li>
+<li><a href="/wiki/Baron_Lucas" title="Baron Lucas">Lucas</a></li>
+<li><a href="/wiki/Baron_Arlington" title="Baron Arlington">Arlington</a></li>
+<li><a href="/wiki/Baron_Clifford_of_Chudleigh" title="Baron Clifford of Chudleigh">Clifford of Chudleigh</a></li>
+<li><a href="/wiki/Baron_Barnard" title="Baron Barnard">Barnard</a></li></ul>
+</div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Coronet_of_a_British_Baron.svg" class="image"><img alt="Coronet of a British Baron.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Coronet_of_a_British_Baron.svg/80px-Coronet_of_a_British_Baron.svg.png" decoding="async" width="80" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Coronet_of_a_British_Baron.svg/120px-Coronet_of_a_British_Baron.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Coronet_of_a_British_Baron.svg/160px-Coronet_of_a_British_Baron.svg.png 2x" data-file-width="220" data-file-height="179" /></a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1327
+Cached time: 20190926092804
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.248 seconds
+Real time usage: 0.357 seconds
+Preprocessor visited node count: 817/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 20152/2097152 bytes
+Template argument size: 1879/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 7092/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.107/10.000 seconds
+Lua memory usage: 2.64 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  271.642      1 -total
+ 33.68%   91.481      1 Template:Refn
+ 32.09%   87.181      1 Template:MerriamWebsterDictionary
+ 30.40%   82.571      1 Template:Cite_web
+ 25.19%   68.433      1 Template:Infobox_nobility_title
+ 20.27%   55.062      1 Template:Infobox
+ 18.88%   51.286      1 Template:IPAc-en
+ 10.74%   29.170      1 Template:Extant_Barons_of_England
+ 10.31%   28.012      1 Template:Reflist
+  9.59%   26.049      1 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:456749-0!canonical and timestamp 20190926092804 and revision id 879290411
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Baron_Willoughby_de_Eresby&amp;oldid=879290411">https://en.wikipedia.org/w/index.php?title=Baron_Willoughby_de_Eresby&amp;oldid=879290411</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Barons_Willoughby_de_Eresby" title="Category:Barons Willoughby de Eresby">Barons Willoughby de Eresby</a></li><li><a href="/wiki/Category:1313_establishments_in_England" title="Category:1313 establishments in England">1313 establishments in England</a></li><li><a href="/wiki/Category:Noble_titles_created_in_1313" title="Category:Noble titles created in 1313">Noble titles created in 1313</a></li><li><a href="/wiki/Category:Baronies_in_the_Peerage_of_England" title="Category:Baronies in the Peerage of England">Baronies in the Peerage of England</a></li><li><a href="/wiki/Category:Baronies_by_writ" title="Category:Baronies by writ">Baronies by writ</a></li><li><a href="/wiki/Category:Willoughby_family" title="Category:Willoughby family">Willoughby family</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Baron+Willoughby+de+Eresby" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Baron+Willoughby+de+Eresby" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Baron_Willoughby_de_Eresby" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Baron_Willoughby_de_Eresby" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Baron_Willoughby_de_Eresby">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Baron_Willoughby_de_Eresby&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Baron_Willoughby_de_Eresby&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Baron_Willoughby_de_Eresby" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Baron_Willoughby_de_Eresby" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Baron_Willoughby_de_Eresby&amp;oldid=879290411" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Baron_Willoughby_de_Eresby&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q808681" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Baron_Willoughby_de_Eresby&amp;id=879290411" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Barons_Willoughby_de_Eresby" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Baron+Willoughby+de+Eresby">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Baron+Willoughby+de+Eresby&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Baron_Willoughby_de_Eresby&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Baron_Willoughby_de_Eresby" title="Baron Willoughby de Eresby – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Baron_Willoughby" title="Baron Willoughby – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Barone_Willoughby_de_Eresby" title="Barone Willoughby de Eresby – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%BE%D0%BD_%D0%A3%D0%B8%D0%BB%D0%BB%D0%BE%D1%83%D0%B1%D0%B8_%D0%B4%D0%B5_%D0%AD%D1%80%D0%B7%D0%B1%D0%B8" title="Барон Уиллоуби де Эрзби – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q808681#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 January 2019, at 08:04<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Baron_Willoughby_de_Eresby&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.357","ppvisitednodes":{"value":817,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":20152,"limit":2097152},"templateargumentsize":{"value":1879,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":7092,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  271.642      1 -total"," 33.68%   91.481      1 Template:Refn"," 32.09%   87.181      1 Template:MerriamWebsterDictionary"," 30.40%   82.571      1 Template:Cite_web"," 25.19%   68.433      1 Template:Infobox_nobility_title"," 20.27%   55.062      1 Template:Infobox"," 18.88%   51.286      1 Template:IPAc-en"," 10.74%   29.170      1 Template:Extant_Barons_of_England"," 10.31%   28.012      1 Template:Reflist","  9.59%   26.049      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.107","limit":"10.000"},"limitreport-memusage":{"value":2773416,"limit":52428800}},"cachereport":{"origin":"mw1327","timestamp":"20190926092804","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Baron Willoughby de Eresby","url":"https:\/\/en.wikipedia.org\/wiki\/Baron_Willoughby_de_Eresby","sameAs":"http:\/\/www.wikidata.org\/entity\/Q808681","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q808681","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-06T04:20:06Z","dateModified":"2019-01-20T08:04:10Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/57\/Coronet_of_a_British_Baron.svg","headline":"title in the Peerage of England"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":101,"wgHostname":"mw1333"});});</script>
+</body>
+</html>
+

@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ward (electoral subdivision) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ward_(electoral_subdivision)","wgTitle":"Ward (electoral subdivision)","wgCurRevisionId":874283470,"wgRevisionId":874283470,"wgArticleId":3283310,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from December 2017","All articles needing additional references","Vague or ambiguous geographic scope from January 2018","All articles with links needing disambiguation","Articles with links needing disambiguation from September 2019","Wards","Types of country subdivisions"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ward_(electoral_subdivision)","wgRelevantArticleId":3283310,"wgRequestId":"XZEFBApAICoAAAi7uk4AAAAP","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Ward_(country_subdivision)","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Ward_(electoral_subdivision)","wgWikibaseItemId":
+"Q1195098","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert",
+"ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ward_(electoral_subdivision)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ward_(electoral_subdivision)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ward_(electoral_subdivision)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ward_(electoral_subdivision)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ward_electoral_subdivision rootpage-Ward_electoral_subdivision skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Ward (electoral subdivision)</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Ward_(country_subdivision)&amp;redirect=no" class="mw-redirect" title="Ward (country subdivision)">Ward (country subdivision)</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Ward_(electoral_subdivision)&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Ward%22+electoral+subdivision">"Ward"&#160;electoral subdivision</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Ward%22+electoral+subdivision+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Ward%22+electoral+subdivision+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Ward%22+electoral+subdivision+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Ward%22+electoral+subdivision">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Ward%22+electoral+subdivision&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">December 2017</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>A <b>ward</b> is a local authority area, typically used for electoral purposes. Wards are usually named after <a href="/wiki/Neighbourhood" title="Neighbourhood">neighbourhoods</a>, <a href="/wiki/Thoroughfare" title="Thoroughfare">thoroughfares</a>, <a href="/wiki/Parish" title="Parish">parishes</a>, <a href="/wiki/Landmark" title="Landmark">landmarks</a>, geographical features and in some cases historical figures connected to the area.<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Naming_conventions_(geographic_names)" title="Wikipedia:Naming conventions (geographic names)"><span title="The geographic scope near this tag is ambiguous. (January 2018)">where?</span></a></i>&#93;</sup> It is common in the <a href="/wiki/United_States" title="United States">United States</a> for wards to simply be numbered.
+</p><p>In Swahili/Kiswahili Local Ward is called Kata.
+</p><p>In <a href="/wiki/Australia" title="Australia">Australia</a>, <a href="/wiki/Canada" title="Canada">Canada</a>, <a href="/wiki/Monaco" title="Monaco">Monaco</a>, <a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a>, <a href="/wiki/South_Africa" title="South Africa">South Africa</a>, the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, and the <a href="/wiki/United_States" title="United States">United States</a>, they are an <a href="/wiki/Electoral_district" title="Electoral district">electoral district</a> within a district or <a href="/wiki/Municipality" title="Municipality">municipality</a>, used in <a href="/wiki/Local_government" title="Local government">local government</a> elections. In the United States, wards are usually subdivided into <a href="/wiki/Precinct" title="Precinct">precincts</a> for <a href="/wiki/Polling_place" title="Polling place">polling</a> purposes.
+</p><p>In the <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Republic of Ireland</a>, urban <i>Wards</i> and rural <i>District Electoral Divisions</i> were renamed <i><a href="/wiki/District_Electoral_Division" class="mw-redirect" title="District Electoral Division">Electoral Divisions</a></i> in 1994.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> The electoral districts for <a href="/wiki/Local_government_in_the_Republic_of_Ireland" title="Local government in the Republic of Ireland">local authorities</a> are often popularly called "wards". These consist of multiple electoral divisions, and are officially called "local electoral areas".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>In the case of a municipal <a href="/wiki/Amalgamation_(politics)" class="mw-redirect" title="Amalgamation (politics)">amalgamation</a>, the former cities and towns that make up the new metropolis may be referred to as wards.
+</p>
+<ul><li>In certain cities of <a href="/wiki/India" title="India">India</a>, such as <a href="/wiki/Mumbai" title="Mumbai">Mumbai</a> and <a href="/wiki/Delhi" title="Delhi">Delhi</a>, a <a href="/wiki/Administrative_divisions_of_Mumbai" title="Administrative divisions of Mumbai">ward</a> is an administrative unit of the city region; a city area is divided into Zones, which in turn contains numerous wards. The smallest administrative unit of <a href="/wiki/Gram_panchayat" title="Gram panchayat">Gram Panchayats</a> in India is also known as a ward.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li>
+<li>In <a href="/wiki/Japan" title="Japan">Japan</a>, a <b>ward</b> (<i>ku</i> or 区 in <a href="/wiki/Japanese_language" title="Japanese language">Japanese</a>) is an administrative unit of one of the larger cities, closely equivalent to a London Borough or a New York Borough.</li>
+<li>In <a href="/wiki/Vietnam" title="Vietnam">Vietnam</a>, a ward (phường) is an administrative subunit of an inner city district (quận).</li>
+<li>A ward in <a href="/wiki/Nepal" title="Nepal">Nepal</a> is a political division. Nine wards make up a <a href="/wiki/Village_development_committee_(Nepal)" title="Village development committee (Nepal)"><i>village development committee</i></a> (VDC); VDCs make districts; districts makes zones; and zones (regions) make up the country.</li>
+<li>In parts of northern <a href="/wiki/England" title="England">England</a>, a <b>ward</b> was a sub-entity of a <a href="/wiki/Historic_counties_of_England" title="Historic counties of England">county</a>, equivalent to a <a href="/wiki/Hundred_(country_subdivision)" class="mw-redirect" title="Hundred (country subdivision)">hundred</a>.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ward_(electoral_subdivision)&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Wards of Canada
+<ul><li><a href="/wiki/Wards_of_the_City_of_Ottawa" title="Wards of the City of Ottawa">Wards of the City of Ottawa</a></li>
+<li><a href="/wiki/Lake_Country#Wards" title="Lake Country">Wards of Lake Country municipality</a></li></ul></li>
+<li><a href="/wiki/Wards_of_Japan" title="Wards of Japan">Wards of Japan</a></li>
+<li><a href="/wiki/Wards_and_electoral_divisions_of_the_United_Kingdom" title="Wards and electoral divisions of the United Kingdom">Wards and electoral divisions of the United Kingdom</a>
+<ul><li><a href="/wiki/Wards_of_the_City_of_London" title="Wards of the City of London">Wards of the City of London</a></li></ul></li>
+<li><a href="/wiki/Wards_of_Tanzania" class="mw-redirect" title="Wards of Tanzania">Wards of Tanzania</a></li>
+<li><a href="/wiki/Ward_(United_States)" title="Ward (United States)">Ward (United States)</a>
+<ul><li>For more controversial/negative practices often associated with <i>ward politics</i>, also see <a href="/wiki/Political_machine#In_the_United_States" title="Political machine">political machine</a>.</li></ul></li>
+<li><a href="/wiki/Wards_of_Zimbabwe" class="mw-redirect" title="Wards of Zimbabwe">Wards of Zimbabwe</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ward_(electoral_subdivision)&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.irishstatutebook.ie/1994/en/act/pub/0008/sec0063.html">Local Government Act, 1994 §63</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.irishstatutebook.ie/1994/en/act/pub/0008/sec0024.html">Local Government Act, 1994 §24</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mcdonline.gov.in/mcd/zones.html">Zones</a> <a href="/wiki/Municipal_Corporation_of_Delhi" title="Municipal Corporation of Delhi">Municipal Corporation of Delhi</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.mcdonline.gov.in/mcddir/zonewisecounsellorslist.php?zoneid_f=12&amp;start=10">Elected Members: Rohini Zone (Ward-wise)</a> at <a href="/wiki/Municipal_Corporation_of_Delhi" title="Municipal Corporation of Delhi">Municipal Corporation of Delhi</a></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Designations_for_types_of_administrative_territorial_entities" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Terms_for_types_of_country_subdivisions" title="Template:Terms for types of country subdivisions"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Terms_for_types_of_country_subdivisions" title="Template talk:Terms for types of country subdivisions"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Terms_for_types_of_country_subdivisions&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Designations_for_types_of_administrative_territorial_entities" style="font-size:114%;margin:0 4em">Designations for types of <a href="/wiki/Administrative_division" title="Administrative division">administrative territorial entities</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="English_terms" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_terms_for_administrative_divisions" title="List of terms for administrative divisions">English terms</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-abovebelow" colspan="2"><div id="Common_English_terms1"><b>Common English terms<sup><small>1</small></sup></b></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Area_(country_subdivision)" title="Area (country subdivision)">Area</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Insular_area" title="Insular area">Insular area</a></li>
+<li><a href="/wiki/Local_government_area" title="Local government area">Local government area</a></li>
+<li><a href="/wiki/Protected_area" title="Protected area">Protected area</a></li>
+<li><a href="/wiki/Special_Areas_Board" title="Special Areas Board">Special area</a></li>
+<li><a href="/wiki/Statistical_area_(United_States)" title="Statistical area (United States)">Statistical area</a>
+<ul><li><a href="/wiki/Combined_statistical_area" title="Combined statistical area">Combined statistical area</a></li>
+<li><a href="/wiki/Metropolitan_statistical_area" title="Metropolitan statistical area">Metropolitan statistical area</a></li>
+<li><a href="/wiki/Micropolitan_statistical_area" title="Micropolitan statistical area">Micropolitan statistical area</a></li></ul></li>
+<li>Trade area
+<ul><li><a href="/wiki/Free-trade_area" title="Free-trade area">Free-trade area</a></li></ul></li>
+<li><a href="/wiki/Urban_area" title="Urban area">Urban area</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Borough" title="Borough">Borough</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/County_borough" title="County borough">County borough</a></li>
+<li><a href="/wiki/Metropolitan_borough" title="Metropolitan borough">Metropolitan borough</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Canton_(country_subdivision)" title="Canton (country subdivision)">Canton</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/Half-canton" class="mw-redirect" title="Half-canton">Half-canton</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Capital_city" title="Capital city">Capital</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Federal_capital" title="Federal capital">Federal capital</a></li>
+<li><i><a href="/wiki/Capital_city#Origins" title="Capital city">Imperial capital</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/City" title="City">City</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autonomous_city" title="Autonomous city">Autonomous city</a></li>
+<li><a href="/wiki/Charter_city" title="Charter city">Charter city</a></li>
+<li><a href="/wiki/Independent_city" title="Independent city">Independent city</a></li>
+<li><a href="/wiki/Incorporated_city" class="mw-redirect" title="Incorporated city">Incorporated city</a></li>
+<li><i><a href="/wiki/Imperial_city" class="mw-redirect" title="Imperial city">Imperial city</a></i></li>
+<li><i><a href="/wiki/Free_imperial_city" title="Free imperial city">Free imperial city</a></i></li>
+<li><i><a href="/wiki/Royal_free_city" title="Royal free city">Royal free city</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Community_(administrative_division)" title="Community (administrative division)">Community</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autonomous_communities_of_Spain" title="Autonomous communities of Spain">Autonomous community</a></li>
+<li><a href="/wiki/Residential_community" title="Residential community">Residential community</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/County" title="County">County</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Administrative_county" title="Administrative county">Administrative county</a></li>
+<li><a href="/wiki/Autonomous_county" title="Autonomous county">Autonomous county</a></li>
+<li><a href="/wiki/Consolidated_city-county" title="Consolidated city-county">Consolidated city-county</a></li>
+<li><a href="/wiki/Metropolitan_county" title="Metropolitan county">Metropolitan county</a>
+<ul><li><a href="/wiki/Non-metropolitan_county" title="Non-metropolitan county">Non-metropolitan county</a></li></ul></li>
+<li><a href="/wiki/Viscountcy" class="mw-redirect" title="Viscountcy">Viscountcy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Country" title="Country">Country</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Overseas_country" class="mw-redirect" title="Overseas country">Overseas country</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Department_(country_subdivision)" title="Department (country subdivision)">Department</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Overseas_department" class="mw-redirect" title="Overseas department">Overseas department</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/District" title="District">District</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Capital_district" class="mw-redirect" title="Capital district">Capital district</a></li>
+<li><a href="/wiki/City_district" title="City district">City district</a></li>
+<li><a href="/wiki/Congressional_district" title="Congressional district">Congressional district</a></li>
+<li><a href="/wiki/Electoral_district" title="Electoral district">Electoral district</a></li>
+<li><a href="/wiki/Federal_district" title="Federal district">Federal district</a></li>
+<li><a href="/wiki/Indian_government_district" class="mw-redirect" title="Indian government district">Indian government district</a></li>
+<li><a href="/wiki/Land_district" title="Land district">Land district</a></li>
+<li><a href="/wiki/Metropolitan_district" class="mw-redirect" title="Metropolitan district">Metropolitan district</a>
+<ul><li><a href="/wiki/Non-metropolitan_district" title="Non-metropolitan district">Non-metropolitan district</a></li></ul></li>
+<li><a href="/wiki/Military_district" title="Military district">Military district</a></li>
+<li><a href="/wiki/Municipal_district" title="Municipal district">Municipal district</a></li>
+<li><a href="/wiki/Police_district" title="Police district">Police district</a></li>
+<li><a href="/wiki/Regional_district" class="mw-redirect" title="Regional district">Regional district</a></li>
+<li><a href="/wiki/Rural_district" title="Rural district">Rural district</a></li>
+<li><a href="/wiki/Sanitary_district" title="Sanitary district">Sanitary district</a></li>
+<li>Service district
+<ul><li><a href="/wiki/Educational_service_district_(disambiguation)" class="mw-redirect mw-disambig" title="Educational service district (disambiguation)">Educational service district</a><sup class="plainlinks noprint Inline-Template" style="vertical-align:text-top;white-space:nowrap;">&#91;<i><a rel="nofollow" class="external text" href="http://dispenser.info.tm/~dispenser/cgi-bin/dab_solver.py?page=Ward_(electoral_subdivision)&amp;editintro=Template:Disambiguation_needed/editintro&amp;client=Template:Dn"><span title="Link needs disambiguation. (September 2019)">disambiguation needed</span></a></i>&#93;</sup></li>
+<li><a href="/wiki/Local_service_district" title="Local service district">Local service district</a></li></ul></li>
+<li><a href="/wiki/School_district" title="School district">School district</a>
+<ul><li><a href="/wiki/Intermediate_school_district" title="Intermediate school district">Intermediate school district</a></li></ul></li>
+<li><a href="/wiki/Special_district_(United_States)" title="Special district (United States)">Special district</a>
+<ul><li><a href="/wiki/Special_district_(United_States)" title="Special district (United States)">in the US</a></li></ul></li>
+<li><a href="/wiki/Subdistrict" title="Subdistrict">Subdistrict</a></li>
+<li><a href="/wiki/Urban_district" title="Urban district">Urban district</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Division_(country_subdivision)" title="Division (country subdivision)">Division</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Census_division" title="Census division">Census division</a></li>
+<li><a href="/wiki/Police_division" title="Police division">Police division</a></li>
+<li><a href="/wiki/Subdivision_(country_subdivision)" title="Subdivision (country subdivision)">Subdivision</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Municipality" title="Municipality">Municipality</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/City_municipality" class="mw-redirect" title="City municipality">City municipality</a></li>
+<li><a href="/wiki/County_municipality" title="County municipality">County municipality</a>
+<ul><li><a href="/wiki/Regional_county_municipality" title="Regional county municipality">Regional county municipality</a></li></ul></li>
+<li><a href="/wiki/Direct-controlled_municipality" title="Direct-controlled municipality">Direct-controlled municipality</a></li>
+<li><a href="/wiki/District_municipality" title="District municipality">District municipality</a></li>
+<li><a href="/wiki/Neutral_municipality" class="mw-redirect" title="Neutral municipality">Neutral municipality</a></li>
+<li><a href="/wiki/Regional_municipality" title="Regional municipality">Regional municipality</a></li>
+<li><a href="/wiki/Resort_municipality" title="Resort municipality">Resort municipality</a>
+<ul><li><a href="/wiki/Mountain_resort_municipality" class="mw-redirect" title="Mountain resort municipality">Mountain resort municipality</a></li></ul></li>
+<li><a href="/wiki/Rural_municipality" title="Rural municipality">Rural municipality</a></li>
+<li><a href="/wiki/Specialized_municipality" class="mw-redirect" title="Specialized municipality">Specialized municipality</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Prefecture" title="Prefecture">Prefecture</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autonomous_prefecture" title="Autonomous prefecture">Autonomous prefecture</a></li>
+<li><a href="/wiki/Subprefecture" title="Subprefecture">Subprefecture</a></li>
+<li><a href="/wiki/Super-prefecture" class="mw-redirect" title="Super-prefecture">Super-prefecture</a></li>
+<li><i><a href="/wiki/Praetorian_prefecture" title="Praetorian prefecture">Praetorian prefecture</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Province" title="Province">Province</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autonomous_province" title="Autonomous province">Autonomous province</a></li>
+<li><i><a href="/wiki/Overseas_province" title="Overseas province">Overseas province</a></i></li>
+<li><i><a href="/wiki/Roman_province" title="Roman province">Roman province</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Region" title="Region">Region</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Administrative_region" class="mw-redirect" title="Administrative region">Administrative region</a>
+<ul><li><a href="/wiki/Special_administrative_region" title="Special administrative region">Special administrative region</a></li></ul></li>
+<li><a href="/wiki/Autonomous_region" class="mw-redirect" title="Autonomous region">Autonomous region</a></li>
+<li><a href="/wiki/Capital_region" title="Capital region">Capital region</a>
+<ul><li><a href="/wiki/National_capital_region" class="mw-redirect" title="National capital region">National capital region</a></li></ul></li>
+<li><a href="/wiki/Development_region" title="Development region">Development region</a></li>
+<li><a href="/w/index.php?title=Economic_region&amp;action=edit&amp;redlink=1" class="new" title="Economic region (page does not exist)">Economic region</a></li>
+<li><a href="/wiki/Mesoregion_(geography)" title="Mesoregion (geography)">Mesoregion</a></li>
+<li><a href="/wiki/Microregion" title="Microregion">Microregion</a></li>
+<li><a href="/wiki/Overseas_region" class="mw-redirect" title="Overseas region">Overseas region</a></li>
+<li><a href="/w/index.php?title=Planning_region&amp;action=edit&amp;redlink=1" class="new" title="Planning region (page does not exist)">Planning region</a></li>
+<li><a href="/w/index.php?title=Statistical_region&amp;action=edit&amp;redlink=1" class="new" title="Statistical region (page does not exist)">Statistical region</a></li>
+<li><a href="/wiki/Subregion_(country_subdivision)" title="Subregion (country subdivision)">Subregion</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Reserve_(territorial_entity)" title="Reserve (territorial entity)">Reserve</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biosphere_reserve" class="mw-redirect" title="Biosphere reserve">Biosphere reserve</a></li>
+<li><a href="/wiki/Ecological_reserve" class="mw-redirect" title="Ecological reserve">Ecological reserve</a></li>
+<li><a href="/wiki/Game_reserve" title="Game reserve">Game reserve</a></li>
+<li><a href="/wiki/Indian_reserve" title="Indian reserve">Indian reserve</a></li>
+<li><a href="/wiki/Nature_reserve" title="Nature reserve">Nature reserve</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Federated_state" title="Federated state">State</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/City-state" title="City-state">City-state</a></li>
+<li><a href="/wiki/Federal_state" class="mw-redirect" title="Federal state">Federal state</a></li>
+<li><a href="/wiki/Free_state_(government)" title="Free state (government)">Free state</a></li>
+<li><i><a href="/wiki/Sovereign_state" title="Sovereign state">Sovereign state</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Territory" title="Territory">Territory</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Capital_territory" class="mw-redirect" title="Capital territory">Capital territory</a>
+<ul><li><a href="/wiki/Federal_capital_territory" class="mw-redirect" title="Federal capital territory">Federal capital territory</a></li>
+<li><a href="/wiki/National_capital_territory" class="mw-redirect" title="National capital territory">National capital territory</a></li></ul></li>
+<li><a href="/wiki/Dependent_territory" title="Dependent territory">Dependent territory</a></li>
+<li><a href="/wiki/Federal_territory" title="Federal territory">Federal territory</a></li>
+<li><a href="/wiki/Incorporated_territory" class="mw-redirect" title="Incorporated territory">Incorporated territory</a>
+<ul><li><a href="/wiki/Organized_incorporated_territory" class="mw-redirect" title="Organized incorporated territory">Organized incorporated territory</a></li></ul></li>
+<li><a href="/w/index.php?title=Military_territory&amp;action=edit&amp;redlink=1" class="new" title="Military territory (page does not exist)">Military territory</a></li>
+<li><a href="/wiki/Overseas_territory" class="mw-redirect" title="Overseas territory">Overseas territory</a></li>
+<li><a href="/wiki/Union_territory" title="Union territory">Union territory</a></li>
+<li><a href="/wiki/Unorganized_territory" title="Unorganized territory">Unorganized territory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Town" title="Town">Town</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Census_town" title="Census town">Census town</a></li>
+<li><a href="/wiki/Market_town" title="Market town">Market town</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Township" title="Township">Township</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Charter_township" title="Charter township">Charter township</a></li>
+<li><a href="/wiki/Civil_township" title="Civil township">Civil township</a></li>
+<li><a href="/wiki/Paper_township" title="Paper township">Paper township</a></li>
+<li><a href="/wiki/Survey_township" title="Survey township">Survey township</a></li>
+<li><a href="/wiki/Urban_township" title="Urban township">Urban township</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Unit</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Administrative unit
+<ul><li><a href="/w/index.php?title=Local_administrative_unit&amp;action=edit&amp;redlink=1" class="new" title="Local administrative unit (page does not exist)">Local administrative unit</a></li></ul></li>
+<li><a href="/w/index.php?title=Municipal_unit&amp;action=edit&amp;redlink=1" class="new" title="Municipal unit (page does not exist)">Municipal unit</a></li>
+<li><a href="/wiki/Regional_unit" class="mw-redirect" title="Regional unit">Regional unit</a></li>
+<li>Territorial unit
+<ul><li><a href="/wiki/Autonomous_territorial_unit" title="Autonomous territorial unit">Autonomous territorial unit</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Zone</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Economic_zone" class="mw-redirect" title="Economic zone">Economic zone</a>
+<ul><li><a href="/wiki/Exclusive_economic_zone" title="Exclusive economic zone">Exclusive economic zone</a></li>
+<li><a href="/wiki/Free_economic_zone" title="Free economic zone">Free economic zone</a></li>
+<li><a href="/wiki/Special_economic_zone" title="Special economic zone">Special economic zone</a></li></ul></li>
+<li><a href="/wiki/Exclusion_zone" title="Exclusion zone">Exclusion zone</a>
+<ul><li><a href="/wiki/Military_exclusion_zone" title="Military exclusion zone">Military exclusion zone</a></li></ul></li>
+<li><a href="/wiki/Free_speech_zone" title="Free speech zone">Free speech zone</a></li>
+<li><a href="/wiki/Neutral_zone_(territorial_entity)" title="Neutral zone (territorial entity)">Neutral zone</a></li>
+<li><a href="/wiki/Self-administered_zone" title="Self-administered zone">Self-administered zone</a></li>
+<li>Trade zone
+<ul><li><a href="/wiki/Free-trade_zone" title="Free-trade zone">Free-trade zone</a></li></ul></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><td class="navbox-abovebelow" colspan="2"><div id="Other_English_terms"><b>Other English terms</b></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Local_government_in_Victoria#Alpine_resorts" title="Local government in Victoria">Alpine resort</a></li>
+<li><a href="/wiki/Bailiwick" title="Bailiwick">Bailiwick</a></li>
+<li><a href="/wiki/Banner_(country_subdivision)" title="Banner (country subdivision)">Banner</a>
+<ul><li><a href="/wiki/Banners_of_Inner_Mongolia" title="Banners of Inner Mongolia">Autonomous</a></li></ul></li>
+<li><a href="/wiki/Block_(district_subdivision)" title="Block (district subdivision)">Block</a></li>
+<li><a href="/wiki/Cadastre" title="Cadastre">Cadastre</a></li>
+<li><a href="/wiki/Circle_(country_subdivision)" title="Circle (country subdivision)">Circle</a></li>
+<li><a href="/wiki/Circuit_(administrative_division)" title="Circuit (administrative division)">Circuit</a></li>
+<li><a href="/wiki/Colony" title="Colony">Colony</a></li>
+<li><a href="/wiki/Municipality" title="Municipality">Commune</a></li>
+<li><a href="/wiki/Condominium_(international_law)" title="Condominium (international law)">Condominium</a></li>
+<li><a href="/wiki/Constituency_(administrative_division)" class="mw-redirect" title="Constituency (administrative division)">Constituency</a></li>
+<li><a href="/wiki/Duchy" title="Duchy">Duchy</a></li>
+<li><a href="/wiki/Elderships_of_Lithuania" title="Elderships of Lithuania">Eldership</a></li>
+<li><a href="/wiki/Emirate" title="Emirate">Emirate</a></li>
+<li><a href="/wiki/Federal_Dependencies_of_Venezuela" title="Federal Dependencies of Venezuela">Federal dependency</a></li>
+<li><a href="/wiki/Governorate" title="Governorate">Governorate</a></li>
+<li><a href="/wiki/Hamlet_(place)" title="Hamlet (place)">Hamlet</a></li>
+<li><a href="/wiki/Ilkhanate" title="Ilkhanate">Ilkhanate</a></li>
+<li><a href="/wiki/Indian_reservation" title="Indian reservation">Indian reservation</a></li>
+<li><a href="/wiki/Manor" title="Manor">Manor</a>
+<ul><li><a href="/wiki/Royal_manor" class="mw-redirect" title="Royal manor">Royal</a></li></ul></li>
+<li><a href="/wiki/Muftiate" title="Muftiate">Muftiate</a></li>
+<li><a href="/wiki/Neighbourhood" title="Neighbourhood">Neighbourhood</a></li>
+<li><a href="/wiki/Parish_(administrative_division)" title="Parish (administrative division)">Parish</a></li>
+<li><a href="/wiki/Periphery_(country_subdivision)" class="mw-redirect" title="Periphery (country subdivision)">Periphery</a></li>
+<li><a href="/wiki/Precinct" title="Precinct">Precinct</a></li>
+<li><a href="/wiki/Principality" title="Principality">Principality</a></li>
+<li><a href="/wiki/Protectorate" title="Protectorate">Protectorate</a></li>
+<li><a href="/wiki/Quarter_(urban_subdivision)" title="Quarter (urban subdivision)">Quarter</a></li>
+<li><a href="/wiki/List_of_regencies_and_cities_of_Indonesia" title="List of regencies and cities of Indonesia">Regency</a></li>
+<li><a href="/wiki/Autonomous_republic" title="Autonomous republic">Autonomous republic</a></li>
+<li><a href="/wiki/Riding_(country_subdivision)" title="Riding (country subdivision)">Riding</a></li>
+<li><a href="/wiki/Sector_(country_subdivision)" title="Sector (country subdivision)">Sector</a>
+<ul><li><a href="/wiki/Autonomous_sector" class="mw-redirect" title="Autonomous sector">Autonomous</a></li></ul></li>
+<li><a href="/wiki/Shire" title="Shire">Shire</a></li>
+<li><a href="/wiki/Sultanate" class="mw-redirect" title="Sultanate">Sultanate</a></li>
+<li><a href="/wiki/Suzerainty" title="Suzerainty">Suzerainty</a></li>
+<li><a href="/wiki/Townland" title="Townland">Townland</a></li>
+<li><a href="/wiki/Village" title="Village">Village</a>
+<ul><li><a href="/wiki/Administrative_village" title="Administrative village">Administrative</a></li>
+<li><a href="/wiki/List_of_summer_villages_in_Alberta" title="List of summer villages in Alberta">Summer</a></li></ul></li>
+<li><a class="mw-selflink selflink">Ward</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Historical</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agency_(country_subdivision)" title="Agency (country subdivision)">Agency</a></li>
+<li><a href="/wiki/Barony_(county_division)" title="Barony (county division)">Barony</a></li>
+<li><a href="/wiki/Burgh" title="Burgh">Burgh</a></li>
+<li><a href="/wiki/Exarchate" title="Exarchate">Exarchate</a></li>
+<li><a href="/wiki/Hide_(unit)" title="Hide (unit)">Hide</a></li>
+<li><a href="/wiki/Hundred_(county_division)" title="Hundred (county division)">Hundred</a></li>
+<li><a href="/wiki/Imperial_Circle" title="Imperial Circle">Imperial Circle</a></li>
+<li><a href="/wiki/March_(territorial_entity)" class="mw-redirect" title="March (territorial entity)">March</a></li>
+<li><a href="/wiki/Monthon" title="Monthon">Monthon</a></li>
+<li><a href="/wiki/Presidency_(country_subdivision)" class="mw-redirect" title="Presidency (country subdivision)">Presidency</a></li>
+<li><a href="/wiki/Residency_(country_subdivision)" title="Residency (country subdivision)">Residency</a></li>
+<li><a href="/wiki/Roman_diocese" title="Roman diocese">Roman diocese</a></li>
+<li><a href="/wiki/Seat_(territorial_administrative_unit)" title="Seat (territorial administrative unit)">Seat</a></li>
+<li><a href="/wiki/Tenth_(country_subdivision)" title="Tenth (country subdivision)">Tenth</a></li>
+<li><a href="/wiki/Tithing" title="Tithing">Tithing</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><sup><small>1</small></sup> Used by ten or more countries or having derived terms. Historical derivations in <i>italics</i>.</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Non-English_or_loanwords" style="font-size:114%;margin:0 4em">Non-English or loanwords</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amt_(country_subdivision)" class="mw-redirect" title="Amt (country subdivision)">Amt</a></li>
+<li><a href="/wiki/Bakhsh" title="Bakhsh">Bakhsh</a></li>
+<li><a href="/wiki/Barangay" title="Barangay">Barangay</a></li>
+<li><a href="/wiki/Bezirk" title="Bezirk">Bezirk</a></li>
+<li><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Regierungsbezirk</a></li>
+<li><a href="/wiki/Comune" title="Comune">Comune</a></li>
+<li><a href="/wiki/Frazione" title="Frazione">Frazione</a></li>
+<li><a href="/wiki/Fu_(country_subdivision)" title="Fu (country subdivision)">Fu</a></li>
+<li>Gemeinde
+<ul><li><a href="/wiki/Gemeinde_(Austria)" class="mw-redirect" title="Gemeinde (Austria)">Austria</a></li>
+<li><a href="/wiki/Gemeinde_(Germany)" class="mw-redirect" title="Gemeinde (Germany)">Germany</a></li>
+<li><a href="/wiki/Gemeinde_(South_Tyrol)" class="mw-redirect" title="Gemeinde (South Tyrol)">South Tyrol</a></li>
+<li><a href="/wiki/Gemeinde_(Switzerland)" class="mw-redirect" title="Gemeinde (Switzerland)">Switzerland</a></li></ul></li>
+<li><a href="/wiki/Gemeente" class="mw-redirect" title="Gemeente">Gemeente</a></li>
+<li><a href="/wiki/Gmina" title="Gmina">Gmina</a></li>
+<li><a href="/wiki/Jude%C8%9B" title="Județ">Județ</a></li>
+<li><a href="/wiki/Kampong" title="Kampong">Kampong</a></li>
+<li>Kommun&#160;/&#32;kunta
+<ul><li><a href="/wiki/Municipalities_of_Finland" title="Municipalities of Finland">Finland</a></li>
+<li><a href="/wiki/Municipalities_of_Sweden" title="Municipalities of Sweden">Sweden</a></li></ul></li>
+<li><a href="/wiki/L%C3%A4n" title="Län">Län (Sweden)</a></li>
+<li><a href="/wiki/Regions_of_Finland" title="Regions of Finland">Landskap (Finland)</a></li>
+<li><a href="/wiki/Localit%C3%A0" title="Località">Località</a></li>
+<li><a href="/wiki/Regions_of_Finland" title="Regions of Finland">Maakunta</a></li>
+<li><a href="/wiki/Counties_of_Hungary" title="Counties of Hungary">Megye</a></li>
+<li><a href="/wiki/Muban" title="Muban">Muban</a></li>
+<li><a href="/wiki/Mukim" title="Mukim">Mukim</a></li>
+<li><a href="/wiki/Oblast" title="Oblast">Oblast</a>
+<ul><li><a href="/wiki/Autonomous_oblast" title="Autonomous oblast">Autonomous</a></li></ul></li>
+<li><a href="/wiki/Okrug" title="Okrug">Okrug</a></li>
+<li><a href="/wiki/Provinces_of_Iran" title="Provinces of Iran">Ostān</a></li>
+<li><a href="/wiki/Poblacion" title="Poblacion">Poblacion</a></li>
+<li><a href="/wiki/Purok" title="Purok">Purok</a></li>
+<li><a href="/wiki/Counties_of_Iran" title="Counties of Iran">Shahrestān</a></li>
+<li><a href="/wiki/Sum_(country_subdivision)" title="Sum (country subdivision)">Sum</a></li>
+<li><a href="/wiki/S%C3%BDsla" title="Sýsla">Sýsla</a></li>
+<li><a href="/wiki/Tehsil" title="Tehsil">Tehsil</a></li>
+<li><a href="/wiki/Vingtaine" title="Vingtaine">Vingtaine</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Historical</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Commote" title="Commote">Commote</a></li>
+<li><a href="/wiki/Gau_(territory)" title="Gau (territory)">Gau</a></li>
+<li><a href="/wiki/Heerlijkheid" title="Heerlijkheid">Heerlijkheid</a></li>
+<li><a href="/wiki/K%C3%B6ping" title="Köping">Köping</a></li>
+<li><a href="/wiki/Provinces_of_Finland" title="Provinces of Finland">Län&#160;/&#32;lääni</a></li>
+<li><a href="/wiki/Provinces_of_Sweden" title="Provinces of Sweden">Landskap (Sweden)</a></li>
+<li><a href="/wiki/Maalaiskunta" title="Maalaiskunta">Landskommun</a></li>
+<li><a href="/wiki/Maalaiskunta" title="Maalaiskunta">Maalaiskunta</a></li>
+<li>Nome
+<ul><li><a href="/wiki/Nome_(Egypt)" title="Nome (Egypt)">Egypt</a></li>
+<li><a href="/wiki/Prefectures_of_Greece" title="Prefectures of Greece">Greece</a></li></ul></li>
+<li><a href="/wiki/Pagus" title="Pagus">Pagus</a></li>
+<li><a href="/wiki/Pargana" title="Pargana">Pargana</a></li>
+<li><a href="/wiki/Plas%C4%83" title="Plasă">Plasă</a></li>
+<li><a href="/wiki/Satrap" title="Satrap">Satrapy</a></li>
+<li><a href="/wiki/Socken" title="Socken">Socken</a></li>
+<li><a href="/wiki/Subah" title="Subah">Subah</a></li>
+<li><a href="/wiki/Syssel" title="Syssel">Syssel</a></li>
+<li><a href="/wiki/Zhou_(country_subdivision)" title="Zhou (country subdivision)">Zhou</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks hlist mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Arabic_terms_for_country_subdivisions" title="Template:Arabic terms for country subdivisions"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Arabic_terms_for_country_subdivisions" title="Template talk:Arabic terms for country subdivisions"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Arabic_terms_for_country_subdivisions&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Arabic_terms_for_country_subdivisions" style="font-size:114%;margin:0 4em"><a href="/wiki/Arabic" title="Arabic">Arabic</a> terms for <a href="/wiki/Administrative_division" title="Administrative division">country subdivisions</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">First-level</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Muhafazah" title="Muhafazah">Muhafazah</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">محافظة</span></span> <span style="font-size:90%;">governorate</span>)</li>
+<li><a href="/wiki/Wilayah" title="Wilayah">Wilayah</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">ولاية</span></span> <span style="font-size:90%;">province</span>)</li>
+<li><a href="/wiki/Mintaqah" title="Mintaqah">Mintaqah</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">منطقة</span></span> <span style="font-size:90%;">region</span>)</li>
+<li><a href="/wiki/Mudiriyah" title="Mudiriyah">Mudiriyah</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">مديرية</span></span> <span style="font-size:90%;">directorate</span>)</li>
+<li><a href="/wiki/Emirate" title="Emirate">Imarah</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">إمارة</span></span> <span style="font-size:90%;">emirate</span>)</li>
+<li><a href="/wiki/Baladiyah" title="Baladiyah">Baladiyah</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">بلدية</span></span> <span style="font-size:90%;">municipality</span>)</li>
+<li><a href="/wiki/Shabiyah" title="Shabiyah">Shabiyah</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">شعبية</span></span> <span style="font-size:90%;">"popularate"</span>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Second&#160;/&#32;third-level</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mintaqah" title="Mintaqah">Mintaqah</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">منطقة</span></span> <span style="font-size:90%;">region</span>)</li>
+<li><a href="/wiki/Kaza" title="Kaza">Qadaa</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">قضاء</span></span> <span style="font-size:90%;">district</span>)</li>
+<li><a href="/wiki/Nahiyah" title="Nahiyah">Nahiyah</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">ناحية</span></span> <span style="font-size:90%;">subdistrict</span>)</li>
+<li><a href="/wiki/Markaz_(country_subdivision)" title="Markaz (country subdivision)">Markaz</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">مركز</span></span> <span style="font-size:90%;">district</span>)</li>
+<li><a href="/wiki/Mutamadiyah" title="Mutamadiyah">Mutamadiyah</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">معتمدية</span></span> <span style="font-size:90%;">"delegation"</span>)</li>
+<li><a href="/wiki/Daerah" class="mw-redirect" title="Daerah">Daerah</a>/<a href="/wiki/Da%C3%AFra" title="Daïra">Daïra</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">دائرة</span></span> <span style="font-size:90%;">circle</span>)</li>
+<li><a href="/wiki/Sanjak" title="Sanjak">Liwa</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">لواء</span></span> <span style="font-size:90%;">banner&#160;/&#32;<i><a href="/wiki/Sanjak" title="Sanjak">sanjak</a></i></span>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">City&#160;/&#32;township-level</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amanah_(administrative_subdivision)" title="Amanah (administrative subdivision)">Amanah</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">أمانة</span></span> <span style="font-size:90%;">municipality</span>)</li>
+<li><a href="/wiki/Baladiyah" title="Baladiyah">Baladiyah</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">بلدية</span></span> <span style="font-size:90%;">municipality</span>)</li>
+<li>Ḥai&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">حي</span></span> <span style="font-size:90%;">neighborhood&#160;/&#32;quarter</span>)</li>
+<li><a href="/wiki/Mahallah" title="Mahallah">Mahallah</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">محلة</span></span>)</li>
+<li><a href="/wiki/Village" title="Village">Qarya</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">قرية</span></span>)</li>
+<li><a href="/wiki/Sheyakhah" title="Sheyakhah">Sheyakhah</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">شياخة</span></span> <span style="font-size:90%;">"neighborhood subdivision"</span>)</li>
+<li><a href="/wiki/Local_council_(Israel)" title="Local council (Israel)">Majlis Mahalliyy</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">مجلس محلي</span></span> <span style="font-size:90%;">local council</span>)</li>
+<li><a href="/wiki/Regional_council_(Israel)" title="Regional council (Israel)">Majlis ʾIqlimiyy</a>&#160;(<span style="font-size:140%;"><span lang="ar" dir="rtl" title="Arabic language text">مجلس اقليمي</span></span> <span style="font-size:90%;">regional council</span>)</li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>English translations given are those most commonly used.</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:French_terms_for_country_subdivisions" title="Template:French terms for country subdivisions"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:French_terms_for_country_subdivisions" title="Template talk:French terms for country subdivisions"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:French_terms_for_country_subdivisions&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="French_terms_for_country_subdivisions" style="font-size:114%;margin:0 4em"><a href="/wiki/French_language" title="French language">French</a> terms for <a href="/wiki/Administrative_division" title="Administrative division">country subdivisions</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arrondissement" title="Arrondissement">arrondissement</a></li>
+<li><a href="/wiki/Department_(country_subdivision)" title="Department (country subdivision)">département</a></li>
+<li><a href="/wiki/Prefectures_in_France" title="Prefectures in France">préfecture</a></li>
+<li><a href="/wiki/Subprefectures_in_France" title="Subprefectures in France">subprefectures</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks hlist mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Greek_terms_for_country_subdivisions" title="Template:Greek terms for country subdivisions"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Greek_terms_for_country_subdivisions" title="Template talk:Greek terms for country subdivisions"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Greek_terms_for_country_subdivisions&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Greek_terms_for_country_subdivisions" style="font-size:114%;margin:0 4em"><a href="/wiki/Greek_language" title="Greek language">Greek</a> terms for <a href="/wiki/Administrative_division" title="Administrative division">country subdivisions</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Modern</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Decentralized_administrations_of_Greece" title="Decentralized administrations of Greece">apokentromenes dioikiseis</a> / <a href="/wiki/Governor-general#Greece" title="Governor-general">geniki dioikisis</a><sup>§</sup> / <a href="/wiki/Geographic_regions_of_Greece" title="Geographic regions of Greece">diamerisma</a><sup>§</sup> / <a href="/wiki/Administrative_regions_of_Greece" title="Administrative regions of Greece">periphereia</a></li>
+<li><a href="/wiki/Prefectures_of_Greece" title="Prefectures of Greece">nomos</a><sup>§</sup> / <a href="/wiki/Regional_units_of_Greece" title="Regional units of Greece">periphereiaki enotita</a></li>
+<li><a href="/wiki/Municipalities_and_communities_of_Greece" title="Municipalities and communities of Greece">demos</a> / <a href="/wiki/Provinces_of_Greece" title="Provinces of Greece">eparchia</a><sup>§</sup> / <a href="/wiki/Municipalities_and_communities_of_Greece" title="Municipalities and communities of Greece">koinotita</a><sup>§</sup></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Historical</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Archon" title="Archon">archontia/archontaton</a></li>
+<li><a href="/wiki/Bandon_(Byzantine_Empire)" title="Bandon (Byzantine Empire)">bandon</a></li>
+<li><a href="/wiki/Deme" title="Deme">demos</a></li>
+<li><a href="/wiki/Despot_(court_title)" title="Despot (court title)">despotaton</a></li>
+<li><a href="/wiki/Roman_diocese" title="Roman diocese">dioikesis</a></li>
+<li><a href="/wiki/Dux" title="Dux">doukaton</a></li>
+<li><a href="/wiki/Droungos" title="Droungos">droungos</a></li>
+<li><a href="/wiki/Eparchy" title="Eparchy">eparchia</a></li>
+<li><a href="/wiki/Exarch" title="Exarch">exarchaton</a></li>
+<li><a href="/wiki/Katepano" title="Katepano">katepanikion</a></li>
+<li><a href="/wiki/Kephale_(Byzantine_Empire)" title="Kephale (Byzantine Empire)">kephalatikion</a></li>
+<li><a href="/wiki/Kleisoura_(Byzantine_district)" title="Kleisoura (Byzantine district)">kleisoura</a></li>
+<li><a href="/wiki/Meridarch" title="Meridarch">meris</a></li>
+<li><a href="/wiki/Naucrary" title="Naucrary">naukrareia</a></li>
+<li><a href="/wiki/Satrap" title="Satrap">satrapeia</a></li>
+<li><a href="/wiki/Strategos" title="Strategos">strategis</a></li>
+<li><a href="/wiki/Theme_(Byzantine_district)" title="Theme (Byzantine district)">thema</a></li>
+<li><a href="/wiki/Toparches" title="Toparches">toparchia</a></li>
+<li><a href="/wiki/Turma" title="Turma">tourma</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><sup>§</sup> signifies a defunct institution</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks hlist mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Portuguese_terms_for_country_subdivisions" title="Template:Portuguese terms for country subdivisions"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Portuguese_terms_for_country_subdivisions" title="Template talk:Portuguese terms for country subdivisions"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Portuguese_terms_for_country_subdivisions&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Portuguese_terms_for_country_subdivisions" style="font-size:114%;margin:0 4em"><a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a> terms for <a href="/wiki/Administrative_division" title="Administrative division">country subdivisions</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional subdivisions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Estado" class="mw-redirect" title="Estado">Estado</a></li>
+<li><a href="/wiki/Distrito_federal" class="mw-redirect" title="Distrito federal">Distrito federal</a></li>
+<li><a href="/wiki/Province" title="Province">Província</a></li>
+<li><a href="/wiki/Region" title="Region">Região</a></li>
+<li><a href="/wiki/District" title="District">Distrito</a></li>
+<li><a href="/wiki/Comarca" title="Comarca">Comarca</a></li>
+<li><a href="/wiki/Captaincy" title="Captaincy"><i>Capitania</i></a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Local subdivisions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Munic%C3%ADpio" class="mw-redirect" title="Município">Município</a></li>
+<li><a href="/wiki/Concelho" title="Concelho">Concelho</a></li>
+<li><a href="/wiki/Freguesia" title="Freguesia">Freguesia</a></li>
+<li><a href="/wiki/Communes_of_Angola" title="Communes of Angola">Comuna</a></li>
+<li><a href="/wiki/Electoral_district" title="Electoral district">Circunscrição</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Settlements</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cidade" class="mw-redirect" title="Cidade">Cidade</a></li>
+<li><a href="/wiki/Town" title="Town">Vila</a></li>
+<li><a href="/wiki/Village" title="Village">Aldeia</a></li>
+<li><a href="/wiki/Bairro" title="Bairro">Bairro</a></li>
+<li><a href="/wiki/Lugar_(country_subdivision)" title="Lugar (country subdivision)">Lugar</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li>Historical subdivisions in <i>italics</i>.</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Slavic_terms_for_country_subdivisions" title="Template:Slavic terms for country subdivisions"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Slavic_terms_for_country_subdivisions" title="Template talk:Slavic terms for country subdivisions"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Slavic_terms_for_country_subdivisions&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Slavic_terms_for_country_subdivisions" style="font-size:114%;margin:0 4em"><a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a> terms for <a href="/wiki/Administrative_division" title="Administrative division">country subdivisions</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dzielnica" title="Dzielnica">dzielnica</a></li>
+<li><a href="/wiki/Gmina" title="Gmina">gmina</a></li>
+<li><a href="/wiki/Krai" title="Krai">krai</a></li>
+<li><a href="/wiki/Kraj" title="Kraj">kraj</a></li>
+<li><a href="/wiki/Krajina" title="Krajina">krajina / pokrajina</a></li>
+<li><a href="/wiki/M%C4%9Bstys" title="Městys">městys</a></li>
+<li><a href="/wiki/Obec" title="Obec">obec</a></li>
+<li><a href="/wiki/Oblast" title="Oblast">oblast / oblast' / oblasti / oblys / obwód / voblast'</a></li>
+<li><a href="/wiki/Okr%C4%99g" title="Okręg">okręg</a></li>
+<li><a href="/wiki/Okres" title="Okres">okres</a></li>
+<li><a href="/wiki/Okrug" title="Okrug">okrug</a></li>
+<li><a href="/wiki/Op%C5%A1tina" title="Opština">opština / općina / občina / obshtina</a></li>
+<li><a href="/wiki/Osiedle" title="Osiedle">osiedle</a></li>
+<li><a href="/wiki/Powiat" title="Powiat">powiat / povit</a></li>
+<li><a href="/wiki/Raion" title="Raion">raion</a></li>
+<li><a href="/wiki/Selsoviet" title="Selsoviet">selsoviet / silrada</a></li>
+<li><a href="/wiki/So%C5%82ectwo" title="Sołectwo">sołectwo</a></li>
+<li><a href="/wiki/Voivodeship" title="Voivodeship">voivodeship / vojvodina</a></li>
+<li><a href="/wiki/%C5%BDupanija" title="Županija">županija</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Historical</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Darugha" title="Darugha">darugha</a></li>
+<li><a href="/wiki/Gromada" title="Gromada">gromada</a></li>
+<li><a href="/wiki/Guberniya" class="mw-redirect" title="Guberniya">guberniya / gubernia</a></li>
+<li><a href="/wiki/Jurydyka" title="Jurydyka">jurydyka</a></li>
+<li><a href="/wiki/Khutor" title="Khutor">khutor</a></li>
+<li><a href="/wiki/Obshchina" title="Obshchina">obshchina</a></li>
+<li><a href="/wiki/Okolia" title="Okolia">okolia</a></li>
+<li><a href="/wiki/Opole_(administrative)" title="Opole (administrative)">opole</a></li>
+<li><a href="/wiki/Pogost" title="Pogost">pogost</a></li>
+<li><a href="/wiki/Prowincja" title="Prowincja">prowincja</a></li>
+<li><a href="/wiki/Sorok" title="Sorok">sorok</a></li>
+<li><a href="/wiki/Srez" title="Srez">srez</a></li>
+<li><a href="/wiki/Starostwo" title="Starostwo">starostwo / starostva</a></li>
+<li><a href="/wiki/Uyezd" title="Uyezd">uyezd</a></li>
+<li><a href="/wiki/Volost" title="Volost">volost</a></li>
+<li><a href="/wiki/Ziemia" title="Ziemia">ziemia</a></li>
+<li><a href="/wiki/%C5%BDupa" title="Župa">župa</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks hlist mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Spanish_terms_for_country_subdivisions" title="Template:Spanish terms for country subdivisions"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Spanish_terms_for_country_subdivisions" title="Template talk:Spanish terms for country subdivisions"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Spanish_terms_for_country_subdivisions&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Spanish_terms_for_country_subdivisions" style="font-size:114%;margin:0 4em"><a href="/wiki/Spanish_language" title="Spanish language">Spanish</a> terms for <a href="/wiki/Administrative_division" title="Administrative division">country subdivisions</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">National, Federal</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Autonomous_communities_of_Spain" title="Autonomous communities of Spain">Comunidad autónoma</a></li>
+<li><a href="/wiki/Departamento" title="Departamento">Departamento</a></li>
+<li><a href="/wiki/Distrito_federal" class="mw-redirect" title="Distrito federal">Distrito federal</a></li>
+<li><a href="/wiki/State_(polity)" title="State (polity)">Estado</a></li>
+<li><a href="/wiki/Province" title="Province">Provincia</a></li>
+<li><a href="/wiki/Region" title="Region">Región</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Regional, Metropolitan</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Canton_(country_subdivision)" title="Canton (country subdivision)">Cantón</a></li>
+<li><a href="/wiki/Comarca" title="Comarca">Comarca</a></li>
+<li><a href="/wiki/Communes_of_Chile" title="Communes of Chile">Comuna</a></li>
+<li><a href="/wiki/Corregimiento" title="Corregimiento">Corregimiento</a></li>
+<li><a href="/wiki/Boroughs_of_Mexico" title="Boroughs of Mexico">Delegación</a></li>
+<li><a href="/wiki/District" title="District">Distrito</a></li>
+<li><a href="/wiki/Mancomunidad" title="Mancomunidad">Mancomunidad</a></li>
+<li><i><a href="/wiki/Merindad" title="Merindad">Merindad</a></i></li>
+<li><a href="/wiki/Municipalidad" title="Municipalidad">Municipalidad</a></li>
+<li><a href="/wiki/Municipio" title="Municipio">Municipio</a></li>
+<li><a href="/wiki/Parroquia" title="Parroquia">Parroquia</a>
+<ul><li><a href="/wiki/Parishes_of_Ecuador" title="Parishes of Ecuador">Ecuador</a></li>
+<li><a href="/wiki/Parroquia_(Spain)" title="Parroquia (Spain)">Spain</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Urban, Rural</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hamlet_(place)" title="Hamlet (place)">Aldea</a></li>
+<li><a href="/wiki/Alqueria" title="Alqueria">Alquería</a></li>
+<li><i><a href="/wiki/Elizate" title="Elizate">Anteiglesia</a></i></li>
+<li><a href="/wiki/Asentamiento" title="Asentamiento">Asentamiento</a>
+<ul><li><a href="/wiki/Shanty_town" title="Shanty town">Asentamiento informal</a></li>
+<li><a href="/wiki/Pueblos_j%C3%B3venes" title="Pueblos jóvenes">Pueblos jóvenes</a></li></ul></li>
+<li><a href="/wiki/Barrio" title="Barrio">Barrio</a></li>
+<li><a href="/wiki/Campamento_(Chile)" title="Campamento (Chile)">Campamento</a></li>
+<li><a href="/wiki/Hamlet_(place)" title="Hamlet (place)">Caserío</a></li>
+<li><a href="/wiki/City" title="City">Ciudad</a>
+<ul><li><a href="/wiki/Autonomous_city" title="Autonomous city">Ciudad autónoma</a></li></ul></li>
+<li><a href="/wiki/Colonia_(Mexico)" title="Colonia (Mexico)">Colonia</a></li>
+<li><a href="/wiki/Lugar_(country_subdivision)" title="Lugar (country subdivision)">Lugar</a></li>
+<li><a href="/wiki/Masia" title="Masia">Masía</a></li>
+<li><a href="/w/index.php?title=Pedan%C3%ADa&amp;action=edit&amp;redlink=1" class="new" title="Pedanía (page does not exist)">Pedanía</a></li>
+<li><a href="/wiki/Poblacion" title="Poblacion">Población</a></li>
+<li><a href="/wiki/Rancher%C3%ADa" title="Ranchería">Ranchería</a></li>
+<li><a href="/wiki/Sitio" title="Sitio">Sitio</a></li>
+<li><a href="/wiki/Vereda" title="Vereda">Vereda</a></li>
+<li><a href="/wiki/Villa" title="Villa">Villa</a></li>
+<li><a href="/wiki/Village" title="Village">Village (Pueblito/Pueblo)</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li>Historical subdivisions in <i>italics</i>.</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible autocollapse navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Turkish_terms_for_country_subdivisions" title="Template:Turkish terms for country subdivisions"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Turkish_terms_for_country_subdivisions" title="Template talk:Turkish terms for country subdivisions"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Turkish_terms_for_country_subdivisions&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Turkish_terms_for_country_subdivisions" style="font-size:114%;margin:0 4em"><a href="/wiki/Turkish_language" title="Turkish language">Turkish</a> terms for <a href="/wiki/Administrative_division" title="Administrative division">country subdivisions</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Modern</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Provinces_of_Turkey" title="Provinces of Turkey">il</a> (province)</li>
+<li><a href="/wiki/Il%C3%A7e" class="mw-redirect" title="Ilçe">ilçe</a> (district)</li>
+<li><a href="/wiki/City" title="City">şehir</a> (city)</li>
+<li><a href="/wiki/Town" title="Town">kasaba</a> (town)</li>
+<li><a href="/wiki/Belediye" class="mw-redirect" title="Belediye">belediye</a> (municipality)</li>
+<li><a href="/wiki/Belde" title="Belde">belde</a> (community)</li>
+<li><a href="/wiki/K%C3%B6y" class="mw-redirect" title="Köy">köy</a> (village)</li>
+<li><a href="/wiki/Mahalle" title="Mahalle">mahalle</a> (neighbourhood/quarter)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Historical</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agaluk" title="Agaluk">ağalık</a> (feudal district)</li>
+<li><a href="/wiki/Bucak_(administrative_unit)" title="Bucak (administrative unit)">bucak</a> (subdistrict)</li>
+<li><a href="/wiki/Eyalet" title="Eyalet">beylerbeylik</a> (province)</li>
+<li><a href="/wiki/Kadiluk" title="Kadiluk">kadılık</a> (subprovince)</li>
+<li><a href="/wiki/Kaza" title="Kaza">kaza</a> (sub-province)</li>
+<li><a href="/wiki/Khedivate_of_Egypt" title="Khedivate of Egypt">hidivlik</a> (viceroyalty)</li>
+<li><a href="/wiki/Mutasarr%C4%B1f" title="Mutasarrıf">mutasarrıflık</a> (subprovince)</li>
+<li><a href="/wiki/Nahiya" class="mw-redirect" title="Nahiya">nahiye</a> (nahiyah)</li>
+<li><a href="/wiki/Pashalik" class="mw-redirect" title="Pashalik">paşalık</a> (province)</li>
+<li><a href="/wiki/Raya_(country_subdivision)" title="Raya (country subdivision)">reya</a> (Romanian principalities)</li>
+<li><a href="/wiki/Sanjak" title="Sanjak">sancak</a> (prefecture)</li>
+<li><a href="/wiki/Vilayet" title="Vilayet">vilayet</a> (province)</li>
+<li><a href="/wiki/Voivodeship" title="Voivodeship">voyvodalık</a> (Romanian provinces)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Census_division" title="Census division">Census division</a>, <a href="/wiki/Electoral_district" title="Electoral district">Electoral district</a>, <a href="/wiki/Political_division" class="mw-redirect" title="Political division">Political division</a>, and <a href="/wiki/List_of_administrative_divisions_by_country" title="List of administrative divisions by country">List of administrative divisions by country</a></div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1238
+Cached time: 20190914213144
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.900 seconds
+Real time usage: 1.099 seconds
+Preprocessor visited node count: 1843/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 242425/2097152 bytes
+Template argument size: 5498/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1558/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.486/10.000 seconds
+Lua memory usage: 12.68 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  805.205      1 -total
+ 72.38%  582.816      1 Template:Terms_for_types_of_country_subdivisions
+ 71.61%  576.586      1 Template:Navbox_with_collapsible_groups
+ 61.73%  497.016     10 Template:Navbox
+ 53.07%  427.291      1 Template:Arabic_terms_for_country_subdivisions
+ 49.74%  400.488     42 Template:Resize
+ 47.98%  386.306     22 Template:Lang
+ 19.62%  158.008      1 Template:Refimprove
+ 13.89%  111.870      1 Template:Ambox
+  5.04%   40.613      1 Template:Where
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3283310-0!canonical and timestamp 20190914213143 and revision id 874283470
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ward_(electoral_subdivision)&amp;oldid=874283470">https://en.wikipedia.org/w/index.php?title=Ward_(electoral_subdivision)&amp;oldid=874283470</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wards" title="Category:Wards">Wards</a></li><li><a href="/wiki/Category:Types_of_country_subdivisions" title="Category:Types of country subdivisions">Types of country subdivisions</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2017" title="Category:Articles needing additional references from December 2017">Articles needing additional references from December 2017</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_geographic_scope_from_January_2018" title="Category:Vague or ambiguous geographic scope from January 2018">Vague or ambiguous geographic scope from January 2018</a></li><li><a href="/wiki/Category:All_articles_with_links_needing_disambiguation" title="Category:All articles with links needing disambiguation">All articles with links needing disambiguation</a></li><li><a href="/wiki/Category:Articles_with_links_needing_disambiguation_from_September_2019" title="Category:Articles with links needing disambiguation from September 2019">Articles with links needing disambiguation from September 2019</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ward+%28electoral+subdivision%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ward+%28electoral+subdivision%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ward_(electoral_subdivision)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Ward_(electoral_subdivision)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ward_(electoral_subdivision)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ward_(electoral_subdivision)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ward_(electoral_subdivision)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ward_(electoral_subdivision)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ward_(electoral_subdivision)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ward_(electoral_subdivision)&amp;oldid=874283470" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ward_(electoral_subdivision)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1195098" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ward_%28electoral_subdivision%29&amp;id=874283470" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ward+%28electoral+subdivision%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ward+%28electoral+subdivision%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ward_(electoral_subdivision)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Kieswyk" title="Kieswyk – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-bh"><a href="https://bh.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1" title="वार्ड – Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target">भोजपुरी</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Ward_(valgkreds)" title="Ward (valgkreds) – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ward_(Verwaltungseinheit)" title="Ward (Verwaltungseinheit) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9B%8C%EB%93%9C_(%ED%96%89%EC%A0%95_%EA%B5%AC%EC%97%AD)" title="워드 (행정 구역) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Mazaba" title="Mazaba – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A5%89%E0%A4%B0%E0%A5%8D%E0%A4%A1_(%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97)" title="वॉर्ड (प्रशासनिक विभाग) – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ward_(suddivisione_elettorale)" title="Ward (suddivisione elettorale) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Kata_(eneo)" title="Kata (eneo) – Swahili" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-mai"><a href="https://mai.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A1_(%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BE%E0%A4%B8%E0%A4%A8%E0%A4%BF%E0%A4%95_%E0%A4%B5%E0%A4%BF%E0%A4%AD%E0%A4%BE%E0%A4%97)" title="वार्ड (प्रशासनिक विभाग) – Maithili" lang="mai" hreflang="mai" class="interlanguage-link-target">मैथिली</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Ward_(deelgebied)" title="Ward (deelgebied) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%B5%E0%A4%A1%E0%A4%BE" title="वडा – Nepali" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Bydel" title="Bydel – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Obw%C3%B3d_g%C5%82osowania" title="Obwód głosowania – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ward_(subdivis%C3%A3o_eleitoral)" title="Ward (subdivisão eleitoral) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Ward_(administrativ_enhet)" title="Ward (administrativ enhet) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%88%D8%A7%D8%B1%DA%88_(%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%DB%8C_%D8%B0%DB%8C%D9%84%DB%8C_%D8%AA%D9%82%D8%B3%DB%8C%D9%85)" title="وارڈ (انتخابی ذیلی تقسیم) – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ph%C6%B0%E1%BB%9Dng" title="Phường – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1195098#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 18 December 2018, at 07:46<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ward_(electoral_subdivision)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.900","walltime":"1.099","ppvisitednodes":{"value":1843,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":242425,"limit":2097152},"templateargumentsize":{"value":5498,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1558,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  805.205      1 -total"," 72.38%  582.816      1 Template:Terms_for_types_of_country_subdivisions"," 71.61%  576.586      1 Template:Navbox_with_collapsible_groups"," 61.73%  497.016     10 Template:Navbox"," 53.07%  427.291      1 Template:Arabic_terms_for_country_subdivisions"," 49.74%  400.488     42 Template:Resize"," 47.98%  386.306     22 Template:Lang"," 19.62%  158.008      1 Template:Refimprove"," 13.89%  111.870      1 Template:Ambox","  5.04%   40.613      1 Template:Where"]},"scribunto":{"limitreport-timeusage":{"value":"0.486","limit":"10.000"},"limitreport-memusage":{"value":13295691,"limit":52428800}},"cachereport":{"origin":"mw1238","timestamp":"20190914213144","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ward (electoral subdivision)","url":"https:\/\/en.wikipedia.org\/wiki\/Ward_(electoral_subdivision)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1195098","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1195098","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-11-30T16:16:06Z","dateModified":"2018-12-18T07:46:36Z","headline":"subdivision of a local government unit, used for electoral purposes"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1321"});});</script>
+</body>
+</html>
+

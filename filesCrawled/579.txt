@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Cobblestone - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Cobblestone","wgTitle":"Cobblestone","wgCurRevisionId":907856287,"wgRevisionId":907856287,"wgArticleId":590687,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from September 2008","All articles needing additional references","Use dmy dates from March 2014","Articles needing additional references from March 2013","Cobblestone architecture","Cobbled streets","Building stone","Natural materials","Pavements","Stone"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],
+"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Cobblestone","wgRelevantArticleId":590687,"wgRequestId":"XZDFtQpAAEMAAJDTPu4AAAAK","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2996907","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
+"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/be/Ancient_road_surface.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Cobblestone"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Cobblestone&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Cobblestone&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Cobblestone"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Cobblestone rootpage-Cobblestone skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Cobblestone</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Cobblestone_(disambiguation)" class="mw-disambig" title="Cobblestone (disambiguation)">Cobblestone (disambiguation)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">"Cobbled" redirects here. It is not to be confused with <a href="/wiki/Shoemaking" title="Shoemaking">shoemaking</a>, <a href="/wiki/Tinkering" class="mw-redirect" title="Tinkering">tinkering</a>, or <a href="/wiki/Cobbler_(disambiguation)" class="mw-redirect mw-disambig" title="Cobbler (disambiguation)">cobbler</a>.</div>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Cobblestone&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Cobblestone%22">"Cobblestone"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Cobblestone%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Cobblestone%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Cobblestone%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Cobblestone%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Cobblestone%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">September 2008</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p class="mw-empty-elt">
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ancient_road_surface.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ancient_road_surface.jpg/220px-Ancient_road_surface.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ancient_road_surface.jpg/330px-Ancient_road_surface.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ancient_road_surface.jpg/440px-Ancient_road_surface.jpg 2x" data-file-width="1200" data-file-height="900" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Ancient_road_surface.jpg" class="internal" title="Enlarge"></a></div>Cobblestones in <a href="/wiki/Imola" title="Imola">Imola</a>, Italy.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:London_Cab_of_1823,_with_curtain_drawn.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/London_Cab_of_1823%2C_with_curtain_drawn.png/220px-London_Cab_of_1823%2C_with_curtain_drawn.png" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/London_Cab_of_1823%2C_with_curtain_drawn.png/330px-London_Cab_of_1823%2C_with_curtain_drawn.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/London_Cab_of_1823%2C_with_curtain_drawn.png/440px-London_Cab_of_1823%2C_with_curtain_drawn.png 2x" data-file-width="653" data-file-height="437" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:London_Cab_of_1823,_with_curtain_drawn.png" class="internal" title="Enlarge"></a></div>A <a href="/wiki/Cabriolet_(carriage)" title="Cabriolet (carriage)">cabriolet</a> on wet, slippery London cobblestones in 1823.</div></div></div><p><b>Cobblestone</b> is a natural building material based on <a href="/wiki/Cobble_(geology)" title="Cobble (geology)">cobble</a>-sized stones, and is used for <a href="/wiki/Road_surface" title="Road surface">pavement roads</a>, streets, and buildings.
+</p><p><a href="/wiki/Sett_(paving)" title="Sett (paving)">Setts</a>, also called Belgian blocks, are often casually referred to as "cobbles",<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> although a sett is distinct from a cobblestone by being quarried or shaped to a regular form, whereas cobblestone is generally of a naturally occurring form and is less uniform in size.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Use_in_roading"><span class="tocnumber">1</span> <span class="toctext">Use in roading</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Use_today"><span class="tocnumber">1.1</span> <span class="toctext">Use today</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Use_in_architecture"><span class="tocnumber">2</span> <span class="toctext">Use in architecture</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Use_in_cycling"><span class="tocnumber">3</span> <span class="toctext">Use in cycling</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Use_in_roading">Use in roading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cobblestone&amp;action=edit&amp;section=1" title="Edit section: Use in roading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Cobblestones are typically either set in sand or similar material, or are bound together with <a href="/wiki/Mortar_(masonry)" title="Mortar (masonry)">mortar</a>. Paving with cobblestones allows a road to be heavily used all year long. It prevents the build-up of <a href="/wiki/Rut_(roads)" title="Rut (roads)">ruts</a> often found in <a href="/wiki/Dirt_road" title="Dirt road">dirt roads</a>. It has the additional advantage of not getting muddy in wet weather or dusty in dry weather. Shod horses are also able to get better traction on stone cobbles, pitches or setts than tarmac or asphalt. The fact that <a href="/wiki/Carriage" title="Carriage">carriage</a> <a href="/wiki/Wheel" title="Wheel">wheels</a>, <a href="/wiki/Horse" title="Horse">horse</a> <a href="/wiki/Hooves" class="mw-redirect" title="Hooves">hooves</a> and even modern automobiles make a lot of noise when rolling over cobblestone paving might be thought a disadvantage, but it has the advantage of warning pedestrians of their approach. In England, the custom was to strew the cobbles outside the house of a sick or dying person with straw to dampen the sound.
+</p><p>Cobblestones set in sand have the environmental advantage of being <a href="/wiki/Permeable_paving" title="Permeable paving">permeable paving</a>, and of moving rather than cracking with movements in the ground.
+</p>
+<h3><span class="mw-headline" id="Use_today">Use today</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cobblestone&amp;action=edit&amp;section=2" title="Edit section: Use today">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cobblestones were largely replaced by quarried granite <a href="/wiki/Sett_(paving)" title="Sett (paving)">setts</a> (also known as Belgian block<sup id="cite_ref-belgianblock_2-0" class="reference"><a href="#cite_note-belgianblock-2">&#91;2&#93;</a></sup>) in the nineteenth century. The word cobblestone is often used to describe such treatment. Setts were relatively even and roughly rectangular stones that were laid in regular patterns. They gave a smoother ride for carts than cobbles, although in heavily used sections, such as in yards and the like, the usual practice was to replace the setts by parallel granite slabs set apart by the standard axle length of the time.
+</p><p>
+In England, it was commonplace since ancient times for flat stones with a flat narrow edge to be set on edge to provide an even paved surface. This was known as a 'pitched' surface and was common all over Britain, as it did not require rounded pebbles. Pitched surfaces predate the use of regularly-sized granite setts by more than a thousand years. Such pitched paving is quite distinct from that formed from rounded stones, although both forms are commonly referred to as 'cobbled' surfaces. Most surviving genuinely old 'cobbled' areas are in reality pitched surfaces. A cobbled area is known as a "causey", "cassay" or "cassie" in <a href="/wiki/Scots_language" title="Scots language">Scots</a> (probably from <i>causeway</i>).<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></p><div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:ItalianStones.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/ItalianStones.jpg/220px-ItalianStones.jpg" decoding="async" width="220" height="330" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/1/10/ItalianStones.jpg 1.5x" data-file-width="320" data-file-height="480" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:ItalianStones.jpg" class="internal" title="Enlarge"></a></div>Italian cobblestone-covered street in <a href="/wiki/Isolabella,_Turin" title="Isolabella, Turin">Isola Bella</a>. Cobblestones such as these are designed for horses to get a good grip.</div></div></div>
+<p>Cobblestoned and "setted" streets gradually gave way to <a href="/wiki/Macadam" title="Macadam">macadam</a> roads, and later to <a href="/wiki/Tarmacadam" title="Tarmacadam">tarmac</a>, and finally to <a href="/wiki/Asphalt_concrete" title="Asphalt concrete">asphalt concrete</a> at the beginning of the 20th century. However, cobble&#173;stones are often retained in historic areas, even for streets with modern vehicular traffic. Many older villages and cities in <a href="/wiki/Europe" title="Europe">Europe</a> are still paved with cobblestones or pitched.
+</p><p>In recent decades, cobblestones have become a popular material for paving newly <a href="/wiki/Pedestrian" title="Pedestrian">pedestrianised</a> streets in Europe. In this case, the noisy nature of the surface is an advantage as pedestrians can hear approaching vehicles. The visual cues of the cobblestones also clarify that the area is more than just a normal street.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> The use of cobblestones/setts is also considered to be a more "upmarket" roadway solution, having been described as "unique and artistic" compared to the normal asphalt road environment.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>In older U.S. cities such as <a href="/wiki/Philadelphia" title="Philadelphia">Philadelphia</a>, <a href="/wiki/Boston" title="Boston">Boston</a>, <a href="/wiki/Pittsburgh" title="Pittsburgh">Pittsburgh</a>,<sup id="cite_ref-belgianblock_2-1" class="reference"><a href="#cite_note-belgianblock-2">&#91;2&#93;</a></sup> <a href="/wiki/New_York_City" title="New York City">New York City</a>, <a href="/wiki/Chicago" title="Chicago">Chicago</a>, <a href="/wiki/San_Francisco" title="San Francisco">San Francisco</a>, <a href="/wiki/New_Castle,_Delaware" title="New Castle, Delaware">New Castle</a>, <a href="/wiki/Portland,_Maine" title="Portland, Maine">Portland (Maine)</a>, <a href="/wiki/Baltimore" title="Baltimore">Baltimore</a>, <a href="/wiki/Charleston,_South_Carolina" title="Charleston, South Carolina">Charleston</a>, and <a href="/wiki/New_Orleans" title="New Orleans">New Orleans</a>, many of the older streets are paved in cobblestones and setts (mostly setts); however, many such streets have been paved over with asphalt, which can crack and erode away due to heavy traffic, thus revealing the original stone pavement.
+</p><p>In some places such as <a href="/wiki/Saskatoon,_Saskatchewan" class="mw-redirect" title="Saskatoon, Saskatchewan">Saskatoon, Saskatchewan</a>, <a href="/wiki/Canada" title="Canada">Canada</a>, as late as the 1990s some busy intersections still showed cobblestones through worn down sections of pavement. In Toronto streets using setts were used by streetcar routes and disappeared by the 1980s, but are still found in the <a href="/wiki/Distillery_District" title="Distillery District">Distillery District</a>.
+</p><p>Many cities in Latin America, such as <a href="/wiki/Buenos_Aires" title="Buenos Aires">Buenos Aires</a>, <a href="/wiki/Argentina" title="Argentina">Argentina</a>; <a href="/wiki/Zacatecas,_Zacatecas" class="mw-redirect" title="Zacatecas, Zacatecas">Zacatecas</a> and <a href="/wiki/Guanajuato,_Guanajuato" class="mw-redirect" title="Guanajuato, Guanajuato">Guanajuato</a>, in <a href="/wiki/Mexico" title="Mexico">Mexico</a>; <a href="/wiki/Old_San_Juan" title="Old San Juan">Old San Juan</a>, <a href="/wiki/Puerto_Rico" title="Puerto Rico">Puerto Rico</a>; <a href="/wiki/Philippines" title="Philippines">Philippines</a>, <a href="/wiki/Vigan" title="Vigan">Vigan</a>; and <a href="/wiki/Montevideo" title="Montevideo">Montevideo</a>, <a href="/wiki/Uruguay" title="Uruguay">Uruguay</a>, are well known for their many cobblestone streets, which are still operational and in good condition. They are still maintained and repaired the traditional manner, by placing and arranging granite stones by hand.
+</p><p>In the <a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a>, there are old cobblestone paths with colored <a href="/wiki/Marble" title="Marble">marbles</a> and <a href="/wiki/Limestone" title="Limestone">limestones</a>. The design with three colors (red/limestone, black/limestone, white/marble) has a long tradition in <a href="/wiki/Bohemia" title="Bohemia">Bohemia</a>. The cubes of the old ways are handmade.
+</p>
+<h2><span class="mw-headline" id="Use_in_architecture">Use in architecture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cobblestone&amp;action=edit&amp;section=3" title="Edit section: Use in architecture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Alexander_Classical_School,_Alexander,_NY.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Alexander_Classical_School%2C_Alexander%2C_NY.jpg/220px-Alexander_Classical_School%2C_Alexander%2C_NY.jpg" decoding="async" width="220" height="161" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Alexander_Classical_School%2C_Alexander%2C_NY.jpg/330px-Alexander_Classical_School%2C_Alexander%2C_NY.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Alexander_Classical_School%2C_Alexander%2C_NY.jpg/440px-Alexander_Classical_School%2C_Alexander%2C_NY.jpg 2x" data-file-width="3468" data-file-height="2532" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Alexander_Classical_School,_Alexander,_NY.jpg" class="internal" title="Enlarge"></a></div>The Alexander Classical School three-story cobblestone building in Alexander, New York.</div></div></div>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Cobblestone_architecture" title="Cobblestone architecture">Cobblestone architecture</a></div>
+<p>In the <a href="/wiki/Finger_Lakes" title="Finger Lakes">Finger Lakes</a> Region of New York State, the retreat of the glaciers during the last ice age left numerous small, rounded cobblestones available for building.  Pre-Civil War architecture in the region made heavy use of cobblestones for walls.  Today, the fewer than 600 remaining cobblestone buildings are prized as historic locations, most of them private homes. They are clustered south of Lake Ontario, between Buffalo and Syracuse. There is also a cluster of cobblestone buildings in the Town of <a href="/wiki/Paris,_Ontario" title="Paris, Ontario">Paris</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a>. In addition to homes, cobblestones were used to build barns, stagecoach taverns, smokehouses, stores, churches, schools, factories, and cemetery markers.
+</p><p>The only public cobblestone building in the US is the <a href="/wiki/Alexander_Classical_School" title="Alexander Classical School">Alexander Classical School</a>, located in <a href="/wiki/Alexander_(village),_New_York" title="Alexander (village), New York">Alexander, New York</a>.
+</p>
+<h2><span class="mw-headline" id="Use_in_cycling">Use in cycling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cobblestone&amp;action=edit&amp;section=4" title="Edit section: Use in cycling">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Cobblestone&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small class="date-container"><i>(<span class="date">March 2013</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>In cycling road races, cobblestones are used as an additional difficulty for the riders. It requires a certain skill to ride cobblestones efficiently, without falling or getting a flat tire. <a href="/wiki/Tour_of_Flanders" title="Tour of Flanders">Tour of Flanders</a> and <a href="/wiki/Paris%E2%80%93Roubaix" title="Paris–Roubaix">Paris–Roubaix</a> are notable <a href="/wiki/Cobbled_classics" title="Cobbled classics">cobbled classics</a>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cobblestone&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Calade" title="Calade">Calade</a>, a harmonious, decorative arrangement of medium-sized pebbles, fixed to the ground</li>
+<li><a href="/wiki/Flagstone" title="Flagstone">Flagstone</a></li>
+<li><a href="/wiki/Portuguese_pavement" title="Portuguese pavement">Portuguese pavement</a></li>
+<li><a href="/wiki/Sett_(paving)" title="Sett (paving)">Sett</a> (erroneously named cobblestone)</li>
+<li><a href="/wiki/List_of_cobblestone_streets" title="List of cobblestone streets">List of cobblestone streets</a></li>
+<li><a href="/wiki/List_of_cobblestone_buildings" title="List of cobblestone buildings">List of cobblestone buildings</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cobblestone&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://oxforddictionaries.com/definition/cobble?region=uk">"Cobble"</a>. <i><a href="/wiki/Oxford_English_Dictionary" title="Oxford English Dictionary">Oxford English Dictionary</a></i>. <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a><span class="reference-accessdate">. Retrieved <span class="nowrap">4 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Oxford+English+Dictionary&amp;rft.atitle=Cobble&amp;rft_id=http%3A%2F%2Foxforddictionaries.com%2Fdefinition%2Fcobble%3Fregion%3Duk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACobblestone" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-belgianblock-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-belgianblock_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-belgianblock_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Potter, Chris (14 October 2004). <a rel="nofollow" class="external text" href="http://www.pittsburghcitypaper.ws/gyrobase/Content?oid=oid%3A27568">"Were Pittsburgh's original finished roads and streets paved with cobblestone, Belgian block or some other type of brick?"</a>. <i><a href="/wiki/Pittsburgh_City_Paper" title="Pittsburgh City Paper">Pittsburgh City Paper</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 September</span> 2009</span>. <q>In fact, Belgian block refers not to the type of stone but the way it is cut: in rectangles. People often refer to roads paved this way as "cobblestone streets," but that isn't strictly correct. Cobblestones are rounded, typically because they've been worn smooth by rivers. They might be hell to drive on, but they were cheap: you could just dredge them up from the river...</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Pittsburgh+City+Paper&amp;rft.atitle=Were+Pittsburgh%27s+original+finished+roads+and+streets+paved+with+cobblestone%2C+Belgian+block+or+some+other+type+of+brick%3F&amp;rft.date=2004-10-14&amp;rft.aulast=Potter&amp;rft.aufirst=Chris&amp;rft_id=http%3A%2F%2Fwww.pittsburghcitypaper.ws%2Fgyrobase%2FContent%3Foid%3Doid%253A27568&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACobblestone" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Scottish National Dictionary Association (1999) <i>Concise Scots Dictionary </i>. Edinburgh, Polygon. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-902930-01-0" title="Special:BookSources/1-902930-01-0">1-902930-01-0</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.salemnews.com/local/x2036003030/Architect-Open-Salem-pedestrian-mall-to-cars-parking">"Architect: Open Salem pedestrian mall to cars, parking"</a>. <i>The Salem News</i>. 13 April 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Salem+News&amp;rft.atitle=Architect%3A+Open+Salem+pedestrian+mall+to+cars%2C+parking&amp;rft.date=2011-04-13&amp;rft_id=http%3A%2F%2Fwww.salemnews.com%2Flocal%2Fx2036003030%2FArchitect-Open-Salem-pedestrian-mall-to-cars-parking&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACobblestone" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Frances Page, Cecilia (2010). <i>Authentic Insights</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Authentic+Insights&amp;rft.date=2010&amp;rft.aulast=Frances+Page&amp;rft.aufirst=Cecilia&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACobblestone" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Cobblestone&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.cobblestonemuseum.org">The Cobblestone Society &amp; Museum - Albion, New York</a></li></ul>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Cobblestone" class="extiw" title="commons:Cobblestone">Cobblestone</a></b></i>.</td></tr>
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Streets_and_roadways" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Road_types" title="Template:Road types"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Road_types" title="Template talk:Road types"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Road_types&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Streets_and_roadways" style="font-size:114%;margin:0 4em">Streets and roadways</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Types_of_road" title="Types of road">Types of road</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Limited-access_road" title="Limited-access road">Limited-access</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Controlled-access_highway" title="Controlled-access highway">Freeway&#160;/&#32;Motorway</a></li>
+<li><a href="/wiki/Dual_carriageway" title="Dual carriageway">Dual carriageway&#160;/&#32;Divided highway&#160;/&#32;Expressway</a></li>
+<li><a href="/wiki/Elevated_highway" title="Elevated highway">Elevated highway</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Limited-access_roads_by_country" title="Category:Limited-access roads by country">By country</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Highways_in_Australia" title="Highways in Australia">Australia</a></li>
+<li><a href="/wiki/Brazilian_Highway_System" title="Brazilian Highway System">Brazil</a></li>
+<li><a href="/wiki/Roads_in_Canada" title="Roads in Canada">Canada</a></li>
+<li><a href="/wiki/Expressways_of_China" title="Expressways of China">China</a></li>
+<li><a href="/wiki/Highways_in_Croatia" title="Highways in Croatia">Croatia</a></li>
+<li><a href="/wiki/Highways_in_the_Czech_Republic" title="Highways in the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Autobahn" title="Autobahn">Germany</a></li>
+<li><a href="/wiki/Highways_in_Greece" title="Highways in Greece">Greece</a></li>
+<li><a href="/wiki/List_of_streets_and_roads_in_Hong_Kong" title="List of streets and roads in Hong Kong">Hong Kong</a></li>
+<li><a href="/wiki/Roads_in_India" title="Roads in India">India</a></li>
+<li><a href="/wiki/High-quality_dual_carriageway" title="High-quality dual carriageway">Ireland</a></li>
+<li><a href="/wiki/Autostrade_of_Italy" title="Autostrade of Italy">Italy</a></li>
+<li><a href="/wiki/Roads_in_Pakistan" title="Roads in Pakistan">Pakistan</a></li>
+<li><a href="/wiki/Roads_in_Portugal" title="Roads in Portugal">Portugal</a></li>
+<li><a href="/wiki/Highways_in_Spain" title="Highways in Spain">Spain</a></li>
+<li><a href="/wiki/Highway_system_in_Taiwan" title="Highway system in Taiwan">Taiwan</a></li>
+<li><a href="/wiki/Roads_in_the_United_Kingdom" title="Roads in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Numbered_highways_in_the_United_States" title="Numbered highways in the United States">United States</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Main roads</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arterial_road" title="Arterial road">Arterial road</a></li>
+<li><a href="/wiki/Collector_road" title="Collector road">Collector road</a></li>
+<li><a href="/wiki/County_highway" title="County highway">County highway</a></li>
+<li><a href="/wiki/Local-express_lanes" title="Local-express lanes">Express-collector setup</a></li>
+<li><a href="/wiki/Farm-to-market_road" title="Farm-to-market road">Farm-to-market road</a></li>
+<li><a href="/wiki/Highway" title="Highway">Highway</a></li>
+<li><a href="/wiki/Link_road" title="Link road">Link road</a></li>
+<li><a href="/wiki/Two-lane_expressway" title="Two-lane expressway">Two-lane expressway</a></li>
+<li><a href="/wiki/2%2B1_road" title="2+1 road">2+1 road</a></li>
+<li><a href="/wiki/2%2B2_road" title="2+2 road">2+2 road</a></li>
+<li><a href="/wiki/Parkway" title="Parkway">Parkway</a></li>
+<li><a href="/wiki/Ring_road" title="Ring road">Ring road</a></li>
+<li><a href="/wiki/Super_two" title="Super two">Super two</a></li>
+<li><a href="/wiki/Trunk_road" title="Trunk road">Trunk road</a></li>
+<li><a href="/wiki/Highway_systems_by_country" title="Highway systems by country">Highway systems by country</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Local roads</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alley" title="Alley">Alley</a></li>
+<li><a href="/wiki/Backroad" title="Backroad">Backroad</a></li>
+<li><a href="/wiki/Bicycle_boulevard" title="Bicycle boulevard">Bicycle boulevard</a></li>
+<li><a href="/wiki/Boulevard" title="Boulevard">Boulevard</a></li>
+<li><a href="/wiki/Country_lane" title="Country lane">Country lane</a></li>
+<li><a href="/wiki/Dead_end_(street)" title="Dead end (street)">Dead end</a></li>
+<li><a href="/wiki/Driveway" title="Driveway">Driveway</a></li>
+<li><a href="/wiki/Frontage_road" title="Frontage road">Frontage road</a></li>
+<li><a href="/wiki/Green_lane_(road)" title="Green lane (road)">Green lane</a></li>
+<li><a href="/wiki/Main_Street" title="Main Street">Main street</a></li>
+<li><a href="/wiki/Primitive_road" title="Primitive road">Primitive road</a></li>
+<li><a href="/wiki/Road" title="Road">Road</a></li>
+<li><a href="/wiki/Side_road" title="Side road">Side road</a></li>
+<li><a href="/wiki/Single_carriageway" title="Single carriageway">Single carriageway</a></li>
+<li><a href="/wiki/Single-track_road" title="Single-track road">Single-track road</a></li>
+<li><a href="/wiki/Street" title="Street">Street</a></li>
+<li><a href="/wiki/Sunken_lane" title="Sunken lane">Sunken lane</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other terms</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Channelization_(roads)" title="Channelization (roads)">Channelization</a></li>
+<li><a href="/wiki/Concurrency_(road)" title="Concurrency (road)">Concurrency</a></li>
+<li><a href="/wiki/Detour" title="Detour">Detour</a></li>
+<li><a href="/wiki/Hierarchy_of_roads" title="Hierarchy of roads">Hierarchy of roads</a></li>
+<li><a href="/wiki/Private_highway" title="Private highway">Private highway</a></li>
+<li><a href="/wiki/Route_number" title="Route number">Route number</a>
+<ul><li><a href="/wiki/Special_route" title="Special route">Special route</a></li>
+<li><a href="/wiki/Business_route" title="Business route">Business route</a></li></ul></li>
+<li><a href="/wiki/Street_hierarchy" title="Street hierarchy">Street hierarchy</a></li>
+<li><a href="/wiki/Toll_road" title="Toll road">Toll road</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Junction_(road)" class="mw-redirect" title="Junction (road)">Road junctions</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Interchange_(road)" title="Interchange (road)">Interchanges</a><br /><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold">(<a href="/wiki/Grade_separation" title="Grade separation">grade-separated</a>)</span></div></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cloverleaf_interchange" title="Cloverleaf interchange">Cloverleaf</a></li>
+<li><a href="/wiki/Diamond_interchange" title="Diamond interchange">Diamond</a></li>
+<li><a href="/wiki/Free-flow_interchange" title="Free-flow interchange">Free-flow</a></li>
+<li><a href="/wiki/Interchange_(road)#Directional_T_interchange" title="Interchange (road)">Directional T</a></li>
+<li><a href="/wiki/Diverging_diamond_interchange" title="Diverging diamond interchange">Diverging diamond</a></li>
+<li><a href="/wiki/Partial_cloverleaf_interchange" title="Partial cloverleaf interchange">Parclo</a></li>
+<li><a href="/wiki/Raindrop_interchange" class="mw-redirect" title="Raindrop interchange">Raindrop</a></li>
+<li><a href="/wiki/Roundabout_interchange" title="Roundabout interchange">Roundabout</a></li>
+<li><a href="/wiki/Single-point_urban_interchange" title="Single-point urban interchange">Single-point urban (SPUI)</a></li>
+<li><a href="/wiki/Stack_interchange" title="Stack interchange">Stack</a></li>
+<li><a href="/wiki/Three-level_diamond_interchange" title="Three-level diamond interchange">Three-level diamond</a></li>
+<li><a href="/wiki/Interchange_(road)#Trumpet_interchange" title="Interchange (road)">Trumpet</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Intersection_(road)" title="Intersection (road)">Intersections<br /><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"/><span class="nobold">(at-grade)</span></a></div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Three-way_junction" title="Three-way junction">3-way junction</a></li>
+<li><a href="/wiki/Bowtie_(road)" title="Bowtie (road)">Bowtie</a></li>
+<li><a href="/wiki/Box_junction" title="Box junction">Box junction</a></li>
+<li><a href="/wiki/Continuous-flow_intersection" title="Continuous-flow intersection">Continuous flow</a></li>
+<li><a href="/wiki/Hook_turn" title="Hook turn">Hook turn</a></li>
+<li><a href="/wiki/Jughandle" title="Jughandle">Jughandle</a></li>
+<li><a href="/wiki/Michigan_left" title="Michigan left">Michigan left</a></li>
+<li><a href="/wiki/Offset_T-intersection" title="Offset T-intersection">Offset T-intersection</a></li>
+<li><a href="/wiki/Protected_intersection" title="Protected intersection">Protected intersection</a></li>
+<li><a href="/wiki/Quadrant_roadway_intersection" title="Quadrant roadway intersection">Quadrant roadway</a></li>
+<li><a href="/wiki/Right-in/right-out" title="Right-in/right-out">Right-in/right-out (RIRO)</a></li>
+<li><a href="/wiki/Roundabout" title="Roundabout">Roundabout</a></li>
+<li><a href="/wiki/Seagull_intersection" title="Seagull intersection">Seagull intersection</a></li>
+<li><a href="/wiki/Split_intersection" title="Split intersection">Split intersection</a></li>
+<li><a href="/wiki/Superstreet" title="Superstreet">Superstreet</a></li>
+<li><a href="/wiki/Texas_U-turn" title="Texas U-turn">Texas U-turn</a></li>
+<li><a href="/wiki/Traffic_circle" class="mw-redirect" title="Traffic circle">Traffic circle</a></li>
+<li><a href="/wiki/Turnaround_(road)" title="Turnaround (road)">Turnaround</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Road_surface" title="Road surface">Surfaces</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Asphalt_concrete" title="Asphalt concrete">Asphalt concrete</a></li>
+<li><a href="/wiki/Bioasphalt" title="Bioasphalt">Bioasphalt</a></li>
+<li><a href="/wiki/Brick" title="Brick">Brick</a></li>
+<li><a href="/wiki/Chipseal" title="Chipseal">Chipseal</a></li>
+<li><a class="mw-selflink selflink">Cobblestone</a></li>
+<li><a href="/wiki/Concrete" title="Concrete">Concrete</a>
+<ul><li><a href="/wiki/Reinforced_concrete" title="Reinforced concrete">Reinforced concrete</a></li></ul></li>
+<li><a href="/wiki/Corduroy_road" title="Corduroy road">Corduroy</a></li>
+<li><a href="/wiki/Crocodile_cracking" title="Crocodile cracking">Crocodile cracking</a></li>
+<li><a href="/wiki/Crushed_stone" title="Crushed stone">Crushed stone</a></li>
+<li><a href="/wiki/Diamond_grinding_of_pavement" title="Diamond grinding of pavement">Diamond grinding of pavement</a></li>
+<li><a href="/wiki/Dirt_road" title="Dirt road">Dirt</a></li>
+<li><a href="/wiki/Full_depth_recycling" title="Full depth recycling">Full depth recycling</a></li>
+<li><a href="/wiki/Glassphalt" title="Glassphalt">Glassphalt</a></li>
+<li><a href="/wiki/Gravel_road" title="Gravel road">Gravel</a></li>
+<li><a href="/wiki/Ice_road" title="Ice road">Ice</a></li>
+<li><a href="/wiki/Macadam" title="Macadam">Macadam</a></li>
+<li><a href="/wiki/Pavement_milling" title="Pavement milling">Pavement milling</a></li>
+<li><a href="/wiki/Permeable_paving" title="Permeable paving">Permeable</a></li>
+<li><a href="/wiki/Plank_road" title="Plank road">Plank</a></li>
+<li><a href="/wiki/Rubberized_asphalt" title="Rubberized asphalt">Rubberized asphalt</a></li>
+<li><a href="/wiki/Sealcoat" title="Sealcoat">Sealcoat</a></li>
+<li><a href="/wiki/Sett_(paving)" title="Sett (paving)">Sett</a></li>
+<li><a href="/wiki/Stamped_asphalt" title="Stamped asphalt">Stamped asphalt</a></li>
+<li><a href="/wiki/Tarmacadam" title="Tarmacadam">Tarmac</a></li>
+<li><a href="/wiki/Road_texture" title="Road texture">Texture</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Road_traffic_safety" title="Road traffic safety">Road safety factors</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Road and environment</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aquaplaning" title="Aquaplaning">Aquaplaning</a></li>
+<li><a href="/wiki/Black_ice" title="Black ice">Black ice</a></li>
+<li><a href="/wiki/Bleeding_(roads)" title="Bleeding (roads)">Bleeding</a></li>
+<li><a href="/wiki/Crosswind" title="Crosswind">Crosswind</a></li>
+<li><a href="/wiki/Dead_Man%27s_Curve" title="Dead Man&#39;s Curve">Dead Man's Curve</a></li>
+<li><a href="/wiki/Expansion_joint" title="Expansion joint">Expansion joint</a></li>
+<li><a href="/wiki/Fog" title="Fog">Fog</a></li>
+<li><a href="/wiki/Ford_(crossing)" title="Ford (crossing)">Ford</a></li>
+<li><a href="/wiki/Hairpin_turn" title="Hairpin turn">Hairpin turn</a></li>
+<li><a href="/wiki/Level_crossing" title="Level crossing">Level crossing</a></li>
+<li><a href="/wiki/Manhole_cover" title="Manhole cover">Manhole cover</a></li>
+<li><a href="/wiki/Oil_spill" title="Oil spill">Oil spill</a></li>
+<li><a href="/wiki/Oversize_load" title="Oversize load">Oversize load</a></li>
+<li><a href="/wiki/Pothole" title="Pothole">Pothole</a></li>
+<li><a href="/wiki/Road_debris" title="Road debris">Road debris</a></li>
+<li><a href="/wiki/Road_slipperiness" title="Road slipperiness">Road slipperiness</a></li>
+<li><a href="/wiki/Road_train" title="Road train">Road train</a></li>
+<li><a href="/wiki/Roadkill" title="Roadkill">Roadkill</a></li>
+<li><a href="/wiki/Rockfall" title="Rockfall">Rockfall</a></li>
+<li><a href="/wiki/Rut_(roads)" title="Rut (roads)">Rut</a></li>
+<li><a href="/wiki/Speed_bump" title="Speed bump">Speed bump</a></li>
+<li><a href="/wiki/Storm_drain" title="Storm drain">Storm drain</a></li>
+<li><a href="/wiki/Washboarding" title="Washboarding">Washboarding</a></li>
+<li><a href="/wiki/Washout_(erosion)" title="Washout (erosion)">Washout</a></li>
+<li><a href="/wiki/Whiteout_(weather)" title="Whiteout (weather)">Whiteout</a></li>
+<li><a href="/wiki/Snowsquall" title="Snowsquall">Snowsquall</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Traffic_psychology" title="Traffic psychology">Human factors</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Driver%27s_education" title="Driver&#39;s education">Driver's education</a></li>
+<li><a href="/wiki/Driving_under_the_influence" title="Driving under the influence">Driving under the influence</a></li>
+<li><a href="/wiki/Road_rage" title="Road rage">Road rage</a></li>
+<li><a href="/wiki/Single-vehicle_crash" title="Single-vehicle crash">Single-vehicle crash</a></li>
+<li><a href="/wiki/Sleep-deprived_driving" title="Sleep-deprived driving">Sleep-deprived driving</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Vehicles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Automotive_safety" title="Automotive safety">Automotive safety</a></li>
+<li><a href="/wiki/Seat_belts" class="mw-redirect" title="Seat belts">Seat belts</a></li>
+<li><a href="/wiki/Risk_compensation#Road_transport" title="Risk compensation">Risk compensation (road transport)</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Traffic#Rules_of_the_road" title="Traffic">Space and time allocation</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barrier_transfer_machine" title="Barrier transfer machine">Barrier transfer machine</a></li>
+<li><a href="/wiki/Bicycle_lane" class="mw-redirect" title="Bicycle lane">Bicycle lane</a></li>
+<li><a href="/wiki/Climbing_lane" title="Climbing lane">Climbing lane</a></li>
+<li><a href="/wiki/Complete_streets" title="Complete streets">Complete streets</a></li>
+<li><a href="/wiki/Contraflow_lane" title="Contraflow lane">Contraflow lane</a></li>
+<li><a href="/wiki/Contraflow_lane_reversal" title="Contraflow lane reversal">Contraflow lane reversal</a></li>
+<li><a href="/wiki/High-occupancy_toll_lane" title="High-occupancy toll lane">High-occupancy toll lane</a></li>
+<li><a href="/wiki/High-occupancy_vehicle_lane" title="High-occupancy vehicle lane">High-occupancy vehicle lane</a></li>
+<li><a href="/wiki/Lane" title="Lane">Lane</a></li>
+<li><a href="/wiki/Living_street" title="Living street">Living street</a></li>
+<li><a href="/wiki/Managed_lane" title="Managed lane">Managed lane</a></li>
+<li><a href="/wiki/Median_strip" title="Median strip">Median&#160;/&#32;Central reservation</a></li>
+<li><a href="/wiki/Motorcycle_lane" title="Motorcycle lane">Motorcycle lane</a></li>
+<li><a href="/wiki/Passing_lane" title="Passing lane">Passing lane</a></li>
+<li><a href="/wiki/Pedestrian_crossing" title="Pedestrian crossing">Pedestrian crossing</a></li>
+<li><a href="/wiki/Pedestrian_zone" title="Pedestrian zone">Pedestrian zone</a></li>
+<li><a href="/wiki/Refuge_island" title="Refuge island">Refuge island</a></li>
+<li><a href="/wiki/Reversible_lane" title="Reversible lane">Reversible lane</a></li>
+<li><a href="/wiki/Road_diet" title="Road diet">Road diet</a></li>
+<li><a href="/wiki/Road_verge" title="Road verge">Road verge</a></li>
+<li><a href="/wiki/Runaway_truck_ramp" title="Runaway truck ramp">Runaway truck ramp</a></li>
+<li><a href="/wiki/Shared_space" title="Shared space">Shared space</a></li>
+<li><a href="/wiki/Sidewalk" title="Sidewalk">Sidewalk&#160;/&#32;Pavement</a></li>
+<li><a href="/wiki/Shoulder_(road)" title="Shoulder (road)">Shoulder</a></li>
+<li><a href="/wiki/Street_running" title="Street running">Street running railway</a></li>
+<li><a href="/wiki/Traffic_calming" title="Traffic calming">Traffic calming</a></li>
+<li><a href="/wiki/Right-_and_left-hand_traffic" class="mw-redirect" title="Right- and left-hand traffic">Traffic directionality</a></li>
+<li><a href="/wiki/Traffic_island" title="Traffic island">Traffic island</a></li>
+<li><a href="/wiki/Traffic_lanes" class="mw-redirect" title="Traffic lanes">Traffic lanes</a></li>
+<li><a href="/wiki/Traffic_signal_preemption" title="Traffic signal preemption">Traffic signal preemption</a></li>
+<li><a href="/wiki/Unused_highway" title="Unused highway">Unused highway</a></li>
+<li><a href="/wiki/Wide_outside_lane" title="Wide outside lane">Wide outside lane</a></li>
+<li><a href="/wiki/Woonerf" title="Woonerf">Woonerf</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Demarcation</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bollard" title="Bollard">Bollard</a></li>
+<li><a href="/wiki/Botts%27_dots" title="Botts&#39; dots">Botts' dots</a></li>
+<li><a href="/wiki/Cable_barrier" title="Cable barrier">Cable barrier</a></li>
+<li><a href="/wiki/Cat%27s_eye_(road)" title="Cat&#39;s eye (road)">Cat's eye (road)</a></li>
+<li><a href="/wiki/Concrete_step_barrier" title="Concrete step barrier">Concrete step barrier</a></li>
+<li><a href="/wiki/Constant-slope_barrier" title="Constant-slope barrier">Constant-slope barrier</a></li>
+<li><a href="/wiki/Curb" title="Curb">Curb</a></li>
+<li><a href="/wiki/F-Shape_barrier" title="F-Shape barrier">F-Shape barrier</a></li>
+<li><a href="/wiki/Guard_rail" title="Guard rail">Guard rail</a></li>
+<li><a href="/wiki/Jersey_barrier" title="Jersey barrier">Jersey barrier</a></li>
+<li><a href="/wiki/Kassel_kerb" title="Kassel kerb">Kassel kerb</a></li>
+<li><a href="/wiki/Noise_barrier" title="Noise barrier">Noise barrier</a></li>
+<li><a href="/wiki/Raised_pavement_marker" title="Raised pavement marker">Raised pavement marker</a></li>
+<li><a href="/wiki/Road_surface_marking" title="Road surface marking">Road surface marking</a></li>
+<li><a href="/wiki/Rumble_strip" title="Rumble strip">Rumble strip</a></li>
+<li><a href="/wiki/Traffic_barrier" title="Traffic barrier">Traffic barrier</a></li>
+<li><a href="/wiki/Traffic_cone" title="Traffic cone">Traffic cone</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Structures</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bridge" title="Bridge">Bridge</a></li>
+<li><a href="/wiki/Causeway" title="Causeway">Causeway</a></li>
+<li><a href="/wiki/Overpass" title="Overpass">Overpass&#160;/&#32;Flyover</a></li>
+<li><a href="/wiki/Tunnel" title="Tunnel">Underpass&#160;/&#32;Tunnel</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Glossary_of_road_transport_terms" title="Glossary of road transport terms">Glossary of road transport terms</a></li>
+<li><a href="/wiki/List_of_road_types_by_features" title="List of road types by features">Road types by features</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1258
+Cached time: 20190929145204
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.328 seconds
+Real time usage: 0.492 seconds
+Preprocessor visited node count: 1011/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 75215/2097152 bytes
+Template argument size: 1131/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14632/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.131/10.000 seconds
+Lua memory usage: 4.14 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  393.659      1 -total
+ 44.25%  174.188      1 Template:Reflist
+ 21.86%   86.060      1 Template:Refimprove
+ 20.41%   80.361      2 Template:Ambox
+ 19.56%   77.013      1 Template:Cite_web
+ 12.49%   49.169      4 Template:Navbox
+ 11.53%   45.373      1 Template:ISBN
+  9.15%   36.001      1 Template:Road_types
+  8.80%   34.642      1 Template:Find_sources_mainspace
+  7.44%   29.306      1 Template:Other_uses
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:590687-0!canonical and timestamp 20190929145204 and revision id 907856287
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Cobblestone&amp;oldid=907856287">https://en.wikipedia.org/w/index.php?title=Cobblestone&amp;oldid=907856287</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Cobblestone_architecture" title="Category:Cobblestone architecture">Cobblestone architecture</a></li><li><a href="/wiki/Category:Cobbled_streets" title="Category:Cobbled streets">Cobbled streets</a></li><li><a href="/wiki/Category:Building_stone" title="Category:Building stone">Building stone</a></li><li><a href="/wiki/Category:Natural_materials" title="Category:Natural materials">Natural materials</a></li><li><a href="/wiki/Category:Pavements" title="Category:Pavements">Pavements</a></li><li><a href="/wiki/Category:Stone" title="Category:Stone">Stone</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_September_2008" title="Category:Articles needing additional references from September 2008">Articles needing additional references from September 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_March_2014" title="Category:Use dmy dates from March 2014">Use dmy dates from March 2014</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_March_2013" title="Category:Articles needing additional references from March 2013">Articles needing additional references from March 2013</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Cobblestone" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Cobblestone" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Cobblestone" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Cobblestone" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Cobblestone">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Cobblestone&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Cobblestone&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Cobblestone" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Cobblestone" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Cobblestone&amp;oldid=907856287" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Cobblestone&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2996907" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Cobblestone&amp;id=907856287" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Cobblestones" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Cobblestone">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Cobblestone&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Cobblestone&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B4%D1%8A%D1%80%D1%8A%D0%BC" title="Калдъръм – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Pflasterstein" title="Pflasterstein – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Munakivi" title="Munakivi – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D9%86%DA%AF%D9%81%D8%B1%D8%B4" title="سنگفرش – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ciottolato" title="Ciottolato – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A0%E1%83%98%E1%83%A7%E1%83%98%E1%83%A1_%E1%83%A5%E1%83%95%E1%83%90" title="რიყის ქვა – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B4%D1%80%D0%BC%D0%B0" title="Калдрма – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E7%8E%89%E7%9F%B3" title="玉石 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D1%8B%D0%B6%D0%BD%D0%B8%D0%BA" title="Булыжник – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Kalldr%C3%ABmi" title="Kalldrëmi – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B4%D1%80%D0%BC%D0%B0" title="Калдрма – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Kullersten" title="Kullersten – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Arnavut_kald%C4%B1r%C4%B1m%C4%B1" title="Arnavut kaldırımı – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D0%B8%D0%B6%D0%BD%D0%B8%D0%BA" title="Булижник – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%B5%9D%E5%8D%B5%E7%9F%B3" title="鵝卵石 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2996907#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 July 2019, at 18:46<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Cobblestone&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.328","walltime":"0.492","ppvisitednodes":{"value":1011,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":75215,"limit":2097152},"templateargumentsize":{"value":1131,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14632,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  393.659      1 -total"," 44.25%  174.188      1 Template:Reflist"," 21.86%   86.060      1 Template:Refimprove"," 20.41%   80.361      2 Template:Ambox"," 19.56%   77.013      1 Template:Cite_web"," 12.49%   49.169      4 Template:Navbox"," 11.53%   45.373      1 Template:ISBN","  9.15%   36.001      1 Template:Road_types","  8.80%   34.642      1 Template:Find_sources_mainspace","  7.44%   29.306      1 Template:Other_uses"]},"scribunto":{"limitreport-timeusage":{"value":"0.131","limit":"10.000"},"limitreport-memusage":{"value":4344163,"limit":52428800}},"cachereport":{"origin":"mw1258","timestamp":"20190929145204","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Cobblestone","url":"https:\/\/en.wikipedia.org\/wiki\/Cobblestone","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2996907","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2996907","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-04-11T21:38:23Z","dateModified":"2019-07-25T18:46:07Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/be\/Ancient_road_surface.jpg","headline":"natural building material based on cobble-sized stones, and is used for pavement roads, streets, and buildings"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":124,"wgHostname":"mw1272"});});</script>
+</body>
+</html>
+

@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Chris Balderstone - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Chris_Balderstone","wgTitle":"Chris Balderstone","wgCurRevisionId":851116128,"wgRevisionId":851116128,"wgArticleId":3727519,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with script errors","Use dmy dates from February 2013","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1940 births","2000 deaths","Sportspeople from Huddersfield","English cricketers","England Test cricketers","Yorkshire cricketers","Leicestershire cricketers","English One Day International cricket umpires","English footballers","English Football League players","Huddersfield Town A.F.C. players","Carlisle United F.C. players","Doncaster Rovers F.C. players",
+"Queen of the South F.C. players","Leicester United F.C. players","Deaths from prostate cancer","Scottish Football League players","Association football midfielders"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Chris_Balderstone","wgRelevantArticleId":3727519,"wgRequestId":"XZE3fgpAMFoAAIjb-WAAAAAM","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":
+"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","ScribuntoErrors":[
+"\u003Cp\u003ELua error in Module:I18n at line 6: bad argument #1 to 'pairs' (table expected, got nil).\u003C/p\u003E\u003Cp\u003EBacktrace:\u003C/p\u003E\u003Col class=\"scribunto-trace\"\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: in function \"pairs\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:I18n\u0026amp;action=edit#mw-ce-l6\"\u003EModule:I18n:6\u003C/a\u003E\u003C/strong\u003E: in function \"tableMerge\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:I18n\u0026amp;action=edit#mw-ce-l21\"\u003EModule:I18n:21\u003C/a\u003E\u003C/strong\u003E: in function \"loadI18n\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:Wikidata\u0026amp;action=edit#mw-ce-l89\"\u003EModule:Wikidata:89\u003C/a\u003E\u003C/strong\u003E: in function \"chunk\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:486\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: in function \"getExpandedArgument\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:169\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:String\u0026amp;action=edit#mw-ce-l496\"\u003EModule:String:496\u003C/a\u003E\u003C/strong\u003E: in function \"_getParameters\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:String\u0026amp;action=edit#mw-ce-l213\"\u003EModule:String:213\u003C/a\u003E\u003C/strong\u003E: in function \"chunk\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:511\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: in function \"getExpandedArgument\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:169\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:Infobox3cols\u0026amp;action=edit#mw-ce-l387\"\u003EModule:Infobox3cols:387\u003C/a\u003E\u003C/strong\u003E: in function \"preprocessArgs\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:Infobox3cols\u0026amp;action=edit#mw-ce-l442\"\u003EModule:Infobox3cols:442\u003C/a\u003E\u003C/strong\u003E: in function \"chunk\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:511\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003C/ol\u003E"
+],"wgWikibaseItemId":"Q3528380","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.scribunto.errors","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Chris_Balderstone"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Chris_Balderstone&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Chris_Balderstone&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Chris_Balderstone"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Chris_Balderstone rootpage-Chris_Balderstone skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Chris Balderstone</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox vcard" style="width:22em;line-height: 1.2em"><caption class="fn" style="line-height: 1.5em; text-align: center;">Chris Balderstone</caption><tbody><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Personal information</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Full name</th><td colspan="3" class="nickname" style="white-space: nowrap; vertical-align: baseline">
+<span style="white-space:normal;">John Christopher Balderstone</span></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Date of birth</th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+<span style="display:none">(<span class="bday">1940-11-16</span>)</span>16 November 1940</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Place of birth</th><td colspan="3" class="birthplace" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, England</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Date of death</th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+6 March 2000<span style="display:none">(2000-03-06)</span> (aged&#160;59)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Place of death</th><td colspan="3" class="deathplace" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Carlisle,_Cumbria" class="mw-redirect" title="Carlisle, Cumbria">Carlisle</a>, England</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Height</th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+6&#160;ft 1&#160;in (1.85&#160;m)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Playing position</th><td colspan="3" class="role" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Midfielder" title="Midfielder">Midfielder</a></td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Youth career</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">1955–1957</span></th><td colspan="3" style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Shrewsbury_Town_F.C." title="Shrewsbury Town F.C.">Shrewsbury Town</a></td></tr><tr><th colspan="4" style="text-align:center;background-color: #b0c4de; line-height: 1.5em">Senior career*</th></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left">Years</th><td style="white-space: nowrap; vertical-align: baseline">
+<b>Team</b></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+<b><abbr title="League appearances">Apps</abbr></b></td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+<b>(<abbr title="League goals">Gls</abbr>)</b></td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">1958–1965</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Huddersfield_Town_A.F.C." title="Huddersfield Town A.F.C.">Huddersfield Town</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+117</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(24)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">1965–1975</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Carlisle_United_F.C." title="Carlisle United F.C.">Carlisle United</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+376</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(68)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">1975–1976</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Doncaster_Rovers_F.C." title="Doncaster Rovers F.C.">Doncaster Rovers</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+39</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(1)</td></tr><tr><th scope="row" style="white-space: nowrap; vertical-align: baseline; text-align: left"><span style="font-weight:normal">1976–1978</span></th><td style="white-space: nowrap; vertical-align: baseline">
+<a href="/wiki/Queen_of_the_South_F.C." title="Queen of the South F.C.">Queen of the South</a></td><td style="white-space: nowrap; vertical-align: baseline;text-align: right">
+34</td><td style="white-space: nowrap; vertical-align: baseline; text-align: right">
+(0)</td></tr><tr><td colspan="4" style="text-align:center;color:darkslategray; font-size:95%">
+* Senior club appearances and goals counted for the domestic league only</td></tr></tbody></table>
+<table class="infobox vcard" style="width:22em;width: 25em"><caption class="fn" style="font-size: 125%"><span class="fn">Chris Balderstone</span></caption><tbody><tr><th colspan="2" style="text-align:center;background-color: #b0c4de">Cricket information</th></tr><tr><th scope="row">Batting</th><td class="category">Right-hand bat</td></tr><tr><th scope="row">Bowling</th><td class="category">Slow left-arm orthodox</td></tr><tr><th colspan="2" style="text-align:center;background-color: #b0c4de">International information
+</th></tr><tr><th scope="row">National side</th><td><div class="plainlist"><ul><li><a href="/wiki/England_cricket_team" title="England cricket team">England</a></li></ul></div></td></tr><tr style="display:none"><th colspan="2">
+</th></tr><tr><th colspan="2" style="text-align:center;background-color: #b0c4de"><a href="/wiki/Umpire_(cricket)" title="Umpire (cricket)">Umpiring</a> information </th></tr><tr><th scope="row"><a href="/wiki/One_Day_International" title="One Day International">ODIs</a>&#160;umpired</th><td>2 (1994–1998)</td></tr><tr style="display:none"><th colspan="2">
+</th></tr><tr><th colspan="2" style="text-align:center;background-color: #b0c4de">Career statistics</th></tr><tr><td colspan="2" style="padding:0">
+<table style="width:100%; margin:-1px; white-space:nowrap;">
+<tbody><tr><th style="width:6em; padding-right:1em">Competition</th>
+<th><a href="/wiki/Test_cricket" title="Test cricket">Tests</a></th>
+<th><a href="/wiki/First-class_cricket" title="First-class cricket">First-class</a></th>
+</tr><tr>
+<th style="width:6em; padding-right:1em">Matches</th>
+<td>2</td>
+<td>390</td>
+</tr><tr>
+<th style="width:6em; padding-right:1em">Runs scored</th>
+<td>39</td>
+<td>19034</td>
+</tr><tr>
+<th style="width:6em; padding-right:1em"><a href="/wiki/Batting_average_(cricket)" title="Batting average (cricket)">Batting average</a></th>
+<td>9.75</td>
+<td>34.11</td>
+</tr><tr>
+<th style="width:6em; padding-right:1em">100s/50s</th>
+<td>-/-</td>
+<td>32/103</td>
+</tr><tr>
+<th style="width:6em; padding-right:1em">Top score</th>
+<td>35</td>
+<td>181*</td>
+</tr><tr>
+<th style="width:6em; padding-right:1em"><a href="/wiki/Delivery_(cricket)" title="Delivery (cricket)">Balls</a> bowled</th>
+<td>96</td>
+<td>19224</td>
+</tr><tr>
+<th style="width:6em; padding-right:1em"><a href="/wiki/Wicket" title="Wicket">Wickets</a></th>
+<td>1</td>
+<td>310</td>
+</tr><tr>
+<th style="width:6em; padding-right:1em"><a href="/wiki/Bowling_average" title="Bowling average">Bowling average</a></th>
+<td>80.00</td>
+<td>26.32</td>
+</tr><tr>
+<th style="width:6em; padding-right:1em"><a href="/wiki/Five-wicket_haul" title="Five-wicket haul">5 wickets in innings</a></th>
+<td>–</td>
+<td>5</td>
+</tr><tr>
+<th style="width:6em; padding-right:1em">10 wickets in match</th>
+<td>–</td>
+<td>–</td>
+</tr><tr>
+<th style="width:6em; padding-right:1em">Best bowling</th>
+<td>1/80</td>
+<td>6/25</td>
+</tr><tr>
+<th style="width:6em; padding-right:1em">Catches/<a href="/wiki/Stumped" title="Stumped">stumpings</a></th>
+<td>1/-</td>
+<td>210/-</td></tr></tbody></table></td></tr><tr style="display:none"><th colspan="2" style="display:none"></th></tr><tr><td colspan="2" style="text-align:center"><div style="text-align: right">Source: <a rel="nofollow" class="external text" href="http://content-aus.cricinfo.com/ci/content/player/8962.html">Cricinfo</a>, <span class="nowrap">28 August 2010</span></div></td></tr></tbody></table>
+<p><b>John Christopher Balderstone</b> (16 November 1940 – 6 March 2000) was an English professional in <a href="/wiki/Cricket" title="Cricket">cricket</a> and <a href="/wiki/Association_football" title="Association football">football</a>, and one of the last sportsmen to combine both sports over a prolonged period.<sup id="cite_ref-guard_1-0" class="reference"><a href="#cite_note-guard-1">&#91;1&#93;</a></sup> He played football as a <a href="/wiki/Midfielder" title="Midfielder">midfielder</a> for <a href="/wiki/Huddersfield_Town_A.F.C." title="Huddersfield Town A.F.C.">Huddersfield Town</a>, <a href="/wiki/Carlisle_United_F.C." title="Carlisle United F.C.">Carlisle United</a>, <a href="/wiki/Doncaster_Rovers_F.C." title="Doncaster Rovers F.C.">Doncaster Rovers</a> and <a href="/wiki/Queen_of_the_South_F.C." title="Queen of the South F.C.">Queen of the South</a>.<sup id="cite_ref-Cap_2-0" class="reference"><a href="#cite_note-Cap-2">&#91;2&#93;</a></sup> He played and umpired first-class cricket making it to international level – he played in two <a href="/wiki/Test_cricket" title="Test cricket">Tests</a> in 1976 and umpired two <a href="/wiki/One_Day_International" title="One Day International">ODIs</a> from 1994 to 1998. In a long club career he was a key part of the five trophy winning <a href="/wiki/Leicestershire_County_Cricket_Club" title="Leicestershire County Cricket Club">Leicestershire</a> side of the early and mid-1970s.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Football_career"><span class="tocnumber">1</span> <span class="toctext">Football career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Huddersfield_Town"><span class="tocnumber">1.1</span> <span class="toctext">Huddersfield Town</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Carlisle_United"><span class="tocnumber">1.2</span> <span class="toctext">Carlisle United</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Doncaster_Rovers_&amp;_Queen_of_the_South"><span class="tocnumber">1.3</span> <span class="toctext">Doncaster Rovers &amp; Queen of the South</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Cricket_career"><span class="tocnumber">2</span> <span class="toctext">Cricket career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Yorkshire"><span class="tocnumber">2.1</span> <span class="toctext">Yorkshire</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Leicestershire"><span class="tocnumber">2.2</span> <span class="toctext">Leicestershire</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#England"><span class="tocnumber">2.3</span> <span class="toctext">England</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Umpire"><span class="tocnumber">2.4</span> <span class="toctext">Umpire</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Death"><span class="tocnumber">3</span> <span class="toctext">Death</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Honours"><span class="tocnumber">4</span> <span class="toctext">Honours</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Football"><span class="tocnumber">4.1</span> <span class="toctext">Football</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Cricket"><span class="tocnumber">4.2</span> <span class="toctext">Cricket</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Football_career">Football career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chris_Balderstone&amp;action=edit&amp;section=1" title="Edit section: Football career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Huddersfield_Town">Huddersfield Town</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chris_Balderstone&amp;action=edit&amp;section=2" title="Edit section: Huddersfield Town">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Balderstone's football career started with <a href="/wiki/Huddersfield_Town_A.F.C." title="Huddersfield Town A.F.C.">Huddersfield Town</a> where he was signed by <a href="/wiki/Bill_Shankly" title="Bill Shankly">Bill Shankly</a> in May 1958.<sup id="cite_ref-cb_3-0" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup> He made 117 <a href="/wiki/Football_League" class="mw-redirect" title="Football League">Football League</a> appearances for Huddersfield,<sup id="cite_ref-fl_4-0" class="reference"><a href="#cite_note-fl-4">&#91;4&#93;</a></sup> and played a total of 131 senior games for them (scoring 25 goals).<sup id="cite_ref-donny_5-0" class="reference"><a href="#cite_note-donny-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Carlisle_United">Carlisle United</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chris_Balderstone&amp;action=edit&amp;section=3" title="Edit section: Carlisle United">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In June 1965 he moved for £7,000 to <a href="/wiki/Carlisle_United_F.C." title="Carlisle United F.C.">Carlisle United</a><sup id="cite_ref-donny_5-1" class="reference"><a href="#cite_note-donny-5">&#91;5&#93;</a></sup> who had just been promoted to the second tier of English football for the first time in their history. As Balderstone later said, "They gave me a bit of stick at first because I wasn't the quickest player or the hardest tackler. I used to think I made up for it with speed of thought and control of the ball. I always had confidence in my ability and I knew there'd be somebody in the crowd who appreciated a bit of skill. I won them over and they were very good to me after that."<sup id="cite_ref-cb_3-1" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup>
+</p><p>He scored on his debut, a 4–1 home win over <a href="/wiki/Norwich_City_F.C." title="Norwich City F.C.">Norwich City</a>, which gave him the distinction of scoring the club's first ever goal in the second level of English football. He stayed with Carlisle for the next 11 years, the club's most successful period where not only was he a key player but also became club captain.<sup id="cite_ref-cb_3-2" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup>
+</p><p>His most notable cup run was in the 1969–70 League Cup where Carlisle made it to the semi final. He enjoyed other successes in cup competitions, "In 1970 we beat Manchester City in the League Cup when they had Lee, Bell and Summerbee. And in '74 we beat Sunderland at Roker Park in the FA Cup when they were the Cup holders. We played against Liverpool in the next round and took them to a replay."<sup id="cite_ref-cb_3-3" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup>
+</p><p>In 1973–74 Balderstone enjoyed promotion to the First Division, then the highest level in the English football pyramid.<sup id="cite_ref-guard_1-1" class="reference"><a href="#cite_note-guard-1">&#91;1&#93;</a></sup> It was Balderstone's penalty against <a href="/wiki/Pat_Jennings" title="Pat Jennings">Pat Jennings</a> and <a href="/wiki/Tottenham_Hotspur" class="mw-redirect" title="Tottenham Hotspur">Tottenham Hotspur</a> that had Carlisle briefly topping England's <a href="/wiki/Football_League" class="mw-redirect" title="Football League">Football League</a> after the first 3 games of the 1974–75 season. However, Carlisle were relegated at the end of the season, the only relegation in Balderstone's career.<sup id="cite_ref-cb_3-4" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup> In all he made 376 League appearances for the Cumbrian club.<sup id="cite_ref-fl_4-1" class="reference"><a href="#cite_note-fl-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span id="Doncaster_Rovers_.26_Queen_of_the_South"></span><span class="mw-headline" id="Doncaster_Rovers_&amp;_Queen_of_the_South">Doncaster Rovers &amp; Queen of the South</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chris_Balderstone&amp;action=edit&amp;section=4" title="Edit section: Doncaster Rovers &amp; Queen of the South">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Balderstone joined <a href="/wiki/Doncaster_Rovers_F.C." title="Doncaster Rovers F.C.">Doncaster Rovers</a> after his top-level season with Carlisle. It was when with Rovers he became the only player to play League Football and first-class cricket on the same day (see Cricket Career under Leicestershire section).<sup id="cite_ref-donny_5-2" class="reference"><a href="#cite_note-donny-5">&#91;5&#93;</a></sup>
+</p><p>Balderstone's next club was in Scotland. "<a href="/wiki/Queen_of_the_South_F.C." title="Queen of the South F.C.">Queen of the South</a> rang me up. Carlisle used to play practice matches against them and they remembered me. I caught the train to <a href="/wiki/Dumfries" title="Dumfries">Dumfries</a> from Leicester every Friday night. It was quite a trek but it gave me another couple of years football." When <a href="/wiki/George_Cloy" title="George Cloy">George Cloy</a> and <a href="/wiki/Crawford_Boyd" title="Crawford Boyd">Crawford Boyd</a> were each later interviewed for the Queen of the South website, each commented on Balderstone's ability with the ball. Cloy in particular said Balderstone's passing ability was the best in Cloy's entire career at Queens.<sup id="cite_ref-cb_3-5" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>He later played for non-league <a href="/wiki/Enderby_Town_F.C." class="mw-redirect" title="Enderby Town F.C.">Enderby Town</a>.<sup id="cite_ref-fl_4-2" class="reference"><a href="#cite_note-fl-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Cricket_career">Cricket career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chris_Balderstone&amp;action=edit&amp;section=5" title="Edit section: Cricket career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Yorkshire">Yorkshire</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chris_Balderstone&amp;action=edit&amp;section=6" title="Edit section: Yorkshire">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Balderstone first appeared for <a href="/wiki/Yorkshire_County_Cricket_Club" title="Yorkshire County Cricket Club">Yorkshire</a> on 10 June 1961.<sup id="cite_ref-cb_3-6" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Leicestershire">Leicestershire</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chris_Balderstone&amp;action=edit&amp;section=7" title="Edit section: Leicestershire">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Balderstone later remembered, "Ray Illingworth took me to Leicestershire. I might be a decent bloke on the outside but he knew I was mentally hard through football. Cricketers might think they're pretty hard but they're not compared to footballers. It was a great move for me."<sup id="cite_ref-cb_3-7" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup>
+</p><p>Leicestershire won their first-ever trophy in 1972, the inaugural <a href="/wiki/Benson_and_Hedges_Cup" class="mw-redirect" title="Benson and Hedges Cup">Benson and Hedges Cup</a> at <a href="/wiki/Lord%27s" title="Lord&#39;s">Lord's</a>, and Balderstone took the man of the match Gold Award. He scored 41 not out and steered the team to the trophy. This marked the beginning of a golden era for Leicestershire, with 5 trophies in 5 seasons, and Balderstone was at the core of the side.<sup id="cite_ref-cb_3-8" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup>
+</p><p>In 1973 Balderstone played his first full season of cricket and jumped right to the front-rank of English batsmen, making 1,222 runs at an average of 42. He passed the 1,000-run mark in 10 of the next 12 seasons, batting either in the middle order or as an opening batsman. His runs were an important part of Leicestershire's first <a href="/wiki/County_Championship" title="County Championship">County Championship</a> success in 1975, and he weighed in with 43 useful wickets in that season too.<sup id="cite_ref-cb_3-9" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup>
+</p><p>In 1974, he top scored for his side in the Benson and Hedges final but they were defeated by Surrey. However, they did win the <a href="/wiki/Pro40" title="Pro40">Sunday League</a>, bettering their runners-up spot of two years before.<sup id="cite_ref-cb_3-10" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup>
+</p><p>Balderstone made history on 15 September 1975 by taking part in a County Championship match and a Football League game on the same day.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Balderstone was 51 not out against <a href="/wiki/Derbyshire_County_Cricket_Club" title="Derbyshire County Cricket Club">Derbyshire</a> at the end of day two of Leicestershire's match at Chesterfield. After close of play he changed into his football kit to play for <a href="/wiki/Doncaster_Rovers_F.C." title="Doncaster Rovers F.C.">Doncaster Rovers</a> in an evening match 30 miles away (a 1–1 draw with <a href="/wiki/Brentford_F.C." title="Brentford F.C.">Brentford</a>). He then returned to Chesterfield the following morning to complete a century and take three wickets to help wrap up Leicestershire's first ever County Championship title.<sup id="cite_ref-donny_5-3" class="reference"><a href="#cite_note-donny-5">&#91;5&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+In 1977 Leicestershire won their last trophy in this period, a second Sunday League victory.<sup id="cite_ref-cb_3-11" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup>
+</p><p>Among his many personal notes  was in 1976 when he did the hat-trick against Sussex at Eastbourne. Five years later, against Essex at Grace Road, Leicestershire's home ground, he shared an unbroken county record second wicket stand of 289 with <a href="/wiki/David_Gower" title="David Gower">David Gower</a>.<sup id="cite_ref-cb_3-12" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup>
+</p><p>Having had a delayed cricket career, Balderstone played on for Leicestershire into his mid-40s without noticeably losing batting form or his fielding athleticism. Though he bowled less frequently from 1980 onwards, his batting helped take Leicestershire to runners up in the 1982 County Championship. He picked up a sixth and final winners' medal with a third Benson &amp; Hedges victory in 1985. This makes him winner of the highest number of medals in the club's history. Balderstone was given a testimonial benefit season in 1984 and played on for Leicestershire until 1986.<sup id="cite_ref-cb_3-13" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="England">England</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chris_Balderstone&amp;action=edit&amp;section=8" title="Edit section: England">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1976, Balderstone was called into the <a href="/wiki/English_cricket_team" class="mw-redirect" title="English cricket team">England Test team</a> to make his international debut aged 35 having focused in his younger days on football.<sup id="cite_ref-Cap_2-1" class="reference"><a href="#cite_note-Cap-2">&#91;2&#93;</a></sup> Against other international sides he might have played more Tests, for he was chosen on the strength of consistent quality performances for Leicestershire. It was his misfortune, however, to come up against the West Indies just as they were reaching that level of intimidation they were to maintain for the next two decades. Against the fearsome pace of <a href="/wiki/Andy_Roberts_(cricketer)" title="Andy Roberts (cricketer)">Andy Roberts</a> and <a href="/wiki/Michael_Holding" title="Michael Holding">Michael Holding</a> he struggled, like so many other English batsmen: his four innings produced only 39 runs. He did though score 35 from sticking it out for 3½ hours at the crease on his test debut. In his second test, at a parched Oval, he encountered Michael Holding and one of the finest individual fast-bowling performances in history – Holding took 14 wickets in the test.  Opposing fast bowler <a href="/wiki/Vanburn_Holder" title="Vanburn Holder">Vanburn Holder</a> later said, "I played against him when we had a pretty ferocious attack and he never blinked. He had plenty of courage."<sup id="cite_ref-cb_3-14" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Umpire">Umpire</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chris_Balderstone&amp;action=edit&amp;section=9" title="Edit section: Umpire">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Balderstone moved directly into umpiring the season after he stopped playing, standing in two One Day Internationals in the mid-1990s.<sup id="cite_ref-cb_3-15" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Death">Death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chris_Balderstone&amp;action=edit&amp;section=10" title="Edit section: Death">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Chris Balderstone died suddenly at his home in Carlisle on 6 March 2000, having suffered from <a href="/wiki/Prostate_cancer" title="Prostate cancer">prostate cancer</a>.<sup id="cite_ref-cb_3-16" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup>
+</p><p><a href="/wiki/Barrie_Leadbeater" title="Barrie Leadbeater">Barrie Leadbeater</a>, the umpires' chairman and a close friend, said: "He was a fine, positive player who won a lot of friends by his approach. He was a gentleman in everything he did on and off the field and his death came as a tremendous shock. He will be sadly missed. There was a refreshing honesty about everything he did and he was a true sportsman of the like we don't see today."<sup id="cite_ref-cb_3-17" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup>
+</p><p><a href="/wiki/Vanburn_Holder" title="Vanburn Holder">Vanburn Holder</a>, like Balderstone, became an umpire and stood in Balderstone's last game as an umpire, at the <a href="/wiki/St_Lawrence_Ground" title="St Lawrence Ground">St Lawrence Ground</a>, <a href="/wiki/Canterbury" title="Canterbury">Canterbury</a>. Holder said: "He was a great companion, a fine umpire and an exceptional sportsman."<sup id="cite_ref-cb_3-18" class="reference"><a href="#cite_note-cb-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Honours">Honours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chris_Balderstone&amp;action=edit&amp;section=11" title="Edit section: Honours">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Football">Football</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chris_Balderstone&amp;action=edit&amp;section=12" title="Edit section: Football">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Carlisle United:-</b>
+</p>
+<ul><li>Second Division 1973/74 – promotion</li>
+<li>League Cup 1969/70 – Semi finalist</li></ul>
+<h3><span class="mw-headline" id="Cricket">Cricket</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chris_Balderstone&amp;action=edit&amp;section=13" title="Edit section: Cricket">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Leicestershire</b>:-
+</p>
+<ul><li><a href="/wiki/County_Championship" title="County Championship">County Championship</a> – winner – 1975; runner up 1982</li>
+<li><a href="/wiki/Pro40" title="Pro40">Sunday/National League</a> – winner – 1974, 1977; runner up 1972</li>
+<li><a href="/wiki/Benson_%26_Hedges_Cup" title="Benson &amp; Hedges Cup">Benson &amp; Hedges Cup</a> – winner – 1972, 1975, 1985; runner up 1974</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chris_Balderstone&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-guard-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-guard_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-guard_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">David Hopps (7 March 2000). <a rel="nofollow" class="external text" href="https://www.theguardian.com/football/2000/mar/07/newsstory.sport7">"Chris Balderstone, all-round sportsman, dies at 59"</a>. <i>Obituary</i>. guardian.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">3 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Obituary&amp;rft.atitle=Chris+Balderstone%2C+all-round+sportsman%2C+dies+at+59&amp;rft.date=2000-03-07&amp;rft.au=David+Hopps&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Ffootball%2F2000%2Fmar%2F07%2Fnewsstory.sport7&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChris+Balderstone" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Cap-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Cap_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cap_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Bateman, Colin (1993). <i>If The Cap Fits</i>. Tony Williams Publications. p.&#160;16. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-869833-21-X" title="Special:BookSources/1-869833-21-X"><bdi>1-869833-21-X</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=If+The+Cap+Fits&amp;rft.pages=16&amp;rft.pub=Tony+Williams+Publications&amp;rft.date=1993&amp;rft.isbn=1-869833-21-X&amp;rft.aulast=Bateman&amp;rft.aufirst=Colin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChris+Balderstone" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-cb-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-cb_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cb_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-cb_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-cb_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-cb_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-cb_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-cb_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-cb_3-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-cb_3-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-cb_3-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-cb_3-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-cb_3-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-cb_3-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-cb_3-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-cb_3-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-cb_3-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-cb_3-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-cb_3-17"><sup><i><b>r</b></i></sup></a> <a href="#cite_ref-cb_3-18"><sup><i><b>s</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://qosfc.com/new_newsview.aspx?newsid=609">"Chris Balderstone full cricket and football career profile on www.qosfc.com</a></span>
+</li>
+<li id="cite_note-fl-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-fl_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-fl_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-fl_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.neilbrown.newcastlefans.com/player/chrisbalderstone.html">Chris Balderstone</a> at Post War English &amp; Scottish Football League A–Z Player's Database</span>
+</li>
+<li id="cite_note-donny-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-donny_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-donny_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-donny_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-donny_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Doug Thomson. <a rel="nofollow" class="external text" href="http://www.donny.co.uk/Doncaster/news/index.php3?ID=483">"Famous Doncastrian: Chris Balderstone"</a>. <i>Huddersfield Daily Examiner</i>. Donny online<span class="reference-accessdate">. Retrieved <span class="nowrap">9 October</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Huddersfield+Daily+Examiner&amp;rft.atitle=Famous+Doncastrian%3A+Chris+Balderstone&amp;rft.au=Doug+Thomson&amp;rft_id=http%3A%2F%2Fwww.donny.co.uk%2FDoncaster%2Fnews%2Findex.php3%3FID%3D483&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChris+Balderstone" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://qosfc.com/legends">Crawford Boyd and George Cloy interviews</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Richard Cox, et al., eds., <i>Encyclopedia of British Football</i> (Frank Cass Publishing, 2002) p17</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport2/hi/sports_talk/stump_bearders/3773877.stm">"Stump the Bearded Wonder No. 76"</a>, BBC Sport, 3 June 2004</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chris_Balderstone&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.cricinfo.com/england/content/player/8962.html">Cricinfo profile</a></li></ul>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q3528380&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q3528380&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q3528380" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000043480156">0000 0000 4348 0156</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/nb2005006640">nb2005006640</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/33974716">33974716</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/33974716">33974716</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20190929155323
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.604 seconds
+Real time usage: 0.767 seconds
+Preprocessor visited node count: 4298/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 42885/2097152 bytes
+Template argument size: 4178/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14521/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.270/10.000 seconds
+Lua memory usage: 5.55 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  697.168      1 -total
+ 48.02%  334.764      1 Template:Infobox_football_biography
+ 44.41%  309.609      1 Template:Infobox3cols
+ 22.35%  155.843      3 Template:Infobox
+ 20.67%  144.098      1 Template:Reflist
+ 16.45%  114.653      1 Template:Infobox_cricketer
+ 13.61%   94.856      1 Template:Birth_date
+ 13.30%   92.711      2 Template:Cite_web
+  8.08%   56.361      1 Template:Height
+  6.20%   43.210      1 Template:Convert
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3727519-0!canonical and timestamp 20190929155323 and revision id 851116128
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Chris_Balderstone&amp;oldid=851116128">https://en.wikipedia.org/w/index.php?title=Chris_Balderstone&amp;oldid=851116128</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1940_births" title="Category:1940 births">1940 births</a></li><li><a href="/wiki/Category:2000_deaths" title="Category:2000 deaths">2000 deaths</a></li><li><a href="/wiki/Category:Sportspeople_from_Huddersfield" title="Category:Sportspeople from Huddersfield">Sportspeople from Huddersfield</a></li><li><a href="/wiki/Category:English_cricketers" title="Category:English cricketers">English cricketers</a></li><li><a href="/wiki/Category:England_Test_cricketers" title="Category:England Test cricketers">England Test cricketers</a></li><li><a href="/wiki/Category:Yorkshire_cricketers" title="Category:Yorkshire cricketers">Yorkshire cricketers</a></li><li><a href="/wiki/Category:Leicestershire_cricketers" title="Category:Leicestershire cricketers">Leicestershire cricketers</a></li><li><a href="/wiki/Category:English_One_Day_International_cricket_umpires" title="Category:English One Day International cricket umpires">English One Day International cricket umpires</a></li><li><a href="/wiki/Category:English_footballers" title="Category:English footballers">English footballers</a></li><li><a href="/wiki/Category:English_Football_League_players" title="Category:English Football League players">English Football League players</a></li><li><a href="/wiki/Category:Huddersfield_Town_A.F.C._players" title="Category:Huddersfield Town A.F.C. players">Huddersfield Town A.F.C. players</a></li><li><a href="/wiki/Category:Carlisle_United_F.C._players" title="Category:Carlisle United F.C. players">Carlisle United F.C. players</a></li><li><a href="/wiki/Category:Doncaster_Rovers_F.C._players" title="Category:Doncaster Rovers F.C. players">Doncaster Rovers F.C. players</a></li><li><a href="/wiki/Category:Queen_of_the_South_F.C._players" title="Category:Queen of the South F.C. players">Queen of the South F.C. players</a></li><li><a href="/wiki/Category:Leicester_United_F.C._players" title="Category:Leicester United F.C. players">Leicester United F.C. players</a></li><li><a href="/wiki/Category:Deaths_from_prostate_cancer" title="Category:Deaths from prostate cancer">Deaths from prostate cancer</a></li><li><a href="/wiki/Category:Scottish_Football_League_players" title="Category:Scottish Football League players">Scottish Football League players</a></li><li><a href="/wiki/Category:Association_football_midfielders" title="Category:Association football midfielders">Association football midfielders</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_script_errors" title="Category:Pages with script errors">Pages with script errors</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_February_2013" title="Category:Use dmy dates from February 2013">Use dmy dates from February 2013</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Chris+Balderstone" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Chris+Balderstone" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Chris_Balderstone" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Chris_Balderstone" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Chris_Balderstone">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Chris_Balderstone&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Chris_Balderstone&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Chris_Balderstone" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Chris_Balderstone" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Chris_Balderstone&amp;oldid=851116128" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Chris_Balderstone&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3528380" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Chris_Balderstone&amp;id=851116128" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Chris+Balderstone">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Chris+Balderstone&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Chris_Balderstone&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%B8_%E0%A6%AC%E0%A6%B2%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A7%8B%E0%A6%A8" title="ক্রিস বল্ডারস্টোন – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-ha"><a href="https://ha.wikipedia.org/wiki/Chris_Balderstone" title="Chris Balderstone – Hausa" lang="ha" hreflang="ha" class="interlanguage-link-target">Hausa</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B8_%E0%A4%AC%E0%A4%BE%E0%A4%B2%E0%A5%8D%E0%A4%A1%E0%A4%B0%E0%A4%B8%E0%A5%8D%E0%A4%9F%E0%A5%8B%E0%A4%A8" title="क्रिस बाल्डरस्टोन – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%BF%E0%AE%B0%E0%AE%BF%E0%AE%B8%E0%AF%8D_%E0%AE%AA%E0%AE%BE%E0%AE%B2%E0%AF%8D%E0%AE%9F%E0%AF%86%E0%AE%B0%E0%AF%8D%E0%AE%B8%E0%AF%8D%E0%AE%9F%E0%AF%8B%E0%AE%A9%E0%AF%8D" title="கிரிஸ் பால்டெர்ஸ்டோன் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3528380#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 July 2018, at 05:38<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Chris_Balderstone&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.604","walltime":"0.767","ppvisitednodes":{"value":4298,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":42885,"limit":2097152},"templateargumentsize":{"value":4178,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14521,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  697.168      1 -total"," 48.02%  334.764      1 Template:Infobox_football_biography"," 44.41%  309.609      1 Template:Infobox3cols"," 22.35%  155.843      3 Template:Infobox"," 20.67%  144.098      1 Template:Reflist"," 16.45%  114.653      1 Template:Infobox_cricketer"," 13.61%   94.856      1 Template:Birth_date"," 13.30%   92.711      2 Template:Cite_web","  8.08%   56.361      1 Template:Height","  6.20%   43.210      1 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.270","limit":"10.000"},"limitreport-memusage":{"value":5818463,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20190929155323","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Chris Balderstone","url":"https:\/\/en.wikipedia.org\/wiki\/Chris_Balderstone","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3528380","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3528380","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-15T07:49:31Z","dateModified":"2018-07-20T05:38:12Z","headline":"Cricket player of England."}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1255"});});</script>
+</body>
+</html>
+

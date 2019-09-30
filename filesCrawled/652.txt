@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Football League First Division - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Football_League_First_Division","wgTitle":"Football League First Division","wgCurRevisionId":916654754,"wgRevisionId":916654754,"wgArticleId":28789929,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from July 2013","Use British English from October 2010","Football League First Division","Defunct Football League divisions","Defunct top level football leagues in Europe","Defunct second level football leagues in Europe"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb",
+"Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Football_League_First_Division","wgRelevantArticleId":28789929,"wgRequestId":"XYi@gApAICEAAFN0rAsAAABJ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q754839","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready",
+"noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Football_League_First_Division"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Football_League_First_Division&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Football_League_First_Division&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Football_League_First_Division"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Football_League_First_Division rootpage-Football_League_First_Division skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Football League First Division</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox" style="width:22em;width:auto; min-width:22em; max-width:30em"><caption>Football League First Division</caption><tbody><tr><th scope="row" style="white-space: nowrap">Organising body</th><td><a href="/wiki/English_Football_League" title="English Football League">The Football League</a></td></tr><tr><th scope="row" style="white-space: nowrap">Founded</th><td>1888</td></tr><tr><th scope="row" style="white-space: nowrap">Folded</th><td>2004</td></tr><tr><th scope="row" style="white-space: nowrap">Country</th><td>England</td></tr><tr><th scope="row" style="white-space: nowrap">Other club(s) from</th><td><a href="/wiki/Wales" title="Wales">Wales</a></td></tr><tr><th scope="row" style="white-space: nowrap">Number of teams</th><td>24 (1992–2004)</td></tr><tr><th scope="row" style="white-space: nowrap">Level on pyramid</th><td>1 (1888–1992)<br /> 2 (1992–2004)</td></tr><tr><th scope="row" style="white-space: nowrap"><a href="/wiki/Promotion_and_relegation" title="Promotion and relegation">Promotion</a> to</th><td><a href="/wiki/Premier_League" title="Premier League">Premier League</a> (1992–2004)</td></tr><tr><th scope="row" style="white-space: nowrap"><a href="/wiki/Promotion_and_relegation" title="Promotion and relegation">Relegation</a> to</th><td><a href="/wiki/Football_League_Second_Division" title="Football League Second Division">Second Division</a></td></tr><tr><th scope="row" style="white-space: nowrap">Domestic cup(s)</th><td><a href="/wiki/FA_Cup" title="FA Cup">FA Cup</a></td></tr><tr><th scope="row" style="white-space: nowrap">League cup(s)</th><td><a href="/wiki/Football_League_Cup" class="mw-redirect" title="Football League Cup">League Cup</a><br /><a href="/wiki/Full_Members_Cup" class="mw-redirect" title="Full Members Cup">Full Members Cup</a> (1985–1992)</td></tr><tr><th scope="row" style="white-space: nowrap">International cup(s)</th><td><a href="/wiki/UEFA_Champions_League" title="UEFA Champions League">European Cup</a> (1956–1985, 1991–1992)<br /><a href="/wiki/UEFA_Cup_Winners%27_Cup" title="UEFA Cup Winners&#39; Cup">European Cup Winners' Cup</a> (1960–1985, 1990–1999)<br /><a href="/wiki/UEFA_Europa_League" title="UEFA Europa League">UEFA Cup</a> (1971–1985, 1990–2004)<br /><a href="/wiki/Inter-Cities_Fairs_Cup" title="Inter-Cities Fairs Cup">Inter-Cities Fairs Cup</a> (1955–1971)</td></tr><tr><th scope="row" style="white-space: nowrap">Last champions</th><td><a href="/wiki/Leeds_United_F.C." title="Leeds United F.C.">Leeds United</a><br />(<a href="/wiki/1991%E2%80%9392_Football_League" title="1991–92 Football League">1991–92</a>)<br /> <a href="/wiki/Norwich_City_F.C." title="Norwich City F.C.">Norwich City</a> <br />(<a href="/wiki/2003%E2%80%9304_Football_League_First_Division" title="2003–04 Football League First Division">2003–04</a>)</td></tr><tr><th scope="row" style="white-space: nowrap">Most championships</th><td><a href="/wiki/Liverpool_F.C." title="Liverpool F.C.">Liverpool</a> <br />(18 titles)</td></tr><tr><th scope="row" style="white-space: nowrap">Top goalscorer</th><td><a href="/wiki/Jimmy_Greaves" title="Jimmy Greaves">Jimmy Greaves</a> (357)</td></tr></tbody></table>
+<p>The <b>Football League First Division</b> is a former division of the <a href="/wiki/English_Football_League" title="English Football League">Football League</a> and from <a href="/wiki/1888%E2%80%9389_Football_League" title="1888–89 Football League">1888</a> to <a href="/wiki/1991%E2%80%9392_Football_League" title="1991–92 Football League">1992</a>, it was the top tier division in the <a href="/wiki/English_football_league_system" title="English football league system">English football league system</a>. Following the creation of the <a href="/wiki/Premier_League" title="Premier League">Premier League</a>, it became the second tier division. It was rebranded as the Football League Championship in <a href="/wiki/2004%E2%80%9305_Football_League" title="2004–05 Football League">2004</a> and in <a href="/wiki/2016%E2%80%9317_EFL_Championship" title="2016–17 EFL Championship">2016</a> adopted its current name of the <a href="/wiki/EFL_Championship" title="EFL Championship">EFL Championship</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Trophy_and_players&#39;_medals"><span class="tocnumber">2</span> <span class="toctext">Trophy and players' medals</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#First_Division_champions"><span class="tocnumber">3</span> <span class="toctext">First Division champions</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Football_League_First_Division&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Football_in_England#History_of_English_football" title="Football in England">Football in England §&#160;History of English football</a></div>
+<p>The Football League was founded in 1888 by <a href="/wiki/Aston_Villa" class="mw-redirect" title="Aston Villa">Aston Villa</a> director <a href="/wiki/William_McGregor_(football)" title="William McGregor (football)">William McGregor</a>. It originally consisted of a single division of 12 clubs (<a href="/wiki/Accrington_F.C." title="Accrington F.C.">Accrington</a>, <a href="/wiki/Aston_Villa_F.C." title="Aston Villa F.C.">Aston Villa</a>, <a href="/wiki/Blackburn_Rovers_F.C." title="Blackburn Rovers F.C.">Blackburn Rovers</a>, <a href="/wiki/Bolton_Wanderers_F.C." title="Bolton Wanderers F.C.">Bolton Wanderers</a>, <a href="/wiki/Burnley_F.C." title="Burnley F.C.">Burnley</a>, <a href="/wiki/Derby_County_F.C." title="Derby County F.C.">Derby County</a>, <a href="/wiki/Everton_F.C." title="Everton F.C.">Everton</a>, <a href="/wiki/Notts_County_F.C." title="Notts County F.C.">Notts County</a>, <a href="/wiki/Preston_North_End_F.C." title="Preston North End F.C.">Preston North End</a>, Stoke (now <a href="/wiki/Stoke_City_F.C." title="Stoke City F.C.">Stoke City</a>), <a href="/wiki/West_Bromwich_Albion_F.C." title="West Bromwich Albion F.C.">West Bromwich Albion</a> and <a href="/wiki/Wolverhampton_Wanderers_F.C." title="Wolverhampton Wanderers F.C.">Wolverhampton Wanderers</a>), known as The Football League. When the League admitted additional members from the rival <a href="/wiki/Football_Alliance" title="Football Alliance">Football Alliance</a> in 1892, it was split into two divisions.
+</p><p>For the next 100 years, the First Division was the top professional league in English football. Then, in 1992 the 22 clubs making up the First Division elected to resign from the Football League and set up the <a href="/wiki/Premier_League" title="Premier League">Premier League</a>. The Football League was consequently re-organised, with the Second, Third and Fourth Divisions now renamed the First, Second and Third respectively. Thus, the First Division, while still the top level of the Football League, now became the second level of the entire <a href="/wiki/English_football_league_system" title="English football league system">English football league system</a>.
+</p><p>The First Division was renamed as the <b>Football League Championship</b> prior to the start of the <a href="/wiki/2004%E2%80%9305_Football_League" title="2004–05 Football League">2004–05 season</a>, as part of a league-wide rebrand. The Football League rebranded itself as the English Football League prior to the <a href="/wiki/2016%E2%80%9317_English_Football_League" title="2016–17 English Football League">2016–17 season</a>, with its top level becoming the <b>EFL Championship</b> at that time.
+</p><p>Liverpool were the most frequent winners of the First Division when it was the top flight of English football, winning it a total of 18 times.
+</p>
+<h2><span id="Trophy_and_players.27_medals"></span><span class="mw-headline" id="Trophy_and_players'_medals">Trophy and players' medals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Football_League_First_Division&amp;action=edit&amp;section=2" title="Edit section: Trophy and players&#039; medals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Football League First Division trophy was first awarded in 1891, and was presented to the winners through to 1992.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>As of the <a href="/wiki/1947%E2%80%9348_Football_League" title="1947–48 Football League">1947–48 season</a> making 7 appearance for their club during the season was not enough for a player to qualify for a winners medal.<sup id="cite_ref-afc_2-0" class="reference"><a href="#cite_note-afc-2">&#91;2&#93;</a></sup>
+</p><p>As of the <a href="/wiki/1975%E2%80%9376_Football_League" title="1975–76 Football League">1975–76 season</a> players had to make 14 appearances for their club during the season in order to qualify for a winners medal.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="First_Division_champions">First Division champions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Football_League_First_Division&amp;action=edit&amp;section=3" title="Edit section: First Division champions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>See <a href="/wiki/List_of_English_football_champions" title="List of English football champions">List of English football champions</a> and <a href="/wiki/List_of_winners_of_English_Football_League_Championship_and_predecessors" class="mw-redirect" title="List of winners of English Football League Championship and predecessors">List of winners of English Football League Championship and predecessors</a>.</i>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Football_League_First_Division&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nationalfootballmuseum.com/collections_detail/football-league-first-division-trophy-1890">"Football League First Division Trophy, 1890"</a>. <a href="/wiki/National_Football_Museum" title="National Football Museum">National Football Museum</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Football+League+First+Division+Trophy%2C+1890&amp;rft.pub=National+Football+Museum&amp;rft_id=http%3A%2F%2Fwww.nationalfootballmuseum.com%2Fcollections_detail%2Ffootball-league-first-division-trophy-1890&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFootball+League+First+Division" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-afc-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-afc_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121013232656/http://www.arsenal.com/history/profiles/357/bryn-jones">"Player profile: Bryn Jones"</a>. <i>Arsenal player database</i>. Arsenal.com. Archived from <a rel="nofollow" class="external text" href="http://www.arsenal.com/history/profiles/357/bryn-jones">the original</a> on 13 October 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">13 June</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Arsenal+player+database&amp;rft.atitle=Player+profile%3A+Bryn+Jones&amp;rft_id=http%3A%2F%2Fwww.arsenal.com%2Fhistory%2Fprofiles%2F357%2Fbryn-jones&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFootball+League+First+Division" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.liverpoolfc.tv/history/past-players/joey-jones">"Joey Jones: Profile"</a>. Liverpool FC<span class="reference-accessdate">. Retrieved <span class="nowrap">20 May</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Joey+Jones%3A+Profile&amp;rft.pub=Liverpool+FC&amp;rft_id=http%3A%2F%2Fwww.liverpoolfc.tv%2Fhistory%2Fpast-players%2Fjoey-jones&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFootball+League+First+Division" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Football_League_First_Division&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" class="navbox" aria-labelledby="Football_League_First_Division" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Football_League_First_Division_seasons" title="Template:Football League First Division seasons"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Football_League_First_Division_seasons" title="Template talk:Football League First Division seasons"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Football_League_First_Division_seasons&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Football_League_First_Division" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Football League First Division</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">First Level</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1888%E2%80%9389_Football_League" title="1888–89 Football League">1888–89</a></li>
+<li><a href="/wiki/1889%E2%80%9390_Football_League" title="1889–90 Football League">1889–90</a></li>
+<li><a href="/wiki/1890%E2%80%9391_Football_League" title="1890–91 Football League">1890–91</a></li>
+<li><a href="/wiki/1891%E2%80%9392_Football_League" title="1891–92 Football League">1891–92</a></li>
+<li><a href="/wiki/1892%E2%80%9393_Football_League_First_Division" class="mw-redirect" title="1892–93 Football League First Division">1892–93</a></li>
+<li><a href="/wiki/1893%E2%80%9394_Football_League_First_Division" class="mw-redirect" title="1893–94 Football League First Division">1893–94</a></li>
+<li><a href="/wiki/1894%E2%80%9395_Football_League_First_Division" class="mw-redirect" title="1894–95 Football League First Division">1894–95</a></li>
+<li><a href="/wiki/1895%E2%80%9396_Football_League_First_Division" class="mw-redirect" title="1895–96 Football League First Division">1895–96</a></li>
+<li><a href="/wiki/1896%E2%80%9397_Football_League_First_Division" class="mw-redirect" title="1896–97 Football League First Division">1896–97</a></li>
+<li><a href="/wiki/1897%E2%80%9398_Football_League_First_Division" class="mw-redirect" title="1897–98 Football League First Division">1897–98</a></li>
+<li><a href="/wiki/1898%E2%80%9399_Football_League_First_Division" class="mw-redirect" title="1898–99 Football League First Division">1898–99</a></li>
+<li><a href="/wiki/1899%E2%80%931900_Football_League_First_Division" class="mw-redirect" title="1899–1900 Football League First Division">1899–1900</a></li>
+<li><a href="/wiki/1900%E2%80%9301_Football_League_First_Division" class="mw-redirect" title="1900–01 Football League First Division">1900–01</a></li>
+<li><a href="/wiki/1901%E2%80%9302_Football_League_First_Division" class="mw-redirect" title="1901–02 Football League First Division">1901–02</a></li>
+<li><a href="/wiki/1902%E2%80%9303_Football_League_First_Division" class="mw-redirect" title="1902–03 Football League First Division">1902–03</a></li>
+<li><a href="/wiki/1903%E2%80%9304_Football_League_First_Division" class="mw-redirect" title="1903–04 Football League First Division">1903–04</a></li>
+<li><a href="/wiki/1904%E2%80%9305_Football_League_First_Division" class="mw-redirect" title="1904–05 Football League First Division">1904–05</a></li>
+<li><a href="/wiki/1905%E2%80%9306_Football_League_First_Division" class="mw-redirect" title="1905–06 Football League First Division">1905–06</a></li>
+<li><a href="/wiki/1906%E2%80%9307_Football_League_First_Division" class="mw-redirect" title="1906–07 Football League First Division">1906–07</a></li>
+<li><a href="/wiki/1907%E2%80%9308_Football_League_First_Division" class="mw-redirect" title="1907–08 Football League First Division">1907–08</a></li>
+<li><a href="/wiki/1908%E2%80%9309_Football_League_First_Division" class="mw-redirect" title="1908–09 Football League First Division">1908–09</a></li>
+<li><a href="/wiki/1909%E2%80%9310_Football_League_First_Division" class="mw-redirect" title="1909–10 Football League First Division">1909–10</a></li>
+<li><a href="/wiki/1910%E2%80%9311_Football_League_First_Division" class="mw-redirect" title="1910–11 Football League First Division">1910–11</a></li>
+<li><a href="/wiki/1911%E2%80%9312_Football_League_First_Division" class="mw-redirect" title="1911–12 Football League First Division">1911–12</a></li>
+<li><a href="/wiki/1912%E2%80%9313_Football_League_First_Division" class="mw-redirect" title="1912–13 Football League First Division">1912–13</a></li>
+<li><a href="/wiki/1913%E2%80%9314_Football_League_First_Division" class="mw-redirect" title="1913–14 Football League First Division">1913–14</a></li>
+<li><a href="/wiki/1914%E2%80%9315_Football_League_First_Division" class="mw-redirect" title="1914–15 Football League First Division">1914–15</a></li>
+<li><i><a href="/wiki/First_World_War" class="mw-redirect" title="First World War">First World War</a></i></li>
+<li><a href="/wiki/1919%E2%80%9320_Football_League_First_Division" class="mw-redirect" title="1919–20 Football League First Division">1919–20</a></li>
+<li><a href="/wiki/1920%E2%80%9321_Football_League_First_Division" class="mw-redirect" title="1920–21 Football League First Division">1920–21</a></li>
+<li><a href="/wiki/1921%E2%80%9322_Football_League_First_Division" class="mw-redirect" title="1921–22 Football League First Division">1921–22</a></li>
+<li><a href="/wiki/1922%E2%80%9323_Football_League_First_Division" class="mw-redirect" title="1922–23 Football League First Division">1922–23</a></li>
+<li><a href="/wiki/1923%E2%80%9324_Football_League_First_Division" class="mw-redirect" title="1923–24 Football League First Division">1923–24</a></li>
+<li><a href="/wiki/1924%E2%80%9325_Football_League_First_Division" class="mw-redirect" title="1924–25 Football League First Division">1924–25</a></li>
+<li><a href="/wiki/1925%E2%80%9326_Football_League_First_Division" class="mw-redirect" title="1925–26 Football League First Division">1925–26</a></li>
+<li><a href="/wiki/1926%E2%80%9327_Football_League_First_Division" class="mw-redirect" title="1926–27 Football League First Division">1926–27</a></li>
+<li><a href="/wiki/1927%E2%80%9328_Football_League_First_Division" class="mw-redirect" title="1927–28 Football League First Division">1927–28</a></li>
+<li><a href="/wiki/1928%E2%80%9329_Football_League_First_Division" class="mw-redirect" title="1928–29 Football League First Division">1928–29</a></li>
+<li><a href="/wiki/1929%E2%80%9330_Football_League_First_Division" class="mw-redirect" title="1929–30 Football League First Division">1929–30</a></li>
+<li><a href="/wiki/1930%E2%80%9331_Football_League_First_Division" class="mw-redirect" title="1930–31 Football League First Division">1930–31</a></li>
+<li><a href="/wiki/1931%E2%80%9332_Football_League_First_Division" class="mw-redirect" title="1931–32 Football League First Division">1931–32</a></li>
+<li><a href="/wiki/1932%E2%80%9333_Football_League_First_Division" class="mw-redirect" title="1932–33 Football League First Division">1932–33</a></li>
+<li><a href="/wiki/1933%E2%80%9334_Football_League_First_Division" class="mw-redirect" title="1933–34 Football League First Division">1933–34</a></li>
+<li><a href="/wiki/1934%E2%80%9335_Football_League_First_Division" class="mw-redirect" title="1934–35 Football League First Division">1934–35</a></li>
+<li><a href="/wiki/1935%E2%80%9336_Football_League_First_Division" class="mw-redirect" title="1935–36 Football League First Division">1935–36</a></li>
+<li><a href="/wiki/1936%E2%80%9337_Football_League_First_Division" class="mw-redirect" title="1936–37 Football League First Division">1936–37</a></li>
+<li><a href="/wiki/1937%E2%80%9338_Football_League_First_Division" class="mw-redirect" title="1937–38 Football League First Division">1937–38</a></li>
+<li><a href="/wiki/1938%E2%80%9339_Football_League_First_Division" class="mw-redirect" title="1938–39 Football League First Division">1938–39</a></li>
+<li><a href="/wiki/1939%E2%80%9340_Football_League_First_Division" class="mw-redirect" title="1939–40 Football League First Division">1939–40</a></li>
+<li><i><a href="/wiki/Second_World_War" class="mw-redirect" title="Second World War">Second World War</a></i></li>
+<li><a href="/wiki/1946%E2%80%9347_Football_League_First_Division" class="mw-redirect" title="1946–47 Football League First Division">1946–47</a></li>
+<li><a href="/wiki/1947%E2%80%9348_Football_League_First_Division" class="mw-redirect" title="1947–48 Football League First Division">1947–48</a></li>
+<li><a href="/wiki/1948%E2%80%9349_Football_League_First_Division" class="mw-redirect" title="1948–49 Football League First Division">1948–49</a></li>
+<li><a href="/wiki/1949%E2%80%9350_Football_League_First_Division" class="mw-redirect" title="1949–50 Football League First Division">1949–50</a></li>
+<li><a href="/wiki/1950%E2%80%9351_Football_League_First_Division" class="mw-redirect" title="1950–51 Football League First Division">1950–51</a></li>
+<li><a href="/wiki/1951%E2%80%9352_Football_League_First_Division" class="mw-redirect" title="1951–52 Football League First Division">1951–52</a></li>
+<li><a href="/wiki/1952%E2%80%9353_Football_League_First_Division" class="mw-redirect" title="1952–53 Football League First Division">1952–53</a></li>
+<li><a href="/wiki/1953%E2%80%9354_Football_League_First_Division" class="mw-redirect" title="1953–54 Football League First Division">1953–54</a></li>
+<li><a href="/wiki/1954%E2%80%9355_Football_League_First_Division" class="mw-redirect" title="1954–55 Football League First Division">1954–55</a></li>
+<li><a href="/wiki/1955%E2%80%9356_Football_League_First_Division" class="mw-redirect" title="1955–56 Football League First Division">1955–56</a></li>
+<li><a href="/wiki/1956%E2%80%9357_Football_League_First_Division" class="mw-redirect" title="1956–57 Football League First Division">1956–57</a></li>
+<li><a href="/wiki/1957%E2%80%9358_Football_League_First_Division" class="mw-redirect" title="1957–58 Football League First Division">1957–58</a></li>
+<li><a href="/wiki/1958%E2%80%9359_Football_League_First_Division" class="mw-redirect" title="1958–59 Football League First Division">1958–59</a></li>
+<li><a href="/wiki/1959%E2%80%9360_Football_League_First_Division" class="mw-redirect" title="1959–60 Football League First Division">1959–60</a></li>
+<li><a href="/wiki/1960%E2%80%9361_Football_League_First_Division" title="1960–61 Football League First Division">1960–61</a></li>
+<li><a href="/wiki/1961%E2%80%9362_Football_League_First_Division" title="1961–62 Football League First Division">1961–62</a></li>
+<li><a href="/wiki/1962%E2%80%9363_Football_League_First_Division" title="1962–63 Football League First Division">1962–63</a></li>
+<li><a href="/wiki/1963%E2%80%9364_Football_League_First_Division" title="1963–64 Football League First Division">1963–64</a></li>
+<li><a href="/wiki/1964%E2%80%9365_Football_League_First_Division" title="1964–65 Football League First Division">1964–65</a></li>
+<li><a href="/wiki/1965%E2%80%9366_Football_League_First_Division" title="1965–66 Football League First Division">1965–66</a></li>
+<li><a href="/wiki/1966%E2%80%9367_Football_League_First_Division" title="1966–67 Football League First Division">1966–67</a></li>
+<li><a href="/wiki/1967%E2%80%9368_Football_League_First_Division" title="1967–68 Football League First Division">1967–68</a></li>
+<li><a href="/wiki/1968%E2%80%9369_Football_League_First_Division" title="1968–69 Football League First Division">1968–69</a></li>
+<li><a href="/wiki/1969%E2%80%9370_Football_League_First_Division" title="1969–70 Football League First Division">1969–70</a></li>
+<li><a href="/wiki/1970%E2%80%9371_Football_League_First_Division" title="1970–71 Football League First Division">1970–71</a></li>
+<li><a href="/wiki/1971%E2%80%9372_Football_League_First_Division" title="1971–72 Football League First Division">1971–72</a></li>
+<li><a href="/wiki/1972%E2%80%9373_Football_League_First_Division" title="1972–73 Football League First Division">1972–73</a></li>
+<li><a href="/wiki/1973%E2%80%9374_Football_League_First_Division" title="1973–74 Football League First Division">1973–74</a></li>
+<li><a href="/wiki/1974%E2%80%9375_Football_League_First_Division" title="1974–75 Football League First Division">1974–75</a></li>
+<li><a href="/wiki/1975%E2%80%9376_Football_League_First_Division" title="1975–76 Football League First Division">1975–76</a></li>
+<li><a href="/wiki/1976%E2%80%9377_Football_League_First_Division" title="1976–77 Football League First Division">1976–77</a></li>
+<li><a href="/wiki/1977%E2%80%9378_Football_League_First_Division" class="mw-redirect" title="1977–78 Football League First Division">1977–78</a></li>
+<li><a href="/wiki/1978%E2%80%9379_Football_League_First_Division" class="mw-redirect" title="1978–79 Football League First Division">1978–79</a></li>
+<li><a href="/wiki/1979%E2%80%9380_Football_League_First_Division" class="mw-redirect" title="1979–80 Football League First Division">1979–80</a></li>
+<li><a href="/wiki/1980%E2%80%9381_Football_League_First_Division" class="mw-redirect" title="1980–81 Football League First Division">1980–81</a></li>
+<li><a href="/wiki/1981%E2%80%9382_Football_League_First_Division" class="mw-redirect" title="1981–82 Football League First Division">1981–82</a></li>
+<li><a href="/wiki/1982%E2%80%9383_Football_League_First_Division" class="mw-redirect" title="1982–83 Football League First Division">1982–83</a></li>
+<li><a href="/wiki/1983%E2%80%9384_Football_League_First_Division" class="mw-redirect" title="1983–84 Football League First Division">1983–84</a></li>
+<li><a href="/wiki/1984%E2%80%9385_Football_League_First_Division" class="mw-redirect" title="1984–85 Football League First Division">1984–85</a></li>
+<li><a href="/wiki/1985%E2%80%9386_Football_League_First_Division" class="mw-redirect" title="1985–86 Football League First Division">1985–86</a></li>
+<li><a href="/wiki/1986%E2%80%9387_Football_League_First_Division" class="mw-redirect" title="1986–87 Football League First Division">1986–87</a></li>
+<li><a href="/wiki/1987%E2%80%9388_Football_League_First_Division" class="mw-redirect" title="1987–88 Football League First Division">1987–88</a></li>
+<li><a href="/wiki/1988%E2%80%9389_Football_League_First_Division" class="mw-redirect" title="1988–89 Football League First Division">1988–89</a></li>
+<li><a href="/wiki/1989%E2%80%9390_Football_League_First_Division" title="1989–90 Football League First Division">1989–90</a></li>
+<li><a href="/wiki/1990%E2%80%9391_Football_League_First_Division" title="1990–91 Football League First Division">1990–91</a></li>
+<li><a href="/wiki/1991%E2%80%9392_Football_League_First_Division" title="1991–92 Football League First Division">1991–92</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Second Level</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1992%E2%80%9393_Football_League_First_Division" class="mw-redirect" title="1992–93 Football League First Division">1992–93</a></li>
+<li><a href="/wiki/1993%E2%80%9394_Football_League_First_Division" class="mw-redirect" title="1993–94 Football League First Division">1993–94</a></li>
+<li><a href="/wiki/1994%E2%80%9395_Football_League_First_Division" class="mw-redirect" title="1994–95 Football League First Division">1994–95</a></li>
+<li><a href="/wiki/1995%E2%80%9396_Football_League_First_Division" class="mw-redirect" title="1995–96 Football League First Division">1995–96</a></li>
+<li><a href="/wiki/1996%E2%80%9397_Football_League_First_Division" class="mw-redirect" title="1996–97 Football League First Division">1996–97</a></li>
+<li><a href="/wiki/1997%E2%80%9398_Football_League_First_Division" title="1997–98 Football League First Division">1997–98</a></li>
+<li><a href="/wiki/1998%E2%80%9399_Football_League_First_Division" class="mw-redirect" title="1998–99 Football League First Division">1998–99</a></li>
+<li><a href="/wiki/1999%E2%80%932000_Football_League_First_Division" class="mw-redirect" title="1999–2000 Football League First Division">1999–2000</a></li>
+<li><a href="/wiki/2000%E2%80%9301_Football_League_First_Division" class="mw-redirect" title="2000–01 Football League First Division">2000–01</a></li>
+<li><a href="/wiki/2001%E2%80%9302_Football_League_First_Division" class="mw-redirect" title="2001–02 Football League First Division">2001–02</a></li>
+<li><a href="/wiki/2002%E2%80%9303_Football_League_First_Division" title="2002–03 Football League First Division">2002–03</a></li>
+<li><a href="/wiki/2003%E2%80%9304_Football_League_First_Division" title="2003–04 Football League First Division">2003–04</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Men&amp;#039;s_football_in_England" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Men%27s_football_in_England" title="Template:Men&#39;s football in England"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Men%27s_football_in_England" title="Template talk:Men&#39;s football in England"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Men%27s_football_in_England&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Men&amp;#039;s_football_in_England" style="font-size:114%;margin:0 4em"><a href="/wiki/Football_in_England" title="Football in England">Men's football in England</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="The_Football_Association"><a href="/wiki/The_Football_Association" title="The Football Association">The Football Association</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National teams</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/England_national_football_team" title="England national football team">England</a></li>
+<li><a href="/wiki/England_national_football_B_team" title="England national football B team">B</a></li>
+<li><a href="/wiki/England_national_football_C_team" title="England national football C team">C</a></li>
+<li><a href="/wiki/England_national_under-21_football_team" title="England national under-21 football team">U-21</a></li>
+<li><a href="/wiki/England_national_under-20_football_team" title="England national under-20 football team">U-20</a></li>
+<li><a href="/wiki/England_national_under-19_football_team" title="England national under-19 football team">U-19</a></li>
+<li><a href="/wiki/England_national_under-18_football_team" title="England national under-18 football team">U-18</a></li>
+<li><a href="/wiki/England_national_under-17_football_team" title="England national under-17 football team">U-17</a></li>
+<li><a href="/wiki/England_national_under-16_football_team" title="England national under-16 football team">U-16</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/English_football_league_system" title="English football league system">League competitions</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Level 1</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Premier_League" title="Premier League">Premier League</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Levels 2–4</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/English_Football_League" title="English Football League">English Football League</a>
+<ul><li><a href="/wiki/EFL_Championship" title="EFL Championship">EFL Championship</a></li>
+<li><a href="/wiki/EFL_League_One" title="EFL League One">EFL League One</a></li>
+<li><a href="/wiki/EFL_League_Two" title="EFL League Two">EFL League Two</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Levels 5–6</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/National_League_(English_football)" title="National League (English football)">National League</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Levels 7–8</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Isthmian_League" title="Isthmian League">Isthmian League</a></li>
+<li><a href="/wiki/Northern_Premier_League" title="Northern Premier League">Northern Premier League</a></li>
+<li><a href="/wiki/Southern_Football_League" title="Southern Football League">Southern League</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Levels 9–10</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Combined_Counties_Football_League" title="Combined Counties Football League">Combined Counties League</a></li>
+<li><a href="/wiki/East_Midlands_Counties_Football_League" title="East Midlands Counties Football League">East Midlands Counties League</a> (<span style="font-size:85%;">level 10 only</span>)</li>
+<li><a href="/wiki/Eastern_Counties_Football_League" title="Eastern Counties Football League">Eastern Counties League</a></li>
+<li><a href="/wiki/Essex_Senior_Football_League" title="Essex Senior Football League">Essex Senior League</a> (<span style="font-size:85%;">level 9 only</span>)</li>
+<li><a href="/wiki/Hellenic_Football_League" title="Hellenic Football League">Hellenic League</a></li>
+<li><a href="/wiki/Midland_Football_League_(2014)" class="mw-redirect" title="Midland Football League (2014)">Midland League</a></li>
+<li><a href="/wiki/Northern_Counties_East_Football_League" title="Northern Counties East Football League">Northern Counties East League</a></li>
+<li><a href="/wiki/Northern_Football_League" title="Northern Football League">Northern League</a></li>
+<li><a href="/wiki/North_West_Counties_Football_League" title="North West Counties Football League">North West Counties League</a></li>
+<li><a href="/wiki/Southern_Combination_Football_League" title="Southern Combination Football League">Southern Combination League</a></li>
+<li><a href="/wiki/Southern_Counties_East_Football_League" title="Southern Counties East Football League">Southern Counties East League</a></li>
+<li><a href="/wiki/South_West_Peninsula_League" title="South West Peninsula League">South West Peninsula League</a> (<span style="font-size:85%;">level 10 only</span>)</li>
+<li><a href="/wiki/Spartan_South_Midlands_Football_League" title="Spartan South Midlands Football League">Spartan South Midlands League</a></li>
+<li><a href="/wiki/United_Counties_League" title="United Counties League">United Counties League</a></li>
+<li><a href="/wiki/Wessex_Football_League" title="Wessex Football League">Wessex Football League</a></li>
+<li><a href="/wiki/Western_Football_League" title="Western Football League">Western League</a></li>
+<li><a href="/wiki/West_Midlands_(Regional)_League" title="West Midlands (Regional) League">West Midlands (Regional) League</a> (<span style="font-size:85%;">level 10 only</span>)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Cup competitions</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">FA cups</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/FA_Cup" title="FA Cup">FA Cup</a></li>
+<li><a href="/wiki/FA_Community_Shield" title="FA Community Shield">FA Community Shield</a></li>
+<li><a href="/wiki/FA_Trophy" title="FA Trophy">FA Trophy</a></li>
+<li><a href="/wiki/FA_Vase" title="FA Vase">FA Vase</a></li>
+<li><a href="/wiki/FA_Inter-League_Cup" title="FA Inter-League Cup">FA Inter-League Cup</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">League cups</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/EFL_Cup" title="EFL Cup">EFL Cup</a></li>
+<li><a href="/wiki/EFL_Trophy" title="EFL Trophy">EFL Trophy</a></li>
+<li><a href="/wiki/Northern_Premier_League_Challenge_Cup" class="mw-redirect" title="Northern Premier League Challenge Cup">Northern Premier League Cup</a></li>
+<li><a href="/wiki/Alan_Turvey_Trophy" title="Alan Turvey Trophy">Isthmian League Cup</a></li>
+<li><a href="/wiki/Southern_Football_League_Cup_(England)" title="Southern Football League Cup (England)">Southern League Cup</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">County cups</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/County_cup" class="mw-redirect" title="County cup">List of county cups</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Others</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Template:Reserve_and_Youth_football_in_England" title="Template:Reserve and Youth football in England">Reserve and youth football</a></li>
+<li><a href="/wiki/Category:Defunct_football_leagues_in_England" title="Category:Defunct football leagues in England">Defunct leagues</a></li>
+<li><a href="/wiki/Category:Defunct_football_cup_competitions_in_England" title="Category:Defunct football cup competitions in England">Defunct cups</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Lists</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_football_clubs_in_England" title="List of football clubs in England">List of clubs</a></li>
+<li><a href="/wiki/List_of_football_clubs_in_England_by_competitive_honours_won" title="List of football clubs in England by competitive honours won">List of clubs by honours won</a></li>
+<li><a href="/wiki/List_of_current_Premier_League_and_English_Football_League_managers" title="List of current Premier League and English Football League managers">Current managers</a></li>
+<li><a href="/wiki/English_football_clubs_in_international_competitions" title="English football clubs in international competitions">Clubs in international competitions</a></li>
+<li><a href="/wiki/List_of_football_stadiums_in_England" title="List of football stadiums in England">Stadiums by capacity</a></li>
+<li><a href="/wiki/List_of_record_home_attendances_of_English_football_clubs" title="List of record home attendances of English football clubs">Record home attendances</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/List_of_football_stadiums_in_England" title="List of football stadiums in England">Venues</a></li>
+<li><a href="/wiki/Category:Football_competitions_in_England" title="Category:Football competitions in England">Competitions</a></li>
+<li><a href="/wiki/Category:English_football_trophies_and_awards" title="Category:English football trophies and awards">Trophies and awards</a></li>
+<li><a href="/wiki/History_of_football_in_England" title="History of football in England">History</a></li>
+<li><a href="/wiki/Football_records_and_statistics_in_England" title="Football records and statistics in England">Records</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Top-level_men&amp;#039;s_football_leagues_of_Europe_(UEFA)" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:UEFA_leagues" title="Template:UEFA leagues"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:UEFA_leagues" title="Template talk:UEFA leagues"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:UEFA_leagues&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Top-level_men&amp;#039;s_football_leagues_of_Europe_(UEFA)" style="font-size:114%;margin:0 4em">Top-level men's <a href="/wiki/Association_football" title="Association football">football</a> leagues of Europe (<a href="/wiki/UEFA" title="UEFA">UEFA</a>)</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_Superliga" title="Albanian Superliga">Albania</a></li>
+<li><a href="/wiki/Primera_Divisi%C3%B3" title="Primera Divisió">Andorra</a></li>
+<li><a href="/wiki/Armenian_Premier_League" title="Armenian Premier League">Armenia</a></li>
+<li><a href="/wiki/Austrian_Football_Bundesliga" title="Austrian Football Bundesliga">Austria</a></li>
+<li><a href="/wiki/Azerbaijan_Premier_League" title="Azerbaijan Premier League">Azerbaijan</a></li>
+<li><a href="/wiki/Belarusian_Premier_League" title="Belarusian Premier League">Belarus</a></li>
+<li><a href="/wiki/Belgian_First_Division_A" title="Belgian First Division A">Belgium</a></li>
+<li><a href="/wiki/Premier_League_of_Bosnia_and_Herzegovina" title="Premier League of Bosnia and Herzegovina">Bosnia and Herzegovina</a></li>
+<li><a href="/wiki/First_Professional_Football_League_(Bulgaria)" title="First Professional Football League (Bulgaria)">Bulgaria</a></li>
+<li><a href="/wiki/Croatian_First_Football_League" title="Croatian First Football League">Croatia</a></li>
+<li><a href="/wiki/Cypriot_First_Division" title="Cypriot First Division">Cyprus</a></li>
+<li><a href="/wiki/Czech_First_League" title="Czech First League">Czech Republic</a></li>
+<li><a href="/wiki/Danish_Superliga" title="Danish Superliga">Denmark</a></li>
+<li><a href="/wiki/Premier_League" title="Premier League">England</a></li>
+<li><a href="/wiki/Meistriliiga" title="Meistriliiga">Estonia</a></li>
+<li><a href="/wiki/Faroe_Islands_Premier_League" title="Faroe Islands Premier League">Faroe Islands</a></li>
+<li><a href="/wiki/Veikkausliiga" title="Veikkausliiga">Finland</a></li>
+<li><a href="/wiki/Ligue_1" title="Ligue 1">France</a></li>
+<li><a href="/wiki/Erovnuli_Liga" title="Erovnuli Liga">Georgia</a></li>
+<li><a href="/wiki/Bundesliga" title="Bundesliga">Germany</a></li>
+<li><a href="/wiki/Gibraltar_National_League" title="Gibraltar National League">Gibraltar</a></li>
+<li><a href="/wiki/Super_League_Greece" title="Super League Greece">Greece</a></li>
+<li><a href="/wiki/Nemzeti_Bajnoks%C3%A1g_I" title="Nemzeti Bajnokság I">Hungary</a></li>
+<li><a href="/wiki/%C3%9Arvalsdeild_karla_(football)" title="Úrvalsdeild karla (football)">Iceland</a></li>
+<li><a href="/wiki/Israeli_Premier_League" title="Israeli Premier League">Israel</a></li>
+<li><a href="/wiki/Serie_A" title="Serie A">Italy</a></li>
+<li><a href="/wiki/Kazakhstan_Premier_League" title="Kazakhstan Premier League">Kazakhstan</a></li>
+<li><a href="/wiki/Football_Superleague_of_Kosovo" title="Football Superleague of Kosovo">Kosovo</a></li>
+<li><a href="/wiki/Latvian_Higher_League" title="Latvian Higher League">Latvia</a></li>
+<li><a href="/wiki/A_Lyga" title="A Lyga">Lithuania</a></li>
+<li><a href="/wiki/Luxembourg_National_Division" title="Luxembourg National Division">Luxembourg</a></li>
+<li><a href="/wiki/Maltese_Premier_League" title="Maltese Premier League">Malta</a></li>
+<li><a href="/wiki/Moldovan_National_Division" title="Moldovan National Division">Moldova</a></li>
+<li><a href="/wiki/Montenegrin_First_League" title="Montenegrin First League">Montenegro</a></li>
+<li><a href="/wiki/Eredivisie" title="Eredivisie">Netherlands</a></li>
+<li><a href="/wiki/Macedonian_First_Football_League" title="Macedonian First Football League">North Macedonia</a></li>
+<li><a href="/wiki/NIFL_Premiership" title="NIFL Premiership">Northern Ireland</a></li>
+<li><a href="/wiki/Eliteserien" title="Eliteserien">Norway</a></li>
+<li><a href="/wiki/Ekstraklasa" title="Ekstraklasa">Poland</a></li>
+<li><a href="/wiki/Primeira_Liga" title="Primeira Liga">Portugal</a></li>
+<li><a href="/wiki/League_of_Ireland_Premier_Division" title="League of Ireland Premier Division">Republic of Ireland</a></li>
+<li><a href="/wiki/Liga_I" title="Liga I">Romania</a></li>
+<li><a href="/wiki/Russian_Premier_League" title="Russian Premier League">Russia</a></li>
+<li><a href="/wiki/Campionato_Sammarinese_di_Calcio" title="Campionato Sammarinese di Calcio">San Marino</a></li>
+<li><a href="/wiki/Scottish_Premiership" title="Scottish Premiership">Scotland</a></li>
+<li><a href="/wiki/Serbian_SuperLiga" title="Serbian SuperLiga">Serbia</a></li>
+<li><a href="/wiki/Slovak_Super_Liga" title="Slovak Super Liga">Slovakia</a></li>
+<li><a href="/wiki/Slovenian_PrvaLiga" title="Slovenian PrvaLiga">Slovenia</a></li>
+<li><a href="/wiki/La_Liga" title="La Liga">Spain</a></li>
+<li><a href="/wiki/Allsvenskan" title="Allsvenskan">Sweden</a></li>
+<li><a href="/wiki/Swiss_Super_League" title="Swiss Super League">Switzerland</a></li>
+<li><a href="/wiki/S%C3%BCper_Lig" title="Süper Lig">Turkey</a></li>
+<li><a href="/wiki/Ukrainian_Premier_League" title="Ukrainian Premier League">Ukraine</a></li>
+<li><a href="/wiki/Welsh_Premier_League" class="mw-redirect" title="Welsh Premier League">Wales</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>Austria
+<ul><li><small><a href="/wiki/Tagblatt_Pokal" title="Tagblatt Pokal">Tagblatt Pokal</a></small></li>
+<li><small><a href="/wiki/Gauliga_Ostmark" title="Gauliga Ostmark">Gauliga Ostmark</a></small></li></ul></li>
+<li><a href="/wiki/First_League_of_Bosnia_and_Herzegovina" title="First League of Bosnia and Herzegovina">Bosnia and Herzegovina</a></li>
+<li><a href="/wiki/Bulgarian_football_league_system" title="Bulgarian football league system">Bulgaria</a>
+<ul><li><small><a href="/wiki/Bulgarian_Republic_Football_Championship" title="Bulgarian Republic Football Championship">Republic</a></small></li>
+<li><small><a href="/wiki/Bulgarian_State_Football_Championship" title="Bulgarian State Football Championship">State</a></small></li></ul></li>
+<li><a href="/wiki/Czechoslovak_First_League" title="Czechoslovak First League">Czechoslovakia</a></li>
+<li><a href="/wiki/The_Football_Tournament" title="The Football Tournament">Denmark</a></li>
+<li><a href="/wiki/DDR-Oberliga" title="DDR-Oberliga">East Germany</a></li>
+<li><a class="mw-selflink selflink">England</a></li>
+<li><a href="/wiki/Mestaruussarja" title="Mestaruussarja">Finland</a></li>
+<li><a href="/wiki/German_football_league_system" title="German football league system">Germany</a>
+<ul><li><small><a href="/wiki/Bezirksliga_Bayern" title="Bezirksliga Bayern">Bezirksliga Bayern</a></small></li>
+<li><small><a href="/wiki/Gauliga" title="Gauliga">Gauliga</a></small></li>
+<li><small><a href="/wiki/Kreisliga_Bayern" title="Kreisliga Bayern">Kreisliga Bayern</a></small></li>
+<li><small><a href="/wiki/Kreisliga_Hessen" title="Kreisliga Hessen">Hessen</a></small></li>
+<li><small><a href="/wiki/Kreisliga_Nordmain" title="Kreisliga Nordmain">Nordmain</a></small></li>
+<li><small><a href="/wiki/Kreisliga_Odenwald" title="Kreisliga Odenwald">Odenwald</a></small></li>
+<li><small><a href="/wiki/Kreisliga_Pfalz" title="Kreisliga Pfalz">Pfalz</a></small></li>
+<li><small><a href="/wiki/Kreisliga_Saar" title="Kreisliga Saar">Saar</a></small></li>
+<li><small><a href="/wiki/Kreisliga_S%C3%BCdmain" title="Kreisliga Südmain">Südmain</a></small></li>
+<li><small><a href="/wiki/Kreisliga_S%C3%BCdwest" title="Kreisliga Südwest">Südwest</a></small></li>
+<li><small><a href="/wiki/Kreisliga_W%C3%BCrttemberg" title="Kreisliga Württemberg">Württemberg</a></small></li>
+<li><small><a href="/wiki/Nordkreis-Liga" title="Nordkreis-Liga">Nordkreis-Liga</a></small></li>
+<li><small><a href="/wiki/Oberliga_Berlin_(1945%E2%80%9363)" title="Oberliga Berlin (1945–63)">Oberliga Berlin</a></small></li>
+<li><small><a href="/wiki/Oberliga_Nord_(1947%E2%80%9363)" title="Oberliga Nord (1947–63)">Oberliga Nord</a></small></li>
+<li><small><a href="/wiki/Oberliga_S%C3%BCd_(1945%E2%80%9363)" title="Oberliga Süd (1945–63)">Oberliga Süd</a></small></li>
+<li><small><a href="/wiki/Oberliga_S%C3%BCdwest_(1945%E2%80%9363)" title="Oberliga Südwest (1945–63)">Oberliga Südwest</a></small></li>
+<li><small><a href="/wiki/Oberliga_West_(1947%E2%80%9363)" title="Oberliga West (1947–63)">Oberliga West</a></small></li>
+<li><small><a href="/wiki/S%C3%BCdkreis-Liga" title="Südkreis-Liga">Südkreis-Liga</a></small></li>
+<li><small><a href="/wiki/Westkreis-Liga" title="Westkreis-Liga">Westkreis-Liga</a></small></li></ul></li>
+<li><a href="/wiki/Gibraltar_Premier_Division" title="Gibraltar Premier Division">Gibraltar</a></li>
+<li><a href="/wiki/First_League_of_Herzeg-Bosnia" title="First League of Herzeg-Bosnia">Herzeg-Bosnia</a></li>
+<li><a href="/wiki/Palestine_League" title="Palestine League">Mandatory Palestine</a></li>
+<li><a href="/wiki/Scottish_football_league_system" title="Scottish football league system">Scotland</a>
+<ul><li><small><a href="/wiki/Scottish_Football_League_Premier_Division" title="Scottish Football League Premier Division">Premier Division</a></small></li>
+<li><small><a href="/wiki/Scottish_Premier_League" title="Scottish Premier League">Premier League</a></small></li></ul></li>
+<li><a href="/wiki/Turkish_football_league_system" title="Turkish football league system">Turkey</a>
+<ul><li><small><a href="/wiki/Turkish_Football_Championship" title="Turkish Football Championship">Turkish Championship</a></small></li>
+<li><small><a href="/wiki/Turkish_National_Division" title="Turkish National Division">National Division</a></small></li></ul></li>
+<li><a href="/wiki/First_League_of_Serbia_and_Montenegro" title="First League of Serbia and Montenegro">Serbia and Montenegro</a></li>
+<li><a href="/wiki/Soviet_Top_League" title="Soviet Top League">Soviet Union</a></li>
+<li><a href="/wiki/Yugoslav_First_League" title="Yugoslav First League">Yugoslavia</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Non-recognized</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Artsakh_Football_League" title="Artsakh Football League">Artsakh</a></li>
+<li><a href="/wiki/Crimean_Premier_League" title="Crimean Premier League">Crimea</a></li>
+<li><a href="/wiki/Isle_of_Man_Football_League" title="Isle of Man Football League">Isle of Man</a></li>
+<li><a href="/wiki/Challenge_Prince_Rainier_III" title="Challenge Prince Rainier III">Monaco</a></li>
+<li><a href="/wiki/KTFF_S%C3%BCper_Lig" title="KTFF Süper Lig">Northern Cyprus</a></li>
+<li><a href="/wiki/Vatican_City_Championship" title="Vatican City Championship">Vatican City</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Second_level_football_leagues_of_Europe_(UEFA)" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:UEFA_second_leagues" title="Template:UEFA second leagues"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:UEFA_second_leagues" title="Template talk:UEFA second leagues"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:UEFA_second_leagues&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Second_level_football_leagues_of_Europe_(UEFA)" style="font-size:114%;margin:0 4em">Second level <a href="/wiki/Association_football" title="Association football">football</a> leagues of Europe (<a href="/wiki/UEFA" title="UEFA">UEFA</a>)</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_First_Division" title="Albanian First Division">Albania</a></li>
+<li><a href="/wiki/Segona_Divisi%C3%B3" title="Segona Divisió">Andorra</a></li>
+<li><a href="/wiki/Armenian_First_League" title="Armenian First League">Armenia</a></li>
+<li><a href="/wiki/Austrian_Football_First_League" class="mw-redirect" title="Austrian Football First League">Austria</a></li>
+<li><a href="/wiki/Azerbaijan_First_Division" title="Azerbaijan First Division">Azerbaijan</a></li>
+<li><a href="/wiki/Belarusian_First_League" title="Belarusian First League">Belarus</a></li>
+<li><a href="/wiki/Belgian_First_Division_B" title="Belgian First Division B">Belgium</a></li>
+<li><a href="/wiki/Bosnia_and_Herzegovina_football_league_system" title="Bosnia and Herzegovina football league system">Bosnia and Herzegovina</a>
+<ul><li><small><a href="/wiki/First_League_of_the_Federation_of_Bosnia_and_Herzegovina" title="First League of the Federation of Bosnia and Herzegovina">Federation</a></small></li>
+<li><small><a href="/wiki/First_League_of_the_Republika_Srpska" title="First League of the Republika Srpska">Republika Srpska</a></small></li></ul></li>
+<li><a href="/wiki/Bulgarian_B_Professional_Football_Group" class="mw-redirect" title="Bulgarian B Professional Football Group">Bulgaria</a></li>
+<li><a href="/wiki/Croatian_Second_Football_League" title="Croatian Second Football League">Croatia</a></li>
+<li><a href="/wiki/Cypriot_Second_Division" title="Cypriot Second Division">Cyprus</a></li>
+<li><a href="/wiki/Czech_National_Football_League" title="Czech National Football League">Czech Republic</a></li>
+<li><a href="/wiki/Danish_1st_Division" title="Danish 1st Division">Denmark</a></li>
+<li><a href="/wiki/EFL_Championship" title="EFL Championship">England</a></li>
+<li><a href="/wiki/Esiliiga" title="Esiliiga">Estonia</a></li>
+<li><a href="/wiki/1._deild" title="1. deild">Faroe Islands</a></li>
+<li><a href="/wiki/Ykk%C3%B6nen" title="Ykkönen">Finland</a></li>
+<li><a href="/wiki/Ligue_2" title="Ligue 2">France</a></li>
+<li><a href="/wiki/Pirveli_Liga" class="mw-redirect" title="Pirveli Liga">Georgia</a></li>
+<li><a href="/wiki/2._Bundesliga" title="2. Bundesliga">Germany</a></li>
+<li><a href="/wiki/Gibraltar_Second_Division" title="Gibraltar Second Division">Gibraltar</a></li>
+<li><a href="/wiki/Super_League_Greece_2" title="Super League Greece 2">Greece</a></li>
+<li><a href="/wiki/Nemzeti_Bajnoks%C3%A1g_II" title="Nemzeti Bajnokság II">Hungary</a></li>
+<li><a href="/wiki/1._deild_karla_(football)" title="1. deild karla (football)">Iceland</a></li>
+<li><a href="/wiki/League_of_Ireland_First_Division" title="League of Ireland First Division">Republic of Ireland</a></li>
+<li><a href="/wiki/Liga_Leumit" title="Liga Leumit">Israel</a></li>
+<li><a href="/wiki/Serie_B" title="Serie B">Italy</a></li>
+<li><a href="/wiki/Kazakhstan_First_Division" title="Kazakhstan First Division">Kazakhstan</a></li>
+<li><a href="/wiki/First_Football_League_of_Kosovo" title="First Football League of Kosovo">Kosovo</a></li>
+<li><a href="/wiki/Latvian_First_League" title="Latvian First League">Latvia</a></li>
+<li><a href="/wiki/I_Lyga" title="I Lyga">Lithuania</a></li>
+<li><a href="/wiki/Luxembourg_Division_of_Honour" title="Luxembourg Division of Honour">Luxembourg</a></li>
+<li><a href="/wiki/Maltese_First_Division" title="Maltese First Division">Malta</a></li>
+<li><a href="/wiki/Moldovan_%22A%22_Division" title="Moldovan &quot;A&quot; Division">Moldova</a></li>
+<li><a href="/wiki/Montenegrin_Second_League" title="Montenegrin Second League">Montenegro</a></li>
+<li><a href="/wiki/Eerste_Divisie" title="Eerste Divisie">Netherlands</a></li>
+<li><a href="/wiki/Macedonian_Second_Football_League" title="Macedonian Second Football League">North Macedonia</a></li>
+<li><a href="/wiki/NIFL_Championship" title="NIFL Championship">Northern Ireland</a></li>
+<li><a href="/wiki/1._divisjon" class="mw-redirect" title="1. divisjon">Norway</a></li>
+<li><a href="/wiki/I_liga_(Poland)" class="mw-redirect" title="I liga (Poland)">Poland</a></li>
+<li><a href="/wiki/LigaPro" title="LigaPro">Portugal</a></li>
+<li><a href="/wiki/Liga_II" title="Liga II">Romania</a></li>
+<li><a href="/wiki/Russian_Football_National_League" title="Russian Football National League">Russia</a></li>
+<li><a href="/wiki/Scottish_Championship" title="Scottish Championship">Scotland</a></li>
+<li><a href="/wiki/Serbian_First_League" title="Serbian First League">Serbia</a></li>
+<li><a href="/wiki/2._Liga_(Slovakia)" title="2. Liga (Slovakia)">Slovakia</a></li>
+<li><a href="/wiki/Slovenian_Second_League" title="Slovenian Second League">Slovenia</a></li>
+<li><a href="/wiki/Segunda_Divisi%C3%B3n" title="Segunda División">Spain</a></li>
+<li><a href="/wiki/Superettan" title="Superettan">Sweden</a></li>
+<li><a href="/wiki/Swiss_Challenge_League" title="Swiss Challenge League">Switzerland</a></li>
+<li><a href="/wiki/TFF_First_League" title="TFF First League">Turkey</a></li>
+<li><a href="/wiki/Ukrainian_First_League" title="Ukrainian First League">Ukraine</a></li>
+<li><a href="/wiki/FAW_Championship" class="mw-redirect" title="FAW Championship">Wales</a>
+<ul><li><small><a href="/wiki/FAW_Championship_North" class="mw-redirect" title="FAW Championship North">North</a></small></li>
+<li><small><a href="/wiki/FAW_Championship_South" class="mw-redirect" title="FAW Championship South">South</a></small></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Belgian_Second_Division" title="Belgian Second Division">Belgium</a></li>
+<li><a href="/wiki/DDR-Liga" title="DDR-Liga">East Germany</a></li>
+<li><a href="/wiki/English_football_league_system" title="English football league system">England</a>
+<ul><li><small><a class="mw-selflink selflink">First Division</a></small></li>
+<li><small><a href="/wiki/Football_League_Second_Division" title="Football League Second Division">Second Division</a></small></li></ul></li>
+<li><a href="/wiki/Suomensarja" title="Suomensarja">Finland</a></li>
+<li><a href="/wiki/German_football_league_system" title="German football league system">Germany</a>
+<ul><li><small><a href="/wiki/2._Bundesliga_Nord_(1974%E2%80%9381)" title="2. Bundesliga Nord (1974–81)">2. Bundesliga Nord</a></small></li>
+<li><small><a href="/wiki/2._Bundesliga_S%C3%BCd_(1974%E2%80%9381)" title="2. Bundesliga Süd (1974–81)">2. Bundesliga Süd</a></small></li>
+<li><small><a href="/wiki/2._Oberliga_S%C3%BCd" title="2. Oberliga Süd">2. Oberliga Süd</a></small></li>
+<li><small><a href="/wiki/2._Oberliga_S%C3%BCdwest" title="2. Oberliga Südwest">2. Oberliga Südwest</a></small></li>
+<li><small><a href="/wiki/2._Oberliga_West" title="2. Oberliga West">2. Oberliga West</a></small></li>
+<li><small><a href="/wiki/Regionalliga_Berlin_(1963%E2%80%9374)" class="mw-redirect" title="Regionalliga Berlin (1963–74)">Berlin</a></small></li>
+<li><small><a href="/wiki/Regionalliga_Nord_(1963%E2%80%9374)" class="mw-redirect" title="Regionalliga Nord (1963–74)">Nord</a></small></li>
+<li><small><a href="/wiki/Regionalliga_S%C3%BCd_(1963%E2%80%9374)" class="mw-redirect" title="Regionalliga Süd (1963–74)">Süd</a></small></li>
+<li><small><a href="/wiki/Regionalliga_S%C3%BCdwest_(1963%E2%80%9374)" class="mw-redirect" title="Regionalliga Südwest (1963–74)">Südwest</a></small></li>
+<li><small><a href="/wiki/Regionalliga_West_(1963%E2%80%9374)" class="mw-redirect" title="Regionalliga West (1963–74)">West</a></small></li></ul></li>
+<li><a href="/wiki/League_of_Ireland_B_Division" title="League of Ireland B Division">Rep of Ireland</a></li>
+<li><a href="/wiki/Liga_Artzit" title="Liga Artzit">Israel</a></li>
+<li><a href="/wiki/Serie_A2_(football)" title="Serie A2 (football)">San Marino</a></li>
+<li><a href="/wiki/Scottish_Football_League_First_Division" title="Scottish Football League First Division">Scotland</a></li>
+<li><a href="/wiki/Second_League_of_Serbia_and_Montenegro" title="Second League of Serbia and Montenegro">Serbia and Montenegro</a></li>
+<li><a href="/wiki/Soviet_First_League" title="Soviet First League">Soviet Union</a></li>
+<li><a href="/wiki/Yugoslav_Second_League" title="Yugoslav Second League">Yugoslavia</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p class="mw-empty-elt">
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20190923122207
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.268 seconds
+Real time usage: 0.347 seconds
+Preprocessor visited node count: 1001/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 103951/2097152 bytes
+Template argument size: 1458/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8750/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.097/10.000 seconds
+Lua memory usage: 2.94 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  245.376      1 -total
+ 37.85%   92.876      1 Template:Reflist
+ 32.11%   78.798      3 Template:Cite_web
+ 17.10%   41.955      6 Template:Navbox
+ 14.65%   35.955      1 Template:Infobox_football_league
+ 13.62%   33.425      1 Template:Use_dmy_dates
+ 13.06%   32.047      1 Template:Infobox
+  8.07%   19.812      1 Template:Football_in_England
+  7.11%   17.449      2 Template:DMCA
+  6.57%   16.122      1 Template:Details
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:28789929-0!canonical and timestamp 20190923122207 and revision id 916654754
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Football_League_First_Division&amp;oldid=916654754">https://en.wikipedia.org/w/index.php?title=Football_League_First_Division&amp;oldid=916654754</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Football_League_First_Division" title="Category:Football League First Division">Football League First Division</a></li><li><a href="/wiki/Category:Defunct_Football_League_divisions" title="Category:Defunct Football League divisions">Defunct Football League divisions</a></li><li><a href="/wiki/Category:Defunct_top_level_football_leagues_in_Europe" title="Category:Defunct top level football leagues in Europe">Defunct top level football leagues in Europe</a></li><li><a href="/wiki/Category:Defunct_second_level_football_leagues_in_Europe" title="Category:Defunct second level football leagues in Europe">Defunct second level football leagues in Europe</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_July_2013" title="Category:Use dmy dates from July 2013">Use dmy dates from July 2013</a></li><li><a href="/wiki/Category:Use_British_English_from_October_2010" title="Category:Use British English from October 2010">Use British English from October 2010</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Football+League+First+Division" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Football+League+First+Division" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Football_League_First_Division" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Football_League_First_Division" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Football_League_First_Division">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Football_League_First_Division&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Football_League_First_Division&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Football_League_First_Division" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Football_League_First_Division" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Football_League_First_Division&amp;oldid=916654754" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Football_League_First_Division&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q754839" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Football_League_First_Division&amp;id=916654754" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Football+League+First+Division">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Football+League+First+Division&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Football_League_First_Division&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%8A_%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D9%82%D8%AF%D9%85_%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A" title="دوري كرة القدم الإنجليزي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AB%E0%A7%81%E0%A6%9F%E0%A6%AC%E0%A6%B2_%E0%A6%B2%E0%A7%80%E0%A6%97_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A5%E0%A6%AE_%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97" title="ফুটবল লীগ প্রথম বিভাগ – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9F%D1%8A%D1%80%D0%B2%D0%B0_%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0_%D0%B4%D0%B8%D0%B2%D0%B8%D0%B7%D0%B8%D1%8F" title="Първа английска дивизия – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Football_League_First_Division" title="Football League First Division – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Football_League_First_Division" title="Football League First Division – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Football_League_First_Division" title="Football League First Division – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Football_League_First_Division" title="Football League First Division – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A6%CE%BF%CF%8D%CF%84%CE%BC%CF%80%CE%BF%CE%BB_%CE%9B%CE%B9%CE%B3%CE%BA_%CE%A6%CE%B5%CF%81%CF%83%CF%84_%CE%9D%CF%84%CE%B9%CE%B2%CE%AF%CE%B6%CE%B9%CE%BF%CE%BD" title="Φούτμπολ Λιγκ Φερστ Ντιβίζιον – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Football_League_First_Division" title="Football League First Division – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Football_League_First_Division" title="Football League First Division – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%84%DB%8C%DA%AF_%D8%AF%D8%B3%D8%AA%D9%87_%D8%A7%D9%88%D9%84_%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84_%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86" title="لیگ دسته اول فوتبال انگلستان – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%92%8B%EB%B3%BC_%EB%A6%AC%EA%B7%B8_1%EB%B6%80" title="풋볼 리그 1부 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Divisi_Pertama_Liga_Inggris" title="Divisi Pertama Liga Inggris – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Enska_fyrsta_deildin_(1888-1992)" title="Enska fyrsta deildin (1888-1992) – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/First_Division" title="First Division – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%9C%D7%99%D7%92%D7%94_%D7%94%D7%A8%D7%90%D7%A9%D7%95%D7%A0%D7%94_%D7%A9%D7%9C_%D7%94%D7%A4%D7%95%D7%98%D7%91%D7%95%D7%9C_%D7%9C%D7%99%D7%92" title="הליגה הראשונה של הפוטבול ליג – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Futbolo_lygos_pirmasis_divizionas" title="Futbolo lygos pirmasis divizionas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Angol_labdar%C3%BAg%C3%B3-bajnoks%C3%A1g_(els%C5%91_oszt%C3%A1ly,_1892%E2%80%931992)" title="Angol labdarúgó-bajnokság (első osztály, 1892–1992) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B2%D0%B0_%D0%B4%D0%B8%D0%B2%D0%B8%D0%B7%D0%B8%D1%98%D0%B0_%D0%BD%D0%B0_%D1%84%D1%83%D0%B4%D0%B1%D0%B0%D0%BB%D1%81%D0%BA%D0%B0%D1%82%D0%B0_%D0%BB%D0%B8%D0%B3%D0%B0_%D0%BD%D0%B0_%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%98%D0%B0" title="Прва дивизија на фудбалската лига на Англија – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mt"><a href="https://mt.wikipedia.org/wiki/L-Ewwel_Divi%C5%BCjoni_tal-Football_League" title="L-Ewwel Diviżjoni tal-Football League – Maltese" lang="mt" hreflang="mt" class="interlanguage-link-target">Malti</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Football_League_First_Division" title="Football League First Division – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Football_League_First_Division" title="Football League First Division – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Football_League_First_Division" title="Football League First Division – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Football_League_First_Division" title="Football League First Division – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B4%D0%B8%D0%B2%D0%B8%D0%B7%D0%B8%D0%BE%D0%BD_%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BB%D0%B8%D0%B3%D0%B8" title="Первый дивизион Футбольной лиги – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D1%80%D0%B2%D0%B0_%D0%B4%D0%B8%D0%B2%D0%B8%D0%B7%D0%B8%D1%98%D0%B0_%D0%A4%D1%83%D0%B4%D0%B1%D0%B0%D0%BB%D1%81%D0%BA%D0%B5_%D0%BB%D0%B8%D0%B3%D0%B5_%D0%95%D0%BD%D0%B3%D0%BB%D0%B5%D1%81%D0%BA%D0%B5" title="Прва дивизија Фудбалске лиге Енглеске – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Englannin_1._divisioona" title="Englannin 1. divisioona – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Football_League_First_Division" title="Football League First Division – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5%E0%B8%A5%E0%B8%B5%E0%B8%81%E0%B9%80%E0%B8%9F%E0%B8%B4%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B8%94%E0%B8%B4%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%99" title="ฟุตบอลลีกเฟิสต์ดิวิชัน – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Football_League_First_Division" title="Football League First Division – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9_%D0%B4%D0%B8%D0%B2%D1%96%D0%B7%D1%96%D0%BE%D0%BD_%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D1%97_%D0%BB%D1%96%D0%B3%D0%B8" title="Перший дивізіон Футбольної ліги – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Football_League_First_Division" title="Football League First Division – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%8B%B1%E6%A0%BC%E8%98%AD%E7%94%B2%E7%B5%84%E8%81%AF%E8%B3%BD" title="英格蘭甲組聯賽 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q754839#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 September 2019, at 23:52<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Football_League_First_Division&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.268","walltime":"0.347","ppvisitednodes":{"value":1001,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":103951,"limit":2097152},"templateargumentsize":{"value":1458,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8750,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  245.376      1 -total"," 37.85%   92.876      1 Template:Reflist"," 32.11%   78.798      3 Template:Cite_web"," 17.10%   41.955      6 Template:Navbox"," 14.65%   35.955      1 Template:Infobox_football_league"," 13.62%   33.425      1 Template:Use_dmy_dates"," 13.06%   32.047      1 Template:Infobox","  8.07%   19.812      1 Template:Football_in_England","  7.11%   17.449      2 Template:DMCA","  6.57%   16.122      1 Template:Details"]},"scribunto":{"limitreport-timeusage":{"value":"0.097","limit":"10.000"},"limitreport-memusage":{"value":3086092,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20190923122207","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Football League First Division","url":"https:\/\/en.wikipedia.org\/wiki\/Football_League_First_Division","sameAs":"http:\/\/www.wikidata.org\/entity\/Q754839","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q754839","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-03-09T13:32:40Z","dateModified":"2019-09-19T23:52:36Z","headline":"men's association football league in England, UK between the seasons of 1888\/1889-2003\/2004"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":129,"wgHostname":"mw1331"});});</script>
+</body>
+</html>
+

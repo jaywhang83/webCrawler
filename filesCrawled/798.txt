@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>William Broadbent - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"William_Broadbent","wgTitle":"William Broadbent","wgCurRevisionId":904132999,"wgRevisionId":904132999,"wgArticleId":11686872,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: extra punctuation","CS1: Julian–Gregorian uncertainty","CS1: long volume value","CS1 errors: missing periodical","EngvarB from July 2017","Use dmy dates from July 2017","Commons category link from Wikidata","Wikipedia articles with BNF identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers",
+"Wikipedia articles with WorldCat-VIAF identifiers","Baronets in the Baronetage of the United Kingdom","British cardiologists","British neurologists","Fellows of the Royal College of Physicians","Fellows of the Royal Society","Knights Commander of the Royal Victorian Order","People educated at Huddersfield New College","People from Huddersfield","Physicians-in-Ordinary","1835 births","1907 deaths","Physicians of St Mary's Hospital, London"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"William_Broadbent","wgRelevantArticleId":11686872,"wgRequestId":"XY3fEQpAICEAAGKGMicAAAAG","wgCSPNonce":!1,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q8005950","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready",
+"mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/William_Broadbent.jpg/1200px-William_Broadbent.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/William_Broadbent"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=William_Broadbent&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=William_Broadbent&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/William_Broadbent"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-William_Broadbent rootpage-William_Broadbent skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">William Broadbent</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<div role="note" class="hatnote navigation-not-searchable">For other people named William Broadbent, see <a href="/wiki/William_Broadbent_(disambiguation)" class="mw-disambig" title="William Broadbent (disambiguation)">William Broadbent (disambiguation)</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:William_Broadbent.jpg" class="image"><img alt="William Broadbent.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/William_Broadbent.jpg/220px-William_Broadbent.jpg" decoding="async" width="220" height="333" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/William_Broadbent.jpg/330px-William_Broadbent.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/William_Broadbent.jpg/440px-William_Broadbent.jpg 2x" data-file-width="1770" data-file-height="2682" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:William_Broadbent.jpg" class="internal" title="Enlarge"></a></div></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:William_Broadbent_Vanity_Fair_30_October_1902.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/William_Broadbent_Vanity_Fair_30_October_1902.jpg/220px-William_Broadbent_Vanity_Fair_30_October_1902.jpg" decoding="async" width="220" height="341" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/William_Broadbent_Vanity_Fair_30_October_1902.jpg/330px-William_Broadbent_Vanity_Fair_30_October_1902.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/William_Broadbent_Vanity_Fair_30_October_1902.jpg/440px-William_Broadbent_Vanity_Fair_30_October_1902.jpg 2x" data-file-width="1776" data-file-height="2755" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:William_Broadbent_Vanity_Fair_30_October_1902.jpg" class="internal" title="Enlarge"></a></div>Broadbent as caricatured by Spy (<a href="/wiki/Leslie_Ward" title="Leslie Ward">Leslie Ward</a>) in <i><a href="/wiki/Vanity_Fair_(British_magazine)" class="mw-redirect" title="Vanity Fair (British magazine)">Vanity Fair</a></i>, October 1902</div></div></div>
+<p><b>Sir William Henry Broadbent, 1st Baronet</b> <span class="noexcerpt" style="font-size:85%;"><a href="/wiki/Knight_Commander_of_the_Royal_Victorian_Order" class="mw-redirect" title="Knight Commander of the Royal Victorian Order">KCVO</a>&#32;<a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">FRS</a>&#32;<a href="/wiki/Fellow_of_the_Royal_College_of_Physicians" class="mw-redirect" title="Fellow of the Royal College of Physicians">FRCP</a></span> (23 January 1835 – 10 July 1907<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>) was an English <a href="/wiki/Neurologist" class="mw-redirect" title="Neurologist">neurologist</a> who was a leading British authority in the field of <a href="/wiki/Cardiology" title="Cardiology">cardiology</a> as well as <a href="/wiki/Neurology" title="Neurology">neurology</a>. He also performed research involving diseases such as <a href="/wiki/Tuberculosis" title="Tuberculosis">tuberculosis</a> and cancer. In 1881 he was elected President of the <a href="/wiki/London_Medical_Society" class="mw-redirect" title="London Medical Society">London Medical Society</a><sup id="cite_ref-times_2-0" class="reference"><a href="#cite_note-times-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> and in 1887 President of the <a href="/wiki/Clinical_Society_of_London" title="Clinical Society of London">Clinical Society of London</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> 
+Broadbent was a Physician-Extraordinary to <a href="/wiki/Queen_Victoria" title="Queen Victoria">Queen Victoria</a> and Physician-in-Ordinary to <a href="/wiki/King_Edward_VII" class="mw-redirect" title="King Edward VII">King Edward VII</a> and the <a href="/wiki/George_V" title="George V">Prince of Wales</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life_and_education"><span class="tocnumber">1</span> <span class="toctext">Early life and education</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career"><span class="tocnumber">2</span> <span class="toctext">Career</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Honours"><span class="tocnumber">3</span> <span class="toctext">Honours</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Personal_life"><span class="tocnumber">4</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Associated_eponyms"><span class="tocnumber">5</span> <span class="toctext">Associated eponyms</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Selected_writings"><span class="tocnumber">6</span> <span class="toctext">Selected writings</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_life_and_education">Early life and education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Broadbent&amp;action=edit&amp;section=1" title="Edit section: Early life and education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Broadbent was born at Longwood Edge in <a href="/wiki/Lindley,_West_Yorkshire" class="mw-redirect" title="Lindley, West Yorkshire">Lindley</a>, now part of <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, West Yorkshire. He was the eldest of seven children born to John Broadbent, a wool manufacturer and prominent <a href="/wiki/Wesleyanism" class="mw-redirect" title="Wesleyanism">Wesleyan</a>, and Esther (<i>née</i> Butterworth). His younger brother was Colonel John Edward Broadbent <span class="noexcerpt" style="font-size:85%;"><a href="/wiki/Companion_of_the_Order_of_the_Bath" class="mw-redirect" title="Companion of the Order of the Bath">CB</a>&#32;<a href="/wiki/Justice_of_the_Peace#United_Kingdom" class="mw-redirect" title="Justice of the Peace">JP</a></span>.<sup id="cite_ref-burke_5-0" class="reference"><a href="#cite_note-burke-5">&#91;5&#93;</a></sup>
+</p><p>He was educated at <a href="/wiki/Huddersfield_New_College" title="Huddersfield New College">Huddersfield College</a> before he decided to study medicine. He was apprenticed to a doctor in Manchester before studying medicine at <a href="/wiki/Owens_College" class="mw-redirect" title="Owens College">Owens College</a>, and the Royal School of Medicine in <a href="/wiki/Manchester" title="Manchester">Manchester</a>. He studied in Paris in 1857 and returned in 1858 to pass the M.B. examination at Manchester.<sup id="cite_ref-rcp_6-0" class="reference"><a href="#cite_note-rcp-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career">Career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Broadbent&amp;action=edit&amp;section=2" title="Edit section: Career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1859, Broadbent took up a junior post at <a href="/wiki/St_Mary%27s_Hospital,_London" title="St Mary&#39;s Hospital, London">St Mary's Hospital, London</a>, with which he was associated for much of his career (1859–1896). The next year he was elected physician to the <a href="/wiki/London_Fever_Hospital" title="London Fever Hospital">London Fever Hospital</a>. In 1865, he was promoted to physician in charge of patients at St. Mary's, and full physician in 1871.<sup id="cite_ref-rcp_6-1" class="reference"><a href="#cite_note-rcp-6">&#91;6&#93;</a></sup><sup id="cite_ref-times_2-1" class="reference"><a href="#cite_note-times-2">&#91;2&#93;</a></sup>
+</p><p>It was through his work at St. Mary's that Broadbent earned his reputation as an expert pathologist and outstanding clinical teacher. His areas of expertise included neurology and cardiology, as well as cancer and typhoid.<sup id="cite_ref-rcp_6-2" class="reference"><a href="#cite_note-rcp-6">&#91;6&#93;</a></sup>
+</p><p>The months of November 1891 to October 1892 were critically important to Broadbent and his career, and gave him a narrow involvement in a notorious series of crimes.  In November to December 1891 Broadbent was involved in saving the life of Prince George (the future King <a href="/wiki/George_V_of_the_United_Kingdom" class="mw-redirect" title="George V of the United Kingdom">George V</a>) from typhoid fever.  At about the same time that he was involved in this he was sent a mysterious letter accusing him of murdering a prostitute named Matilda Clover the previous October with poison.  This letter demanded a huge blackmail amount to avoid ruin.  Broadbent wisely sent the letter to Scotland Yard.  In January 1892, he was sent for by the Royal Family in an attempt to save <a href="/wiki/Albert_Victor,_Duke_of_Clarence_and_Avondale" class="mw-redirect" title="Albert Victor, Duke of Clarence and Avondale">Albert Victor, Duke of Clarence and Avondale</a> the older son of the Prince and Princess of Wales and "heir presumptive" to the throne of England.  The Prince, known as "Prince Eddy" to the public (and nicknamed "Collars and Cuffs" due to some wardrobe choices he made) had caught a virulent strain of influenza.  Broadbent tried everything he could to save the Duke, but on 14 January 1892 the Duke died.  However, the Prince of Wales sent Broadbent a letter thanking him for his endeavours, that preserved for him and his wife one of their sons.
+</p><p>Then, in the late spring, Broadbent was informed of a police investigation into the deaths of a series of prostitutes in the Stepney and Lambeth areas of London that began in October 1891 and continued until April 1892.  One of the victims was Matilda Clover, who had been classified as having died of natural causes, but the letter from the blackmailer to Broadbent gave details showing the woman had been poisoned.  An arrest was made in June 1892 of Dr. <a href="/wiki/Thomas_Neill_Cream" title="Thomas Neill Cream">Thomas Neill Cream</a> for blackmailing another physician named Harper.  Subsequently this was changed to a charge of murder for the poisoning of Matilda Clover.  The trial of the defendant occurred in October 1892, with the charges including the attempted blackmail of Broadbent, and Broadbent's appearance as a witness. Cream was found guilty and sentenced to death, being hanged in November 1892.
+</p><p>Broadbent was a Physician-Extraordinary to <a href="/wiki/Queen_Victoria" title="Queen Victoria">Queen Victoria</a> and Physician-in-Ordinary to <a href="/wiki/King_Edward_VII" class="mw-redirect" title="King Edward VII">King Edward VII</a> and the <a href="/wiki/George_V" title="George V">Prince of Wales</a>.<sup id="cite_ref-rcp_6-3" class="reference"><a href="#cite_note-rcp-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Honours">Honours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Broadbent&amp;action=edit&amp;section=3" title="Edit section: Honours">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Broadbent received honorary doctorates from the universities of <a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">Edinburgh</a>, <a href="/wiki/University_of_St_Andrews" title="University of St Andrews">St. Andrews</a>, <a href="/wiki/University_of_Leeds" title="University of Leeds">Leeds</a>, <a href="/wiki/McGill_University" title="McGill University">McGill</a> and <a href="/wiki/University_of_Toronto" title="University of Toronto">Toronto</a>.<sup id="cite_ref-times_2-2" class="reference"><a href="#cite_note-times-2">&#91;2&#93;</a></sup>
+</p><p>Broadbent was created a <a href="/wiki/Baronet" title="Baronet">baronet</a>, of Brook Street and Longwood, in 1893. He was appointed a <a href="/wiki/Royal_Victorian_Order" title="Royal Victorian Order">Knight Commander of the Royal Victorian Order</a> in March 1901.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Broadbent&amp;action=edit&amp;section=4" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Broadbent married Eliza Harpin in 1863, and had three sons and three daughters:<sup id="cite_ref-burke_5-1" class="reference"><a href="#cite_note-burke-5">&#91;5&#93;</a></sup>
+</p>
+<ul><li>Mary Ethel (1864 – 10 March 1954)</li>
+<li><a href="/wiki/Sir_John_Broadbent,_2nd_Baronet" title="Sir John Broadbent, 2nd Baronet">John Francis Harpin</a> (16 October 1865 – 27 January 1946)</li>
+<li>William Herbert (10 April 1867 – 17 May 1867)</li>
+<li><a href="/wiki/Walter_Broadbent" title="Walter Broadbent">Walter</a> (4 August 1868 – 17 October 1951)</li>
+<li>Gertrude (1870 – 2 August 1905)</li>
+<li>Eliza Madeleine (1872 – 17 December 1949)</li></ul>
+<p>His sons John and Walter also became physicians.<sup id="cite_ref-rcp_6-4" class="reference"><a href="#cite_note-rcp-6">&#91;6&#93;</a></sup>
+</p><p>He died at his home in London in 1907, following an eighth-month illness that began with pneumonia. His eldest son succeeded him in the baronetcy.<sup id="cite_ref-times_2-3" class="reference"><a href="#cite_note-times-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Associated_eponyms">Associated eponyms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Broadbent&amp;action=edit&amp;section=5" title="Edit section: Associated eponyms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Broadbent apoplexy</i>: A type of stroke caused by a <a href="/wiki/Cerebrum" title="Cerebrum">cerebral</a> haemorrhage into the <a href="/wiki/Ventricular_system" title="Ventricular system">ventricular system</a>.</li>
+<li><i><a href="/wiki/Broadbent_sign" title="Broadbent sign">Broadbent sign</a></i>: Recession of the intercostal spaces (near the eleventh and twelfth ribs on the left side of the back) as a sign of adherent <a href="/wiki/Pericardium" title="Pericardium">pericardium</a> (this sign was first described by his son, <a href="/wiki/Walter_Broadbent" title="Walter Broadbent">Walter Broadbent</a>, in 1895).<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li>
+<li><i><a href="/wiki/Broadbent_inverted_sign" title="Broadbent inverted sign">Broadbent inverted sign</a></i>: Pulsations synchronising with ventricular <a href="/wiki/Systole_(medicine)" class="mw-redirect" title="Systole (medicine)">systole</a> on the posterior lateral wall of the chest in gross <a href="https://en.wiktionary.org/wiki/dilatation" class="extiw" title="wiktionary:dilatation">dilatation</a> of the <a href="/wiki/Left_atrium" class="mw-redirect" title="Left atrium">left atrium</a>.</li>
+<li><i>Broadbent law</i>: Medical law that states "lesions of the upper segment of the motor tract cause less marked <a href="/wiki/Paralysis" title="Paralysis">paralysis</a> of muscles that habitually produce bilateral movements than of those that commonly act independently of the opposite side".</li></ul>
+<h2><span class="mw-headline" id="Selected_writings">Selected writings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Broadbent&amp;action=edit&amp;section=6" title="Edit section: Selected writings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>Cancer: A New Method of Treatment</i> (London, 1866)</li>
+<li><i>The Practice of Medicine</i>, (revised by Sir William Broadbent; 7th ed., London 1875)</li>
+<li><i>The Pulse</i> (largely a reproduction of the Croonian Lectures, 1887), (London, 1890)</li>
+<li><i>Heart Disease, With Special Reference to Prognosis and Treatment</i>, (with John Francis Harpin Broadbent), (London, 1897)</li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Broadbent&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://nla.gov.au/nla.news-article56531453">"DEATH OF SIR WILLIAM BROADBENT"</a>. <i><a href="/wiki/The_Register_(Adelaide)" class="mw-redirect" title="The Register (Adelaide)">The Register</a></i>. LXXII, (18, 927). South Australia. 12 July 1907. p.&#160;6<span class="reference-accessdate">. Retrieved <span class="nowrap">1 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Register&amp;rft.atitle=DEATH+OF+SIR+WILLIAM+BROADBENT.&amp;rft.volume=LXXII%2C&amp;rft.issue=18%2C+927&amp;rft.pages=6&amp;rft.date=1907-07-12&amp;rft_id=http%3A%2F%2Fnla.gov.au%2Fnla.news-article56531453&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilliam+Broadbent" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: extra punctuation (<a href="/wiki/Category:CS1_maint:_extra_punctuation" title="Category:CS1 maint: extra punctuation">link</a>)</span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-times-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-times_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-times_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-times_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-times_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">"Obituary: Sir William Broadbent". <i><a href="/wiki/The_Times" title="The Times">The Times</a></i>. The Times Digital Archive. 11 July 1907. p.&#160;10.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Times&amp;rft.atitle=Obituary%3A+Sir+William+Broadbent&amp;rft.pages=10&amp;rft.date=1907-07-11&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilliam+Broadbent" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.org/stream/transmedsoclond00londgoog/transmedsoclond00londgoog_djvu.txt">"Transactions of the Medical Society of London"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Transactions+of+the+Medical+Society+of+London&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Ftransmedsoclond00londgoog%2Ftransmedsoclond00londgoog_djvu.txt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilliam+Broadbent" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">"Transactions of the Clinical Society of London". <b>38</b>. 1905.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Transactions+of+the+Clinical+Society+of+London&amp;rft.volume=38&amp;rft.date=1905&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilliam+Broadbent" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-burke-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-burke_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-burke_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=RVggAAAAYAAJ&amp;pg=PA300"><i>Genealogical and Heraldic Dictionary of the Peerage and Baronetage of the British Empire</i></a>. Burke's Peerage Limited. 1914. p.&#160;300<span class="reference-accessdate">. Retrieved <span class="nowrap">28 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Genealogical+and+Heraldic+Dictionary+of+the+Peerage+and+Baronetage+of+the+British+Empire&amp;rft.pages=300&amp;rft.pub=Burke%27s+Peerage+Limited&amp;rft.date=1914&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DRVggAAAAYAAJ%26pg%3DPA300&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilliam+Broadbent" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-rcp-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-rcp_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rcp_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-rcp_6-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-rcp_6-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-rcp_6-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://munksroll.rcplondon.ac.uk/Biography/Details/561">"Munks Roll Details for William Henry (Sir) Broadbent"</a>. Royal College of Physicians<span class="reference-accessdate">. Retrieved <span class="nowrap">28 September</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Munks+Roll+Details+for+William+Henry+%28Sir%29+Broadbent&amp;rft.pub=Royal+College+of+Physicians&amp;rft_id=http%3A%2F%2Fmunksroll.rcplondon.ac.uk%2FBiography%2FDetails%2F561&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilliam+Broadbent" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite id="CITEREFGazette27296" class="citation magazine"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/27296/page/2019">"No. 27296"</a>. <i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i>. 19 March 1901. p.&#160;2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+London+Gazette&amp;rft.atitle=No.+27296&amp;rft.pages=2019&amp;rft.date=1901-03-19&amp;rft_id=https%3A%2F%2Fwww.thegazette.co.uk%2FLondon%2Fissue%2F27296%2Fpage%2F2019&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWilliam+Broadbent" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Firkin, Barry G. and <a href="/wiki/Judith_Whitworth" title="Judith Whitworth">Whitworth, Judith A.</a> (2001). <i>Dictionary of Medical Eponyms</i>. Informa Health Care. p. 47. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-85070-333-4" title="Special:BookSources/978-1-85070-333-4">978-1-85070-333-4</a>.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Broadbent&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:William_Broadbent" class="extiw" title="commons:Category:William Broadbent">William Broadbent</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.aim25.ac.uk/cgi-bin/search2?coll_id=7099&amp;inst_id=8">Biography of Willam Henry Broadbent</a></li>
+<li>Bloomfield, Jeffrey <i>The Doctor Wrote Some Letters</i>, R. W. Stone, Q.P.M. (ed.) THE CRIMINOLOGIST (Winter 1991: Volume 15, Number 4) (p.&#160;224 – 244).</li></ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr>
+<th colspan="3" style="border-top: 5px solid #ACE777;"><a href="/wiki/List_of_extant_baronetcies" title="List of extant baronetcies">Baronetage of the United Kingdom</a>
+</th></tr>
+
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br /><span style="font-weight: bold">New creation</span>
+</td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Broadbent_baronets" title="Broadbent baronets">Baronet</a><br /></b>(of Brook Street and Longwood)<b></b><br />1893–1907
+</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br /><span style="font-weight: bold"><a href="/wiki/Sir_John_Broadbent,_2nd_Baronet" title="Sir John Broadbent, 2nd Baronet">John Broadbent</a></span>
+</td></tr>
+</tbody></table>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q8005950&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q8005950&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q8005950" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb105995593">cb105995593</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb105995593">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000084312001">0000 0000 8431 2001</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n85809253">n85809253</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=nlk20000083386&amp;CON_LNG=ENG">nlk20000083386</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Royal_Library_of_the_Netherlands" title="Royal Library of the Netherlands">NTA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p188922121">188922121</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/SNAC" title="SNAC">SNAC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://socialarchive.iath.virginia.edu/ark:/99166/w6gt9g7s">w6gt9g7s</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/08858996X">08858996X</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/18688674">18688674</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/18688674">18688674</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1252
+Cached time: 20190925032736
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.512 seconds
+Real time usage: 0.749 seconds
+Preprocessor visited node count: 2850/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25584/2097152 bytes
+Template argument size: 1453/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 10/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 23467/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.262/10.000 seconds
+Lua memory usage: 4.11 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  668.488      1 -total
+ 41.93%  280.283      1 Template:Reflist
+ 18.26%  122.088      2 Template:Cite_news
+ 14.84%   99.188      1 Template:Authority_control
+ 11.53%   77.099      1 Template:Commons_category
+ 10.04%   67.104      1 Template:Commons
+  9.62%   64.283      1 Template:Sister_project
+  9.29%   62.125      2 Template:Post-nominals
+  8.66%   57.911      2 Template:If_empty
+  7.94%   53.060      1 Template:Side_box
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11686872-0!canonical and timestamp 20190925032736 and revision id 904132999
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=William_Broadbent&amp;oldid=904132999">https://en.wikipedia.org/w/index.php?title=William_Broadbent&amp;oldid=904132999</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Baronets_in_the_Baronetage_of_the_United_Kingdom" title="Category:Baronets in the Baronetage of the United Kingdom">Baronets in the Baronetage of the United Kingdom</a></li><li><a href="/wiki/Category:British_cardiologists" title="Category:British cardiologists">British cardiologists</a></li><li><a href="/wiki/Category:British_neurologists" title="Category:British neurologists">British neurologists</a></li><li><a href="/wiki/Category:Fellows_of_the_Royal_College_of_Physicians" title="Category:Fellows of the Royal College of Physicians">Fellows of the Royal College of Physicians</a></li><li><a href="/wiki/Category:Fellows_of_the_Royal_Society" title="Category:Fellows of the Royal Society">Fellows of the Royal Society</a></li><li><a href="/wiki/Category:Knights_Commander_of_the_Royal_Victorian_Order" title="Category:Knights Commander of the Royal Victorian Order">Knights Commander of the Royal Victorian Order</a></li><li><a href="/wiki/Category:People_educated_at_Huddersfield_New_College" title="Category:People educated at Huddersfield New College">People educated at Huddersfield New College</a></li><li><a href="/wiki/Category:People_from_Huddersfield" title="Category:People from Huddersfield">People from Huddersfield</a></li><li><a href="/wiki/Category:Physicians-in-Ordinary" title="Category:Physicians-in-Ordinary">Physicians-in-Ordinary</a></li><li><a href="/wiki/Category:1835_births" title="Category:1835 births">1835 births</a></li><li><a href="/wiki/Category:1907_deaths" title="Category:1907 deaths">1907 deaths</a></li><li><a href="/wiki/Category:Physicians_of_St_Mary%27s_Hospital,_London" title="Category:Physicians of St Mary&#039;s Hospital, London">Physicians of St Mary's Hospital, London</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_extra_punctuation" title="Category:CS1 maint: extra punctuation">CS1 maint: extra punctuation</a></li><li><a href="/wiki/Category:CS1:_Julian%E2%80%93Gregorian_uncertainty" title="Category:CS1: Julian–Gregorian uncertainty">CS1: Julian–Gregorian uncertainty</a></li><li><a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">CS1: long volume value</a></li><li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li><li><a href="/wiki/Category:EngvarB_from_July_2017" title="Category:EngvarB from July 2017">EngvarB from July 2017</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2017" title="Category:Use dmy dates from July 2017">Use dmy dates from July 2017</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NTA_identifiers" title="Category:Wikipedia articles with NTA identifiers">Wikipedia articles with NTA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SNAC-ID_identifiers" title="Category:Wikipedia articles with SNAC-ID identifiers">Wikipedia articles with SNAC-ID identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=William+Broadbent" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=William+Broadbent" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/William_Broadbent" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:William_Broadbent" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/William_Broadbent">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=William_Broadbent&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=William_Broadbent&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/William_Broadbent" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/William_Broadbent" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=William_Broadbent&amp;oldid=904132999" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=William_Broadbent&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8005950" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=William_Broadbent&amp;id=904132999" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:William_Broadbent" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=William+Broadbent">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=William+Broadbent&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=William_Broadbent&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8005950#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 June 2019, at 05:32<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=William_Broadbent&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.512","walltime":"0.749","ppvisitednodes":{"value":2850,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":25584,"limit":2097152},"templateargumentsize":{"value":1453,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":23467,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  668.488      1 -total"," 41.93%  280.283      1 Template:Reflist"," 18.26%  122.088      2 Template:Cite_news"," 14.84%   99.188      1 Template:Authority_control"," 11.53%   77.099      1 Template:Commons_category"," 10.04%   67.104      1 Template:Commons","  9.62%   64.283      1 Template:Sister_project","  9.29%   62.125      2 Template:Post-nominals","  8.66%   57.911      2 Template:If_empty","  7.94%   53.060      1 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.262","limit":"10.000"},"limitreport-memusage":{"value":4307118,"limit":52428800}},"cachereport":{"origin":"mw1252","timestamp":"20190925032736","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"William Broadbent","url":"https:\/\/en.wikipedia.org\/wiki\/William_Broadbent","sameAs":"http:\/\/www.wikidata.org\/entity\/Q8005950","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q8005950","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-06-09T22:21:50Z","dateModified":"2019-06-30T05:32:24Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8c\/William_Broadbent.jpg","headline":"English neurologist"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1331"});});</script>
+</body>
+</html>
+

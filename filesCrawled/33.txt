@@ -1,0 +1,1199 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Dictionary of National Biography - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Dictionary_of_National_Biography","wgTitle":"Dictionary of National Biography","wgCurRevisionId":911741297,"wgRevisionId":911741297,"wgArticleId":232417,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Articles with short description","Use dmy dates from May 2011","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1885 books","2004 books","Dictionary of National Biography","British biographers","British non-fiction literature","Online person databases"
+,"Oxford dictionaries","Oxford University Press reference books","British biographical dictionaries","Book series introduced in 1885"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dictionary_of_National_Biography","wgRelevantArticleId":232417,"wgRequestId":"XYof4gpAADkAAGbJDsgAAACW","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en",
+"pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1210343","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};
+RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dictionary_of_National_Biography_volume_01.djvu/page1-1200px-Dictionary_of_National_Biography_volume_01.djvu.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dictionary_of_National_Biography"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dictionary_of_National_Biography&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Dictionary_of_National_Biography&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Dictionary_of_National_Biography"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dictionary_of_National_Biography rootpage-Dictionary_of_National_Biography skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en"><i>Dictionary of National Biography</i></h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Multi-volume reference work</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/w/index.php?title=File:Dictionary_of_National_Biography_volume_01.djvu&amp;page=11" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dictionary_of_National_Biography_volume_01.djvu/page11-220px-Dictionary_of_National_Biography_volume_01.djvu.jpg" decoding="async" width="220" height="333" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dictionary_of_National_Biography_volume_01.djvu/page11-330px-Dictionary_of_National_Biography_volume_01.djvu.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dictionary_of_National_Biography_volume_01.djvu/page11-440px-Dictionary_of_National_Biography_volume_01.djvu.jpg 2x" data-file-width="850" data-file-height="1100" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Dictionary_of_National_Biography_volume_01.djvu?page=11" class="internal" title="Enlarge"></a></div>The title page of the first volume of the <i>Dictionary of National Biography</i> (1885)</div></div></div>
+<p>The <i><b>Dictionary of National Biography</b></i> (<i><b>DNB</b></i>) is a standard work of reference on notable figures from <a href="/wiki/History_of_the_British_Isles" title="History of the British Isles">British history</a>, published since 1885. The updated <i><b>Oxford Dictionary of National Biography</b></i> (<i><b>ODNB</b></i>) was published on 23 September 2004 in 60 volumes and online, with 50,113 biographical articles covering 54,922 lives.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#First_series"><span class="tocnumber">1</span> <span class="toctext">First series</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Supplements_and_revisions"><span class="tocnumber">2</span> <span class="toctext">Supplements and revisions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Concise_dictionary"><span class="tocnumber">3</span> <span class="toctext">Concise dictionary</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Oxford_Dictionary_of_National_Biography"><span class="tocnumber">4</span> <span class="toctext"><i>Oxford Dictionary of National Biography</i></span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#First_series_contents"><span class="tocnumber">5</span> <span class="toctext">First series contents</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="First_series">First series</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dictionary_of_National_Biography&amp;action=edit&amp;section=1" title="Edit section: First series">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hoping to emulate national <a href="/wiki/Biography" title="Biography">biographical</a> collections published elsewhere in Europe, such as the <i><a href="/wiki/Allgemeine_Deutsche_Biographie" title="Allgemeine Deutsche Biographie">Allgemeine Deutsche Biographie</a></i> (1875), in 1882 the publisher <a href="/wiki/George_Murray_Smith" class="mw-redirect" title="George Murray Smith">George Smith</a> (1824–1901), of <a href="/wiki/Smith,_Elder_%26_Co." title="Smith, Elder &amp; Co.">Smith, Elder &amp; Co.</a>, planned a universal dictionary that would include biographical entries on individuals from world history. He approached <a href="/wiki/Leslie_Stephen" title="Leslie Stephen">Leslie Stephen</a>, then editor of the <i><a href="/wiki/Cornhill_Magazine" class="mw-redirect" title="Cornhill Magazine">Cornhill Magazine</a></i>, owned by Smith, to become the editor. Stephen persuaded Smith that the work should focus only on subjects from the United Kingdom and its present and former colonies. An early working title was the <i>Biographia Britannica</i>, the name of <a href="/wiki/Biographia_Britannica" title="Biographia Britannica">an earlier eighteenth-century reference work</a>.
+</p><p>The first volume of the <i>Dictionary of National Biography</i> appeared on 1 January 1885. In May 1891 Leslie Stephen resigned and <a href="/wiki/Sidney_Lee" title="Sidney Lee">Sidney Lee</a>, Stephen's assistant editor from the beginning of the project, succeeded him as editor.<sup id="cite_ref-EB1911_1-0" class="reference"><a href="#cite_note-EB1911-1">&#91;1&#93;</a></sup> A dedicated team of sub-editors and researchers worked under Stephen and Lee, combining a variety of talents from veteran journalists to young scholars who cut their academic teeth on dictionary articles at a time when postgraduate historical research in British universities was still in its infancy. While much of the dictionary was written in-house, the <i>DNB</i> also relied on external contributors, who included several respected writers and scholars of the late nineteenth century. By 1900, more than <a href="/wiki/List_of_contributors_to_the_Dictionary_of_National_Biography" title="List of contributors to the Dictionary of National Biography">700 individuals</a> had contributed to the work. Successive volumes appeared quarterly with complete punctuality until midsummer 1900, when the series closed with volume 63.<sup id="cite_ref-EB1911_1-1" class="reference"><a href="#cite_note-EB1911-1">&#91;1&#93;</a></sup> The year of publication, the editor and the range of names in each volume is given <a href="/wiki/Dictionary_of_National_Biography#First_series_contents" title="Dictionary of National Biography">below</a>.
+</p>
+<h2><span class="mw-headline" id="Supplements_and_revisions">Supplements and revisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dictionary_of_National_Biography&amp;action=edit&amp;section=2" title="Edit section: Supplements and revisions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:George_Smith_by_John_Collier.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/George_Smith_by_John_Collier.jpg/220px-George_Smith_by_John_Collier.jpg" decoding="async" width="220" height="267" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/George_Smith_by_John_Collier.jpg/330px-George_Smith_by_John_Collier.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/George_Smith_by_John_Collier.jpg/440px-George_Smith_by_John_Collier.jpg 2x" data-file-width="2400" data-file-height="2915" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:George_Smith_by_John_Collier.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/George_Murray_Smith" class="mw-redirect" title="George Murray Smith">George Murray Smith</a> conceived of the <i>DNB</i>, subsidised it, and saw it finally into print before he died in 1901.</div></div></div>
+<p>Since the scope included only deceased figures, the <i>DNB</i> was soon extended by the issue of three supplementary volumes, covering subjects who had died between 1885 and 1900 or who had been overlooked in the original alphabetical sequence. The supplements brought the whole work up to the death of <a href="/wiki/Victoria_of_the_United_Kingdom" class="mw-redirect" title="Victoria of the United Kingdom">Queen Victoria</a> on 22 January 1901. Corrections were added.
+</p><p>After issuing a volume of errata in 1904, the dictionary was reissued with minor revisions in 22 volumes in 1908 and 1909; a subtitle said that it covered British history "from the earliest times to the year 1900". In the words of the <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica Eleventh Edition</a></i>, the dictionary had "proved of inestimable service in elucidating the private annals of the British",<sup id="cite_ref-EB1911_1-2" class="reference"><a href="#cite_note-EB1911-1">&#91;1&#93;</a></sup> providing not only concise lives of the notable deceased, but additionally lists of sources which were invaluable to researchers in a period when few libraries or collections of manuscripts had published catalogues or indices, and the production of indices to periodical literatures was just beginning. Throughout the twentieth century, further volumes were published for those who had died, generally on a decade-by-decade basis, beginning in 1912 with a supplement edited by Lee covering those who died between 1901 and 1911. The dictionary was transferred from its original publishers, Smith, Elder &amp; Co., to <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a> in 1917. Until 1996, Oxford University Press continued to add further supplements featuring articles on subjects who had died during the twentieth century.
+</p><p>The supplements published between 1912 and 1996 added about 6,000 lives of people who died in the twentieth century to the 29,120 in the 63 volumes of the original <i>DNB</i>. In 1993 a volume containing missing biographies was published. This had an additional 1,000 lives, selected from over 100,000 suggestions. This did not seek to replace any articles on existing <i>DNB</i> subjects, even though the original work had been written from a Victorian perspective and had become out of date due to changes in historical assessments and discoveries of new information during the twentieth century. Consequently, the dictionary was becoming less and less useful as a reference work.
+</p><p>In 1966, the <a href="/wiki/University_of_London" title="University of London">University of London</a> published a volume of corrections, cumulated from the <i><a href="/wiki/Bulletin_of_the_Institute_of_Historical_Research" class="mw-redirect" title="Bulletin of the Institute of Historical Research">Bulletin of the Institute of Historical Research</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Concise_dictionary">Concise dictionary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dictionary_of_National_Biography&amp;action=edit&amp;section=3" title="Edit section: Concise dictionary">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There were various versions of the <i><a href="/wiki/The_Concise_Dictionary_of_National_Biography" title="The Concise Dictionary of National Biography">Concise Dictionary of National Biography</a></i>, which covered everyone in the main work but with much shorter articles; some were only two lines.  The last edition, in three volumes, covered everyone who died before 1986.
+</p>
+<h2><span class="mw-headline" id="Oxford_Dictionary_of_National_Biography"><i>Oxford Dictionary of National Biography</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dictionary_of_National_Biography&amp;action=edit&amp;section=4" title="Edit section: Oxford Dictionary of National Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Oxford_Dictionary_of_National_Biography_volumes.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Oxford_Dictionary_of_National_Biography_volumes.jpg/220px-Oxford_Dictionary_of_National_Biography_volumes.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Oxford_Dictionary_of_National_Biography_volumes.jpg/330px-Oxford_Dictionary_of_National_Biography_volumes.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Oxford_Dictionary_of_National_Biography_volumes.jpg/440px-Oxford_Dictionary_of_National_Biography_volumes.jpg 2x" data-file-width="3264" data-file-height="2448" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Oxford_Dictionary_of_National_Biography_volumes.jpg" class="internal" title="Enlarge"></a></div>The volumes of the <i>Oxford Dictionary of National Biography</i></div></div></div>
+<p>In the early 1990s <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a> committed itself to overhauling the <i>DNB</i>. Work on what was known until 2001 as the <i>New Dictionary of National Biography</i>, or <i>New DNB</i>, began in 1992 under the editorship of <a href="/wiki/Colin_Matthew" title="Colin Matthew">Colin Matthew</a>, professor of Modern History at the <a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a>. Matthew decided that no subjects from the old dictionary would be excluded, however insignificant the subjects appeared to a late twentieth-century eye; that a minority of shorter articles from the original dictionary would remain in the new version in revised form, but most would be rewritten; and that room would be made for about 14,000 new subjects. Suggestions for new subjects were solicited through questionnaires placed in libraries and universities and, as the 1990s advanced, online, and assessed by the editor, the 12 external consultant editors and several hundred associate editors and in-house staff.  Digitization of the <i>DNB</i> was performed by the Alliance Photosetting Company in Pondicherry, India.<sup id="cite_ref-Warren_3-0" class="reference"><a href="#cite_note-Warren-3">&#91;3&#93;</a></sup>
+</p><p>The new dictionary would cover British history, "broadly defined" (including, for example, subjects from <a href="/wiki/Roman_Britain" title="Roman Britain">Roman Britain</a>, the <a href="/wiki/Thirteen_Colonies" title="Thirteen Colonies">United States of America before its independence</a>, and from <a href="/wiki/British_Empire" title="British Empire">Britain's former colonies</a>, provided they were functionally part of the Empire and not of "the indigenous culture", as stated in the Introduction), up to 31 December 2000. The research project was conceived as a collaborative one, with in-house staff co-ordinating the work of nearly 10,000 contributors internationally. It would remain selective&#160;– there would be no attempt to include all <a href="/wiki/Members_of_parliament" class="mw-redirect" title="Members of parliament">members of parliament</a>, for example – but would seek to include significant, influential or notorious figures from the whole canvas of the life of Britain and its former colonies, overlaying the decisions of the late-nineteenth-century editors with the interests of late-twentieth-century scholarship in the hope that "the two epochs in collaboration might produce something more useful for the future than either epoch on its own", but acknowledging also that a final definitive selection is impossible to achieve.  
+</p><p>Matthews's dedication to a digitized ODNB included what Christopher Warren calls Matthews's "data internationalism".<sup id="cite_ref-Warren_3-1" class="reference"><a href="#cite_note-Warren-3">&#91;3&#93;</a></sup>  In a 1996 essay, Matthew prophesied, "Who can doubt that in the course of the next century, as nationality in Europe gives way to European Union, so national reference works, at least in Europe, will do so also....Just as the computer is collapsing national library catalogues in a single world-wide series, so I am sure that in the course of the next fifty years we will see the gradual aggregation of our various dictionaries of national biography. We will be much blamed by our users if we do not!"<sup id="cite_ref-Warren_3-2" class="reference"><a href="#cite_note-Warren-3">&#91;3&#93;</a></sup>
+</p><p>Following Matthew's death in October 1999, he was succeeded as editor by another Oxford historian, Professor <a href="/wiki/Brian_Harrison_(historian)" title="Brian Harrison (historian)">Brian Harrison</a>, in January 2000.  The new dictionary, now known as the <i>Oxford Dictionary of National Biography</i> (or <i>ODNB</i>), was published on 23 September 2004 in 60 volumes in print at a price of £7500, and in an online edition for subscribers. Most UK holders of a current library card can access it online free of charge. In subsequent years, the print edition has been able to be obtained new for a much lower price.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>  At publication, the 2004 edition had 50,113 biographical articles covering 54,922 lives, including entries on all subjects included in the old <i>DNB</i>. (The old <i>DNB</i> entries on these subjects may be accessed separately through a link to the "DNB Archive" – many of the longer entries are still highly regarded.) A small permanent staff remain in Oxford to update and extend the coverage of the online edition. Harrison was succeeded as editor by another Oxford historian, Dr <a href="/wiki/Lawrence_Goldman" title="Lawrence Goldman">Lawrence Goldman</a>, in October 2004. The first online update was published on 4 January 2005, including subjects who had died in 2001. A further update, including subjects from all periods, followed on 23 May 2005, and another on 6 October 2005. New subjects who died in 2002 were added to the online dictionary on 5 January 2006, with continuing releases in May and October in subsequent years following the precedent of 2005. The <i>ODNB</i> also includes some new biographies on people who died before the <i>DNB</i> was published and are not included in the original <i>DNB</i>, because they have become notable since the <i>DNB</i> was published through the work of more recent historians, for example <a href="/wiki/William_Eyre_(leveller)" title="William Eyre (leveller)">William Eyre</a> (fl. 1634–1675).
+</p><p>The online version has an advanced search facility, allowing a search for people by area of interest, religion and "Places, Dates, Life Events". This accesses an electronic index that cannot be directly viewed.
+</p><p>Response to the new dictionary has been for the most part positive, but in the months following publication there was occasional criticism of the dictionary in some British newspapers and periodicals for reported factual inaccuracies.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> However, the number of articles publicly queried in this way was small – only 23 of the 50,113 articles published in September 2004, leading to fewer than 100 substantiated factual amendments. These and other queries received since publication are being considered as part of an ongoing programme of assessing proposed corrections or additions to existing subject articles, which can, when approved, be incorporated into the online edition of the dictionary.  In 2005, The <a href="/wiki/American_Library_Association" title="American Library Association">American Library Association</a> awarded the <i>Oxford Dictionary of National Biography</i> its prestigious <a href="/wiki/Dartmouth_Medal" title="Dartmouth Medal">Dartmouth Medal</a>. A general review of the dictionary was published in 2007.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>Sir <a href="/wiki/David_Cannadine" title="David Cannadine">David Cannadine</a> took over the editorship from October 2014.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="First_series_contents">First series contents</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dictionary_of_National_Biography&amp;action=edit&amp;section=5" title="Edit section: First series contents">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption>Contents of each volume of the first series with year of publication and editor.
+</caption>
+<tbody><tr>
+<th>Volume
+</th>
+<th>Names
+</th>
+<th>Year published
+</th>
+<th>Editor
+</th></tr>
+<tr>
+<td>1
+</td>
+<td>Abbadie – Anne
+</td>
+<td rowspan="4">1885
+</td>
+<td rowspan="21">Stephen
+</td></tr>
+<tr>
+<td>2
+</td>
+<td>Annesley – Baird
+</td></tr>
+<tr>
+<td>3
+</td>
+<td>Baker – Beadon
+</td></tr>
+<tr>
+<td>4
+</td>
+<td>Beal – Biber
+</td></tr>
+<tr>
+<td>5
+</td>
+<td>Bicheno – Bottisham
+</td>
+<td rowspan="4">1886
+</td></tr>
+<tr>
+<td>6
+</td>
+<td>Bottomley – Browell
+</td></tr>
+<tr>
+<td>7
+</td>
+<td>Brown – Burthogge
+</td></tr>
+<tr>
+<td>8
+</td>
+<td>Burton – Cantwell
+</td></tr>
+<tr>
+<td>9
+</td>
+<td>Canute – Chaloner
+</td>
+<td rowspan="4">1887
+</td></tr>
+<tr>
+<td>10
+</td>
+<td>Chamber – Clarkson
+</td></tr>
+<tr>
+<td>11
+</td>
+<td>Clater – Condell
+</td></tr>
+<tr>
+<td>12
+</td>
+<td>Conder – Craigie
+</td></tr>
+<tr>
+<td>13
+</td>
+<td>Craik – Damer
+</td>
+<td rowspan="4">1888
+</td></tr>
+<tr>
+<td>14
+</td>
+<td>Damon – D'Eyncourt
+</td></tr>
+<tr>
+<td>15
+</td>
+<td>Diamond – Drake
+</td></tr>
+<tr>
+<td>16
+</td>
+<td>Drant – Edridge
+</td></tr>
+<tr>
+<td>17
+</td>
+<td>Edward – Erskine
+</td>
+<td rowspan="4">1889
+</td></tr>
+<tr>
+<td>18
+</td>
+<td>Esdale – Finan
+</td></tr>
+<tr>
+<td>19
+</td>
+<td>Finch – Forman
+</td></tr>
+<tr>
+<td>20
+</td>
+<td>Forrest – Garner
+</td></tr>
+<tr>
+<td>21
+</td>
+<td>Garnett – Gloucester
+</td>
+<td rowspan="4">1890
+</td></tr>
+<tr>
+<td>22
+</td>
+<td>Glover – Gravet
+</td>
+<td rowspan="5">Stephen &amp; Lee
+</td></tr>
+<tr>
+<td>23
+</td>
+<td>Gray – Haighton
+</td></tr>
+<tr>
+<td>24
+</td>
+<td>Hailes – Harriott
+</td></tr>
+<tr>
+<td>25
+</td>
+<td>Harris – Henry I
+</td>
+<td rowspan="4">1891
+</td></tr>
+<tr>
+<td>26
+</td>
+<td>Henry II – Hindley
+</td></tr>
+<tr>
+<td>27
+</td>
+<td>Hindmarsh – Hovenden
+</td>
+<td rowspan="37">Lee
+</td></tr>
+<tr>
+<td>28
+</td>
+<td>Howard – Inglethorpe
+</td></tr>
+<tr>
+<td>29
+</td>
+<td>Inglish – John
+</td>
+<td rowspan="4">1892
+</td></tr>
+<tr>
+<td>30
+</td>
+<td>Johnes – Kenneth
+</td></tr>
+<tr>
+<td>31
+</td>
+<td>Kennett – Lambart
+</td></tr>
+<tr>
+<td>32
+</td>
+<td>Lambe – Leigh
+</td></tr>
+<tr>
+<td>33
+</td>
+<td>Leighton – Lluelyn
+</td>
+<td rowspan="4">1893
+</td></tr>
+<tr>
+<td>34
+</td>
+<td>Llywd – MacCartney
+</td></tr>
+<tr>
+<td>35
+</td>
+<td>MacCarwell – Maltby
+</td></tr>
+<tr>
+<td>36
+</td>
+<td>Malthus – Mason
+</td></tr>
+<tr>
+<td>37
+</td>
+<td>Masquerier – Millyng
+</td>
+<td rowspan="4">1894
+</td></tr>
+<tr>
+<td>38
+</td>
+<td>Milman – More
+</td></tr>
+<tr>
+<td>39
+</td>
+<td>Morehead – Myles
+</td></tr>
+<tr>
+<td>40
+</td>
+<td>Myllar – Nicholls
+</td></tr>
+<tr>
+<td>41
+</td>
+<td>Nichols – O'Dugan
+</td>
+<td rowspan="4">1895
+</td></tr>
+<tr>
+<td>42
+</td>
+<td>O'Duinn – Owen
+</td></tr>
+<tr>
+<td>43
+</td>
+<td>Owens – Passelewe
+</td></tr>
+<tr>
+<td>44
+</td>
+<td>Paston – Percy
+</td></tr>
+<tr>
+<td>45
+</td>
+<td>Pereira – Pockrich
+</td>
+<td rowspan="4">1896
+</td></tr>
+<tr>
+<td>46
+</td>
+<td>Pocock – Puckering
+</td></tr>
+<tr>
+<td>47
+</td>
+<td>Puckle – Reidfurd
+</td></tr>
+<tr>
+<td>48
+</td>
+<td>Reilly – Robins
+</td></tr>
+<tr>
+<td>49
+</td>
+<td>Robinson – Russell
+</td>
+<td rowspan="4">1897
+</td></tr>
+<tr>
+<td>50
+</td>
+<td>Russen – Scobell
+</td></tr>
+<tr>
+<td>51
+</td>
+<td>Scoffin – Sheares
+</td></tr>
+<tr>
+<td>52
+</td>
+<td>Shearman – Smirke
+</td></tr>
+<tr>
+<td>53
+</td>
+<td>Smith – Stanger
+</td>
+<td rowspan="4">1898
+</td></tr>
+<tr>
+<td>54
+</td>
+<td>Stanhope – Stovin
+</td></tr>
+<tr>
+<td>55
+</td>
+<td>Stow – Taylor
+</td></tr>
+<tr>
+<td>56
+</td>
+<td>Teach – Tollet
+</td></tr>
+<tr>
+<td>57
+</td>
+<td>Tom – Tytler
+</td>
+<td rowspan="4">1899
+</td></tr>
+<tr>
+<td>58
+</td>
+<td>Ubaldini – Wakefield
+</td></tr>
+<tr>
+<td>59
+</td>
+<td>Wakeman – Watkins
+</td></tr>
+<tr>
+<td>60
+</td>
+<td>Watson – Whewell
+</td></tr>
+<tr>
+<td>61
+</td>
+<td>Whichcord – Williams
+</td>
+<td rowspan="3">1900
+</td></tr>
+<tr>
+<td>62
+</td>
+<td>Williamson – Worden
+</td></tr>
+<tr>
+<td>63
+</td>
+<td>Wordsworth – Zuylestein
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dictionary_of_National_Biography&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_contributors_to_the_Dictionary_of_National_Biography" title="List of contributors to the Dictionary of National Biography">List of contributors to the <i>Dictionary of National Biography</i></a></li>
+<li><a href="/wiki/Biographical_dictionary" title="Biographical dictionary">Biographical dictionary</a></li>
+<li><a href="/wiki/Oxford_Biography_Index" title="Oxford Biography Index">Oxford Biography Index</a></li>
+<li><a href="/wiki/Historiography_of_the_United_Kingdom" title="Historiography of the United Kingdom">Historiography of the United Kingdom</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dictionary_of_National_Biography&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-EB1911-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-EB1911_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-EB1911_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-EB1911_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation encyclopaedia"><a href="/wiki/Edmund_Gosse" title="Edmund Gosse">Gosse, Edmund William</a> (1911). <span class="cs1-ws-icon" title="s:1911 Encyclopædia Britannica/Biography"><a class="external text" href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Biography">"Biography"&#160;</a></span>.  In Chisholm, Hugh (ed.). <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i>. <b>3</b> (11th ed.). Cambridge University Press. p.&#160;954.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Biography&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.pages=954&amp;rft.edition=11th&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1911&amp;rft.aulast=Gosse&amp;rft.aufirst=Edmund+William&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADictionary+of+National+Biography" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> The <i>DNB</i> is described in the last paragraph of this article.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="/wiki/University_of_London" title="University of London">University of London</a>. <i>Corrections and Additions to the Dictionary of National Biography, Cumulated from the Bulletin of the Institute of Historical Research Covering the Years 1923–1963</i>. Boston: G. K. Hall, 1966.</span>
+</li>
+<li id="cite_note-Warren-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Warren_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Warren_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Warren_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Warren, Christopher N. <a rel="nofollow" class="external text" href="http://culturalanalytics.org/2018/11/historiographys-two-voices-data-infrastructure-and-history-at-scale-in-the-oxford-dictionary-of-national-biography-odnb/">"Historiography's Two Voices: Data Infrastructure and History at Scale in the Oxford Dictionary of National Biography (ODNB)"</a>. <i>Journal of Cultural Analytics</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 March</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Journal+of+Cultural+Analytics&amp;rft.atitle=Historiography%E2%80%99s+Two+Voices%3A+Data+Infrastructure+and+History+at+Scale+in+the+Oxford+Dictionary+of+National+Biography+%28ODNB%29&amp;rft.aulast=Warren&amp;rft.aufirst=Christopher+N.&amp;rft_id=http%3A%2F%2Fculturalanalytics.org%2F2018%2F11%2Fhistoriographys-two-voices-data-infrastructure-and-history-at-scale-in-the-oxford-dictionary-of-national-biography-odnb%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADictionary+of+National+Biography" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">E.g., at least one <a rel="nofollow" class="external text" href="http://www.abebooks.com/servlet/BookDetailsPL?bi=2694312245&amp;searchurl=n%3D200000169%26tn%3DOxford%2BDictionary%2Bof%2BNational%2BBiography%26x%3D64%26y%3D8">U.K. bookseller</a> in 2012  was asking £1738.44 (US$2842.42) including free worldwide delivery.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation magazine">Stefan Collini (20 January 2005). <a rel="nofollow" class="external text" href="http://www.lrb.co.uk/v27/n02/coll01_.html">"Our Island Story"</a>. <i><a href="/wiki/London_Review_of_Books" title="London Review of Books">London Review of Books</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=London+Review+of+Books&amp;rft.atitle=Our+Island+Story&amp;rft.date=2005-01-20&amp;rft.au=Stefan+Collini&amp;rft_id=http%3A%2F%2Fwww.lrb.co.uk%2Fv27%2Fn02%2Fcoll01_.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADictionary+of+National+Biography" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation news">Vanessa Thorpe (6 March 2005). <a rel="nofollow" class="external text" href="http://observer.guardian.co.uk/uk_news/story/0,6903,1431473,00.html">"At £7,500 for the set, you'd think they'd get their facts right"</a>. <i><a href="/wiki/The_Observer" title="The Observer">The Observer</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Observer&amp;rft.atitle=At+%C2%A37%2C500+for+the+set%2C+you%27d+think+they%27d+get+their+facts+right&amp;rft.date=2005-03-06&amp;rft.au=Vanessa+Thorpe&amp;rft_id=http%3A%2F%2Fobserver.guardian.co.uk%2Fuk_news%2Fstory%2F0%2C6903%2C1431473%2C00.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADictionary+of+National+Biography" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&amp;aid=1411984">"The Oxford Dictionary of National Biography: Dictionary or Encyclopaedia?"</a>. <i><a href="/wiki/The_Historical_Journal" title="The Historical Journal">The Historical Journal</a>. 50, no. 4: 991–1006</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Historical+Journal.+50%2C+no.+4%3A+991%E2%80%931006&amp;rft.atitle=The+Oxford+Dictionary+of+National+Biography%3A+Dictionary+or+Encyclopaedia%3F&amp;rft_id=http%3A%2F%2Fjournals.cambridge.org%2Faction%2FdisplayAbstract%3FfromPage%3Donline%26aid%3D1411984&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADictionary+of+National+Biography" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://global.oup.com/oxforddnb/info/contact/press/3743987/">"David Cannadine is the new Editor of the Oxford DNB"</a>. OUP. 1 October 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">21 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=David+Cannadine+is+the+new+Editor+of+the+Oxford+DNB&amp;rft.date=2014-10-01&amp;rft_id=http%3A%2F%2Fglobal.oup.com%2Foxforddnb%2Finfo%2Fcontact%2Fpress%2F3743987%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADictionary+of+National+Biography" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dictionary_of_National_Biography&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" decoding="async" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has original text related to this article:
+<div style="margin-left: 10px;"><b><a href="https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885%E2%80%931900" class="extiw" title="wikisource:Dictionary of National Biography, 1885–1900"><i>Dictionary of National Biography</i>, 1885–1900</a></b></div></td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.oxforddnb.com/"><i>Oxford Dictionary of National Biography</i> website</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110522130628/http://www.oup.com/oxforddnb/info/index/">Free index to the <i>ODNB</i></a></li>
+<li><a rel="nofollow" class="external text" href="http://www.oup.com/oxforddnb/info/"><i>About the Oxford DNB</i>, Oxford University Press site</a></li>
+<li><a rel="nofollow" class="external text" href="http://freepages.genealogy.rootsweb.com/~wjhonson/DNB/">Corrections to the <i>ODNB</i> submitted and peer-reviewed by members of soc.medieval/Gen-Med</a></li></ul>
+<dl><dt>DNB</dt></dl>
+<ul><li><a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A2000.01.0013"><i>Index and Epitome to the Dictionary of National Biography</i>, 1903, Perseus Digital Library</a></li>
+<li>"<a href="https://en.wikisource.org/wiki/Studies_of_a_Biographer/National_Biography" class="extiw" title="s:Studies of a Biographer/National Biography">National Biography</a>" in <a href="/wiki/Leslie_Stephen" title="Leslie Stephen">Leslie Stephen</a>'s <i>Studies of a Biographer</i>, vol. 1</li>
+<li><a rel="nofollow" class="external text" href="http://onlinebooks.library.upenn.edu/webbin/metabook?id=dnb">Online volumes of the first and second series</a>, selected from <a href="/wiki/Internet_Archive" title="Internet Archive">Internet Archive</a> and <a href="/wiki/Google_Books" title="Google Books">Google Books</a> at <a href="/wiki/The_Online_Books_Page" class="mw-redirect" title="The Online Books Page">The Online Books Page</a>.</li></ul>
+<table align="center" class="wikitable">
+<caption>The volumes of the first edition of the <i>Dictionary of National Biography</i> in various file formats in <span class="nowrap"><a href="/wiki/The_Internet_Archive" class="mw-redirect" title="The Internet Archive">the Internet Archive</a></span>
+</caption>
+<tbody><tr>
+<th>Volume</th>
+<th>Date</th>
+<th>From</th>
+<th>To</th>
+<th>Notes
+</th></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati00leesuoft">Index and Epitome</a></td>
+<td>1903</td>
+<td></td>
+<td></td>
+<td>The Index, with a summary for each entry.
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionarynatio43stepgoog">Volume 1</a></td>
+<td>1885</td>
+<td>Abbadie</td>
+<td>Anne</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnat02stepuoft">Volume 2</a></td>
+<td>1885</td>
+<td>Anneslya</td>
+<td>Baird</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati03stepuoft">Volume 3</a></td>
+<td>1885</td>
+<td>Baker</td>
+<td>Beadon</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati04stepuoft">Volume 4</a></td>
+<td>1885</td>
+<td>Beal</td>
+<td>Biber</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati05stepuoft">Volume 5</a></td>
+<td>1886</td>
+<td>Bicheno</td>
+<td>Bottisham</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati06stepuoft">Volume 6</a></td>
+<td>1886</td>
+<td>Bottomley</td>
+<td>Browell</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati07stepuoft">Volume 7</a></td>
+<td>1886</td>
+<td>Brown</td>
+<td>Burthogge</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati08stepuoft">Volume 8</a></td>
+<td>1886</td>
+<td>Burton</td>
+<td>Cantwell</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionarynatio50stepgoog">Volume 9</a></td>
+<td>1887</td>
+<td>Canute</td>
+<td>Chaloner</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionarynatio30stepgoog">Volume 10</a></td>
+<td>1887</td>
+<td>Chamber</td>
+<td>Clarkson</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati11stepuoft">Volume 11</a></td>
+<td>1887</td>
+<td>Clater</td>
+<td>Condell</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati12stepuoft">Volume 12</a></td>
+<td>1887</td>
+<td>Conder</td>
+<td>Craigie</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati13stepuoft">Volume 13</a></td>
+<td>1888</td>
+<td>Craik</td>
+<td>Damer</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati14stepuoft">Volume 14</a></td>
+<td>1888</td>
+<td>Damon</td>
+<td>D'Eyncourt</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati15stepuoft">Volume 15</a></td>
+<td>1888</td>
+<td>Diamond</td>
+<td>Drake</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati16stepuoft">Volume 16</a></td>
+<td>1888</td>
+<td>Drant</td>
+<td>Edridge</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionarynatio21stepgoog">Volume 17</a></td>
+<td>1889</td>
+<td>Edward</td>
+<td>Erskine</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionarynatio23stepgoog">Volume 18</a></td>
+<td>1889</td>
+<td>Esdaile</td>
+<td>Finan</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati19stepuoft">Volume 19</a></td>
+<td>1889</td>
+<td>Finch</td>
+<td>Forman</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati20stepuoft">Volume 20</a></td>
+<td>1889</td>
+<td>Forest</td>
+<td>Garner</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati21stepuoft">Volume 21</a></td>
+<td>1890</td>
+<td>Garnett</td>
+<td>Gloucester</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati22stepuoft">Volume 22</a></td>
+<td>1890</td>
+<td>Glover</td>
+<td>Gravet</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati23stepuoft">Volume 23</a></td>
+<td>1890</td>
+<td>Gray</td>
+<td>Haighton</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati25stepuoft">Volume 24</a></td>
+<td>1890</td>
+<td>Hailes</td>
+<td>Harriott</td>
+<td>Incorrectly labeled as Volume 25
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionarynatio51stepgoog">Volume 25</a></td>
+<td>1891</td>
+<td>Harris</td>
+<td>Henry I</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionarynatio46stepgoog">Volume 26</a></td>
+<td>1891</td>
+<td>Henry II</td>
+<td>Hindley</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionarynatio25stepgoog">Volume 27</a></td>
+<td>1891</td>
+<td>Hindmarsh</td>
+<td>Hovenden</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati28stepuoft">Volume 28</a></td>
+<td>1891</td>
+<td>Howard</td>
+<td>Inglethorp</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati29stepuoft">Volume 29</a></td>
+<td>1892</td>
+<td>Inglis</td>
+<td>John</td>
+<td>Truncated at p.&#160;279, at Jeffreys G.
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionarynatio54stepgoog">Volume 30</a></td>
+<td>1892</td>
+<td>Johnes</td>
+<td>Kenneth</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionarynatio47stepgoog">Volume 31</a></td>
+<td>1892</td>
+<td>Kennett</td>
+<td>Lambart</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati32stepuoft">Volume 32</a></td>
+<td>1892</td>
+<td>Lambre</td>
+<td>Leigh</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionarynatio24stepgoog">Volume 33</a></td>
+<td>1893</td>
+<td>Leighton</td>
+<td>Lluelyn</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionarynatio57stepgoog">Volume 34</a></td>
+<td>1893</td>
+<td>Llwyd</td>
+<td>MacCartney</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionarynatio35stepgoog">Volume 35</a></td>
+<td>1893</td>
+<td>MacCarwell</td>
+<td>Maltby</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati36stepuoft">Volume 36</a></td>
+<td>1893</td>
+<td>Malthus</td>
+<td>Mason</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati37stepuoft">Volume 37</a></td>
+<td>1894</td>
+<td>Masquerier</td>
+<td>Millyng</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati38stepuoft">Volume 38</a></td>
+<td>1894</td>
+<td>Milman</td>
+<td>More</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati39stepuoft">Volume 39</a></td>
+<td>1894</td>
+<td>Morehead</td>
+<td>Myles</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati40stepuoft">Volume 40</a></td>
+<td>1894</td>
+<td>Myllar</td>
+<td>Nichols</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati41stepuoft">Volume 41</a></td>
+<td>1895</td>
+<td>Nichols</td>
+<td>O'Dugan</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionarynatio37stepgoog">Volume 42</a></td>
+<td>1895</td>
+<td>O'Duinn</td>
+<td>Owen</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati43stepuoft">Volume 43</a></td>
+<td>1895</td>
+<td>Owens</td>
+<td>Passelewe</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati44stepuoft">Volume 44</a></td>
+<td>1895</td>
+<td>Paston</td>
+<td>Percy</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati45stepuoft">Volume 45</a></td>
+<td>1896</td>
+<td>Pereira</td>
+<td>Pochrich</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati46stepuoft">Volume 46</a></td>
+<td>1896</td>
+<td>Pocock</td>
+<td>Puckering</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati47stepuoft">Volume 47</a></td>
+<td>1896</td>
+<td>Puckle</td>
+<td>Reidfurd</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati48stepuoft">Volume 48</a></td>
+<td>1896</td>
+<td>Reily</td>
+<td>Robins</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati49stepuoft">Volume 49</a></td>
+<td>1897</td>
+<td>Robinson</td>
+<td>Russell</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati50stepuoft">Volume 50</a></td>
+<td>1897</td>
+<td>Russen</td>
+<td>Scobell</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati019324mbp">Volume 51</a></td>
+<td>1897</td>
+<td>Scoffin</td>
+<td>Sheares</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionarynatio01leegoog">Volume 52</a></td>
+<td>1897</td>
+<td>Shearman</td>
+<td>Smirke</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati019312mbp">Volume 53</a></td>
+<td>1898</td>
+<td>Smith</td>
+<td>Stanger</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati54stepuoft">Volume 54</a></td>
+<td>1898</td>
+<td>Stanhope</td>
+<td>Stovin</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati55stepuoft">Volume 55</a></td>
+<td>1898</td>
+<td>Stow</td>
+<td>Taylor</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati56stepuoft">Volume 56</a></td>
+<td>1898</td>
+<td>Teach</td>
+<td>Tollet</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati57stepuoft">Volume 57</a></td>
+<td>1899</td>
+<td>Tom</td>
+<td>Tytler</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati58stepuoft">Volume 58</a></td>
+<td>1899</td>
+<td>Ubaldini</td>
+<td>Wakefield</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati59stepuoft">Volume 59</a></td>
+<td>1899</td>
+<td>Wakeman</td>
+<td>Watkins</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati60stepuoft">Volume 60</a></td>
+<td>1899</td>
+<td>Watson</td>
+<td>Whewell</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati61stepuoft">Volume 61</a></td>
+<td>1900</td>
+<td>Whichcord</td>
+<td>Williams</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionarynatio13stepgoog">Volume 62</a></td>
+<td>1900</td>
+<td>Williamson</td>
+<td>Worden</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati63stepuoft">Volume 63</a></td>
+<td>1900</td>
+<td>Wordsworth</td>
+<td>Zuylestein</td>
+<td>
+</td></tr>
+<tr>
+<th colspan="5">Supplementary volumes for the first edition
+</th></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati01leesuoft">Supplement Volume 1</a></td>
+<td>1901</td>
+<td>Abbott</td>
+<td>Childers</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati02leesuoft">Supplement Volume 2</a></td>
+<td>1901</td>
+<td>Chippendale</td>
+<td>Hoste</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/p3dictionaryofna01leesuoft">Supplement Volume 3</a></td>
+<td>1901</td>
+<td>How</td>
+<td>Woodward</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati00stepuoft">Errata</a></td>
+<td>1904</td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<th colspan="5">Second series of supplementary volumes for the first edition
+</th></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/pt1dictionaryofn02leesuoft">Second supplement Volume 1</a></td>
+<td>1912</td>
+<td>Abbey</td>
+<td>Eyre</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati02stepuoft">Second supplement Volume 2</a></td>
+<td>1912</td>
+<td>Faed</td>
+<td>Muybridge</td>
+<td>
+</td></tr>
+<tr>
+<td><a rel="nofollow" class="external text" href="https://archive.org/details/dictionaryofnati23lees">Second supplement Volume 3</a></td>
+<td>1912</td>
+<td>Neil</td>
+<td>Young</td>
+<td>
+</td></tr></tbody></table>
+<p class="mw-empty-elt">
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://hdl.handle.net/2027/pst.000008631039">Third Supplement (1912-21) at Hathitrust</a> (published 1927, edited by H.W.C. Davis and J.R.H. Weaver) <i>incomplete</i></li></ul>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1210343&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1210343&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q1210343" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb12149584v">cb12149584v</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb12149584v">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4240970-6">4240970-6</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/no2003030610">no2003030610</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/086267485">086267485</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/179269842">179269842</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/179269842">179269842</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20190923223149
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.320 seconds
+Real time usage: 0.458 seconds
+Preprocessor visited node count: 732/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19040/2097152 bytes
+Template argument size: 731/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 19497/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.159/10.000 seconds
+Lua memory usage: 3.3 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  364.637      1 -total
+ 47.10%  171.750      1 Template:Reflist
+ 29.51%  107.588      1 Template:Cite_EB1911
+ 24.78%   90.370      1 Template:Authority_control
+ 11.22%   40.922      1 Template:Short_description
+ 10.39%   37.893      1 Template:Pagetype
+  6.36%   23.190      1 Template:Use_dmy_dates
+  4.29%   15.631      1 Template:DMCA
+  4.20%   15.320      1 Template:Wikisource
+  4.07%   14.834      2 Template:Cite_news
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:232417-0!canonical and timestamp 20190923223149 and revision id 911741297
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dictionary_of_National_Biography&amp;oldid=911741297">https://en.wikipedia.org/w/index.php?title=Dictionary_of_National_Biography&amp;oldid=911741297</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1885_books" title="Category:1885 books">1885 books</a></li><li><a href="/wiki/Category:2004_books" title="Category:2004 books">2004 books</a></li><li><a href="/wiki/Category:Dictionary_of_National_Biography" title="Category:Dictionary of National Biography">Dictionary of National Biography</a></li><li><a href="/wiki/Category:British_biographers" title="Category:British biographers">British biographers</a></li><li><a href="/wiki/Category:British_non-fiction_literature" title="Category:British non-fiction literature">British non-fiction literature</a></li><li><a href="/wiki/Category:Online_person_databases" title="Category:Online person databases">Online person databases</a></li><li><a href="/wiki/Category:Oxford_dictionaries" title="Category:Oxford dictionaries">Oxford dictionaries</a></li><li><a href="/wiki/Category:Oxford_University_Press_reference_books" title="Category:Oxford University Press reference books">Oxford University Press reference books</a></li><li><a href="/wiki/Category:British_biographical_dictionaries" title="Category:British biographical dictionaries">British biographical dictionaries</a></li><li><a href="/wiki/Category:Book_series_introduced_in_1885" title="Category:Book series introduced in 1885">Book series introduced in 1885</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_May_2011" title="Category:Use dmy dates from May 2011">Use dmy dates from May 2011</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dictionary+of+National+Biography" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dictionary+of+National+Biography" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Dictionary_of_National_Biography" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Dictionary_of_National_Biography" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Dictionary_of_National_Biography">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Dictionary_of_National_Biography&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Dictionary_of_National_Biography&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dictionary_of_National_Biography" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dictionary_of_National_Biography" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Dictionary_of_National_Biography&amp;oldid=911741297" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Dictionary_of_National_Biography&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1210343" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dictionary_of_National_Biography&amp;id=911741297" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Dictionary_of_National_Biography" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikisource"><a href="https://en.wikisource.org/wiki/Dictionary_of_National_Biography" hreflang="en">Wikisource</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dictionary+of+National+Biography">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Dictionary+of+National+Biography&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Dictionary_of_National_Biography&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D9%85%D9%88%D8%B3_%D8%A7%D9%84%D8%B3%D9%8A%D8%B1_%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9" title="قاموس السير الوطنية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Dictionary_of_National_Biography" title="Dictionary of National Biography – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Dictionary_of_National_Biography" title="Dictionary of National Biography – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Dictionary_of_National_Biography" title="Dictionary of National Biography – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Dictionary_of_National_Biography" title="Dictionary of National Biography – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%98%81%EA%B5%AD%EC%9D%B8%EB%AA%85%EC%82%AC%EC%A0%84" title="영국인명사전 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Dictionary_of_National_Biography" title="Dictionary of National Biography – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E8%8B%B1%E5%9B%BD%E4%BA%BA%E5%90%8D%E4%BA%8B%E5%85%B8" title="英国人名事典 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Dictionary_of_National_Biography" title="Dictionary of National Biography – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Dictionary_of_National_Biography" title="Dictionary of National Biography – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Dictionary_of_National_Biography" title="Dictionary of National Biography – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B1%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C" title="Национальный биографический словарь – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Dictionary_of_National_Biography" title="Dictionary of National Biography – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%84%D8%BA%D8%AA_%D8%A8%D8%B1%D8%A7%D8%A6%DB%92_%D8%B9%D9%88%D8%A7%D9%85%DB%8C_%D8%B3%D9%88%D8%A7%D9%86%D8%AD_%D9%86%DA%AF%D8%A7%D8%B1%DB%8C" title="لغت برائے عوامی سوانح نگاری – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%89%9B%E6%B4%A5%E5%9C%8B%E5%AE%B6%E4%BA%BA%E7%89%A9%E5%82%B3%E8%A8%98%E5%A4%A7%E8%BE%AD%E5%85%B8" title="牛津國家人物傳記大辭典 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1210343#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 20 August 2019, at 20:48<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Dictionary_of_National_Biography&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.320","walltime":"0.458","ppvisitednodes":{"value":732,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19040,"limit":2097152},"templateargumentsize":{"value":731,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":19497,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  364.637      1 -total"," 47.10%  171.750      1 Template:Reflist"," 29.51%  107.588      1 Template:Cite_EB1911"," 24.78%   90.370      1 Template:Authority_control"," 11.22%   40.922      1 Template:Short_description"," 10.39%   37.893      1 Template:Pagetype","  6.36%   23.190      1 Template:Use_dmy_dates","  4.29%   15.631      1 Template:DMCA","  4.20%   15.320      1 Template:Wikisource","  4.07%   14.834      2 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.159","limit":"10.000"},"limitreport-memusage":{"value":3457937,"limit":52428800}},"cachereport":{"origin":"mw1270","timestamp":"20190923223149","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Dictionary of National Biography","url":"https:\/\/en.wikipedia.org\/wiki\/Dictionary_of_National_Biography","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1210343","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1210343","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-05-23T11:10:26Z","dateModified":"2019-08-20T20:48:20Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e3\/Dictionary_of_National_Biography_volume_01.djvu","headline":"multi-volume reference work"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1262"});});</script>
+</body>
+</html>
+

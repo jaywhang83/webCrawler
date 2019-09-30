@@ -1,0 +1,1125 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wakefield Westgate railway station - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Wakefield_Westgate_railway_station","wgTitle":"Wakefield Westgate railway station","wgCurRevisionId":915460409,"wgRevisionId":915460409,"wgArticleId":1385930,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from January 2016","Use British English from March 2015","Coordinates on Wikidata","Articles with OS grid coordinates","All articles with unsourced statements","Articles with unsourced statements from May 2018","Commons category link is on Wikidata","DfT Category B stations","Railway stations in Wakefield","Former Great Central Railway stations","Former Great Northern Railway stations","Former Midland Railway stations","Former West Riding and Grimsby Railway stations","Railway stations opened in 1867","Railway stations served by CrossCountry",
+"Railway stations served by East Midlands Railway","Railway stations served by Northern (train operating company)","Railway stations served by London North Eastern Railway","Buildings and structures in Wakefield","Art Nouveau railway stations"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wakefield_Westgate_railway_station","wgRelevantArticleId":1385930,"wgRequestId":"XZGe1ApAMFkAABT9SEMAAABE","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,
+"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":53.682,"lon":-1.5055},"wgWikibaseItemId":"Q3907323","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e5/Wakefield_Westgate_station_with_Voyager_%28geograph_5022098%29.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Wakefield_Westgate_railway_station"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wakefield_Westgate_railway_station&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wakefield_Westgate_railway_station&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wakefield_Westgate_railway_station"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Wakefield_Westgate_railway_station rootpage-Wakefield_Westgate_railway_station skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Wakefield Westgate railway station</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;font-size: 140%">Wakefield Westgate <a href="/wiki/National_Rail" title="National Rail"><img alt="National Rail" src="//upload.wikimedia.org/wikipedia/en/thumb/3/31/National_Rail_logo.svg/12px-National_Rail_logo.svg.png" decoding="async" width="12" height="8" srcset="//upload.wikimedia.org/wikipedia/en/thumb/3/31/National_Rail_logo.svg/18px-National_Rail_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/3/31/National_Rail_logo.svg/24px-National_Rail_logo.svg.png 2x" data-file-width="62" data-file-height="39" /></a></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Wakefield_Westgate_station_with_Voyager_(geograph_5022098).jpg" class="image"><img alt="Wakefield Westgate station with Voyager (geograph 5022098).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wakefield_Westgate_station_with_Voyager_%28geograph_5022098%29.jpg/250px-Wakefield_Westgate_station_with_Voyager_%28geograph_5022098%29.jpg" decoding="async" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wakefield_Westgate_station_with_Voyager_%28geograph_5022098%29.jpg/375px-Wakefield_Westgate_station_with_Voyager_%28geograph_5022098%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Wakefield_Westgate_station_with_Voyager_%28geograph_5022098%29.jpg/500px-Wakefield_Westgate_station_with_Voyager_%28geograph_5022098%29.jpg 2x" data-file-width="1024" data-file-height="768" /></a><div>Wakefield Westgate railway station</div></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Location</th></tr><tr><th scope="row">Place</th><td class="label"><a href="/wiki/Wakefield" title="Wakefield">Wakefield</a></td></tr><tr><th scope="row">Local authority</th><td><a href="/wiki/City_of_Wakefield" title="City of Wakefield">City of Wakefield</a></td></tr><tr><th scope="row"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Wakefield_Westgate_railway_station&amp;params=53.682_N_1.5055_W_type:railwaystation_region:GB_scale:10000"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°40′55″N</span> <span class="longitude">1°30′20″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6820°N 1.5055°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6820; -1.5055</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Wakefield_Westgate_railway_station&amp;params=53.682_N_1.5055_W_type:railwaystation_region:GB_scale:10000"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°40′55″N</span> <span class="longitude">1°30′20″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6820°N 1.5055°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6820; -1.5055</span></span></span></a></span></span></span></td></tr><tr><th scope="row"><a href="/wiki/Ordnance_Survey_National_Grid" title="Ordnance Survey National Grid">Grid reference</a></th><td><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.681742951586;-1.5063985372854_region:GB_scale:25000?pagename=Wakefield_Westgate_railway_station">SE327207</a></span></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Operations</th></tr><tr><th scope="row">Station code</th><td>WKF</td></tr><tr><th scope="row">Managed by</th><td><a href="/wiki/London_North_Eastern_Railway" title="London North Eastern Railway">London North Eastern Railway</a></td></tr><tr><th scope="row">Number of platforms</th><td>2</td></tr><tr><th scope="row"><a href="/wiki/United_Kingdom_railway_station_categories" title="United Kingdom railway station categories">DfT category</a></th><td>B</td></tr><tr><td colspan="2" style="text-align:center"><small><a rel="nofollow" class="external text" href="http://ojp.nationalrail.co.uk/service/ldbboard/dep/WKF">Live arrivals/departures</a>, <a rel="nofollow" class="external text" href="http://www.nationalrail.co.uk/stations/WKF/details.html">station information</a> and <a rel="nofollow" class="external text" href="http://www.nationalrail.co.uk/posters/WKF.pdf">onward connections</a><br />from National Rail Enquiries</small></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Annual rail passenger usage*</th></tr><tr><th scope="row">2013/14</th><td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 2.358 million</td></tr><tr><th scope="row">2014/15</th><td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 2.485 million</td></tr><tr><th scope="row">2015/16</th><td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 2.519 million</td></tr><tr><th scope="row">2016/17</th><td><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> 2.541 million</td></tr><tr><th scope="row">2017/18</th><td><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> 2.477 million</td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Passenger Transport Executive</th></tr><tr><th scope="row"><a href="/wiki/Passenger_transport_executive" title="Passenger transport executive">PTE</a></th><td><a href="/wiki/West_Yorkshire_Passenger_Transport_Executive" class="mw-redirect" title="West Yorkshire Passenger Transport Executive">West Yorkshire</a> (Metro)</td></tr><tr><th scope="row">Zone</th><td>3</td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">History</th></tr><tr><th scope="row">1867</th><td>Opened</td></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/National_Rail" title="National Rail">National Rail</a> – <a href="/wiki/Category:Railway_stations_in_the_United_Kingdom" title="Category:Railway stations in the United Kingdom">UK railway stations</a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef"><div class="noprint"><span class="nowrap"><small><a href="/wiki/UK_railway_stations_%E2%80%93_A" title="UK railway stations – A">A</a> <a href="/wiki/UK_railway_stations_%E2%80%93_B" title="UK railway stations – B">B</a> <a href="/wiki/UK_railway_stations_%E2%80%93_C" title="UK railway stations – C">C</a> <a href="/wiki/UK_railway_stations_%E2%80%93_D" title="UK railway stations – D">D</a> <a href="/wiki/UK_railway_stations_%E2%80%93_E" title="UK railway stations – E">E</a> <a href="/wiki/UK_railway_stations_%E2%80%93_F" title="UK railway stations – F">F</a> <a href="/wiki/UK_railway_stations_%E2%80%93_G" title="UK railway stations – G">G</a> <a href="/wiki/UK_railway_stations_%E2%80%93_H" title="UK railway stations – H">H</a> <a href="/wiki/UK_railway_stations_%E2%80%93_I" title="UK railway stations – I">I</a> <a href="/wiki/UK_railway_stations_%E2%80%93_J" title="UK railway stations – J">J</a> <a href="/wiki/UK_railway_stations_%E2%80%93_K" title="UK railway stations – K">K</a> <a href="/wiki/UK_railway_stations_%E2%80%93_L" title="UK railway stations – L">L</a> <a href="/wiki/UK_railway_stations_%E2%80%93_M" title="UK railway stations – M">M</a> <a href="/wiki/UK_railway_stations_%E2%80%93_N" title="UK railway stations – N">N</a> <a href="/wiki/UK_railway_stations_%E2%80%93_O" title="UK railway stations – O">O</a> <a href="/wiki/UK_railway_stations_%E2%80%93_P" title="UK railway stations – P">P</a> <a href="/wiki/UK_railway_stations_%E2%80%93_Q" title="UK railway stations – Q">Q</a> <a href="/wiki/UK_railway_stations_%E2%80%93_R" title="UK railway stations – R">R</a> <a href="/wiki/UK_railway_stations_%E2%80%93_S" title="UK railway stations – S">S</a> <a href="/wiki/UK_railway_stations_%E2%80%93_T" title="UK railway stations – T">T</a> <a href="/wiki/UK_railway_stations_%E2%80%93_U" title="UK railway stations – U">U</a> <a href="/wiki/UK_railway_stations_%E2%80%93_V" title="UK railway stations – V">V</a> <a href="/wiki/UK_railway_stations_%E2%80%93_W" title="UK railway stations – W">W</a> X <a href="/wiki/UK_railway_stations_%E2%80%93_Y" title="UK railway stations – Y">Y</a> Z</small></span></div></th></tr><tr><td colspan="2" style="text-align:center"><small>* Annual estimated passenger usage based on sales of tickets in stated financial year(s) which end or originate at Wakefield Westgate from <a rel="nofollow" class="external text" href="http://orr.gov.uk/statistics/published-stats/station-usage-estimates">Office of Rail and Road statistics</a>. Methodology may vary year on year.</small></td></tr></tbody></table>
+<p><b>Wakefield Westgate railway station</b> is a mainline railway station in <a href="/wiki/Wakefield" title="Wakefield">Wakefield</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, England. It is 10 miles (16&#160;km) south of <a href="/wiki/Leeds" title="Leeds">Leeds</a> to the west of the city centre, on the <a href="/wiki/Wakefield_Line" class="mw-redirect" title="Wakefield Line">Wakefield Line</a> and Leeds branch of the <a href="/wiki/East_Coast_Main_Line" title="East Coast Main Line">East Coast Main Line</a>.
+</p><p>The first Westgate station opened in 1856 a few years after the town's first station, <a href="/wiki/Wakefield_Kirkgate_railway_station" title="Wakefield Kirkgate railway station">Wakefield Kirkgate</a>. In 1867, the station was rebuilt on the opposite side of Westgate on the main line between <a href="/wiki/Leeds" title="Leeds">Leeds</a> and <a href="/wiki/Doncaster" title="Doncaster">Doncaster</a>. <a href="/wiki/British_Rail" title="British Rail">British Rail</a> modernised the station in 1967 when large parts of the 19th-century station were demolished and replaced with austere but functional facilities. By the 21st century, there was pressure to modernise the station and between 2009 and 2013 the station was rebuilt and modernised as a result of regeneration efforts focused upon the wider area. On 3 February 2014, the rebuilt station was officially opened.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_history"><span class="tocnumber">1.1</span> <span class="toctext">Early history</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Regeneration"><span class="tocnumber">1.2</span> <span class="toctext">Regeneration</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Services"><span class="tocnumber">2</span> <span class="toctext">Services</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Facilities"><span class="tocnumber">3</span> <span class="toctext">Facilities</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Culture"><span class="tocnumber">4</span> <span class="toctext">Culture</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakefield_Westgate_railway_station&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_history">Early history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakefield_Westgate_railway_station&amp;action=edit&amp;section=2" title="Edit section: Early history">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:Railway_Doorway_-_geograph.org.uk_-_867220.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Railway_Doorway_-_geograph.org.uk_-_867220.jpg/170px-Railway_Doorway_-_geograph.org.uk_-_867220.jpg" decoding="async" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Railway_Doorway_-_geograph.org.uk_-_867220.jpg/255px-Railway_Doorway_-_geograph.org.uk_-_867220.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/Railway_Doorway_-_geograph.org.uk_-_867220.jpg/340px-Railway_Doorway_-_geograph.org.uk_-_867220.jpg 2x" data-file-width="480" data-file-height="640" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Railway_Doorway_-_geograph.org.uk_-_867220.jpg" class="internal" title="Enlarge"></a></div>Entrance to the 1867 station near the bridge on Westgate</div></div></div>
+<p>During 1856, shortly after the spur line from <a href="/wiki/Wakefield" title="Wakefield">Wakefield</a>'s first station, <a href="/wiki/Wakefield_Kirkgate_railway_station" title="Wakefield Kirkgate railway station">Wakefield Kirkgate</a> was built, the first Westgate station opened.<sup id="cite_ref-appear_13_1-0" class="reference"><a href="#cite_note-appear_13-1">&#91;1&#93;</a></sup> Its southern side was built for the <a href="/wiki/Bradford,_Wakefield_and_Leeds_Railway" title="Bradford, Wakefield and Leeds Railway">Bradford, Wakefield and Leeds Railway</a> (GNR) on part of the private estate belonging to wealthy cloth merchant John Milnes and his mid-18th century <a href="/wiki/Mansion" title="Mansion">mansion</a> was partially demolished and its remains were incorporated into the station.<sup id="cite_ref-WWS_2-0" class="reference"><a href="#cite_note-WWS-2">&#91;2&#93;</a></sup>
+</p><p>The station was used for ten years before further developments necessitated its demolition and rebuilding. No traces remain of the original station as the site was levelled and premises for Wakefield School were built on the site. The school has since been demolished.<sup id="cite_ref-WWS_2-1" class="reference"><a href="#cite_note-WWS-2">&#91;2&#93;</a></sup>
+</p><p>A new station opened on the opposite side of Westgate in 1867.  It was constructed for the GNR, the <a href="/wiki/Manchester,_Sheffield_and_Lincolnshire_Railway" title="Manchester, Sheffield and Lincolnshire Railway">Manchester, Sheffield and Lincolnshire</a> and the <a href="/wiki/Lancashire_and_Yorkshire_Railway" title="Lancashire and Yorkshire Railway">Lancashire and Yorkshire Railways</a> on the main line from <a href="/wiki/Leeds" title="Leeds">Leeds</a> to <a href="/wiki/Doncaster" title="Doncaster">Doncaster</a> which approached Westgate from the north on an embankment before passing through the station and over the bridge in Westgate which is at the start of a 95-arch viaduct. The station was designed by Leeds engineer, J.B. Fraser.<sup id="cite_ref-WWS_2-2" class="reference"><a href="#cite_note-WWS-2">&#91;2&#93;</a></sup>  Built at a cost of £60,000, it was described by a local <a href="/wiki/Newspaper" title="Newspaper">newspaper</a> as "one of the most perfect stations in England – special care in designing the works having been taken…in order that every facility might be given for the easy and expeditious working of the goods and passenger traffic".<sup id="cite_ref-appear_13_1-1" class="reference"><a href="#cite_note-appear_13-1">&#91;1&#93;</a></sup> A prominent feature was a <a href="/wiki/Turret" title="Turret">turreted</a> tower, which, as a result of lobbying by the Wakefield Tradesmen's Association, was converted into a four-faced <a href="/wiki/Clock_tower" title="Clock tower">clock tower</a> in June 1880. The clock's mechanism was designed by the <a href="/wiki/Horology" title="Horology">horologist</a> and <a href="/wiki/Lawyer" title="Lawyer">lawyer</a> <a href="/wiki/Edmund_Beckett,_1st_Baron_Grimthorpe" title="Edmund Beckett, 1st Baron Grimthorpe">Sir Edmund Beckett</a> and made by <a href="/wiki/Potts_of_Leeds" title="Potts of Leeds">Potts of Leeds</a>.
+</p><p>Starting in 1967,  <a href="/wiki/British_Rail" title="British Rail">British Rail</a> embarked on an extensive rebuild of the second station, resulting in the removal of the clock tower and most of the station buildings.<sup id="cite_ref-WWS_2-3" class="reference"><a href="#cite_note-WWS-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-WWS_2-4" class="reference"><a href="#cite_note-WWS-2">&#91;2&#93;</a></sup> The station's decorative and elegant frontage and pavilion roof were demolished and replaced with an austere counterpart. The rebuilt station was "aesthetically inferior to its earlier incarnation, soon proved to be too cramped to cope with a rise in passenger numbers". It was poorly laid out with few opportunities for retail and other services.<sup id="cite_ref-appear_13_1-2" class="reference"><a href="#cite_note-appear_13-1">&#91;1&#93;</a></sup> Infilling the station forecourt to the level of the first-storey platform provided direct access to the Up platform level but there was no level access to the Down platform except via a <a href="/wiki/Level_crossings_in_the_United_Kingdom#Barrow_Crossing" title="Level crossings in the United Kingdom">barrow crossing</a>.<sup id="cite_ref-appear_13_1-3" class="reference"><a href="#cite_note-appear_13-1">&#91;1&#93;</a></sup>
+</p><p>Westgate became the main station serving Wakefield because of its location on the main line from Leeds to London. Until the mid-1960s, it had regular services to Bradford Exchange via <a href="/wiki/Batley_railway_station" title="Batley railway station">Batley</a> and <a href="/wiki/Ossett" title="Ossett">Ossett</a> and via Morley Top and to <a href="/wiki/Castleford" title="Castleford">Castleford</a> via the Methley Joint Railway, but these services fell victim to the <a href="/wiki/Beeching_cuts" title="Beeching cuts">Beeching cuts</a> between 1964 and 1966.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2018)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h3><span class="mw-headline" id="Regeneration">Regeneration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakefield_Westgate_railway_station&amp;action=edit&amp;section=3" title="Edit section: Regeneration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Improvements to Westgate Station were constrained by a lack of funding.<sup id="cite_ref-appear_13_1-4" class="reference"><a href="#cite_note-appear_13-1">&#91;1&#93;</a></sup> In early 2007 Network Rail announced that a £1.4&#160;million redevelopment scheme was planned for the station to take place by the end of 2009.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> The scheme was a part of the <i>Westgate Key Development Area</i> authorised by <a href="/wiki/Wakefield_Council" title="Wakefield Council">Wakefield Council</a>.<sup id="cite_ref-WakefieldKDA_5-0" class="reference"><a href="#cite_note-WakefieldKDA-5">&#91;5&#93;</a></sup> The scheme involved constructing offices, leisure, small-scale retail, hotel, restaurants and housing on the site of an old dairy and disused railway goods yards. In 2009, work on the Merchant Gate development commenced and work on the first phase was completed by September 2010.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>Four years later,  Westgate Station was rebuilt at the northern end of the platforms and the former overflow car park.<sup id="cite_ref-appear_13_1-5" class="reference"><a href="#cite_note-appear_13-1">&#91;1&#93;</a></sup> Key aims of the project were nearly doubling station's retail facilities, an improved forecourt area, station management centre, staff offices, a customer information point, a first class waiting room and standard class waiting facilities  and the installation of new passenger information technologies and automated ticket barriers to reduce fare evasion.<sup id="cite_ref-appear_13_1-6" class="reference"><a href="#cite_note-appear_13-1">&#91;1&#93;</a></sup> Better pedestrian access to the <a href="/wiki/Multi-storey_car_park" class="mw-redirect" title="Multi-storey car park">multi-storey car park</a> and <a href="/wiki/Taxi" class="mw-redirect" title="Taxi">taxi</a> ranks were provided.<sup id="cite_ref-appear_13_1-7" class="reference"><a href="#cite_note-appear_13-1">&#91;1&#93;</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wakefield_Westgate_stn_p2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wakefield_Westgate_stn_p2.jpg/220px-Wakefield_Westgate_stn_p2.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wakefield_Westgate_stn_p2.jpg/330px-Wakefield_Westgate_stn_p2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Wakefield_Westgate_stn_p2.jpg/440px-Wakefield_Westgate_stn_p2.jpg 2x" data-file-width="2304" data-file-height="1728" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Wakefield_Westgate_stn_p2.jpg" class="internal" title="Enlarge"></a></div>Platform 2 - For northbound trains</div></div></div>
+<p>Few elements of the modernisation programme interfered with the operational railway except for the installation of additional canopies and the replacement <a href="/wiki/Footbridge" title="Footbridge">footbridge</a>. The old footbridge and some 1960's station buildings were removed.<sup id="cite_ref-appear_13_1-8" class="reference"><a href="#cite_note-appear_13-1">&#91;1&#93;</a></sup> Wakefield Westgate was  the first newly-built station on the East Coast Main Line in decades. The programme was an element of the third phase of <i>Merchant Gate</i> redevelopment scheme and promoted by its backers as being a key part of the area's renewal.<sup id="cite_ref-minopen_14_8-0" class="reference"><a href="#cite_note-minopen_14-8">&#91;8&#93;</a></sup> Network Rail was appointed by <a href="/wiki/East_Coast_(train_operating_company)" title="East Coast (train operating company)">East Coast</a> as the principal contractor for the programme and the <a href="/wiki/Buckingham_Group" title="Buckingham Group">Buckingham Group</a> was the design-and-build subcontractor.<sup id="cite_ref-appear_13_1-9" class="reference"><a href="#cite_note-appear_13-1">&#91;1&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>In January 2013, after planning permission was granted onsite preparations began<sup id="cite_ref-appear_13_1-10" class="reference"><a href="#cite_note-appear_13-1">&#91;1&#93;</a></sup> and in March rebuilding commenced at a cost of £8.8 million, a large portion was provided via the Station Commercial Project Facility (SCPF), and 1 million each from the <i>Access for All</i> programme and the <i>English Cities Fund</i>.<sup id="cite_ref-appear_13_1-11" class="reference"><a href="#cite_note-appear_13-1">&#91;1&#93;</a></sup> On 23 December 2013, the station opened to service and on 3 February 2014, it was officially opened by <a href="/wiki/Secretary_of_State_for_Transport" title="Secretary of State for Transport">Secretary of State for Transport</a> <a href="/wiki/Patrick_McLoughlin" title="Patrick McLoughlin">Patrick McLoughlin</a> and blessed by the <a href="/wiki/Bishop_of_Wakefield" title="Bishop of Wakefield">Bishop of Wakefield</a>, <a href="/wiki/Stephen_Platten" title="Stephen Platten">Stephen Platten</a>.<sup id="cite_ref-minopen_14_8-1" class="reference"><a href="#cite_note-minopen_14-8">&#91;8&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Services">Services</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakefield_Westgate_railway_station&amp;action=edit&amp;section=4" title="Edit section: Services">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="collapsible" style="width: auto; border: 0px !important; padding:0; box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2); -moz-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2); -webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2); border-spacing: 0px !important;font-size:90%;float:right !important;margin:.5em 0 1em 35px !important;clear:right;position:relative;background-color:#f9f9f9;" cellpadding="0" cellspacing="0">
+
+<tbody><tr>
+<th style="padding:5px; text-align:center; vertical-align:center; background-color:#be2d2c; color:#FFFFFF;"><div class="plainlinks hlist navbar mini" style="float:left;margin-right:5px;white-space:nowrap"><span style="margin-right:-0.125em;background-color:#be2d2c; color:#FFFFFF;">&#91; </span><ul><li class="nv-view"><a href="/wiki/Template:Wakefield_Westgate_railway_station" title="Template:Wakefield Westgate railway station"><abbr title="View this template" style="background-color:#be2d2c; color:#FFFFFF;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Wakefield_Westgate_railway_station" title="Template talk:Wakefield Westgate railway station"><abbr title="Discuss this template" style="background-color:#be2d2c; color:#FFFFFF;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Wakefield_Westgate_railway_station&amp;action=edit"><abbr title="Edit this template" style="background-color:#be2d2c; color:#FFFFFF;">e</abbr></a></li></ul><span style="margin-left:-0.125em;background-color:#be2d2c; color:#FFFFFF;"> &#93;</span></div> <span style="font-size:110%; padding:0 5px;">Wakefield Westgate railway station</span>
+</th></tr>
+
+
+<tr>
+<td><div class="selfreference noprint" style="text-align:right; font-size:90%; padding-right:.5em"><a href="/wiki/Template:Railway_line_legend" title="Template:Railway line legend">Legend</a></div>
+</td></tr>
+<tr>
+<td style="text-align:center;">
+<table cellpadding="0" cellspacing="0" style="background-color:&#32;; line-height: 1.2em; border: none; width: auto; text-align: left; margin:.5em; font-size:110%; white-space:nowrap;">
+
+<tbody><tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_ENDEa.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_ENDEa.svg/20px-BSicon_ENDEa.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_ENDEa.svg/30px-BSicon_ENDEa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_ENDEa.svg/40px-BSicon_ENDEa.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_CONTg.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/BSicon_CONTg.svg/20px-BSicon_CONTg.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/BSicon_CONTg.svg/30px-BSicon_CONTg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/BSicon_CONTg.svg/40px-BSicon_CONTg.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_CONTg.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/BSicon_CONTg.svg/20px-BSicon_CONTg.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/BSicon_CONTg.svg/30px-BSicon_CONTg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/BSicon_CONTg.svg/40px-BSicon_CONTg.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px">To Outwood &amp; Leeds</div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_SPLa.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/BSicon_SPLa.svg/20px-BSicon_SPLa.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/BSicon_SPLa.svg/30px-BSicon_SPLa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/BSicon_SPLa.svg/40px-BSicon_SPLa.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STRg.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/BSicon_STRg.svg/20px-BSicon_STRg.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/BSicon_STRg.svg/30px-BSicon_STRg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/BSicon_STRg.svg/40px-BSicon_STRg.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STRf.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/BSicon_STRf.svg/20px-BSicon_STRf.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/BSicon_STRf.svg/30px-BSicon_STRf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/BSicon_STRf.svg/40px-BSicon_STRf.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_vSTR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BSicon_vSTR.svg/20px-BSicon_vSTR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BSicon_vSTR.svg/30px-BSicon_vSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BSicon_vSTR.svg/40px-BSicon_vSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_vSTR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BSicon_vSTR.svg/20px-BSicon_vSTR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BSicon_vSTR.svg/30px-BSicon_vSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4f/BSicon_vSTR.svg/40px-BSicon_vSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_SPLe.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/BSicon_SPLe.svg/20px-BSicon_SPLe.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/BSicon_SPLe.svg/30px-BSicon_SPLe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/BSicon_SPLe.svg/40px-BSicon_SPLe.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_KRWl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BSicon_KRWl.svg/20px-BSicon_KRWl.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BSicon_KRWl.svg/30px-BSicon_KRWl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BSicon_KRWl.svg/40px-BSicon_KRWl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_KRWg%2Br.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BSicon_KRWg%2Br.svg/20px-BSicon_KRWg%2Br.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BSicon_KRWg%2Br.svg/30px-BSicon_KRWg%2Br.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BSicon_KRWg%2Br.svg/40px-BSicon_KRWg%2Br.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_KRWgl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BSicon_KRWgl.svg/20px-BSicon_KRWgl.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BSicon_KRWgl.svg/30px-BSicon_KRWgl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BSicon_KRWgl.svg/40px-BSicon_KRWgl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_KRWg%2Br.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BSicon_KRWg%2Br.svg/20px-BSicon_KRWg%2Br.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BSicon_KRWg%2Br.svg/30px-BSicon_KRWg%2Br.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BSicon_KRWg%2Br.svg/40px-BSicon_KRWg%2Br.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_ENDEa.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_ENDEa.svg/20px-BSicon_ENDEa.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_ENDEa.svg/30px-BSicon_ENDEa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_ENDEa.svg/40px-BSicon_ENDEa.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative; width: x20px;">
+<div style="position: absolute; left: 0px; top: 0px; padding: 0;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/BSicon_exSTR2.svg/20px-BSicon_exSTR2.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/BSicon_exSTR2.svg/30px-BSicon_exSTR2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/BSicon_exSTR2.svg/40px-BSicon_exSTR2.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_exSTRc3.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BSicon_exSTRc3.svg/20px-BSicon_exSTRc3.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BSicon_exSTRc3.svg/30px-BSicon_exSTRc3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BSicon_exSTRc3.svg/40px-BSicon_exSTRc3.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative; width: x20px;">
+<div style="position: absolute; left: 0px; top: 0px; padding: 0;"><a href="/wiki/File:BSicon_exSTRc1.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/BSicon_exSTRc1.svg/20px-BSicon_exSTRc1.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/BSicon_exSTRc1.svg/30px-BSicon_exSTRc1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/BSicon_exSTRc1.svg/40px-BSicon_exSTRc1.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative; width: x20px;">
+<div style="position: absolute; left: 0px; top: 0px; padding: 0;"><a href="/wiki/File:BSicon_exSTR2%2B4.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BSicon_exSTR2%2B4.svg/20px-BSicon_exSTR2%2B4.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BSicon_exSTR2%2B4.svg/30px-BSicon_exSTR2%2B4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BSicon_exSTR2%2B4.svg/40px-BSicon_exSTR2%2B4.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/BSicon_exSTR%2B4.svg/20px-BSicon_exSTR%2B4.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/BSicon_exSTR%2B4.svg/30px-BSicon_exSTR%2B4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/BSicon_exSTR%2B4.svg/40px-BSicon_exSTR%2B4.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_exSTRc3.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BSicon_exSTRc3.svg/20px-BSicon_exSTRc3.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BSicon_exSTRc3.svg/30px-BSicon_exSTRc3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BSicon_exSTRc3.svg/40px-BSicon_exSTRc3.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative; width: x20px;">
+<div style="position: absolute; left: 0px; top: 0px; padding: 0;"><a href="/wiki/File:BSicon_exSTRc1.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/BSicon_exSTRc1.svg/20px-BSicon_exSTRc1.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/BSicon_exSTRc1.svg/30px-BSicon_exSTRc1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/BSicon_exSTRc1.svg/40px-BSicon_exSTRc1.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/20px-BSicon_exSTR.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/30px-BSicon_exSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/40px-BSicon_exSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative; width: x20px;">
+<div style="position: absolute; left: 0px; top: 0px; padding: 0;"><a href="/wiki/File:BSicon_exSTR2%2B4.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BSicon_exSTR2%2B4.svg/20px-BSicon_exSTR2%2B4.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BSicon_exSTR2%2B4.svg/30px-BSicon_exSTR2%2B4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BSicon_exSTR2%2B4.svg/40px-BSicon_exSTR2%2B4.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/BSicon_exSTR%2B4.svg/20px-BSicon_exSTR%2B4.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/BSicon_exSTR%2B4.svg/30px-BSicon_exSTR%2B4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/BSicon_exSTR%2B4.svg/40px-BSicon_exSTR%2B4.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_exSTRc3.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BSicon_exSTRc3.svg/20px-BSicon_exSTRc3.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BSicon_exSTRc3.svg/30px-BSicon_exSTRc3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BSicon_exSTRc3.svg/40px-BSicon_exSTRc3.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_exSTR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/20px-BSicon_exSTR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/30px-BSicon_exSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/40px-BSicon_exSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative; width: x20px;">
+<div style="position: absolute; left: 0px; top: 0px; padding: 0;"><a href="/wiki/File:BSicon_exSTRc1.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/BSicon_exSTRc1.svg/20px-BSicon_exSTRc1.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/BSicon_exSTRc1.svg/30px-BSicon_exSTRc1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/BSicon_exSTRc1.svg/40px-BSicon_exSTRc1.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/20px-BSicon_exSTR.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/30px-BSicon_exSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/40px-BSicon_exSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative; width: x20px;">
+<div style="position: absolute; left: 0px; top: 0px; padding: 0;"><a href="/wiki/File:BSicon_exSTR2%2B4.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BSicon_exSTR2%2B4.svg/20px-BSicon_exSTR2%2B4.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BSicon_exSTR2%2B4.svg/30px-BSicon_exSTR2%2B4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BSicon_exSTR2%2B4.svg/40px-BSicon_exSTR2%2B4.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/BSicon_exSTR%2B4.svg/20px-BSicon_exSTR%2B4.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/BSicon_exSTR%2B4.svg/30px-BSicon_exSTR%2B4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/BSicon_exSTR%2B4.svg/40px-BSicon_exSTR%2B4.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_exSTRc3.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BSicon_exSTRc3.svg/20px-BSicon_exSTRc3.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BSicon_exSTRc3.svg/30px-BSicon_exSTRc3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BSicon_exSTRc3.svg/40px-BSicon_exSTRc3.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_exSTR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/20px-BSicon_exSTR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/30px-BSicon_exSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/40px-BSicon_exSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_exSTR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/20px-BSicon_exSTR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/30px-BSicon_exSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/40px-BSicon_exSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative; width: x20px;">
+<div style="position: absolute; left: 0px; top: 0px; padding: 0;"><a href="/wiki/File:BSicon_exSTRc1.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/BSicon_exSTRc1.svg/20px-BSicon_exSTRc1.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/BSicon_exSTRc1.svg/30px-BSicon_exSTRc1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/BSicon_exSTRc1.svg/40px-BSicon_exSTRc1.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/20px-BSicon_exSTR.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/30px-BSicon_exSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/40px-BSicon_exSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_exSTR%2B4.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/BSicon_exSTR%2B4.svg/20px-BSicon_exSTR%2B4.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/BSicon_exSTR%2B4.svg/30px-BSicon_exSTR%2B4.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/BSicon_exSTR%2B4.svg/40px-BSicon_exSTR%2B4.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_exSTR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/20px-BSicon_exSTR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/30px-BSicon_exSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/40px-BSicon_exSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_exSTR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/20px-BSicon_exSTR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/30px-BSicon_exSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/40px-BSicon_exSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_exSTR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/20px-BSicon_exSTR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/30px-BSicon_exSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/40px-BSicon_exSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_exSTR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/20px-BSicon_exSTR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/30px-BSicon_exSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/BSicon_exSTR.svg/40px-BSicon_exSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_KRWg%2Bl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BSicon_KRWg%2Bl.svg/20px-BSicon_KRWg%2Bl.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BSicon_KRWg%2Bl.svg/30px-BSicon_KRWg%2Bl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/BSicon_KRWg%2Bl.svg/40px-BSicon_KRWg%2Bl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_KRWgr.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BSicon_KRWgr.svg/20px-BSicon_KRWgr.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BSicon_KRWgr.svg/30px-BSicon_KRWgr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BSicon_KRWgr.svg/40px-BSicon_KRWgr.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_exENDEe.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BSicon_exENDEe.svg/20px-BSicon_exENDEe.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BSicon_exENDEe.svg/30px-BSicon_exENDEe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BSicon_exENDEe.svg/40px-BSicon_exENDEe.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_exENDEe.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BSicon_exENDEe.svg/20px-BSicon_exENDEe.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BSicon_exENDEe.svg/30px-BSicon_exENDEe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BSicon_exENDEe.svg/40px-BSicon_exENDEe.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_exENDEe.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BSicon_exENDEe.svg/20px-BSicon_exENDEe.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BSicon_exENDEe.svg/30px-BSicon_exENDEe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BSicon_exENDEe.svg/40px-BSicon_exENDEe.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_exENDEe.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BSicon_exENDEe.svg/20px-BSicon_exENDEe.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BSicon_exENDEe.svg/30px-BSicon_exENDEe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/BSicon_exENDEe.svg/40px-BSicon_exENDEe.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR%2BBSr.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/20px-BSicon_STR%2BBSr.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/30px-BSicon_STR%2BBSr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/40px-BSicon_STR%2BBSr.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR%2BBSl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/20px-BSicon_STR%2BBSl.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/30px-BSicon_STR%2BBSl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/40px-BSicon_STR%2BBSl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR%2BBSr.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/20px-BSicon_STR%2BBSr.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/30px-BSicon_STR%2BBSr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/40px-BSicon_STR%2BBSr.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR%2BBSl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/20px-BSicon_STR%2BBSl.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/30px-BSicon_STR%2BBSl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/40px-BSicon_STR%2BBSl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR%2BBSr.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/20px-BSicon_STR%2BBSr.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/30px-BSicon_STR%2BBSr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/40px-BSicon_STR%2BBSr.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR%2BBSl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/20px-BSicon_STR%2BBSl.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/30px-BSicon_STR%2BBSl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/40px-BSicon_STR%2BBSl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR%2BBSr.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/20px-BSicon_STR%2BBSr.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/30px-BSicon_STR%2BBSr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/40px-BSicon_STR%2BBSr.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR%2BBSl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/20px-BSicon_STR%2BBSl.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/30px-BSicon_STR%2BBSl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/40px-BSicon_STR%2BBSl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR%2BBSr.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/20px-BSicon_STR%2BBSr.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/30px-BSicon_STR%2BBSr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/40px-BSicon_STR%2BBSr.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR%2BBSl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/20px-BSicon_STR%2BBSl.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/30px-BSicon_STR%2BBSl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/40px-BSicon_STR%2BBSl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR%2BBSr.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/20px-BSicon_STR%2BBSr.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/30px-BSicon_STR%2BBSr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BSicon_STR%2BBSr.svg/40px-BSicon_STR%2BBSr.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR%2BBSl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/20px-BSicon_STR%2BBSl.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/30px-BSicon_STR%2BBSl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/BSicon_STR%2BBSl.svg/40px-BSicon_STR%2BBSl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_KRWl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BSicon_KRWl.svg/20px-BSicon_KRWl.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BSicon_KRWl.svg/30px-BSicon_KRWl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BSicon_KRWl.svg/40px-BSicon_KRWl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_KRWg%2Br.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BSicon_KRWg%2Br.svg/20px-BSicon_KRWg%2Br.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BSicon_KRWg%2Br.svg/30px-BSicon_KRWg%2Br.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BSicon_KRWg%2Br.svg/40px-BSicon_KRWg%2Br.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_KRWgl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BSicon_KRWgl.svg/20px-BSicon_KRWgl.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BSicon_KRWgl.svg/30px-BSicon_KRWgl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/BSicon_KRWgl.svg/40px-BSicon_KRWgl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_KRWg%2Br.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BSicon_KRWg%2Br.svg/20px-BSicon_KRWg%2Br.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BSicon_KRWg%2Br.svg/30px-BSicon_KRWg%2Br.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/BSicon_KRWg%2Br.svg/40px-BSicon_KRWg%2Br.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STR.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/20px-BSicon_STR.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/30px-BSicon_STR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BSicon_STR.svg/40px-BSicon_STR.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_ABZgl.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BSicon_ABZgl.svg/20px-BSicon_ABZgl.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BSicon_ABZgl.svg/30px-BSicon_ABZgl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/BSicon_ABZgl.svg/40px-BSicon_ABZgl.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_CONTfq.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BSicon_CONTfq.svg/20px-BSicon_CONTfq.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BSicon_CONTfq.svg/30px-BSicon_CONTfq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BSicon_CONTfq.svg/40px-BSicon_CONTfq.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px">To Wakefield Kirkgate</div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STRg.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/BSicon_STRg.svg/20px-BSicon_STRg.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/BSicon_STRg.svg/30px-BSicon_STRg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/BSicon_STRg.svg/40px-BSicon_STRg.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_STRf.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/BSicon_STRf.svg/20px-BSicon_STRf.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/BSicon_STRf.svg/30px-BSicon_STRf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/77/BSicon_STRf.svg/40px-BSicon_STRf.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;"><div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr>
+<tr>
+<td style="padding:0;&#32;; background-color:; text-align:center !important; width:0px; border: 0px !important">
+<table cellspacing="0" cellpadding="0" style="background-color:transparent; float:none !important; margin:auto !important; width: auto !important; line-height: 0px !important; text-align:left; padding:0 !important;">
+
+<tbody><tr>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_CONTf.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BSicon_CONTf.svg/20px-BSicon_CONTf.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BSicon_CONTf.svg/30px-BSicon_CONTf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BSicon_CONTf.svg/40px-BSicon_CONTf.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0;"><div style="position: relative;"><a href="/wiki/File:BSicon_CONTf.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BSicon_CONTf.svg/20px-BSicon_CONTf.svg.png" decoding="async" width="20" height="20" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BSicon_CONTf.svg/30px-BSicon_CONTf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BSicon_CONTf.svg/40px-BSicon_CONTf.svg.png 2x" data-file-width="500" data-file-height="500" /></a></div>
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td>
+<td class="bs-overlap" style="background-color:inherit; border:0; padding:0; width:20px; min-width:20px;">
+</td></tr></tbody></table>
+</td>
+<td style="text-align:right; vertical-align:middle; padding:0 0 0 3px !important; font-size:90%; border: 0px !important">
+</td>
+<td colspan="2" style="text-align:left; vertical-align:middle; padding:0 0 0 3px; white-space:nowrap; border: 0px !important;">&#32;<table cellspacing="0" cellpadding="0" style="font-size:90%;font-weight:inherit;color:inherit;background:transparent;margin-top:-2px;margin-bottom:-2px;display:inline-table;vertical-align:middle;text-align:inherit;"><tbody><tr><td style="text-align:inherit;padding:0;line-height:.9;font-size:inherit">To Sandal &amp; Aggbrigg,</td></tr><tr><td style="text-align:inherit;padding:0;line-height:.9;font-size:inherit">Sheffield &amp; Doncaster</td></tr></tbody></table>&#32;<div style="display:inline;font-size:90%;padding-left:3px"></div>
+</td></tr></tbody></table>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+</tbody></table>
+<p>In total, there are 6 tph to <a href="/wiki/Leeds_railway_station" title="Leeds railway station">Leeds</a> with additional peak services. All northbound services call at Leeds.
+</p><p>The station is managed by <a href="/wiki/London_North_Eastern_Railway" title="London North Eastern Railway">London North Eastern Railway</a>, whose services run south from platform 1 to Doncaster and stations to <a href="/wiki/London_King%27s_Cross_railway_station" title="London King&#39;s Cross railway station">London King's Cross</a> and north from platform 2 to <a href="/wiki/Leeds_railway_station" title="Leeds railway station">Leeds</a>. A half-hourly weekday service from Wakefield to London takes approximately just over 2&#160;hours for the 175 miles (282&#160;km) journey.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-appear_13_1-12" class="reference"><a href="#cite_note-appear_13-1">&#91;1&#93;</a></sup>
+</p><p><a href="/wiki/CrossCountry" title="CrossCountry">CrossCountry</a> operate train services north to <a href="/wiki/Newcastle_railway_station" title="Newcastle railway station">Newcastle</a>, <a href="/wiki/Edinburgh_Waverley_railway_station" title="Edinburgh Waverley railway station">Edinburgh</a> and <a href="/wiki/Glasgow_Central_railway_station" class="mw-redirect" title="Glasgow Central railway station">Glasgow</a> and services south to <a href="/wiki/Birmingham_New_Street_railway_station" title="Birmingham New Street railway station">Birmingham New Street</a>, <a href="/wiki/Exeter_St_Davids_railway_station" class="mw-redirect" title="Exeter St Davids railway station">Exeter</a> and the <a href="/wiki/South_West_England" title="South West England">South West of England</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> These call every hour with some additional peak services.
+</p><p><a href="/wiki/Northern_(train_operating_company)" title="Northern (train operating company)">Northern</a> operate stopping services between Leeds and <a href="/wiki/Doncaster_railway_station" title="Doncaster railway station">Doncaster</a>, calling every hour on weekdays and Saturdays. An hourly stopping service also operates from <a href="/wiki/Sheffield_railway_station" class="mw-redirect" title="Sheffield railway station">Sheffield</a> to Leeds via <a href="/wiki/Rotherham_Central_railway_station" class="mw-redirect" title="Rotherham Central railway station">Rotherham</a>. Introduced at the May 2018 Timetable change, there is now another hourly service to Leeds. This train originates at <a href="/wiki/Knottingley_railway_station" title="Knottingley railway station">Knottingley</a> and runs via <a href="/wiki/Pontefract_Monkhill_railway_station" title="Pontefract Monkhill railway station">Pontefract Monkhill</a> and <a href="/wiki/Wakefield_Kirkgate_railway_station" title="Wakefield Kirkgate railway station">Wakefield Kirkgate</a>. This gives a 3tph <a href="/wiki/Northern_(train_operating_company)" title="Northern (train operating company)">Northern</a> service to Leeds (of which, 2tph call at <a href="/wiki/Outwood_railway_station" title="Outwood railway station">Outwood</a>). 
+</p><p><a href="/wiki/East_Midlands_Railway" title="East Midlands Railway">East Midlands Railway</a> services from Leeds to <a href="/wiki/St_Pancras_railway_station" title="St Pancras railway station">London St Pancras</a> via <a href="/wiki/Derby_railway_station" title="Derby railway station">Derby</a> or <a href="/wiki/Nottingham_railway_station" class="mw-redirect" title="Nottingham railway station">Nottingham</a> call at Westgate. They are three early morning departures from Leeds and up to four late afternoon/evening return trips from St Pancras.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> This is because the maintenance depot for former Midland Mainline HST <a href="/wiki/Power_car" title="Power car">power cars</a> is the Maintrain depot at <a href="/wiki/Neville_Hill_depot" class="mw-redirect" title="Neville Hill depot">Neville Hill</a> in Leeds. This provides a limited but useful service between West Yorkshire and the East Midlands. The former operator Midland Mainline had plans for a regular service between St Pancras and Leeds via the <a href="/wiki/Erewash_Valley" title="Erewash Valley">Erewash Valley</a> and <a href="/wiki/Leicester_railway_station" title="Leicester railway station">Leicester</a> but these ambitions were ultimately rejected by the <a href="/wiki/Strategic_Rail_Authority" title="Strategic Rail Authority">Strategic Rail Authority</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2018)">citation needed</span></a></i>&#93;</sup>
+</p>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%; text-align:center;">
+
+<tbody><tr>
+<th>Preceding station
+</th>
+<th colspan="3"><a href="/wiki/File:National_Rail_logo.svg" class="image" title="National Rail"><img alt="National Rail" src="//upload.wikimedia.org/wikipedia/en/thumb/3/31/National_Rail_logo.svg/15px-National_Rail_logo.svg.png" decoding="async" width="15" height="9" srcset="//upload.wikimedia.org/wikipedia/en/thumb/3/31/National_Rail_logo.svg/23px-National_Rail_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/3/31/National_Rail_logo.svg/30px-National_Rail_logo.svg.png 2x" data-file-width="62" data-file-height="39" /></a> <a href="/wiki/National_Rail" title="National Rail">National Rail</a>
+</th>
+<th>Following station
+</th></tr><tr>
+<td rowspan="" style="text-align: center; vertical-align: middle; border-left: 0px none; border-bottom: 0px none; border-right: 1px #aaa solid; border-top: 1px #aaa solid;"><div><a href="/wiki/Sheffield_railway_station" class="mw-redirect" title="Sheffield railway station">Sheffield</a></div></td><td rowspan="2" style="text-align: center; border-left: 0px none; border-bottom: 0px none; border-right: 0px none; border-top: 1px #aaa solid; width: 8px; background-color: #660F21"></td><td rowspan="2" style="text-align: center; vertical-align: middle; border-bottom: 0px none;"><span class="nowrap"><a href="/wiki/CrossCountry" title="CrossCountry">CrossCountry</a></span><div style="font-size:smaller"><a href="/wiki/Cross_Country_Route" title="Cross Country Route">Cross Country Route</a></div></td><td rowspan="2" style="text-align: center; border-left: 0px none; border-bottom: 0px none; border-right: 0px none; border-top: 1px #aaa solid; width: 8px; background-color: #660F21"></td><td rowspan="6" style="text-align: center; vertical-align: middle; border-left: 1px #aaa solid; border-bottom: 0px none; border-right: 0px none; border-top: 1px #aaa solid;"><div><a href="/wiki/Leeds_railway_station" title="Leeds railway station">Leeds</a></div></td>
+</tr>
+<tr>
+<td rowspan="" style="text-align: center; vertical-align: middle; border-left: 0px none; border-bottom: 0px none; border-right: 1px #aaa solid; border-top: 1px #aaa solid;"><div><a href="/wiki/Doncaster_railway_station" title="Doncaster railway station">Doncaster</a></div><div style="font-size: smaller;">Limited service</div></td>
+</tr>
+<tr>
+<td rowspan="" style="text-align: center; vertical-align: middle; border-left: 0px none; border-bottom: 0px none; border-right: 1px #aaa solid; border-top: 1px #aaa solid;"><div><a href="/wiki/Doncaster_railway_station" title="Doncaster railway station">Doncaster</a></div></td><td rowspan="" style="text-align: center; border-left: 0px none; border-bottom: 0px none; border-right: 0px none; border-top: 1px #aaa solid; width: 8px; background-color: #"></td><td rowspan="" style="text-align: center; vertical-align: middle; border-bottom: 0px none;"><span class="nowrap"><a href="/wiki/London_North_Eastern_Railway" title="London North Eastern Railway">London North Eastern Railway</a></span><div style="font-size:smaller">London - Leeds</div></td><td rowspan="" style="text-align: center; border-left: 0px none; border-bottom: 0px none; border-right: 0px none; border-top: 1px #aaa solid; width: 8px; background-color: #"></td>
+</tr>
+<tr>
+<td rowspan="" style="text-align: center; vertical-align: middle; border-left: 0px none; border-bottom: 0px none; border-right: 1px #aaa solid; border-top: 1px #aaa solid;"><div><a href="/wiki/Sheffield_railway_station" class="mw-redirect" title="Sheffield railway station">Sheffield</a></div></td><td rowspan="2" style="text-align: center; border-left: 0px none; border-bottom: 0px none; border-right: 0px none; border-top: 1px #aaa solid; width: 8px; background-color: #703e69"></td><td rowspan="2" style="text-align: center; vertical-align: middle; border-bottom: 0px none;"><span class="nowrap"><a href="/wiki/East_Midlands_Railway" title="East Midlands Railway">East Midlands Railway</a></span><div style="font-size:smaller">Midland Main Line</div><div style="font-size:smaller">Limited service</div></td><td rowspan="2" style="text-align: center; border-left: 0px none; border-bottom: 0px none; border-right: 0px none; border-top: 1px #aaa solid; width: 8px; background-color: #703e69"></td>
+</tr>
+<tr>
+<td rowspan="" style="text-align: center; vertical-align: middle; border-left: 0px none; border-bottom: 0px none; border-right: 1px #aaa solid; border-top: 1px #aaa solid;"><div><a href="/wiki/Doncaster_railway_station" title="Doncaster railway station">Doncaster</a></div></td>
+</tr>
+<tr>
+<td rowspan="" style="text-align: center; vertical-align: middle; border-left: 0px none; border-bottom: 0px none; border-right: 1px #aaa solid; border-top: 1px #aaa solid;"><div><a href="/wiki/Wakefield_Kirkgate_railway_station" title="Wakefield Kirkgate railway station">Wakefield Kirkgate</a></div></td><td rowspan="" style="text-align: center; border-left: 0px none; border-bottom: 0px none; border-right: 0px none; border-top: 1px #aaa solid; width: 8px; background-color: #262262"></td><td rowspan="" style="text-align: center; vertical-align: middle; border-bottom: 0px none;"><a href="/wiki/Northern_(train_operating_company)" title="Northern (train operating company)">Northern</a><div style="font-size:smaller">Pontefract line</div></td><td rowspan="" style="text-align: center; border-left: 0px none; border-bottom: 0px none; border-right: 0px none; border-top: 1px #aaa solid; width: 8px; background-color: #262262"></td>
+</tr>
+<tr>
+<td rowspan="" style="text-align: center; vertical-align: middle; border-left: 0px none; border-bottom: 0px none; border-right: 1px #aaa solid; border-top: 1px #aaa solid;"><div><a href="/wiki/Sandal_and_Agbrigg_railway_station" title="Sandal and Agbrigg railway station">Sandal and Agbrigg</a></div></td><td rowspan="" style="text-align: center; border-left: 0px none; border-bottom: 0px none; border-right: 0px none; border-top: 1px #aaa solid; width: 8px; background-color: #262262"></td><td rowspan="" style="text-align: center; vertical-align: middle; border-bottom: 0px none;"><a href="/wiki/Northern_(train_operating_company)" title="Northern (train operating company)">Northern</a><div style="font-size:smaller"><a href="/wiki/Wakefield_Line" class="mw-redirect" title="Wakefield Line">Wakefield Line</a></div></td><td rowspan="" style="text-align: center; border-left: 0px none; border-bottom: 0px none; border-right: 0px none; border-top: 1px #aaa solid; width: 8px; background-color: #262262"></td><td rowspan="" style="text-align: center; vertical-align: middle; border-left: 1px #aaa solid; border-bottom: 0px none; border-right: 0px none; border-top: 1px #aaa solid;"><div><a href="/wiki/Outwood_railway_station" title="Outwood railway station">Outwood</a></div></td>
+</tr>
+
+<tr style="background: #eaecf0;">
+<td style="border-left: none; border-right: none; border-bottom: none;">&#160;
+</td>
+<td style="border-left: none; border-right: none; text-align: center; border-bottom: none;" colspan="3"><b>Future services</b>
+</td>
+<td style="border-left: none; border-right: none; border-bottom: none;">&#160;
+</td></tr>
+<tr>
+<td rowspan="1" style="text-align:center; border-left: 0px none; border-right: 1px #aaa solid; border-top: 1px #aaa solid; border-bottom:0px none;"><a href="/wiki/Leeds_railway_station" title="Leeds railway station">Leeds</a>
+</td>
+<td style="background:#262262; border-left: 0px none; border-right: 0px none; border-top:1px #aaa solid; border-bottom:0px none;">&#160;
+</td>
+<td rowspan="1" style="text-align: center; border-left: 1px #aaa solid; border-right: 1px #aaa solid; border-top:solid 1px #aaa; border-bottom:0px none;"><a href="/wiki/Northern_(train_operating_company)" title="Northern (train operating company)">Northern Connect</a><br /><small>Bradford Interchange - Nottingham</small><div style="height:8px; background-color:#13a89e; border:none; margin:0 -5px -2px;"></div>
+</td>
+<td style="background:#262262; border-left: 0px none; border-right: 0px none; border-top:1px #aaa solid; border-bottom:0px none;">&#160;
+</td>
+<td rowspan="1" style="text-align:center; border-left: 1px #aaa solid; border-right: 0px none; border-top: 1px #aaa solid; border-bottom:0px none;"><a href="/wiki/Sheffield_railway_station" class="mw-redirect" title="Sheffield railway station">Sheffield</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Facilities">Facilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakefield_Westgate_railway_station&amp;action=edit&amp;section=5" title="Edit section: Facilities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:New_Wakefield_Westgate_Railway_Station_-_Concourse_(geograph_3939108).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/New_Wakefield_Westgate_Railway_Station_-_Concourse_%28geograph_3939108%29.jpg/220px-New_Wakefield_Westgate_Railway_Station_-_Concourse_%28geograph_3939108%29.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/New_Wakefield_Westgate_Railway_Station_-_Concourse_%28geograph_3939108%29.jpg/330px-New_Wakefield_Westgate_Railway_Station_-_Concourse_%28geograph_3939108%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/New_Wakefield_Westgate_Railway_Station_-_Concourse_%28geograph_3939108%29.jpg/440px-New_Wakefield_Westgate_Railway_Station_-_Concourse_%28geograph_3939108%29.jpg 2x" data-file-width="640" data-file-height="480" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:New_Wakefield_Westgate_Railway_Station_-_Concourse_(geograph_3939108).jpg" class="internal" title="Enlarge"></a></div>The station concourse in 2014.</div></div></div>
+<p>The station is manned and has an information kiosk, ticket office and self-service ticket machines, refreshments and a newsagent. Outside is a taxi rank, a <a href="/wiki/Cashpoint" class="mw-redirect" title="Cashpoint">cashpoint</a> and a bus stop. Train running information is via digital display screens, timetable posters and automatic announcements.  Lifts and a footbridge connect the platforms, so step-free access is available throughout the station.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Culture">Culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakefield_Westgate_railway_station&amp;action=edit&amp;section=6" title="Edit section: Culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Between 1988 and 2009, a <a href="/wiki/Modern_art" title="Modern art">modern art</a> sculpture, titled 'A Light Wave', created by the <a href="/wiki/Leeds" title="Leeds">Leeds</a>-based artist Charles Quick, was located on the wall behind the old bay platform on the northbound side of the station. The installation comprised a series of wooden planks laid up against a wall, in the form of waves, and illuminated from behind by a succession of lamps.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> The sculpture gradually fell into a state of disrepair, which prompted its removal.
+</p><p>Wakefield Westgate appeared in the TV series <i><a href="/wiki/A_Touch_of_Frost_(TV_series)" class="mw-redirect" title="A Touch of Frost (TV series)">A Touch of Frost</a></i> as Denton Station.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2018)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakefield_Westgate_railway_station&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-appear_13-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-appear_13_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-appear_13_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-appear_13_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-appear_13_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-appear_13_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-appear_13_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-appear_13_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-appear_13_1-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-appear_13_1-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-appear_13_1-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-appear_13_1-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-appear_13_1-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-appear_13_1-12"><sup><i><b>m</b></i></sup></a></span> <span class="reference-text">Bickerdike, Graeme. <a rel="nofollow" class="external text" href="https://www.railengineer.uk/2013/07/08/keeping-up-appearances/">"Keeping up appearances."</a> <i>Rail Engineer</i>, 8 July 2013.</span>
+</li>
+<li id="cite_note-WWS-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-WWS_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WWS_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-WWS_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-WWS_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-WWS_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wakefieldhistoricalsoc.org.uk/PDFs/Westgate%20Station.pdf">"Wakefield's Westgate Stations"</a> <span class="cs1-format">(pdf)</span>. Wakefield Historical Society<span class="reference-accessdate">. Retrieved <span class="nowrap">4 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Wakefield%E2%80%99s+Westgate+Stations&amp;rft.pub=Wakefield+Historical+Society&amp;rft_id=http%3A%2F%2Fwww.wakefieldhistoricalsoc.org.uk%2FPDFs%2FWestgate%2520Station.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWakefield+Westgate+railway+station" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://heritagecalling.com/2014/12/15/9-lost-railway-stations/">"Wakefield Westgate, West Yorkshire."</a> <i>heritagecalling.com</i>, 15 December 2014.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070928040317/http://www.networkrailmediacentre.co.uk/Content/Detail.asp?ReleaseID=2921&amp;NewsAreaID=2&amp;SearchCategoryID=2">"£2.4 Billion Rail Expansion Programme Unveiled"</a>. Network Rail. 3 April 2007. Archived from <a rel="nofollow" class="external text" href="http://www.networkrailmediacentre.co.uk/Content/Detail.asp?ReleaseID=2921&amp;NewsAreaID=2&amp;SearchCategoryID=2">the original</a> on 28 September 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%C2%A32.4+Billion+Rail+Expansion+Programme+Unveiled&amp;rft.pub=Network+Rail&amp;rft.date=2007-04-03&amp;rft_id=http%3A%2F%2Fwww.networkrailmediacentre.co.uk%2FContent%2FDetail.asp%3FReleaseID%3D2921%26NewsAreaID%3D2%26SearchCategoryID%3D2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWakefield+Westgate+railway+station" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-WakefieldKDA-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-WakefieldKDA_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wakefield.gov.uk/Planning/Regeneration/Wakefield/merchantgate.htm">"Westgate Key Development Area"</a>. Wakefield Metropolitan District Council<span class="reference-accessdate">. Retrieved <span class="nowrap">7 May</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Westgate+Key+Development+Area&amp;rft.pub=Wakefield+Metropolitan+District+Council&amp;rft_id=http%3A%2F%2Fwww.wakefield.gov.uk%2FPlanning%2FRegeneration%2FWakefield%2Fmerchantgate.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWakefield+Westgate+railway+station" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.raildeliverygroup.com/files/Publications/2017-06_regenerating_britains_railway_stations_case_studies.pdf">"Regenerating Britain’s railway stations: six case studies."</a> <i>Rail Delivery Group</i>, June 2017.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.musedevelopments.com/case-study/merchant-gate-wakefield">"Merchant Gate, Wakefield."</a> <i>Muse Developments</i>, Retrieved: 7 May 2018.</span>
+</li>
+<li id="cite_note-minopen_14-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-minopen_14_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-minopen_14_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.yorkshireeveningpost.co.uk/news/government-minister-opens-new-8m-wakefield-rail-station-1-6415950">"Government minister opens new £8m Wakefield rail station."</a> <i>Yorkshire Evening Post</i>, 4 February 2014.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.buckinghamgroup.co.uk/archive/91-network-rail-award-the-6million-wakefield-westgate-gateway-station-to-Buckingham">"Network Rail award the £6million Wakefield Westgate “Gateway” Station to Buckingham ."</a> <i>Buckingham Group</i>, 1 March 2013.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.itv.com/news/calendar/update/2014-02-03/we-are-spending-a-lot-of-money-on-stations-say-transport-secretary/">""We are spending a lot of money on stations," says Transport Secretary."</a> <i>ITV</i>, 3 February 2014.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">GB eNRT 2016-17 Edition, Table 26.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Table 51 <a href="/wiki/National_Rail" title="National Rail">National Rail</a> timetable, December 2016</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">GB eNRT, Table 53</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nationalrail.co.uk/stations/wkf/details.html">Wakfield Westgate station facilities</a> <i>National Rail Enquiries</i>; Retrieved 24 January 2017</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ngfl.ac.uk/sculptrail/sculp21.html">"Bradford Sculpture Trail - Art - lap Light - Little Germany"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bradford+Sculpture+Trail+-+Art+-+lap+Light+-+Little+Germany&amp;rft_id=http%3A%2F%2Fwww.ngfl.ac.uk%2Fsculptrail%2Fsculp21.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWakefield+Westgate+railway+station" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakefield_Westgate_railway_station&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Wakefield_Westgate_railway_station" class="extiw" title="commons:Category:Wakefield Westgate railway station">Wakefield Westgate railway station</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://public-art.shu.ac.uk/other/fi/00000092.htm">Photograph of 'A Light Wave' by Charles Quick</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.lostrailwayswestyorkshire.co.uk/Railway%20Ramblers%20Leeds.htm#GNR%20ARDSLEY%20-%20LAISTERDYKE%20(BRADFORD)">GNR ARDSLEY - LAISTERDYKE (BRADFORD)</a> at <i>Lost Railways West Yorkshire</i></li></ul>
+<p><br />
+</p>
+<div role="navigation" class="navbox" aria-labelledby="Railway_stations_in_West_Yorkshire" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Railway_stations_in_West_Yorkshire" title="Template:Railway stations in West Yorkshire"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Railway_stations_in_West_Yorkshire" title="Template talk:Railway stations in West Yorkshire"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Railway_stations_in_West_Yorkshire&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Railway_stations_in_West_Yorkshire" style="font-size:114%;margin:0 4em">Railway stations in <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Lists</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_busiest_railway_stations_in_West_Yorkshire" title="List of busiest railway stations in West Yorkshire">List of busiest railway stations in West Yorkshire</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">MetroTrain lines</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="color:#ed1c24">■</span> <a href="/wiki/Airedale_line" title="Airedale line">Airedale</a></li>
+<li><span style="color:#0089cf">■</span> <a href="/wiki/Calder_Valley_line" title="Calder Valley line">Calder Valley</a></li>
+<li><span style="color:#231f20">■</span> <a href="/wiki/Dearne_Valley_line" title="Dearne Valley line">Dearne Valley</a></li>
+<li><span style="color:#ef5ba1">■</span> <a href="/wiki/Hallam_Line" title="Hallam Line">Hallam</a></li>
+<li><span style="color:#91278f">■</span> <a href="/wiki/Harrogate_line" title="Harrogate line">Harrogate</a></li>
+<li><span style="color:#faa61a">■</span> <a href="/wiki/Huddersfield_line" title="Huddersfield line">Huddersfield</a></li>
+<li><span style="color:#00b5ad">■</span> <a href="/wiki/Leeds%E2%80%93Bradford_lines" title="Leeds–Bradford lines">Leeds–Bradford</a></li>
+<li><span style="color:#bbbdc0">■</span> <a href="/wiki/Penistone_Line" title="Penistone Line">Penistone</a></li>
+<li><span style="color:#6ccff6">■</span> <a href="/wiki/Pontefract_line" title="Pontefract line">Pontefract</a></li>
+<li><span style="color:#ffdd00">■</span> <a href="/wiki/Wakefield_line" title="Wakefield line">Wakefield</a></li>
+<li><span style="color:#00a650">■</span> <a href="/wiki/Wharfedale_line" title="Wharfedale line">Wharfedale</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/City_of_Bradford" title="City of Bradford">City of Bradford</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Apperley_Bridge_railway_station" title="Apperley Bridge railway station">Apperley Bridge</a></li>
+<li><a href="/wiki/Baildon_railway_station" title="Baildon railway station">Baildon</a></li>
+<li><a href="/wiki/Ben_Rhydding_railway_station" title="Ben Rhydding railway station">Ben Rhydding</a></li>
+<li><a href="/wiki/Bingley_railway_station" title="Bingley railway station">Bingley</a></li>
+<li><a href="/wiki/Bradford_Forster_Square_railway_station" title="Bradford Forster Square railway station">Bradford Forster Square</a></li>
+<li><a href="/wiki/Bradford_Interchange" title="Bradford Interchange">Bradford Interchange</a></li>
+<li><a href="/wiki/Burley-in-Wharfedale_railway_station" title="Burley-in-Wharfedale railway station">Burley-in-Wharfedale</a></li>
+<li><a href="/wiki/Crossflatts_railway_station" title="Crossflatts railway station">Crossflatts</a></li>
+<li><a href="/wiki/Frizinghall_railway_station" title="Frizinghall railway station">Frizinghall</a></li>
+<li><a href="/wiki/Ilkley_railway_station" title="Ilkley railway station">Ilkley</a></li>
+<li><a href="/wiki/Low_Moor_railway_station" title="Low Moor railway station">Low Moor</a></li>
+<li><a href="/wiki/Keighley_railway_station" title="Keighley railway station">Keighley</a></li>
+<li><a href="/wiki/Menston_railway_station" title="Menston railway station">Menston</a></li>
+<li><a href="/wiki/Saltaire_railway_station" title="Saltaire railway station">Saltaire</a></li>
+<li><a href="/wiki/Shipley_railway_station" title="Shipley railway station">Shipley</a></li>
+<li><a href="/wiki/Steeton_and_Silsden_railway_station" title="Steeton and Silsden railway station">Steeton and Silsden</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Calderdale" title="Calderdale">Calderdale</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brighouse_railway_station" title="Brighouse railway station">Brighouse</a></li>
+<li><a href="/wiki/Halifax_railway_station_(West_Yorkshire)" class="mw-redirect" title="Halifax railway station (West Yorkshire)">Halifax</a></li>
+<li><a href="/wiki/Hebden_Bridge_railway_station" title="Hebden Bridge railway station">Hebden Bridge</a></li>
+<li><a href="/wiki/Mytholmroyd_railway_station" title="Mytholmroyd railway station">Mytholmroyd</a></li>
+<li><a href="/wiki/Sowerby_Bridge_railway_station" title="Sowerby Bridge railway station">Sowerby Bridge</a></li>
+<li><a href="/wiki/Todmorden_railway_station" title="Todmorden railway station">Todmorden</a></li>
+<li><a href="/wiki/Walsden_railway_station" title="Walsden railway station">Walsden</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kirklees" title="Kirklees">Kirklees</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Batley_railway_station" title="Batley railway station">Batley</a></li>
+<li><a href="/wiki/Berry_Brow_railway_station" title="Berry Brow railway station">Berry Brow</a></li>
+<li><a href="/wiki/Brockholes_railway_station" title="Brockholes railway station">Brockholes</a></li>
+<li><a href="/wiki/Deighton_railway_station" title="Deighton railway station">Deighton</a></li>
+<li><a href="/wiki/Denby_Dale_railway_station" title="Denby Dale railway station">Denby Dale</a></li>
+<li><a href="/wiki/Dewsbury_railway_station" title="Dewsbury railway station">Dewsbury</a></li>
+<li><a href="/wiki/Honley_railway_station" title="Honley railway station">Honley</a></li>
+<li><a href="/wiki/Huddersfield_railway_station" title="Huddersfield railway station">Huddersfield</a></li>
+<li><a href="/wiki/Lockwood_railway_station" title="Lockwood railway station">Lockwood</a></li>
+<li><a href="/wiki/Marsden_railway_station" title="Marsden railway station">Marsden</a></li>
+<li><a href="/wiki/Mirfield_railway_station" title="Mirfield railway station">Mirfield</a></li>
+<li><a href="/wiki/Ravensthorpe_railway_station" title="Ravensthorpe railway station">Ravensthorpe</a></li>
+<li><a href="/wiki/Shepley_railway_station" title="Shepley railway station">Shepley</a></li>
+<li><a href="/wiki/Slaithwaite_railway_station" title="Slaithwaite railway station">Slaithwaite</a></li>
+<li><a href="/wiki/Stocksmoor_railway_station" title="Stocksmoor railway station">Stocksmoor</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/City_of_Leeds" title="City of Leeds">City of Leeds</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bramley_(West_Yorkshire)_railway_station" class="mw-redirect" title="Bramley (West Yorkshire) railway station">Bramley</a></li>
+<li><a href="/wiki/Burley_Park_railway_station" title="Burley Park railway station">Burley Park</a></li>
+<li><a href="/wiki/Cottingley_railway_station" title="Cottingley railway station">Cottingley</a></li>
+<li><a href="/wiki/Cross_Gates_railway_station" title="Cross Gates railway station">Cross Gates</a></li>
+<li><a href="/wiki/East_Garforth_railway_station" title="East Garforth railway station">East Garforth</a></li>
+<li><a href="/wiki/Garforth_railway_station" title="Garforth railway station">Garforth</a></li>
+<li><a href="/wiki/Guiseley_railway_station" title="Guiseley railway station">Guiseley</a></li>
+<li><a href="/wiki/Headingley_railway_station" title="Headingley railway station">Headingley</a></li>
+<li><a href="/wiki/Horsforth_railway_station" title="Horsforth railway station">Horsforth</a></li>
+<li><a href="/wiki/Kirkstall_Forge_railway_station" title="Kirkstall Forge railway station">Kirkstall Forge</a></li>
+<li><a href="/wiki/Leeds_railway_station" title="Leeds railway station">Leeds</a></li>
+<li><a href="/wiki/Micklefield_railway_station" title="Micklefield railway station">Micklefield</a></li>
+<li><a href="/wiki/Morley_railway_station" title="Morley railway station">Morley</a></li>
+<li><a href="/wiki/New_Pudsey_railway_station" title="New Pudsey railway station">New Pudsey</a></li>
+<li><a href="/wiki/Woodlesford_railway_station" title="Woodlesford railway station">Woodlesford</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/City_of_Wakefield" title="City of Wakefield">City of Wakefield</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Castleford_railway_station" title="Castleford railway station">Castleford</a></li>
+<li><a href="/wiki/Featherstone_railway_station" title="Featherstone railway station">Featherstone</a></li>
+<li><a href="/wiki/Fitzwilliam_railway_station" title="Fitzwilliam railway station">Fitzwilliam</a></li>
+<li><a href="/wiki/Glasshoughton_railway_station" title="Glasshoughton railway station">Glasshoughton</a></li>
+<li><a href="/wiki/Knottingley_railway_station" title="Knottingley railway station">Knottingley</a></li>
+<li><a href="/wiki/Moorthorpe_railway_station" title="Moorthorpe railway station">Moorthorpe</a></li>
+<li><a href="/wiki/Normanton_railway_station" title="Normanton railway station">Normanton</a></li>
+<li><a href="/wiki/Outwood_railway_station" title="Outwood railway station">Outwood</a></li>
+<li><a href="/wiki/Pontefract_Baghill_railway_station" title="Pontefract Baghill railway station">Pontefract Baghill</a></li>
+<li><a href="/wiki/Pontefract_Monkhill_railway_station" title="Pontefract Monkhill railway station">Pontefract Monkhill</a></li>
+<li><a href="/wiki/Pontefract_Tanshelf_railway_station" title="Pontefract Tanshelf railway station">Pontefract Tanshelf</a></li>
+<li><a href="/wiki/Sandal_and_Agbrigg_railway_station" title="Sandal and Agbrigg railway station">Sandal and Agbrigg</a></li>
+<li><a href="/wiki/South_Elmsall_railway_station" title="South Elmsall railway station">South Elmsall</a></li>
+<li><a href="/wiki/Streethouse_railway_station" title="Streethouse railway station">Streethouse</a></li>
+<li><a href="/wiki/Wakefield_Kirkgate_railway_station" title="Wakefield Kirkgate railway station">Wakefield Kirkgate</a></li>
+<li><a class="mw-selflink selflink">Wakefield Westgate</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Outside <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>,<br />but within the<br /><a href="/wiki/West_Yorkshire_Metro" title="West Yorkshire Metro">West Yorkshire Metro</a> area</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cononley_railway_station" title="Cononley railway station">Cononley</a></li>
+<li><a href="/wiki/Darton_railway_station" title="Darton railway station">Darton</a></li>
+<li><a href="/wiki/Skipton_railway_station" title="Skipton railway station">Skipton</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1324
+Cached time: 20190930050313
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.888 seconds
+Real time usage: 1.226 seconds
+Preprocessor visited node count: 16166/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 463641/2097152 bytes
+Template argument size: 175936/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 11/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 19243/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.169/10.000 seconds
+Lua memory usage: 6.18 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  967.771      1 -total
+ 21.34%  206.495      1 Template:Infobox_UK_station
+ 20.53%  198.663      1 Template:Wakefield_Westgate_railway_station
+ 20.19%  195.372      1 Template:BS-map
+ 19.24%  186.176      1 Template:Infobox
+ 16.77%  162.286     26 Template:BS7
+ 15.80%  152.883     26 Template:BSrow
+ 15.50%  149.996      3 Template:CN
+ 14.49%  140.258      3 Template:Fix
+ 12.38%  119.769      7 Template:S-rail-national
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1385930-0!canonical and timestamp 20190930050311 and revision id 915460409
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wakefield_Westgate_railway_station&amp;oldid=915460409">https://en.wikipedia.org/w/index.php?title=Wakefield_Westgate_railway_station&amp;oldid=915460409</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:DfT_Category_B_stations" title="Category:DfT Category B stations">DfT Category B stations</a></li><li><a href="/wiki/Category:Railway_stations_in_Wakefield" title="Category:Railway stations in Wakefield">Railway stations in Wakefield</a></li><li><a href="/wiki/Category:Former_Great_Central_Railway_stations" title="Category:Former Great Central Railway stations">Former Great Central Railway stations</a></li><li><a href="/wiki/Category:Former_Great_Northern_Railway_stations" title="Category:Former Great Northern Railway stations">Former Great Northern Railway stations</a></li><li><a href="/wiki/Category:Former_Midland_Railway_stations" title="Category:Former Midland Railway stations">Former Midland Railway stations</a></li><li><a href="/wiki/Category:Former_West_Riding_and_Grimsby_Railway_stations" title="Category:Former West Riding and Grimsby Railway stations">Former West Riding and Grimsby Railway stations</a></li><li><a href="/wiki/Category:Railway_stations_opened_in_1867" title="Category:Railway stations opened in 1867">Railway stations opened in 1867</a></li><li><a href="/wiki/Category:Railway_stations_served_by_CrossCountry" title="Category:Railway stations served by CrossCountry">Railway stations served by CrossCountry</a></li><li><a href="/wiki/Category:Railway_stations_served_by_East_Midlands_Railway" title="Category:Railway stations served by East Midlands Railway">Railway stations served by East Midlands Railway</a></li><li><a href="/wiki/Category:Railway_stations_served_by_Northern_(train_operating_company)" title="Category:Railway stations served by Northern (train operating company)">Railway stations served by Northern (train operating company)</a></li><li><a href="/wiki/Category:Railway_stations_served_by_London_North_Eastern_Railway" title="Category:Railway stations served by London North Eastern Railway">Railway stations served by London North Eastern Railway</a></li><li><a href="/wiki/Category:Buildings_and_structures_in_Wakefield" title="Category:Buildings and structures in Wakefield">Buildings and structures in Wakefield</a></li><li><a href="/wiki/Category:Art_Nouveau_railway_stations" title="Category:Art Nouveau railway stations">Art Nouveau railway stations</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_January_2016" title="Category:Use dmy dates from January 2016">Use dmy dates from January 2016</a></li><li><a href="/wiki/Category:Use_British_English_from_March_2015" title="Category:Use British English from March 2015">Use British English from March 2015</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_OS_grid_coordinates" title="Category:Articles with OS grid coordinates">Articles with OS grid coordinates</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2018" title="Category:Articles with unsourced statements from May 2018">Articles with unsourced statements from May 2018</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wakefield+Westgate+railway+station" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wakefield+Westgate+railway+station" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Wakefield_Westgate_railway_station" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Wakefield_Westgate_railway_station" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Wakefield_Westgate_railway_station">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Wakefield_Westgate_railway_station&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wakefield_Westgate_railway_station&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wakefield_Westgate_railway_station" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wakefield_Westgate_railway_station" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wakefield_Westgate_railway_station&amp;oldid=915460409" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wakefield_Westgate_railway_station&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3907323" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wakefield_Westgate_railway_station&amp;id=915460409" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Wakefield_Westgate_railway_station" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wakefield+Westgate+railway+station">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wakefield+Westgate+railway+station&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wakefield_Westgate_railway_station&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Gare_de_Wakefield_Westgate" title="Gare de Wakefield Westgate – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Station_Wakefield_Westgate" title="Station Wakefield Westgate – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Wakefield_Westgate" title="Wakefield Westgate – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3907323#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 September 2019, at 11:55<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wakefield_Westgate_railway_station&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.888","walltime":"1.226","ppvisitednodes":{"value":16166,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":463641,"limit":2097152},"templateargumentsize":{"value":175936,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":19243,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  967.771      1 -total"," 21.34%  206.495      1 Template:Infobox_UK_station"," 20.53%  198.663      1 Template:Wakefield_Westgate_railway_station"," 20.19%  195.372      1 Template:BS-map"," 19.24%  186.176      1 Template:Infobox"," 16.77%  162.286     26 Template:BS7"," 15.80%  152.883     26 Template:BSrow"," 15.50%  149.996      3 Template:CN"," 14.49%  140.258      3 Template:Fix"," 12.38%  119.769      7 Template:S-rail-national"]},"scribunto":{"limitreport-timeusage":{"value":"0.169","limit":"10.000"},"limitreport-memusage":{"value":6485054,"limit":52428800}},"cachereport":{"origin":"mw1324","timestamp":"20190930050313","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Wakefield Westgate railway station","url":"https:\/\/en.wikipedia.org\/wiki\/Wakefield_Westgate_railway_station","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3907323","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3907323","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-01-11T12:20:57Z","dateModified":"2019-09-13T11:55:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e5\/Wakefield_Westgate_station_with_Voyager_%28geograph_5022098%29.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":113,"wgHostname":"mw1254"});});</script>
+</body>
+</html>
+

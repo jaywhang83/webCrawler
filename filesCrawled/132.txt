@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Light cruiser - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Light_cruiser","wgTitle":"Light cruiser","wgCurRevisionId":910133668,"wgRevisionId":910133668,"wgArticleId":188554,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Commons category link is on Wikidata","Light cruisers"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Light_cruiser","wgRelevantArticleId":188554,"wgRequestId":"XYrRPgpAAEMAAGBgiVQAAADX","wgCSPNonce":!1,"wgIsProbablyEditable":!0,
+"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q778129","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready",
+"mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Light_cruiser"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Light_cruiser&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Light_cruiser&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Light_cruiser"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Light_cruiser rootpage-Light_cruiser skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Light cruiser</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>A <b>light cruiser</b> is a type of small- or medium-sized <a href="/wiki/Warship" title="Warship">warship</a>. The term is a shortening of the phrase "light <a href="/wiki/Armored_cruiser" title="Armored cruiser">armored cruiser</a>", describing a small ship that carried armor in the same way as an armored cruiser: a protective belt and deck. Prior to this smaller cruisers had been of the <a href="/wiki/Protected_cruiser" title="Protected cruiser">protected cruiser</a> model, possessing armored decks only. While lighter and smaller than other contemporary ships they were still true cruisers, retaining the extended radius of action and self-sufficiency to act independently across the world. Through their history they served in a variety of roles, primarily as convoy escorts and destroyer command ships, but also as scouts and fleet support vessels for battle fleets.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origins_and_development"><span class="tocnumber">1</span> <span class="toctext">Origins and development</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#World_War_I"><span class="tocnumber">2.1</span> <span class="toctext">World War I</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Between_the_wars"><span class="tocnumber">2.2</span> <span class="toctext">Between the wars</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#World_War_II"><span class="tocnumber">2.3</span> <span class="toctext">World War II</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Light_cruisers_today"><span class="tocnumber">3</span> <span class="toctext">Light cruisers today</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#United_States_Navy_classification"><span class="tocnumber">4</span> <span class="toctext">United States Navy classification</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Bibliography"><span class="tocnumber">7</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Origins_and_development">Origins and development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Light_cruiser&amp;action=edit&amp;section=1" title="Edit section: Origins and development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:HMS_Mercury_(1878).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/HMS_Mercury_%281878%29.jpg/220px-HMS_Mercury_%281878%29.jpg" decoding="async" width="220" height="112" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/HMS_Mercury_%281878%29.jpg/330px-HMS_Mercury_%281878%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/HMS_Mercury_%281878%29.jpg/440px-HMS_Mercury_%281878%29.jpg 2x" data-file-width="673" data-file-height="343" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:HMS_Mercury_(1878).jpg" class="internal" title="Enlarge"></a></div>HMS <i>Mercury</i></div></div></div>
+<p>The first small steam-powered cruisers were built for the <a href="/wiki/United_Kingdom" title="United Kingdom">British</a> <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a> with <a href="/wiki/HMS_Mercury_(1878)" title="HMS Mercury (1878)">HMS <i>Mercury</i></a> launched in 1878.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> Such second and third class protected cruisers evolved, gradually becoming faster, better armed and better protected. Germany took a lead in small cruiser design in the 1890s, building a class of fast cruisers—the <a href="/wiki/Gazelle-class_cruiser" title="Gazelle-class cruiser"><i>Gazelle</i>&#x20;class</a>—copied by other nations. Such vessels were powered by coal-fired boilers and <a href="/wiki/Steam_engine" title="Steam engine">reciprocating steam engines</a> and relied in part on the arrangement of coal bunkers for their protection. The adoption of oil-fired <a href="/wiki/Water-tube_boiler" title="Water-tube boiler">water-tube boilers</a> and <a href="/wiki/Steam_turbine" title="Steam turbine">steam turbine</a> engines meant that older small cruisers rapidly became obsolete. Furthermore, new construction could not rely on the protection of coal bunkers and would therefore have to adopt some form of side armoring. The British <i>Bristol</i> group of <a href="/wiki/Town-class_cruiser_(1910)" title="Town-class cruiser (1910)"><i>Town</i>-class</a> cruisers (1909) were a departure from previous designs; with turbine propulsion, mixed coal and oil firing and a 2-inch protective armoured belt as well as deck. Thus, by definition, they were armoured cruisers, despite displacing only 4,800&#160;tons; the light armored cruiser had arrived. The first true modern light cruisers were the <a href="/wiki/Arethusa-class_cruiser_(1913)" title="Arethusa-class cruiser (1913)"><i>Arethusa</i>&#x20;class</a> (1911) which had all oil-firing and used lightweight <a href="/wiki/Destroyer" title="Destroyer">destroyer</a>-type machinery to make 29 knots (54&#160;km/h).
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Light_cruiser&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="World_War_I">World War I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Light_cruiser&amp;action=edit&amp;section=3" title="Edit section: World War I">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:HMS_Gloucester_at_anchor_at_Brindisi,_Italy,_1917_-_IWM_SP_459.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HMS_Gloucester_at_anchor_at_Brindisi%2C_Italy%2C_1917_-_IWM_SP_459.jpg/220px-HMS_Gloucester_at_anchor_at_Brindisi%2C_Italy%2C_1917_-_IWM_SP_459.jpg" decoding="async" width="220" height="134" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HMS_Gloucester_at_anchor_at_Brindisi%2C_Italy%2C_1917_-_IWM_SP_459.jpg/330px-HMS_Gloucester_at_anchor_at_Brindisi%2C_Italy%2C_1917_-_IWM_SP_459.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HMS_Gloucester_at_anchor_at_Brindisi%2C_Italy%2C_1917_-_IWM_SP_459.jpg/440px-HMS_Gloucester_at_anchor_at_Brindisi%2C_Italy%2C_1917_-_IWM_SP_459.jpg 2x" data-file-width="800" data-file-height="486" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:HMS_Gloucester_at_anchor_at_Brindisi,_Italy,_1917_-_IWM_SP_459.jpg" class="internal" title="Enlarge"></a></div>HMS <i>Gloucester</i>, one of the Town class, in 1917</div></div></div>
+<p>By <a href="/wiki/World_War_I" title="World War I">World War I</a>, <a href="/wiki/British_Empire" title="British Empire">British</a> light cruisers often had either two 6-inch (152&#160;mm) and perhaps eight 4-inch (102&#160;mm) <a href="/wiki/Naval_gun" class="mw-redirect" title="Naval gun">guns</a>, or a uniform armament of 6-inch guns on a ship of around 5,000 tons, while German light cruisers progressed during the war from 4.1-inch (104&#160;mm) to 5.9-inch (150&#160;mm) guns. Cruiser construction in Britain continued uninterrupted until Admiral <a href="/wiki/John_Fisher,_1st_Baron_Fisher" title="John Fisher, 1st Baron Fisher">"Jacky" Fisher</a>'s appointment as <a href="/wiki/First_Sea_Lord" title="First Sea Lord">First Sea Lord</a> in 1904. Due in part to the desire to curtail excess expenditures in light of the increasing cost of keeping up with German naval production and in part because he felt the type to be outdated, Fisher authorized few new cruisers and scrapped 70 older ones. Fisher's belief that <a href="/wiki/Battlecruiser" title="Battlecruiser">battlecruisers</a> would take the place of light cruisers to protect <a href="/wiki/Cargo_ship" title="Cargo ship">commercial shipping</a> soon proved impractical, as their high construction cost precluded their availability in sufficient numbers to do so, and destroyers were too small for scouting duties. The group of 21 <a href="/wiki/Town-class_cruiser_(1910)" title="Town-class cruiser (1910)"><i>Town</i>-class</a> cruisers begun in 1910 proved excellent in scouting in all types of weather and could carry enough fuel and ammunition to guard the <a href="/wiki/Shipping_lane" class="mw-redirect" title="Shipping lane">shipping lanes</a>. The <a href="/wiki/Arethusa-class_cruiser_(1913)" title="Arethusa-class cruiser (1913)"><i>Arethusa</i>&#x20;class</a>, launched three years later, was also successful. British designers continued enlarging and refining subsequent cruiser designs throughout the war.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:SMS_Bremen_1907.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SMS_Bremen_1907.jpg/220px-SMS_Bremen_1907.jpg" decoding="async" width="220" height="142" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SMS_Bremen_1907.jpg/330px-SMS_Bremen_1907.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SMS_Bremen_1907.jpg/440px-SMS_Bremen_1907.jpg 2x" data-file-width="4367" data-file-height="2827" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:SMS_Bremen_1907.jpg" class="internal" title="Enlarge"></a></div>SMS <i>Bremen</i></div></div></div>
+<p>The <a href="/wiki/German_Empire" title="German Empire">Germans</a> built a number of light cruisers in the belief that they were good multi-purpose vessels. Unlike the British, who built both long-range cruisers like the Town class for commerce protection and short-range "scout" cruisers for fleet support, the Germans built a single series of light cruisers for both functions. Compared to the British "scout" type the German ships were bigger, slower and less manoeuvrable but, through a successive series of classes, improved consistently in seagoing qualities. However, the Germans were very late in adapting 5.9-inch guns (not doing so until the <a href="/wiki/Pillau-class_cruiser" title="Pillau-class cruiser"><i>Pillau</i>&#x20;class</a> of 1913); <a href="/wiki/Grand_Admiral" class="mw-redirect" title="Grand Admiral">Grand Admiral</a> <a href="/wiki/Alfred_von_Tirpitz" title="Alfred von Tirpitz">Alfred von Tirpitz</a>'s recalcitrance over the issue overrode the desires of others in the <a href="/wiki/Imperial_German_Navy" title="Imperial German Navy">German Navy</a>. For about a three-year period after the British <i>Weymouth</i> class of the Town series, completed with a uniform armament of 6-inch guns, and before the German <i>Pillau</i> class, German light cruisers (such as the <a href="/wiki/Magdeburg-class_cruiser" title="Magdeburg-class cruiser"><i>Magdeburg</i></a> and <a href="/wiki/Karlsruhe-class_cruiser" title="Karlsruhe-class cruiser"><i>Karlsruhe</i>-class&#x20;cruisers</a>) were faster but maintained a lighter 104&#160;mm main armament compared to their British Town-class counterparts. With the <i>Pillau</i> and <a href="/wiki/Wiesbaden-class_cruiser" title="Wiesbaden-class cruiser"><i>Wiesbaden</i>-class</a> cruisers the Germans followed the British example of heavier guns.
+</p><p>Earlier German light cruisers were in competition with a series of British <a href="/wiki/Scout_cruiser" title="Scout cruiser">scout cruisers</a> which had a higher speed of 25 knots, but smaller 3-inch <a href="/wiki/12_pounder_12_cwt_naval_gun" class="mw-redirect" title="12 pounder 12 cwt naval gun">12 pounder guns</a> or 4-inch guns. The Germans completed the last two of their <a href="/wiki/Bremen-class_cruiser" title="Bremen-class cruiser"><i>Bremen</i>-class</a> cruisers in 1906 and 1907 and followed them up with four <a href="/wiki/K%C3%B6nigsberg-class_cruiser_(1905)" title="Königsberg-class cruiser (1905)"><i>Königsberg</i>-class</a> and two <a href="/wiki/Dresden-class_cruiser" title="Dresden-class cruiser"><i>Dresden</i>-class&#x20;cruisers</a> between 1905 and 1908. These last two classes, larger and faster than the <i>Bremen</i>s, were armed the same (ten 4.1-inch guns) and carried less deck armor. Other major powers concentrated on <a href="/wiki/Battleship" title="Battleship">battleship</a> construction and built few cruisers.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> The <a href="/wiki/United_States" title="United States">United States</a>, <a href="/wiki/Kingdom_of_Italy" title="Kingdom of Italy">Italy</a>, and <a href="/wiki/Austria-Hungary" title="Austria-Hungary">Austria-Hungary</a> each built only a handful of scout cruisers while <a href="/wiki/Imperial_Japan" class="mw-redirect" title="Imperial Japan">Japan</a> and <a href="/wiki/Spain" title="Spain">Spain</a> added a few examples based on British designs; <a href="/wiki/French_Third_Republic" title="French Third Republic">France</a> built none at all.
+</p><p>During World War I, the Germans <a href="/wiki/K%C3%B6nigsberg-class_cruiser_(1915)" title="Königsberg-class cruiser (1915)">continued building larger cruisers</a> with 150&#160;mm guns while the British <i>Arethusa</i> class and early <a href="/wiki/C-class_cruiser" title="C-class cruiser">C-class&#x20;cruisers</a> reverted to an emphasis on superior speed with a more lightly-armed design for fleet support.
+</p>
+<h3><span class="mw-headline" id="Between_the_wars">Between the wars</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Light_cruiser&amp;action=edit&amp;section=4" title="Edit section: Between the wars">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:USS_Raleigh_(CL-7)_off_the_Mare_Island_Naval_Shipyard_on_6_July_1942_(19-N-30916).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/USS_Raleigh_%28CL-7%29_off_the_Mare_Island_Naval_Shipyard_on_6_July_1942_%2819-N-30916%29.jpg/220px-USS_Raleigh_%28CL-7%29_off_the_Mare_Island_Naval_Shipyard_on_6_July_1942_%2819-N-30916%29.jpg" decoding="async" width="220" height="141" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/USS_Raleigh_%28CL-7%29_off_the_Mare_Island_Naval_Shipyard_on_6_July_1942_%2819-N-30916%29.jpg/330px-USS_Raleigh_%28CL-7%29_off_the_Mare_Island_Naval_Shipyard_on_6_July_1942_%2819-N-30916%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/USS_Raleigh_%28CL-7%29_off_the_Mare_Island_Naval_Shipyard_on_6_July_1942_%2819-N-30916%29.jpg/440px-USS_Raleigh_%28CL-7%29_off_the_Mare_Island_Naval_Shipyard_on_6_July_1942_%2819-N-30916%29.jpg 2x" data-file-width="710" data-file-height="455" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:USS_Raleigh_(CL-7)_off_the_Mare_Island_Naval_Shipyard_on_6_July_1942_(19-N-30916).jpg" class="internal" title="Enlarge"></a></div>USS <i>Raleigh</i>, an <i>Omaha</i>-class cruiser, in 1942. Note casemates at bow.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:ARA_General_Belgrano_underway.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/ARA_General_Belgrano_underway.jpg/220px-ARA_General_Belgrano_underway.jpg" decoding="async" width="220" height="155" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/ARA_General_Belgrano_underway.jpg/330px-ARA_General_Belgrano_underway.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/ARA_General_Belgrano_underway.jpg/440px-ARA_General_Belgrano_underway.jpg 2x" data-file-width="1033" data-file-height="730" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:ARA_General_Belgrano_underway.jpg" class="internal" title="Enlarge"></a></div>Argentine cruiser <a href="/wiki/ARA_General_Belgrano" title="ARA General Belgrano">ARA&#160;<i>General Belgrano</i></a></div></div></div>
+<p>The United States resumed building light cruisers in 1918, largely because the ships it then had in service had become obsolete. The first of these, the ten <a href="/wiki/Omaha-class_cruiser" title="Omaha-class cruiser"><i>Omaha</i>-class</a> ships, displaced 7,050 tons and were armed with twelve 6-inch (152&#160;mm) guns. Eight of these guns were mounted in double-story <a href="/wiki/Casemate" title="Casemate">casemates</a> at the bow and stern, a reflection of the US prewar preference for heavy end-on fire. Fast and maneuverable, they were well-liked as seaboats despite being very wet in rough weather.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>The term light cruiser was given a definition by the <a href="/wiki/London_Naval_Treaty" title="London Naval Treaty">London Naval Treaty</a> of 1930. Light cruisers were defined as cruisers having guns of 6.1-inch (155&#160;mm) or smaller, with <a href="/wiki/Heavy_cruiser" title="Heavy cruiser">heavy cruisers</a> defined as cruisers having guns of up to 8-inch (203&#160;mm). In both cases, the ships could not be greater than 10,000 tons.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:USS_Brooklyn_(CL-40)_in_the_Hudson_River,_in_1939_(80-G-1023215).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/USS_Brooklyn_%28CL-40%29_in_the_Hudson_River%2C_in_1939_%2880-G-1023215%29.jpg/220px-USS_Brooklyn_%28CL-40%29_in_the_Hudson_River%2C_in_1939_%2880-G-1023215%29.jpg" decoding="async" width="220" height="171" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/USS_Brooklyn_%28CL-40%29_in_the_Hudson_River%2C_in_1939_%2880-G-1023215%29.jpg/330px-USS_Brooklyn_%28CL-40%29_in_the_Hudson_River%2C_in_1939_%2880-G-1023215%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/USS_Brooklyn_%28CL-40%29_in_the_Hudson_River%2C_in_1939_%2880-G-1023215%29.jpg/440px-USS_Brooklyn_%28CL-40%29_in_the_Hudson_River%2C_in_1939_%2880-G-1023215%29.jpg 2x" data-file-width="740" data-file-height="576" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:USS_Brooklyn_(CL-40)_in_the_Hudson_River,_in_1939_(80-G-1023215).jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/USS_Brooklyn_(CL-40)" title="USS Brooklyn (CL-40)">USS&#160;<i>Brooklyn</i></a></div></div></div>
+<p>After 1930, most naval powers concentrated on building light cruisers since they had already built up to the maximum limitations for heavy cruisers allowed under the Washington treaty. Japan laid down its four <a href="/wiki/Mogami-class_cruiser" title="Mogami-class cruiser"><i>Mogami</i>-class&#x20;cruisers</a> between 1931 and 1934.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> The political climate from 1936 to 1939 gave the renewed building of light cruisers an added urgency. The British built 11 during this period, which culminated in the two <a href="/wiki/Town-class_cruiser_(1936)" title="Town-class cruiser (1936)">Town-class</a> ships, armed with 12 6-inch (152&#160;mm) guns. The new ships were larger and better armored than other British treaty cruisers, with a 4.5-inch (114&#160;mm) belt in the Towns and were capable of 32.5 knots, but for the most part tried to stay within past treaty limitations. The US also attempted to follow treaty limitations as it completed seven of its nine <a href="/wiki/Brooklyn-class_cruiser" title="Brooklyn-class cruiser"><i>Brooklyn</i>-class&#x20;cruisers</a> between 1938 and September 1939. These ships were an answer to Japan's <i>Mogami</i>s and were an indication of rising tensions in the Pacific theater. Japan, now considering itself under no restrictions, began rearming its <i>Mogami</i>s with 10 8-inch (203&#160;mm) guns.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="World_War_II">World War II</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Light_cruiser&amp;action=edit&amp;section=5" title="Edit section: World War II">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_cruisers_of_the_Second_World_War" class="mw-redirect" title="List of cruisers of the Second World War">List of cruisers of the Second World War</a></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:USS_Atlanta_(CL-51)_steaming_at_high_speed,_circa_in_November_1941_(NH_57455).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/USS_Atlanta_%28CL-51%29_steaming_at_high_speed%2C_circa_in_November_1941_%28NH_57455%29.jpg/220px-USS_Atlanta_%28CL-51%29_steaming_at_high_speed%2C_circa_in_November_1941_%28NH_57455%29.jpg" decoding="async" width="220" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/USS_Atlanta_%28CL-51%29_steaming_at_high_speed%2C_circa_in_November_1941_%28NH_57455%29.jpg/330px-USS_Atlanta_%28CL-51%29_steaming_at_high_speed%2C_circa_in_November_1941_%28NH_57455%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/USS_Atlanta_%28CL-51%29_steaming_at_high_speed%2C_circa_in_November_1941_%28NH_57455%29.jpg/440px-USS_Atlanta_%28CL-51%29_steaming_at_high_speed%2C_circa_in_November_1941_%28NH_57455%29.jpg 2x" data-file-width="5173" data-file-height="3858" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:USS_Atlanta_(CL-51)_steaming_at_high_speed,_circa_in_November_1941_(NH_57455).jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/USS_Atlanta_(CL-51)" title="USS Atlanta (CL-51)">USS&#160;<i>Atlanta</i></a></div></div></div>
+<p>In <a href="/wiki/World_War_II" title="World War II">World War II</a>, light cruisers had guns ranging from 5&#160;inch (127&#160;mm), as seen in the US <a href="/wiki/Atlanta-class_cruiser" title="Atlanta-class cruiser"><i>Atlanta</i>-class</a> and British <a href="/wiki/Dido-class_cruiser" title="Dido-class cruiser"><i>Dido</i>-class</a> anti-aircraft cruisers, to 6.1&#160;inch, though the most common size by far was 6&#160;inch. The <i>Atlanta</i>s and <i>Dido</i>s were borne out of the tactical need for vessels to protect aircraft carriers, battleships and convoys from air attack.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>The United States would move into full wartime production of the light cruisers of the <a href="/wiki/Cleveland-class_cruiser" title="Cleveland-class cruiser"><i>Cleveland</i>-class</a> of which 27 would be produced. Unwilling to do anything to slow production, the ships of the class would be seriously overweight. They provided AA screening for the fast carriers, shore bombardment, and anti-destroyer screening for the US fleet. They traded a main gun turret for additional AA, fire control, and radar installations, over the Brooklyn Class.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Light_cruisers_today">Light cruisers today</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Light_cruiser&amp;action=edit&amp;section=6" title="Edit section: Light cruisers today">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:HMS_Belfast_1_db.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/HMS_Belfast_1_db.jpg/220px-HMS_Belfast_1_db.jpg" decoding="async" width="220" height="131" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/HMS_Belfast_1_db.jpg/330px-HMS_Belfast_1_db.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/HMS_Belfast_1_db.jpg/440px-HMS_Belfast_1_db.jpg 2x" data-file-width="2270" data-file-height="1347" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:HMS_Belfast_1_db.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/HMS_Belfast_(C35)" class="mw-redirect" title="HMS Belfast (C35)">HMS&#160;<i>Belfast</i></a> as she is today. She carries 12 x <a href="/wiki/BL_6_inch_Mk_XXIII_naval_gun" class="mw-redirect" title="BL 6 inch Mk XXIII naval gun">6-inch guns</a> and displaced 11,553 tons – "light" in World War II referred to gun size, not displacement.</div></div></div>
+<p><a href="/wiki/BAP_Almirante_Grau_(CLM-81)" title="BAP Almirante Grau (CLM-81)">BAP&#160;<i>Almirante Grau</i></a> of the <a href="/wiki/Peruvian_Navy" title="Peruvian Navy">Peruvian Navy</a> was the last light cruiser in service, being retired in 2017, and will become a museum ship in <a href="/wiki/Lima" title="Lima">Lima</a>. Another four are preserved as <a href="/wiki/Museum_ship" title="Museum ship">museum ships</a>: <a href="/wiki/HMS_Belfast_(C35)" class="mw-redirect" title="HMS Belfast (C35)">HMS&#160;<i>Belfast</i></a> in London, <a href="/wiki/HMS_Caroline_(1914)" title="HMS Caroline (1914)">HMS&#160;<i>Caroline</i></a> in <a href="/wiki/Belfast" title="Belfast">Belfast</a>, <a href="/wiki/USS_Little_Rock_(CL-92)" title="USS Little Rock (CL-92)">USS&#160;<i>Little Rock</i></a> in <a href="/wiki/Buffalo,_New_York" title="Buffalo, New York">Buffalo, New York</a>, and <a href="/wiki/Sverdlov-class_cruiser" title="Sverdlov-class cruiser"><i>Mikhail Kutuzov</i></a> at <a href="/wiki/Novorossiysk" title="Novorossiysk">Novorossiysk</a>. Similar ships include the protected cruisers <a href="/wiki/Russian_cruiser_Aurora" title="Russian cruiser Aurora"><i>Aurora</i></a> (<a href="/wiki/St._Petersburg" class="mw-redirect" title="St. Petersburg">St. Petersburg</a>) and <a href="/wiki/USS_Olympia_(C-6)" title="USS Olympia (C-6)">USS&#160;<i>Olympia</i></a> (<a href="/wiki/Philadelphia,_Pennsylvania" class="mw-redirect" title="Philadelphia, Pennsylvania">Philadelphia, Pennsylvania</a>), and the bow of the <i>Puglia</i> (Italy).
+</p>
+<h2><span class="mw-headline" id="United_States_Navy_classification">United States Navy classification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Light_cruiser&amp;action=edit&amp;section=7" title="Edit section: United States Navy classification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the <a href="/wiki/United_States_Navy" title="United States Navy">United States Navy</a>, light cruisers have the <a href="/wiki/Hull_classification_symbol" title="Hull classification symbol">hull classification symbol</a> <b>CL</b>. Both <a href="/wiki/Heavy_cruiser" title="Heavy cruiser">heavy cruisers</a> and light cruisers were classified under a common CL/CA sequence after 1931, hence there are some missing hull numbers, see <a href="/wiki/List_of_United_States_Navy_cruisers" class="mw-redirect" title="List of United States Navy cruisers">List of United States Navy cruisers</a>.  After the development of seaborne guided missiles in the 1950s, all remaining cruisers armed solely with guns, regardless of caliber were redesignated as "Gun Cruisers" (hull classification symbol <b>CA</b>), with <a href="/wiki/Guided_missile_cruiser" class="mw-redirect" title="Guided missile cruiser">guided missile cruisers</a> (which generally carry some gun armament) gaining the new hull classification symbol <b>CG</b>.  By the <a href="/wiki/United_States_Navy_1975_ship_reclassification" title="United States Navy 1975 ship reclassification">1975 fleet realignment</a>, all gun cruisers were out of the fleet.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Light_cruiser&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Armored_cruiser" title="Armored cruiser">Armored cruiser</a></li>
+<li><a href="/wiki/Battlecruiser" title="Battlecruiser">Battlecruiser</a></li>
+<li><a href="/wiki/Heavy_cruiser" title="Heavy cruiser">Heavy cruiser</a></li>
+<li><a href="/wiki/List_of_cruisers_of_World_War_II" title="List of cruisers of World War II">List of cruisers of World War II</a></li>
+<li><a href="/wiki/Protected_cruiser" title="Protected cruiser">Protected cruiser</a></li>
+<li><a href="/wiki/Unprotected_cruiser" title="Unprotected cruiser">Unprotected cruiser</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Light_cruiser&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Beeler, John (2001). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=BxZ61ZF4Ea8C&amp;pg=PA40&amp;lpg=PA40"><i>Birth of the Battleship: British Capital Ship Design 1870–1881</i></a>. Naval Institute Press. p.&#160;40. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-55750-213-7" title="Special:BookSources/1-55750-213-7"><bdi>1-55750-213-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Birth+of+the+Battleship%3A+British+Capital+Ship+Design+1870%E2%80%931881&amp;rft.pages=40&amp;rft.pub=Naval+Institute+Press&amp;rft.date=2001&amp;rft.isbn=1-55750-213-7&amp;rft.aulast=Beeler&amp;rft.aufirst=John&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DBxZ61ZF4Ea8C%26pg%3DPA40%26lpg%3DPA40&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALight+cruiser" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Conroy's, p. 2.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Conway's, pp. 152–53; Osborne, p. 73-75.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Conway's, pp. 119–20.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Osborne, pp. 112–13.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Osborne, pp. 116–17.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Osborne, p. 117.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">US Cruisers: An Illustrated History Friedman, Norman pg 259–265</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Light_cruiser&amp;action=edit&amp;section=10" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Osborne, Eric W., <i>Cruisers and Battle Cruisers: An Illustrated History of Their Impact</i> (ABC-CLIO, 2004). <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-85109-369-9" title="Special:BookSources/1-85109-369-9">1-85109-369-9</a>.</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Light_cruiser&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Light_cruisers" class="extiw" title="commons:Category:Light cruisers">Light cruisers</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.worldwar1.co.uk/lightcru.htm">British Light Cruisers of the First World War</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.worldwar1.co.uk/clger.htm">German Light Cruisers of the First World War</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.world-war.co.uk/">World War 2 Cruisers</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Naval_ships_and_warships_in_the_Late_Modern_period" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Warship_types_of_the_19th_%26_20th_centuries" title="Template:Warship types of the 19th &amp; 20th centuries"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Warship_types_of_the_19th_%26_20th_centuries" title="Template talk:Warship types of the 19th &amp; 20th centuries"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Warship_types_of_the_19th_%26_20th_centuries&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Naval_ships_and_warships_in_the_Late_Modern_period" style="font-size:114%;margin:0 4em"><a href="/wiki/Naval_ship" title="Naval ship">Naval ships</a> and <a href="/wiki/Warship" title="Warship">warships</a> in the <a href="/wiki/Modern_history#Late_modern_period" title="Modern history">Late Modern period</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_Naval_ship_classes_in_service&amp;#10;**_submarine&amp;#10;**_auxiliary&amp;#10;*_Operational_zones&amp;#10;**_Blue-water_navy&amp;#10;**_Brown-water_navy&amp;#10;**_Green-water_navy&amp;#10;*_Gun_placement&amp;#10;**_Broadside&amp;#10;**_Central_battery&amp;#10;**_Casemate&amp;#10;**_Turrets">
+<ul><li><a href="/wiki/List_of_naval_ship_classes_in_service" title="List of naval ship classes in service">Naval ship classes in service</a>
+<ul><li><a href="/wiki/List_of_submarine_classes_in_service" title="List of submarine classes in service">submarine</a></li>
+<li><a href="/wiki/List_of_auxiliary_ship_classes_in_service" title="List of auxiliary ship classes in service">auxiliary</a></li></ul></li>
+<li><a href="/wiki/Maritime_geography" title="Maritime geography">Operational zones</a>
+<ul><li><a href="/wiki/Blue-water_navy" title="Blue-water navy">Blue-water navy</a></li>
+<li><a href="/wiki/Brown-water_navy" title="Brown-water navy">Brown-water navy</a></li>
+<li><a href="/wiki/Green-water_navy" title="Green-water navy">Green-water navy</a></li></ul></li>
+<li>Gun placement
+<ul><li><a href="/wiki/Broadside" title="Broadside">Broadside</a></li>
+<li><a href="/wiki/Central_battery_ship" title="Central battery ship">Central battery</a></li>
+<li><a href="/wiki/Casemate" title="Casemate">Casemate</a></li>
+<li><a href="/wiki/Gun_turret" title="Gun turret">Turrets</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Aircraft_carrier" title="Aircraft carrier">Aircraft carriers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aircraft_cruiser" title="Aircraft cruiser">Aircraft cruiser</a></li>
+<li><a href="/wiki/Amphibious_assault_ship" title="Amphibious assault ship">Amphibious assault ship</a></li>
+<li><a href="/wiki/Anti-submarine_warfare_carrier" title="Anti-submarine warfare carrier">Anti-submarine warfare carrier</a></li>
+<li><a href="/wiki/Balloon_carrier" title="Balloon carrier">Balloon carrier</a></li>
+<li><a href="/wiki/CAM_ship" title="CAM ship">CAM ship</a></li>
+<li><a href="/wiki/Escort_carrier" title="Escort carrier">Escort carrier</a></li>
+<li><a href="/wiki/Fighter_catapult_ship" title="Fighter catapult ship">Fighter catapult ship</a></li>
+<li><a href="/wiki/Fleet_carrier" title="Fleet carrier">Fleet carrier</a></li>
+<li><a href="/wiki/Helicopter_carrier" title="Helicopter carrier">Helicopter carrier</a></li>
+<li><a href="/wiki/Light_aircraft_carrier" title="Light aircraft carrier">Light aircraft carrier</a></li>
+<li><a href="/wiki/Merchant_aircraft_carrier" title="Merchant aircraft carrier">Merchant aircraft carrier</a></li>
+<li><a href="/wiki/Seaplane_tender" title="Seaplane tender">Seaplane tender</a></li>
+<li><a href="/wiki/Submarine_aircraft_carrier" title="Submarine aircraft carrier">Submarine aircraft carrier</a></li>
+<li><a href="/wiki/Supercarrier" class="mw-redirect" title="Supercarrier">Supercarrier</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Battleship" title="Battleship">Battleships</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Coastal_defence_ship" title="Coastal defence ship">Coastal defence ship</a></li>
+<li><a href="/wiki/Dreadnought" title="Dreadnought">Dreadnought</a></li>
+<li><a href="/wiki/Fast_battleship" title="Fast battleship">Fast battleship</a></li>
+<li><a href="/wiki/Pre-dreadnought_battleship" title="Pre-dreadnought battleship">Pre-dreadnought battleship</a></li>
+<li><a href="/wiki/Dreadnought#Super-dreadnoughts" title="Dreadnought">Super-dreadnought</a> (<a href="/wiki/Standard-type_battleship" title="Standard-type battleship">Standard-type battleship</a>)</li>
+<li><a href="/wiki/Treaty_battleship" title="Treaty battleship">Treaty battleship</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Cruiser" title="Cruiser">Cruisers</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Armored_cruiser" title="Armored cruiser">Armored cruiser</a></li>
+<li><a href="/wiki/Battlecruiser" title="Battlecruiser">Battlecruiser</a></li>
+<li><a href="/wiki/Flight_deck_cruiser" title="Flight deck cruiser">Flight deck cruiser</a></li>
+<li><a href="/wiki/Heavy_cruiser" title="Heavy cruiser">Heavy cruiser</a>
+<ul><li><a href="/wiki/Deutschland-class_cruiser" title="Deutschland-class cruiser">Pocket battleship</a></li></ul></li>
+<li><a class="mw-selflink selflink">Light cruiser</a></li>
+<li><a href="/wiki/Merchant_raider" title="Merchant raider">Merchant raider</a></li>
+<li><a href="/wiki/Protected_cruiser" title="Protected cruiser">Protected cruiser</a></li>
+<li><a href="/wiki/Strike_cruiser" title="Strike cruiser">Strike cruiser</a></li>
+<li><a href="/wiki/Torpedo_cruiser" title="Torpedo cruiser">Torpedo cruiser</a></li>
+<li><a href="/wiki/Unprotected_cruiser" title="Unprotected cruiser">Unprotected cruiser</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Escort</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aviso" title="Aviso">Aviso</a></li>
+<li><a href="/wiki/Convoy_rescue_ship" title="Convoy rescue ship">Convoy rescue ship</a></li>
+<li><a href="/wiki/Destroyer" title="Destroyer">Destroyer</a></li>
+<li><a href="/wiki/Destroyer_escort" title="Destroyer escort">Destroyer escort</a></li>
+<li><a href="/wiki/Destroyer_leader" title="Destroyer leader">Destroyer leader</a></li>
+<li><a href="/wiki/Escort_destroyer" title="Escort destroyer">Escort destroyer</a></li>
+<li><a href="/wiki/Escorteur" title="Escorteur">Escorteur</a></li>
+<li><a href="/wiki/Frigate" title="Frigate">Frigate</a></li>
+<li><a href="/wiki/Guided_missile_destroyer" title="Guided missile destroyer">Guided missile destroyer</a></li>
+<li><a href="/wiki/Kaib%C5%8Dkan" title="Kaibōkan">Kaibōkan</a></li>
+<li><a href="/wiki/Sloop-of-war" title="Sloop-of-war">Sloop</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Transport</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amphibious_transport_dock" title="Amphibious transport dock">Amphibious transport dock</a></li>
+<li><a href="/wiki/Amphibious_warfare_ship" title="Amphibious warfare ship">Amphibious warfare ship</a></li>
+<li><a href="/wiki/Attack_transport" title="Attack transport">Attack transport</a></li>
+<li><a href="/wiki/Dock_landing_ship" title="Dock landing ship">Dock landing ship</a></li>
+<li><a href="/wiki/Landing_craft" title="Landing craft">Landing craft</a></li>
+<li><a href="/wiki/Landing_craft_carrier" title="Landing craft carrier">Landing craft carrier</a></li>
+<li><a href="/wiki/Landing_Craft_Support" title="Landing Craft Support">Landing Craft Support</a></li>
+<li><a href="/wiki/Landing_Ship_Heavy" class="mw-redirect" title="Landing Ship Heavy">Landing Ship Heavy</a></li>
+<li><a href="/wiki/Landing_ship,_infantry" title="Landing ship, infantry">Landing ship, infantry</a></li>
+<li><a href="/wiki/Landing_Ship_Medium" title="Landing Ship Medium">Landing Ship Medium</a></li>
+<li><a href="/wiki/Landing_Ship,_Tank" title="Landing Ship, Tank">Landing Ship, Tank</a></li>
+<li><a href="/wiki/Landing_Ship_Vehicle" class="mw-redirect" title="Landing Ship Vehicle">Landing Ship Vehicle</a></li>
+<li><a href="/wiki/Troopship" title="Troopship">Troopship</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Patrol craft</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Armed_boarding_steamer" title="Armed boarding steamer">Armed boarding steamer</a></li>
+<li><a href="/wiki/Armed_yacht" title="Armed yacht">Armed yacht</a></li>
+<li><a href="/wiki/Coastal_Motor_Boat" title="Coastal Motor Boat">Coastal Motor Boat</a></li>
+<li><a href="/wiki/Corvette" title="Corvette">Corvette</a></li>
+<li><a href="/wiki/Gunboat" title="Gunboat">Gunboat</a></li>
+<li><a href="/wiki/Harbour_Defence_Motor_Launch" title="Harbour Defence Motor Launch">Harbour Defence Motor Launch</a></li>
+<li><a href="/wiki/Motor_Launch" title="Motor Launch">Motor Launch</a></li>
+<li><a href="/wiki/Naval_drifter" title="Naval drifter">Naval drifter</a></li>
+<li><a href="/wiki/Naval_trawler" title="Naval trawler">Naval trawler</a></li>
+<li><a href="/wiki/Ocean_boarding_vessel" title="Ocean boarding vessel">Ocean boarding vessel</a></li>
+<li><a href="/wiki/Patrol_boat" title="Patrol boat">Patrol boat</a></li>
+<li><a href="/wiki/Q-ship" title="Q-ship">Q-ship</a></li>
+<li><a href="/wiki/Steam_Gun_Boat" title="Steam Gun Boat">Steam Gun Boat</a></li>
+<li><a href="/wiki/Submarine_chaser" title="Submarine chaser">Submarine chaser</a></li>
+<li><a href="/wiki/Torpedo_boat" title="Torpedo boat">Torpedo boat</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Fast_attack_craft" title="Fast attack craft">Fast attack craft</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/E-boat" title="E-boat">E-boat</a></li>
+<li><a href="/wiki/MAS_(boat)" class="mw-redirect" title="MAS (boat)">MAS</a></li>
+<li><a href="/wiki/Motor_Gun_Boat" title="Motor Gun Boat">MGB</a></li>
+<li><a href="/wiki/Missile_boat" title="Missile boat">Missile boat</a></li>
+<li><a href="/wiki/Motor_Torpedo_Boat" title="Motor Torpedo Boat">MTB</a></li>
+<li><a href="/wiki/MT_explosive_motorboat" title="MT explosive motorboat">MTM</a></li>
+<li><a href="/wiki/MTSM_motor_torpedo_boat" title="MTSM motor torpedo boat">MTSM</a></li>
+<li><a href="/wiki/PT_boat" title="PT boat">PT boat</a></li>
+<li><a href="/wiki/Shin%27y%C5%8D-class_suicide_motorboat" title="Shin&#39;yō-class suicide motorboat">Shin'yō</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Mine warfare</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Danlayer" title="Danlayer">Danlayer</a></li>
+<li><a href="/wiki/Destroyer_minesweeper" title="Destroyer minesweeper">Destroyer minesweeper</a></li>
+<li><a href="/wiki/Mine_countermeasures_vessel" title="Mine countermeasures vessel">Mine countermeasures vessel</a></li>
+<li><a href="/wiki/Mine_planter_(U.S._Army)" class="mw-redirect" title="Mine planter (U.S. Army)">Mine planter</a></li>
+<li><a href="/wiki/Minehunter" title="Minehunter">Minehunter</a></li>
+<li><a href="/wiki/Minelayer" title="Minelayer">Minelayer</a></li>
+<li><a href="/wiki/Minesweeper" title="Minesweeper">Minesweeper</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Command and support</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Amenities_ship" title="Amenities ship">Amenities ship</a></li>
+<li><a href="/wiki/Ammunition_ship" title="Ammunition ship">Ammunition ship</a></li>
+<li><a href="/wiki/Auxiliary_repair_dock" title="Auxiliary repair dock">Auxiliary repair dock</a></li>
+<li><a href="/wiki/Auxiliary_ship" title="Auxiliary ship">Auxiliary ship</a></li>
+<li><a href="/wiki/Collier_(ship)" title="Collier (ship)">Collier</a></li>
+<li><a href="/wiki/Combat_stores_ship" title="Combat stores ship">Combat stores ship</a></li>
+<li><a href="/wiki/Command_ship" title="Command ship">Command ship</a></li>
+<li><a href="/wiki/Crane_vessel" title="Crane vessel">Crane vessel</a></li>
+<li><a href="/wiki/Depot_ship" title="Depot ship">Depot ship</a></li>
+<li><a href="/wiki/Destroyer_tender" title="Destroyer tender">Destroyer tender</a></li>
+<li><a href="/wiki/Dispatch_boat" title="Dispatch boat">Dispatch boat</a></li>
+<li><a href="/wiki/Fast_combat_support_ship" title="Fast combat support ship">Fast combat support ship</a></li>
+<li><a href="/wiki/General_stores_issue_ship" title="General stores issue ship">General stores issue ship</a></li>
+<li><a href="/wiki/Hospital_ship" title="Hospital ship">Hospital ship</a></li>
+<li><a href="/wiki/Tugboat" title="Tugboat">Naval tugboat</a></li>
+<li><a href="/wiki/Net_laying_ship" title="Net laying ship">Net laying ship</a></li>
+<li><a href="/wiki/Repair_ship" title="Repair ship">Repair ship</a></li>
+<li><a href="/wiki/Replenishment_oiler" title="Replenishment oiler">Replenishment oiler</a></li>
+<li><a href="/wiki/Submarine_tender" title="Submarine tender">Submarine tender</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Submarine" title="Submarine">Submarines</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Attack_submarine" title="Attack submarine">Attack submarine</a></li>
+<li><a href="/wiki/Ballistic_missile_submarine" title="Ballistic missile submarine">Ballistic missile submarine</a></li>
+<li><a href="/wiki/Coastal_submarine" title="Coastal submarine">Coastal submarine</a></li>
+<li><a href="/wiki/Cruise_missile_submarine" title="Cruise missile submarine">Cruise missile submarine</a></li>
+<li><a href="/wiki/Cruiser_submarine" title="Cruiser submarine">Cruiser submarine</a></li>
+<li><a href="/wiki/Deep-submergence_vehicle" title="Deep-submergence vehicle">Deep-submergence vehicle</a>
+<ul><li><a href="/wiki/Deep-submergence_rescue_vehicle" title="Deep-submergence rescue vehicle">DSRV</a></li></ul></li>
+<li><a href="/wiki/Fleet_submarine" title="Fleet submarine">Fleet submarine</a></li>
+<li><a href="/wiki/Midget_submarine" title="Midget submarine">Midget submarine</a></li>
+<li><a href="/wiki/U-boat" title="U-boat">U-boat</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Miscellaneous</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arsenal_ship" title="Arsenal ship">Arsenal ship</a></li>
+<li><a href="/wiki/Barracks_ship" title="Barracks ship">Barracks ship</a></li>
+<li><a href="/wiki/Breastwork_monitor" title="Breastwork monitor">Breastwork monitor</a></li>
+<li><a href="/wiki/Capital_ship" title="Capital ship">Capital ship</a></li>
+<li><a href="/wiki/Flagship" title="Flagship">Flagship</a></li>
+<li><a href="/wiki/Guard_ship" title="Guard ship">Guard ship</a></li>
+<li><a href="/wiki/Littoral_combat_ship" title="Littoral combat ship">Littoral combat ship</a></li>
+<li><a href="/wiki/Monitor_(warship)" title="Monitor (warship)">Monitor</a></li>
+<li><a href="/wiki/River_monitor" title="River monitor">River monitor</a></li>
+<li><a href="/wiki/Training_ship" title="Training ship">Training ship</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20190925023023
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.372 seconds
+Real time usage: 0.514 seconds
+Preprocessor visited node count: 3370/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37407/2097152 bytes
+Template argument size: 3447/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6716/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.126/10.000 seconds
+Lua memory usage: 3.8 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  392.444      1 -total
+ 22.56%   88.540      1 Template:Reflist
+ 19.12%   75.022      1 Template:Cite_book
+ 17.42%   68.348     10 Template:Ship
+ 16.06%   63.017      1 Template:Commons_category
+ 15.19%   59.593      9 Template:Convert
+  8.67%   34.032      1 Template:ISBN
+  8.19%   32.131      4 Template:USS
+  7.09%   27.843     23 Template:Yesno
+  5.03%   19.747      1 Template:See_also
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:188554-0!canonical and timestamp 20190925023022 and revision id 910133668
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Light_cruiser&amp;oldid=910133668">https://en.wikipedia.org/w/index.php?title=Light_cruiser&amp;oldid=910133668</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Light_cruisers" title="Category:Light cruisers">Light cruisers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Light+cruiser" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Light+cruiser" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Light_cruiser" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Light_cruiser" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Light_cruiser">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Light_cruiser&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Light_cruiser&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Light_cruiser" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Light_cruiser" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Light_cruiser&amp;oldid=910133668" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Light_cruiser&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q778129" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Light_cruiser&amp;id=910133668" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Light_cruisers" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Light+cruiser">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Light+cruiser&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Light_cruiser&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Kheng_s%C3%BBn-i%C3%BB%E2%81%BF-l%C4%81m" title="Kheng sûn-iûⁿ-lām – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9B%D1%91%D0%B3%D0%BA%D1%96_%D0%BA%D1%80%D1%8D%D0%B9%D1%81%D0%B5%D1%80" title="Лёгкі крэйсер – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BA_%D0%BA%D1%80%D0%B0%D0%B9%D1%86%D0%B5%D1%80" title="Лек крайцер – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Lahka_krstarica" title="Lahka krstarica – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Creuer_lleuger" title="Creuer lleuger – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Lehk%C3%BD_k%C5%99i%C5%BEn%C3%ADk" title="Lehký křižník – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Leichter_Kreuzer" title="Leichter Kreuzer – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Crucero_ligero" title="Crucero ligero – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Croiseur_l%C3%A9ger" title="Croiseur léger – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Cruceiro_lixeiro" title="Cruceiro lixeiro – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EA%B2%BD%EC%88%9C%EC%96%91%ED%95%A8" title="경순양함 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Laki_krsta%C5%A1" title="Laki krstaš – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Kapal_penjelajah_ringan" title="Kapal penjelajah ringan – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Incrociatore_leggero" title="Incrociatore leggero – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%99%D7%99%D7%A8%D7%AA_%D7%A7%D7%9C%D7%94" title="סיירת קלה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Kruiser_ringan" title="Kruiser ringan – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Lichte_kruiser" title="Lichte kruiser – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E8%BB%BD%E5%B7%A1%E6%B4%8B%E8%89%A6" title="軽巡洋艦 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Lett_krysser" title="Lett krysser – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Kr%C4%85%C5%BCownik_lekki" title="Krążownik lekki – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Cruzador_r%C3%A1pido" title="Cruzador rápido – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D1%91%D0%B3%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80" title="Лёгкий крейсер – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BA%D0%B0_%D0%BA%D1%80%D1%81%D1%82%D0%B0%D1%80%D0%B8%D1%86%D0%B0" title="Лака крстарица – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Laka_krstarica" title="Laka krstarica – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Kevyt_risteilij%C3%A4" title="Kevyt risteilijä – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D2%96%D0%B8%D2%A3%D0%B5%D0%BB_%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80" title="Җиңел крейсер – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Hafif_kruvaz%C3%B6r" title="Hafif kruvazör – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B3%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80" title="Легкий крейсер – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/T%C3%A0u_tu%E1%BA%A7n_d%C6%B0%C6%A1ng_h%E1%BA%A1ng_nh%E1%BA%B9" title="Tàu tuần dương hạng nhẹ – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E8%BC%95%E5%B7%A1%E6%B4%8B%E8%89%A6" title="輕巡洋艦 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q778129#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 9 August 2019, at 21:56<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Light_cruiser&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.372","walltime":"0.514","ppvisitednodes":{"value":3370,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":37407,"limit":2097152},"templateargumentsize":{"value":3447,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6716,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  392.444      1 -total"," 22.56%   88.540      1 Template:Reflist"," 19.12%   75.022      1 Template:Cite_book"," 17.42%   68.348     10 Template:Ship"," 16.06%   63.017      1 Template:Commons_category"," 15.19%   59.593      9 Template:Convert","  8.67%   34.032      1 Template:ISBN","  8.19%   32.131      4 Template:USS","  7.09%   27.843     23 Template:Yesno","  5.03%   19.747      1 Template:See_also"]},"scribunto":{"limitreport-timeusage":{"value":"0.126","limit":"10.000"},"limitreport-memusage":{"value":3988402,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20190925023023","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Light cruiser","url":"https:\/\/en.wikipedia.org\/wiki\/Light_cruiser","sameAs":"http:\/\/www.wikidata.org\/entity\/Q778129","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q778129","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-02-26T05:48:08Z","dateModified":"2019-08-09T21:56:35Z","headline":"type of warship"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":616,"wgHostname":"mw1272"});});</script>
+</body>
+</html>
+

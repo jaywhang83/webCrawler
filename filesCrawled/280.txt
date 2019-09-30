@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Okinawan name - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Okinawan_name","wgTitle":"Okinawan name","wgCurRevisionId":897609542,"wgRevisionId":897609542,"wgArticleId":15515838,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles containing Japanese-language text","Articles with Japanese-language external links","Names by culture"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Okinawan_name","wgRelevantArticleId":15515838,"wgRequestId":
+"XY1bYApAADwAAD2Q8cAAAAAH","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q843123","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/2/2f/Okinawan_last_name_Hanko_Stamps_in_Tsurumi_Okinawa_Street.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Okinawan_name"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Okinawan_name&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Okinawan_name&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Okinawan_name"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Okinawan_name rootpage-Okinawan_name skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Okinawan name</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Okinawan_last_name_Hanko_Stamps_in_Tsurumi_Okinawa_Street.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Okinawan_last_name_Hanko_Stamps_in_Tsurumi_Okinawa_Street.jpg/220px-Okinawan_last_name_Hanko_Stamps_in_Tsurumi_Okinawa_Street.jpg" decoding="async" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Okinawan_last_name_Hanko_Stamps_in_Tsurumi_Okinawa_Street.jpg/330px-Okinawan_last_name_Hanko_Stamps_in_Tsurumi_Okinawa_Street.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Okinawan_last_name_Hanko_Stamps_in_Tsurumi_Okinawa_Street.jpg/440px-Okinawan_last_name_Hanko_Stamps_in_Tsurumi_Okinawa_Street.jpg 2x" data-file-width="612" data-file-height="612" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Okinawan_last_name_Hanko_Stamps_in_Tsurumi_Okinawa_Street.jpg" class="internal" title="Enlarge"></a></div>Okinawan last name <a href="/wiki/Seal_(East_Asia)#Japanese_usage" title="Seal (East Asia)">Hanko</a> seals in Tsurumi Okinawa Street</div></div></div>
+<p><b>Okinawan names</b> today have only two components, the <a href="/wiki/Family_name" class="mw-redirect" title="Family name">family names</a> (<a href="/wiki/Surname" title="Surname">surnames</a> or last names) first and the <a href="/wiki/Given_name" title="Given name">given names</a> last. Okinawan family names represent the distinct historical and cultural background of the islands which now comprise <a href="/wiki/Okinawa_Prefecture" title="Okinawa Prefecture">Okinawa Prefecture</a> in Japan. Expatriates originally from <a href="/wiki/Okinawa_Island" title="Okinawa Island">Okinawa</a> also have these names.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Modern_names"><span class="tocnumber">1</span> <span class="toctext">Modern names</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Top_10_popular_Okinawan_family_names"><span class="tocnumber">1.1</span> <span class="toctext">Top 10 popular Okinawan family names</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Historical_names"><span class="tocnumber">2</span> <span class="toctext">Historical names</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Warabi-naa"><span class="tocnumber">2.1</span> <span class="toctext"><i>Warabi-naa</i></span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Kamei"><span class="tocnumber">2.2</span> <span class="toctext"><i>Kamei</i></span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Rank"><span class="tocnumber">2.3</span> <span class="toctext">Rank</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Nanui"><span class="tocnumber">2.4</span> <span class="toctext"><i>Nanui</i></span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Kara-naa"><span class="tocnumber">2.5</span> <span class="toctext"><i>Kara-naa</i></span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Munchū_or_lineages"><span class="tocnumber">2.6</span> <span class="toctext"><i>Munchū</i> or lineages</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Royal_house"><span class="tocnumber">2.7</span> <span class="toctext">Royal house</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Kumemura"><span class="tocnumber">2.8</span> <span class="toctext">Kumemura</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Modernization"><span class="tocnumber">2.9</span> <span class="toctext">Modernization</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Modern_names">Modern names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okinawan_name&amp;action=edit&amp;section=1" title="Edit section: Modern names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As Japanese citizens, Okinawans today comply with the Japanese <a href="/wiki/Family_register" title="Family register">family register</a> (<i><a href="/wiki/Koseki" title="Koseki">koseki</a></i>) system. Accordingly, an Okinawan name has only two components, a family name and a given name. A family name is called <i>myōji</i> (苗字 or 名字), <i>uji</i> (氏) or <i>sei</i> (姓), and a given name is called the "front name" (名前, <i>namae</i>) or "lower name" (下の名前, <i>shita no namae</i>). The family name precedes the given name. The given name may be referred to as the "lower name" because, in vertically-written Japanese, the given name appears under the family name.
+</p><p>Japanese family names generally show regional variation, but Okinawan family names are known for its distinctiveness. In contrast it becomes increasingly difficult to find unique Okinawan given names.<sup id="cite_ref-ueno2002_1-0" class="reference"><a href="#cite_note-ueno2002-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Top_10_popular_Okinawan_family_names">Top 10 popular Okinawan family names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okinawan_name&amp;action=edit&amp;section=2" title="Edit section: Top 10 popular Okinawan family names">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This top 10 list<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> is based on the name as written in <a href="/wiki/Kanji" title="Kanji">kanji</a> (Chinese characters). Since the <a href="/wiki/Japanese_language" title="Japanese language">Japanese language</a> allows for multiple possible readings, or pronunciations, for each character, the reading of Okinawan family names written with the same characters varies. In addition, the <a href="/wiki/Okinawan_language" title="Okinawan language">Okinawan language</a> has its own means of reading Japanese kanji.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th scope="col">Kanji
+</th>
+<th scope="col">Readings (Japanese, <i>Okinawan</i>)
+</th>
+<th scope="col">Well-known people
+</th></tr>
+<tr>
+<td>比嘉
+</td>
+<td><a href="/wiki/Higa" title="Higa">Higa</a>, <i>Fija</i>, <i>Fiija</i>
+</td>
+<td>比嘉 栄昇 Eishō Higa (<a href="/wiki/Begin_(band)" title="Begin (band)">Begin</a>), <a href="/wiki/Ryan_Higa" title="Ryan Higa">Ryan Higa</a>
+</td></tr>
+<tr>
+<td>金城
+</td>
+<td><a href="/wiki/Kaneshiro" title="Kaneshiro">Kaneshiro</a>, Kinjō, <i>Kanagusuku</i>
+</td>
+<td>金城 武 <a href="/wiki/Takeshi_Kaneshiro" title="Takeshi Kaneshiro">Takeshi Kaneshiro</a>, 金城 綾乃 Ayano Kinjō (<a href="/wiki/Kiroro" title="Kiroro">Kiroro</a>)
+</td></tr>
+<tr>
+<td>大城
+</td>
+<td><a href="/wiki/Oshiro" title="Oshiro">Ōshiro</a>, <i>Ufugusuku</i>, <i>Ogusuku</i>
+</td>
+<td>大城 ガクト <a href="/wiki/Gackt" title="Gackt">Gakuto Oshiro</a>, 大城 立裕 <a href="/wiki/Tatsuhiro_Oshiro" class="mw-redirect" title="Tatsuhiro Oshiro">Tatsuhiro Oshiro</a>, 大城 みさき <a href="/wiki/Misaki_Oshiro" title="Misaki Oshiro">Misaki Oshiro</a>
+</td></tr>
+<tr>
+<td>宮城
+</td>
+<td><a href="/wiki/Miyagi_(surname)" title="Miyagi (surname)">Miyagi</a>, <i>Naagusuku</i>
+</td>
+<td>ミヤギマモル Mamoru Miyagi, 宮城 長順 <a href="/wiki/Chojun_Miyagi" class="mw-redirect" title="Chojun Miyagi">Chojun Miyagi</a>
+</td></tr>
+<tr>
+<td>新垣
+</td>
+<td><a href="/wiki/Aragaki" title="Aragaki">Aragaki</a>, Arakaki, Shingaki, Niigaki, <i>Arakachi</i>
+</td>
+<td>新垣 結衣 <a href="/wiki/Yui_Aragaki" title="Yui Aragaki">Yui Aragaki</a>, 新垣 里沙 <a href="/wiki/Risa_Niigaki" title="Risa Niigaki">Risa Niigaki</a> (<a href="/wiki/Morning_Musume" title="Morning Musume">Morning Musume</a>)
+</td></tr>
+<tr>
+<td>玉城
+</td>
+<td><a href="/wiki/Tamaki_(name)" title="Tamaki (name)">Tamaki</a>, Tamashiro, <i>Tamagusuku</i>
+</td>
+<td>玉城 幸也 Yukinari Tamaki (<a href="/wiki/Da_Pump" title="Da Pump">Da Pump</a>), 玉城 千春 Chiharu Tamashiro (<a href="/wiki/Kiroro" title="Kiroro">Kiroro</a>), 玉木 宏 <a href="/wiki/Hiroshi_Tamaki" title="Hiroshi Tamaki">Hiroshi Tamaki</a>
+</td></tr>
+<tr>
+<td>上原
+</td>
+<td><a href="/wiki/Uehara" title="Uehara">Uehara</a>, <i>Wiibaru</i>
+</td>
+<td>上原 多香子 <a href="/wiki/Takako_Uehara" title="Takako Uehara">Takako Uehara</a> (<a href="/wiki/Speed_(Japanese_band)" title="Speed (Japanese band)">Speed</a>)
+</td></tr>
+<tr>
+<td>島袋
+</td>
+<td><a href="/wiki/Shimabukuro" title="Shimabukuro">Shimabukuro</a>, <i>Shimabuku</i>
+</td>
+<td>島袋 寛子 <a href="/wiki/Hiroko_Shimabukuro" title="Hiroko Shimabukuro">Hiroko Shimabukuro</a> (<a href="/wiki/Speed_(Japanese_band)" title="Speed (Japanese band)">Speed</a>), <a href="/wiki/Jake_Shimabukuro" title="Jake Shimabukuro">Jake Shimabukuro</a>
+</td></tr>
+<tr>
+<td>平良
+</td>
+<td><a href="/wiki/Taira" class="mw-redirect" title="Taira">Taira</a>, <i>Teera</i>
+</td>
+<td>平良 とみ <a href="/wiki/Tomi_Taira" title="Tomi Taira">Tomi Taira</a>
+</td></tr>
+<tr>
+<td>山城
+</td>
+<td><a href="/wiki/Yamashiro_(disambiguation)" class="mw-redirect mw-disambig" title="Yamashiro (disambiguation)">Yamashiro</a>, <i>Yamagusuku</i>
+</td>
+<td>山城 智二 Tomoji Yamashiro (FEC)
+</td></tr>
+</tbody></table>
+<div style="clear:left"></div>
+<ul class="gallery mw-gallery-traditional" style="center">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Ryan_Higa_by_Gage_Skidmore.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ryan_Higa_by_Gage_Skidmore.jpg/95px-Ryan_Higa_by_Gage_Skidmore.jpg" decoding="async" width="95" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ryan_Higa_by_Gage_Skidmore.jpg/142px-Ryan_Higa_by_Gage_Skidmore.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ryan_Higa_by_Gage_Skidmore.jpg/190px-Ryan_Higa_by_Gage_Skidmore.jpg 2x" data-file-width="2388" data-file-height="3018" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Ryan_Higa" title="Ryan Higa">Ryan Higa</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Takeshi_Kaneshiro2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Takeshi_Kaneshiro2.jpg/86px-Takeshi_Kaneshiro2.jpg" decoding="async" width="86" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Takeshi_Kaneshiro2.jpg/129px-Takeshi_Kaneshiro2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Takeshi_Kaneshiro2.jpg/172px-Takeshi_Kaneshiro2.jpg 2x" data-file-width="482" data-file-height="673" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Takeshi_Kaneshiro" title="Takeshi Kaneshiro">Takeshi Kaneshiro</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Gackt_at_the_Kenshin_Festival,_2008(2)(cropped).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Gackt_at_the_Kenshin_Festival%2C_2008%282%29%28cropped%29.jpg/102px-Gackt_at_the_Kenshin_Festival%2C_2008%282%29%28cropped%29.jpg" decoding="async" width="102" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Gackt_at_the_Kenshin_Festival%2C_2008%282%29%28cropped%29.jpg/152px-Gackt_at_the_Kenshin_Festival%2C_2008%282%29%28cropped%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Gackt_at_the_Kenshin_Festival%2C_2008%282%29%28cropped%29.jpg/203px-Gackt_at_the_Kenshin_Festival%2C_2008%282%29%28cropped%29.jpg 2x" data-file-width="389" data-file-height="459" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Gackt" title="Gackt">Gakuto Oshiro</a>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Jake_Shimabukuro.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Jake_Shimabukuro.jpg/120px-Jake_Shimabukuro.jpg" decoding="async" width="120" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Jake_Shimabukuro.jpg/180px-Jake_Shimabukuro.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Jake_Shimabukuro.jpg/240px-Jake_Shimabukuro.jpg 2x" data-file-width="2150" data-file-height="2150" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Jake_Shimabukuro" title="Jake Shimabukuro">Jake Shimabukuro</a>
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Historical_names">Historical names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okinawan_name&amp;action=edit&amp;section=3" title="Edit section: Historical names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" align="right">
+<tbody><tr>
+<th align="center" bgcolor="#f0f0ff">
+</th>
+<th rowspan="3">
+</th>
+<th colspan="3" align="center" bgcolor="#f0f0ff"><b><span lang="ja" title="Japanese language text">大和名</span></b><br /><i>Yamatu-naa</i><br />Japanese (Yamato) style name
+</th>
+<th rowspan="3">
+</th>
+<th colspan="2" align="center" bgcolor="#f0f0ff"><b><span lang="ja" title="Japanese language text">唐名</span></b><br /><i>Kara-naa</i><br />Chinese name
+</th></tr>
+<tr>
+<td align="center" bgcolor="#ccccff"><b><span lang="ja" title="Japanese language text">童名</span></b><br /><i>warabi-naa</i><br />Childhood name
+</td>
+<td align="center" bgcolor="#ccccff"><b><span lang="ja" title="Japanese language text">家名</span></b><br />kamei<br />Family name
+</td>
+<td align="center" bgcolor="#ccccff"><b><span lang="ja" title="Japanese language text">位階</span></b><br />ikai<br />Title/Rank
+</td>
+<td align="center" bgcolor="#ccccff"><b><span lang="ja" title="Japanese language text">名乗</span></b><br /><i>nanui</i><br />Given name
+</td>
+<td align="center" bgcolor="#ccccff"><b><span lang="ja" title="Japanese language text">姓</span></b><br /><i>sii</i><br />Surname
+</td>
+<td align="center" bgcolor="#ccccff"><b><span lang="ja" title="Japanese language text">諱</span></b><br />imina<br />Given name
+</td></tr>
+<tr>
+<td align="center" bgcolor="#f0f0ff"><span lang="ja" title="Japanese language text"><b>思五良</b></span><br />Umi-guraa
+</td>
+<td align="center" bgcolor="#f0f0ff"><span lang="ja" title="Japanese language text"><b>玉城</b></span><br />Tamagusuku
+</td>
+<td align="center" bgcolor="#f0f0ff"><b><span lang="ja" title="Japanese language text">親方</span></b><br />Uwekata
+</td>
+<td align="center" bgcolor="#f0f0ff"><span lang="ja" title="Japanese language text"><b>朝薫</b></span><br />Chōkun
+</td>
+<td align="center" bgcolor="#f0f0ff"><span lang="ja" title="Japanese language text"><b>向</b></span><br />Shō
+</td>
+<td align="center" bgcolor="#f0f0ff"><span lang="ja" title="Japanese language text"><b>受祐</b></span><br />Juyū
+</td></tr></tbody></table>
+<p>As in mainland Japan, historical names in Okinawa are more complicated. People with different social statuses bore different kinds of names, maintained several names to use in different occasions, and sometimes changed them in their lifetime. Okinawan names underwent great changes after the <a href="/wiki/Ry%C5%ABky%C5%AB_Kingdom" class="mw-redirect" title="Ryūkyū Kingdom">Ryūkyū Kingdom</a> fell under the Satsuma Domain's control.
+</p>
+<h3><span class="mw-headline" id="Warabi-naa"><i>Warabi-naa</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okinawan_name&amp;action=edit&amp;section=4" title="Edit section: Warabi-naa">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Warabi-naa</i> (warabe-na/<i>warabi-naa</i>, 童名) were personal names. For example, the <i>warabi-naa</i> of <a href="/wiki/Tamagusuku_Ch%C5%8Dkun" title="Tamagusuku Chōkun">Tamagusuku Chōkun</a> was Umi-guraa (思五良). <i>Warabi-naa</i> were most prevalent among Okinawans, from the king to commoners, both male and female. They were the oldest component of Okinawan names as, like people in mainland Japan, the inhabitants of Ryukyu islands did not originally have names for families, clans or lineages. They were used as the official names during the early era of the Ryukyu Kingdom. They appeared even in appointment letters by the king, written mostly in <a href="/wiki/Hiragana" title="Hiragana">hiragana</a>. It was during the 17th century that other name components prevailed among the pechin class.<sup id="cite_ref-dana-hoi_3-0" class="reference"><a href="#cite_note-dana-hoi-3">&#91;3&#93;</a></sup>
+</p><p>A <i>warabi-naa</i> was given soon after birth. Although literally meaning <i>childhood name</i>, it was used by commoners for their entire life. While it was overshadowed by other name components, even adult male members of the pechin class used <i>warabi-naa</i> at home and when referring to their friends.<sup id="cite_ref-kanjun-name_4-0" class="reference"><a href="#cite_note-kanjun-name-4">&#91;4&#93;</a></sup>
+</p><p>Later in history, stylized use of prefixes and suffixes differentiated social statuses. A commoner used neither a prefix nor suffix, a samurai used either a prefix or suffix, and an aristocrat used both a prefix and a suffix. For example, Tukū (徳) was a name for commoners, Umi-tukū (思徳) for samurai, and Umi-tuku-gani (思徳金) for aristocrats.<sup id="cite_ref-kanjun-name_4-1" class="reference"><a href="#cite_note-kanjun-name-4">&#91;4&#93;</a></sup>
+</p><p>A set of <i>warabi-naa</i> appeared in the very beginning of recorded history and has not been changed since then. The number of <i>warabi-naa</i> pooled in society was extremely small. It was not uncommon for a <i>warabi-naa</i> to be shared by more than one person in a household. The first male child was usually named after his paternal grandfather.<sup id="cite_ref-ueno2002_1-1" class="reference"><a href="#cite_note-ueno2002-1">&#91;1&#93;</a></sup> For example, the last king <a href="/wiki/Sh%C5%8D_Tai" title="Shō Tai">Shō Tai</a> had the <i>warabi-naa</i> Umi-jiraa-gani (思次良金), which was also the name of his grandfather <a href="/wiki/Sh%C5%8D_K%C5%8D" title="Shō Kō">Shō Kō</a>.
+</p>
+<h3><span class="mw-headline" id="Kamei"><i>Kamei</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okinawan_name&amp;action=edit&amp;section=5" title="Edit section: Kamei">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Even in the Old Ryukyu era, social development led Okinawans to acquire names other than <i>warabi-naa</i> for disambiguation. <i>Kamei</i> (家名) or <i>Yaa-n-naa</i> (家の名), both meaning "family name," were often attached to <i>warabi-naa</i>. <i>Kamei</i> were toponyms, either the domains they ruled or the places of their origin. For example, an inscription of the Old Ryukyu era contains a personal name, <i>Mafuto-kane &#160;&#160; Ufusato no Ufu-yakumoi</i> (まふとかね 大さとの大やくもい), where <i>Mafuto-kane</i> (Mafutu-gani) was a <i>warabi-naa</i>, <i>Ufusato</i> (Ufusatu) was a place associated with him, and <i>Ufu-yakumoi</i> (Ufu-yakumui) was the title he was given.<sup id="cite_ref-kanjun-uji_5-0" class="reference"><a href="#cite_note-kanjun-uji-5">&#91;5&#93;</a></sup>
+</p><p>In the naming conventions after the separation of the Peichin class from peasants, only the Pechin class was allowed to have <i>kamei</i>. Because the vast majority of the Pechin families lacked domains to rule, they inherited fixed <i>kamei</i>. In contrast, an upper class member used the name of the fief he was given by the king. This means that his <i>kamei</i> was changed every time a different land was allotted. For example, <a href="/wiki/Makishi_Ch%C5%8Dch%C5%AB" title="Makishi Chōchū">Makishi Chōchū</a> (1818–1862) originally had the <i>kamei</i> Itarashiki (板良敷) but was then given a fief of Ōwan (大湾) before being finally renamed to Makishi (牧志).<sup id="cite_ref-kanjun-name_4-2" class="reference"><a href="#cite_note-kanjun-name-4">&#91;4&#93;</a></sup>
+</p><p>In early times, <i>kamei</i> were written predominantly in hiragana. After the <a href="/wiki/Invasion_of_Ryukyu" title="Invasion of Ryukyu">invasion</a> of the Ryūkyū Kingdom by Japan's <a href="/wiki/Satsuma_Domain" title="Satsuma Domain">Satsuma Domain</a> in 1609, the Japanese-style use of Chinese characters (<a href="/wiki/Kanji" title="Kanji">kanji</a>) was adopted. The <a href="/w/index.php?title=Keich%C5%8D_Land_Surveys&amp;action=edit&amp;redlink=1" class="new" title="Keichō Land Surveys (page does not exist)">Keichō Land Surveys</a> of 1609-1611 probably conventionalized to some degree the choice of kanji for place names, and thus surnames based on them. In 1625 the Satsuma Domain instituted a ban on the use of Japanese-looking family names<span style="font-weight: normal">&#32;(<span lang="ja">大和めきたる名字の禁止</span><span style="display:none">,</span>&#32;<i>Yamato-mekitaru myōji no kinshi</i>)</span>. As a result, the kanji used to write <i>kamei</i> changed from characters that were common in Japan to new, unique character combinations. For example, the name 東 (Higashi) was often changed to 比嘉 (Figa) or 比謝 (Fija), the name 前田 (Maeda) to 真栄田 (the same reading), 福山 (Fukuyama) to 譜久山 (the same reading), etc.<sup id="cite_ref-higa-surname_6-0" class="reference"><a href="#cite_note-higa-surname-6">&#91;6&#93;</a></sup>
+</p><p>In practice, <i>kamei</i> represented a group who shared the founder of a relatively recent past. When it was necessary to distinguish branch families, the main family attached the prefix <i>ufu</i> (大, great) to its <i>kamei</i> while the suffix <i>gwa</i> (少, small), for example, was used for a branch family.<sup id="cite_ref-kanjun-name_4-3" class="reference"><a href="#cite_note-kanjun-name-4">&#91;4&#93;</a></sup>
+</p><p>Officially, commoners did not have <i>kamei</i>. At some point in history, commoners in the capital region, <a href="/wiki/Shuri,_Okinawa" title="Shuri, Okinawa">Shuri</a> and <a href="/wiki/Naha" title="Naha">Naha</a>, started to assume <i>kamei</i>. However, <i>kamei</i> of commoners were differentiated verbally and in writing. The last syllable of a commoner's <i>kamei</i> was lengthened (e.g. Arakachii) while that of a Pechin was not (e.g. Arakachi). For commoners, his <i>warabi-naa</i> is written first and is followed by his <i>kamei</i>. For example, Taraa (<i>warabi-naa</i>) from Yamagushiku was written as たら山城 (Taraa Yamagushiku).<sup id="cite_ref-kanjun-name_4-4" class="reference"><a href="#cite_note-kanjun-name-4">&#91;4&#93;</a></sup>
+</p><p>Commoners in rural areas unofficially used names for households, which were also called <i>Yaa-n-naa</i> (屋の名). They were similar to <i>yagō</i>, private family names used by commoners in Japan.<sup id="cite_ref-ueno2002_1-2" class="reference"><a href="#cite_note-ueno2002-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Rank">Rank</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okinawan_name&amp;action=edit&amp;section=6" title="Edit section: Rank">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Like in Japan, a rank (位階) was also part of the addressing system. The following was the list of ranks after they were fixed:
+</p>
+<ul><li><i>Wōji</i> (王子)</li>
+<li><i>Anji or Aji</i> (按司)</li>
+<li><i>Uwekata</i> (親方)</li>
+<li><i>Peekumi</i> (親雲上)</li>
+<li><i>Satunushi-peechin</i> (里之子親雲上)</li>
+<li><i>Satunushi</i> (里之子)</li>
+<li><i>Chukudun-peechin</i> (筑登之親雲上)</li>
+<li><i>Chukudun</i> (筑登之)<sup id="cite_ref-kanjun-name_4-5" class="reference"><a href="#cite_note-kanjun-name-4">&#91;4&#93;</a></sup></li></ul>
+<p>Young male members of the <a href="/wiki/Pechin" title="Pechin">Pechin</a> class who had no rank were addressed with honorific suffixes: <i>shii</i> (子) for the upper class and <i>nyaa</i> (仁屋) for the lower class. Commoners had no rank.<sup id="cite_ref-kanjun-name_4-6" class="reference"><a href="#cite_note-kanjun-name-4">&#91;4&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Nanui"><i>Nanui</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okinawan_name&amp;action=edit&amp;section=7" title="Edit section: Nanui">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Male members of the Pechin class adopted <i>nanui</i> (nanori/<i>nanui</i>, 名乗), or Japanese-style personal names, when they reached adulthood. Each <i>nanui</i> consists of two <a href="/wiki/Kanji" title="Kanji">kanji</a> characters, e.g. 朝薫 (<a href="/wiki/Tamagusuku_Ch%C5%8Dkun" title="Tamagusuku Chōkun">Chōkun</a>). The first character of a <i>nanui</i>, called <i>nanui-gasira</i> (nanori-gashira/<i>nanui-gasira</i>, 名乗頭), was shared by a lineage or <i>munchū</i>. For example, the character 朝 (<i>chō</i>) was used by branch families of the royal family including <a href="/wiki/Tamagusuku_Ch%C5%8Dkun" title="Tamagusuku Chōkun">Chōkun</a> (玉城朝薫), his father Chōchi (朝致) and his son Chōki (朝喜).
+</p><p>The direct reference to a <i>nanui</i> verbally and in writing was usually avoided because it was considered rude. In domestic documents, a Pechin was usually addressed by the combination of a <i>kamei</i> and a rank (e.g. Kyan Peekumi (喜屋武親雲上)). This was similar to the convention of Japan, e.g. Andō Tsushima-no-kami (安藤対馬守, Andō, Governor of Tsushima Province) for <a href="/wiki/And%C5%8D_Nobumasa" title="Andō Nobumasa">Andō Nobumasa</a>.<sup id="cite_ref-kanjun-name_4-7" class="reference"><a href="#cite_note-kanjun-name-4">&#91;4&#93;</a></sup> This combination can be found in as early as the first half of the 16th century.<sup id="cite_ref-dana-hoi_3-1" class="reference"><a href="#cite_note-dana-hoi-3">&#91;3&#93;</a></sup> When necessary, a <i>nanui</i> was attached to the combination of a <i>kamei</i> and a rank. It is only a convention of historiography that people of the Ryūkyū Kingdom are referred to by the combination of a <i>kamei</i> and a <i>nanui</i>, e.g. Tamagusuku Chōkun (玉城朝薫).
+</p><p><i>Nanui</i> came into use during the 17th century with obvious influence from Satsuma.<sup id="cite_ref-dana-hoi_3-2" class="reference"><a href="#cite_note-dana-hoi-3">&#91;3&#93;</a></sup> The use of <i>nanui-gashira</i> is similar to that of <i>tsūji</i> (通字) in Japan. However, while <i>tsūji</i> was usually assumed only by the successor of a household, the first son in most cases, each <i>nanui-gashira</i> was shared by all the male member of a lineage.<sup id="cite_ref-ueno2002_1-3" class="reference"><a href="#cite_note-ueno2002-1">&#91;1&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Kara-naa"><i>Kara-naa</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okinawan_name&amp;action=edit&amp;section=8" title="Edit section: Kara-naa">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>From 1689 male members of the Pechin class also had <i>kara-naa</i> (唐名) or Chinese names. Each <i>kara-naa</i> consists of a one-character name for a lineage called <i>shii</i> or <i>uji</i> (sei/<i>shii</i>, 姓 or uji/<i>uji</i>, 氏) and a personal name called <i>imina</i> (諱). For example, <a href="/wiki/Tamagusuku_Ch%C5%8Dkun" title="Tamagusuku Chōkun">Tamagusuku Chōkun</a> had the <i>kara-naa</i> Shō Juyū (向受祐). <i>Kara-naa</i> appeared neither officially nor privately in domestic affairs, but were used for diplomatic correspondence with <a href="/wiki/Dynasties_in_Chinese_history" title="Dynasties in Chinese history">Chinese dynasties</a>. Thus a lower-class Pechin who had no post in the court had virtually no chance to use his <i>kara-naa</i>.<sup id="cite_ref-kanjun-name_4-8" class="reference"><a href="#cite_note-kanjun-name-4">&#91;4&#93;</a></sup>
+</p><p>Names for Okinawan officials were recorded in early diplomatic documents written in Classical Chinese. They were actually corrupt forms of <i>warabi-naa</i> and <i>kamei</i>. For example, <i>a-fu-sat-to</i> 阿布薩都 and <i>ō-sat-to</i> 王察度 both referred to the <i>kamei</i> Ufuzatu (大里). Similarly, <i>go-ratsu</i> 呉剌 and <i>tatsu-ro-ka-ne</i> 達魯加禰 derived from <i>warabi-naa</i> Guraa (五良) and Taru-gani (樽金) respectively.<sup id="cite_ref-kanjun-name_4-9" class="reference"><a href="#cite_note-kanjun-name-4">&#91;4&#93;</a></sup> It is during the 16th century that some officials used names that could be analyzed as Chinese surnames and given names. It seems that at first these names were coined each time they were needed for a diplomatic trip to China. Some families from which diplomats came for generations began to succeed the first character of their ancestors' transcribed names as <i>shii</i>. For instance, descendants of Mafutu-gani, who appeared as <i>ma-botsu-to</i> (麻勃都) in diplomatic records, adopted the <i>shii</i> Ma (麻) after him.<sup id="cite_ref-dana-hoi_3-3" class="reference"><a href="#cite_note-dana-hoi-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span id="Munch.C5.AB_or_lineages"></span><span class="mw-headline" id="Munchū_or_lineages"><i>Munchū</i> or lineages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okinawan_name&amp;action=edit&amp;section=9" title="Edit section: Munchū or lineages">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The development of Okinawan naming conventions was closely related with that of <i>munchū</i> (monchū/<i>munchū</i>, 門中), or patrilineages. In 1689 <i>Keizu-za</i> or the Board of Genealogies (系図座) was established and all the Pechin lineages were ordered to compile genealogical records. In 1690 the royal court assigned one-character <i>shii</i> or Chinese surnames to all registered lineages. Since commoners were forbidden to compile genealogical records, this effectively separated the Pechin class from commoners. Genealogical records became a status symbol of the Pechin class. The Pechin class came to be referred to as <i>keimochi</i> (系持), lit. possessing genealogy, while commoners were called <i>mukei</i> (無系), lit. without genealogy.<sup id="cite_ref-dana-kafu_7-0" class="reference"><a href="#cite_note-dana-kafu-7">&#91;7&#93;</a></sup>
+</p><p>Among the Pechin class, lineages were identified by the combination of the Chinese-style <i>shii</i> and the Japanese-style <i>nanui-gashira</i>. A lineage with the <i>shii</i> Mō (毛) shared the <i>nanui-gashira</i> Sei (盛), but this <i>nanui-gashira</i> was also used by a lineage named Ō (翁). Also, there was another lineage whose <i>shii</i> was Mō, but its <i>nanui-gashira</i> was An (安). <i>Kamei</i> cannot be a designator of lineages. The Mō lineage with the <i>nanui-gashira</i> Sei had was headed by the family with the <i>kamei</i>  Tomigusuku (豊見城), but its branch families had various <i>kamei</i> including Kunigami (国頭) and Tomikawa (富川).<sup id="cite_ref-sakamaki-name_8-0" class="reference"><a href="#cite_note-sakamaki-name-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Royal_house">Royal house</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okinawan_name&amp;action=edit&amp;section=10" title="Edit section: Royal house">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The title <i>Ō</i> (王) or king was of foreign origin. In Okinawan, the king styled himself <i>anji-osoi-jyanashi</i> or later <i>Shui-tin-jyanashi</i> (首里天加那志). The king was referred to as <i>ushu-jyanashi-me</i> by his people and as <i>myuumee-jyanashi</i> or <i>nuumee-jyanshi</i> by his family members.<sup id="cite_ref-kanjun-name_4-10" class="reference"><a href="#cite_note-kanjun-name-4">&#91;4&#93;</a></sup>
+</p><p>Close relatives of the king were given the ranks of <i>wōji</i> (王子) and <i>anji</i> (按司). Although <i>wōji</i> literally means the king's son, its conferrers were not limited to the king's son. A <i>wōji</i> or <i>anji</i> was referred to by his domain plus the suffix <i>udun</i> (御殿). The crown prince was traditionally given the domain Nakagusuku (中城) and therefore referred to as Nakagusuku-udun (中城御殿).<sup id="cite_ref-kanjun-name_4-11" class="reference"><a href="#cite_note-kanjun-name-4">&#91;4&#93;</a></sup>
+</p><p>Many early kings, up to <a href="/wiki/Sh%C5%8D_H%C5%8D" title="Shō Hō">Shō Hō</a>, had divine names (神号) in addition to <i>warabi-naa</i>. For example, <a href="/wiki/Sh%C5%8D_Gen" title="Shō Gen">Shō Gen</a>'s divine name was <i>tida-hajimi-aji-sui</i> (日始按司添). It seems that divine names were assumed after accession to the throne.<sup id="cite_ref-dana-hoi_3-4" class="reference"><a href="#cite_note-dana-hoi-3">&#91;3&#93;</a></sup><sup id="cite_ref-kanjun-name_4-12" class="reference"><a href="#cite_note-kanjun-name-4">&#91;4&#93;</a></sup>
+</p><p>The king had a <i>kara-naa</i> and used it in diplomatic correspondence with China. The royal <i>shii</i> Shō (尚) was, according to Ryukyuan records, given to <a href="/wiki/Sh%C5%8D_Hashi" title="Shō Hashi">Shō Hashi</a> by the <a href="/wiki/Xuande_Emperor" title="Xuande Emperor">Xuande Emperor</a> of Ming China. This statement is highly questionable because no such record is found in Chinese documents and Shō Hashi used the <i>shii</i> even earlier.<sup id="cite_ref-kanjun-uji_5-1" class="reference"><a href="#cite_note-kanjun-uji-5">&#91;5&#93;</a></sup> In 1692, the branch families of the royal house were given the <i>shii</i> Shō (向, note the different kanji) and the <i>nanui-gashira</i> Chō (朝) no matter how distant from the king.<sup id="cite_ref-dana-hoi_3-5" class="reference"><a href="#cite_note-dana-hoi-3">&#91;3&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Kumemura">Kumemura</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okinawan_name&amp;action=edit&amp;section=11" title="Edit section: Kumemura">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A district near the capital named <a href="/wiki/Kumemura" title="Kumemura">Kumemura</a> is said to have been founded by immigrants from Fujian, China. Its raison d'être was to manage diplomatic contacts with China although some were later engaged in domestic affairs. The members of the community had <i>kara-naa</i> or Chinese names from the very beginning. It is known that they also had <i>warabi-naa</i> as early as the first half of the 15th century.<sup id="cite_ref-dana-hoi_3-6" class="reference"><a href="#cite_note-dana-hoi-3">&#91;3&#93;</a></sup>
+</p><p>Today historical figures from Kumemura are often known by <i>kara-naa</i>, e.g. <a href="/wiki/Sai_On" title="Sai On">Sai On</a>. He appeared in domestic documents as Gushichan Uwekata after his <i>kamei</i> Gushichan (具志頭) and his rank Uwekata (親方). He had a <i>nanui</i> Bunjaku (文若), and therefore is sometimes known as Gushichan Bunjaku.
+</p>
+<h3><span class="mw-headline" id="Modernization">Modernization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okinawan_name&amp;action=edit&amp;section=12" title="Edit section: Modernization">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Ryūkyū Kingdom was forced to become a Japanese <a href="/wiki/Ryukyu_Domain" title="Ryukyu Domain">feudal domain</a> by the <a href="/wiki/Meiji_period" class="mw-redirect" title="Meiji period">Meiji</a> government in 1872, and it was formally annexed by Japan in 1879. Ryūkyūans were then entered into the Japanese <a href="/wiki/Family_register" title="Family register">family register</a> (<i><a href="/wiki/Koseki" title="Koseki">koseki</a></i>) system and, as in Japan, surnames were extended to all citizens, no longer being the province of the aristocratic classes alone. A large number of the names created at this time were taken from geographical names or places of residence. Direct descendants of <a href="/wiki/Tamagusuku_Ch%C5%8Dkun" title="Tamagusuku Chōkun">Tamagusuku Chōkun</a>, who by the time assumed the <i>kamei</i> Hentona (辺土名), adopted Hentona as their new surname.<sup id="cite_ref-dana-tamagusuku_9-0" class="reference"><a href="#cite_note-dana-tamagusuku-9">&#91;9&#93;</a></sup>
+</p><p>While the nobles had assumed new names when they reached adulthood, the new system forced them to adopt lifetime personal names soon after birth. At first, Japanese given names were often given when they entered school. For this reason, given names were informally called "school names" (学校名). <i>Warabi-naa</i> continued to be used unofficially until the early <a href="/wiki/Sh%C5%8Dwa_period" class="mw-redirect" title="Shōwa period">Shōwa period</a>.<sup id="cite_ref-ueno2002_1-4" class="reference"><a href="#cite_note-ueno2002-1">&#91;1&#93;</a></sup>
+</p><p>With increasing contacts with Japan, many Okinawans felt it inconvenient to use their alien-looking surnames. Since the law made it extremely difficult to change surnames, they often changed the <i>reading</i> of surnames while leaving their written forms unmodified. For example, Naagusuku (宮城) was usually changed to Miyagi (宮城). It is reported that, during the American military occupation after World War II, many managed to change their surname relatively easily. The family registers were completely destroyed by American attacks and reconstructed on individual declarations.<sup id="cite_ref-higa-surname_6-1" class="reference"><a href="#cite_note-higa-surname-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okinawan_name&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Amami_name" title="Amami name">Amami name</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese name</a></li>
+<li><a href="/wiki/Okinawa_Prefecture" title="Okinawa Prefecture">Okinawa Prefecture</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okinawan_name&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-ueno2002-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-ueno2002_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ueno2002_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ueno2002_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ueno2002_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-ueno2002_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text">Ueno Kazuo 上野和男, <i>Okinawa no namae to shakai</i> 沖縄の名前と社会, <i>Ryūkyū Ajia no minzoku to rekishi</i> 琉球・アジアの民俗と歴史, pp. 41–60, 2002.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Morioka Hiroshi 森岡浩, <i>Zenkoku Myōji Jiten</i> 全国名字辞典, p.333,</span>
+</li>
+<li id="cite_note-dana-hoi-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-dana-hoi_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dana-hoi_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-dana-hoi_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-dana-hoi_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-dana-hoi_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-dana-hoi_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-dana-hoi_3-6"><sup><i><b>g</b></i></sup></a></span> <span class="reference-text">Dana Masayuki 田名真之, <i>Ryūkyū jinmei kō hoi</i> 琉球人名考補遺, Okinawa kinsei shi no shosō 沖縄近世史の諸相, pp. 213–232, 1992.</span>
+</li>
+<li id="cite_note-kanjun-name-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-kanjun-name_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-kanjun-name_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-kanjun-name_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-kanjun-name_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-kanjun-name_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-kanjun-name_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-kanjun-name_4-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-kanjun-name_4-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-kanjun-name_4-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-kanjun-name_4-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-kanjun-name_4-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-kanjun-name_4-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-kanjun-name_4-12"><sup><i><b>m</b></i></sup></a></span> <span class="reference-text">Higashionna Kanjun 東恩納寛惇, <i>Ryūkyū jinmei kō</i> 琉球人名考, <i>Higashionna Kanjun zenshū</i> 6 東恩納寛惇全集 6, pp.357–478, 1979.</span>
+</li>
+<li id="cite_note-kanjun-uji-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-kanjun-uji_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-kanjun-uji_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Higashionna Kanjun 東恩納寛惇, <i>Shisei kō</i> 氏姓考, <i>Higashionna Kanjun zenshū</i> 6 東恩納寛惇全集 6, pp.574–589, 1979.</span>
+</li>
+<li id="cite_note-higa-surname-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-higa-surname_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-higa-surname_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Shuncho Higa, <i>On Okinawan Surnames</i>, Shunzo Sakamaki ed., Ryukyuan Names, pp. 31–50, 1964.</span>
+</li>
+<li id="cite_note-dana-kafu-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-dana-kafu_7-0">^</a></b></span> <span class="reference-text">Dana Masayuki 田名真之, <i>Ryūkyū kafu no seiritsu to sono igi</i> 琉球家譜の成立とその意義, Okinawa kinsei shi no shosō 沖縄近世史の諸相, pp. 95–131, 1992.</span>
+</li>
+<li id="cite_note-sakamaki-name-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-sakamaki-name_8-0">^</a></b></span> <span class="reference-text">Shunzo Sakamaki, <i>On Early Ryukyuan Names</i>, Shunzo Sakamaki ed., Ryukyuan Names, pp. 11–30, 1964.</span>
+</li>
+<li id="cite_note-dana-tamagusuku-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-dana-tamagusuku_9-0">^</a></b></span> <span class="reference-text">Dana Masayuki 田名真之, <i>Tamagusuku Chōkun bo (Hentona ke bo) no hitobito</i> 玉城朝薫墓 (辺土名家墓) の人々, Okinawa kinsei shi no shosō 沖縄近世史の諸相, pp. 233–256, 1992.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Okinawan_name&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://archive.fo/8Wdd">Okinawan family names</a>, Center for Information Infrastructure, <a href="/wiki/Shizuoka_University" title="Shizuoka University">Shizuoka University</a> <span class="languageicon">(in Japanese)</span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
+<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Surname</a>
+<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
+<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
+<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
+<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
+<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
+<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
+<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
+<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
+<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
+<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
+<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
+<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
+<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
+<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
+<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
+<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
+<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
+<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
+<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
+<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
+<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
+<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
+<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
+<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
+<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
+<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
+<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
+<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
+<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
+<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
+<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
+<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
+<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
+<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
+<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
+<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
+<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
+<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
+<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
+<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
+<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
+<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
+<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
+<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
+<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
+<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
+<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
+<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
+<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
+<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
+<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
+<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
+<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
+<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
+<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
+<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
+<li><a href="/wiki/English_name" title="English name">English</a></li>
+<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
+<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
+<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
+<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
+<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
+<li><a href="/wiki/French_name" title="French name">French</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
+<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
+<li><a href="/wiki/German_name" title="German name">German</a></li>
+<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
+<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
+<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
+<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
+<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
+<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
+<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
+<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
+<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
+<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
+<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
+<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
+<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
+<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
+<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
+<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
+<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
+<li><small><a class="mw-selflink selflink">Okinawan</a></small></li></ul></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
+<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
+<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
+<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
+<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
+<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
+<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
+<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
+<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
+<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
+<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
+<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
+<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
+<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
+<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
+<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
+<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
+<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
+<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
+<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
+<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
+<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
+<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
+<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
+<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
+<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
+<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
+<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
+<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
+<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
+<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
+<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
+<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
+<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
+<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
+<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
+<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
+<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
+<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
+<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
+<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
+<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
+<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
+<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
+<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
+<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
+<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
+<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
+<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
+<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award_or_decoration" title="Award or decoration">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
+<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
+<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
+<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
+<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
+<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
+<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
+<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
+<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
+<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
+<li><a href="/wiki/Name_day" title="Name day">Name day</a>
+<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
+<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
+<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
+<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
+<li><a href="/wiki/Family" title="Family">Family</a></li>
+<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
+<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
+<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
+<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
+<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
+<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
+<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
+<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
+<li><a href="/wiki/Signature" title="Signature">Signature</a>
+<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
+<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
+<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
+<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1295
+Cached time: 20190918134113
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.364 seconds
+Real time usage: 0.441 seconds
+Preprocessor visited node count: 839/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 41534/2097152 bytes
+Template argument size: 695/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11269/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.184/10.000 seconds
+Lua memory usage: 11.03 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  319.326      1 -total
+ 64.02%  204.445     14 Template:Lang
+ 10.21%   32.592      1 Template:Nihongo
+  8.12%   25.929      1 Template:Names_in_world_cultures
+  7.38%   23.561      2 Template:Category_handler
+  6.99%   22.320      2 Template:Navbox
+  6.55%   20.930      1 Template:Reflist
+  4.87%   15.537      1 Template:Ja
+  3.41%   10.886      1 Template:Link_language
+  1.96%    6.249      2 Template:Yesno
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:15515838-0!canonical and timestamp 20190918134113 and revision id 897609542
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Okinawan_name&amp;oldid=897609542">https://en.wikipedia.org/w/index.php?title=Okinawan_name&amp;oldid=897609542</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Names_by_culture" title="Category:Names by culture">Names by culture</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_containing_Japanese-language_text" title="Category:Articles containing Japanese-language text">Articles containing Japanese-language text</a></li><li><a href="/wiki/Category:Articles_with_Japanese-language_external_links" title="Category:Articles with Japanese-language external links">Articles with Japanese-language external links</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Okinawan+name" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Okinawan+name" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Okinawan_name" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Okinawan_name" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Okinawan_name">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Okinawan_name&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Okinawan_name&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Okinawan_name" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Okinawan_name" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Okinawan_name&amp;oldid=897609542" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Okinawan_name&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q843123" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Okinawan_name&amp;id=897609542" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Okinawan+name">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Okinawan+name&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Okinawan_name&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%98%A4%ED%82%A4%EB%82%98%EC%99%80_%EC%9D%B4%EB%A6%84" title="오키나와 이름 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%B2%96%E7%B8%84%E7%9C%8C%E3%81%AE%E5%90%8D%E5%AD%97" title="沖縄県の名字 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BA%D0%B8%D0%BD%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D0%B8" title="Окинавские фамилии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%90%89%E7%90%83%E4%BA%BA%E5%90%8D" title="琉球人名 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q843123#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 18 May 2019, at 05:40<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Okinawan_name&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.364","walltime":"0.441","ppvisitednodes":{"value":839,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":41534,"limit":2097152},"templateargumentsize":{"value":695,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":11269,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  319.326      1 -total"," 64.02%  204.445     14 Template:Lang"," 10.21%   32.592      1 Template:Nihongo","  8.12%   25.929      1 Template:Names_in_world_cultures","  7.38%   23.561      2 Template:Category_handler","  6.99%   22.320      2 Template:Navbox","  6.55%   20.930      1 Template:Reflist","  4.87%   15.537      1 Template:Ja","  3.41%   10.886      1 Template:Link_language","  1.96%    6.249      2 Template:Yesno"]},"scribunto":{"limitreport-timeusage":{"value":"0.184","limit":"10.000"},"limitreport-memusage":{"value":11561875,"limit":52428800}},"cachereport":{"origin":"mw1295","timestamp":"20190918134113","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Okinawan name","url":"https:\/\/en.wikipedia.org\/wiki\/Okinawan_name","sameAs":"http:\/\/www.wikidata.org\/entity\/Q843123","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q843123","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-01-31T12:24:33Z","dateModified":"2019-05-18T05:40:40Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2f\/Okinawan_last_name_Hanko_Stamps_in_Tsurumi_Okinawa_Street.jpg","headline":"Wikimedia list article"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":127,"wgHostname":"mw1265"});});</script>
+</body>
+</html>
+

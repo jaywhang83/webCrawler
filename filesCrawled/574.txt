@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>William Wallen (architect) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"William_Wallen_(architect)","wgTitle":"William Wallen (architect)","wgCurRevisionId":788982656,"wgRevisionId":788982656,"wgArticleId":46384810,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["19th-century British architects","1807 births","1888 deaths"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"William_Wallen_(architect)","wgRelevantArticleId":46384810,"wgRequestId":"XY8SvwpAAEAAAEGWhTsAAABO",
+"wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q19975372","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":
+"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/a/af/St_John%27s_Church_-_Town_Street%2C_Farsley_-_geograph.org.uk_-_369097.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/William_Wallen_(architect)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=William_Wallen_(architect)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=William_Wallen_(architect)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/William_Wallen_(architect)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-William_Wallen_architect rootpage-William_Wallen_architect skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">William Wallen (architect)</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p><b>William Wallen</b> <a href="/wiki/Society_of_Antiquaries_of_London" title="Society of Antiquaries of London">FSA</a> (1807–1888) was an architect who practiced in <a href="/wiki/London" title="London">London</a> and <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, Yorkshire. He was also a campaigner for better architectural education and professional status. 
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:St_John%27s_Church_-_Town_Street,_Farsley_-_geograph.org.uk_-_369097.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/St_John%27s_Church_-_Town_Street%2C_Farsley_-_geograph.org.uk_-_369097.jpg/220px-St_John%27s_Church_-_Town_Street%2C_Farsley_-_geograph.org.uk_-_369097.jpg" decoding="async" width="220" height="244" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/St_John%27s_Church_-_Town_Street%2C_Farsley_-_geograph.org.uk_-_369097.jpg/330px-St_John%27s_Church_-_Town_Street%2C_Farsley_-_geograph.org.uk_-_369097.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/St_John%27s_Church_-_Town_Street%2C_Farsley_-_geograph.org.uk_-_369097.jpg/440px-St_John%27s_Church_-_Town_Street%2C_Farsley_-_geograph.org.uk_-_369097.jpg 2x" data-file-width="576" data-file-height="638" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:St_John%27s_Church_-_Town_Street,_Farsley_-_geograph.org.uk_-_369097.jpg" class="internal" title="Enlarge"></a></div>St John's Church, Farsley, designed by William Wallen, built in 1842.</div></div></div>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Architectural_career"><span class="tocnumber">2</span> <span class="toctext">Architectural career</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Art_and_publication"><span class="tocnumber">3</span> <span class="toctext">Art and publication</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Contributions_to_the_architectural_profession"><span class="tocnumber">4</span> <span class="toctext">Contributions to the architectural profession</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Wallen_(architect)&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>William Wallen, the son of <a href="/wiki/John_Wallen" title="John Wallen">John Wallen</a> (1785-1865) and Maria Adams (1780-1825) was baptised at St. Marys, Stepney in 1807.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>  William received architectural training from his father. In 1830, William married Frances Gill (1802-1895) <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> and the following year, their son, William Sowerby Wallen, was baptised at Whitechapel, London.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> They lived with John Wallen’s extended family in various homes in and around <a href="/wiki/Norton_Folgate" title="Norton Folgate">Norton Folgate</a>, London. In 1838, William moved his practice to Huddersfield, Yorkshire. Frances had been born in nearby Notton,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> therefore, family connections may have influenced this move. By 1851, William, Frances, their son, William Sowerby and niece, Julia Gill, were living at 61 New North Rd, Huddersfield.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>During 1853, William ceased to practice and it was later assumed by most historians that he had died.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Statements made by civic leaders at this point in time indicate that William was highly regarded in both Huddersfield and within architectural circles; therefore, it is probable that his fate was not openly discussed.  In reality, William was admitted to the <a href="/wiki/Bootham_Park_Hospital" title="Bootham Park Hospital">Bootham Lunatic Hospital</a> in September 1853 and remained a patient there until his death in 1888, aged 81 years.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> The exact nature of William’s condition is not recorded; however, he apparently retained his research and communication skills. In 1871, taking part in Bootham’s regular ‘programme of entertainments’ he delivered a lecture to his fellow inmates entitled, <i>An Analysis of the Franco-Prussian War</i>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>Frances supported herself as a schoolteacher; she died, aged 93, in Leeds.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>  William Sowerby Wallen (1831-1870), became a Surgeon, practicing in <a href="/wiki/Rotherhithe" title="Rotherhithe">Rotherhithe</a> and also serving as Vice Surgeon to the 23rd Surrey Rifle Volunteer Corps.  He died in Natal, South Africa.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Architectural_career">Architectural career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Wallen_(architect)&amp;action=edit&amp;section=2" title="Edit section: Architectural career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>William Wallen received comprehensive tutelage in the office of his father, John Wallen, who was an Architect and the Principal Surveyor in London in the 1830s.  William probably completed his training in 1828; however, there is no evidence that he undertook any independent projects during the following ten years.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>  By 1831, John Wallen, William Wallen and William Beatson had formed a partnership that remained intact until 1836, when the firm ‘Wallen, Son and Beatson’ provided a substantial estimate for repairs to the fire damaged Christ Church in <a href="/wiki/Spitalfields" title="Spitalfields">Spitalfields</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>  On 24 March 1836, by mutual consent, Beatson withdrew from the partnership.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> During the partnership, William appears to have gained some autonomy allowing him to also pursue his antiquarian and educational interests. In 1838, he appeared in Huddersfield, Yorkshire, becoming the town’s only qualified architect.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>  William’s career flourished. His many projects included the building of six new churches: 
+</p>
+<ul><li>1838–40, St David, Holmbridge, near Huddersfield</li>
+<li>1842-3 St John the Evangelist Church, Farsley, Bradford</li>
+<li>1843-5 St Luke's Church, Milnsbridge, Huddersfield,</li>
+<li>1844–6 Christ Church, Oakworth, Keighley,</li>
+<li>1845-7 St Nicholas, Whitehaven, Cumbria (Cumberland).</li>
+<li>1845-8 St Paul's Church, Shepley, Huddersfield.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup></li></ul>
+<p>Other Projects:
+</p>
+<ul><li>1840 Report for Clarke-Thornhill family re. condition of roofs at Fixby Hall</li>
+<li>1843 National School and Master's House, Kirkheaton.</li>
+<li>1846 Riding School, Huddersfield.</li>
+<li>1848 Longley Hall Estate Office.</li>
+<li>1849 George Hotel, Huddersfield. (William Wallen and Charles Child)</li>
+<li>1851 Castle Hill Hotel.</li>
+<li>1852 Restoration of Holme Bridge Church.</li>
+<li>1853 Lecture Room, Aspley.  This was Wallen's last project. He did not see its completion in 1854.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup></li></ul>
+<p>The Italianate façade of the George Hotel became Huddersfield’s adopted architectural style as the town developed over following decade.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> Charles Child’s role in the George Hotel project is disputed, being variously described as Wallen’s clerk, contractor or contributing architect. Child completed the Aspley Lecture Room.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Art_and_publication">Art and publication</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Wallen_(architect)&amp;action=edit&amp;section=3" title="Edit section: Art and publication">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Between 1828 and 1833 William Wallen exhibited artwork at the <a href="/wiki/Royal_Academy" class="mw-redirect" title="Royal Academy">Royal Academy</a>, London. Unlike other exhibiting architects, William described himself as a ‘painter’. His exhibits included several depictions medieval buildings,<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>  Dover Castle <sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> and four views being part of a series depicting the demolition of old London Bridge.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>
+</p><p>In 1836, William published <i>The History and Antiquities of the Round Church at <a href="/wiki/Little_Maplestead" title="Little Maplestead">Little Maplestead</a>, Essex</i>. His work was dedicated to Rev. <a href="/wiki/William_Sowerby" title="William Sowerby">William Sowerby</a>, Curate of St. Bridgets, Beckermet, Cumberland and was supported by 510 subscribers including several notable architects.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> A review, published in <a href="/wiki/John_Claudius_Loudon" title="John Claudius Loudon">J.C. Loudon</a>’s <i>Architectural Magazine</i>(1836), considered the work to have little value from an architectural point of view. Nevertheless, the reviewer declared that Wallen’s extensive topographical history and account of the Crusades were “both instructive and entertaining”.  Contemporary historians suggest that Wallen’s <i>Little Maplestead</i> has considerable antiquarian merit.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Contributions_to_the_architectural_profession">Contributions to the architectural profession</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Wallen_(architect)&amp;action=edit&amp;section=4" title="Edit section: Contributions to the architectural profession">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wallen had a close association with fellow architects, <a href="/wiki/Edward_Cresy" title="Edward Cresy">Edward Cresy</a> (1792–1858) and <a href="/wiki/George_Ledwell_Taylor" title="George Ledwell Taylor">George Ledwell Taylor</a> (1888–1873). They would have shared an interest in professional groups such as the Architectural Society that were developing in the 1830s. In 1834, Cresy and Taylor were founding members of the Institute of British Architects (IBA) which later became the <a href="/wiki/RIBA" class="mw-redirect" title="RIBA">RIBA</a>. With Cresy and Taylor as referees, Wallen became a fellow of the Society of Antiquaries, in 1835.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>   These fledgling institutes were fertile ground for the ‘<a href="/wiki/Battle_of_the_Styles" title="Battle of the Styles">Battle of the Styles</a>’ of the Victorian era, when Gothic and Classical architectural styles were selectively celebrated or reviled. Cresy resigned from the IBA soon after its inception, lamenting the opprobrium that was pervading his profession: “I laid the foundations with my friend Wallen for a society of men who would act in concert”.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>  Wallen concurred with Cresy’s sentiments in his lecture <i>On Prejudice as to Style in Architecture</i>, delivered to the Architectural Society in January 1838.  Wallen mocked the prejudice and animosity pervading the architectural profession, encapsulating this absurdity in the following line: “the rose is a beautiful flower, but as a lily is not LIKE a rose, it is not beautiful”.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>  This factionalism may have motivated Wallen to move to Huddersfield. Undaunted, he established the Yorkshire Architectural Society and remained an active member during the 1840s.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=William_Wallen_(architect)&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">St Marys Register 26 Apr 1807</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">England, Marriages, 1538–1973. Available, FamilySearch, 2013,  Film Number: 1470803 Reference ID: p.192 cn.575</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">London Metropolitan Archives, Whitechapel St Mary, Register of Baptism, p93/mry1, Item 075</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Royston parish record: 1802, Gill and Atkinson.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">1851 census</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Jones G. 2015, ‘William Wallen (1807- ) The Renowned Architect Rediscovered’, Brisbane: Ancestry, 1-2.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Yorkshire Archive - Bootham Yorkshire York   BOO/39/82</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Wilkins  E.T. 1871, <i>Insanity and Insane Asylums,Report by Wilkins, Commissioner for Lunacy in the State of California, made to his Excellency H.H.Haight, Governor</i>. California: Springer,296.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Record, West Riding Volume: 9b Page: 290.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">The Medical Register -UK 1859, p. 310; London Gazettes 1861 and 1865.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Webster, C. (2010). "An alternative to Ecclesiology: William Wallen (1807–53)". In G. Brandwood. Seven Church Architects 1830-1930, Ecclesiology To-day. London: Ecclesiological Society.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Sheppard F.H.W.(ed.), Survey of London, Spitalfields (London, 1957), vol. XXVII,</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><i>The London Gazette-part one</i>, 1836, p.571.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Law, Edward (2009). "Architects of Huddersfield &amp; District to 1860". Huddersfield &amp; District History. Retrieved 26 March 2015.</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Webster C.(2010)</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Law E.(2009)</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Wyles D. in  Haigh H.E.A. (ed.) 1992, Huddersfield: A Most Handsome Town – Aspects of the History and Culture of a West Yorkshire Town. Huddersfield: Kirklees MC.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Gibson K. &amp; Booth A. 2009, The Buildings of Huddersfield, Gloustershire: History Press</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Webster C.(2010)</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Graves, A. 1906, The Royal Academy of Arts; A Complete Dictionary 1769 to 1904 , Vol VIII, London: Graves &amp; Bell.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Academy of Arts 1832, The Exhibition of the Royal Academy, London: W Clowes</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Wallen, W. 1836, <i>The History and Antiquities of the Round Church at Little Maplestead, Essex,</i> London: Maurice Clarke &amp; Co. <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1104343010" title="Special:BookSources/1104343010">1104343010</a>. Also available, <a rel="nofollow" class="external free" href="https://archive.org/details/historyantiquiti00wall">https://archive.org/details/historyantiquiti00wall</a></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text">Webster C.(2010)</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Webster C.(2010)</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Burfield D 2003,  Edward Cresy (1792-1858), Architect and Civil Engineer, London: Shaun Tyas <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1900289652" title="Special:BookSources/1900289652">1900289652</a></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Wallen W. 1838 Lecture ‘On Prejudice as to Style in Architecture’.  <i>Civil Engineer and Architect's Journal</i>, Vol 1, 156.</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Webster C.(2010)</span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20190915054718
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.156 seconds
+Real time usage: 0.191 seconds
+Preprocessor visited node count: 745/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 3044/2097152 bytes
+Template argument size: 953/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 12382/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.012/10.000 seconds
+Lua memory usage: 827 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  146.298      1 Template:Reflist
+100.00%  146.298      1 -total
+ 79.60%  116.457      2 Template:ISBN
+ 58.53%   85.634      2 Template:Catalog_lookup_link
+  8.09%   11.831      2 Template:Error-small
+  6.52%    9.543      2 Template:Small
+  4.78%    6.998      6 Template:Yesno-no
+  2.82%    4.130      6 Template:Yesno
+  2.08%    3.037      3 Template:Main_other
+  1.98%    2.900      1 Template:Column-width
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:46384810-0!canonical and timestamp 20190915054718 and revision id 788982656
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=William_Wallen_(architect)&amp;oldid=788982656">https://en.wikipedia.org/w/index.php?title=William_Wallen_(architect)&amp;oldid=788982656</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:19th-century_British_architects" title="Category:19th-century British architects">19th-century British architects</a></li><li><a href="/wiki/Category:1807_births" title="Category:1807 births">1807 births</a></li><li><a href="/wiki/Category:1888_deaths" title="Category:1888 deaths">1888 deaths</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=William+Wallen+%28architect%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=William+Wallen+%28architect%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/William_Wallen_(architect)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:William_Wallen_(architect)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/William_Wallen_(architect)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=William_Wallen_(architect)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=William_Wallen_(architect)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/William_Wallen_(architect)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/William_Wallen_(architect)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=William_Wallen_(architect)&amp;oldid=788982656" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=William_Wallen_(architect)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q19975372" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=William_Wallen_%28architect%29&amp;id=788982656" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=William+Wallen+%28architect%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=William+Wallen+%28architect%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=William_Wallen_(architect)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q19975372#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 4 July 2017, at 16:39<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=William_Wallen_(architect)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.156","walltime":"0.191","ppvisitednodes":{"value":745,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":3044,"limit":2097152},"templateargumentsize":{"value":953,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12382,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  146.298      1 Template:Reflist","100.00%  146.298      1 -total"," 79.60%  116.457      2 Template:ISBN"," 58.53%   85.634      2 Template:Catalog_lookup_link","  8.09%   11.831      2 Template:Error-small","  6.52%    9.543      2 Template:Small","  4.78%    6.998      6 Template:Yesno-no","  2.82%    4.130      6 Template:Yesno","  2.08%    3.037      3 Template:Main_other","  1.98%    2.900      1 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.012","limit":"10.000"},"limitreport-memusage":{"value":846551,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20190915054718","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"William Wallen (architect)","url":"https:\/\/en.wikipedia.org\/wiki\/William_Wallen_(architect)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q19975372","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q19975372","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-04-12T00:19:02Z","dateModified":"2017-07-04T16:39:17Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/af\/St_John%27s_Church_-_Town_Street%2C_Farsley_-_geograph.org.uk_-_369097.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":165,"wgHostname":"mw1269"});});</script>
+</body>
+</html>
+

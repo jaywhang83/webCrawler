@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Mirella Lapata - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Mirella_Lapata","wgTitle":"Mirella Lapata","wgCurRevisionId":903723469,"wgRevisionId":903723469,"wgArticleId":59557873,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles with hCards","All articles with vague or ambiguous time","Vague or ambiguous time from March 2019","Wikipedia articles with DBLP identifiers","Wikipedia articles with ORCID identifiers","Year of birth missing (living people)","Academics of the University of Edinburgh","Scottish women scientists","British computer scientists","Women computer scientists","Living people","Alumni of the University of Edinburgh","Carnegie Mellon University alumni"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mirella_Lapata","wgRelevantArticleId":59557873,"wgRequestId":"XY@IawpAMFQAALvg@yMAAAAS","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia",
+"wgWikibaseItemId":"Q39159972","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mirella_Lapata"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Mirella_Lapata&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Mirella_Lapata&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Mirella_Lapata"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Mirella_Lapata rootpage-Mirella_Lapata skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Mirella Lapata</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Computer scientist</div>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Mirella Lapata</div><br /><div class="honorific-suffix" style="font-size: 77%; font-weight: normal; display:inline;"><a href="/wiki/FRSE" class="mw-redirect" title="FRSE">FRSE</a></div></th></tr><tr><th scope="row">Alma&#160;mater</th><td><div class="plainlist">
+<ul><li><a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a> (MA)</li>
+<li><a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a> (PhD)</li></ul>
+</div></td></tr><tr><th scope="row">Awards</th><td><a href="/wiki/Karen_Sp%C3%A4rck_Jones_Award" class="mw-redirect" title="Karen Spärck Jones Award">Karen Spärck Jones Award</a> (2009)</td></tr><tr><td colspan="2" style="text-align:center"><b>Scientific career</b></td></tr><tr><th scope="row">Fields</th><td class="category"><div class="plainlist">
+<ul><li><a href="/wiki/Natural_Language_Processing" class="mw-redirect" title="Natural Language Processing">Natural Language Processing</a></li>
+<li><a href="/wiki/Cognitive_model" title="Cognitive model">Cognitive models</a></li>
+<li><a href="/wiki/Probabilistic_model" class="mw-redirect" title="Probabilistic model">Probabilistic models</a></li>
+<li><a href="/wiki/Semantic_space" title="Semantic space">Semantic space</a><sup id="cite_ref-gs_1-0" class="reference"><a href="#cite_note-gs-1">&#91;1&#93;</a></sup></li></ul>
+</div></td></tr><tr><th scope="row">Institutions</th><td><a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a><br /><a href="/wiki/University_of_Sheffield" title="University of Sheffield">University of Sheffield</a></td></tr><tr><th scope="row"><a href="/wiki/Thesis" title="Thesis">Thesis</a></th><td><a rel="nofollow" class="external text" href="https://www.era.lib.ed.ac.uk/handle/1842/22394"><i>Acquisition and modeling of lexical knowledge: a corpus-based investigation of systematic polysemy</i></a>&#160;<span style="font-size:97%;">(2000)</span></td></tr><tr><th scope="row"><a href="/wiki/Doctoral_advisor" title="Doctoral advisor">Doctoral advisors</a></th><td><div class="plainlist">
+<ul><li><a href="https://www.wikidata.org/wiki/Q62022331" class="extiw" title="d:Q62022331">Alex Lascarides</a><sup id="cite_ref-mphd_2-0" class="reference"><a href="#cite_note-mphd-2">&#91;2&#93;</a></sup></li>
+<li>Chris Brew<sup id="cite_ref-mphd_2-1" class="reference"><a href="#cite_note-mphd-2">&#91;2&#93;</a></sup></li>
+<li>Steve Finch<sup id="cite_ref-mphd_2-2" class="reference"><a href="#cite_note-mphd-2">&#91;2&#93;</a></sup></li></ul>
+</div></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="http://homepages.inf.ed.ac.uk/mlap">homepages<wbr />.inf<wbr />.ed<wbr />.ac<wbr />.uk<wbr />/mlap</a></span></td></tr></tbody></table>
+<p><b>Mirella Lapata</b> <a href="/wiki/Fellow_of_the_Royal_Society_of_Edinburgh" class="mw-redirect" title="Fellow of the Royal Society of Edinburgh">FRSE</a> is a computer scientist and Professor in the <a href="/wiki/University_of_Edinburgh_School_of_Informatics" title="University of Edinburgh School of Informatics">School of Informatics</a> at the <a href="/wiki/University_of_Edinburgh" title="University of Edinburgh">University of Edinburgh</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Working on the general problem of extracting semantic information from large bodies of text, Lapata develops computer algorithms and models in the field of <a href="/wiki/Natural_language_processing" title="Natural language processing">natural language processing</a> (NLP).<sup id="cite_ref-gs_1-1" class="reference"><a href="#cite_note-gs-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Education"><span class="tocnumber">1</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Career_and_research"><span class="tocnumber">2</span> <span class="toctext">Career and research</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Awards_and_honors"><span class="tocnumber">2.1</span> <span class="toctext">Awards and honors</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mirella_Lapata&amp;action=edit&amp;section=1" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lapata obtained an <a href="/wiki/Master_of_Arts" title="Master of Arts">Master of Arts</a> (MA) degree from <a href="/wiki/Carnegie_Mellon_University" title="Carnegie Mellon University">Carnegie Mellon University</a> and subsequently earned a doctorate from the University of Edinburgh.<sup id="cite_ref-:0_4-0" class="reference"><a href="#cite_note-:0-4">&#91;4&#93;</a></sup> Lapata's doctoral research investigated the acquisition of information from <a href="/wiki/Polysemous" class="mw-redirect" title="Polysemous">polysemous</a> linguistic units using <a href="/wiki/Probabilistic_method" title="Probabilistic method">probabilistic methods</a> supervised by <a href="/w/index.php?title=Alex_Lascarides&amp;action=edit&amp;redlink=1" class="new" title="Alex Lascarides (page does not exist)">Alex Lascarides</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;&#91;<a href="https://www.wikidata.org/wiki/Q62022331#sitelinks-wikipedia" class="extiw" title="d:Q62022331"><span title="&quot;Alex Lascarides&quot; in other languages">Wikidata</span></a>&#93;</span>, Chris Brew and Steve Finch.<sup id="cite_ref-mphd_2-3" class="reference"><a href="#cite_note-mphd-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Career_and_research">Career and research</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mirella_Lapata&amp;action=edit&amp;section=2" title="Edit section: Career and research">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>After her doctorate, Lapata assumed academic positions at <a href="/wiki/Saarland_University" title="Saarland University">Saarland University</a> and at the Department of Computer Science at the <a href="/wiki/University_of_Sheffield" title="University of Sheffield">University of Sheffield</a>.<sup id="cite_ref-:0_4-1" class="reference"><a href="#cite_note-:0-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> At the University of Edinburgh she became a <a href="/wiki/Reader_(academic_rank)" title="Reader (academic rank)">reader</a> in the School of Informatics where she is a full Professor and holds a personal chair in natural language processing.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Lapata is a member of the Human Communication Research Center and Institute for Language, Cognition and Computation, both in Edinburgh.<sup id="cite_ref-MitchellLapata2010_7-0" class="reference"><a href="#cite_note-MitchellLapata2010-7">&#91;7&#93;</a></sup>
+</p><p>Between 2015 and 2017, Lapata served as a member of the <a href="/wiki/Royal_Society" title="Royal Society">Royal Society</a> Machine Learning Working Group.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> Recently<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (March 2019)">when?</span></a></i>&#93;</sup> Lapata was granted a <a href="/wiki/European_Research_Council" title="European Research Council">European Research Council</a> (ERC) Consolidator Grant worth €1.9M to fund five years of her project, TransModal: Translating from Multiple Modalities into Text.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Awards_and_honors">Awards and honors</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mirella_Lapata&amp;action=edit&amp;section=3" title="Edit section: Awards and honors">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>In 2009 Lapata became the first recipient of the <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> <a href="/wiki/British_Computer_Society" title="British Computer Society">British Computer Society</a> (BCS)/BCS IRSG Karen Spärck Jones Award.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> The award recognizes achievement in furthering the progress in <a href="/wiki/Information_retrieval" title="Information retrieval">information retrieval</a> and natural language processing; the award commemorates the life and work of <a href="/wiki/Karen_Sp%C3%A4rck_Jones" title="Karen Spärck Jones">Karen Spärck Jones</a>.</li>
+<li>In 2012 Lapata won an <a href="/wiki/Empirical_Methods_in_Natural_Language_Processing" title="Empirical Methods in Natural Language Processing">Empirical Methods in Natural Language Processing</a> (EMNLP)-CoNLL 2012 Best Reviewer Award.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></li>
+<li>In 2016 Lapata, with Eneko Agirre and Sebastian Riedel, won the EMNLP Best Data Set Paper Award.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></li>
+<li>In 2018 Lapata was awarded, alongside Li Dong, an <a href="/wiki/Association_for_Computational_Linguistics" title="Association for Computational Linguistics">Association for Computational Linguistics</a> (ACL) Best Paper Honorable Mention.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li>
+<li>In 2019 Lapata was elected a Fellow of the <a href="/wiki/Royal_Society_of_Edinburgh" title="Royal Society of Edinburgh">Royal Society of Edinburgh</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mirella_Lapata&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-gs-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-gs_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gs_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://scholar.google.com/citations?user=j67B9Q4AAAAJ">Mirella Lapata</a> publications indexed by <a href="/wiki/Google_Scholar" title="Google Scholar">Google Scholar</a> <a href="https://www.wikidata.org/wiki/Q39159972#P1960" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span>
+</li>
+<li id="cite_note-mphd-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-mphd_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-mphd_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-mphd_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-mphd_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation thesis">Lapata, Maria (2000). <a rel="nofollow" class="external text" href="https://www.era.lib.ed.ac.uk/handle/1842/22394"><i>The acquisition and modelling of lexical knowledge&#160;: a corpus-based investigation of systematic polysemy</i></a>. <i>lib.ed.ac.uk</i> (PhD thesis). University of Edinburgh. <a href="/wiki/Handle_System" title="Handle System">hdl</a>:<a rel="nofollow" class="external text" href="//hdl.handle.net/1842%2F22394">1842/22394</a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/1063499316">1063499316</a>. <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/EThOS" class="mw-redirect" title="EThOS">EThOS</a>&#160;<a rel="nofollow" class="external text" href="http://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.653681">uk.bl.ethos.653681</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adissertation&amp;rft.title=The+acquisition+and+modelling+of+lexical+knowledge+%3A+a+corpus-based+investigation+of+systematic+polysemy&amp;rft.degree=PhD&amp;rft.inst=University+of+Edinburgh&amp;rft.date=2000&amp;rft_id=info%3Ahdl%2F1842%2F22394&amp;rft_id=info%3Aoclcnum%2F1063499316&amp;rft.aulast=Lapata&amp;rft.aufirst=Maria&amp;rft_id=https%3A%2F%2Fwww.era.lib.ed.ac.uk%2Fhandle%2F1842%2F22394&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMirella+Lapata" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> <span style="position:relative; top: -2px;"><a href="/wiki/Open_access#Gratis_and_libre" title="Free to read"><img alt="Free to read" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" decoding="async" width="9" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" data-file-width="512" data-file-height="813" /></a></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://edinburghnlp.inf.ed.ac.uk/index.php/people/">"people"</a>. <i>edinburghnlp.inf.ed.ac.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=edinburghnlp.inf.ed.ac.uk&amp;rft.atitle=people&amp;rft_id=http%3A%2F%2Fedinburghnlp.inf.ed.ac.uk%2Findex.php%2Fpeople%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMirella+Lapata" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:0-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://stadium.open.ac.uk/stadia/aboutspeaker.php?s=31&amp;theSpeakerid=721">"Stadium Speaker"</a>. <i>stadium.open.ac.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=stadium.open.ac.uk&amp;rft.atitle=Stadium+Speaker&amp;rft_id=http%3A%2F%2Fstadium.open.ac.uk%2Fstadia%2Faboutspeaker.php%3Fs%3D31%26theSpeakerid%3D721&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMirella+Lapata" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://irsg.bcs.org/ksjaward/topic_models.pdf">"Image and Natural Language Processing for Multimedia Information Retrieval"</a> <span class="cs1-format">(PDF)</span>. <i>irsg.bcs.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=irsg.bcs.org&amp;rft.atitle=Image+and+Natural+Language+Processing+for+Multimedia+Information+Retrieval&amp;rft_id=https%3A%2F%2Firsg.bcs.org%2Fksjaward%2Ftopic_models.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMirella+Lapata" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Anon. <a rel="nofollow" class="external text" href="https://www.inf.ed.ac.uk/people/staff/Maria_Lapata.html">"Mirella Lapata"</a>. <i>www.inf.ed.ac.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.inf.ed.ac.uk&amp;rft.atitle=Mirella+Lapata&amp;rft.au=Anon&amp;rft_id=https%3A%2F%2Fwww.inf.ed.ac.uk%2Fpeople%2Fstaff%2FMaria_Lapata.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMirella+Lapata" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-MitchellLapata2010-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-MitchellLapata2010_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mitchell, Jeff; Lapata, Mirella (2010). "Composition in Distributional Models of Semantics". <i>Cognitive Science</i>. <b>34</b> (8): 1388–1429. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1111%2Fj.1551-6709.2010.01106.x">10.1111/j.1551-6709.2010.01106.x</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0364-0213">0364-0213</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cognitive+Science&amp;rft.atitle=Composition+in+Distributional+Models+of+Semantics&amp;rft.volume=34&amp;rft.issue=8&amp;rft.pages=1388-1429&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1551-6709.2010.01106.x&amp;rft.issn=03640213&amp;rft.aulast=Mitchell&amp;rft.aufirst=Jeff&amp;rft.au=Lapata%2C+Mirella&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMirella+Lapata" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://royalsociety.org/people/mirella-lapata-12767/">"Mirella Lapata"</a>. <i>royalsociety.org</i>. <a href="/wiki/Royal_Society" title="Royal Society">Royal Society</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=royalsociety.org&amp;rft.atitle=Mirella+Lapata&amp;rft_id=https%3A%2F%2Froyalsociety.org%2Fpeople%2Fmirella-lapata-12767%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMirella+Lapata" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.ed.ac.uk/informatics/news-events/stories/2016/transmodal-success">"TransModal success"</a>. <i>The University of Edinburgh</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+University+of+Edinburgh&amp;rft.atitle=TransModal+success&amp;rft_id=https%3A%2F%2Fwww.ed.ac.uk%2Finformatics%2Fnews-events%2Fstories%2F2016%2Ftransmodal-success&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMirella+Lapata" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://irsg.bcs.org/ksjaward.php">"KSJ Award"</a>. <i>irsg.bcs.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=irsg.bcs.org&amp;rft.atitle=KSJ+Award&amp;rft_id=https%3A%2F%2Firsg.bcs.org%2Fksjaward.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMirella+Lapata" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://emnlp-conll2012.unige.ch/best-reviewers.html">"EMNLP-CoNLL 2012 - Best reviewers"</a>. <i>emnlp-conll2012.unige.ch</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=emnlp-conll2012.unige.ch&amp;rft.atitle=EMNLP-CoNLL+2012+-+Best+reviewers&amp;rft_id=http%3A%2F%2Femnlp-conll2012.unige.ch%2Fbest-reviewers.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMirella+Lapata" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.aclweb.org/mirror/emnlp2016/best-papers.html">"EMNLP 2016"</a>. <i>aclweb.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=aclweb.org&amp;rft.atitle=EMNLP+2016&amp;rft_id=https%3A%2F%2Fwww.aclweb.org%2Fmirror%2Femnlp2016%2Fbest-papers.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMirella+Lapata" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://acl2018.org/2018/07/26/hon-mention-papers/">"ACL 2018: Best Paper Honourable Mentions"</a>. <i>acl2018.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-01-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=acl2018.org&amp;rft.atitle=ACL+2018%3A+Best+Paper+Honourable+Mentions&amp;rft_id=https%3A%2F%2Facl2018.org%2F2018%2F07%2F26%2Fhon-mention-papers%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMirella+Lapata" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.rse.org.uk/fellows/">"Fellows"</a>. <i>The Royal Society of Edinburgh</i>. 2016-06-21<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-03-15</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Royal+Society+of+Edinburgh&amp;rft.atitle=Fellows&amp;rft.date=2016-06-21&amp;rft_id=https%3A%2F%2Fwww.rse.org.uk%2Ffellows%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMirella+Lapata" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q39159972&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q39159972&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q39159972" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/DBLP" title="DBLP">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dblp.org/pid/59/6701">59/6701</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/ORCID" title="ORCID">ORCID</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://orcid.org/0000-0002-2107-1516">0000-0002-2107-1516</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1321
+Cached time: 20190923225908
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.436 seconds
+Real time usage: 0.653 seconds
+Preprocessor visited node count: 2136/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37375/2097152 bytes
+Template argument size: 4331/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 41487/5000000 bytes
+Number of Wikibase entities loaded: 5/400
+Lua time usage: 0.220/10.000 seconds
+Lua memory usage: 6.78 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  626.247      1 -total
+ 56.39%  353.111      1 Template:Reflist
+ 27.53%  172.411      1 Template:Cite_thesis
+ 22.07%  138.191      1 Template:Infobox_scientist
+ 20.88%  130.750      1 Template:Infobox_person
+ 18.91%  118.423      2 Template:Infobox
+  8.89%   55.682     10 Template:Cite_web
+  8.35%   52.271      1 Template:When
+  7.89%   49.389      1 Template:Cite_journal
+  7.11%   44.532      1 Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:59557873-0!canonical and timestamp 20190923225907 and revision id 903723469
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mirella_Lapata&amp;oldid=903723469">https://en.wikipedia.org/w/index.php?title=Mirella_Lapata&amp;oldid=903723469</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Academics_of_the_University_of_Edinburgh" title="Category:Academics of the University of Edinburgh">Academics of the University of Edinburgh</a></li><li><a href="/wiki/Category:Scottish_women_scientists" title="Category:Scottish women scientists">Scottish women scientists</a></li><li><a href="/wiki/Category:British_computer_scientists" title="Category:British computer scientists">British computer scientists</a></li><li><a href="/wiki/Category:Women_computer_scientists" title="Category:Women computer scientists">Women computer scientists</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Alumni_of_the_University_of_Edinburgh" title="Category:Alumni of the University of Edinburgh">Alumni of the University of Edinburgh</a></li><li><a href="/wiki/Category:Carnegie_Mellon_University_alumni" title="Category:Carnegie Mellon University alumni">Carnegie Mellon University alumni</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_vague_or_ambiguous_time" title="Category:All articles with vague or ambiguous time">All articles with vague or ambiguous time</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_time_from_March_2019" title="Category:Vague or ambiguous time from March 2019">Vague or ambiguous time from March 2019</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ORCID_identifiers" title="Category:Wikipedia articles with ORCID identifiers">Wikipedia articles with ORCID identifiers</a></li><li><a href="/wiki/Category:Year_of_birth_missing_(living_people)" title="Category:Year of birth missing (living people)">Year of birth missing (living people)</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mirella+Lapata" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Mirella+Lapata" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Mirella_Lapata" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Mirella_Lapata" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Mirella_Lapata">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Mirella_Lapata&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Mirella_Lapata&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Mirella_Lapata" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Mirella_Lapata" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Mirella_Lapata&amp;oldid=903723469" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mirella_Lapata&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q39159972" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mirella_Lapata&amp;id=903723469" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mirella+Lapata">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mirella+Lapata&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Mirella_Lapata&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q39159972#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 June 2019, at 15:11<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Mirella_Lapata&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.436","walltime":"0.653","ppvisitednodes":{"value":2136,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":37375,"limit":2097152},"templateargumentsize":{"value":4331,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":41487,"limit":5000000},"entityaccesscount":{"value":5,"limit":400},"timingprofile":["100.00%  626.247      1 -total"," 56.39%  353.111      1 Template:Reflist"," 27.53%  172.411      1 Template:Cite_thesis"," 22.07%  138.191      1 Template:Infobox_scientist"," 20.88%  130.750      1 Template:Infobox_person"," 18.91%  118.423      2 Template:Infobox","  8.89%   55.682     10 Template:Cite_web","  8.35%   52.271      1 Template:When","  7.89%   49.389      1 Template:Cite_journal","  7.11%   44.532      1 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.220","limit":"10.000"},"limitreport-memusage":{"value":7112508,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20190923225908","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Mirella Lapata","url":"https:\/\/en.wikipedia.org\/wiki\/Mirella_Lapata","sameAs":"http:\/\/www.wikidata.org\/entity\/Q39159972","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q39159972","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2019-01-02T23:29:24Z","dateModified":"2019-06-27T15:11:03Z","headline":"computer scientist"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1249"});});</script>
+</body>
+</html>
+

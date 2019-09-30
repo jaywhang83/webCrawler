@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Bill Thompson (technology writer) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Bill_Thompson_(technology_writer)","wgTitle":"Bill Thompson (technology writer)","wgCurRevisionId":915601453,"wgRevisionId":915601453,"wgArticleId":3463694,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with hAudio microformats","Articles with hCards","Commons category link is on Wikidata","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with ORCID identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1960 births","Living people","Alumni of the University of Cambridge","British non-fiction writers","British technology writers","English atheists","People from Corby","People from Jarrow","BBC people","English male writers",
+"British technology journalists"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Bill_Thompson_(technology_writer)","wgRelevantArticleId":3463694,"wgRequestId":"XY@SzgpAICAAAEEewEEAAADJ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":
+!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4911143","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site",
+"mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bill_Thompson_at_BBC_Television_Centre_2012.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Bill_Thompson_(technology_writer)"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Bill_Thompson_(technology_writer)&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Bill_Thompson_(technology_writer)&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Bill_Thompson_(technology_writer)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Bill_Thompson_technology_writer rootpage-Bill_Thompson_technology_writer skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Bill Thompson (technology writer)</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Bill Thompson</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Bill_Thompson_at_BBC_Television_Centre_2012.jpg" class="image"><img alt="Bill Thompson at BBC Television Centre 2012.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bill_Thompson_at_BBC_Television_Centre_2012.jpg/250px-Bill_Thompson_at_BBC_Television_Centre_2012.jpg" decoding="async" width="250" height="217" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bill_Thompson_at_BBC_Television_Centre_2012.jpg/375px-Bill_Thompson_at_BBC_Television_Centre_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bill_Thompson_at_BBC_Television_Centre_2012.jpg/500px-Bill_Thompson_at_BBC_Television_Centre_2012.jpg 2x" data-file-width="1000" data-file-height="866" /></a><div>Bill Thompson at the <a href="/wiki/BBC_Television_Centre" class="mw-redirect" title="BBC Television Centre">BBC Television Centre</a>, 2012</div></td></tr><tr><th scope="row">Born</th><td><div style="display:inline" class="nickname">William George Thompson</div><br /><span style="display:none"> (<span class="bday">1960-10-06</span>) </span>6 October 1960<span class="noprint ForceAgeToShow"> (age&#160;58)</span><br /><div style="display:inline" class="birthplace"><a href="/wiki/Jarrow" title="Jarrow">Jarrow</a>, <a href="/wiki/County_Durham" title="County Durham">County Durham</a>, United Kingdom</div></td></tr><tr><th scope="row">Nationality</th><td class="category">English</td></tr><tr><th scope="row">Occupation</th><td class="role">Technology writer</td></tr><tr><td colspan="2" style="text-align:center"><table role="presentation" class="mbox-small noprint" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000;border-collapse:collapse; border-width:1px 0 0 0; background:transparent; float:none; margin:0 -5px">
+<tbody><tr>
+<td style="width:1px"></td>
+<td class="mbox-text plainlist" style="line-height:1.1em"><div class="haudio">
+<div style="padding:4px 0"><a href="/wiki/File:Bill_Thompson_speaking.ogg" title="File:Bill Thompson speaking.ogg">Bill Thompson's voice</a></div>
+<div><div class="mediaContainer" style="width:220px"><audio id="mwe_player_0" controls="" preload="none" style="width:220px" class="kskin" data-durationhint="17.554285714286" data-startoffset="0" data-mwtitle="Bill_Thompson_speaking.ogg" data-mwprovider="wikimediacommons"><source src="//upload.wikimedia.org/wikipedia/commons/transcoded/b/b1/Bill_Thompson_speaking.ogg/Bill_Thompson_speaking.ogg.mp3" type="audio/mpeg" data-title="MP3" data-shorttitle="MP3" data-transcodekey="mp3" data-width="0" data-height="0" data-bandwidth="101280" /><source src="//upload.wikimedia.org/wikipedia/commons/b/b1/Bill_Thompson_speaking.ogg" type="audio/ogg; codecs=&quot;vorbis&quot;" data-title="Original Ogg file (105 kbps)" data-shorttitle="Ogg source" data-width="0" data-height="0" data-bandwidth="105057" /></audio></div></div>
+<div class="description" style="padding:2px 0 0 0">recorded October 2012</div></div></td></tr>
+</tbody></table></td></tr></tbody></table>
+<p><b>William George Thompson</b> (born 6 October 1960) is an English <a href="/wiki/Technology" title="Technology">technology</a> writer, best known for his weekly column in the Technology section of <a href="/wiki/BBC_News_Online" title="BBC News Online">BBC News Online</a> and his appearances on <i><a href="/wiki/Digital_Planet" title="Digital Planet">Digital Planet</a></i>, a radio show on the <a href="/wiki/BBC_World_Service" title="BBC World Service">BBC World Service</a>. He is also an Honorary Senior Visiting Fellow at <a href="/wiki/City_University_London" class="mw-redirect" title="City University London">City University London</a>'s  Journalism Department.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and writes for <a href="/w/index.php?title=BBC_Webwise&amp;action=edit&amp;redlink=1" class="new" title="BBC Webwise (page does not exist)">BBC Webwise</a>.
+</p><p>Born in <a href="/wiki/Jarrow" title="Jarrow">Jarrow</a>, <a href="/wiki/County_Durham" title="County Durham">County Durham</a>, Thompson grew up in <a href="/wiki/Corby" title="Corby">Corby</a>, <a href="/wiki/Northamptonshire" title="Northamptonshire">Northamptonshire</a>. He graduated from <a href="/wiki/University_of_Cambridge" title="University of Cambridge">Cambridge University</a> in philosophy and with a <a href="/wiki/Cambridge_Diploma_in_Computer_Science" title="Cambridge Diploma in Computer Science">diploma in computing</a> in 1984 and worked at <a href="/wiki/Acorn_Computers" title="Acorn Computers">Acorn Computers</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> He was a correspondent for the technology programme<i> The <a href="/w/index.php?title=Big_Byte&amp;action=edit&amp;redlink=1" class="new" title="Big Byte (page does not exist)">Big Byte</a></i> on <a href="/wiki/BBC_Radio" title="BBC Radio">BBC Radio</a>. He began to write for <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i> in 1990, and in 1994 went to work there, setting up the paper's website. He left in 1996 to work as a freelance writer and consultant. In November 2009 he took on a role as head of partnership development for Archive Development projects at the BBC, working with <a href="/wiki/Tony_Ageh" title="Tony Ageh">Tony Ageh</a> (formerly of <i><a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a></i>), the then Controller of Archive Development at the BBC.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Thompson is a trustee of the <a href="/wiki/Britten_Sinfonia" title="Britten Sinfonia">Britten Sinfonia</a>,<sup id="cite_ref-BS_4-0" class="reference"><a href="#cite_note-BS-4">&#91;4&#93;</a></sup> and a board member of the <a href="/wiki/Writers%27_Centre_Norwich" class="mw-redirect" title="Writers&#39; Centre Norwich">Writers' Centre Norwich</a>.<sup id="cite_ref-WCN_5-0" class="reference"><a href="#cite_note-WCN-5">&#91;5&#93;</a></sup> In 2010, he was nominated for the Prudential Arts and Business Board Member of the year award.<sup id="cite_ref-Carr_6-0" class="reference"><a href="#cite_note-Carr-6">&#91;6&#93;</a></sup> In October 2016, <a href="/wiki/Anglia_Ruskin_University" title="Anglia Ruskin University">Anglia Ruskin University</a> announced that it would award Thompson an  Honorary Doctor of Arts degree, in a ceremony on the 11th of that month.<sup id="cite_ref-ARU1_7-0" class="reference"><a href="#cite_note-ARU1-7">&#91;7&#93;</a></sup>
+</p><p>He has a daughter and a son called Max<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>.
+</p>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bill_Thompson_(technology_writer)&amp;action=edit&amp;section=1" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Thompson has also written books for children:
+</p>
+<ul><li><cite class="citation book">Thompson, Bill (1999). <i>Your Own Website</i>. <a href="/wiki/Hodder_Headline" class="mw-redirect" title="Hodder Headline">Hodder Headline</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0340736500" title="Special:BookSources/978-0340736500"><bdi>978-0340736500</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Your+Own+Website&amp;rft.pub=Hodder+Headline&amp;rft.date=1999&amp;rft.isbn=978-0340736500&amp;rft.aulast=Thompson&amp;rft.aufirst=Bill&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABill+Thompson+%28technology+writer%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li>
+<li><cite class="citation book">Thompson, Bill (2000). <i>Your Own Chat Room</i>. Hodder Headline. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0340784822" title="Special:BookSources/978-0340784822"><bdi>978-0340784822</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Your+Own+Chat+Room&amp;rft.pub=Hodder+Headline&amp;rft.date=2000&amp;rft.isbn=978-0340784822&amp;rft.aulast=Thompson&amp;rft.aufirst=Bill&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABill+Thompson+%28technology+writer%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Thompson, Bill (2000). <i>Homework Busters</i>. Belitha Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1903174142" title="Special:BookSources/978-1903174142"><bdi>978-1903174142</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Homework+Busters&amp;rft.pub=Belitha+Press&amp;rft.date=2000&amp;rft.isbn=978-1903174142&amp;rft.aulast=Thompson&amp;rft.aufirst=Bill&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABill+Thompson+%28technology+writer%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bill_Thompson_(technology_writer)&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.city.ac.uk/arts/academic-staff-profiles/bill-thompson">"Bill Thompson"</a>. <a href="/wiki/City_University_London" class="mw-redirect" title="City University London">City University London</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bill+Thompson&amp;rft.pub=City+University+London&amp;rft_id=http%3A%2F%2Fwww.city.ac.uk%2Farts%2Facademic-staff-profiles%2Fbill-thompson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABill+Thompson+%28technology+writer%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/technology-11821504">"The birth of a UK tech giant"</a>. <i>BBC News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-10</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BBC+News&amp;rft.atitle=The+birth+of+a+UK+tech+giant&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Ftechnology-11821504&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABill+Thompson+%28technology+writer%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news">Bunz, Mercedes (2 November 2009). <a rel="nofollow" class="external text" href="https://www.theguardian.com/media/pda/2009/nov/02/bbc-archive-bill-thompson">"Pair behind first Guardian website back together for BBC Archive &#124; Media &#124; guardian.co.uk"</a>. London: Guardian<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-11-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Pair+behind+first+Guardian+website+back+together+for+BBC+Archive+%26%23124%3B+Media+%26%23124%3B+guardian.co.uk&amp;rft.date=2009-11-02&amp;rft.aulast=Bunz&amp;rft.aufirst=Mercedes&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2Fpda%2F2009%2Fnov%2F02%2Fbbc-archive-bill-thompson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABill+Thompson+%28technology+writer%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-BS-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-BS_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140904222034/http://www.brittensinfonia.com/about-us/meet-the-trustees/">"Meet the Trustees"</a>. <a href="/wiki/Britten_Sinfonia" title="Britten Sinfonia">Britten Sinfonia</a>. Archived from <a rel="nofollow" class="external text" href="http://www.brittensinfonia.com/about-us/meet-the-trustees/">the original</a> on 4 September 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Meet+the+Trustees&amp;rft.pub=Britten+Sinfonia&amp;rft_id=http%3A%2F%2Fwww.brittensinfonia.com%2Fabout-us%2Fmeet-the-trustees%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABill+Thompson+%28technology+writer%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-WCN-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-WCN_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.is/20140904191433/http://www.writerscentrenorwich.org.uk/AboutUs/">"About Us"</a>. <a href="/wiki/Writers%27_Centre_Norwich" class="mw-redirect" title="Writers&#39; Centre Norwich">Writers' Centre Norwich</a>. Archived from <a rel="nofollow" class="external text" href="http://www.writerscentrenorwich.org.uk/AboutUs/">the original</a> on 4 September 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+Us&amp;rft.pub=Writers%27+Centre+Norwich&amp;rft_id=http%3A%2F%2Fwww.writerscentrenorwich.org.uk%2FAboutUs%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABill+Thompson+%28technology+writer%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Carr-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Carr_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Carr, Katy (9 September 2010). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20100914204907/http://www.writerscentrenorwich.org.uk/whybillthompsonisnominatedforartsandbusinessboardmemberoftheyear.aspx">"Why Bill Thompson is nominated for the Prudential A&amp;B Board Member of the Year"</a>. Writers' Centre Norwich. Archived from <a rel="nofollow" class="external text" href="http://www.writerscentrenorwich.org.uk/whybillthompsonisnominatedforartsandbusinessboardmemberoftheyear.aspx">the original</a> on 14 September 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">4 September</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Why+Bill+Thompson+is+nominated+for+the+Prudential+A%26B+Board+Member+of+the+Year&amp;rft.pub=Writers%27+Centre+Norwich&amp;rft.date=2010-09-09&amp;rft.aulast=Carr&amp;rft.aufirst=Katy&amp;rft_id=http%3A%2F%2Fwww.writerscentrenorwich.org.uk%2Fwhybillthompsonisnominatedforartsandbusinessboardmemberoftheyear.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABill+Thompson+%28technology+writer%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-ARU1-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-ARU1_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.anglia.ac.uk/graduation-and-alumni/honorary-award-holders2/bill-thompson">"Bill Thompson"</a>. <a href="/wiki/Anglia_Ruskin_University" title="Anglia Ruskin University">Anglia Ruskin University</a><span class="reference-accessdate">. Retrieved <span class="nowrap">3 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Bill+Thompson&amp;rft.pub=Anglia+Ruskin+University&amp;rft_id=http%3A%2F%2Fwww.anglia.ac.uk%2Fgraduation-and-alumni%2Fhonorary-award-holders2%2Fbill-thompson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABill+Thompson+%28technology+writer%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/technology/4032615.stm">"Musical future for phones"</a>. 2004-11-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-10-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Musical+future+for+phones&amp;rft.date=2004-11-22&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Ftechnology%2F4032615.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABill+Thompson+%28technology+writer%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Bill_Thompson_(technology_writer)&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Bill_Thompson_(technology_writer)" class="extiw" title="commons:Category:Bill Thompson (technology writer)">Bill Thompson</a></b></i>.</td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a href="https://en.wikiquote.org/wiki/Bill_Thompson" class="extiw" title="q:Bill Thompson">Bill Thompson</a></b></i></td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://medium.com/@billt/my-life-as-a-new-media-dog-c4cb0b2b9726#.5r5urykto">Autobiographical article</a> (last updated September 2005)</li>
+<li><a rel="nofollow" class="external text" href="https://twitter.com/billt">Bill Thompson</a> on <a href="/wiki/Twitter" title="Twitter">Twitter</a> <a href="https://www.wikidata.org/wiki/Q4911143#P2002" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></li>
+<li><a rel="nofollow" class="external text" href="http://www.thebillblog.com/">Bill Thompson's blog</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.andfinally.com/">Bill Thompson's personal website</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=COeOODZg7eU">Bill Thompson on BBC Make IT Digital at TNMOC</a></li>
+<li><a rel="nofollow" class="external text" href="http://journalisted.com/bill-thompson">Bill Thompson</a> on <a href="/wiki/Journalisted" class="mw-redirect" title="Journalisted">Journalisted</a></li></ul>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q4911143&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q4911143&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q4911143" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000047884027">0000 0000 4788 4027</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/nb99008969">nb99008969</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/ORCID" title="ORCID">ORCID</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://orcid.org/0000-0003-4402-5296">0000-0003-4402-5296</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/4426461">4426461</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/4426461">4426461</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1331
+Cached time: 20190925023046
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.400 seconds
+Real time usage: 0.542 seconds
+Preprocessor visited node count: 1623/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 33233/2097152 bytes
+Template argument size: 2097/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 29162/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.213/10.000 seconds
+Lua memory usage: 4.63 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  481.245      1 -total
+ 28.59%  137.605      1 Template:Infobox_person
+ 22.36%  107.629      3 Template:Cite_book
+ 21.96%  105.668      1 Template:Infobox
+ 14.20%   68.331      1 Template:Reflist
+ 13.75%   66.189      1 Template:Twitter
+  8.94%   43.007      1 Template:EditAtWikidata
+  8.56%   41.206      1 Template:Authority_control
+  8.49%   40.863      1 Template:Commons_category
+  7.56%   36.389      6 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3463694-0!canonical and timestamp 20190925023045 and revision id 915601453
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Bill_Thompson_(technology_writer)&amp;oldid=915601453">https://en.wikipedia.org/w/index.php?title=Bill_Thompson_(technology_writer)&amp;oldid=915601453</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1960_births" title="Category:1960 births">1960 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Alumni_of_the_University_of_Cambridge" title="Category:Alumni of the University of Cambridge">Alumni of the University of Cambridge</a></li><li><a href="/wiki/Category:British_non-fiction_writers" title="Category:British non-fiction writers">British non-fiction writers</a></li><li><a href="/wiki/Category:British_technology_writers" title="Category:British technology writers">British technology writers</a></li><li><a href="/wiki/Category:English_atheists" title="Category:English atheists">English atheists</a></li><li><a href="/wiki/Category:People_from_Corby" title="Category:People from Corby">People from Corby</a></li><li><a href="/wiki/Category:People_from_Jarrow" title="Category:People from Jarrow">People from Jarrow</a></li><li><a href="/wiki/Category:BBC_people" title="Category:BBC people">BBC people</a></li><li><a href="/wiki/Category:English_male_writers" title="Category:English male writers">English male writers</a></li><li><a href="/wiki/Category:British_technology_journalists" title="Category:British technology journalists">British technology journalists</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ORCID_identifiers" title="Category:Wikipedia articles with ORCID identifiers">Wikipedia articles with ORCID identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Bill+Thompson+%28technology+writer%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Bill+Thompson+%28technology+writer%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Bill_Thompson_(technology_writer)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Bill_Thompson_(technology_writer)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Bill_Thompson_(technology_writer)">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Bill_Thompson_(technology_writer)&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Bill_Thompson_(technology_writer)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Bill_Thompson_(technology_writer)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Bill_Thompson_(technology_writer)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Bill_Thompson_(technology_writer)&amp;oldid=915601453" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Bill_Thompson_(technology_writer)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4911143" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Bill_Thompson_%28technology_writer%29&amp;id=915601453" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Bill_Thompson_(technology_writer)" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Bill_Thompson" hreflang="en">Wikiquote</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Bill+Thompson+%28technology+writer%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Bill+Thompson+%28technology+writer%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Bill_Thompson_(technology_writer)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D9%84_%D8%AA%D9%88%D9%85%D8%B3%D9%88%D9%86_(%D9%85%D9%82%D8%AF%D9%85_%D8%A8%D8%B1%D8%A7%D9%85%D8%AC_%D8%A5%D8%B0%D8%A7%D8%B9%D9%8A%D8%A9)" title="بيل تومسون (مقدم برامج إذاعية) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4911143#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 September 2019, at 06:53<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Bill_Thompson_(technology_writer)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.400","walltime":"0.542","ppvisitednodes":{"value":1623,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":33233,"limit":2097152},"templateargumentsize":{"value":2097,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":29162,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  481.245      1 -total"," 28.59%  137.605      1 Template:Infobox_person"," 22.36%  107.629      3 Template:Cite_book"," 21.96%  105.668      1 Template:Infobox"," 14.20%   68.331      1 Template:Reflist"," 13.75%   66.189      1 Template:Twitter","  8.94%   43.007      1 Template:EditAtWikidata","  8.56%   41.206      1 Template:Authority_control","  8.49%   40.863      1 Template:Commons_category","  7.56%   36.389      6 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.213","limit":"10.000"},"limitreport-memusage":{"value":4855066,"limit":52428800}},"cachereport":{"origin":"mw1331","timestamp":"20190925023046","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Bill Thompson (technology writer)","url":"https:\/\/en.wikipedia.org\/wiki\/Bill_Thompson_(technology_writer)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4911143","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4911143","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-12-18T22:11:18Z","dateModified":"2019-09-14T06:53:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4b\/Bill_Thompson_at_BBC_Television_Centre_2012.jpg","headline":"English technology writer, born 1960"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1330"});});</script>
+</body>
+</html>
+

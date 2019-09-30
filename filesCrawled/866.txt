@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Calderdale - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Calderdale","wgTitle":"Calderdale","wgCurRevisionId":915788998,"wgRevisionId":915788998,"wgArticleId":304266,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: archived copy as title","All articles with dead external links","Articles with dead external links from November 2017","Articles with permanently dead external links","Use dmy dates from February 2018","Articles with short description","Pages using infobox settlement with possible motto list","Pages using infobox settlement with unknown parameters","All articles with unsourced statements","Articles with unsourced statements from January 2014","Commons category link is on Wikidata","Coordinates on Wikidata","Wikipedia articles with LCCN identifiers",
+"Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","Calderdale","Metropolitan boroughs","Leeds City Region","Local government districts of Yorkshire and the Humber"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Calderdale","wgRelevantArticleId":304266,"wgRequestId":"XY1foQpAAEIAADCioYkAAAAL","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,
+"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":53.72,"lon":-1.97},"wgWikibaseItemId":"Q1026448","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready",
+"ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Coat_of_arms_of_Calderdale_Metropolitan_Borough_Council.png/1200px-Coat_of_arms_of_Calderdale_Metropolitan_Borough_Council.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Calderdale"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Calderdale&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Calderdale&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Calderdale"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Calderdale rootpage-Calderdale skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Calderdale</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Metropolitan borough in England</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div style="display:inline" class="fn org">Borough of Calderdale</div></th></tr><tr><td colspan="2" style="text-align:center;background-color:#cddeff; font-weight:bold;"><div class="category"><a href="/wiki/Metropolitan_borough" title="Metropolitan borough">Metropolitan borough</a></div></td></tr><tr class="mergedtoprow"><td colspan="2" class="maptable" style="text-align:center"><div style="display:table; width:100%; background:none;">
+<div style="display:table-row"><div style="display:table-cell;vertical-align:middle; text-align:center;"><a href="/wiki/File:Coat_of_arms_of_Calderdale_Metropolitan_Borough_Council.png" class="image" title="Official logo of Borough of Calderdale"><img alt="Official logo of Borough of Calderdale" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Coat_of_arms_of_Calderdale_Metropolitan_Borough_Council.png/150px-Coat_of_arms_of_Calderdale_Metropolitan_Borough_Council.png" decoding="async" width="150" height="153" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Coat_of_arms_of_Calderdale_Metropolitan_Borough_Council.png/225px-Coat_of_arms_of_Calderdale_Metropolitan_Borough_Council.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Coat_of_arms_of_Calderdale_Metropolitan_Borough_Council.png/300px-Coat_of_arms_of_Calderdale_Metropolitan_Borough_Council.png 2x" data-file-width="1500" data-file-height="1526" /></a><br /><a href="/wiki/Coat_of_arms_of_Calderdale" title="Coat of arms of Calderdale">Coat of arms of Calderdale Borough Council</a></div></div></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center">Motto(s):&#160;<div style="display:inline" class="nickname">‘Industria Arte Prudentia’<br /><small>(Latin: ‘Industry, skill and foresight’)</small></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Calderdale_UK_locator_map.svg" class="image" title="Calderdale shown within West Yorkshire"><img alt="Calderdale shown within West Yorkshire" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Calderdale_UK_locator_map.svg/250px-Calderdale_UK_locator_map.svg.png" decoding="async" width="250" height="182" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Calderdale_UK_locator_map.svg/375px-Calderdale_UK_locator_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Calderdale_UK_locator_map.svg/500px-Calderdale_UK_locator_map.svg.png 2x" data-file-width="1425" data-file-height="1039" /></a><div style="padding:0.3em 0 0 0;">Calderdale shown within West Yorkshire</div></td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign state</a></th><td>United Kingdom</td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Constituent country</a></th><td>England</td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Regions_of_England" title="Regions of England">Region</a></th><td><a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire and the Humber</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Metropolitan_county" title="Metropolitan county">Metropolitan county</a></th><td><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></td></tr><tr class="mergedrow"><th scope="row">Admin. HQ</th><td><a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a></td></tr><tr class="mergedtoprow"><th scope="row">Incorporated</th><td>1974</td></tr><tr class="mergedrow"><th scope="row">Granted <a href="/wiki/Unitary_authority" title="Unitary authority">Unitary</a> Status</th><td>1986</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Government<div style="font-weight:normal;display:inline;"></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Type</th><td><a href="/wiki/Metropolitan_Borough" class="mw-redirect" title="Metropolitan Borough">Metropolitan Borough</a></td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Governing Body</th><td>Calderdale Council</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;<a href="/wiki/Local_government_in_England#Councillors_and_mayors" title="Local government in England">Leadership</a></th><td>Leader &amp; Cabinet</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;<a href="/wiki/Mayor" title="Mayor">Mayor</a></th><td>Councillor Ferman Ali (Labour)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Leader of Council</th><td>Cllr Tim Swift (Labour)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;<a href="/wiki/Chief_executive_officer" title="Chief executive officer">Chief Executive</a></th><td>Robin Tuddenham<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Area<div style="font-weight:normal;display:inline;"></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>140.5&#160;sq&#160;mi (363.9&#160;km<sup>2</sup>)</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population<div style="font-weight:normal;display:inline;"><span class="nowrap">&#160;</span>(<a href="/wiki/United_Kingdom_Census_2001" class="mw-redirect" title="United Kingdom Census 2001">2001 Census</a>, <br /><small>2007 population estimates; Religion statistics <i>2001</i></small>)</div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Total</th><td>200,100 (<a href="/wiki/List_of_English_districts_by_population" title="List of English districts by population">Ranked 85th</a>)</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Density</th><td>1,400/sq&#160;mi (550/km<sup>2</sup>)</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;<a href="/wiki/Ethnicity" class="mw-redirect" title="Ethnicity">Ethnicity</a><div style="font-weight:normal;display:inline;"></div></th><td>91.1% <a href="/wiki/White_people" title="White people">White</a> <br />6.8% <a href="/wiki/British_Asian" title="British Asian">S.Asian</a> <br />1.0% <a href="/wiki/British_Mixed" class="mw-redirect" title="British Mixed">Mixed Race</a></td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;<a href="/wiki/Religion" title="Religion">Religion</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><div style="font-weight:normal;display:inline;"></div></th><td>69.6% <a href="/wiki/Christians" title="Christians">Christian</a> <br />16.4% No Religion <br />5.3% <a href="/wiki/Muslim" class="mw-redirect" title="Muslim">Muslim</a></td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td><a href="/wiki/UTC%2B0" class="mw-redirect" title="UTC+0">UTC+0</a> (<a href="/wiki/Greenwich_Mean_Time" title="Greenwich Mean Time">Greenwich Mean Time</a>)</td></tr><tr class="mergedrow"><th scope="row"><span style="white-space:nowrap">&#160;•&#160;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th><td><a href="/wiki/UTC%2B1" class="mw-redirect" title="UTC+1">UTC+1</a> (<a href="/wiki/British_Summer_Time" title="British Summer Time">British Summer Time</a>)</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Postcodes_in_the_United_Kingdom" title="Postcodes in the United Kingdom">Postcode areas</a></th><td><a href="/wiki/HD_postcode_area" title="HD postcode area">HD</a>, <a href="/wiki/HX_postcode_area" title="HX postcode area">HX</a>, <a href="/wiki/OL_postcode_area" title="OL postcode area">OL</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Telephone_numbers_in_the_United_Kingdom" title="Telephone numbers in the United Kingdom">Dialling Codes</a></th><td>01422 <small>(central core)</small> <br />01484 <small>(Brighouse/Rastrick)</small> <br />01706 <small>(Todmorden area)</small> <br />01274 <small>(Shelf area)</small></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/ONS_coding_system" title="ONS coding system">ONS code</a></th><td>00CY (ONS)<br />E08000033 (GSS)</td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/European_Parliament" title="European Parliament">Euro. Parlt. Const.</a></th><td><a href="/wiki/Yorkshire_and_the_Humber_(European_Parliament_constituency)" title="Yorkshire and the Humber (European Parliament constituency)">Yorkshire &amp; the Humber</a></td></tr><tr class="mergedtoprow"><th scope="row">Website</th><td><a rel="nofollow" class="external text" href="http://www.calderdale.gov.uk/">www.calderdale.gov.uk</a></td></tr></tbody></table>
+<p>The <b>Metropolitan Borough of Calderdale</b> is a <a href="/wiki/Metropolitan_borough" title="Metropolitan borough">metropolitan borough</a> of <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, England. It takes its name from the <a href="/wiki/River_Calder,_West_Yorkshire" title="River Calder, West Yorkshire">River Calder</a>, whose upper part flows through the borough. Several small valleys contain tributaries of the River Calder. The population at the 2011 Census was 203,826.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Calderdale covers part of the <a href="/wiki/South_Pennines" title="South Pennines">South Pennines</a> and is the southern-most of the <a href="/wiki/Yorkshire_Dales" title="Yorkshire Dales">Yorkshire Dales</a>, though it is not part of the <a href="/wiki/Yorkshire_Dales_National_Park" title="Yorkshire Dales National Park">Yorkshire Dales National Park</a>.
+The borough was formed by the <a href="/wiki/Amalgamation_(politics)" class="mw-redirect" title="Amalgamation (politics)">merger</a> of six former local government districts, spanning, from east to west, the towns of <a href="/wiki/Brighouse" title="Brighouse">Brighouse</a>, <a href="/wiki/Elland" title="Elland">Elland</a>, <a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a>, <a href="/wiki/Sowerby_Bridge" title="Sowerby Bridge">Sowerby Bridge</a>, <a href="/wiki/Hebden_Bridge" title="Hebden Bridge">Hebden Bridge</a> and <a href="/wiki/Todmorden" title="Todmorden">Todmorden</a>. <a href="/wiki/Mytholmroyd" title="Mytholmroyd">Mytholmroyd</a>, together with <a href="/wiki/Hebden_Bridge" title="Hebden Bridge">Hebden Bridge</a>, forms <a href="/wiki/Hebden_Royd" title="Hebden Royd">Hebden Royd</a>.
+</p><p>Halifax is the main commercial, cultural and administrative centre of the borough, with numerous high street chain stores, <a href="/wiki/Market_(place)" class="mw-redirect" title="Market (place)">markets</a>, central library, borough council offices, <a href="/wiki/Public_transport" title="Public transport">public transport</a> hub, central police station and the further and higher education college, as well as other major local organisations. Calderdale is served by <a href="/wiki/Calderdale_Metropolitan_Borough_Council" title="Calderdale Metropolitan Borough Council">Calderdale Council</a>, Calderdale's admin headquarters is in <a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a>, with some council organisations based in <a href="/wiki/Todmorden" title="Todmorden">Todmorden</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Suburbs_and_villages"><span class="tocnumber">2</span> <span class="toctext">Suburbs and villages</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Education"><span class="tocnumber">3</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Local_government"><span class="tocnumber">4</span> <span class="toctext">Local government</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Public_services"><span class="tocnumber">5</span> <span class="toctext">Public services</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Health"><span class="tocnumber">5.1</span> <span class="toctext">Health</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Police"><span class="tocnumber">5.2</span> <span class="toctext">Police</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Fire_and_rescue"><span class="tocnumber">5.3</span> <span class="toctext">Fire and rescue</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Libraries"><span class="tocnumber">5.4</span> <span class="toctext">Libraries</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calderdale&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Roman_Empire" title="Roman Empire">Roman</a> settlement of <a href="/wiki/Cambodunum_(Britain)" class="mw-redirect" title="Cambodunum (Britain)">Cambodunum</a> was probably located within Calderdale. A <a href="/wiki/Slack_Roman_Fort" title="Slack Roman Fort">Roman fort</a> has been excavated in <a href="/wiki/Slack,_West_Yorkshire" class="mw-redirect" title="Slack, West Yorkshire">Slack</a>, which is in the neighbouring metropolitan borough of Kirklees, but its identity is not yet certain.
+</p><p>The borough was formed on 1 April 1974, under the <a href="/wiki/Local_Government_Act_1972" title="Local Government Act 1972">Local Government Act 1972</a>, by the merger of the then <a href="/wiki/County_borough" title="County borough">county borough</a> of <a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a>, the boroughs of <a href="/wiki/Brighouse" title="Brighouse">Brighouse</a>, <a href="/wiki/Todmorden" title="Todmorden">Todmorden</a> and the urban districts of <a href="/wiki/Elland" title="Elland">Elland</a>, <a href="/wiki/Hebden_Royd" title="Hebden Royd">Hebden Royd</a>, <a href="/wiki/Ripponden" title="Ripponden">Ripponden</a>, <a href="/wiki/Sowerby_Bridge" title="Sowerby Bridge">Sowerby Bridge</a>, part of <a href="/wiki/Queensbury_and_Shelf" class="mw-redirect" title="Queensbury and Shelf">Queensbury and Shelf</a> urban district and <a href="/wiki/Hepton_Rural_District" title="Hepton Rural District">Hepton Rural District</a>.
+</p>
+<h2><span class="mw-headline" id="Suburbs_and_villages">Suburbs and villages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calderdale&amp;action=edit&amp;section=2" title="Edit section: Suburbs and villages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As well as the six towns, there are numerous villages and suburbs including:
+</p>
+<ul><li><a href="/wiki/Bailiff_Bridge" title="Bailiff Bridge">Bailiff Bridge</a>, <a href="/w/index.php?title=Bank_Top,_West_Yorkshire&amp;action=edit&amp;redlink=1" class="new" title="Bank Top, West Yorkshire (page does not exist)">Bank Top</a>, <a href="/wiki/Barkisland" title="Barkisland">Barkisland</a>, <a href="/wiki/Blackley" title="Blackley">Blackley</a>, <a href="/wiki/Blackshaw_Head" class="mw-redirect" title="Blackshaw Head">Blackshaw Head</a>, <a href="/wiki/Boothtown" title="Boothtown">Boothtown</a>, Beechwood, now a part of <a href="/wiki/Leeds" title="Leeds">Leeds</a>, <a href="/wiki/Bradshaw,_Calderdale" title="Bradshaw, Calderdale">Bradshaw</a></li>
+<li><a href="/wiki/Chiserley" title="Chiserley">Chiserley</a>, <a href="/wiki/Clifton,_West_Yorkshire" title="Clifton, West Yorkshire">Clifton</a>, <a href="/wiki/Colden,_West_Yorkshire" title="Colden, West Yorkshire">Colden</a>, <a href="/wiki/Copley,_West_Yorkshire" title="Copley, West Yorkshire">Copley</a>, <a href="/wiki/Cornholme" title="Cornholme">Cornholme</a>, <a href="/wiki/Cragg_Vale" title="Cragg Vale">Cragg Vale</a></li>
+<li><a href="/wiki/Eastwood,_West_Yorkshire" title="Eastwood, West Yorkshire">Eastwood</a></li>
+<li><a href="/w/index.php?title=Fountain_Head&amp;action=edit&amp;redlink=1" class="new" title="Fountain Head (page does not exist)">Fountain Head</a>, <a href="/wiki/Friendly,_West_Yorkshire" title="Friendly, West Yorkshire">Friendly</a></li>
+<li><a href="/w/index.php?title=Gauxholme&amp;action=edit&amp;redlink=1" class="new" title="Gauxholme (page does not exist)">Gauxholme</a>, <a href="/wiki/Greetland" title="Greetland">Greetland</a></li>
+<li><a href="/wiki/Heptonstall" title="Heptonstall">Heptonstall</a>, <a href="/w/index.php?title=Highroadwell&amp;action=edit&amp;redlink=1" class="new" title="Highroadwell (page does not exist)">Highroadwell</a>, <a href="/wiki/Hipperholme" title="Hipperholme">Hipperholme</a>, <a href="/w/index.php?title=Holmfield&amp;action=edit&amp;redlink=1" class="new" title="Holmfield (page does not exist)">Holmfield</a>, <a href="/wiki/Holywell_Green" title="Holywell Green">Holywell Green</a>, <a href="/w/index.php?title=Hove_Edge&amp;action=edit&amp;redlink=1" class="new" title="Hove Edge (page does not exist)">Hove Edge</a>, <a href="/w/index.php?title=Hubberton&amp;action=edit&amp;redlink=1" class="new" title="Hubberton (page does not exist)">Hubberton</a></li>
+<li><a href="/wiki/Illingworth,_West_Yorkshire" title="Illingworth, West Yorkshire">Illingworth</a></li>
+<li><a href="/wiki/Jagger_Green" class="mw-redirect" title="Jagger Green">Jagger Green</a></li>
+<li><a href="/w/index.php?title=Kebroyd&amp;action=edit&amp;redlink=1" class="new" title="Kebroyd (page does not exist)">Kebroyd</a>, <a href="/wiki/King_Cross" title="King Cross">King Cross</a></li>
+<li><a href="/w/index.php?title=Lee_Mount&amp;action=edit&amp;redlink=1" class="new" title="Lee Mount (page does not exist)">Lee Mount</a>, <a href="/wiki/Lightcliffe" title="Lightcliffe">Lightcliffe</a>, <a href="/wiki/Luddenden" title="Luddenden">Luddenden</a>, <a href="/wiki/Luddendenfoot" title="Luddendenfoot">Luddendenfoot</a>, <a href="/w/index.php?title=Lumbutts&amp;action=edit&amp;redlink=1" class="new" title="Lumbutts (page does not exist)">Lumbutts</a>, <a href="/w/index.php?title=Lydgate,_West_Yorkshire&amp;action=edit&amp;redlink=1" class="new" title="Lydgate, West Yorkshire (page does not exist)">Lydgate</a></li>
+<li><a href="/wiki/Mankinholes" title="Mankinholes">Mankinholes</a>, <a href="/wiki/Midgley" title="Midgley">Midgley</a>, <a href="/w/index.php?title=Mill_Bank&amp;action=edit&amp;redlink=1" class="new" title="Mill Bank (page does not exist)">Mill Bank</a>, <a href="/wiki/Mixenden" title="Mixenden">Mixenden</a>, <a href="/wiki/Mount_Tabor,_West_Yorkshire" title="Mount Tabor, West Yorkshire">Mount Tabor</a>, <a href="/w/index.php?title=Mytholm&amp;action=edit&amp;redlink=1" class="new" title="Mytholm (page does not exist)">Mytholm</a>, <a href="/wiki/Mytholmroyd" title="Mytholmroyd">Mytholmroyd</a></li>
+<li><a href="/w/index.php?title=Norland_Town&amp;action=edit&amp;redlink=1" class="new" title="Norland Town (page does not exist)">Norland Town</a>, <a href="/wiki/Northowram" title="Northowram">Northowram</a>, <a href="/w/index.php?title=Norton_Tower&amp;action=edit&amp;redlink=1" class="new" title="Norton Tower (page does not exist)">Norton Tower</a>, <a href="/wiki/Norwood_Green,_West_Yorkshire" title="Norwood Green, West Yorkshire">Norwood Green</a></li>
+<li><a href="/wiki/Ogden,_West_Yorkshire" title="Ogden, West Yorkshire">Ogden</a>, <a href="/wiki/Old_Town,_West_Yorkshire" title="Old Town, West Yorkshire">Old Town</a>, <a href="/wiki/Ovenden" title="Ovenden">Ovenden</a></li>
+<li><a href="/w/index.php?title=Peckett_Well&amp;action=edit&amp;redlink=1" class="new" title="Peckett Well (page does not exist)">Peckett Well</a>, <a href="/w/index.php?title=Pellon&amp;action=edit&amp;redlink=1" class="new" title="Pellon (page does not exist)">Pellon</a>, <a href="/wiki/Portsmouth,_West_Yorkshire" title="Portsmouth, West Yorkshire">Portsmouth</a>, <a href="/w/index.php?title=Pye_Nest&amp;action=edit&amp;redlink=1" class="new" title="Pye Nest (page does not exist)">Pye Nest</a></li>
+<li><a href="/wiki/Rastrick" title="Rastrick">Rastrick</a>, <a href="/wiki/Ripponden" title="Ripponden">Ripponden</a>, <a href="/wiki/Rishworth" title="Rishworth">Rishworth</a></li>
+<li><a href="/wiki/Salterhebble" title="Salterhebble">Salterhebble</a>, <a href="/wiki/Savile_Park" title="Savile Park">Savile Park</a>, <a href="/wiki/Shelf,_West_Yorkshire" title="Shelf, West Yorkshire">Shelf</a>, <a href="/wiki/Skircoat_Green" title="Skircoat Green">Skircoat Green</a>, Siddal, <a href="/wiki/Slack,_West_Yorkshire" class="mw-redirect" title="Slack, West Yorkshire">Slack</a>, <a href="/wiki/Sowerby,_West_Yorkshire" title="Sowerby, West Yorkshire">Sowerby</a>, <a href="/wiki/Southowram" title="Southowram">Southowram</a>, <a href="/wiki/Sowood,_West_Yorkshire" title="Sowood, West Yorkshire">Sowood</a>, <a href="/wiki/Stainland" title="Stainland">Stainland</a>, <a href="/wiki/Stone_Chair" class="mw-redirect" title="Stone Chair">Stone Chair</a>, <a href="/w/index.php?title=Stump_Cross&amp;action=edit&amp;redlink=1" class="new" title="Stump Cross (page does not exist)">Stump Cross</a></li>
+<li><a href="/wiki/Triangle,_West_Yorkshire" title="Triangle, West Yorkshire">Triangle</a>, <a href="/wiki/Todmorden" title="Todmorden">Todmorden</a></li>
+<li><a href="/w/index.php?title=Upper_Edge&amp;action=edit&amp;redlink=1" class="new" title="Upper Edge (page does not exist)">Upper Edge</a></li>
+<li><a href="/wiki/Wainstalls" title="Wainstalls">Wainstalls</a>, <a href="/wiki/Walsden" title="Walsden">Walsden</a>, <a href="/w/index.php?title=Warland,_West_Yorkshire&amp;action=edit&amp;redlink=1" class="new" title="Warland, West Yorkshire (page does not exist)">Warland</a>, <a href="/wiki/Warley_Town" title="Warley Town">Warley Town</a>, <a href="/wiki/West_Vale" title="West Vale">West Vale</a>, <a href="/w/index.php?title=Wholestone_Hill&amp;action=edit&amp;redlink=1" class="new" title="Wholestone Hill (page does not exist)">Wholestone Hill</a>, <a href="/wiki/Wheatley,_West_Yorkshire" class="mw-redirect" title="Wheatley, West Yorkshire">Wheatley</a></li></ul>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calderdale&amp;action=edit&amp;section=3" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_schools_in_Calderdale" title="List of schools in Calderdale">List of schools in Calderdale</a></div>
+<p>Two <a href="/wiki/Selective_school" title="Selective school">selective schools</a> in Calderdale jointly administer an 11+ admissions exam: <a href="/wiki/The_Crossley_Heath_School" title="The Crossley Heath School">The Crossley Heath School</a>, in Savile Park and <a href="/wiki/North_Halifax_Grammar_School" title="North Halifax Grammar School">North Halifax Grammar School</a> in Illingworth.
+</p><p>Both schools achieve excellent <a href="/wiki/General_Certificate_of_Secondary_Education" title="General Certificate of Secondary Education">GCSE</a> and <a href="/wiki/Advanced_Level_(UK)" class="mw-redirect" title="Advanced Level (UK)">A-level</a> results,  achieving a large proportion of A* to C grades at GCSE level. In 2005 the Crossley Heath School was the highest ranking co-educational school in the north of England.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2014)">citation needed</span></a></i>&#93;</sup>
+</p><p><a href="/wiki/Calderdale_College" title="Calderdale College">Calderdale College</a> is a local further education college on Francis Street, in Halifax. In December 2006 it was announced that Calderdale College, in partnership with <a href="/wiki/Leeds_Metropolitan_University" class="mw-redirect" title="Leeds Metropolitan University">Leeds Metropolitan University</a>, would open a new higher education institution in January 2007 called University Centre Calderdale.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Local_government">Local government</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calderdale&amp;action=edit&amp;section=4" title="Edit section: Local government">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Northgate_House_from_Beacon_Hill_Road_-_geograph.org.uk_-_1215778.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Northgate_House_from_Beacon_Hill_Road_-_geograph.org.uk_-_1215778.jpg/220px-Northgate_House_from_Beacon_Hill_Road_-_geograph.org.uk_-_1215778.jpg" decoding="async" width="220" height="106" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Northgate_House_from_Beacon_Hill_Road_-_geograph.org.uk_-_1215778.jpg/330px-Northgate_House_from_Beacon_Hill_Road_-_geograph.org.uk_-_1215778.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Northgate_House_from_Beacon_Hill_Road_-_geograph.org.uk_-_1215778.jpg/440px-Northgate_House_from_Beacon_Hill_Road_-_geograph.org.uk_-_1215778.jpg 2x" data-file-width="640" data-file-height="307" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Northgate_House_from_Beacon_Hill_Road_-_geograph.org.uk_-_1215778.jpg" class="internal" title="Enlarge"></a></div>Northgate House in Halifax was the councils headquarters until it was put up for sale in 2013</div></div></div>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Calderdale_local_elections" class="mw-redirect" title="Calderdale local elections">Calderdale local elections</a></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a href="/wiki/File:UK_Calderdale.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/UK_Calderdale.jpg/150px-UK_Calderdale.jpg" decoding="async" width="150" height="130" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/UK_Calderdale.jpg/225px-UK_Calderdale.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/UK_Calderdale.jpg/300px-UK_Calderdale.jpg 2x" data-file-width="791" data-file-height="687" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:UK_Calderdale.jpg" class="internal" title="Enlarge"></a></div>Signpost in Calderdale</div></div></div>
+<p>The borough is divided into 17 <a href="/wiki/Ward_(politics)" class="mw-redirect" title="Ward (politics)">wards</a> and each is represented on the borough council by three councillors. Each councillor is normally elected on a <a href="/wiki/Plurality_voting_system" class="mw-redirect" title="Plurality voting system">first past the post</a> basis for a four-year period which is staggered with the other councillors of that ward so that only one councillor per ward is up for election at any one time. Exceptions to this include <a href="/wiki/By-election" title="By-election">by-elections</a> and ward boundary changes.
+</p><p>The wards are:- Brighouse; Calder; Elland; Greetland and Stainland; Hipperholme and Lightcliffe; Illingworth and Mixenden; Luddendenfoot; Northowram and Shelf; Ovenden; Park; Rastrick; Ryburn; Skircoat; Sowerby Bridge; Todmorden; Town; and Warley.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<dl><dt>Mayors of Calderdale</dt></dl>
+<div class="div-col columns column-width" style="-moz-column-width: 22em; -webkit-column-width: 22em; column-width: 22em;">
+<ul><li>1974–75: Joseph Tolan</li>
+<li>1975–76: Mrs Kathleen M. Cawdry</li>
+<li>1976–77: Mrs Mona Ross Mitchell</li>
+<li>1977–78: Eric Dennett</li>
+<li>1978–79: Richard Deadman</li>
+<li>1979–80: Mrs Betty Wildsmith</li>
+<li>1980–81: Harry Wilson</li>
+<li>1981–82: Eric Whitehead</li>
+<li>1982–83: <a href="/wiki/David_Shutt,_Baron_Shutt_of_Greetland" title="David Shutt, Baron Shutt of Greetland">David Trevor Shutt</a></li>
+<li>1983–84: Kevin Gordon Lord</li>
+<li>1984–85: John Bradley</li>
+<li>1985–86: Thomas Lawler</li>
+<li>1986–87: David J. Fox</li>
+<li>1987–88: Wilfred Sharp</li>
+<li>1988–89: Albert Berry</li>
+<li>1989–90: Joseph Kneafsey</li>
+<li>1990–91: Joseph Tolan</li>
+<li>1991–92: Thomas J. McElroy</li>
+<li>1992–93: William C. A. Carpenter</li>
+<li>1993–94: Anthony D. J. Mazey</li>
+<li>1994–95: Stephen J. Pearson</li>
+<li>1995–96: Graham E. A. Reason</li>
+<li>1996–97: Dawn Neal</li>
+<li>1997:    Susan Tucker</li>
+<li>1997–98: Alan Worth</li>
+<li>1998–99: Alan Worth</li>
+<li>1999–2000: Graham Hall</li>
+<li>2000–01: Peter Sephton Coles</li>
+<li>2001–02: Chris O'Connor</li>
+<li>2002–03: Patrick Phillips</li>
+<li>2003–04: Mrs Geraldine Carter</li>
+<li>2004–05: Olwen Jean Arlette Jennings</li>
+<li>2005–06: John Williamson</li>
+<li>2006–07: Colin Stout</li>
+<li>2007–08: Martin Peel</li>
+<li>2008–09: Conrad Winterburn</li>
+<li>2009–10: Arshad Mahmood</li>
+<li>2010:    Ann McAllister</li>
+<li>2010-11: Keith Watson</li>
+<li>2011–12: Nader Fekri JP</li>
+<li>2012–13: John Hardy</li>
+<li>2013–14: Ann Martin</li>
+<li>2014–15: Pat Allen</li>
+<li>2015-16: Lisa Lambert</li>
+<li>2016-17: Howard Blagbrough</li>
+<li>2017-18: Ferman Ali</li>
+<li>2018-19: Marcus Thompson</li></ul>
+</div>
+<h2><span class="mw-headline" id="Public_services">Public services</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calderdale&amp;action=edit&amp;section=5" title="Edit section: Public services">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Health">Health</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calderdale&amp;action=edit&amp;section=6" title="Edit section: Health">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Calderdale is part of the Calderdale <a href="/wiki/Primary_Care_Trust" class="mw-redirect" title="Primary Care Trust">Primary Care Trust</a>, South West Yorkshire NHS Foundation Trust and Calderdale &amp; Huddersfield <a href="/wiki/NHS_Foundation_Trust" class="mw-redirect" title="NHS Foundation Trust">NHS Foundation Trust</a>. The borough has two hospitals and one <a href="/wiki/Hospice" title="Hospice">hospice</a>. The main hospital (part of Calderdale &amp; Huddersfield NHS Foundation Trust) is the <a href="/wiki/Calderdale_Royal_Hospital" title="Calderdale Royal Hospital">Calderdale Royal Hospital</a>, located on the main route to Huddersfield in <a href="/wiki/Salterhebble" title="Salterhebble">Salterhebble</a>. It has specialist departments: Calderdale's <a href="/wiki/Accident_and_Emergency" class="mw-redirect" title="Accident and Emergency">A&amp;E</a> department and the Calderdale Birth Centre.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> The hospital was built and opened in 2001 on the site of the original <a href="/w/index.php?title=Halifax_General_Hospital&amp;action=edit&amp;redlink=1" class="new" title="Halifax General Hospital (page does not exist)">Halifax General Hospital</a>. After the new hospital opened, the <a href="/wiki/Royal_Halifax_Infirmary" title="Royal Halifax Infirmary">Royal Halifax Infirmary</a> closed and all services were transferred, as were services from <a href="/w/index.php?title=Northowram_Hospital&amp;action=edit&amp;redlink=1" class="new" title="Northowram Hospital (page does not exist)">Northowram Hospital</a>. NHS Ambulance services are provided by the <a href="/wiki/Yorkshire_Ambulance_Service" title="Yorkshire Ambulance Service">Yorkshire Ambulance Service</a>. <a href="/w/index.php?title=Overgate_Hospice&amp;action=edit&amp;redlink=1" class="new" title="Overgate Hospice (page does not exist)">Overgate Hospice</a> provides specialist <a href="/wiki/Palliative_care" title="Palliative care">palliative care</a> for adults in Calderdale. <a href="/w/index.php?title=Elland_Hospital&amp;action=edit&amp;redlink=1" class="new" title="Elland Hospital (page does not exist)">Elland Hospital</a>, Calderdale's only private hospital, is located by the <a href="/wiki/Calderdale_Way" title="Calderdale Way">Calderdale Way</a>. Formerly <a href="/wiki/BUPA" class="mw-redirect" title="BUPA">BUPA</a> Elland Independent Hospital, it is now owned and operated by <a href="/w/index.php?title=Classic_Hospitals&amp;action=edit&amp;redlink=1" class="new" title="Classic Hospitals (page does not exist)">Classic Hospitals</a>.
+</p>
+<h3><span class="mw-headline" id="Police">Police</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calderdale&amp;action=edit&amp;section=7" title="Edit section: Police">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Calderdale is served by <a href="/wiki/West_Yorkshire_Police" title="West Yorkshire Police">West Yorkshire Police</a>; their Calderdale Division headquarters is at Halifax police station.<sup id="cite_ref-auto_9-0" class="reference"><a href="#cite_note-auto-9">&#91;9&#93;</a></sup> Other police stations are located in Todmorden<sup id="cite_ref-auto_9-1" class="reference"><a href="#cite_note-auto-9">&#91;9&#93;</a></sup> and at Brighouse, which has recently reopened.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Fire_and_rescue">Fire and rescue</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calderdale&amp;action=edit&amp;section=8" title="Edit section: Fire and rescue">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/West_Yorkshire_Fire_and_Rescue_Service" title="West Yorkshire Fire and Rescue Service">West Yorkshire Fire &amp; Rescue</a> covers Calderdale and it has six fire stations in the borough. These are located at Brighouse, Elland, King Cross (Halifax Fire Station), Mytholmroyd, Illingworth, and Todmorden.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Libraries">Libraries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calderdale&amp;action=edit&amp;section=9" title="Edit section: Libraries">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Calderdale Libraries provides services through 22 local library branches, including a central library in Halifax, and also offer a home library service and digital library service.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> In 2014, construction began on a new central library and archive building in Halifax, adjacent to the <a href="/wiki/Piece_Hall" title="Piece Hall">Piece Hall</a> and the <a href="/wiki/Square_Chapel" title="Square Chapel">Square Chapel</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>  The new Central Library and Archive officially opened in September 2017.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calderdale&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.calderdale.gov.uk/v2/council/councillors-and-decision-making/mayoralty">"The Mayoralty"</a>. <i>Calderdale Council</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Calderdale+Council&amp;rft.atitle=The+Mayoralty&amp;rft_id=https%3A%2F%2Fwww.calderdale.gov.uk%2Fv2%2Fcouncil%2Fcouncillors-and-decision-making%2Fmayoralty&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalderdale" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Council, Calderdale Metropolitan Borough (28 November 2003). <a rel="nofollow" class="external text" href="http://www.calderdale.gov.uk/council/councillors/councillors/search/detail.jsp">"Introduction: Search for your councillor: Calderdale Council"</a>. <i>calderdale.gov.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=calderdale.gov.uk&amp;rft.atitle=Introduction%3A+Search+for+your+councillor%3A+Calderdale+Council&amp;rft.date=2003-11-28&amp;rft.aulast=Council&amp;rft.aufirst=Calderdale+Metropolitan+Borough&amp;rft_id=http%3A%2F%2Fwww.calderdale.gov.uk%2Fcouncil%2Fcouncillors%2Fcouncillors%2Fsearch%2Fdetail.jsp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalderdale" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.halifaxcourier.co.uk/news/robin-tuddenham-to-take-over-as-new-calderdale-council-chief-executive-1-8532937">https://www.halifaxcourier.co.uk/news/robin-tuddenham-to-take-over-as-new-calderdale-council-chief-executive-1-8532937</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://neighbourhood.statistics.gov.uk/dissemination/LeadTableView.do?a=7&amp;b=276808&amp;c=Calderdale&amp;d=13&amp;e=16&amp;g=380096&amp;i=1001x1003x1004&amp;m=0&amp;r=1&amp;s=1251150751007&amp;enc=1&amp;dsFamilyId=95">"Local statistics - Office for National Statistics"</a>. <i>neighbourhood.statistics.gov.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=neighbourhood.statistics.gov.uk&amp;rft.atitle=Local+statistics+-+Office+for+National+Statistics&amp;rft_id=http%3A%2F%2Fneighbourhood.statistics.gov.uk%2Fdissemination%2FLeadTableView.do%3Fa%3D7%26b%3D276808%26c%3DCalderdale%26d%3D13%26e%3D16%26g%3D380096%26i%3D1001x1003x1004%26m%3D0%26r%3D1%26s%3D1251150751007%26enc%3D1%26dsFamilyId%3D95&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalderdale" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.neighbourhood.statistics.gov.uk/dissemination/LeadKeyFigures.do?a=7&amp;b=6275043&amp;c=Calderdale&amp;d=13&amp;e=62&amp;g=6370636&amp;i=1001x1003x1032x1004&amp;m=0&amp;r=1&amp;s=1456153636979&amp;enc=1">"Local Authority population 2011"</a>. <i>Neighbourhood Statistics</i>. Office for National Statistics<span class="reference-accessdate">. Retrieved <span class="nowrap">22 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Neighbourhood+Statistics&amp;rft.atitle=Local+Authority+population+2011&amp;rft_id=http%3A%2F%2Fwww.neighbourhood.statistics.gov.uk%2Fdissemination%2FLeadKeyFigures.do%3Fa%3D7%26b%3D6275043%26c%3DCalderdale%26d%3D13%26e%3D62%26g%3D6370636%26i%3D1001x1003x1032x1004%26m%3D0%26r%3D1%26s%3D1456153636979%26enc%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalderdale" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.lmu.ac.uk/the_news/dec06/halifax_centre_post.htm">University Centre Calderdale</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090208143606/http://www.lmu.ac.uk/the_news/dec06/halifax_centre_post.htm">Archived</a> 8 February 2009 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111128044947/http://calderdale.gov.uk/council/statistics/ward-information/wardprofiles/index.html">"Ward profiles 2010"</a>. Calderdale Council. Archived from <a rel="nofollow" class="external text" href="http://www.calderdale.gov.uk/council/statistics/ward-information/wardprofiles/index.html">the original</a> on 28 November 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">16 December</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ward+profiles+2010&amp;rft.pub=Calderdale+Council&amp;rft_id=http%3A%2F%2Fwww.calderdale.gov.uk%2Fcouncil%2Fstatistics%2Fward-information%2Fwardprofiles%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalderdale" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Choices, N. H. S. <a rel="nofollow" class="external text" href="http://www.nhs.uk/ServiceDirectories/pages/Hospital.aspx?id=RWY02">"Overview - Calderdale Royal Hospital - NHS Choices"</a>. <i>www.nhs.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.nhs.uk&amp;rft.atitle=Overview+-+Calderdale+Royal+Hospital+-+NHS+Choices&amp;rft.aulast=Choices&amp;rft.aufirst=N.+H.+S.&amp;rft_id=http%3A%2F%2Fwww.nhs.uk%2FServiceDirectories%2Fpages%2FHospital.aspx%3Fid%3DRWY02&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalderdale" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-auto-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-auto_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-auto_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090510021828/http://www.westyorkshire.police.uk/npt/Division.asp?id=7">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.westyorkshire.police.uk/npt/Division.asp?id=7">the original</a> on 10 May 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">24 August</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.westyorkshire.police.uk%2Fnpt%2FDivision.asp%3Fid%3D7&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalderdale" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.westyorkshire.police.uk/section-item.asp?sid=12&amp;iid=8008">[1]</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since November 2017">permanent dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100324131252/http://www.westyorksfire.gov.uk/aboutUs/au_stations.htm">"Archived copy"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.westyorksfire.gov.uk/aboutUs/au_stations.htm">the original</a> on 24 March 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">23 November</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.westyorksfire.gov.uk%2FaboutUs%2Fau_stations.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalderdale" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: archived copy as title (<a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.calderdale.gov.uk/v2/residents/leisure-and-culture/libraries">"Libraries"</a>. Calderdale Council<span class="reference-accessdate">. Retrieved <span class="nowrap">3 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Libraries&amp;rft.pub=Calderdale+Council&amp;rft_id=http%3A%2F%2Fwww.calderdale.gov.uk%2Fv2%2Fresidents%2Fleisure-and-culture%2Flibraries&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalderdale" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://portal.calderdale.gov.uk/online-applications/applicationDetails.do?activeTab=summary&amp;keyVal=MNVFWGDW0D600">"Central Library and Archive incorporating steeple and ruins of Square Road Church (Amended Plans) | Former Square Road Church Burial Grounds Square Road Halifax Calderdale"</a> <span class="cs1-format">(13/00671/LAA)</span>. <i>portal.calderdale.gov.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=portal.calderdale.gov.uk&amp;rft.atitle=Central+Library+and+Archive+incorporating+steeple+and+ruins+of+Square+Road+Church+%28Amended+Plans%29+%7C+Former+Square+Road+Church+Burial+Grounds+Square+Road+Halifax+Calderdale&amp;rft_id=https%3A%2F%2Fportal.calderdale.gov.uk%2Fonline-applications%2FapplicationDetails.do%3FactiveTab%3Dsummary%26keyVal%3DMNVFWGDW0D600&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalderdale" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.calderdale.gov.uk/v2/residents/leisure-and-culture/libraries/new-central-library-and-archive/tour-new-central-library">"Tour new central library and archive"</a>. Calderdale Council<span class="reference-accessdate">. Retrieved <span class="nowrap">3 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tour+new+central+library+and+archive&amp;rft.pub=Calderdale+Council&amp;rft_id=https%3A%2F%2Fwww.calderdale.gov.uk%2Fv2%2Fresidents%2Fleisure-and-culture%2Flibraries%2Fnew-central-library-and-archive%2Ftour-new-central-library&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalderdale" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.calderdale.gov.uk/take-extra-care-while-work-underway/">"Take extra care while work underway"</a>. <i>News Centre - Official news site of Calderdale Council</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=News+Centre+-+Official+news+site+of+Calderdale+Council&amp;rft.atitle=Take+extra+care+while+work+underway&amp;rft_id=http%3A%2F%2Fnews.calderdale.gov.uk%2Ftake-extra-care-while-work-underway%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalderdale" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.calderdale.gov.uk/our-new-central-library-opens-the-next-chapter/">"Our new Central Library opens – the next chapter!"</a>. <i>News Centre - Official news site of Calderdale Council</i><span class="reference-accessdate">. Retrieved <span class="nowrap">3 February</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=News+Centre+-+Official+news+site+of+Calderdale+Council&amp;rft.atitle=Our+new+Central+Library+opens+%E2%80%93+the+next+chapter%21&amp;rft_id=http%3A%2F%2Fnews.calderdale.gov.uk%2Four-new-central-library-opens-the-next-chapter%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACalderdale" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Calderdale&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/Calderdale#Q1026448" class="extiw" title="wikivoyage:Calderdale">Calderdale</a></b></i>.</td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Metropolitan_Borough_of_Calderdale" class="extiw" title="commons:Category:Metropolitan Borough of Calderdale">Metropolitan Borough of Calderdale</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.calderdale.gov.uk/index.html">Calderdale Council website</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090912071049/http://www.calderdale.ac.uk/default.php">Calderdale College website</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.calderdale.gov.uk/wtw/index.html">From Weaver to Web, online visual archive of Calderdale history</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.calderdale.gov.uk/environment/conservation/listedbuildings/list-results.jsp">Listed buildings in Calderdale</a></li>
+<li><a rel="nofollow" class="external text" href="http://freepages.history.rootsweb.ancestry.com/~calderdalecompanion/mmc10.html">Malcolm Bull's Calderdale Companion</a></li>
+<li>(Twinned with Calderdale) <a href="/wiki/County_Mayo" title="County Mayo">County Mayo</a>,Ireland</li></ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Calderdale&amp;params=53.72_N_1.97_W_type:adm2nd_dim:20000_region:GB"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°43′N</span> <span class="longitude">1°58′W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.72°N 1.97°W</span><span style="display:none">&#xfeff; / <span class="geo">53.72; -1.97</span></span></span></a></span></span></span>
+</p>
+<div role="navigation" class="navbox" aria-labelledby="Ceremonial_county_of_West_Yorkshire" style="padding:3px"><table class="nowraplinks hlist vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:West_Yorkshire" title="Template:West Yorkshire"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:West_Yorkshire" title="Template talk:West Yorkshire"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:West_Yorkshire&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Ceremonial_county_of_West_Yorkshire" class="adr" style="font-size:114%;margin:0 4em"><span class="category"><a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">Ceremonial county</a></span> of <span class="fn org region"><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></span></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="Yorkshire_Portal"><i><a href="/wiki/Portal:Yorkshire" title="Portal:Yorkshire">Yorkshire Portal</a></i></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Metropolitan districts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/City_of_Bradford" title="City of Bradford">City of Bradford</a></li>
+<li><a href="/wiki/City_of_Leeds" title="City of Leeds">City of Leeds</a></li>
+<li><a href="/wiki/City_of_Wakefield" title="City of Wakefield">City of Wakefield</a></li>
+<li><a class="mw-selflink selflink">Metropolitan Borough of Calderdale</a></li>
+<li><a href="/wiki/Kirklees" title="Kirklees">Metropolitan Borough of Kirklees</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Major settlements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baildon" title="Baildon">Baildon</a></li>
+<li><a href="/wiki/Batley" title="Batley">Batley</a></li>
+<li><a href="/wiki/Bingley" title="Bingley">Bingley</a></li>
+<li><a href="/wiki/Bradford" title="Bradford">Bradford</a></li>
+<li><a href="/wiki/Brighouse" title="Brighouse">Brighouse</a></li>
+<li><a href="/wiki/Castleford" title="Castleford">Castleford</a></li>
+<li><a href="/wiki/Cleckheaton" title="Cleckheaton">Cleckheaton</a></li>
+<li><a href="/wiki/Denholme" title="Denholme">Denholme</a></li>
+<li><a href="/wiki/Dewsbury" title="Dewsbury">Dewsbury</a></li>
+<li><a href="/wiki/Elland" title="Elland">Elland</a></li>
+<li><a href="/wiki/Farsley" title="Farsley">Farsley</a></li>
+<li><a href="/wiki/Featherstone" title="Featherstone">Featherstone</a></li>
+<li><a href="/wiki/Guiseley" title="Guiseley">Guiseley</a></li>
+<li><a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a></li>
+<li><a href="/wiki/Hebden_Bridge" title="Hebden Bridge">Hebden Bridge</a></li>
+<li><a href="/wiki/Heckmondwike" title="Heckmondwike">Heckmondwike</a></li>
+<li><a href="/wiki/Hemsworth" title="Hemsworth">Hemsworth</a></li>
+<li><a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a></li>
+<li><a href="/wiki/Horbury" title="Horbury">Horbury</a></li>
+<li><a href="/wiki/Horsforth" title="Horsforth">Horsforth</a></li>
+<li><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></li>
+<li><a href="/wiki/Ilkley" title="Ilkley">Ilkley</a></li>
+<li><a href="/wiki/Keighley" title="Keighley">Keighley</a></li>
+<li><a href="/wiki/Knottingley" title="Knottingley">Knottingley</a></li>
+<li><a href="/wiki/Leeds" title="Leeds">Leeds</a></li>
+<li><a href="/wiki/Meltham" title="Meltham">Meltham</a></li>
+<li><a href="/wiki/Mirfield" title="Mirfield">Mirfield</a></li>
+<li><a href="/wiki/Morley,_West_Yorkshire" title="Morley, West Yorkshire">Morley</a></li>
+<li><a href="/wiki/Normanton,_West_Yorkshire" title="Normanton, West Yorkshire">Normanton</a></li>
+<li><a href="/wiki/Ossett" title="Ossett">Ossett</a></li>
+<li><a href="/wiki/Otley" title="Otley">Otley</a></li>
+<li><a href="/wiki/Pontefract" title="Pontefract">Pontefract</a></li>
+<li><a href="/wiki/Pudsey" title="Pudsey">Pudsey</a></li>
+<li><a href="/wiki/Rothwell,_West_Yorkshire" title="Rothwell, West Yorkshire">Rothwell</a></li>
+<li><a href="/wiki/Shipley,_West_Yorkshire" title="Shipley, West Yorkshire">Shipley</a></li>
+<li><a href="/wiki/Silsden" title="Silsden">Silsden</a></li>
+<li><a href="/wiki/South_Elmsall" title="South Elmsall">South Elmsall</a></li>
+<li><a href="/wiki/Sowerby_Bridge" title="Sowerby Bridge">Sowerby Bridge</a></li>
+<li><a href="/wiki/Todmorden" title="Todmorden">Todmorden</a></li>
+<li><a href="/wiki/Wakefield" title="Wakefield">Wakefield</a></li>
+<li><a href="/wiki/Warley_Town" title="Warley Town">Warley Town</a></li>
+<li><a href="/wiki/Wetherby" title="Wetherby">Wetherby</a></li>
+<li><a href="/wiki/Yeadon,_West_Yorkshire" title="Yeadon, West Yorkshire">Yeadon</a><br /><i>See also:</i> <b><a href="/wiki/List_of_civil_parishes_in_West_Yorkshire" class="mw-redirect" title="List of civil parishes in West Yorkshire">List of civil parishes in West Yorkshire</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Topics</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Parliamentary_constituencies_in_West_Yorkshire" title="List of Parliamentary constituencies in West Yorkshire">Parliamentary constituencies</a></li>
+<li><a href="/wiki/West_Yorkshire_Joint_Services" title="West Yorkshire Joint Services">West Yorkshire Joint Services</a></li>
+<li><a href="/wiki/List_of_places_in_West_Yorkshire" class="mw-redirect" title="List of places in West Yorkshire">Places</a></li>
+<li><a href="/wiki/List_of_settlements_in_West_Yorkshire_by_population" title="List of settlements in West Yorkshire by population">Population of major settlements</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire" title="List of Sites of Special Scientific Interest in West Yorkshire">SSSIs</a></li>
+<li><a href="/wiki/Category:Country_houses_in_West_Yorkshire" title="Category:Country houses in West Yorkshire">Country houses</a></li>
+<li><a href="/wiki/Grade_I_listed_buildings_in_West_Yorkshire" title="Grade I listed buildings in West Yorkshire">Grade I listed buildings</a></li>
+<li><a href="/wiki/Grade_II*_listed_buildings_in_West_Yorkshire" title="Grade II* listed buildings in West Yorkshire">Grade II* listed buildings</a></li>
+<li><a href="/wiki/List_of_windmills_in_West_Yorkshire" title="List of windmills in West Yorkshire">Windmills</a></li>
+<li><a href="/wiki/History_of_West_Yorkshire" class="mw-redirect" title="History of West Yorkshire">History</a></li>
+<li><a href="/wiki/Lord_Lieutenant_of_West_Yorkshire" title="Lord Lieutenant of West Yorkshire">Lord Lieutenants</a></li>
+<li><a href="/wiki/High_Sheriff_of_West_Yorkshire" title="High Sheriff of West Yorkshire">High Sheriffs</a></li>
+<li><a href="/wiki/List_of_monastic_houses_in_West_Yorkshire" title="List of monastic houses in West Yorkshire">Monastic houses</a></li>
+<li><a href="/wiki/List_of_museums_in_West_Yorkshire" title="List of museums in West Yorkshire">Museums</a></li>
+<li><a href="/wiki/List_of_rivers_of_Yorkshire" title="List of rivers of Yorkshire">Rivers</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Districts_of_Yorkshire_and_the_Humber" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Yorkshire_and_the_Humber" title="Template:Yorkshire and the Humber"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Yorkshire_and_the_Humber" title="Template talk:Yorkshire and the Humber"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Yorkshire_and_the_Humber&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Districts_of_Yorkshire_and_the_Humber" style="font-size:114%;margin:0 4em"><a href="/wiki/Districts_of_England" title="Districts of England">Districts</a> of <a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire and the Humber</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/North_Lincolnshire" title="North Lincolnshire">North Lincolnshire</a></li>
+<li><a href="/wiki/North_East_Lincolnshire" title="North East Lincolnshire">North East Lincolnshire</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Yorkshire_and_the_Humber_districts_2011_map.svg" class="image"><img alt="Yorkshire and the Humber districts 2011 map.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Yorkshire_and_the_Humber_districts_2011_map.svg/175px-Yorkshire_and_the_Humber_districts_2011_map.svg.png" decoding="async" width="175" height="149" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Yorkshire_and_the_Humber_districts_2011_map.svg/263px-Yorkshire_and_the_Humber_districts_2011_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Yorkshire_and_the_Humber_districts_2011_map.svg/350px-Yorkshire_and_the_Humber_districts_2011_map.svg.png 2x" data-file-width="1425" data-file-height="1212" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Craven" title="Craven">Craven</a></li>
+<li><a href="/wiki/Hambleton_District" title="Hambleton District">Hambleton</a></li>
+<li><a href="/wiki/Borough_of_Harrogate" title="Borough of Harrogate">Harrogate</a></li>
+<li><a href="/wiki/Richmondshire" title="Richmondshire">Richmondshire</a></li>
+<li><a href="/wiki/Ryedale" title="Ryedale">Ryedale</a></li>
+<li><a href="/wiki/Borough_of_Scarborough" title="Borough of Scarborough">Scarborough</a></li>
+<li><a href="/wiki/Selby_District" title="Selby District">Selby</a></li>
+<li><b><a href="/wiki/York" title="York">York</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/South_Yorkshire" title="South Yorkshire">South Yorkshire</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Metropolitan_Borough_of_Barnsley" title="Metropolitan Borough of Barnsley">Barnsley</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Doncaster" title="Metropolitan Borough of Doncaster">Doncaster</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Rotherham" title="Metropolitan Borough of Rotherham">Rotherham</a></li>
+<li><b><a href="/wiki/Sheffield" title="Sheffield">Sheffield</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/City_of_Bradford" title="City of Bradford">Bradford</a></b></li>
+<li><a class="mw-selflink selflink">Calderdale</a></li>
+<li><a href="/wiki/Kirklees" title="Kirklees">Kirklees</a></li>
+<li><b><a href="/wiki/City_of_Leeds" title="City of Leeds">Leeds</a></b></li>
+<li><b><a href="/wiki/City_of_Wakefield" title="City of Wakefield">Wakefield</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a></li>
+<li><b><a href="/wiki/Kingston_upon_Hull" title="Kingston upon Hull">Kingston upon Hull</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Metropolitan_districts_of_England" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Metropolitan_districts_of_England" title="Template:Metropolitan districts of England"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Metropolitan_districts_of_England" title="Template talk:Metropolitan districts of England"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Metropolitan_districts_of_England&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Metropolitan_districts_of_England" style="font-size:114%;margin:0 4em"><a href="/wiki/Metropolitan_borough" title="Metropolitan borough">Metropolitan districts of England</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Districts</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Metropolitan_Borough_of_Barnsley" title="Metropolitan Borough of Barnsley">Barnsley</a></li>
+<li><a href="/wiki/Birmingham" title="Birmingham">Birmingham</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Bolton" title="Metropolitan Borough of Bolton">Bolton</a></li>
+<li><a href="/wiki/City_of_Bradford" title="City of Bradford">Bradford</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Bury" title="Metropolitan Borough of Bury">Bury</a></li>
+<li><a class="mw-selflink selflink">Calderdale</a></li>
+<li><a href="/wiki/Coventry" title="Coventry">Coventry</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Doncaster" title="Metropolitan Borough of Doncaster">Doncaster</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Dudley" title="Metropolitan Borough of Dudley">Dudley</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Gateshead" title="Metropolitan Borough of Gateshead">Gateshead</a></li>
+<li><a href="/wiki/Kirklees" title="Kirklees">Kirklees</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Knowsley" title="Metropolitan Borough of Knowsley">Knowsley</a></li>
+<li><a href="/wiki/City_of_Leeds" title="City of Leeds">Leeds</a></li>
+<li><a href="/wiki/Liverpool" title="Liverpool">Liverpool</a></li>
+<li><a href="/wiki/Manchester" title="Manchester">Manchester</a></li>
+<li><a href="/wiki/Newcastle_upon_Tyne" title="Newcastle upon Tyne">Newcastle upon Tyne</a></li>
+<li><a href="/wiki/North_Tyneside" title="North Tyneside">North Tyneside</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Oldham" title="Metropolitan Borough of Oldham">Oldham</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Rochdale" title="Metropolitan Borough of Rochdale">Rochdale</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Rotherham" title="Metropolitan Borough of Rotherham">Rotherham</a></li>
+<li><a href="/wiki/City_of_Salford" title="City of Salford">Salford</a></li>
+<li><a href="/wiki/Sandwell" title="Sandwell">Sandwell</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Sefton" title="Metropolitan Borough of Sefton">Sefton</a></li>
+<li><a href="/wiki/Sheffield" title="Sheffield">Sheffield</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Solihull" title="Metropolitan Borough of Solihull">Solihull</a></li>
+<li><a href="/wiki/South_Tyneside" title="South Tyneside">South Tyneside</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_St_Helens" title="Metropolitan Borough of St Helens">St Helens</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Stockport" title="Metropolitan Borough of Stockport">Stockport</a></li>
+<li><a href="/wiki/City_of_Sunderland" title="City of Sunderland">Sunderland</a></li>
+<li><a href="/wiki/Tameside" title="Tameside">Tameside</a></li>
+<li><a href="/wiki/Trafford" title="Trafford">Trafford</a></li>
+<li><a href="/wiki/City_of_Wakefield" title="City of Wakefield">Wakefield</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Walsall" title="Metropolitan Borough of Walsall">Walsall</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Wigan" title="Metropolitan Borough of Wigan">Wigan</a></li>
+<li><a href="/wiki/Metropolitan_Borough_of_Wirral" title="Metropolitan Borough of Wirral">Wirral</a></li>
+<li><a href="/wiki/Wolverhampton" title="Wolverhampton">Wolverhampton</a></li></ul>
+</div></td><td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:English_metropolitan_boroughs_2009.svg" class="image"><img alt="English metropolitan boroughs 2009.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/English_metropolitan_boroughs_2009.svg/125px-English_metropolitan_boroughs_2009.svg.png" decoding="async" width="125" height="152" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/English_metropolitan_boroughs_2009.svg/188px-English_metropolitan_boroughs_2009.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/English_metropolitan_boroughs_2009.svg/250px-English_metropolitan_boroughs_2009.svg.png 2x" data-file-width="1108" data-file-height="1345" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Councils</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barnsley_Metropolitan_Borough_Council" title="Barnsley Metropolitan Borough Council">Barnsley</a></li>
+<li><a href="/wiki/Birmingham_City_Council" title="Birmingham City Council">Birmingham</a></li>
+<li><a href="/wiki/Bolton_Council" title="Bolton Council">Bolton</a></li>
+<li><a href="/wiki/City_of_Bradford_Metropolitan_District_Council" title="City of Bradford Metropolitan District Council">Bradford</a></li>
+<li><a href="/wiki/Bury_Metropolitan_Borough_Council" title="Bury Metropolitan Borough Council">Bury</a></li>
+<li><a href="/wiki/Calderdale_Metropolitan_Borough_Council" title="Calderdale Metropolitan Borough Council">Calderdale</a></li>
+<li><a href="/wiki/Coventry_City_Council" title="Coventry City Council">Coventry</a></li>
+<li><a href="/wiki/Doncaster_Council" class="mw-redirect" title="Doncaster Council">Doncaster</a></li>
+<li><a href="/wiki/Dudley_Metropolitan_Borough_Council" title="Dudley Metropolitan Borough Council">Dudley</a></li>
+<li><a href="/wiki/Gateshead_Metropolitan_Borough_Council" class="mw-redirect" title="Gateshead Metropolitan Borough Council">Gateshead</a></li>
+<li><a href="/wiki/Kirklees_Council" title="Kirklees Council">Kirklees</a></li>
+<li><a href="/wiki/Knowsley_Metropolitan_Borough_Council" title="Knowsley Metropolitan Borough Council">Knowsley</a></li>
+<li><a href="/wiki/Leeds_City_Council" title="Leeds City Council">Leeds</a></li>
+<li><a href="/wiki/Liverpool_City_Council" title="Liverpool City Council">Liverpool</a></li>
+<li><a href="/wiki/Manchester_City_Council" title="Manchester City Council">Manchester</a></li>
+<li><a href="/wiki/Newcastle_City_Council" title="Newcastle City Council">Newcastle upon Tyne</a></li>
+<li><a href="/wiki/North_Tyneside_Council" title="North Tyneside Council">North Tyneside</a></li>
+<li><a href="/wiki/Oldham_Council" title="Oldham Council">Oldham</a></li>
+<li><a href="/wiki/Rochdale_Borough_Council" title="Rochdale Borough Council">Rochdale</a></li>
+<li><a href="/wiki/Rotherham_Metropolitan_Borough_Council" title="Rotherham Metropolitan Borough Council">Rotherham</a></li>
+<li><a href="/wiki/Salford_City_Council" title="Salford City Council">Salford</a></li>
+<li><a href="/wiki/Sandwell_Metropolitan_Borough_Council" title="Sandwell Metropolitan Borough Council">Sandwell</a></li>
+<li><a href="/wiki/Sefton_Council" title="Sefton Council">Sefton</a></li>
+<li><a href="/wiki/Sheffield_City_Council" title="Sheffield City Council">Sheffield</a></li>
+<li><a href="/wiki/Solihull_Metropolitan_Borough_Council" title="Solihull Metropolitan Borough Council">Solihull</a></li>
+<li><a href="/wiki/South_Tyneside_Council" title="South Tyneside Council">South Tyneside</a></li>
+<li><a href="/wiki/St_Helens_Council" title="St Helens Council">St Helens</a></li>
+<li><a href="/wiki/Stockport_Metropolitan_Borough_Council" title="Stockport Metropolitan Borough Council">Stockport</a></li>
+<li><a href="/wiki/Sunderland_City_Council" title="Sunderland City Council">Sunderland</a></li>
+<li><a href="/wiki/Tameside_Metropolitan_Borough_Council" title="Tameside Metropolitan Borough Council">Tameside</a></li>
+<li><a href="/wiki/Trafford_Council" title="Trafford Council">Trafford</a></li>
+<li><a href="/wiki/Wakefield_Council" title="Wakefield Council">Wakefield</a></li>
+<li><a href="/wiki/Walsall_Council" title="Walsall Council">Walsall</a></li>
+<li><a href="/wiki/Wigan_Metropolitan_Borough_Council" title="Wigan Metropolitan Borough Council">Wigan</a></li>
+<li><a href="/wiki/Wirral_Council" title="Wirral Council">Wirral</a></li>
+<li><a href="/wiki/Wolverhampton_City_Council" class="mw-redirect" title="Wolverhampton City Council">Wolverhampton</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Local elections</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Barnsley_Metropolitan_Borough_Council_elections" title="Barnsley Metropolitan Borough Council elections">Barnsley</a></li>
+<li><a href="/wiki/Birmingham_City_Council_elections" title="Birmingham City Council elections">Birmingham</a></li>
+<li><a href="/wiki/Bolton_Metropolitan_Borough_Council_elections" title="Bolton Metropolitan Borough Council elections">Bolton</a></li>
+<li><a href="/wiki/City_of_Bradford_Metropolitan_District_Council_elections" title="City of Bradford Metropolitan District Council elections">Bradford</a></li>
+<li><a href="/wiki/Bury_Metropolitan_Borough_Council_elections" title="Bury Metropolitan Borough Council elections">Bury</a></li>
+<li><a href="/wiki/Calderdale_Metropolitan_Borough_Council_elections" title="Calderdale Metropolitan Borough Council elections">Calderdale</a></li>
+<li><a href="/wiki/Coventry_City_Council_elections" title="Coventry City Council elections">Coventry</a></li>
+<li><a href="/wiki/Doncaster_Metropolitan_Borough_Council_elections" title="Doncaster Metropolitan Borough Council elections">Doncaster</a></li>
+<li><a href="/wiki/Dudley_Metropolitan_Borough_Council_elections" title="Dudley Metropolitan Borough Council elections">Dudley</a></li>
+<li><a href="/wiki/Gateshead_Metropolitan_Borough_Council_elections" title="Gateshead Metropolitan Borough Council elections">Gateshead</a></li>
+<li><a href="/wiki/Kirklees_Metropolitan_Borough_Council_elections" title="Kirklees Metropolitan Borough Council elections">Kirklees</a></li>
+<li><a href="/wiki/Knowsley_Metropolitan_Borough_Council_elections" title="Knowsley Metropolitan Borough Council elections">Knowsley</a></li>
+<li><a href="/wiki/Leeds_City_Council_elections" title="Leeds City Council elections">Leeds</a></li>
+<li><a href="/wiki/Liverpool_City_Council_elections" title="Liverpool City Council elections">Liverpool</a></li>
+<li><a href="/wiki/Manchester_City_Council_elections" title="Manchester City Council elections">Manchester</a></li>
+<li><a href="/wiki/Newcastle_City_Council_elections" title="Newcastle City Council elections">Newcastle upon Tyne</a></li>
+<li><a href="/wiki/North_Tyneside_Metropolitan_Borough_Council_elections" title="North Tyneside Metropolitan Borough Council elections">North Tyneside</a></li>
+<li><a href="/wiki/Oldham_Metropolitan_Borough_Council_elections" title="Oldham Metropolitan Borough Council elections">Oldham</a></li>
+<li><a href="/wiki/Rochdale_Metropolitan_Borough_Council_elections" title="Rochdale Metropolitan Borough Council elections">Rochdale</a></li>
+<li><a href="/wiki/Rotherham_Metropolitan_Borough_Council_elections" title="Rotherham Metropolitan Borough Council elections">Rotherham</a></li>
+<li><a href="/wiki/Salford_City_Council_elections" title="Salford City Council elections">Salford</a></li>
+<li><a href="/wiki/Sandwell_Metropolitan_Borough_Council_elections" title="Sandwell Metropolitan Borough Council elections">Sandwell</a></li>
+<li><a href="/wiki/Sefton_Metropolitan_Borough_Council_elections" title="Sefton Metropolitan Borough Council elections">Sefton</a></li>
+<li><a href="/wiki/Sheffield_City_Council_elections" title="Sheffield City Council elections">Sheffield</a></li>
+<li><a href="/wiki/Solihull_Metropolitan_Borough_Council_elections" title="Solihull Metropolitan Borough Council elections">Solihull</a></li>
+<li><a href="/wiki/South_Tyneside_Metropolitan_Borough_Council_elections" title="South Tyneside Metropolitan Borough Council elections">South Tyneside</a></li>
+<li><a href="/wiki/St_Helens_Metropolitan_Borough_Council_elections" title="St Helens Metropolitan Borough Council elections">St Helens</a></li>
+<li><a href="/wiki/Stockport_Metropolitan_Borough_Council_elections" title="Stockport Metropolitan Borough Council elections">Stockport</a></li>
+<li><a href="/wiki/Sunderland_City_Council_elections" title="Sunderland City Council elections">Sunderland</a></li>
+<li><a href="/wiki/Tameside_Metropolitan_Borough_Council_elections" title="Tameside Metropolitan Borough Council elections">Tameside</a></li>
+<li><a href="/wiki/Trafford_Metropolitan_Borough_Council_elections" title="Trafford Metropolitan Borough Council elections">Trafford</a></li>
+<li><a href="/wiki/Wakefield_Metropolitan_District_Council_elections" title="Wakefield Metropolitan District Council elections">Wakefield</a></li>
+<li><a href="/wiki/Walsall_Metropolitan_Borough_Council_elections" title="Walsall Metropolitan Borough Council elections">Walsall</a></li>
+<li><a href="/wiki/Wigan_Metropolitan_Borough_Council_elections" title="Wigan Metropolitan Borough Council elections">Wigan</a></li>
+<li><a href="/wiki/Wirral_Metropolitan_Borough_Council_elections" title="Wirral Metropolitan Borough Council elections">Wirral</a></li>
+<li><a href="/wiki/Wolverhampton_City_Council_elections" class="mw-redirect" title="Wolverhampton City Council elections">Wolverhampton</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1026448&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q1026448&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q1026448" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n85081826">n85081826</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/144503953">144503953</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/144503953">144503953</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1293
+Cached time: 20190926222357
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.648 seconds
+Real time usage: 0.928 seconds
+Preprocessor visited node count: 5270/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 113035/2097152 bytes
+Template argument size: 11805/2097152 bytes
+Highest expansion depth: 24/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 40650/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.265/10.000 seconds
+Lua memory usage: 6.44 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  809.716      1 -total
+ 38.54%  312.077      1 Template:Infobox_settlement
+ 25.37%  205.456      1 Template:Infobox
+ 21.94%  177.679      1 Template:Reflist
+ 14.46%  117.116     11 Template:Cite_web
+  6.85%   55.438      1 Template:Wikivoyage
+  6.80%   55.053      2 Template:Sister_project
+  6.64%   53.742      7 Template:Main_other
+  6.25%   50.589      2 Template:Side_box
+  5.74%   46.466      1 Template:Infobox_settlement/areadisp
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:304266-0!canonical and timestamp 20190926222357 and revision id 915788998
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Calderdale&amp;oldid=915788998">https://en.wikipedia.org/w/index.php?title=Calderdale&amp;oldid=915788998</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Calderdale" title="Category:Calderdale">Calderdale</a></li><li><a href="/wiki/Category:Metropolitan_boroughs" title="Category:Metropolitan boroughs">Metropolitan boroughs</a></li><li><a href="/wiki/Category:Leeds_City_Region" title="Category:Leeds City Region">Leeds City Region</a></li><li><a href="/wiki/Category:Local_government_districts_of_Yorkshire_and_the_Humber" title="Category:Local government districts of Yorkshire and the Humber">Local government districts of Yorkshire and the Humber</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_maint:_archived_copy_as_title" title="Category:CS1 maint: archived copy as title">CS1 maint: archived copy as title</a></li><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_November_2017" title="Category:Articles with dead external links from November 2017">Articles with dead external links from November 2017</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_February_2018" title="Category:Use dmy dates from February 2018">Use dmy dates from February 2018</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Pages_using_infobox_settlement_with_possible_motto_list" title="Category:Pages using infobox settlement with possible motto list">Pages using infobox settlement with possible motto list</a></li><li><a href="/wiki/Category:Pages_using_infobox_settlement_with_unknown_parameters" title="Category:Pages using infobox settlement with unknown parameters">Pages using infobox settlement with unknown parameters</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2014" title="Category:Articles with unsourced statements from January 2014">Articles with unsourced statements from January 2014</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Calderdale" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Calderdale" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Calderdale" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Calderdale" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Calderdale">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Calderdale&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Calderdale&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Calderdale" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Calderdale" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Calderdale&amp;oldid=915788998" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Calderdale&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1026448" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Calderdale&amp;id=915788998" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Metropolitan_Borough_of_Calderdale" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Calderdale">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Calderdale&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Calderdale&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%B4%D1%8A%D1%80%D0%B4%D0%B5%D0%B9%D0%BB_(%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D0%B0)" title="Колдърдейл (община) – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Calderdale" title="Calderdale – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Calderdale" title="Calderdale – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Calderdale" title="Calderdale – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Calderdale" title="Calderdale – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Calderdale" title="Calderdale – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D9%84%D8%AF%D8%B1%D8%AF%DB%8C%D9%84" title="کالدردیل – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Calderdale" title="Calderdale – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%BD%9C%EB%8D%94%EB%8D%B0%EC%9D%BC" title="콜더데일 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Calderdale" title="Calderdale – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Calderdale" title="Calderdale – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Calderdale" title="Calderdale – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Calderdale" title="Calderdale – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Calderdale" title="Calderdale – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%B4%D0%B5%D1%80%D0%B4%D0%B5%D0%B9%D0%BB" title="Колдердейл – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Calderdale" title="Calderdale – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%DA%A9%D9%84%DA%88%D8%B1%DA%88%DB%8C%D9%84" title="کلڈرڈیل – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1026448#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 15 September 2019, at 09:38<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Calderdale&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.648","walltime":"0.928","ppvisitednodes":{"value":5270,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":113035,"limit":2097152},"templateargumentsize":{"value":11805,"limit":2097152},"expansiondepth":{"value":24,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":40650,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  809.716      1 -total"," 38.54%  312.077      1 Template:Infobox_settlement"," 25.37%  205.456      1 Template:Infobox"," 21.94%  177.679      1 Template:Reflist"," 14.46%  117.116     11 Template:Cite_web","  6.85%   55.438      1 Template:Wikivoyage","  6.80%   55.053      2 Template:Sister_project","  6.64%   53.742      7 Template:Main_other","  6.25%   50.589      2 Template:Side_box","  5.74%   46.466      1 Template:Infobox_settlement/areadisp"]},"scribunto":{"limitreport-timeusage":{"value":"0.265","limit":"10.000"},"limitreport-memusage":{"value":6757788,"limit":52428800}},"cachereport":{"origin":"mw1293","timestamp":"20190926222357","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Calderdale","url":"https:\/\/en.wikipedia.org\/wiki\/Calderdale","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1026448","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1026448","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-08-25T10:06:43Z","dateModified":"2019-09-15T09:38:02Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/34\/Coat_of_arms_of_Calderdale_Metropolitan_Borough_Council.png","headline":"metropolitan borough in West Yorkshire, United Kingdom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1271"});});</script>
+</body>
+</html>
+

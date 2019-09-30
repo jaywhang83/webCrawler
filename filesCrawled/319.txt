@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Christian name - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Christian_name","wgTitle":"Christian name","wgCurRevisionId":907517470,"wgRevisionId":907517470,"wgArticleId":861121,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles incorporating text from the 1913 Catholic Encyclopedia with Wikisource reference","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from October 2015","Given names","Christian terminology","Baptism"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan",
+"Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Christian_name","wgRelevantArticleId":861121,"wgRequestId":"XYZdPApAMFEAAHMhCZcAAAAF","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2396897","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":
+"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/US_Navy_041219-N-1485Q-001_Chaplain%2C_Cmdr._Michael_L._Schutz_performs_a_baptism_on_the_flight_deck_of_the_conventionally_powered_aircraft_carrier_USS_Kitty_Hawk_%28CV_63%29.jpg/1200px-thumbnail.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Christian_name"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Christian_name&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Christian_name&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Christian_name"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Christian_name rootpage-Christian_name skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Christian name</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about Christian names in their religious context. For first names in general, see <a href="/wiki/Given_name" title="Given name">Given name</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:US_Navy_041219-N-1485Q-001_Chaplain,_Cmdr._Michael_L._Schutz_performs_a_baptism_on_the_flight_deck_of_the_conventionally_powered_aircraft_carrier_USS_Kitty_Hawk_(CV_63).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/US_Navy_041219-N-1485Q-001_Chaplain%2C_Cmdr._Michael_L._Schutz_performs_a_baptism_on_the_flight_deck_of_the_conventionally_powered_aircraft_carrier_USS_Kitty_Hawk_%28CV_63%29.jpg/220px-thumbnail.jpg" decoding="async" width="220" height="171" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/US_Navy_041219-N-1485Q-001_Chaplain%2C_Cmdr._Michael_L._Schutz_performs_a_baptism_on_the_flight_deck_of_the_conventionally_powered_aircraft_carrier_USS_Kitty_Hawk_%28CV_63%29.jpg/330px-thumbnail.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/US_Navy_041219-N-1485Q-001_Chaplain%2C_Cmdr._Michael_L._Schutz_performs_a_baptism_on_the_flight_deck_of_the_conventionally_powered_aircraft_carrier_USS_Kitty_Hawk_%28CV_63%29.jpg/440px-thumbnail.jpg 2x" data-file-width="2160" data-file-height="1680" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:US_Navy_041219-N-1485Q-001_Chaplain,_Cmdr._Michael_L._Schutz_performs_a_baptism_on_the_flight_deck_of_the_conventionally_powered_aircraft_carrier_USS_Kitty_Hawk_(CV_63).jpg" class="internal" title="Enlarge"></a></div>A <a href="/wiki/Baptism" title="Baptism">baptism</a>, at which Christian names are traditionally given.</div></div></div>
+<p>A <b>Christian name</b>, sometimes referred to as a <b>baptismal name</b>, is a <a href="/wiki/Religious_name" title="Religious name">religious</a> <a href="/wiki/Personal_name" title="Personal name">personal name</a> historically given on the occasion of a Christian <a href="/wiki/Baptism" title="Baptism">baptism</a>, though now most often assigned by parents at birth.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> In English-speaking cultures, a person's Christian name is commonly his or her first name and is typically the name by which the person is primarily known.
+</p><p>Traditionally, a Christian name was given on the occasion of Christian <a href="/wiki/Baptism" title="Baptism">baptism</a>, with the ubiquity of <a href="/wiki/Infant_baptism" title="Infant baptism">infant baptism</a> in medieval <a href="/wiki/Christendom" title="Christendom">Christendom</a>. In <a href="/wiki/Elizabethan_England" class="mw-redirect" title="Elizabethan England">Elizabethan England</a>, as suggested by <a href="/wiki/William_Camden" title="William Camden">William Camden</a>, the term <i>Christian name</i> was not necessarily related to baptism, used merely in the sense of "given name": Christian names were imposed for the distinction of persons, surnames for the difference of families.<sup id="cite_ref-Thurston1913_2-0" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p><p>In more modern times, the terms have been used interchangeably with <a href="/wiki/Given_name" title="Given name">given name</a>, <a href="/wiki/First_name" class="mw-redirect" title="First name">first name</a> and <a href="/wiki/Forename" class="mw-redirect" title="Forename">forename</a> in traditionally Christian countries, and are still common in day-to-day use.
+</p><p>Strictly speaking, the Christian name is not merely the forename distinctive of the individual member of a family, but the name given to the person (generally a child) at his or her christening or baptism. In pre-<a href="/wiki/Protestant_Reformation" class="mw-redirect" title="Protestant Reformation">Reformation</a> England, the laity was taught to administer baptism in case of necessity with the words: "I christen thee in the name of the Father" etc. To "christen" in this context is therefore to "baptise", and "Christian name" means "baptismal name".<sup id="cite_ref-Thurston1913_2-1" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Origin"><span class="tocnumber">1</span> <span class="toctext">Origin</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Names_without_Christian_origin_and_significance"><span class="tocnumber">1.1</span> <span class="toctext">Names without Christian origin and significance</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Names_with_Christian_origin_and_significance"><span class="tocnumber">1.2</span> <span class="toctext">Names with Christian origin and significance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Change_of_name_at_baptism"><span class="tocnumber">2</span> <span class="toctext">Change of name at baptism</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Practice_regarding_names"><span class="tocnumber">3</span> <span class="toctext">Practice regarding names</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Confirmation_names"><span class="tocnumber">4</span> <span class="toctext">Confirmation names</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Origin">Origin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Christian_name&amp;action=edit&amp;section=1" title="Edit section: Origin">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In view of the <a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew practice</a> of giving a name to the male child at the time of his <a href="/wiki/Circumcision" title="Circumcision">circumcision</a> on the eighth day after birth (<a href="/wiki/Gospel_of_Luke" title="Gospel of Luke">Luke</a> 1:59), it has been maintained that the custom of conferring a name upon the newly baptised was of <a href="/wiki/Apostle_(Christian)" class="mw-redirect" title="Apostle (Christian)">Apostolic</a> origin. For instance, the apostle of the <a href="/wiki/Gentile" title="Gentile">Gentiles</a> was called Saul before his conversion and <a href="/wiki/Paul_the_Apostle" title="Paul the Apostle">Paul</a> afterwards. But modern scholars<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag possibly uses too-vague attribution or weasel words. (October 2015)">who?</span></a></i>&#93;</sup> have rejected this contention, since the baptism of St. Paul is recorded in <a href="/wiki/Acts_of_the_Apostles" title="Acts of the Apostles">Acts</a> 9:18, but the name Paul does not occur before Acts 13:9 while Saul is found several times in the interval. There is no more reason to connect the name Paul with the Apostle's baptism than there is to account in the same way for the giving of the name <a href="/wiki/Saint_Peter" title="Saint Peter">Cephas</a> or <a href="/wiki/Saint_Peter" title="Saint Peter">Peter</a>, which is due to another cause<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Avoid_weasel_words" class="mw-redirect" title="Wikipedia:Avoid weasel words"><span title="The material near this tag possibly uses too vague attribution or weasel words. (October 2015)">which?</span></a></i>&#93;</sup>. In the inscriptions of the  <a href="/wiki/Catacombs_of_Rome" title="Catacombs of Rome">Catacombs of Rome</a> and in early Christian literature, the names of Christians in the first three centuries did not distinctively differ from the names of the pagans around them. A reference to the <a href="/wiki/Pauline_epistles" title="Pauline epistles">Epistles of St. Paul</a> indicates that the names of pre-Christian gods and goddesses were used by his converts after their conversion as before. Hermes occurs in <a href="/wiki/Epistle_to_the_Romans" title="Epistle to the Romans">Romans</a> 16:14, with a number of other purely pagan names, <a href="/wiki/Epaphroditus" title="Epaphroditus">Epaphroditus</a> in <a href="/wiki/Epistle_to_the_Philippians" title="Epistle to the Philippians">Phil.</a> 4:18, <a href="/wiki/Phoebe_(biblical_figure)" title="Phoebe (biblical figure)">Phoebe</a>, the deaconess, in Romans 16:1.<sup id="cite_ref-Thurston1913_2-2" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p><p>Similar names are found in the Christian inscriptions of the earlier period and in the signatories appended to such councils as <a href="/wiki/First_Council_of_Nicaea" title="First Council of Nicaea">Nicaea</a> or <a href="/wiki/Synod_of_Ancyra" title="Synod of Ancyra">Ancyra</a>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> or again in the lists of <a href="/wiki/Christian_martyrs" title="Christian martyrs">martyrs</a>. At a later date the names are of a most miscellaneous character. The following classification is one that has been worked out by J. Bass Mullinger founded on Martigny.<sup id="cite_ref-Thurston1913_2-3" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Names_without_Christian_origin_and_significance">Names without Christian origin and significance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Christian_name&amp;action=edit&amp;section=2" title="Edit section: Names without Christian origin and significance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This category may be divided as follows:<sup id="cite_ref-Thurston1913_2-4" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p>
+<ul><li>derived unchanged or but slightly modified from pagan mythology, e.g., Mercurius, Bacchus, Apollos (I Corinthians 16:12), Hermogenes (Romans 16:4), etc.</li>
+<li>from religious rites or omens, e.g., Augustus, Auspicius, Augurius, Optatus;</li>
+<li>from numbers, e.g., Primus, Primigenius, Secundinus, Quartus, Octavia, etc.</li>
+<li>from colours, e.g., Albanus, Candidus, Rufus, etc.</li>
+<li>from animals and birds, e.g., Agnes, Asellus, Columbia, Leo, Taurus, Ursula, etc.</li>
+<li>from agriculture, e.g., Agricia, Armentarius, Palmatinus, Stereorius, etc.</li>
+<li>from flowers, e.g., Balsamia, Flosculus, Narcissus, Rosula;</li>
+<li>from jewels, e.g., Chrysanthus, Margarites, Smaragdus;</li>
+<li>from military life or the sea, e.g., Emerentiana, Navigia, Pelagia, Seutarius, Thalassus;</li>
+<li>from countries, cities, rivers etc.; Afra, Cydnus, Galla, Jordanis, Macedonius, Maurus, Sabina, Sebastianus, etc.</li>
+<li>from the months e.g., Aprilis, Januaria, Junia, etc.</li>
+<li>from personal qualities, etc., e.g., Aristo, Hilarius, Modestus, Pudens, etc.;</li>
+<li>from servile condition, e.g., Servus, Servilianus, Vernacla;</li>
+<li>names of historical celebrity, e.g., Caesarius, Cornelia, Pompeius, Ptolemaeus, Vergilius</li></ul>
+<h3><span class="mw-headline" id="Names_with_Christian_origin_and_significance">Names with Christian origin and significance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Christian_name&amp;action=edit&amp;section=3" title="Edit section: Names with Christian origin and significance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These include the following:<sup id="cite_ref-Thurston1913_2-5" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p>
+<ul><li>apparently suggested by Christian dogmas, e.g. Anastasia, Athanasia, Christophorus, Redemptus, Restitutus, etc.</li>
+<li>from festivals or rites, e.g., Epiphanius, Eulogia, Natalis, Pascasia, Sabbatius and the frequently recurring Martyrius;</li>
+<li>from Christian virtues, e.g., Agape, Elpis, Fides, Irene, with such derivatives as Adelphius, Agapetus, Caritosa, etc.</li>
+<li>pious sentiment, e.g., Adeodata, Ambrosius, Benedictus, Deogratias, etc., and possibly such names as Gaudentianus, Hilarius, Sozomen, Victorianus, Vincentius</li></ul>
+<p>Though the recurrence of such names as Agnes, Balbina, Cornelius, Felicitas, Irenaeus, Justinus, etc. may be due to veneration for the martyrs who first used these names, the names of the <a href="/wiki/New_Testament" title="New Testament">New Testament</a> are rarely found while those of the <a href="/wiki/Old_Testament" title="Old Testament">Old Testament</a> are more common. Susanna, Daniel, Moyses, Tobias, occur frequently, but towards the end of the 4th century the name of the <a href="/wiki/Mary_(mother_of_Jesus)" class="mw-redirect" title="Mary (mother of Jesus)">Blessed Lady</a> becomes as familiar as those of the Apostles. Paulus may be an intentional reference to St. Paul, and Johannes, Andreas, and Petrus with derivatives such as Petronia, Petrius, Petronilla, etc. may also refer to the Apostles. The name of Mary occurs occasionally in the catacomb inscriptions towards the end of the 4th century, for example, in the form <i>LIVIA MARIA IN PACE</i>,<sup id="cite_ref-Thurston1913_2-6" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> and there is a martyr Maria assigned to the date AD 256.<sup id="cite_ref-Thurston1913_2-7" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Change_of_name_at_baptism">Change of name at baptism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Christian_name&amp;action=edit&amp;section=4" title="Edit section: Change of name at baptism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the Acts of St. Balsamus, who died AD 331, there is an early example of the connection between baptism and the giving of a name. "By my paternal name", this martyr is said to have declared, "I am called Balsamus, but by the spiritual name which I received in baptism, I am known as Peter." The assumption of a new name was fairly common amongst Christians. <a href="/wiki/Eusebius" title="Eusebius">Eusebius</a> the historian took the name Pamphili from <a href="/wiki/Pamphilus_of_Caesarea" title="Pamphilus of Caesarea">Pamphilus</a>, the martyr whom he especially venerated. Earlier still <a href="/wiki/St._Cyprian" class="mw-redirect" title="St. Cyprian">St. Cyprian</a> chose to be called Cyprianus Caecilius out of gratitude to the Caecilius to whom he owed his conversion. <a href="/wiki/Pope_Dionysius_of_Alexandria" title="Pope Dionysius of Alexandria">St. Dionysius of Alexandria</a> (c. 260) declared, "I am of opinion that there were many of the same name as the <a href="/wiki/John_the_Apostle" title="John the Apostle">Apostle John</a>, who on account of their love for him, and because they admired and emulated him, and desired to be loved by the Lord as he was, took to themselves the same name, just as many of the children of the faithful are called Paul or Peter."<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-Thurston1913_2-8" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p><p>The assumption of any such new name would take place formally at baptism, in which the <a href="/wiki/Catechumen" class="mw-redirect" title="Catechumen">catechumen</a>, then probably as now, had to be addressed by some distinctive appellation, and the imposition of a new name at baptism had become general. Every child had necessarily to receive some name or other, and when baptism followed soon after birth this allowed public recognition of the choice made.<sup id="cite_ref-Thurston1913_2-9" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p><p>In the thirtieth of the supposed <i>Arabian Canons of Nicaea</i>: "Of giving only names of Christians in baptism"; but the sermons of <a href="/wiki/St._John_Chrysostom" class="mw-redirect" title="St. John Chrysostom">St. John Chrysostom</a> assume in many different places that the conferring of a name, presumably at baptism, ought to be regulated by some idea of Christian edification, and he implies that such had been the practice of earlier generations. For example, he says: "When it comes to giving the infant a name, caring not to call it after the saints, as the ancients at first did, people light lamps and give them names and so name the child after the one which continues burning the longest, from thence conjecturing that he will live a long time" (Hom. in Cor., xii, 13).<sup id="cite_ref-Thurston1913_2-10" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p><p>Similarly he commends the practice of the parents of <a href="/wiki/Antioch" title="Antioch">Antioch</a> in calling their children after the martyr Meletius (<a href="/wiki/Patrologia_Graeca" title="Patrologia Graeca">P.G.</a> 50, 515) and urges his hearers not to give their children the first name that occurs, nor to seek to gratify fathers or grandfathers or other family connections by giving their names, but rather to choose the names of holy men conspicuous for virtue and for their courage before God (P.G. 53, 179). There are other historic examples of such a change of name in adult converts.<sup id="cite_ref-Thurston1913_2-11" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p><p>Socrates (Hist. Eccl., VII, xxi) wrote of Athenais who married the Emperor <a href="/wiki/Theodosius_II" title="Theodosius II">Theodosius the Younger</a>, and who previously to marriage was baptized (AD 421) receiving the name Eudoxia.<sup id="cite_ref-Thurston1913_2-12" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p><p><a href="/wiki/Bede" title="Bede">Bede</a> wrote that King <a href="/wiki/C%C3%A6dwalla_of_Wessex" title="Cædwalla of Wessex">Caedwalla</a> went to Rome and was baptized by the <a href="/wiki/Pope_Sergius_I" title="Pope Sergius I">Pope Sergius</a> who gave him the name of Peter. Dying soon afterwards he was buried in Rome and his epitaph beginning <i>Hic depositus est Caedwalla qui est Petrus</i> was pointed out (Bede, "Hist. Eccl.", V, vii).<sup id="cite_ref-Thurston1913_2-13" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p><p>Later <a href="/wiki/Guthrum" title="Guthrum">Guthrum</a> the Danish leader in England after his long contest with <a href="/wiki/Alfred_the_Great" title="Alfred the Great">King Alfred</a> was eventually defeated, and consenting to accept Christianity was baptized in 878, taking the name Æthelstan.<sup id="cite_ref-Thurston1913_2-14" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Practice_regarding_names">Practice regarding names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Christian_name&amp;action=edit&amp;section=5" title="Edit section: Practice regarding names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Various Fathers and spiritual writers and synodal decrees have exhorted Christians to give no names to their children in baptism but those of canonized saints or of the angels of God, but at no point in the history of the Church were these injunctions strictly attended to.<sup id="cite_ref-Thurston1913_2-15" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p><p>They were not observed during the early or the later <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>. In extensive lists of medieval names, such as those found in the indexes of legal proceedings which have been edited in modern times, while ordinary names without religious associations, such as William, Robert, Roger, Geoffrey, Hugh, etc. are common (William about the year 1200 was by far the most common Christian name in England), there are also a number of exceptional names which have apparently no religious associations at all. These include Ademar, Ailma, Ailward, Albreza, Alditha, Almaury, Ascelina, Avice, Aystorius (these come from the lists of those cured at the shrine of <a href="/wiki/Thomas_Becket" title="Thomas Becket">St. Thomas of Canterbury</a>). A rubric in the official "<a href="/wiki/Rituale_Romanum" class="mw-redirect" title="Rituale Romanum">Rituale Romanum</a>" mandates that the priest ought to see that names of deities or of godless pagans are not given in baptism (<i>curet ne obscoena, fabulosa aut ridicula vel inanium deorum vel impiorum ethnicorum hominum nomina imponantur</i>).<sup id="cite_ref-Thurston1913_2-16" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p><p>A pronouncement from Bourges (1666) addressing parents and godparents urges: "Let them give to boys the names of male saints and to girls those of women saints as right order requires, and let them avoid the names of festivals like Easter (<i>Pâques</i>), Christmas (<i>Noël</i>), All Saints (<i>Toussaint</i>) and others that are sometimes chosen." Despite such injunctions "Toussaint" has become a common French Christian name and "Noël" has also found popularity abroad. The addition of Marie, especially in the form Jean-Marie, for girls, and of Joseph for boys is common in present-day France.<sup id="cite_ref-Thurston1913_2-17" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p><p>In Spain and Italy Marian festivals have also created names for girls: <i>Concepción</i>, of which the diminutive is <i>Concha</i>, as well as <i>Asunción, Encarnación, Mercedes, Dolores</i> etc. in Spanish, and in Italian <i>Assunta, Annunziata, Concetta</i>, etc.
+The name Mary has not always been a favourite for girls. In England in the 12th century, Mary as a Christian name was rare. The name George, often given in recognition of the <a href="/wiki/Saint_George" title="Saint George">Saint George</a> the <a href="/wiki/Patron_saint" title="Patron saint">patron saint</a> of England, was not common in the 13th and 14th centuries, though it grew in popularity after the <a href="/wiki/Protestant_Reformation" class="mw-redirect" title="Protestant Reformation">Protestant Reformation</a>.<sup id="cite_ref-Thurston1913_2-18" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p><p>In the registers of <a href="/wiki/Oxford_University" class="mw-redirect" title="Oxford University">Oxford University</a> from 1560 to 1621, the more common names used by the students in order of popularity were: John, 3826; Thomas, 2777; William, 2546; Richard, 1691; Robert, 1222; Edward, 957; Henry, 908; George, 647; Francis, 447; James, 424; Nicholas, 326; Edmund, 298.<sup id="cite_ref-Thurston1913_2-19" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> In Italy and Spain it has been common practice to call a child after the saint upon whose feast they are born.<sup id="cite_ref-Thurston1913_2-20" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Confirmation_names">Confirmation names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Christian_name&amp;action=edit&amp;section=6" title="Edit section: Confirmation names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The practice of adopting a new name was not limited to baptism. Many medieval examples show that any notable change of condition, especially in the spiritual order, was often accompanied by the reception of a new name. In the 8th century, the two Englishmen Winfrith and Willibald going on different occasions to Rome received from the Pope, along with a new commission to preach, the names respectively of Boniface and Clement. <a href="/wiki/Emma_of_Normandy" title="Emma of Normandy">Emma of Normandy</a> when she married <a href="/wiki/%C3%86thelred_the_Unready" title="Æthelred the Unready">King Ethelred</a> in 1002 took the name Ælfgifu; while the reception of a new, <a href="/wiki/Monastic_name" class="mw-redirect" title="Monastic name">monastic name</a> upon entering a religious order remains almost universal.<sup id="cite_ref-Thurston1913_2-21" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p><p>At confirmation, in which the interposition of a godfather emphasizes the resemblance with baptism, it has been customary to take a new name, but usually, use is made of it is infrequent. In the case of <a href="/wiki/Henry_III_of_France" title="Henry III of France">Henry III</a>, King of France, godson of the English <a href="/wiki/Edward_VI_of_England" title="Edward VI of England">Edward VI</a> had been christened Edouard Alexandre in 1551, the same French prince at confirmation received the name of Henri, and subsequently reigned under this name.<sup id="cite_ref-Thurston1913_2-22" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup>
+</p><p>In England after the Reformation, the practice of adopting a new name at confirmation was still used, as Sir <a href="/wiki/Edward_Coke" title="Edward Coke">Edward Coke</a> wrote that a man might validly buy land by his <i>confirmation name</i>, and he recalled the case of a Sir <a href="/wiki/Francis_Gawdy" title="Francis Gawdy">Francis Gawdye</a>, late <a href="/wiki/Chief_Justice_of_the_Common_Pleas" title="Chief Justice of the Common Pleas">Chief Justice of the Common Pleas</a>, whose name of baptism was Thomas and his name of confirmation Francis.<sup id="cite_ref-Thurston1913_2-23" class="reference"><a href="#cite_note-Thurston1913-2">&#91;2&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Christian_name&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:P_christianity.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/31px-P_christianity.svg.png" decoding="async" width="31" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/47px-P_christianity.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/P_christianity.svg/62px-P_christianity.svg.png 2x" data-file-width="400" data-file-height="360" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Christianity" title="Portal:Christianity">Christianity portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Naming_ceremony" title="Naming ceremony">Naming ceremony</a></li>
+<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
+<li><a href="/wiki/Religious_name" title="Religious name">Religious name</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Christian_name&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dictionary.com/browse/christian-name">"christian name"</a>. <i>Dictionary.com Unabridged</i><span class="reference-accessdate">. Retrieved <span class="nowrap">August 7,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dictionary.com+Unabridged&amp;rft.atitle=christian+name&amp;rft_id=http%3A%2F%2Fwww.dictionary.com%2Fbrowse%2Fchristian-name&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+name" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Thurston1913-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Thurston1913_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-17"><sup><i><b>r</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-18"><sup><i><b>s</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-19"><sup><i><b>t</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-20"><sup><i><b>u</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-21"><sup><i><b>v</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-22"><sup><i><b>w</b></i></sup></a> <a href="#cite_ref-Thurston1913_2-23"><sup><i><b>x</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/File:Wikisource-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" decoding="async" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></a>&#160;One or more of the preceding sentences incorporates text from a publication now in the <a href="/wiki/Public_domain" title="Public domain">public domain</a>:&#160;<cite id="CITEREFThurston1913" class="citation encyclopaedia">Thurston, Herbert (1913). <span class="cs1-ws-icon" title="Wikisource:Catholic Encyclopedia (1913)/Christian Names"><a class="external text" href="https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Christian_Names">"Christian Names"&#160;</a></span>.  In Herbermann, Charles (ed.). <i><a href="/wiki/Catholic_Encyclopedia" title="Catholic Encyclopedia">Catholic Encyclopedia</a></i>. New York: Robert Appleton.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Christian+Names&amp;rft.btitle=Catholic+Encyclopedia&amp;rft.place=New+York&amp;rft.pub=Robert+Appleton&amp;rft.date=1913&amp;rft.aulast=Thurston&amp;rft.aufirst=Herbert&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChristian+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">see Turner, "Eccl. Occident. Mon. Juris", I, 36-90; II, 50-53</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">De Rossi, "Rom. Sot.", I, 143</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">De Rossi, "Rom. Sot." III, 200 sqq. and compare other instances of the name, De Rossi, "Insc. Christ. I, 331; II, 160 and 173</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Eusebius, "Hist. Eccl.", VII, xxv</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">see Oxford Hist. Soc. Transactions, XIV</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Co. Litt. 3a</span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
+<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Surname</a>
+<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
+<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
+<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
+<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
+<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
+<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
+<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
+<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
+<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
+<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
+<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
+<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
+<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
+<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
+<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
+<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
+<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
+<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
+<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
+<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
+<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
+<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
+<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
+<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
+<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
+<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
+<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
+<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
+<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
+<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
+<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
+<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
+<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
+<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
+<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
+<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
+<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
+<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
+<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
+<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
+<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
+<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
+<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
+<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
+<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
+<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
+<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
+<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
+<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
+<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
+<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
+<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
+<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
+<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
+<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
+<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
+<li><a href="/wiki/English_name" title="English name">English</a></li>
+<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
+<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
+<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
+<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
+<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
+<li><a href="/wiki/French_name" title="French name">French</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
+<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
+<li><a href="/wiki/German_name" title="German name">German</a></li>
+<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
+<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
+<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
+<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
+<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
+<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
+<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
+<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
+<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
+<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
+<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
+<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
+<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
+<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
+<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
+<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
+<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
+<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
+<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
+<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
+<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
+<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
+<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
+<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
+<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
+<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
+<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
+<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
+<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
+<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
+<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
+<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
+<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
+<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
+<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
+<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
+<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
+<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
+<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
+<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
+<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
+<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
+<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
+<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
+<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
+<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
+<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
+<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
+<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
+<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
+<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
+<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
+<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
+<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
+<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
+<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Christian name</a>
+<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
+<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
+<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
+<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
+<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
+<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
+<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
+<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
+<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
+<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
+<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award_or_decoration" title="Award or decoration">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
+<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
+<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
+<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
+<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
+<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
+<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
+<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
+<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
+<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
+<li><a href="/wiki/Name_day" title="Name day">Name day</a>
+<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
+<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
+<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
+<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
+<li><a href="/wiki/Family" title="Family">Family</a></li>
+<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
+<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
+<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
+<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
+<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
+<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
+<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
+<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
+<li><a href="/wiki/Signature" title="Signature">Signature</a>
+<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
+<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
+<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
+<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1273
+Cached time: 20190918224028
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.324 seconds
+Real time usage: 0.431 seconds
+Preprocessor visited node count: 905/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 46870/2097152 bytes
+Template argument size: 1487/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 12172/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.145/10.000 seconds
+Lua memory usage: 2.58 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  326.149      1 -total
+ 47.55%  155.096      1 Template:Reflist
+ 34.25%  111.702      1 Template:Cite_web
+ 15.81%   51.560      2 Template:Fix
+ 14.80%   48.276      1 Template:About
+ 14.14%   46.118      1 Template:Who
+  7.61%   24.814      2 Template:Delink
+  6.94%   22.640      2 Template:Category_handler
+  6.92%   22.558      1 Template:Personal_names
+  6.37%   20.790      2 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:861121-0!canonical and timestamp 20190918224028 and revision id 907517470
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Christian_name&amp;oldid=907517470">https://en.wikipedia.org/w/index.php?title=Christian_name&amp;oldid=907517470</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Given_names" title="Category:Given names">Given names</a></li><li><a href="/wiki/Category:Christian_terminology" title="Category:Christian terminology">Christian terminology</a></li><li><a href="/wiki/Category:Baptism" title="Category:Baptism">Baptism</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_incorporating_text_from_the_1913_Catholic_Encyclopedia_with_Wikisource_reference" title="Category:Articles incorporating text from the 1913 Catholic Encyclopedia with Wikisource reference">Articles incorporating text from the 1913 Catholic Encyclopedia with Wikisource reference</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_October_2015" title="Category:Articles with specifically marked weasel-worded phrases from October 2015">Articles with specifically marked weasel-worded phrases from October 2015</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Christian+name" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Christian+name" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Christian_name" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Christian_name" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Christian_name">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Christian_name&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Christian_name&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Christian_name" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Christian_name" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Christian_name&amp;oldid=907517470" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Christian_name&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2396897" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Christian_name&amp;id=907517470" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Christian+name">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Christian+name&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Christian_name&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D9%85_%D9%85%D8%B3%D9%8A%D8%AD%D9%8A" title="اسم مسيحي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Anv-badez" title="Anv-badez – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Taufname" title="Taufname – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%84%B8%EB%A1%80%EB%AA%85" title="세례명 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Sk%C3%ADrnarnafn" title="Skírnarnafn – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Doopnaam" title="Doopnaam – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%B4%97%E7%A4%BC%E5%90%8D" title="洗礼名 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/D%C3%B8penavn" title="Døpenavn – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A5%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B5_%D1%96%D0%BC%27%D1%8F" title="Хрещене ім&#039;я – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2396897#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 23 July 2019, at 13:05<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Christian_name&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.324","walltime":"0.431","ppvisitednodes":{"value":905,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":46870,"limit":2097152},"templateargumentsize":{"value":1487,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":12172,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  326.149      1 -total"," 47.55%  155.096      1 Template:Reflist"," 34.25%  111.702      1 Template:Cite_web"," 15.81%   51.560      2 Template:Fix"," 14.80%   48.276      1 Template:About"," 14.14%   46.118      1 Template:Who","  7.61%   24.814      2 Template:Delink","  6.94%   22.640      2 Template:Category_handler","  6.92%   22.558      1 Template:Personal_names","  6.37%   20.790      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.145","limit":"10.000"},"limitreport-memusage":{"value":2703781,"limit":52428800}},"cachereport":{"origin":"mw1273","timestamp":"20190918224028","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Christian name","url":"https:\/\/en.wikipedia.org\/wiki\/Christian_name","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2396897","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2396897","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-07-27T15:07:43Z","dateModified":"2019-07-23T13:05:39Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5c\/US_Navy_041219-N-1485Q-001_Chaplain%2C_Cmdr._Michael_L._Schutz_performs_a_baptism_on_the_flight_deck_of_the_conventionally_powered_aircraft_carrier_USS_Kitty_Hawk_%28CV_63%29.jpg","headline":"religious personal name historically given on the occasion of a Christian baptism"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":186,"wgHostname":"mw1246"});});</script>
+</body>
+</html>
+

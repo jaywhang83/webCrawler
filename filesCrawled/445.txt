@@ -1,0 +1,1026 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Huddersfield Broad Canal - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Huddersfield_Broad_Canal","wgTitle":"Huddersfield Broad Canal","wgCurRevisionId":896467723,"wgRevisionId":896467723,"wgArticleId":934520,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from January 2018","Use British English from January 2018","Coordinates on Wikidata","Lists of coordinates","Geographic coordinate lists","Articles with Geo","Canals in Huddersfield","Canals in Kirklees","Canals opened in 1776"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar",
+"Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Huddersfield_Broad_Canal","wgRelevantArticleId":934520,"wgRequestId":"XYrl-ApAAEUAAG9EwNsAAACY","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Sir_John_Ramsden's_Canal","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Huddersfield_Broad_Canal","wgCoordinates":{"lat":53.684,"lon":-1.736},"wgWikibaseItemId":"Q16247812","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert",
+"ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Aspley_Basin_RLH.jpg/1200px-Aspley_Basin_RLH.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Huddersfield_Broad_Canal"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Huddersfield_Broad_Canal&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Huddersfield_Broad_Canal&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Huddersfield_Broad_Canal"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Huddersfield_Broad_Canal rootpage-Huddersfield_Broad_Canal skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Huddersfield Broad Canal</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Sir_John_Ramsden%27s_Canal&amp;redirect=no" class="mw-redirect" title="Sir John Ramsden&#039;s Canal">Sir John Ramsden&#039;s Canal</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>
+
+<span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_Broad_Canal&amp;params=53.684_N_1.736_W_region:GB_scale:5000"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°41′02″N</span> <span class="longitude">1°44′10″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.684°N 1.736°W</span><span style="display:none">&#xfeff; / <span class="geo">53.684; -1.736</span></span></span></a></span></span></span>
+</p>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;font-size: larger; background-color: #CEDEFF">Huddersfield Broad Canal</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Aspley_Basin_RLH.jpg" class="image"><img alt="Aspley Basin RLH.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Aspley_Basin_RLH.jpg/288px-Aspley_Basin_RLH.jpg" decoding="async" width="288" height="162" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Aspley_Basin_RLH.jpg/432px-Aspley_Basin_RLH.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Aspley_Basin_RLH.jpg/576px-Aspley_Basin_RLH.jpg 2x" data-file-width="1400" data-file-height="786" /></a><div>Aspley Basin, near the junction between the Broad and Narrow canals</div></td></tr><tr><th colspan="2" style="text-align:center;background-color: #CEDEFF">Specifications</th></tr><tr><th scope="row">Maximum boat length</th><td>57&#160;ft 6&#160;in (17.53&#160;m)</td></tr><tr><th scope="row"><a href="/wiki/Beam_(nautical)" title="Beam (nautical)">Maximum boat beam</a></th><td>14&#160;ft 2&#160;in (4.32&#160;m)</td></tr><tr><th scope="row">Locks</th><td>9</td></tr><tr><th scope="row">Status</th><td>operational</td></tr><tr><th scope="row">Navigation authority</th><td><a href="/wiki/Canal_%26_River_Trust" title="Canal &amp; River Trust">Canal &amp; River Trust</a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #CEDEFF">History</th></tr><tr><th scope="row">Date of act</th><td>1774</td></tr><tr><th scope="row">Date completed</th><td>1776</td></tr><tr><th colspan="2" style="text-align:center;background-color: #CEDEFF">Geography</th></tr><tr><th scope="row">Start point</th><td>Cooper Bridge Junction</td></tr><tr><th scope="row">End point</th><td><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></td></tr><tr><th scope="row">Connects to</th><td><a href="/wiki/Calder_and_Hebble_Navigation" title="Calder and Hebble Navigation">Calder and Hebble Navigation</a>, <a href="/wiki/Huddersfield_Narrow_Canal" title="Huddersfield Narrow Canal">Huddersfield Narrow Canal</a></td></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r910949775">.mw-parser-output .RMbox{box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12),0 3px 1px -2px rgba(0,0,0,.2)}.mw-parser-output .RMinline{float:none;width:100%;margin:0;border:none}.mw-parser-output table.routemap{padding:0;border:0;border-collapse:collapse;background:transparent;white-space:nowrap;line-height:1.2;margin:auto}.mw-parser-output table.routemap .RMcollapse{margin:0;border-collapse:collapse;vertical-align:middle}.mw-parser-output table.routemap .RMreplace{margin:0;border-collapse:collapse;vertical-align:middle;position:absolute;bottom:0}.mw-parser-output table.routemap .RMsi{display:inline;font-size:90%}.mw-parser-output table.routemap .RMl1{padding:0 3px;text-align:left}.mw-parser-output table.routemap .RMr1{padding:0 3px;text-align:right}.mw-parser-output table.routemap .RMl{text-align:right}.mw-parser-output table.routemap .RMr{text-align:left}.mw-parser-output table.routemap .RMl4{padding:0 3px 0 0;text-align:left}.mw-parser-output table.routemap .RMr4{padding:0 0 0 3px;text-align:right}.mw-parser-output table.routemap>tbody>tr{line-height:1}.mw-parser-output table.routemap>tbody>tr>td,.mw-parser-output table.RMcollapse>tbody>tr>td,.mw-parser-output table.RMreplace>tbody>tr>td{padding:0;width:auto;vertical-align:middle;text-align:center}.mw-parser-output .RMir>div{display:inline-block;vertical-align:middle;padding:0;height:20px;min-height:20px}.mw-parser-output .RMir img{height:initial!important;max-width:initial!important}.mw-parser-output .RMir .RMov{position:relative}.mw-parser-output .RMir .RMov .RMic,.mw-parser-output .RMir .RMov .RMtx{position:absolute;left:0;top:0;padding:0}.mw-parser-output .RMir .RMtx{line-height:20px;height:20px;min-height:20px;vertical-align:middle;text-align:center}.mw-parser-output .RMir .RMsp{height:20px;min-height:20px}.mw-parser-output .RMir .RMtx>abbr,.mw-parser-output .RMir .RMtx>div{line-height:.975;display:inline-block;vertical-align:middle}.mw-parser-output .RMir .RMts{font-size:10px;transform:scaleX(.89)}.mw-parser-output .RMir .RMf_{height:5px;min-height:5px;width:20px;min-width:20px}.mw-parser-output .RMir .RMfm{height:100%;min-height:100%;width:4px;min-width:4px;margin:0 auto}.mw-parser-output .RMir .RMo{width:2.5px;min-width:2.5px}.mw-parser-output .RMir .RMc{width:5px;min-width:5px}.mw-parser-output .RMir .RMoc{width:7.5px;min-width:7.5px}.mw-parser-output .RMir .RMd{width:10px;min-width:10px}.mw-parser-output .RMir .RMod{width:12.5px;min-width:12.5px}.mw-parser-output .RMir .RMcd{width:15px;min-width:15px}.mw-parser-output .RMir .RMocd{width:17.5px;min-width:17.5px}.mw-parser-output .RMir .RM_{width:20px;min-width:20px}.mw-parser-output .RMir .RM_o{width:22.5px;min-width:22.5px}.mw-parser-output .RMir .RM_c{width:25px;min-width:25px}.mw-parser-output .RMir .RM_oc{width:27.5px;min-width:27.5px}.mw-parser-output .RMir .RM_d{width:30px;min-width:30px}.mw-parser-output .RMir .RM_od{width:32.5px;min-width:32.5px}.mw-parser-output .RMir .RM_cd{width:35px;min-width:35px}.mw-parser-output .RMir .RM_ocd{width:37.5px;min-width:37.5px}.mw-parser-output .RMir .RMb{width:40px;min-width:40px}.mw-parser-output .RMir .RMcb{width:45px;min-width:45px}.mw-parser-output .RMir .RMdb{width:50px;min-width:50px}.mw-parser-output .RMir .RMcdb{width:55px;min-width:55px}.mw-parser-output .RMir .RM_b{width:60px;min-width:60px}.mw-parser-output .RMir .RM_cb{width:65px;min-width:65px}.mw-parser-output .RMir .RM_db{width:70px;min-width:70px}.mw-parser-output .RMir .RM_cdb{width:75px;min-width:75px}.mw-parser-output .RMir .RMs{width:80px;min-width:80px}.mw-parser-output .RMir .RMds{width:90px;min-width:90px}.mw-parser-output .RMir .RM_s{width:100px;min-width:100px}.mw-parser-output .RMir .RM_ds{width:110px;min-width:110px}.mw-parser-output .RMir .RMbs{width:120px;min-width:120px}.mw-parser-output .RMir .RMdbs{width:130px;min-width:130px}.mw-parser-output .RMir .RM_bs{width:140px;min-width:140px}.mw-parser-output .RMir .RM_dbs{width:150px;min-width:150px}.mw-parser-output .RMir .RMw{width:160px;min-width:160px}.mw-parser-output .RMir .RM_w{width:180px;min-width:180px}.mw-parser-output .RMir .RMbw{width:200px;min-width:200px}.mw-parser-output .RMir .RM_bw{width:220px;min-width:220px}.mw-parser-output .RMir .RMsw{width:240px;min-width:240px}.mw-parser-output .RMir .RM_sw{width:260px;min-width:260px}.mw-parser-output .RMir .RMbsw{width:280px;min-width:280px}.mw-parser-output .RMir .RM_bsw{width:300px;min-width:300px}</style>
+<table class="collapsible RMbox" cellspacing="0" cellpadding="0" style="float:right;clear:right;margin-top:0;margin-bottom:1em;margin-left:1em;empty-cells:show;border-collapse:collapse;font-size:88%;background:#F9F9F9;">
+<tbody><tr>
+<th style="color:white;background:#0099ff;text-align:center;padding:5px"><div class="plainlinks hlist navbar mini" style="float:left;margin-right:5px;white-space:nowrap"><span style="margin-right:-0.125em;font-size:113.63636363636%;color:white">&#91; </span><ul><li class="nv-view"><a href="/wiki/Template:Huddersfield_Broad_Canal_map" title="Template:Huddersfield Broad Canal map"><abbr title="View this template" style="font-size:113.63636363636%;color:white">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Huddersfield_Broad_Canal_map" title="Template talk:Huddersfield Broad Canal map"><abbr title="Discuss this template" style="font-size:113.63636363636%;color:white">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Huddersfield_Broad_Canal_map&amp;action=edit"><abbr title="Edit this template" style="font-size:113.63636363636%;color:white">e</abbr></a></li></ul><span style="margin-left:-0.125em;font-size:113.63636363636%;color:white"> &#93;</span></div><div style="margin-left:55px"><div style="white-space:nowrap;margin-right:55px;font-size:113.63636363636%">Huddersfield Broad Canal</div></div>
+</th></tr>
+<tr>
+<td style="line-height:normal;padding:4px 5px"><div class="selfreference noprint" style="text-align:right;font-size:97%"><a href="/wiki/Template:Waterways_legend" title="Template:Waterways legend">Legend</a></div>
+</td></tr>
+<tr>
+<td style="padding:0px 6px 6px">
+<table class="nogrid routemap" style="font-size:107.95454545455%">
+
+
+<tbody><tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_uCONTg.svg/20px-BSicon_uCONTg.svg.png" decoding="async" title="uCONTg" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_uCONTg.svg/30px-BSicon_uCONTg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_uCONTg.svg/40px-BSicon_uCONTg.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2"><a href="/wiki/Calder_and_Hebble_Navigation" title="Calder and Hebble Navigation">Calder and Hebble Navigation</a>
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/BSicon_uFABZgl%2Bl.svg/20px-BSicon_uFABZgl%2Bl.svg.png" decoding="async" title="uFABZgl+l" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/BSicon_uFABZgl%2Bl.svg/30px-BSicon_uFABZgl%2Bl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/BSicon_uFABZgl%2Bl.svg/40px-BSicon_uFABZgl%2Bl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BSicon_uSTR%2Br.svg/20px-BSicon_uSTR%2Br.svg.png" decoding="async" title="uSTR+r" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BSicon_uSTR%2Br.svg/30px-BSicon_uSTR%2Br.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BSicon_uSTR%2Br.svg/40px-BSicon_uSTR%2Br.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Cooper Bridge Junction
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BSicon_uFGATEu.svg/20px-BSicon_uFGATEu.svg.png" decoding="async" title="uFGATEu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BSicon_uFGATEu.svg/30px-BSicon_uFGATEu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/BSicon_uFGATEu.svg/40px-BSicon_uFGATEu.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Cooper Bridge flood gates
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/20px-BSicon_uSKRZ-Au.svg.png" decoding="async" title="uSKRZ-Au" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/30px-BSicon_uSKRZ-Au.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/40px-BSicon_uSKRZ-Au.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/20px-BSicon_uSKRZ-Au.svg.png" decoding="async" title="uSKRZ-Au" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/30px-BSicon_uSKRZ-Au.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/40px-BSicon_uSKRZ-Au.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2"><span style="background-color:#00693f; padding:-1.0333333333333px 1px -0.25833333333333px; border:2px solid white; border-radius: 3px; text-align:center;"><a href="/wiki/A62_road_(Great_Britain)" class="mw-redirect" title="A62 road (Great Britain)"><span style="color:#ffd41c; font-size:11px; font-weight:bold;">&#8201;A62&#8201;</span></a></span>
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/BSicon_uSTR%2Bl.svg/20px-BSicon_uSTR%2Bl.svg.png" decoding="async" title="uSTR+l" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/BSicon_uSTR%2Bl.svg/30px-BSicon_uSTR%2Bl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/BSicon_uSTR%2Bl.svg/40px-BSicon_uSTR%2Bl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/BSicon_uxABZgr.svg/20px-BSicon_uxABZgr.svg.png" decoding="async" title="uxABZgr" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/BSicon_uxABZgr.svg/30px-BSicon_uxABZgr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/BSicon_uxABZgr.svg/40px-BSicon_uxABZgr.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><div class="RMov"><div class="RMic"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BSicon_GRZq.svg/20px-BSicon_GRZq.svg.png" decoding="async" title="uSTR; GRZq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BSicon_GRZq.svg/30px-BSicon_GRZq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BSicon_GRZq.svg/40px-BSicon_GRZq.svg.png 2x" data-file-width="500" data-file-height="500" /></div></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR; GRZq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Junction
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><div class="RMov"><div class="RMic"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_POINTERg%40fq.svg/20px-BSicon_POINTERg%40fq.svg.png" decoding="async" title="uexSTR; POINTERg@fq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_POINTERg%40fq.svg/30px-BSicon_POINTERg%40fq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_POINTERg%40fq.svg/40px-BSicon_POINTERg%40fq.svg.png 2x" data-file-width="500" data-file-height="500" /></div></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR; POINTERg@fq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">River Colne
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/20px-BSicon_uLock3.svg.png" decoding="async" title="uLock3" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/30px-BSicon_uLock3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/40px-BSicon_uLock3.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BSicon_uxWEIRg.svg/20px-BSicon_uxWEIRg.svg.png" decoding="async" title="uxWEIRg" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BSicon_uxWEIRg.svg/30px-BSicon_uxWEIRg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BSicon_uxWEIRg.svg/40px-BSicon_uxWEIRg.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BSicon_uLock5.svg/20px-BSicon_uLock5.svg.png" decoding="async" title="uLock5" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BSicon_uLock5.svg/30px-BSicon_uLock5.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BSicon_uLock5.svg/40px-BSicon_uLock5.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1"><div class="RMsi">1</div>
+</td>
+<td class="RMr" colspan="2">Cooper Bridge locks and weir
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BSicon_uexABZl%2Bl.svg/20px-BSicon_uexABZl%2Bl.svg.png" decoding="async" title="uexABZl+l" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BSicon_uexABZl%2Bl.svg/30px-BSicon_uexABZl%2Bl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BSicon_uexABZl%2Bl.svg/40px-BSicon_uexABZl%2Bl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/BSicon_uxABZql.svg/20px-BSicon_uxABZql.svg.png" decoding="async" title="uxABZql" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/BSicon_uxABZql.svg/30px-BSicon_uxABZql.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/BSicon_uxABZql.svg/40px-BSicon_uxABZql.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BSicon_uCONTfq.svg/20px-BSicon_uCONTfq.svg.png" decoding="async" title="uCONTfq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BSicon_uCONTfq.svg/30px-BSicon_uCONTfq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BSicon_uCONTfq.svg/40px-BSicon_uCONTfq.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Calder and Hebble Navigation
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">River Colne
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/BSicon_CONTgq.svg/20px-BSicon_CONTgq.svg.png" decoding="async" title="CONTgq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/BSicon_CONTgq.svg/30px-BSicon_CONTgq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/BSicon_CONTgq.svg/40px-BSicon_CONTgq.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BSicon_umKRZu.svg/20px-BSicon_umKRZu.svg.png" decoding="async" title="umKRZu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BSicon_umKRZu.svg/30px-BSicon_umKRZu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BSicon_umKRZu.svg/40px-BSicon_umKRZu.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BSicon_uxmKRZu.svg/20px-BSicon_uxmKRZu.svg.png" decoding="async" title="uxmKRZu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BSicon_uxmKRZu.svg/30px-BSicon_uxmKRZu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BSicon_uxmKRZu.svg/40px-BSicon_uxmKRZu.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BSicon_CONTfq.svg/20px-BSicon_CONTfq.svg.png" decoding="async" title="CONTfq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BSicon_CONTfq.svg/30px-BSicon_CONTfq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BSicon_CONTfq.svg/40px-BSicon_CONTfq.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2"><i><a href="/wiki/Huddersfield_line" title="Huddersfield line">Huddersfield line</a></i>
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/20px-BSicon_uLock3.svg.png" decoding="async" title="uLock3" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/30px-BSicon_uLock3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/40px-BSicon_uLock3.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1"><div class="RMsi">2</div>
+</td>
+<td class="RMr" colspan="2">Colne Bridge Lock
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BSicon_uSKRZ-Yu.svg/20px-BSicon_uSKRZ-Yu.svg.png" decoding="async" title="uSKRZ-Yu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BSicon_uSKRZ-Yu.svg/30px-BSicon_uSKRZ-Yu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BSicon_uSKRZ-Yu.svg/40px-BSicon_uSKRZ-Yu.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/BSicon_uexSKRZ-Yu.svg/20px-BSicon_uexSKRZ-Yu.svg.png" decoding="async" title="uexSKRZ-Yu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/BSicon_uexSKRZ-Yu.svg/30px-BSicon_uexSKRZ-Yu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/BSicon_uexSKRZ-Yu.svg/40px-BSicon_uexSKRZ-Yu.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2"><span style="background-color:white; padding:-1.0333333333333px 1px -0.25833333333333px; border:2px solid black; border-radius: 3px; text-align:center;"><a href="/wiki/B_roads_in_Zone_6_of_the_Great_Britain_numbering_scheme" title="B roads in Zone 6 of the Great Britain numbering scheme"><span style="color:black; font-size:11px; font-weight:bold;">&#8201;B6118&#8201;</span></a></span> Bridge Road
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/BSicon_uxWEIRf.svg/20px-BSicon_uxWEIRf.svg.png" decoding="async" title="uxWEIRf" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/BSicon_uxWEIRf.svg/30px-BSicon_uxWEIRf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/BSicon_uxWEIRf.svg/40px-BSicon_uxWEIRf.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Weir
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/BSicon_exCONTgq.svg/20px-BSicon_exCONTgq.svg.png" decoding="async" title="exCONTgq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/BSicon_exCONTgq.svg/30px-BSicon_exCONTgq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/BSicon_exCONTgq.svg/40px-BSicon_exCONTgq.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BSicon_uemKRZu.svg/20px-BSicon_uemKRZu.svg.png" decoding="async" title="uemKRZu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BSicon_uemKRZu.svg/30px-BSicon_uemKRZu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BSicon_uemKRZu.svg/40px-BSicon_uemKRZu.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BSicon_uexmKRZu.svg/20px-BSicon_uexmKRZu.svg.png" decoding="async" title="uexmKRZu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BSicon_uexmKRZu.svg/30px-BSicon_uexmKRZu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BSicon_uexmKRZu.svg/40px-BSicon_uexmKRZu.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/BSicon_exCONTfq.svg/20px-BSicon_exCONTfq.svg.png" decoding="async" title="exCONTfq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/BSicon_exCONTfq.svg/30px-BSicon_exCONTfq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/BSicon_exCONTfq.svg/40px-BSicon_exCONTfq.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Dismantled railway
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/20px-BSicon_uLock3.svg.png" decoding="async" title="uLock3" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/30px-BSicon_uLock3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/40px-BSicon_uLock3.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1"><div class="RMsi">3</div>
+</td>
+<td class="RMr" colspan="2">Ladgrave Lock
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/20px-BSicon_uLock3.svg.png" decoding="async" title="uLock3" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/30px-BSicon_uLock3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/40px-BSicon_uLock3.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1"><div class="RMsi">4</div>
+</td>
+<td class="RMr" colspan="2">Longlands Lock
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/BSicon_exCONTgq.svg/20px-BSicon_exCONTgq.svg.png" decoding="async" title="exCONTgq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/BSicon_exCONTgq.svg/30px-BSicon_exCONTgq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/BSicon_exCONTgq.svg/40px-BSicon_exCONTgq.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BSicon_uemKRZu.svg/20px-BSicon_uemKRZu.svg.png" decoding="async" title="uemKRZu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BSicon_uemKRZu.svg/30px-BSicon_uemKRZu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/BSicon_uemKRZu.svg/40px-BSicon_uemKRZu.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BSicon_uexmKRZu.svg/20px-BSicon_uexmKRZu.svg.png" decoding="async" title="uexmKRZu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BSicon_uexmKRZu.svg/30px-BSicon_uexmKRZu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3d/BSicon_uexmKRZu.svg/40px-BSicon_uexmKRZu.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/BSicon_exCONTfq.svg/20px-BSicon_exCONTfq.svg.png" decoding="async" title="exCONTfq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/BSicon_exCONTfq.svg/30px-BSicon_exCONTfq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/BSicon_exCONTfq.svg/40px-BSicon_exCONTfq.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Dismantled railway
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BSicon_uexSTRl.svg/20px-BSicon_uexSTRl.svg.png" decoding="async" title="uexSTRl" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BSicon_uexSTRl.svg/30px-BSicon_uexSTRl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BSicon_uexSTRl.svg/40px-BSicon_uexSTRl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/BSicon_uexSTR%2Br.svg/20px-BSicon_uexSTR%2Br.svg.png" decoding="async" title="uexSTR+r" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/BSicon_uexSTR%2Br.svg/30px-BSicon_uexSTR%2Br.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/BSicon_uexSTR%2Br.svg/40px-BSicon_uexSTR%2Br.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">River Colne
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/20px-BSicon_uSKRZ-Au.svg.png" decoding="async" title="uSKRZ-Au" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/30px-BSicon_uSKRZ-Au.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/40px-BSicon_uSKRZ-Au.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/BSicon_uxWEIRf.svg/20px-BSicon_uxWEIRf.svg.png" decoding="async" title="uxWEIRf" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/BSicon_uxWEIRf.svg/30px-BSicon_uxWEIRf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/BSicon_uxWEIRf.svg/40px-BSicon_uxWEIRf.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2"><span style="background-color:#00693f; padding:-1.0333333333333px 1px -0.25833333333333px; border:2px solid white; border-radius: 3px; text-align:center;"><a href="/wiki/A62_road_(Great_Britain)" class="mw-redirect" title="A62 road (Great Britain)"><span style="color:#ffd41c; font-size:11px; font-weight:bold;">&#8201;A62&#8201;</span></a></span>
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/20px-BSicon_uLock3.svg.png" decoding="async" title="uLock3" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/30px-BSicon_uLock3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/40px-BSicon_uLock3.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1"><div class="RMsi">5</div>
+</td>
+<td class="RMr" colspan="2">Turnpike Lock
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/20px-BSicon_uLock3.svg.png" decoding="async" title="uLock3" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/30px-BSicon_uLock3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/40px-BSicon_uLock3.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1"><div class="RMsi">6</div>
+</td>
+<td class="RMr" colspan="2">Reading Lock
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/20px-BSicon_uLock3.svg.png" decoding="async" title="uLock3" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/30px-BSicon_uLock3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/40px-BSicon_uLock3.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1"><div class="RMsi">7</div>
+</td>
+<td class="RMr" colspan="2">Fieldhouse Green Lock
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/20px-BSicon_uLock3.svg.png" decoding="async" title="uLock3" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/30px-BSicon_uLock3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/40px-BSicon_uLock3.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1"><div class="RMsi">8</div>
+</td>
+<td class="RMr" colspan="2">Falls Lock
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/20px-BSicon_uLock3.svg.png" decoding="async" title="uLock3" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/30px-BSicon_uLock3.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/BSicon_uLock3.svg/40px-BSicon_uLock3.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1"><div class="RMsi">9</div>
+</td>
+<td class="RMr" colspan="2">Red Doles Lock
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/20px-BSicon_uSKRZ-Au.svg.png" decoding="async" title="uSKRZ-Au" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/30px-BSicon_uSKRZ-Au.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/40px-BSicon_uSKRZ-Au.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2"><span style="background-color:#00693f; padding:-1.0333333333333px 1px -0.25833333333333px; border:2px solid white; border-radius: 3px; text-align:center;"><a href="/wiki/A62_road_(Great_Britain)" class="mw-redirect" title="A62 road (Great Britain)"><span style="color:#ffd41c; font-size:11px; font-weight:bold;">&#8201;A62&#8201;</span></a></span>
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/BSicon_uLIFT.svg/20px-BSicon_uLIFT.svg.png" decoding="async" title="uLIFT" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/BSicon_uLIFT.svg/30px-BSicon_uLIFT.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/BSicon_uLIFT.svg/40px-BSicon_uLIFT.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2"><a href="/wiki/Turnbridge" title="Turnbridge">Turnbridge</a> Loco Lift Bridge
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BSicon_uSTR%2BFEATURE%40r.svg/20px-BSicon_uSTR%2BFEATURE%40r.svg.png" decoding="async" title="uSTR+FEATURE@r" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BSicon_uSTR%2BFEATURE%40r.svg/30px-BSicon_uSTR%2BFEATURE%40r.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/BSicon_uSTR%2BFEATURE%40r.svg/40px-BSicon_uSTR%2BFEATURE%40r.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uexSTR%2Bl.svg/20px-BSicon_uexSTR%2Bl.svg.png" decoding="async" title="uexSTR+l" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uexSTR%2Bl.svg/30px-BSicon_uexSTR%2Bl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uexSTR%2Bl.svg/40px-BSicon_uexSTR%2Bl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSTRr.svg/20px-BSicon_uexSTRr.svg.png" decoding="async" title="uexSTRr" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSTRr.svg/30px-BSicon_uexSTRr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSTRr.svg/40px-BSicon_uexSTRr.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Huddersfield
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/BSicon_uHST.svg/20px-BSicon_uHST.svg.png" decoding="async" title="uHST" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/BSicon_uHST.svg/30px-BSicon_uHST.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/BSicon_uHST.svg/40px-BSicon_uHST.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Aspley Basin
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/20px-BSicon_uSKRZ-Au.svg.png" decoding="async" title="uSKRZ-Au" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/30px-BSicon_uSKRZ-Au.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/40px-BSicon_uSKRZ-Au.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSKRZ-Au.svg/20px-BSicon_uexSKRZ-Au.svg.png" decoding="async" title="uexSKRZ-Au" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSKRZ-Au.svg/30px-BSicon_uexSKRZ-Au.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSKRZ-Au.svg/40px-BSicon_uexSKRZ-Au.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2"><span style="background-color:#00693f; padding:-1.0333333333333px 1px -0.25833333333333px; border:2px solid white; border-radius: 3px; text-align:center;"><a href="/wiki/A629_road_(Great_Britain)" class="mw-redirect" title="A629 road (Great Britain)"><span style="color:#ffd41c; font-size:11px; font-weight:bold;">&#8201;A629&#8201;</span></a></span> Wakefield Road
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BSicon_uSKRZ-Eu.svg/20px-BSicon_uSKRZ-Eu.svg.png" decoding="async" title="uSKRZ-Eu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BSicon_uSKRZ-Eu.svg/30px-BSicon_uSKRZ-Eu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BSicon_uSKRZ-Eu.svg/40px-BSicon_uSKRZ-Eu.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/BSicon_uxWEIRf.svg/20px-BSicon_uxWEIRf.svg.png" decoding="async" title="uxWEIRf" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/BSicon_uxWEIRf.svg/30px-BSicon_uxWEIRf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/BSicon_uxWEIRf.svg/40px-BSicon_uxWEIRf.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BSicon_uSKRZ-Eu.svg/20px-BSicon_uSKRZ-Eu.svg.png" decoding="async" title="uSKRZ-Eu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BSicon_uSKRZ-Eu.svg/30px-BSicon_uSKRZ-Eu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BSicon_uSKRZ-Eu.svg/40px-BSicon_uSKRZ-Eu.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BSicon_uexSTRl.svg/20px-BSicon_uexSTRl.svg.png" decoding="async" title="uexSTRl" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BSicon_uexSTRl.svg/30px-BSicon_uexSTRl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/BSicon_uexSTRl.svg/40px-BSicon_uexSTRl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BSicon_uexCONTfq.svg/20px-BSicon_uexCONTfq.svg.png" decoding="async" title="uexCONTfq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BSicon_uexCONTfq.svg/30px-BSicon_uexCONTfq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BSicon_uexCONTfq.svg/40px-BSicon_uexCONTfq.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">River Colne
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><div class="RMov"><div class="RMic"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BSicon_GRZq.svg/20px-BSicon_GRZq.svg.png" decoding="async" title="uSTR; GRZq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BSicon_GRZq.svg/30px-BSicon_GRZq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/BSicon_GRZq.svg/40px-BSicon_GRZq.svg.png 2x" data-file-width="500" data-file-height="500" /></div></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR; GRZq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div></div><div class="RM_"></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Junction
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/BSicon_uCONTf.svg/20px-BSicon_uCONTf.svg.png" decoding="async" title="uCONTf" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/BSicon_uCONTf.svg/30px-BSicon_uCONTf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/BSicon_uCONTf.svg/40px-BSicon_uCONTf.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2"><a href="/wiki/Huddersfield_Narrow_Canal" title="Huddersfield Narrow Canal">Huddersfield Narrow Canal</a>
+</td></tr>
+<tr>
+<td style="padding:0 3px 0 0;">
+</td>
+<td>
+</td>
+<td class="RMl1">
+</td>
+<td>
+</td>
+<td class="RMr1">
+</td>
+<td>
+</td>
+<td style="padding:0 0 0 3px;">
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>The <b>Huddersfield Broad Canal</b> or <b>Sir John Ramsden's Canal</b>, is a wide-locked navigable canal in <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a> in northern England. The waterway is 3.75 miles (6&#160;km) long and has 9 wide locks.  It follows the valley of the <a href="/wiki/River_Colne,_West_Yorkshire" title="River Colne, West Yorkshire">River Colne</a> and connects the <a href="/wiki/Calder_and_Hebble_Navigation" title="Calder and Hebble Navigation">Calder and Hebble Navigation</a> at Cooper Bridge junction with the <a href="/wiki/Huddersfield_Narrow_Canal" title="Huddersfield Narrow Canal">Huddersfield Narrow Canal</a> near Aspley Basin in <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>.
+</p><p>Construction was authorised in 1774, and the canal opened two years later. It became part of a <a href="/wiki/Pennines" title="Pennines">trans-Pennine</a> route in 1811 when the <a href="/wiki/Huddersfield_Narrow_Canal" title="Huddersfield Narrow Canal">Huddersfield Narrow Canal</a> joined it at Aspley Basin. Traffic was hampered by the long narrowboats used on the narrow canal that could not use Ramsden's Canal's shorter locks. Goods were transhipped at Aspley Basin, and although shorter narrowboats were built, its success as a trans-Pennine route was overshadowed by the <a href="/wiki/Rochdale_Canal" title="Rochdale Canal">Rochdale Canal</a> which had wide locks throughout and joined the Calder and Hebble Navigation at <a href="/wiki/Sowerby_Bridge" title="Sowerby Bridge">Sowerby Bridge</a>. The canal passed into railway ownership in 1845, but prospered into the 20th century. Railway ownership ceased in 1945, when it was bought by the Calder and Hebble Navigation, at which point the narrow canal across the Pennines was abandoned. The broad canal carried commercial traffic, particularly coal for power stations, until 1953.
+</p><p>After the formation of <a href="/wiki/British_Waterways" title="British Waterways">British Waterways</a> in 1962, the canal was designated a <a href="/wiki/British_Waterways#Transport_Act_1968" title="British Waterways">cruiseway</a> in 1968, which meant that it was mainly for leisure traffic. Use of the canal has increased significantly since the Hudderfield Narrow Canal re-opened in 2001, as it is no longer a dead end. Many of its structures have been given <a href="/wiki/Listed_building" title="Listed building">listed building</a> status, in recognition of their historic importance.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Construction"><span class="tocnumber">1.1</span> <span class="toctext">Construction</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Operation"><span class="tocnumber">1.2</span> <span class="toctext">Operation</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Railway_ownership"><span class="tocnumber">1.3</span> <span class="toctext">Railway ownership</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#The_leisure_era"><span class="tocnumber">1.4</span> <span class="toctext">The leisure era</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Current_state"><span class="tocnumber">2</span> <span class="toctext">Current state</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Route"><span class="tocnumber">3</span> <span class="toctext">Route</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Points_of_interest"><span class="tocnumber">4</span> <span class="toctext">Points of interest</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Bibliography"><span class="tocnumber">6</span> <span class="toctext">Bibliography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#References"><span class="tocnumber">6.1</span> <span class="toctext">References</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_Broad_Canal&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The canal appears to have been planned for some time before it was authorised, as the <a href="/wiki/Calder_and_Hebble_Navigation" title="Calder and Hebble Navigation">Calder and Hebble Navigation</a> obtained an <a href="/wiki/Act_of_Parliament" title="Act of Parliament">Act of Parliament</a> for its canal in 1758, which included a clause to prevent interference with any future navigation <i>"from the Mouth of the River Coln to the town of Huddersfield"</i>. In 1766, Robert Whitworth surveyed a route for such a canal, and the Calder and Hebble's 1769 Act contained a similar clause. A second survey was carried out in 1773 by Luke Holt and Joseph Atkinson for the <a href="/wiki/Ramsden_family" class="mw-redirect" title="Ramsden family">Ramsden family</a>, who owned the whole of Huddersfield at the time and keen to develop the canal. The family also owned roughly one-third of the land along the proposed route of the canal. Holt had worked on the construction of the Calder and Hebble above Cooper Bridge.<sup id="cite_ref-FOOTNOTEHadfield197261–62_1-0" class="reference"><a href="#cite_note-FOOTNOTEHadfield197261–62-1">&#91;1&#93;</a></sup>
+</p><p>Atkinson presented evidence for the <a href="/wiki/Bill_(proposed_law)" class="mw-redirect" title="Bill (proposed law)">bill</a> to the parliamentary committee, being somewhat less than truthful when he stated that Huddersfield was 'the only market for narrow woolen cloths' in the West Riding of Yorkshire. The estimated cost of its construction was £8,000, and it was expected to take one year to complete. Profits were limited by the act, which stipulated that the tolls must be cut as the profits increased. Commissioners were to be appointed, with powers to examine the canal accounts and ensure compliance. In order to prevent water drawn by the canal from interfering with the operation of local mills, the upper 1.5 miles (2.4&#160;km) were made deeper than the rest of the canal, to provide a reservoir of water.<sup id="cite_ref-hadfield62_2-0" class="reference"><a href="#cite_note-hadfield62-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Construction">Construction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_Broad_Canal&amp;action=edit&amp;section=2" title="Edit section: Construction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The canal was authorised by an <a href="/wiki/Act_of_Parliament" title="Act of Parliament">Act of Parliament</a> (14 George III. Cap. 13) obtained on 9 March 1774, which enabled "<a href="/wiki/Sir_John_Ramsden,_4th_Baronet" title="Sir John Ramsden, 4th Baronet">Sir John Ramsden, Baronet</a>, to make and maintain a navigable Canal from the River Calder, between a Bridge called Cooper's Bridge, and the Mouth of the River Colne to the King's Mill, near the town of Huddersfleld, in the West Riding of the county of York".<sup id="cite_ref-FOOTNOTEPriestley1831531_3-0" class="reference"><a href="#cite_note-FOOTNOTEPriestley1831531-3">&#91;3&#93;</a></sup>
+</p><p>Although a connection to the <a href="/wiki/River_Colne,_West_Yorkshire" title="River Colne, West Yorkshire">River Colne</a> at Huddersfield was authorised by the act, the upper terminus was a basin at Apsley, where Ramsden built wharves and warehouses.<sup id="cite_ref-hadfield62_2-1" class="reference"><a href="#cite_note-hadfield62-2">&#91;2&#93;</a></sup> From the basin it descended 57.3 feet (17.5&#160;m) over a distance of 3.75 miles (6&#160;km), to its junction with the <a href="/wiki/Calder_and_Hebble_Navigation" title="Calder and Hebble Navigation">Calder and Hebble Navigation</a> at Cooper Bridge.<sup id="cite_ref-FOOTNOTEPriestley1831531–532_4-0" class="reference"><a href="#cite_note-FOOTNOTEPriestley1831531–532-4">&#91;4&#93;</a></sup>
+</p><p>The canal opened in 1776, having cost £11,975, although the total included some maintenance costs. Water was taken from the River Colne and fed into the canal from the tail goit of Shaw Foot Mill until it was supplied by the  Huddersfield Narrow Canal after it opened in 1811.<sup id="cite_ref-hadfield62_2-2" class="reference"><a href="#cite_note-hadfield62-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Operation">Operation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_Broad_Canal&amp;action=edit&amp;section=3" title="Edit section: Operation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The canal prospered, and in 1788, a regular service transporting goods between Huddersfield and <a href="/wiki/Wakefield" title="Wakefield">Wakefield</a> was operating three times a week.<sup id="cite_ref-hadfield62_2-3" class="reference"><a href="#cite_note-hadfield62-2">&#91;2&#93;</a></sup> During the 1790s, goods were carried over the Pennines by road, with one service, operated by Richard Milnes, connecting Manchester to Huddersfield. In 1796, he operated daily sailings onwards from Huddersfield to Wakefield, where the Calder and Hebble Navigation connected to the <a href="/wiki/Aire_and_Calder_Navigation" title="Aire and Calder Navigation">Aire and Calder Navigation</a>, on which there was a daily connection to <a href="/wiki/Kingston-upon-Hull" class="mw-redirect" title="Kingston-upon-Hull">Hull</a>. Just a year later, he operated one or more boats a day between the upper terminus of the Calder and Hebble at <a href="/wiki/Sowerby_Bridge" title="Sowerby Bridge">Sowerby Bridge</a> and Hull, while the service from Huddersfield to Wakefield reverted to three times a week. At the time, the construction of the broad <a href="/wiki/Rochdale_Canal" title="Rochdale Canal">Rochdale Canal</a> was making progress towards Sowerby Bridge, while the Huddersfield Narrow Canal was struggling with the excavation of <a href="/wiki/Standedge_Tunnel" class="mw-redirect" title="Standedge Tunnel">Standedge Tunnel</a>,<sup id="cite_ref-FOOTNOTEHadfield1972206–207_5-0" class="reference"><a href="#cite_note-FOOTNOTEHadfield1972206–207-5">&#91;5&#93;</a></sup> the longest, deepest and highest on the English canal system.<sup id="cite_ref-FOOTNOTENicholson200657_6-0" class="reference"><a href="#cite_note-FOOTNOTENicholson200657-6">&#91;6&#93;</a></sup> The Rochdale Canal provided a trans-Pennine route from 1804,<sup id="cite_ref-FOOTNOTENicholson2006163_7-0" class="reference"><a href="#cite_note-FOOTNOTENicholson2006163-7">&#91;7&#93;</a></sup> and Sowerby Bridge remained more important than Huddersfield,<sup id="cite_ref-hadfield207_8-0" class="reference"><a href="#cite_note-hadfield207-8">&#91;8&#93;</a></sup> even after the Huddersfield Narrow opened throughout in 1811.<sup id="cite_ref-FOOTNOTENicholson200657_6-1" class="reference"><a href="#cite_note-FOOTNOTENicholson200657-6">&#91;6&#93;</a></sup>
+</p><p>The Huddersfield Narrow Canal provided a heavily-locked western connection to the wool-weaving towns of the upper Colne valley, (<a href="/wiki/Golcar" title="Golcar">Golcar</a>, <a href="/wiki/Linthwaite" title="Linthwaite">Linthwaite</a>, <a href="/wiki/Slaithwaite" title="Slaithwaite">Slaithwaite</a>, and <a href="/wiki/Marsden,_West_Yorkshire" title="Marsden, West Yorkshire">Marsden</a>) and across the Pennines to <a href="/wiki/Saddleworth" title="Saddleworth">Saddleworth</a>, <a href="/wiki/Stalybridge" title="Stalybridge">Stalybridge</a> and <a href="/wiki/Manchester" title="Manchester">Manchester</a> via Standedge Tunnel. It was never particularly successful, and Ramsden's Canal was seen almost as a branch of the Calder and Hebble, with links to Yorkshire, rather than Lancashire. The Calder and Hebble brought prosperity to the area, and Ramsden's Canal shared in it.<sup id="cite_ref-hadfield207_8-1" class="reference"><a href="#cite_note-hadfield207-8">&#91;8&#93;</a></sup> The Narrow Canal was hampered by the need to tranship cargoes at Huddersfield. Their boats were 70 by 7 feet (21.3 by 2.1&#160;m), the same as those on the connecting <a href="/wiki/Ashton_Canal" title="Ashton Canal">Ashton Canal</a> and <a href="/wiki/Peak_Forest_Canal" title="Peak Forest Canal">Peak Forest Canal</a> at the Manchester end. However, they were too long to fit through the shorter locks of Ramsden's Canal and the Calder and Hebble. In 1812 they built a 57.5-foot (17.5&#160;m) narrowboat, which could work through to Wakefield, but it carried a smaller cargo. The company tried unsuccessfully to get the Calder and Hebble to entend their locks to cater for longer boats. Had they succeeded, locks on Ramsden's Canal would have needed lengthening.<sup id="cite_ref-FOOTNOTEHadfieldBiddle1970330_9-0" class="reference"><a href="#cite_note-FOOTNOTEHadfieldBiddle1970330-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Railway_ownership">Railway ownership</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_Broad_Canal&amp;action=edit&amp;section=4" title="Edit section: Railway ownership">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The canal passed into railway ownership in 1845 when it was bought by the Huddersfield and Manchester Railway and Canal Company for £46,560.<sup id="cite_ref-FOOTNOTEJoy1984_10-0" class="reference"><a href="#cite_note-FOOTNOTEJoy1984-10">&#91;10&#93;</a></sup> The company was incorporated in 1845 and had already the Huddersfield Narrow Canal primarily to aid in the construction of a cross-Pennine rail link at <a href="/wiki/Standedge_Tunnels" title="Standedge Tunnels">Standedge</a>. The railway company became part of the <a href="/wiki/London_and_North_Western_Railway" title="London and North Western Railway">London and North Western Railway</a> (LNWR) in 1847, and the negotiations meant that shareholders received 70 per cent of the dividends paid on shares in the LNWR.<sup id="cite_ref-hadfield207_8-2" class="reference"><a href="#cite_note-hadfield207-8">&#91;8&#93;</a></sup><sup id="cite_ref-FOOTNOTEHadfieldBiddle1970335_11-0" class="reference"><a href="#cite_note-FOOTNOTEHadfieldBiddle1970335-11">&#91;11&#93;</a></sup>
+</p><p>In the year of the LNWR takeover, the canal carried 120,207 tons of cargo, but this gradually declined.  An attempted revival of trade to Manchester in 1856, spearheaded by the Aire and Calder Navigation after a railway company took over the Rochdale Canal, foundered when the LNWR created obstacles to using Standedge Tunnel.  The Aire and Calder negotiated the expansion of Huddersfield Wharf in 1872, and leased the original and extended wharves in 1873, installing hydraulic hoists two years later.  At around this time, the LNWR began selling canal water, reportedly 200,000 imperial gallons (0.91&#160;Ml) per day according to the <i>Huddersfield Chronicle</i>. Trade held up well, with some 75,000 tons passing between the Calder and Hebble and Ramsden's Canal in the 1890s, of which about one quarter transferred to the Huddersfield Narrow Canal.  By 1905, this had fallen to 54,580, of which one fifth passed onto the narrow canal.<sup id="cite_ref-FOOTNOTEHadfield1973398_12-0" class="reference"><a href="#cite_note-FOOTNOTEHadfield1973398-12">&#91;12&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="The_leisure_era">The leisure era</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_Broad_Canal&amp;action=edit&amp;section=5" title="Edit section: The leisure era">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Calder and Hebble Canal company bought Ramsden's Canal on 1 January 1945, in an agreement with the <a href="/wiki/London,_Midland_and_Scottish_Railway" title="London, Midland and Scottish Railway">London, Midland and Scottish Railway</a> company. They paid £4,000 which included a short length of the Narrow Canal, and the rest of that canal was abandoned. The canal was used to carry coal to a power station, and was used by some 80 barges each month. Along with most of the operating British canals, it was nationalised on 1 January 1948. The coal traffic ended in October 1953, and was the last commercial traffic to use the canal. With the passing of the <a href="/wiki/Transport_Act_1962" title="Transport Act 1962">Transport Act 1962</a> responsibility passed from the <a href="/wiki/British_Transport_Commission" title="British Transport Commission">British Transport Commission</a> to <a href="/wiki/British_Waterways" title="British Waterways">British Waterways</a>. Under the terms of the Transport Act 1968, the canal was classified as a cruiseway, meaning that it had a future for leisure use.<sup id="cite_ref-FOOTNOTEHadfield1973398–399_13-0" class="reference"><a href="#cite_note-FOOTNOTEHadfield1973398–399-13">&#91;13&#93;</a></sup> In 2012, responsibility passed to the <a href="/wiki/Canal_and_River_Trust" class="mw-redirect" title="Canal and River Trust">Canal and River Trust</a>.
+</p>
+<h2><span class="mw-headline" id="Current_state">Current state</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_Broad_Canal&amp;action=edit&amp;section=6" title="Edit section: Current state">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Huddersfield_Narrow_Canal_tunnel_under_Wakefield_Road_RLH.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Huddersfield_Narrow_Canal_tunnel_under_Wakefield_Road_RLH.jpg/220px-Huddersfield_Narrow_Canal_tunnel_under_Wakefield_Road_RLH.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/Huddersfield_Narrow_Canal_tunnel_under_Wakefield_Road_RLH.jpg/330px-Huddersfield_Narrow_Canal_tunnel_under_Wakefield_Road_RLH.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/Huddersfield_Narrow_Canal_tunnel_under_Wakefield_Road_RLH.jpg/440px-Huddersfield_Narrow_Canal_tunnel_under_Wakefield_Road_RLH.jpg 2x" data-file-width="1400" data-file-height="1048" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Huddersfield_Narrow_Canal_tunnel_under_Wakefield_Road_RLH.jpg" class="internal" title="Enlarge"></a></div>Wakefield Road tunnel</div></div></div>
+<p>The broad canal has been used much more since the re-opening of the Huddersfield Narrow Canal in 2001,<sup id="cite_ref-FOOTNOTECumberlidge2009149_14-0" class="reference"><a href="#cite_note-FOOTNOTECumberlidge2009149-14">&#91;14&#93;</a></sup> as it is no longer a dead end, but part of one of three cross-Pennine through-routes.  This has resulted in better maintenance of the channel and locks. There is a card-operated pumpout machine at <a href="/wiki/Aspley,_Huddersfield" class="mw-redirect" title="Aspley, Huddersfield">Aspley Basin</a>,<sup id="cite_ref-FOOTNOTEShead200560–61_15-0" class="reference"><a href="#cite_note-FOOTNOTEShead200560–61-15">&#91;15&#93;</a></sup> and mooring points have fresh water and electric services.
+</p><p>The Huddersfield Broad Canal made its original connection with the Huddersfield Narrow Canal to the west of the A629 Wakefield Road. Following strengthening work to Wakefield Road, which included the construction of a reinforced concrete tunnel under the original bridge, this short section is no longer navigable to vessels wider than 7 feet (2.1&#160;m). Although British Waterways has not officially redesignated it, the Wakefield Road tunnel now effectively forms the end of the Huddersfield Broad Canal.
+</p>
+<h2><span class="mw-headline" id="Route">Route</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_Broad_Canal&amp;action=edit&amp;section=7" title="Edit section: Route">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Just above Coopers Bridge, the Calder and Hebble enters a lock cut through a floodgate. The route to Ramsden's Canal follows the main course of the river, passing under the bridge which carries the <a href="/wiki/A62_road" title="A62 road">A62 road</a> over the river. A large weir is directly ahead, protected by a boom, and the first lock is on the right, just above it. The lock is a <a href="/wiki/Grade_II_listed" class="mw-redirect" title="Grade II listed">grade II listed</a> structure, dating from the building of the canal, although a dated kerbstone indicates that it was modified in 1899.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> The adjacent lock keepers cottage, which is built of hammer-dressed stone, with two storeys and a stone slate roof, dates from the early or mid 19th century, and is also a listed structure.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> The canal turns to the south west to run parallel to the River Colne, and passes under a railway bridge to reach the Clone Bridge Lock. Just above it is a hammer-dressed stone warehouse, dating from the 18th century,<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> followed by an arched bridge which carries Colne Bridge Road over the canal. A datestone indicates that it was built in 1775.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:162px;"><a href="/wiki/File:Huddersfield_Broad_Canal_RLH.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Huddersfield_Broad_Canal_RLH.jpg/160px-Huddersfield_Broad_Canal_RLH.jpg" decoding="async" width="160" height="202" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Huddersfield_Broad_Canal_RLH.jpg/240px-Huddersfield_Broad_Canal_RLH.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Huddersfield_Broad_Canal_RLH.jpg/320px-Huddersfield_Broad_Canal_RLH.jpg 2x" data-file-width="835" data-file-height="1054" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Huddersfield_Broad_Canal_RLH.jpg" class="internal" title="Enlarge"></a></div>Mooring section between <a href="/wiki/Aspley,_Huddersfield" class="mw-redirect" title="Aspley, Huddersfield">Aspley</a> and <a href="/wiki/Turnbridge,_Huddersfield" class="mw-redirect" title="Turnbridge, Huddersfield">Turnbridge</a></div></div></div>
+<p>Pipelines cross the canal at Colliery Bridge, which is followed by Ladgrave Lock, with a hammer-dressed stone bridge over its tail.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> The canal is flanked by industrial buildings on both sides as it reaches Longlands Lock, again with a stone bridge over the tail.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> It passes under a disused railway bridge and the A62 road, and then close to <a href="/wiki/Deighton_railway_station" title="Deighton railway station">Deighton railway station</a>. The A62 bridge is a skew-arched bridge built for the opening of the canal, although the original structure is partially obscured by reinforced concrete extensions, which carry footpaths on both sides of the road.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> On the south bank is a large playing field, where the <a href="/wiki/Inland_Waterways_Association" title="Inland Waterways Association">Inland Waterways Association</a> held their National Festival in 2002.<sup id="cite_ref-FOOTNOTEFairhurst201170_23-0" class="reference"><a href="#cite_note-FOOTNOTEFairhurst201170-23">&#91;23&#93;</a></sup> Turnpike Road Lock is situated at the southern end of the fields, and has a separate overflow channel to the north.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> Reading Lock has another stone bridge crossing its tail,<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> and is followed by Fieldhouse Lock and bridge, which carries Fieldhouse Lane over the lock tail.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> Next comes Falls Lock, and finally Red Doles Lock and bridge.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> The lock is 2.3 miles (3.7&#160;km) from the start of the canal, and the remaining mile (1.6&#160;km) is level.<sup id="cite_ref-FOOTNOTECumberlidge2009150_28-0" class="reference"><a href="#cite_note-FOOTNOTECumberlidge2009150-28">&#91;28&#93;</a></sup>
+</p><p>The canal is increasingly hemmed in by buildings. On the east bank is Phoenix Mill, a five-storey building with attics and a pitched slate roof.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> Close to the North Eastern Gas Board offices, which are located in a three-storey mid-19th century listed building,<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> the canal makes a dog-leg turn under Leeds Road. On the west bank is an octagonal chimney, standing over 100 feet (30&#160;m) tall, which was built in 1872 and formed part of a cotton spinning mill.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> Adjacent to it, the <a href="/wiki/Turnbridge_Lift_Bridge" title="Turnbridge Lift Bridge">Locomotive lift bridge</a>, which was installed in 1865, is a vertical lifting bridge.<sup id="cite_ref-FOOTNOTENicholson200660_32-0" class="reference"><a href="#cite_note-FOOTNOTENicholson200660-32">&#91;32&#93;</a></sup> It was refurbished in 2002, and converted to electric operation.<sup id="cite_ref-FOOTNOTEShead200560_33-0" class="reference"><a href="#cite_note-FOOTNOTEShead200560-33">&#91;33&#93;</a></sup> On the west bank is a seven-storey mill building originally belonging to John L Brierley.<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup> As the canal approaches Aspley Basin, there is a canal warehouse on the west bank, which dates from the construction of the canal,<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup> and another, which is <a href="/wiki/Grade_II*_listed" class="mw-redirect" title="Grade II* listed">Grade II* listed</a> just after Wakefield Road bridge.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup> The basin itself is at right angles to the canal.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Points_of_interest">Points of interest</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_Broad_Canal&amp;action=edit&amp;section=8" title="Edit section: Points of interest">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="noprint infobox" id="GeoGroup" style="width: 23em; font-size: 88%; line-height: 1.5em">
+
+<tbody><tr>
+<td><b>Map all coordinates using:</b> <a class="external text" href="//tools.wmflabs.org/osm4wiki/cgi-bin/wiki/wiki-osm.pl?project=en&amp;article=Huddersfield_Broad_Canal">OpenStreetMap</a>&#160;
+</td></tr>
+<tr>
+<td><b>Download coordinates as:</b> <a class="external text" href="//tools.wmflabs.org/kmlexport?article=Huddersfield_Broad_Canal">KML</a>&#160;<b>&#183;</b>&#160;<a rel="nofollow" class="external text" href="http://tripgang.com/kml2gpx/http%3A%2F%2Ftools.wmflabs.org%2Fkmlexport%3Farticle%3DHuddersfield_Broad_Canal?gpx=1">GPX</a>
+</td></tr></tbody></table>
+<table class="wikitable collapsible collapsed">
+<tbody><tr>
+<th>Point
+</th>
+<th><a href="/wiki/World_Geodetic_System" title="World Geodetic System">Coordinates</a><br />(Links to map resources)
+</th>
+<th><a href="/wiki/Ordnance_Survey_National_Grid" title="Ordnance Survey National Grid">OS Grid Ref</a>
+</th>
+<th>Notes
+</th></tr>
+<tr class="vcard">
+<td class="fn org">Cooper Bridge Lock
+</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_Broad_Canal&amp;params=53.6814_N_1.735_W_region:GB_scale:2000&amp;title=Cooper+Bridge+Lock"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°40′53″N</span> <span class="longitude">1°44′06″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6814°N 1.7350°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6814; -1.7350</span></span><span style="display:none">&#xfeff; (<span class="fn org">Cooper Bridge Lock</span>)</span></span></span></a></span>
+</td>
+<td class="note">SE176205
+</td>
+<td class="note">Jn with Calder and Hebble
+</td></tr>
+<tr class="vcard">
+<td class="fn org">Colne Bridge Lock
+</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_Broad_Canal&amp;params=53.6789_N_1.7337_W_region:GB_scale:2000&amp;title=Colne+Bridge+Lock"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°40′44″N</span> <span class="longitude">1°44′01″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6789°N 1.7337°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6789; -1.7337</span></span><span style="display:none">&#xfeff; (<span class="fn org">Colne Bridge Lock</span>)</span></span></span></a></span>
+</td>
+<td class="note">SE176203
+</td>
+<td class="note">No 2
+</td></tr>
+<tr class="vcard">
+<td class="fn org">Ladgrave Lock
+</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_Broad_Canal&amp;params=53.6732_N_1.7421_W_region:GB_scale:2000&amp;title=Ladgrave+Lock"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°40′24″N</span> <span class="longitude">1°44′32″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6732°N 1.7421°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6732; -1.7421</span></span><span style="display:none">&#xfeff; (<span class="fn org">Ladgrave Lock</span>)</span></span></span></a></span>
+</td>
+<td class="note">SE171196
+</td>
+<td class="note">No 3
+</td></tr>
+<tr class="vcard">
+<td class="fn org">Longlands Lock
+</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_Broad_Canal&amp;params=53.6696_N_1.7444_W_region:GB_scale:2000&amp;title=Longlands+Lock"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°40′11″N</span> <span class="longitude">1°44′40″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6696°N 1.7444°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6696; -1.7444</span></span><span style="display:none">&#xfeff; (<span class="fn org">Longlands Lock</span>)</span></span></span></a></span>
+</td>
+<td class="note">SE169192
+</td>
+<td class="note">No 4
+</td></tr>
+<tr class="vcard">
+<td class="fn org">Turnpike Lock
+</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_Broad_Canal&amp;params=53.667_N_1.7559_W_region:GB_scale:2000&amp;title=Turnpike+Lock"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°40′01″N</span> <span class="longitude">1°45′21″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6670°N 1.7559°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6670; -1.7559</span></span><span style="display:none">&#xfeff; (<span class="fn org">Turnpike Lock</span>)</span></span></span></a></span>
+</td>
+<td class="note">SE162189
+</td>
+<td class="note">No 5
+</td></tr>
+<tr class="vcard">
+<td class="fn org">Reading Lock
+</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_Broad_Canal&amp;params=53.6657_N_1.7599_W_region:GB_scale:2000&amp;title=Reading+Lock"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°39′57″N</span> <span class="longitude">1°45′36″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6657°N 1.7599°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6657; -1.7599</span></span><span style="display:none">&#xfeff; (<span class="fn org">Reading Lock</span>)</span></span></span></a></span>
+</td>
+<td class="note">SE159188
+</td>
+<td class="note">No 6
+</td></tr>
+<tr class="vcard">
+<td class="fn org">Fieldhouse Green Lock
+</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_Broad_Canal&amp;params=53.6636_N_1.7639_W_region:GB_scale:2000&amp;title=Fieldhouse+Green+Lock"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°39′49″N</span> <span class="longitude">1°45′50″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6636°N 1.7639°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6636; -1.7639</span></span><span style="display:none">&#xfeff; (<span class="fn org">Fieldhouse Green Lock</span>)</span></span></span></a></span>
+</td>
+<td class="note">SE156185
+</td>
+<td class="note">No 7
+</td></tr>
+<tr class="vcard">
+<td class="fn org">Falls Lock
+</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_Broad_Canal&amp;params=53.663_N_1.7656_W_region:GB_scale:2000&amp;title=Falls+Lock"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°39′47″N</span> <span class="longitude">1°45′56″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6630°N 1.7656°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6630; -1.7656</span></span><span style="display:none">&#xfeff; (<span class="fn org">Falls Lock</span>)</span></span></span></a></span>
+</td>
+<td class="note">SE155185
+</td>
+<td class="note">No 8
+</td></tr>
+<tr class="vcard">
+<td class="fn org">Red Doles Lock
+</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_Broad_Canal&amp;params=53.6611_N_1.7708_W_region:GB_scale:2000&amp;title=Red+Doles+Lock"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°39′40″N</span> <span class="longitude">1°46′15″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6611°N 1.7708°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6611; -1.7708</span></span><span style="display:none">&#xfeff; (<span class="fn org">Red Doles Lock</span>)</span></span></span></a></span>
+</td>
+<td class="note">SE152183
+</td>
+<td class="note">No 9
+</td></tr>
+<tr class="vcard">
+<td class="fn org">Turnbridge Loco Lift Bridge
+</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_Broad_Canal&amp;params=53.6478_N_1.7753_W_region:GB_scale:2000&amp;title=Turnbridge+Loco+Lift+Bridge"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°38′52″N</span> <span class="longitude">1°46′31″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6478°N 1.7753°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6478; -1.7753</span></span><span style="display:none">&#xfeff; (<span class="fn org">Turnbridge Loco Lift Bridge</span>)</span></span></span></a></span>
+</td>
+<td class="note">SE149168
+</td>
+<td class="note">
+</td></tr>
+<tr class="vcard">
+<td class="fn org">Apsley Basin
+</td>
+<td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_Broad_Canal&amp;params=53.6448_N_1.7748_W_region:GB_scale:2000&amp;title=Apsley+Basin"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°38′41″N</span> <span class="longitude">1°46′29″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="vcard"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6448°N 1.7748°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6448; -1.7748</span></span><span style="display:none">&#xfeff; (<span class="fn org">Apsley Basin</span>)</span></span></span></a></span>
+</td>
+<td class="note">SE149164
+</td>
+<td class="note">Effective end of broad canal
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_Broad_Canal&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Moore_Bridge.jpg/32px-Moore_Bridge.jpg" decoding="async" width="32" height="19" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/13/Moore_Bridge.jpg/48px-Moore_Bridge.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/13/Moore_Bridge.jpg/64px-Moore_Bridge.jpg 2x" data-file-width="2544" data-file-height="1547" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:UK_Waterways" class="mw-redirect" title="Portal:UK Waterways">UK Waterways portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Canals_of_the_United_Kingdom" title="Canals of the United Kingdom">Canals of the United Kingdom</a></li>
+<li><a href="/wiki/History_of_the_British_canal_system" title="History of the British canal system">History of the British canal system</a></li></ul>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_Broad_Canal&amp;action=edit&amp;section=10" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ul><li><cite id="CITEREFCumberlidge2009" class="citation book">Cumberlidge, Jane (2009). <i>Inland Waterways of Great Britain</i> (8th ed.). Imray Laurie Norie and Wilson. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84623-010-3" title="Special:BookSources/978-1-84623-010-3"><bdi>978-1-84623-010-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Inland+Waterways+of+Great+Britain&amp;rft.edition=8th&amp;rft.pub=Imray+Laurie+Norie+and+Wilson&amp;rft.date=2009&amp;rft.isbn=978-1-84623-010-3&amp;rft.aulast=Cumberlidge&amp;rft.aufirst=Jane&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li>
+<li><cite id="CITEREFFairhurst2011" class="citation book">Fairhurst, Richard (November 2011). <i>WW Guide to the Huddersfield Canals</i>. Waterways World. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0309-1422">0309-1422</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=WW+Guide+to+the+Huddersfield+Canals&amp;rft.pub=Waterways+World&amp;rft.date=2011-11&amp;rft.issn=0309-1422&amp;rft.aulast=Fairhurst&amp;rft.aufirst=Richard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFHadfield1972" class="citation book">Hadfield, Charles (1972). <i>The Canals of Yorkshire and North East England (Vol 1)</i>. David and Charles. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7153-5719-4" title="Special:BookSources/978-0-7153-5719-4"><bdi>978-0-7153-5719-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Canals+of+Yorkshire+and+North+East+England+%28Vol+1%29&amp;rft.pub=David+and+Charles&amp;rft.date=1972&amp;rft.isbn=978-0-7153-5719-4&amp;rft.aulast=Hadfield&amp;rft.aufirst=Charles&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFHadfield1973" class="citation book">Hadfield, Charles (1973). <i>The Canals of Yorkshire and North East England (Vol 2)</i>. David and Charles. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7153-5975-4" title="Special:BookSources/978-0-7153-5975-4"><bdi>978-0-7153-5975-4</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Canals+of+Yorkshire+and+North+East+England+%28Vol+2%29&amp;rft.pub=David+and+Charles&amp;rft.date=1973&amp;rft.isbn=978-0-7153-5975-4&amp;rft.aulast=Hadfield&amp;rft.aufirst=Charles&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFHadfieldBiddle1970" class="citation book">Hadfield, Charles; Biddle, Gordon (1970). <i>The Canals of North West England, Vol 2 (pp.241–496)</i>. David and Charles. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7153-4992-2" title="Special:BookSources/978-0-7153-4992-2"><bdi>978-0-7153-4992-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Canals+of+North+West+England%2C+Vol+2+%28pp.241%E2%80%93496%29&amp;rft.pub=David+and+Charles&amp;rft.date=1970&amp;rft.isbn=978-0-7153-4992-2&amp;rft.aulast=Hadfield&amp;rft.aufirst=Charles&amp;rft.au=Biddle%2C+Gordon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFJoy1984" class="citation book">Joy, David (1984). <i>A Regional History of the Railways of Great Britain Volume VIII South and West Yorkshire</i>. David St John Thomas. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-946537-11-2" title="Special:BookSources/978-0-946537-11-2"><bdi>978-0-946537-11-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Regional+History+of+the+Railways+of+Great+Britain+Volume+VIII+South+and+West+Yorkshire&amp;rft.pub=David+St+John+Thomas&amp;rft.date=1984&amp;rft.isbn=978-0-946537-11-2&amp;rft.aulast=Joy&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFPriestley1831" class="citation web">Priestley, Joseph (1831). <a rel="nofollow" class="external text" href="http://www.jim-shead.com/waterways/sdoc.php?wpage=PNRC0541#PNRC531">"Historical Account of the Navigable Rivers, Canals and Railways of Great Britain"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Historical+Account+of+the+Navigable+Rivers%2C+Canals+and+Railways+of+Great+Britain&amp;rft.date=1831&amp;rft.aulast=Priestley&amp;rft.aufirst=Joseph&amp;rft_id=http%3A%2F%2Fwww.jim-shead.com%2Fwaterways%2Fsdoc.php%3Fwpage%3DPNRC0541%23PNRC531&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFShead2005" class="citation book">Shead, Jim (May 2005). <i>High &amp; Dry</i>. Waterways World. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0309-1422">0309-1422</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=High+%26+Dry&amp;rft.pub=Waterways+World&amp;rft.date=2005-05&amp;rft.issn=0309-1422&amp;rft.aulast=Shead&amp;rft.aufirst=Jim&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+</div>
+<h3><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_Broad_Canal&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-FOOTNOTEHadfield197261–62-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHadfield197261–62_1-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHadfield1972">Hadfield 1972</a>, pp.&#160;61–62.</span>
+</li>
+<li id="cite_note-hadfield62-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-hadfield62_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hadfield62_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hadfield62_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-hadfield62_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFHadfield1972">Hadfield 1972</a>, p.&#160;62</span>
+</li>
+<li id="cite_note-FOOTNOTEPriestley1831531-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPriestley1831531_3-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPriestley1831">Priestley 1831</a>, p.&#160;531.</span>
+</li>
+<li id="cite_note-FOOTNOTEPriestley1831531–532-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEPriestley1831531–532_4-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFPriestley1831">Priestley 1831</a>, pp.&#160;531–532.</span>
+</li>
+<li id="cite_note-FOOTNOTEHadfield1972206–207-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHadfield1972206–207_5-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHadfield1972">Hadfield 1972</a>, pp.&#160;206–207.</span>
+</li>
+<li id="cite_note-FOOTNOTENicholson200657-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTENicholson200657_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTENicholson200657_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFNicholson2006">Nicholson 2006</a>, p.&#160;57.</span>
+</li>
+<li id="cite_note-FOOTNOTENicholson2006163-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTENicholson2006163_7-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFNicholson2006">Nicholson 2006</a>, p.&#160;163.</span>
+</li>
+<li id="cite_note-hadfield207-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-hadfield207_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hadfield207_8-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-hadfield207_8-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFHadfield1972">Hadfield 1972</a>, p.&#160;207</span>
+</li>
+<li id="cite_note-FOOTNOTEHadfieldBiddle1970330-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHadfieldBiddle1970330_9-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHadfieldBiddle1970">Hadfield &amp; Biddle 1970</a>, p.&#160;330.</span>
+</li>
+<li id="cite_note-FOOTNOTEJoy1984-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEJoy1984_10-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFJoy1984">Joy 1984</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTEHadfieldBiddle1970335-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHadfieldBiddle1970335_11-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHadfieldBiddle1970">Hadfield &amp; Biddle 1970</a>, p.&#160;335.</span>
+</li>
+<li id="cite_note-FOOTNOTEHadfield1973398-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHadfield1973398_12-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHadfield1973">Hadfield 1973</a>, p.&#160;398.</span>
+</li>
+<li id="cite_note-FOOTNOTEHadfield1973398–399-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHadfield1973398–399_13-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHadfield1973">Hadfield 1973</a>, pp.&#160;398–399.</span>
+</li>
+<li id="cite_note-FOOTNOTECumberlidge2009149-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTECumberlidge2009149_14-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFCumberlidge2009">Cumberlidge 2009</a>, p.&#160;149.</span>
+</li>
+<li id="cite_note-FOOTNOTEShead200560–61-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEShead200560–61_15-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFShead2005">Shead 2005</a>, pp.&#160;60–61.</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1134346" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1134346">"Cooper Bridge Lock (1134346)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Cooper+Bridge+Lock+%281134346%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1134346&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1221170" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1221170">"Lock Keepers Cottage, Cooper Bridge Lock (1221170)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Lock+Keepers+Cottage%2C+Cooper+Bridge+Lock+%281221170%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1221170&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1134291" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1134291">"Warehouse on south east side of canal (1134291)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Warehouse+on+south+east+side+of+canal+%281134291%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1134291&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1221180" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1221180">"Bridge taking Colne Bridge Road (1221180)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Bridge+taking+Colne+Bridge+Road+%281221180%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1221180&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1134347" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1134347">"Johnsons Lock (Ladgrave) (1134347)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Johnsons+Lock+%28Ladgrave%29+%281134347%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1134347&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1313802" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1313802">"Number 4 lock (Longlands) (1313802)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Number+4+lock+%28Longlands%29+%281313802%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1313802&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1221204" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1221204">"Bridge taking Leeds Road (1221204)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Bridge+taking+Leeds+Road+%281221204%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1221204&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-FOOTNOTEFairhurst201170-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEFairhurst201170_23-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFFairhurst2011">Fairhurst 2011</a>, p.&#160;70.</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1134348" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1134348">"Hall Wood Lock (Turnpike Road) (1134348)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Hall+Wood+Lock+%28Turnpike+Road%29+%281134348%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1134348&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1134349" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1134349">"Riddings Lock (Reading) (1134349)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Riddings+Lock+%28Reading%29+%281134349%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1134349&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1210180" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1210180">"Fieldhouse Lock (1210180)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Fieldhouse+Lock+%281210180%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1210180&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1290603" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1290603">"Red Doles Lock (1290603)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Red+Doles+Lock+%281290603%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1290603&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-FOOTNOTECumberlidge2009150-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTECumberlidge2009150_28-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFCumberlidge2009">Cumberlidge 2009</a>, p.&#160;150.</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1214949" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1214949">"Phoenix Mill (1214949)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Phoenix+Mill+%281214949%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1214949&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1313508" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1313508">"North Eastern Gas Board Offices (1313508)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=North+Eastern+Gas+Board+Offices+%281313508%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1313508&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1409815" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1409815">"Chimney at Turnbridge Mills (1409815)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Chimney+at+Turnbridge+Mills+%281409815%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1409815&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-FOOTNOTENicholson200660-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTENicholson200660_32-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFNicholson2006">Nicholson 2006</a>, p.&#160;60.</span>
+</li>
+<li id="cite_note-FOOTNOTEShead200560-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEShead200560_33-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFShead2005">Shead 2005</a>, p.&#160;60.</span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1231214" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1231214">"John L Brierley's Mill (1231214)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=John+L+Brierley%27s+Mill+%281231214%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1231214&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1220248" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1220248">"Canal Warehouse at North End (1220248)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Canal+Warehouse+at+North+End+%281220248%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1220248&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1223867" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1223867">"Canal Warehouse at Apsley Basin (1223867)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Canal+Warehouse+at+Apsley+Basin+%281223867%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1223867&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1134350" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1134350">"Apsley Basin (1134350)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">5 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Apsley+Basin+%281134350%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1134350&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Broad+Canal" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Navigable_canals_of_the_United_Kingdom" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Canals_of_the_United_Kingdom" title="Template:Canals of the United Kingdom"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Canals_of_the_United_Kingdom" title="Template talk:Canals of the United Kingdom"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Canals_of_the_United_Kingdom&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Navigable_canals_of_the_United_Kingdom" style="font-size:114%;margin:0 4em">Navigable <a href="/wiki/Canals_of_the_United_Kingdom" title="Canals of the United Kingdom">canals of the United Kingdom</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">England</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aire_and_Calder_Navigation" title="Aire and Calder Navigation">Aire and Calder</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Ashby_Canal" title="Ashby Canal">Ashby-de-la-Zouch</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Ashton_Canal" title="Ashton Canal">Ashton</a></li>
+<li><a href="/wiki/Basingstoke_Canal" title="Basingstoke Canal">Basingstoke Canal</a></li>
+<li><a href="/wiki/Beverley_Beck" title="Beverley Beck">Beverley Beck</a></li>
+<li><a href="/wiki/Birmingham_Canal_Navigations" title="Birmingham Canal Navigations">Birmingham Canal Navigations</a><sup><small>3</small></sup></li>
+<li><a href="/wiki/Bridgewater_Canal" title="Bridgewater Canal">Bridgewater</a></li>
+<li><a href="/wiki/Bridgwater_and_Taunton_Canal" title="Bridgwater and Taunton Canal">Bridgwater and Taunton</a></li>
+<li><a href="/wiki/Bude_Canal" title="Bude Canal">Bude</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Calder_and_Hebble_Navigation" title="Calder and Hebble Navigation">Calder and Hebble</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Cambridgeshire_Lodes" title="Cambridgeshire Lodes">Cambridgeshire Lodes</a><sup><small>3</small></sup></li>
+<li><a href="/wiki/Chelmer_and_Blackwater_Navigation" title="Chelmer and Blackwater Navigation">Chelmer and Blackwater</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Chesterfield_Canal" title="Chesterfield Canal">Chesterfield</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Chichester_Canal" title="Chichester Canal">Chichester</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Coventry_Canal" title="Coventry Canal">Coventry</a></li>
+<li><a href="/wiki/Driffield_Navigation" title="Driffield Navigation">Driffield</a></li>
+<li><a href="/wiki/Droitwich_Canal" title="Droitwich Canal">Droitwich</a></li>
+<li><a href="/wiki/Erewash_Canal" title="Erewash Canal">Erewash</a></li>
+<li><a href="/wiki/Foss_Dyke" title="Foss Dyke">Foss Dyke</a></li>
+<li><a href="/wiki/Gloucester_and_Sharpness_Canal" title="Gloucester and Sharpness Canal">Gloucester and Sharpness</a></li>
+<li><a href="/wiki/Grand_Union_Canal" title="Grand Union Canal">Grand Union</a><sup><small>3</small></sup></li>
+<li><a href="/wiki/Grand_Western_Canal" title="Grand Western Canal">Grand Western</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Grantham_Canal" title="Grantham Canal">Grantham</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Herefordshire_and_Gloucestershire_Canal" title="Herefordshire and Gloucestershire Canal">Herefordshire and Gloucestershire</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Hollinwood_Branch_Canal" title="Hollinwood Branch Canal">Hollinwood Branch</a><sup><small>2</small></sup></li>
+<li><a class="mw-selflink selflink">Huddersfield Broad</a></li>
+<li><a href="/wiki/Huddersfield_Narrow_Canal" title="Huddersfield Narrow Canal">Huddersfield Narrow</a></li>
+<li><a href="/wiki/River_Gipping" title="River Gipping">Ipswich and Stowmarket</a><sup><small>1</small></sup><sup><small>2</small></sup></li>
+<li><a href="/wiki/Kennet_and_Avon_Canal" title="Kennet and Avon Canal">Kennet and Avon</a></li>
+<li><a href="/wiki/Lancaster_Canal" title="Lancaster Canal">Lancaster</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Leeds_and_Liverpool_Canal" title="Leeds and Liverpool Canal">Leeds and Liverpool</a><sup><small>3</small></sup></li>
+<li><a href="/wiki/Lee_Navigation" title="Lee Navigation">Lee Navigation</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Limehouse_Cut" title="Limehouse Cut">Limehouse</a></li>
+<li><a href="/wiki/Llangollen_Canal" title="Llangollen Canal">Llangollen</a></li>
+<li><a href="/wiki/Lydney_Canal" title="Lydney Canal">Lydney</a></li>
+<li><a href="/wiki/Macclesfield_Canal" title="Macclesfield Canal">Macclesfield</a></li>
+<li><a href="/wiki/Manchester_Bolton_%26_Bury_Canal" title="Manchester Bolton &amp; Bury Canal">Manchester Bolton &amp; Bury</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Manchester_Ship_Canal" title="Manchester Ship Canal">Manchester Ship Canal</a></li>
+<li><a href="/wiki/Market_Weighton_Canal" title="Market Weighton Canal">Market Weighton</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Middle_Level_Navigations" title="Middle Level Navigations">Middle Level Navigations</a><sup><small>3</small></sup></li>
+<li><a href="/wiki/Montgomery_Canal" title="Montgomery Canal">Montgomery</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/North_Walsham_%26_Dilham_Canal" title="North Walsham &amp; Dilham Canal">North Walsham &amp; Dilham</a><sup><small>1</small></sup><sup><small>2</small></sup></li>
+<li><a href="/wiki/Nottingham_Canal" title="Nottingham Canal">Nottingham</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Oxford_Canal" title="Oxford Canal">Oxford</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Peak_Forest_Canal" title="Peak Forest Canal">Peak Forest</a></li>
+<li><a href="/wiki/Pocklington_Canal" title="Pocklington Canal">Pocklington</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Regent%27s_Canal" title="Regent&#39;s Canal">Regent's Canal</a></li>
+<li><a href="/wiki/Ribble_Link" title="Ribble Link">Ribble Link</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Ripon_Canal" title="Ripon Canal">Ripon</a></li>
+<li><a href="/wiki/Rochdale_Canal" title="Rochdale Canal">Rochdale</a></li>
+<li><a href="/wiki/Royal_Military_Canal" title="Royal Military Canal">Royal Military Canal</a></li>
+<li><a href="/wiki/Sankey_Canal" title="Sankey Canal">Sankey</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Selby_Canal" title="Selby Canal">Selby</a></li>
+<li><a href="/wiki/Sheffield_and_South_Yorkshire_Navigation" title="Sheffield and South Yorkshire Navigation">Sheffield and South Yorkshire</a><sup><small>1</small></sup><sup><small>3</small></sup></li>
+<li><a href="/wiki/Shropshire_Union_Canal" title="Shropshire Union Canal">Shropshire Union</a><sup><small>3</small></sup></li>
+<li><a href="/wiki/Sleaford_Navigation" title="Sleaford Navigation">Sleaford</a><sup><small>1</small></sup><sup><small>2</small></sup></li>
+<li><a href="/wiki/South_Forty-Foot_Drain" title="South Forty-Foot Drain">South Forty-Foot Drain</a></li>
+<li><a href="/wiki/Staffordshire_and_Worcestershire_Canal" title="Staffordshire and Worcestershire Canal">Staffordshire and Worcestershire</a></li>
+<li><a href="/wiki/Stort_Navigation" title="Stort Navigation">Stort</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Stourbridge_Canal" title="Stourbridge Canal">Stourbridge</a></li>
+<li><a href="/wiki/Stratford-upon-Avon_Canal" title="Stratford-upon-Avon Canal">Stratford-upon-Avon</a></li>
+<li><a href="/wiki/Stroudwater_Navigation" title="Stroudwater Navigation">Stroudwater</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Thames_and_Medway_Canal" title="Thames and Medway Canal">Thames and Medway</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Thames_and_Severn_Canal" title="Thames and Severn Canal">Thames and Severn</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Trent_and_Mersey_Canal" title="Trent and Mersey Canal">Trent and Mersey</a><sup><small>3</small></sup></li>
+<li><a href="/wiki/River_Weaver" title="River Weaver">Weaver</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Wey_and_Arun_Canal" title="Wey and Arun Canal">Wey and Arun</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Wey_and_Godalming_Navigations" title="Wey and Godalming Navigations">Wey and Godalming</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Wilts_%26_Berks_Canal" title="Wilts &amp; Berks Canal">Wilts &amp; Berks</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Witham_Navigable_Drains" title="Witham Navigable Drains">Witham Navigable Drains</a><sup><small>3</small></sup></li>
+<li><a href="/wiki/Worcester_and_Birmingham_Canal" title="Worcester and Birmingham Canal">Worcester and Birmingham</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Northern Ireland</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Broharris_Canal" title="Broharris Canal">Broharris Canal</a></li>
+<li><a href="/wiki/Coalisland_Canal" title="Coalisland Canal">Coalisland Canal</a></li>
+<li><a href="/wiki/Dukart%27s_Canal" title="Dukart&#39;s Canal">Dukart's Canal</a></li>
+<li><a href="/wiki/Lagan_Canal" title="Lagan Canal">Lagan Canal</a></li>
+<li><a href="/wiki/Newry_Canal" title="Newry Canal">Newry Canal</a></li>
+<li><a href="/wiki/Shannon%E2%80%93Erne_Waterway" title="Shannon–Erne Waterway">Shannon–Erne Waterway</a></li>
+<li><a href="/wiki/Strabane_Canal" title="Strabane Canal">Strabane Canal</a></li>
+<li><a href="/wiki/Ulster_Canal" title="Ulster Canal">Ulster Canal</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Scotland</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Caledonian_Canal" title="Caledonian Canal">Caledonian Canal</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Crinan_Canal" title="Crinan Canal">Crinan Canal</a></li>
+<li><a href="/wiki/Forth_and_Clyde_Canal" title="Forth and Clyde Canal">Forth and Clyde</a></li>
+<li><a href="/wiki/Union_Canal_(Scotland)" title="Union Canal (Scotland)">Union Canal</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Wales</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Llangollen_Canal" title="Llangollen Canal">Llangollen Canal</a></li>
+<li><a href="/wiki/Monmouthshire_and_Brecon_Canal" title="Monmouthshire and Brecon Canal">Monmouthshire and Brecon</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Montgomery_Canal" title="Montgomery Canal">Montgomery Canal</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Neath_and_Tennant_Canal" title="Neath and Tennant Canal">Neath and Tennant</a><sup><small>2</small></sup></li>
+<li><a href="/wiki/Swansea_Canal" title="Swansea Canal">Swansea Canal</a><sup><small>2</small></sup></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Features</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_canal_aqueducts_in_the_United_Kingdom" title="List of canal aqueducts in the United Kingdom">Aqueducts (list)</a></li>
+<li><a href="/wiki/Canal_basin" title="Canal basin">Basins</a></li>
+<li><a href="/wiki/Lock_(water_navigation)" title="Lock (water navigation)">Locks</a></li>
+<li><a href="/wiki/Canal_ring" title="Canal ring">Rings</a></li>
+<li><a href="/wiki/List_of_canal_tunnels_in_the_United_Kingdom" title="List of canal tunnels in the United Kingdom">Tunnels (list)</a></li>
+<li><a href="/wiki/Winding_hole" title="Winding hole">Winding holes</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related topics</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/British_Waterways" title="British Waterways">British Waterways</a></li>
+<li><a href="/wiki/Canal_%26_River_Trust" title="Canal &amp; River Trust">Canal &amp; River Trust</a></li>
+<li><a href="/wiki/Scottish_Canals" title="Scottish Canals">Scottish Canals</a></li>
+<li><a href="/wiki/History_of_the_British_canal_system" title="History of the British canal system">History of the British canal system</a></li>
+<li><a href="/wiki/Narrowboat" title="Narrowboat">Narrowboats</a></li>
+<li><a href="/wiki/National_Waterways_Museum" title="National Waterways Museum">National Waterways Museum</a></li>
+<li><a href="/wiki/Navigable_aqueduct" title="Navigable aqueduct">Navigable aqueduct</a></li>
+<li><a href="/wiki/Waterways_Ireland" title="Waterways Ireland">Waterways Ireland</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><b>Notes</b>: <sup><small>1</small></sup> Contains <a href="/wiki/River_engineering" title="River engineering">canalised</a> river. <sup><small>2</small></sup> Partly or mostly navigable, and/or under restoration. <sup><small>3</small></sup> A system of canals. Canals which form part of this system are not listed here individually.</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1329
+Cached time: 20190919014313
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.896 seconds
+Real time usage: 1.132 seconds
+Preprocessor visited node count: 6604/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 184484/2097152 bytes
+Template argument size: 3815/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 81338/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.382/10.000 seconds
+Lua memory usage: 9.14 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  903.799      1 -total
+ 24.83%  224.422      1 Template:Huddersfield_Broad_Canal_map
+ 24.22%  218.872      1 Template:Routemap
+ 17.01%  153.704      1 Template:Reflist
+ 13.91%  125.712      1 Template:Infobox_Canal
+ 13.82%  124.861      7 Template:Cite_book
+ 13.21%  119.387     18 Template:National_Heritage_List_for_England
+ 10.85%   98.102      1 Template:Infobox
+  8.82%   79.702      5 Template:UK_road
+  7.00%   63.250     12 Template:Coord
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:934520-0!canonical and timestamp 20190919014312 and revision id 896467723
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Huddersfield_Broad_Canal&amp;oldid=896467723">https://en.wikipedia.org/w/index.php?title=Huddersfield_Broad_Canal&amp;oldid=896467723</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Canals_in_Huddersfield" title="Category:Canals in Huddersfield">Canals in Huddersfield</a></li><li><a href="/wiki/Category:Canals_in_Kirklees" title="Category:Canals in Kirklees">Canals in Kirklees</a></li><li><a href="/wiki/Category:Canals_opened_in_1776" title="Category:Canals opened in 1776">Canals opened in 1776</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_January_2018" title="Category:Use dmy dates from January 2018">Use dmy dates from January 2018</a></li><li><a href="/wiki/Category:Use_British_English_from_January_2018" title="Category:Use British English from January 2018">Use British English from January 2018</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Lists_of_coordinates" title="Category:Lists of coordinates">Lists of coordinates</a></li><li><a href="/wiki/Category:Geographic_coordinate_lists" title="Category:Geographic coordinate lists">Geographic coordinate lists</a></li><li><a href="/wiki/Category:Articles_with_Geo" title="Category:Articles with Geo">Articles with Geo</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Huddersfield+Broad+Canal" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Huddersfield+Broad+Canal" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Huddersfield_Broad_Canal" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Huddersfield_Broad_Canal" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Huddersfield_Broad_Canal">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Huddersfield_Broad_Canal&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Huddersfield_Broad_Canal&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Huddersfield_Broad_Canal" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Huddersfield_Broad_Canal" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Huddersfield_Broad_Canal&amp;oldid=896467723" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Huddersfield_Broad_Canal&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16247812" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Huddersfield_Broad_Canal&amp;id=896467723" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Huddersfield_Broad_Canal" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Huddersfield+Broad+Canal">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Huddersfield+Broad+Canal&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Huddersfield_Broad_Canal&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16247812#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 10 May 2019, at 17:35<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Huddersfield_Broad_Canal&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.896","walltime":"1.132","ppvisitednodes":{"value":6604,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":184484,"limit":2097152},"templateargumentsize":{"value":3815,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":81338,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  903.799      1 -total"," 24.83%  224.422      1 Template:Huddersfield_Broad_Canal_map"," 24.22%  218.872      1 Template:Routemap"," 17.01%  153.704      1 Template:Reflist"," 13.91%  125.712      1 Template:Infobox_Canal"," 13.82%  124.861      7 Template:Cite_book"," 13.21%  119.387     18 Template:National_Heritage_List_for_England"," 10.85%   98.102      1 Template:Infobox","  8.82%   79.702      5 Template:UK_road","  7.00%   63.250     12 Template:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.382","limit":"10.000"},"limitreport-memusage":{"value":9588472,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20190919014313","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Huddersfield Broad Canal","url":"https:\/\/en.wikipedia.org\/wiki\/Huddersfield_Broad_Canal","sameAs":"http:\/\/www.wikidata.org\/entity\/Q16247812","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q16247812","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-08-27T11:18:09Z","dateModified":"2019-05-10T17:35:17Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f8\/Aspley_Basin_RLH.jpg","headline":"canal in Northern England"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":211,"wgHostname":"mw1274"});});</script>
+</body>
+</html>
+

@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>User (computing) - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"User_(computing)","wgTitle":"User (computing)","wgCurRevisionId":915799266,"wgRevisionId":915799266,"wgArticleId":16301990,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia pages semi-protected against vandalism","Articles needing additional references from November 2010","All articles needing additional references","Computing terminology","Identity management","Consumer"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov"
+,"Dec"],"wgRelevantPageName":"User_(computing)","wgRelevantArticleId":16301990,"wgRequestId":"XZD7SQpAADoAAIHRZ@8AAADA","wgCSPNonce":!1,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["sysop"],"wgRedirectedFrom":"Username","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/User_(computing)","wgWikibaseItemId":"Q278368","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready",
+"noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/1200px-Operating_system_placement.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/User_(computing)"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/User_(computing)"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-User_computing rootpage-User_computing skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected until November 20, 2019 at 15:33 UTC, due to vandalism"><img alt="Page semi-protected" src="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/20px-Semi-protection-shackle.svg.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></div>
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">User (computing)</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Username&amp;redirect=no" class="mw-redirect" title="Username">Username</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable"><div style="display:inline;" class="plainlinks selfreference noprint">Within Wikipedia, "Username" may refer to <a href="/wiki/Wikipedia:Username" class="mw-redirect" title="Wikipedia:Username">Wikipedia:Username</a>. For information on altering your own username, see <a href="/wiki/Wikipedia:Changing_username" title="Wikipedia:Changing username">Wikipedia:Changing username</a>.</div></div>
+<p class="mw-empty-elt">
+</p>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=User_(computing)&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22User%22+computing">"User"&#160;computing</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22User%22+computing+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22User%22+computing+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22User%22+computing+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22User%22+computing">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22User%22+computing&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">November 2010</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Operating_system" title="Operating system">Operating systems</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><div class="center"><div class="floatnone"><div class="noresize" style="height: 244px; width: 165px; "><map name="ImageMap_93fc58660e8f4435"><area href="/wiki/User_(computing)" shape="rect" coords="1,1,165,59" alt="User" title="User" /><area href="/wiki/Application_software" shape="rect" coords="1,60,165,119" alt="Application" title="Application" /><area href="/wiki/Operating_system" shape="rect" coords="1,119,165,178" alt="Operating System" title="Operating System" /><area href="/wiki/Personal_computer_hardware" shape="rect" coords="1,179,165,237" alt="Hardware" title="Hardware" /></map><img alt="Operating system placement.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/165px-Operating_system_placement.svg.png" decoding="async" width="165" height="244" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/248px-Operating_system_placement.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/330px-Operating_system_placement.svg.png 2x" data-file-width="250" data-file-height="370" usemap="#ImageMap_93fc58660e8f4435" /><div style="margin-left: 145px; margin-top: -20px; text-align: left;"><a href="/wiki/File:Operating_system_placement.svg" title="About this image"><img alt="About this image" src="/w/extensions/ImageMap/resources/desc-20.png?15600" style="border: none;" /></a></div></div></div></div></td></tr><tr><th style="padding:0.1em;font-size:110%;">
+Common features</th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Process_management_(computing)" title="Process management (computing)">Process management</a></li>
+<li><a href="/wiki/Interrupt" title="Interrupt">Interrupts</a></li>
+<li><a href="/wiki/Memory_management" title="Memory management">Memory management</a></li>
+<li><a href="/wiki/File_system" title="File system">File system</a></li>
+<li><a href="/wiki/Device_driver" title="Device driver">Device drivers</a></li>
+<li><a href="/wiki/Computer_network" title="Computer network">Networking</a></li>
+<li><a href="/wiki/Computer_security" title="Computer security">Security</a></li>
+<li><a href="/wiki/Input/output" title="Input/output">I/O</a></li></ul></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:OS" title="Template:OS"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:OS" title="Template talk:OS"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:OS&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:User_icon_2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/220px-User_icon_2.svg.png" decoding="async" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/330px-User_icon_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/User_icon_2.svg/440px-User_icon_2.svg.png 2x" data-file-width="48" data-file-height="48" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:User_icon_2.svg" class="internal" title="Enlarge"></a></div>Within a <a href="/wiki/Computer_program" title="Computer program">computer program</a> or <a href="/wiki/Website" title="Website">website</a>, a user is often represented by an abstract <a href="/wiki/Computer_icon" class="mw-redirect" title="Computer icon">icon</a> of a person</div></div></div>
+<p>A <b>user</b> is a person who utilizes a <a href="/wiki/Computer" title="Computer">computer</a> or <a href="/wiki/Computer_network" title="Computer network">network</a> <a href="/wiki/Service_(systems_architecture)" title="Service (systems architecture)">service</a>. Users of computer systems and software products generally lack the technical expertise required to fully understand how they work.<sup id="cite_ref-:0_1-0" class="reference"><a href="#cite_note-:0-1">&#91;1&#93;</a></sup> <a href="/wiki/Power_user" title="Power user">Power users</a> use advanced features of programs, though they are not necessarily capable of <a href="/wiki/Computer_programming" title="Computer programming">computer programming</a> and <a href="/wiki/System_administration" class="mw-redirect" title="System administration">system administration</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>A user often has a <b>user account</b> and is identified to the system by a <b>username</b> (or <b>user name</b>). Other terms for username include <b>login name</b>, <b>screenname</b> (or <b>screen name</b>), <b>account name</b>, <b><a href="/wiki/Nickname#Computing" title="Nickname">nickname</a></b> (or <b>nick</b>) and <b>handle</b>, which is derived from the identical <a href="/wiki/Citizen%27s_Band_radio" class="mw-redirect" title="Citizen&#39;s Band radio">Citizen's Band radio</a> term.
+</p><p>Some software products provide services to other systems and have no direct <a href="/wiki/End_user" title="End user">end users</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#End_user"><span class="tocnumber">1</span> <span class="toctext">End user</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#User_account"><span class="tocnumber">2</span> <span class="toctext">User account</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Username_format"><span class="tocnumber">2.1</span> <span class="toctext">Username format</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Terminology"><span class="tocnumber">3</span> <span class="toctext">Terminology</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="End_user"><span id="END-USER"></span>End user</span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/End_user" title="End user">End user</a></div>
+<p><a href="/wiki/End_user" title="End user">End users</a> are the ultimate human users (also referred to as <a href="/wiki/Operator_(profession)" title="Operator (profession)">operators</a>) of a software product.  The term is used to abstract and distinguish those who only use the software from the developers of the system, who enhance the software for end users.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> In <a href="/wiki/User-centered_design" title="User-centered design">user-centered design</a>, it also distinguishes the software operator from the client who pays for its development and other <a href="/wiki/Stakeholder_(corporate)" title="Stakeholder (corporate)">stakeholders</a> who may not directly use the software, but help establish its <a href="/wiki/Software_requirements" title="Software requirements">requirements</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> This abstraction is primarily useful in designing the <a href="/wiki/User_interface" title="User interface">user interface</a>, and refers to a relevant subset of characteristics that most expected users would have in common.
+</p><p>In user-centered design, <a href="/wiki/Persona_(user-centered_design)" class="mw-redirect" title="Persona (user-centered design)">personas</a> are created to represent the types of users. It is sometimes specified for each persona which types of user interfaces it is comfortable with (due to previous experience or the interface's inherent simplicity), and what technical expertise and degree of knowledge it has in specific fields or <a href="/wiki/Discipline" title="Discipline">disciplines</a>.  When few constraints are imposed on the end-user category, especially when designing programs for use by the general public, it is  common practice to expect minimal technical expertise or previous training in end users.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>The <a href="/wiki/End-user_development" title="End-user development">end-user development</a> discipline blurs the typical distinction between users and developers. It designates activities or techniques in which people who are not professional developers create automated behavior and complex data objects without significant knowledge of a programming language.
+</p><p>Systems whose <a href="/wiki/Actor_(UML)" title="Actor (UML)">actor</a> is another system or a <a href="/wiki/Software_agent" title="Software agent">software agent</a> have no direct end users.
+</p>
+<h2><span class="mw-headline" id="User_account">User account</span></h2>
+<p>A user's account allows a user to <a href="/wiki/Authentication" title="Authentication">authenticate</a> to a system and potentially to receive <a href="/wiki/Authorization_(computer_access_control)" class="mw-redirect" title="Authorization (computer access control)">authorization</a> to <a href="/wiki/Access_control" title="Access control">access</a> resources provided by or connected to that system; however, authentication does not imply authorization. To log into an account, a user is typically required to <a href="/wiki/Authenticate" class="mw-redirect" title="Authenticate">authenticate</a> oneself with a <a href="/wiki/Password" title="Password">password</a> or other <a href="/wiki/Credentials" class="mw-redirect" title="Credentials">credentials</a> for the purposes of <a href="/wiki/Accounting" title="Accounting">accounting</a>, <a href="/wiki/Computer_security" title="Computer security">security</a>, logging, and <a href="/wiki/Resource_management" title="Resource management">resource management</a>.
+</p><p>Once the user has logged on, the operating system will often use an identifier such as an integer to refer to them, rather than their username, through a process known as <a href="/wiki/Identity_correlation" title="Identity correlation">identity correlation</a>. In <a href="/wiki/Unix" title="Unix">Unix</a> systems, the username is correlated with a <a href="/wiki/User_identifier" title="User identifier">user identifier</a> or <i>user id</i>.
+</p><p>Computer systems operate in one of two types based on what kind of users they have:
+</p>
+<ul><li>Single-user systems do not have a concept of several user accounts.</li>
+<li><a href="/wiki/Multi-user" class="mw-redirect" title="Multi-user">Multi-user</a> systems have such a concept, and require users to identify themselves before using the system.</li></ul>
+<p>Each user account on a multi-user system typically has a <a href="/wiki/Home_directory" title="Home directory">home directory</a>, in which to store <a href="/wiki/Computer_file" title="Computer file">files</a> pertaining exclusively to that user's activities, which is protected from access by other users (though a <a href="/wiki/System_administrator" title="System administrator">system administrator</a> may have access). User accounts often contain a public <a href="/wiki/User_profile" title="User profile">user profile</a>, which contains basic information provided by the account's owner. The files stored in the home directory (and all other directories in the system) have file system permissions which are inspected by the <a href="/wiki/Operating_system" title="Operating system">operating system</a> to determine which users are granted access to read or execute a file, or to store a new file in that directory.
+</p><p>While systems expect most user accounts to be used by only a single person, many systems have a special account intended to allow anyone to use the system, such as the username "anonymous" for <a href="/wiki/Anonymous_FTP" class="mw-redirect" title="Anonymous FTP">anonymous FTP</a> and the username "guest" for a guest account.
+</p>
+<h3><span class="mw-headline" id="Username_format">Username format</span></h3>
+<p>Various computer operating-systems and applications expect/enforce different rules for the format.
+</p><p>In <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a> environments, for example, note the potential use of:<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<ul><li>User Principal Name (UPN) format – for example: UserName@Example.com</li>
+<li>Down-Level Logon Name format – for example: DOMAIN\UserName</li></ul>
+<h2><span class="mw-headline" id="Terminology">Terminology</span></h2>
+<p>Some usability professionals have expressed their dislike of the term "user" and have proposed changing it.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> <a href="/wiki/Don_Norman" title="Don Norman">Don Norman</a> stated that "One of the horrible words we use is 'users'. I am on a crusade to get rid of the word 'users'. I would prefer to call them 'people'."<sup id="cite_ref-centre-finesthour_10-0" class="reference"><a href="#cite_note-centre-finesthour-10">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em;">
+<ul><li><a href="/wiki/1%25_rule_(Internet_culture)" title="1% rule (Internet culture)">1% rule (Internet culture)</a></li>
+<li><a href="/wiki/Anonymous_post" title="Anonymous post">Anonymous post</a></li>
+<li><a href="/wiki/Prosumer" title="Prosumer">Prosumer</a></li>
+<li><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonym</a></li>
+<li><a href="/wiki/End-user_computing" title="End-user computing">End-user computing</a>, systems in which non-programmers can create working applications.</li>
+<li><a href="/wiki/Database#End-user_database" title="Database">End-user database</a>, a collection of data developed by individual end-users.</li>
+<li><a href="/wiki/End-user_development" title="End-user development">End-user development</a>, a technique that allows people who are not professional developers to perform programming tasks, i.e. to create or modify software.</li>
+<li><a href="/wiki/End-user_license_agreement" title="End-user license agreement">End-user license agreement</a> (<i>EULA</i>), a contract between a supplier of software and its purchaser, granting the right to use it.</li>
+<li><a href="/wiki/Luser" title="Luser">Luser</a></li>
+<li><a href="/wiki/Registered_user" title="Registered user">Registered user</a></li>
+<li><a href="/wiki/User_error" title="User error">User error</a></li>
+<li><a href="/wiki/User_agent" title="User agent">User agent</a></li>
+<li><a href="/wiki/User_experience" title="User experience">User experience</a></li>
+<li><a href="/wiki/User_space" title="User space">User space</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-:0_1-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Jargon_File" title="Jargon File">Jargon File</a> entry for <cite class="citation web"><a rel="nofollow" class="external text" href="http://catb.org/jargon/html/U/user.html">"User"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 7,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=User&amp;rft_id=http%3A%2F%2Fcatb.org%2Fjargon%2Fhtml%2FU%2Fuser.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+%28computing%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://help.sap.com/saphelp_nw70ehp2/helpdata/en/1e/013f420e09b26be10000000a155106/frameset.htm">"Power Users' Guide"</a>. <i>sap.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-01-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=sap.com&amp;rft.atitle=Power+Users%27+Guide&amp;rft_id=https%3A%2F%2Fhelp.sap.com%2Fsaphelp_nw70ehp2%2Fhelpdata%2Fen%2F1e%2F013f420e09b26be10000000a155106%2Fframeset.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+%28computing%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://technet.microsoft.com/en-us/magazine/hh824683.aspx">"Windows Confidential: Power to the Power User"</a>. <i>microsoft.com</i>. 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-01-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=microsoft.com&amp;rft.atitle=Windows+Confidential%3A+Power+to+the+Power+User&amp;rft.date=2012&amp;rft_id=https%3A%2F%2Ftechnet.microsoft.com%2Fen-us%2Fmagazine%2Fhh824683.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+%28computing%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://web.media.mit.edu/~lieber/Publications/End-User-Software-Engineering.pdf">"The State of the Art in End-User Software Engineering"</a> <span class="cs1-format">(PDF)</span>. <i>media.mit.edu</i>. 2011-10-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-01-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=media.mit.edu&amp;rft.atitle=The+State+of+the+Art+in+End-User+Software+Engineering&amp;rft.date=2011-10-12&amp;rft_id=http%3A%2F%2Fweb.media.mit.edu%2F~lieber%2FPublications%2FEnd-User-Software-Engineering.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+%28computing%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://boxesandarrows.com/understanding-organizational-stakeholders-for-design-success/">"Understanding Organizational Stakeholders for Design Success"</a>. 2004-05-06<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-31</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Understanding+Organizational+Stakeholders+for+Design+Success&amp;rft.date=2004-05-06&amp;rft_id=http%3A%2F%2Fboxesandarrows.com%2Funderstanding-organizational-stakeholders-for-design-success%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+%28computing%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Rigsbee, Sarah, and William B. Fitzpatrick. "<a rel="nofollow" class="external text" href="http://www.jhuapl.edu/techdigest/td/td3101/31_01_Rigsbee.pdf">User-Centered Design: A Case Study on Its Application to the Tactical Tomahawk Weapons Control System.</a>"<i>Johns Hopkins APL Technical Digest</i> 31.1 (2012): 76–82.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.webopedia.com/TERM/E/end_user.html">"What is end user?"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 7,</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+is+end+user%3F&amp;rft_id=http%3A%2F%2Fwww.webopedia.com%2FTERM%2FE%2Fend_user.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+%28computing%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">
+<cite class="citation web"><a rel="nofollow" class="external text" href="https://msdn.microsoft.com/en-us/library/windows/desktop/aa380525%28v=vs.85%29.aspx">"User Name Formats"</a>. <i>MSDN</i>. Developer technologies. Microsoft<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-11</span></span>. <q>The down-level logon name format is used to specify a <a href="/wiki/Windows_domain" title="Windows domain">domain</a> and a user account in that domain [...].</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=MSDN&amp;rft.atitle=User+Name+Formats&amp;rft_id=https%3A%2F%2Fmsdn.microsoft.com%2Fen-us%2Flibrary%2Fwindows%2Fdesktop%2Faa380525%2528v%3Dvs.85%2529.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+%28computing%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Don Norman. <a rel="nofollow" class="external text" href="https://jnd.org/words_matter_talk_about_people_not_customers_not_consumers_not_users/">"Words Matter. Talk About People: Not Customers, Not Consumers, Not Users"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Words+Matter.+Talk+About+People%3A+Not+Customers%2C+Not+Consumers%2C+Not+Users&amp;rft.au=Don+Norman&amp;rft_id=https%3A%2F%2Fjnd.org%2Fwords_matter_talk_about_people_not_customers_not_consumers_not_users%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+%28computing%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-centre-finesthour-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-centre-finesthour_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=WgJcUHC3qJ8">"Don Norman at UX Week 2008 © Adaptive Path"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Don+Norman+at+UX+Week+2008+%C2%A9+Adaptive+Path&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWgJcUHC3qJ8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUser+%28computing%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<p><span class="citation foldoc"><small>This article is based on material taken from  the <i><a href="/wiki/Free_On-line_Dictionary_of_Computing" title="Free On-line Dictionary of Computing">Free On-line Dictionary of Computing</a></i> &#32;prior to 1 November 2008 and incorporated under the "relicensing" terms of the <a href="/wiki/GNU_Free_Documentation_License" title="GNU Free Documentation License">GFDL</a>, version 1.3 or later.</small></span>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1287
+Cached time: 20190915111451
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.244 seconds
+Real time usage: 0.334 seconds
+Preprocessor visited node count: 701/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 29208/2097152 bytes
+Template argument size: 3119/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 27490/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.138/10.000 seconds
+Lua memory usage: 4.78 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  296.561      1 -total
+ 37.19%  110.296      1 Template:Reflist
+ 32.15%   95.345      9 Template:Cite_web
+ 21.54%   63.871      1 Template:More_citations_needed
+ 19.44%   57.639      1 Template:Ambox
+ 15.04%   44.594      1 Template:Pp-vandalism
+  9.39%   27.854      1 Template:Find_sources_mainspace
+  7.70%   22.826      1 Template:Selfref
+  6.76%   20.059      1 Template:Hatnote
+  5.72%   16.950      1 Template:Columns-list
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:16301990-0!canonical and timestamp 20190915111505 and revision id 915799266
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=User_(computing)&amp;oldid=915799266">https://en.wikipedia.org/w/index.php?title=User_(computing)&amp;oldid=915799266</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Computing_terminology" title="Category:Computing terminology">Computing terminology</a></li><li><a href="/wiki/Category:Identity_management" title="Category:Identity management">Identity management</a></li><li><a href="/wiki/Category:Consumer" title="Category:Consumer">Consumer</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_pages_semi-protected_against_vandalism" title="Category:Wikipedia pages semi-protected against vandalism">Wikipedia pages semi-protected against vandalism</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_November_2010" title="Category:Articles needing additional references from November 2010">Articles needing additional references from November 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=User+%28computing%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=User+%28computing%29" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/User_(computing)" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:User_(computing)" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/User_(computing)">Read</a></span></li><li id="ca-viewsource" class="collapsible"><span><a href="/w/index.php?title=User_(computing)&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=User_(computing)&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/User_(computing)" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/User_(computing)" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=User_(computing)&amp;oldid=915799266" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=User_(computing)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q278368" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=User_%28computing%29&amp;id=915799266" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:People_using_computers" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=User+%28computing%29">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=User+%28computing%29&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=User_(computing)&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85_(%D8%AD%D9%88%D8%B3%D8%A8%D8%A9)" title="مستخدم (حوسبة) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/%C4%B0stifad%C9%99%C3%A7i_hesab%C4%B1" title="İstifadəçi hesabı – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A7%80_(%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BF%E0%A6%89%E0%A6%9F%E0%A6%BF%E0%A6%82)" title="ব্যবহারকারী (কম্পিউটিং) – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9F%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D1%82%D0%B5%D0%BB_(%D0%B8%D0%B7%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%BD%D0%B0_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B0)" title="Потребител (изчислителна техника) – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Usuari" title="Usuari – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/U%C5%BEivatel_(informatika)" title="Uživatel (informatika) – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Bruger_(datalogi)" title="Bruger (datalogi) – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Benutzer" title="Benutzer – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Kasutaja" title="Kasutaja – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%AE%CF%83%CF%84%CE%B7%CF%82_(%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%BA%CE%AE)" title="Χρήστης (πληροφορική) – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Usuario_(inform%C3%A1tica)" title="Usuario (informática) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1" title="کاربر – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Utilisateur_(informatique)" title="Utilisateur (informatique) – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-glk"><a href="https://glk.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%DA%AF%D9%8A%D8%B1" title="کارگير – Gilaki" lang="glk" hreflang="glk" class="interlanguage-link-target">گیلکی</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%82%AC%EC%9A%A9%EC%9E%90_(%EC%BB%B4%ED%93%A8%ED%8C%85)" title="사용자 (컴퓨팅) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%95%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BE" title="उपयोगकर्ता – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9_(%D7%9E%D7%97%D7%A9%D7%95%D7%91)" title="משתמש (מחשוב) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B9%D0%B4%D0%B0%D0%BB%D0%B0%D0%BD%D1%83%D1%88%D1%8B" title="Пайдаланушы – Kazakh" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%B4%D0%BE%D0%BD%D1%83%D1%83%D1%87%D1%83" title="Колдонуучу – Kyrgyz" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Felhaszn%C3%A1l%C3%B3" title="Felhasználó – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Pengguna_(pengkomputan)" title="Pengguna (pengkomputan) – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B9%D0%B4%D0%B0%D0%BB%D0%B0%D0%BD%D1%8B%D1%88%D0%B5" title="Пайдаланыше – Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Usu%C3%A1rio_(computa%C3%A7%C3%A3o)" title="Usuário (computação) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B6%BB%E0%B7%92%E0%B7%81%E0%B7%93%E0%B6%BD%E0%B6%9A(%E0%B6%B4%E0%B6%BB%E0%B7%92%E0%B6%9C%E0%B6%B1%E0%B6%9A)" title="පරිශීලක(පරිගනක) – Sinhala" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/User_(computing)" title="User (computing) – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D9%86%D8%A7%D9%88%DB%8C_%D8%A8%DB%95%DA%A9%D8%A7%D8%B1%DA%BE%DB%8E%D9%86%DB%95%D8%B1" title="ناوی بەکارھێنەر – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/K%C3%A4ytt%C3%A4j%C3%A4" title="Käyttäjä – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%AF%E0%AE%A9%E0%AE%B0%E0%AF%8D_(%E0%AE%95%E0%AE%A3%E0%AE%BF%E0%AE%A9%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D)" title="பயனர் (கணினியல்) – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Kullan%C4%B1c%C4%B1" title="Kullanıcı – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87_(%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Користувач (інформатика) – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Ng%C6%B0%E1%BB%9Di_d%C3%B9ng_(%C4%91i%E1%BB%87n_to%C3%A1n)" title="Người dùng (điện toán) – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%94%A8%E6%88%B7" title="用户 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q278368#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 15 September 2019, at 11:15<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=User_(computing)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.334","ppvisitednodes":{"value":701,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":29208,"limit":2097152},"templateargumentsize":{"value":3119,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":27490,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  296.561      1 -total"," 37.19%  110.296      1 Template:Reflist"," 32.15%   95.345      9 Template:Cite_web"," 21.54%   63.871      1 Template:More_citations_needed"," 19.44%   57.639      1 Template:Ambox"," 15.04%   44.594      1 Template:Pp-vandalism","  9.39%   27.854      1 Template:Find_sources_mainspace","  7.70%   22.826      1 Template:Selfref","  6.76%   20.059      1 Template:Hatnote","  5.72%   16.950      1 Template:Columns-list"]},"scribunto":{"limitreport-timeusage":{"value":"0.138","limit":"10.000"},"limitreport-memusage":{"value":5016314,"limit":52428800}},"cachereport":{"origin":"mw1287","timestamp":"20190915111451","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"User (computing)","url":"https:\/\/en.wikipedia.org\/wiki\/User_(computing)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q278368","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q278368","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-06-15T19:35:44Z","dateModified":"2019-09-15T11:15:05Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e1\/Operating_system_placement.svg","headline":"person who uses a computer or network service"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1263"});});</script>
+</body>
+</html>
+

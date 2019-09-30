@@ -1,0 +1,1138 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Logroño - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Logroño","wgTitle":"Logroño","wgCurRevisionId":917132070,"wgRevisionId":917132070,"wgArticleId":300052,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","CS1 Spanish-language sources (es)","CS1 French-language sources (fr)","Articles to be expanded from September 2012","All articles to be expanded","Articles needing translation from Spanish Wikipedia","Articles with short description","Coordinates on Wikidata","Articles with hAudio microformats","Articles containing Spanish-language text","All accuracy disputes","Articles with disputed statements from December 2015","All articles with unsourced statements","Articles with unsourced statements from March 2019","Articles to be expanded from January 2010","Articles using small message boxes",
+"Articles with Spanish-language external links","Municipalities in La Rioja (Spain)","Logroño"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Logroño","wgRelevantArticleId":300052,"wgRequestId":"XYyQqQpAMFYAAFDd3v8AAABO","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},
+"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":42.465,"lon":-2.445555555555556},"wgWikibaseItemId":"Q14325","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready",
+"mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg/1200px-Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Logro%C3%B1o"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Logro%C3%B1o&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Logro%C3%B1o&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Logro%C3%B1o"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Logroño rootpage-Logroño skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Logroño</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the town in Ecuador, see <a href="/wiki/Logro%C3%B1o,_Ecuador" title="Logroño, Ecuador">Logroño, Ecuador</a>.</div><table class="box-Expand_Spanish plainlinks metadata ambox ambox-notice" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/50px-Translation_to_english_arrow.svg.png" decoding="async" width="50" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/75px-Translation_to_english_arrow.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Translation_to_english_arrow.svg/100px-Translation_to_english_arrow.svg.png 2x" data-file-width="60" data-file-height="20" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;"><div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:center;;padding-right: 3em; font-weight: normal; text-align: left">This article <b>may be expanded with text translated from the <a href="https://es.wikipedia.org/wiki/Logro%C3%B1o" class="extiw" title="es:Logroño">corresponding article</a> in Spanish</b>. &#32;<i><small>(September 2012)</small></i> <small>Click [show] for important translation instructions.</small></div><div class="mw-collapsible-content" style="background:transparent;text-align:left;;">
+<ul><li><a rel="nofollow" class="external text" href="https://translate.google.com/translate?&amp;u=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FLogro%C3%B1o&amp;sl=es&amp;tl=en&amp;prev=_t&amp;hl=en">View</a> a machine-translated version of the Spanish article.</li>
+<li>Machine translation like <a rel="nofollow" class="external text" href="https://deepl.com">Deepl</a> or <a rel="nofollow" class="external text" href="https://translate.google.com/">Google Translate</a>  is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia.</li>
+<li>Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.</li>
+<li>You <b>must</b> provide <a href="/wiki/Wikipedia:Copying_within_Wikipedia" title="Wikipedia:Copying within Wikipedia">copyright attribution</a> in the <a href="/wiki/Help:Edit_summary" title="Help:Edit summary">edit summary</a> accompanying your translation by providing an <a href="/wiki/Help:Interlanguage_links" title="Help:Interlanguage links">interlanguage link</a> to the source of your translation. A model attribution edit summary (using German): <code>Content in this edit is translated from the existing German Wikipedia article at [[:de:Exact name of German article]]; see its history for attribution.</code></li>
+<li>You should also add the template <code>{{Translated|es|Logroño}}</code> to the <a href="/wiki/Talk:Logro%C3%B1o" title="Talk:Logroño">talk page</a>.</li>
+<li>For more guidance, see <a href="/wiki/Wikipedia:Translation" title="Wikipedia:Translation">Wikipedia:Translation</a>.</li></ul></div></div></div></td></tr></tbody></table>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Place in La Rioja, Spain</div><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap"><div style="display:inline" class="fn org">Logroño</div></th></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><div style="background-color:black;border-collapse:collapse;border:1px solid black;width:266px;display:table;margin-left: auto; margin-right: auto;"><div style="display:table-row"><div style="display:table-cell;border-top:0;padding:2px 0 0 2px"><div style="display:table;background-color:black;border-collapse:collapse"><div style="display:table-row"><div style="display:table-cell;border-top:0;padding:0 2px 2px 0"><a href="/wiki/File:Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg" class="image" title="Co-Cathedral of Santa María de la Redonda"><img alt="Co-Cathedral of Santa María de la Redonda" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg/132px-Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg" decoding="async" width="132" height="176" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg/198px-Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg/264px-Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg 2x" data-file-width="1600" data-file-height="2134" /></a></div><div style="display:table-cell;border-top:0;padding:0 2px 2px 0"><a href="/wiki/File:Logro%C3%B1o_-_Rotonda_en_el_cruce_de_la_Gran_V%C3%ADa_Juan_Carlos_I_con_la_Calle_General_Vara_de_Rey.jpg" class="image" title="Roundabout in the crossing between Gran Vía Rey Juan Carlos I Avenue, Jorge Vigón Avenue and General Vara de Rey street"><img alt="Roundabout in the crossing between Gran Vía Rey Juan Carlos I Avenue, Jorge Vigón Avenue and General Vara de Rey street" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logro%C3%B1o_-_Rotonda_en_el_cruce_de_la_Gran_V%C3%ADa_Juan_Carlos_I_con_la_Calle_General_Vara_de_Rey.jpg/132px-Logro%C3%B1o_-_Rotonda_en_el_cruce_de_la_Gran_V%C3%ADa_Juan_Carlos_I_con_la_Calle_General_Vara_de_Rey.jpg" decoding="async" width="132" height="180" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logro%C3%B1o_-_Rotonda_en_el_cruce_de_la_Gran_V%C3%ADa_Juan_Carlos_I_con_la_Calle_General_Vara_de_Rey.jpg/198px-Logro%C3%B1o_-_Rotonda_en_el_cruce_de_la_Gran_V%C3%ADa_Juan_Carlos_I_con_la_Calle_General_Vara_de_Rey.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logro%C3%B1o_-_Rotonda_en_el_cruce_de_la_Gran_V%C3%ADa_Juan_Carlos_I_con_la_Calle_General_Vara_de_Rey.jpg/264px-Logro%C3%B1o_-_Rotonda_en_el_cruce_de_la_Gran_V%C3%ADa_Juan_Carlos_I_con_la_Calle_General_Vara_de_Rey.jpg 2x" data-file-width="1376" data-file-height="1880" /></a></div></div></div><div style="display:table;background-color:black;border-collapse:collapse"><div style="display:table-row"><div style="display:table-cell;border-top:0;padding:0 2px 2px 0"><a href="/wiki/File:Logro%C3%B1o_-_Monumento_a_Espartero1.JPG" class="image" title="Espolón park and monument to Baldomero Espartero"><img alt="Espolón park and monument to Baldomero Espartero" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Logro%C3%B1o_-_Monumento_a_Espartero1.JPG/132px-Logro%C3%B1o_-_Monumento_a_Espartero1.JPG" decoding="async" width="132" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Logro%C3%B1o_-_Monumento_a_Espartero1.JPG/198px-Logro%C3%B1o_-_Monumento_a_Espartero1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Logro%C3%B1o_-_Monumento_a_Espartero1.JPG/264px-Logro%C3%B1o_-_Monumento_a_Espartero1.JPG 2x" data-file-width="2304" data-file-height="1728" /></a></div><div style="display:table-cell;border-top:0;padding:0 2px 2px 0"><a href="/wiki/File:Logro%C3%B1o_-_Iglesia_de_San_Bartolome_01.jpg" class="image" title="Church of San Bartolomé"><img alt="Church of San Bartolomé" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Logro%C3%B1o_-_Iglesia_de_San_Bartolome_01.jpg/132px-Logro%C3%B1o_-_Iglesia_de_San_Bartolome_01.jpg" decoding="async" width="132" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Logro%C3%B1o_-_Iglesia_de_San_Bartolome_01.jpg/198px-Logro%C3%B1o_-_Iglesia_de_San_Bartolome_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Logro%C3%B1o_-_Iglesia_de_San_Bartolome_01.jpg/264px-Logro%C3%B1o_-_Iglesia_de_San_Bartolome_01.jpg 2x" data-file-width="2304" data-file-height="1728" /></a></div></div></div><div style="display:table;background-color:black;border-collapse:collapse"><div style="display:table-row"><div style="display:table-cell;border-top:0;padding:0 2px 2px 0"><a href="/wiki/File:Rioja_Forum.jpg" class="image" title="Riojaforum, La Rioja Congress center"><img alt="Riojaforum, La Rioja Congress center" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rioja_Forum.jpg/132px-Rioja_Forum.jpg" decoding="async" width="132" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rioja_Forum.jpg/198px-Rioja_Forum.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rioja_Forum.jpg/264px-Rioja_Forum.jpg 2x" data-file-width="1280" data-file-height="960" /></a></div><div style="display:table-cell;border-top:0;padding:0 2px 2px 0"><a href="/wiki/File:Logro%C3%B1o_-_Nueva_Estacion_de_Adif_39.jpg" class="image" title="Train station"><img alt="Train station" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logro%C3%B1o_-_Nueva_Estacion_de_Adif_39.jpg/132px-Logro%C3%B1o_-_Nueva_Estacion_de_Adif_39.jpg" decoding="async" width="132" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logro%C3%B1o_-_Nueva_Estacion_de_Adif_39.jpg/198px-Logro%C3%B1o_-_Nueva_Estacion_de_Adif_39.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logro%C3%B1o_-_Nueva_Estacion_de_Adif_39.jpg/264px-Logro%C3%B1o_-_Nueva_Estacion_de_Adif_39.jpg 2x" data-file-width="2048" data-file-height="1536" /></a></div></div></div><div style="display:table;background-color:black;border-collapse:collapse"><div style="display:table-row"><div style="display:table-cell;border-top:0;padding:0 2px 2px 0"><a href="/wiki/File:Logro%C3%B1o_-_Casa_de_las_Ciencias_01.JPG" class="image" title="Casa de las Ciencias and Ebro river"><img alt="Casa de las Ciencias and Ebro river" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logro%C3%B1o_-_Casa_de_las_Ciencias_01.JPG/266px-Logro%C3%B1o_-_Casa_de_las_Ciencias_01.JPG" decoding="async" width="266" height="187" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logro%C3%B1o_-_Casa_de_las_Ciencias_01.JPG/399px-Logro%C3%B1o_-_Casa_de_las_Ciencias_01.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logro%C3%B1o_-_Casa_de_las_Ciencias_01.JPG/532px-Logro%C3%B1o_-_Casa_de_las_Ciencias_01.JPG 2x" data-file-width="2045" data-file-height="1434" /></a></div></div></div></div></div></div></td></tr><tr class="mergedtoprow"><td colspan="2" class="maptable" style="text-align:center"><div style="display:table; width:100%; background:none;">
+<div style="display:table-row"><div style="display:table-cell;vertical-align:middle; text-align:center;"><a href="/wiki/File:Bandera_de_Logro%C3%B1o.svg" class="image" title="Flag of Logroño"><img alt="Flag of Logroño" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandera_de_Logro%C3%B1o.svg/150px-Bandera_de_Logro%C3%B1o.svg.png" decoding="async" width="150" height="100" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandera_de_Logro%C3%B1o.svg/225px-Bandera_de_Logro%C3%B1o.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandera_de_Logro%C3%B1o.svg/300px-Bandera_de_Logro%C3%B1o.svg.png 2x" data-file-width="750" data-file-height="500" /></a><br />Flag</div><div style="display:table-cell;vertical-align:middle; text-align:center;"><a href="/wiki/File:Escudo_de_Logro%C3%B1o.svg" class="image" title="Coat of arms of Logroño"><img alt="Coat of arms of Logroño" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo_de_Logro%C3%B1o.svg/80px-Escudo_de_Logro%C3%B1o.svg.png" decoding="async" width="80" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo_de_Logro%C3%B1o.svg/120px-Escudo_de_Logro%C3%B1o.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo_de_Logro%C3%B1o.svg/160px-Escudo_de_Logro%C3%B1o.svg.png 2x" data-file-width="710" data-file-height="900" /></a><br />Coat of arms</div></div></div></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><div class="switcher-container"><div class="center"><div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:250px;padding:0"><div style="position:relative;width:250px"><a href="/wiki/File:Spain_La_Rioja_location_map.svg" class="image" title="Logroño is located in La Rioja, Spain"><img alt="Logroño is located in La Rioja, Spain" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Spain_La_Rioja_location_map.svg/250px-Spain_La_Rioja_location_map.svg.png" decoding="async" width="250" height="172" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Spain_La_Rioja_location_map.svg/375px-Spain_La_Rioja_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Spain_La_Rioja_location_map.svg/500px-Spain_La_Rioja_location_map.svg.png 2x" data-file-width="512" data-file-height="352" /></a><div style="position:absolute;top:28.583%;left:48.426%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Logroño" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Logroño" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Logroño</div></div></div></div><div>Location of Logroño within La Rioja</div><span class="switcher-label" style="display:none">Show map of La Rioja, Spain</span></div></div></div><div class="center"><div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:250px;padding:0"><div style="position:relative;width:250px"><a href="/wiki/File:Spain_location_map.svg" class="image" title="Logroño is located in Spain"><img alt="Logroño is located in Spain" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Spain_location_map.svg/250px-Spain_location_map.svg.png" decoding="async" width="250" height="215" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Spain_location_map.svg/375px-Spain_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Spain_location_map.svg/500px-Spain_location_map.svg.png 2x" data-file-width="1184" data-file-height="1016" /></a><div style="position:absolute;top:19.948%;left:50.71%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Logroño" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Logroño" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Logroño</div></div></div></div><div>Logroño (Spain)</div><span class="switcher-label" style="display:none">Show map of Spain</span></div></div></div></div></td></tr><tr class="mergedbottomrow"><td colspan="2" style="text-align:center">Coordinates: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Logro%C3%B1o&amp;params=42_27_54_N_2_26_44_W_region:ES_type:city(151113)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°27′54″N</span> <span class="longitude">2°26′44″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.46500°N 2.44556°W</span><span style="display:none">&#xfeff; / <span class="geo">42.46500; -2.44556</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Logro%C3%B1o&amp;params=42_27_54_N_2_26_44_W_region:ES_type:city(151113)"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">42°27′54″N</span> <span class="longitude">2°26′44″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">42.46500°N 2.44556°W</span><span style="display:none">&#xfeff; / <span class="geo">42.46500; -2.44556</span></span></span></a></span></span></span></td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Country</a></th><td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Spain" title="Spain">Spain</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Autonomous_communities_of_Spain" title="Autonomous communities of Spain">Autonomous community</a></th><td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_La_Rioja_%28with_coat_of_arms%29.svg/23px-Flag_of_La_Rioja_%28with_coat_of_arms%29.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_La_Rioja_%28with_coat_of_arms%29.svg/35px-Flag_of_La_Rioja_%28with_coat_of_arms%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_La_Rioja_%28with_coat_of_arms%29.svg/45px-Flag_of_La_Rioja_%28with_coat_of_arms%29.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/La_Rioja_(Spain)" title="La Rioja (Spain)">La Rioja</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Comarca" title="Comarca">Comarca</a></th><td>Rioja Media</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Government<div style="font-weight:normal;display:inline;"></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;<a href="/wiki/Mayor" title="Mayor">Mayor</a></th><td>Pablo Hermoso de Mendoza (<a href="/wiki/Spanish_Socialist_Workers%27_Party" title="Spanish Socialist Workers&#39; Party">PSOE</a>)</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Area<div style="font-weight:normal;display:inline;"></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;City</th><td><a href="/wiki/1_E%2B7_m%C2%B2" class="mw-redirect" title="1 E+7 m²">79.57&#160;km<sup>2</sup></a> (30.72&#160;sq&#160;mi)</td></tr><tr class="mergedtoprow"><th scope="row">Elevation<div style="font-weight:normal;display:inline;"></div></th><td>384&#160;m (1,260&#160;ft)</td></tr><tr class="mergedtoprow"><th colspan="2" style="text-align:center;text-align:left">Population<div style="font-weight:normal;display:inline;"><span class="nowrap">&#160;</span>(2018)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div></th></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;City</th><td>151,113</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;Density</th><td>1,900/km<sup>2</sup> (4,900/sq&#160;mi)</td></tr><tr class="mergedrow"><th scope="row">&#160;•&#160;<a href="/wiki/Metropolitan_area" title="Metropolitan area">Metro</a><div style="font-weight:normal;display:inline;"></div></th><td>197,000</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Time_zone" title="Time zone">Time zone</a></th><td><a href="/wiki/UTC%2B1" class="mw-redirect" title="UTC+1">UTC+1</a> (CET)</td></tr><tr class="mergedrow"><th scope="row"><span style="white-space:nowrap">&#160;•&#160;Summer (<a href="/wiki/Daylight_saving_time" title="Daylight saving time">DST</a>)</span></th><td><a href="/wiki/UTC%2B2" class="mw-redirect" title="UTC+2">UTC+2</a> (CEST)</td></tr><tr class="mergedtoprow"><th scope="row">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="http://www.logro-o.org">www<wbr />.logro-o<wbr />.org</a></span></td></tr><tr><td colspan="2" style="text-align:center;text-align:left;">336&#160;km (209&#160;mi) to Madrid; <a href="/wiki/Fuero" title="Fuero">Fuero</a> given in 1095</td></tr></tbody></table>
+<p><b>Logroño</b> (<span class="nowrap"><small><a href="/wiki/British_English" title="British English">UK</a>: </small><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="&#39;l&#39; in &#39;lie&#39;">l</span><span title="/ɒ/: &#39;o&#39; in &#39;body&#39;">ɒ</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="/ɡ/: &#39;g&#39; in &#39;guy&#39;">ɡ</span><span title="&#39;r&#39; in &#39;rye&#39;">r</span><span title="/ɒ/: &#39;o&#39; in &#39;body&#39;">ɒ</span><span title="&#39;n&#39; in &#39;nigh&#39;">n</span><span title="/j/: &#39;y&#39; in &#39;yes&#39;">j</span><span title="/oʊ/: &#39;o&#39; in &#39;code&#39;">oʊ</span></span>/</a></span></span>, <span class="nowrap"><small><a href="/wiki/American_English" title="American English">US</a>: </small><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="&#39;l&#39; in &#39;lie&#39;">l</span><span title="/ə/: &#39;a&#39; in &#39;about&#39;">ə</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="/ɡ/: &#39;g&#39; in &#39;guy&#39;">ɡ</span><span title="&#39;r&#39; in &#39;rye&#39;">r</span><span title="/oʊ/: &#39;o&#39; in &#39;code&#39;">oʊ</span><span title="&#39;n&#39; in &#39;nigh&#39;">n</span><span title="/j/: &#39;y&#39; in &#39;yes&#39;">j</span><span title="/oʊ/: &#39;o&#39; in &#39;code&#39;">oʊ</span></span>, <wbr /><span style="border-bottom:1px dotted"><span title="&#39;l&#39; in &#39;lie&#39;">l</span><span title="/oʊ/: &#39;o&#39; in &#39;code&#39;">oʊ</span><span title="/ˈ/: primary stress follows">ˈ</span></span>-/</a></span></span>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> <small>Spanish:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Spanish" title="Help:IPA/Spanish">[loˈɣɾoɲo]</a></span>&#32;<span class="nowrap" style="font-size:85%">(<span class="unicode haudio"><span class="fn"><span style="white-space:nowrap;margin-right:.25em;"><a href="/wiki/File:Logro%C3%B1o.ogg" title="About this sound"><img alt="About this sound" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/11px-Loudspeaker.svg.png" decoding="async" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/22px-Loudspeaker.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span><a href="//upload.wikimedia.org/wikipedia/commons/6/68/Logro%C3%B1o.ogg" class="internal" title="Logroño.ogg">listen</a></span></span>)</span>) is a city in northern <a href="/wiki/Spain" title="Spain">Spain</a>, on the <a href="/wiki/Ebro_River" class="mw-redirect" title="Ebro River">Ebro River</a>. It is the capital of the province of <a href="/wiki/La_Rioja_(Spain)" title="La Rioja (Spain)">La Rioja</a>.
+</p><p>The population of the city in 2008 was 153,736 while the metropolitan area included nearly 197,000 inhabitants. The city is a centre of the trade in <a href="/wiki/Rioja_wine" class="mw-redirect" title="Rioja wine">Rioja wine</a>, for which the area is noted, and produces wood, metal and textile products.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Origin_of_the_name"><span class="tocnumber">1.1</span> <span class="toctext">Origin of the name</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Titles"><span class="tocnumber">1.2</span> <span class="toctext">Titles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Demographics"><span class="tocnumber">4</span> <span class="toctext">Demographics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Population_centres"><span class="tocnumber">4.1</span> <span class="toctext">Population centres</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Politics"><span class="tocnumber">5</span> <span class="toctext">Politics</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Economy"><span class="tocnumber">6</span> <span class="toctext">Economy</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Food"><span class="tocnumber">7</span> <span class="toctext">Food</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Climate"><span class="tocnumber">8</span> <span class="toctext">Climate</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Places_of_interest"><span class="tocnumber">9</span> <span class="toctext">Places of interest</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Recreation_(plazas_and_parks)"><span class="tocnumber">10</span> <span class="toctext">Recreation (plazas and parks)</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Social_life"><span class="tocnumber">11</span> <span class="toctext">Social life</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Broadcasting_stations"><span class="tocnumber">12</span> <span class="toctext">Broadcasting stations</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Sports"><span class="tocnumber">13</span> <span class="toctext">Sports</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Festivals_and_traditions"><span class="tocnumber">14</span> <span class="toctext">Festivals and traditions</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#International_relations"><span class="tocnumber">15</span> <span class="toctext">International relations</span></a>
+<ul>
+<li class="toclevel-2 tocsection-19"><a href="#Twin_towns_and_sister_cities"><span class="tocnumber">15.1</span> <span class="toctext">Twin towns and sister cities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Transport"><span class="tocnumber">16</span> <span class="toctext">Transport</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#In_popular_culture"><span class="tocnumber">17</span> <span class="toctext">In popular culture</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Notable_people"><span class="tocnumber">18</span> <span class="toctext">Notable people</span></a></li>
+<li class="toclevel-1 tocsection-23"><a href="#Gallery"><span class="tocnumber">19</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#References"><span class="tocnumber">20</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#External_links"><span class="tocnumber">21</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Origin_of_the_name">Origin of the name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=2" title="Edit section: Origin of the name">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The origin of this toponym is, as for many other places, unknown. The name <i>Lucronio</i> is first used in a document from 965 where <a href="/wiki/Garc%C3%ADa_S%C3%A1nchez_I_of_Pamplona" title="García Sánchez I of Pamplona">García Sánchez I of Pamplona</a> donates the so-called place to the <a href="/wiki/Monasteries_of_San_Mill%C3%A1n_de_la_Cogolla" title="Monasteries of San Millán de la Cogolla">Monastery of San Millán</a>. In the <a href="/w/index.php?title=Fuero_of_Logro%C3%B1o&amp;action=edit&amp;redlink=1" class="new" title="Fuero of Logroño (page does not exist)">fuero</a> from 1095 it appears under the name <i>Logronio</i>, except once when it is called <i>illo Gronio</i>. The most broadly accepted theses seem those which indicate it is a late latinización by prefixing of the article "<i>lo/illo</i>" of the old toponym <i>Gronio</i>/<i>Gronno</i>,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> word of Celtic origin which means <i>the ford</i> or <i>the pass</i>. It is believed that this name was due to the frequent use of this place to cross the Ebro river.
+</p><p>Other historians have proposed alternative theories, like a possible derivation of <i>Lucus Brun</i>/<i>Lucus Beronius</i> ("Sacred place in the Beronian forest").<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Titles">Titles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=3" title="Edit section: Titles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/John_II_of_Castile" title="John II of Castile">John II of Castile</a> granted it 7 February 1431 in <a href="/wiki/Palencia" title="Palencia">Palencia</a> the title of "City" and ratified it the day 20 of the very same month in <a href="/wiki/Valladolid" title="Valladolid">Valladolid</a>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> thus it stopped being called "Village", despite there is no explicit justification of the reasons for that change. 20 July 1444 the same king adds the titles of "Very noble", <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>: <i lang="es">Muy Noble</i>, and "Very loyal", <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a>: <i lang="es">Muy Leal</i>, which up until today appear in the seal of the city. In this case, the reason was the loyalty of the habitants against the homonymous king <a href="/wiki/John_II_of_Aragon" title="John II of Aragon">John II of Aragon</a>, because despite the <i>«long war, and wounds and deaths, and robberies, and fires, and damages and oppresions»</i>, the city remained loyal to the service of the king of Castile.
+</p><p>5 July 1523, the king <a href="/wiki/Charles_V,_Holy_Roman_Emperor" title="Charles V, Holy Roman Emperor">Charles I</a> granted it the three <a href="/wiki/Fleur-de-lis" title="Fleur-de-lis">fleurs-de-lis</a> for the <a href="/wiki/Escutcheon_(heraldry)" title="Escutcheon (heraldry)">shield</a> of the city for its resistance during the french siege in 1521.
+</p><p>It also received by Royal Decree the title of "Excellence" 6 December 1854 from <a href="/wiki/Isabella_II_of_Spain" title="Isabella II of Spain">Isabella II</a>, as a reward for its behavior during the <a href="/wiki/Cholera" title="Cholera">cholera</a> epidemic which devastated the city.
+</p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=4" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Logroño is located in the northern region of <a href="/wiki/La_Rioja_(autonomous_community)" class="mw-redirect" title="La Rioja (autonomous community)">La Rioja</a>, on the river <a href="/wiki/Ebro" title="Ebro">Ebro</a>, 384 metres (1,260 feet) <a href="/wiki/Above_mean_sea_level" class="mw-redirect" title="Above mean sea level">above sea level</a>. The <a href="/wiki/Way_of_St._James" class="mw-redirect" title="Way of St. James">Camino de Santiago</a> passes through the city. The geographical coordinates of the city are: 42° 27′ N, 2° 29′ W.
+</p><p>The city lies 152&#160;km (94&#160;mi) from <a href="/wiki/Bilbao" title="Bilbao">Bilbao</a>, 172&#160;km (107&#160;mi) from <a href="/wiki/Zaragoza" title="Zaragoza">Zaragoza</a>, 336&#160;km (209&#160;mi) from <a href="/wiki/Madrid" title="Madrid">Madrid</a> and 468&#160;km (291&#160;mi) from <a href="/wiki/Barcelona" title="Barcelona">Barcelona</a>.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=5" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:192px;"><a href="/wiki/File:Puente_de_Piedra_(Stone_Bridge)_in_Logro%C3%B1o.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Puente_de_Piedra_%28Stone_Bridge%29_in_Logro%C3%B1o.jpg/190px-Puente_de_Piedra_%28Stone_Bridge%29_in_Logro%C3%B1o.jpg" decoding="async" width="190" height="143" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Puente_de_Piedra_%28Stone_Bridge%29_in_Logro%C3%B1o.jpg/285px-Puente_de_Piedra_%28Stone_Bridge%29_in_Logro%C3%B1o.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Puente_de_Piedra_%28Stone_Bridge%29_in_Logro%C3%B1o.jpg/380px-Puente_de_Piedra_%28Stone_Bridge%29_in_Logro%C3%B1o.jpg 2x" data-file-width="1024" data-file-height="768" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Puente_de_Piedra_(Stone_Bridge)_in_Logro%C3%B1o.jpg" class="internal" title="Enlarge"></a></div>Puente de Piedra.</div></div></div>
+<p>Logroño was an old settlement, first of the Romans, under the name of Vareia,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> a commercial port, and then of the Celts<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Accuracy_dispute#Disputed_statement" title="Wikipedia:Accuracy dispute"><span title="The material near this tag is possibly inaccurate or nonfactual. (December 2015)">dubious</span></a>&#32;<span class="metadata"> &#8211; <a href="/wiki/Talk:Logro%C3%B1o#Dubious" title="Talk:Logroño">discuss</a></span></i>&#93;</sup>.
+From the 10th century, possession of Logroño was disputed between the kings of <a href="/wiki/Kingdom_of_Navarre" title="Kingdom of Navarre">Navarre</a> and those of <a href="/wiki/Kingdom_of_Castile" title="Kingdom of Castile">Castile</a>; the region was finally annexed to <a href="/wiki/Kingdom_of_Castile" title="Kingdom of Castile">Castile</a>. The name is a combination of le and Groin, mashed together as Logroño over time.  <a href="/wiki/Alfonso_VI_of_Castile" class="mw-redirect" title="Alfonso VI of Castile">Alfonso VI of Castile</a> granted Logroño in 1095 a charter of rights that served as a model for other Spanish cities. In 1609 and 1610 Logroño was the main seat of the <a href="/wiki/Basque_witch_trials" title="Basque witch trials">Basque witch trials</a>, part of the <a href="/wiki/Spanish_Inquisition" title="Spanish Inquisition">Spanish Inquisition</a>.
+</p><p>Famous people from Logroño include <a href="/wiki/Manuel_Bret%C3%B3n_de_los_Herreros" title="Manuel Bretón de los Herreros">Manuel Bretón de los Herreros</a>, <a href="/wiki/Fausto_Elh%C3%BAyar" class="mw-redirect" title="Fausto Elhúyar">Fausto Elhúyar</a>, <a href="/wiki/Pr%C3%A1xedes_Mateo_Sagasta" title="Práxedes Mateo Sagasta">Práxedes Mateo Sagasta</a>, <a href="/wiki/Rafael_Azcona" title="Rafael Azcona">Rafael Azcona</a>, <a href="/wiki/Ram%C3%B3n_Castroviejo" class="mw-redirect" title="Ramón Castroviejo">Ramón Castroviejo</a>, <a href="/wiki/Pedro_J._Ram%C3%ADrez" title="Pedro J. Ramírez">Pedro J. Ramírez</a>, <a href="/wiki/Juan_Fern%C3%A1ndez_Navarrete" title="Juan Fernández Navarrete">Navarrete "El Mudo"</a>.
+</p>
+<h2><span class="mw-headline" id="Demographics">Demographics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=6" title="Edit section: Demographics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Population_centres">Population centres</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=7" title="Edit section: Population centres">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a class="mw-selflink selflink">Logroño</a></li>
+<li><a href="/wiki/El_Cortijo" title="El Cortijo">El Cortijo</a></li>
+<li><a href="/wiki/Varea,_La_Rioja" title="Varea, La Rioja">Varea</a></li></ul>
+<h2><span class="mw-headline" id="Politics">Politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=8" title="Edit section: Politics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table align="center" rules="all" cellspacing="0" cellpadding="3" style="border: 1px solid #999; border-right: 2px solid #999; border-bottom:2px solid #999">
+<caption style="font-weight: bold; font-size: 1.1em; margin-bottom: 0.5em;">List of mayors since the democratic elections of 1979
+</caption>
+<tbody><tr>
+<th style="background:#efefef;">Term
+</th>
+<th style="background:#efefef;">Name of Mayor
+</th>
+<th style="background:#efefef;">Political Party
+</th></tr>
+<tr>
+<td style="text-align:center;">1979–1983
+</td>
+<td>Miguel Ángel Marín
+</td>
+<td><a href="/wiki/Union_of_the_Democratic_Centre_(Spain)" title="Union of the Democratic Centre (Spain)">UCD</a>
+</td></tr>
+<tr>
+<td style="text-align:center;">1983–1987
+</td>
+<td>Manuel Sainz Ochoa
+</td>
+<td><a href="/wiki/Spanish_Socialist_Workers%27_Party" title="Spanish Socialist Workers&#39; Party">PSOE</a>
+</td></tr>
+<tr>
+<td style="text-align:center;">1987–1991
+</td>
+<td>Manuel Sainz Ochoa
+</td>
+<td><a href="/wiki/Spanish_Socialist_Workers%27_Party" title="Spanish Socialist Workers&#39; Party">PSOE</a>
+</td></tr>
+<tr>
+<td style="text-align:center;">1991–1995
+</td>
+<td>Manuel Sainz Ochoa
+</td>
+<td><a href="/wiki/Spanish_Socialist_Workers%27_Party" title="Spanish Socialist Workers&#39; Party">PSOE</a>
+</td></tr>
+<tr>
+<td style="text-align:center;">1995–1999
+</td>
+<td>José Luis Bermejo
+</td>
+<td><a href="/wiki/People%27s_Party_(Spain)" title="People&#39;s Party (Spain)">PP</a>
+</td></tr>
+<tr>
+<td style="text-align:center;">1999–2003
+</td>
+<td>Julio Revuelta
+</td>
+<td><a href="/wiki/People%27s_Party_(Spain)" title="People&#39;s Party (Spain)">PP</a>
+</td></tr>
+<tr>
+<td style="text-align:center;">2003–2007
+</td>
+<td>Julio Revuelta
+</td>
+<td><a href="/wiki/People%27s_Party_(Spain)" title="People&#39;s Party (Spain)">PP</a>
+</td></tr>
+<tr>
+<td style="text-align:center;">2007–2011
+</td>
+<td>Tomás Santos
+</td>
+<td><a href="/wiki/Spanish_Socialist_Workers%27_Party" title="Spanish Socialist Workers&#39; Party">PSOE</a>
+</td></tr>
+<tr>
+<td style="text-align:center;">2011–2015
+</td>
+<td>Cuca Gamarra
+</td>
+<td><a href="/wiki/People%27s_Party_(Spain)" title="People&#39;s Party (Spain)">PP</a>
+</td></tr>
+<tr>
+<td style="text-align:center;">2015–2019
+</td>
+<td>Cuca Gamarra
+</td>
+<td><a href="/wiki/People%27s_Party_(Spain)" title="People&#39;s Party (Spain)">PP</a>
+</td></tr>
+<tr>
+<td style="text-align:center;">2019–
+</td>
+<td>Pablo Hermoso de Mendoza
+</td>
+<td><a href="/wiki/Spanish_Socialist_Workers%27_Party" title="Spanish Socialist Workers&#39; Party">PSOE</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Economy">Economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=9" title="Edit section: Economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg/170px-Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg" decoding="async" width="170" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg/255px-Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg/340px-Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg 2x" data-file-width="1600" data-file-height="2134" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Co-Cathedral_of_Logro%C3%B1o" title="Co-Cathedral of Logroño">Con-catedral de Santa María de la Redonda</a>.</div></div></div>
+<p>Logroño is the shopping and financial capital of <a href="/wiki/La_Rioja_(autonomous_community)" class="mw-redirect" title="La Rioja (autonomous community)">La Rioja</a>. Its economy is heavily reliant on <a href="/wiki/Wine" title="Wine">wine</a>. It is twinned with <a href="/wiki/Dunfermline" title="Dunfermline">Dunfermline</a>, <a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a>, <a href="/wiki/Libourne" title="Libourne">Libourne</a>, <a href="/wiki/Dax,_Landes" title="Dax, Landes">Dax</a>, <a href="/wiki/Rancagua" title="Rancagua">Rancagua</a>, <a href="/wiki/Ciudad_de_La_Rioja" class="mw-redirect" title="Ciudad de La Rioja">Ciudad de La Rioja</a>, <a href="/wiki/Brescia" title="Brescia">Brescia</a>, <a href="/wiki/El_Hagounia" title="El Hagounia">El Hagounia</a>. The new airport <a href="/wiki/Logro%C3%B1o-Agoncillo_Airport" class="mw-redirect" title="Logroño-Agoncillo Airport">Logroño-Agoncillo</a> connects the city with Madrid.
+</p>
+<h2><span class="mw-headline" id="Food">Food</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=10" title="Edit section: Food">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are over 50 <i>taperías</i> (tapas restaurants) located within a four-block area near the town center. The traditional tapas restaurants often serve only one tapa [such as <i>seta</i> (mushroom), served as <i>pincho</i> – <i>pintxo</i> in <a href="/wiki/Basque_language" title="Basque language">Basque</a> – meaning one serving, or <i>media ración</i> ("half portion"), a small plate of tapas, but offer the <a href="/wiki/Rioja_(wine)" title="Rioja (wine)">Rioja D.O.</a>.
+</p>
+<h2><span class="mw-headline" id="Climate">Climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=11" title="Edit section: Climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The weather in Logroño – mostly due to its peculiar location, both in terms of distance to the <a href="/wiki/Atlantic" class="mw-redirect" title="Atlantic">Atlantic</a> coast and in the situation along the course of the <a href="/wiki/Ebro_river" class="mw-redirect" title="Ebro river">Ebro river</a>, is characterized by values ranging from those typically found in temperate <a href="/wiki/Oceanic_climate" title="Oceanic climate">oceanic</a> climates to the warmer and drier ones observed in southeastern <a href="/wiki/Mediterranean_climate" title="Mediterranean climate">mediterranean</a> regions of the river's valley. The average annual temperature is 13.9&#160;°C (57&#160;°F).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-AEMET.es:_‘Standard_Climate_Values_for_Logroño,_ES’_10-0" class="reference"><a href="#cite_note-AEMET.es:_‘Standard_Climate_Values_for_Logroño,_ES’-10">&#91;10&#93;</a></sup> Although much infrequent, unusually low temperatures during the winter can drop to −5&#160;°C (23&#160;°F), and as low as −10&#160;°C (14&#160;°F); while daily high averages may exceptionally exceed the mark of 35&#160;°C (95&#160;°F) in a particularly hot summer. The average annual precipitation is about 400&#160;mm (15.75&#160;in), regularly spread over the whole year: from 20&#160;mm (0.79&#160;in)–25&#160;mm (0.98&#160;in) in drier periods to the 45&#160;mm (1.77&#160;in)-50&#160;mm (1.97&#160;in) range in the rainiest.<sup id="cite_ref-AEMET.es:_‘Standard_Climate_Values_for_Logroño,_ES’_10-1" class="reference"><a href="#cite_note-AEMET.es:_‘Standard_Climate_Values_for_Logroño,_ES’-10">&#91;10&#93;</a></sup> 
+</p>
+<div>
+<table class="wikitable collapsible" style="width:100%; text-align:center; line-height: 1.2em; margin:auto;">
+
+<tbody><tr>
+<th colspan="14">Climate data for Logroño
+</th></tr>
+<tr>
+<th scope="row">Month
+</th>
+<th scope="col">Jan
+</th>
+<th scope="col">Feb
+</th>
+<th scope="col">Mar
+</th>
+<th scope="col">Apr
+</th>
+<th scope="col">May
+</th>
+<th scope="col">Jun
+</th>
+<th scope="col">Jul
+</th>
+<th scope="col">Aug
+</th>
+<th scope="col">Sep
+</th>
+<th scope="col">Oct
+</th>
+<th scope="col">Nov
+</th>
+<th scope="col">Dec
+</th>
+<th scope="col" style="border-left-width:medium">Year
+</th></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Record high °C (°F)
+</th>
+<td style="background: #FF9932; color:#000000;">19.3<br />(66.7)
+</td>
+<td style="background: #FF7F00; color:#000000;">23.0<br />(73.4)
+</td>
+<td style="background: #FF5F00; color:#000000;">27.6<br />(81.7)
+</td>
+<td style="background: #FF4600; color:#000000;">31.2<br />(88.2)
+</td>
+<td style="background: #FF1A00; color:#000000;">37.6<br />(99.7)
+</td>
+<td style="background: #F50000; color:#FFFFFF;">42.2<br />(108.0)
+</td>
+<td style="background: #ED0000; color:#FFFFFF;">42.8<br />(109.0)
+</td>
+<td style="background: #FF0600; color:#FFFFFF;">40.6<br />(105.1)
+</td>
+<td style="background: #FF1100; color:#FFFFFF;">39.0<br />(102.2)
+</td>
+<td style="background: #FF4500; color:#000000;">31.4<br />(88.5)
+</td>
+<td style="background: #FF6100; color:#000000;">27.4<br />(81.3)
+</td>
+<td style="background: #FF8A16; color:#000000;">21.4<br />(70.5)
+</td>
+<td style="background: #ED0000; color:#FFFFFF; border-left-width:medium">42.8<br />(109.0)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average high °C (°F)
+</th>
+<td style="background: #FFD9B4; color:#000000;">9.9<br />(49.8)
+</td>
+<td style="background: #FFCB97; color:#000000;">12.0<br />(53.6)
+</td>
+<td style="background: #FFB061; color:#000000;">15.9<br />(60.6)
+</td>
+<td style="background: #FFA347; color:#000000;">17.8<br />(64.0)
+</td>
+<td style="background: #FF860D; color:#000000;">22.0<br />(71.6)
+</td>
+<td style="background: #FF6400; color:#000000;">26.9<br />(80.4)
+</td>
+<td style="background: #FF4E00; color:#000000;">30.1<br />(86.2)
+</td>
+<td style="background: #FF5000; color:#000000;">29.8<br />(85.6)
+</td>
+<td style="background: #FF6C00; color:#000000;">25.8<br />(78.4)
+</td>
+<td style="background: #FF9327; color:#000000;">20.1<br />(68.2)
+</td>
+<td style="background: #FFBE7E; color:#000000;">13.8<br />(56.8)
+</td>
+<td style="background: #FFD7B0; color:#000000;">10.2<br />(50.4)
+</td>
+<td style="background: #FF9730; color:#000000; border-left-width:medium">19.5<br />(67.1)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Daily mean °C (°F)
+</th>
+<td style="background: #FFF5EB; color:#000000;">5.9<br />(42.6)
+</td>
+<td style="background: #FFECD9; color:#000000;">7.2<br />(45.0)
+</td>
+<td style="background: #FFD7B0; color:#000000;">10.2<br />(50.4)
+</td>
+<td style="background: #FFCB97; color:#000000;">12.0<br />(53.6)
+</td>
+<td style="background: #FFB061; color:#000000;">15.9<br />(60.6)
+</td>
+<td style="background: #FF9327; color:#000000;">20.1<br />(68.2)
+</td>
+<td style="background: #FF8002; color:#000000;">22.8<br />(73.0)
+</td>
+<td style="background: #FF8104; color:#000000;">22.7<br />(72.9)
+</td>
+<td style="background: #FF9932; color:#000000;">19.3<br />(66.7)
+</td>
+<td style="background: #FFB872; color:#000000;">14.7<br />(58.5)
+</td>
+<td style="background: #FFDCBA; color:#000000;">9.5<br />(49.1)
+</td>
+<td style="background: #FFF1E3; color:#000000;">6.5<br />(43.7)
+</td>
+<td style="background: #FFBE7D; color:#000000; border-left-width:medium">13.9<br />(57.0)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average low °C (°F)
+</th>
+<td style="background: #F1F1FF; color:#000000;">2.0<br />(35.6)
+</td>
+<td style="background: #F3F3FF; color:#000000;">2.4<br />(36.3)
+</td>
+<td style="background: #FFFEFD; color:#000000;">4.6<br />(40.3)
+</td>
+<td style="background: #FFF2E6; color:#000000;">6.3<br />(43.3)
+</td>
+<td style="background: #FFDBB7; color:#000000;">9.7<br />(49.5)
+</td>
+<td style="background: #FFC285; color:#000000;">13.3<br />(55.9)
+</td>
+<td style="background: #FFB266; color:#000000;">15.6<br />(60.1)
+</td>
+<td style="background: #FFB266; color:#000000;">15.6<br />(60.1)
+</td>
+<td style="background: #FFC58B; color:#000000;">12.9<br />(55.2)
+</td>
+<td style="background: #FFDEBE; color:#000000;">9.2<br />(48.6)
+</td>
+<td style="background: #FFF9F3; color:#000000;">5.3<br />(41.5)
+</td>
+<td style="background: #F5F5FF; color:#000000;">2.8<br />(37.0)
+</td>
+<td style="background: #FFE4CA; color:#000000; border-left-width:medium">8.3<br />(46.9)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Record low °C (°F)
+</th>
+<td style="background: #A8A8FF; color:#000000;">−11.6<br />(11.1)
+</td>
+<td style="background: #B2B2FF; color:#000000;">−9.6<br />(14.7)
+</td>
+<td style="background: #B7B7FF; color:#000000;">−8.8<br />(16.2)
+</td>
+<td style="background: #D3D3FF; color:#000000;">−3.6<br />(25.5)
+</td>
+<td style="background: #E9E9FF; color:#000000;">0.6<br />(33.1)
+</td>
+<td style="background: #FFFCFA; color:#000000;">4.8<br />(40.6)
+</td>
+<td style="background: #FFECD9; color:#000000;">7.2<br />(45.0)
+</td>
+<td style="background: #FFF3E7; color:#000000;">6.2<br />(43.2)
+</td>
+<td style="background: #F6F6FF; color:#000000;">3.0<br />(37.4)
+</td>
+<td style="background: #E0E0FF; color:#000000;">−1.2<br />(29.8)
+</td>
+<td style="background: #BABAFF; color:#000000;">−8.2<br />(17.2)
+</td>
+<td style="background: #A8A8FF; color:#000000;">−11.6<br />(11.1)
+</td>
+<td style="background: #A8A8FF; color:#000000; border-left-width:medium">−11.6<br />(11.1)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average <a href="/wiki/Precipitation" title="Precipitation">precipitation</a> mm (inches)
+</th>
+<td style="background: #D5D5FF; color:#000000;">28<br />(1.1)
+</td>
+<td style="background: #D9D9FF; color:#000000;">23<br />(0.9)
+</td>
+<td style="background: #D8D8FF; color:#000000;">26<br />(1.0)
+</td>
+<td style="background: #B8B8FF; color:#000000;">46<br />(1.8)
+</td>
+<td style="background: #B8B8FF; color:#000000;">47<br />(1.9)
+</td>
+<td style="background: #BBBBFF; color:#000000;">44<br />(1.7)
+</td>
+<td style="background: #D2D2FF; color:#000000;">30<br />(1.2)
+</td>
+<td style="background: #DFDFFF; color:#000000;">21<br />(0.8)
+</td>
+<td style="background: #D6D6FF; color:#000000;">26<br />(1.0)
+</td>
+<td style="background: #C7C7FF; color:#000000;">37<br />(1.5)
+</td>
+<td style="background: #C1C1FF; color:#000000;">40<br />(1.6)
+</td>
+<td style="background: #C6C6FF; color:#000000;">38<br />(1.5)
+</td>
+<td style="background: #CBCBFF; color:#000000; border-left-width:medium">405<br />(15.9)
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Average <a href="/wiki/Relative_humidity" title="Relative humidity">relative humidity</a> (%)
+</th>
+<td style="background: #0000D3; color:#FFFFFF;">78
+</td>
+<td style="background: #0000EA; color:#FFFFFF;">72
+</td>
+<td style="background: #0606FF; color:#FFFFFF;">65
+</td>
+<td style="background: #0A0AFF; color:#FFFFFF;">64
+</td>
+<td style="background: #1111FF; color:#FFFFFF;">62
+</td>
+<td style="background: #2424FF; color:#FFFFFF;">57
+</td>
+<td style="background: #2C2CFF; color:#FFFFFF;">55
+</td>
+<td style="background: #2121FF; color:#FFFFFF;">58
+</td>
+<td style="background: #0A0AFF; color:#FFFFFF;">64
+</td>
+<td style="background: #0000EA; color:#FFFFFF;">72
+</td>
+<td style="background: #0000D7; color:#FFFFFF;">77
+</td>
+<td style="background: #0000CB; color:#FFFFFF;">80
+</td>
+<td style="background: #0000FD; color:#FFFFFF; border-left-width:medium">67
+</td></tr>
+<tr style="text-align: center;">
+<th scope="row" style="height: 16px;">Mean monthly <a href="/wiki/Sunshine_duration" title="Sunshine duration">sunshine hours</a>
+</th>
+<td style="background: #AFAF89; color:#000000;">105
+</td>
+<td style="background: #C2C218; color:#000000;">133
+</td>
+<td style="background: #D5D500; color:#000000;">189
+</td>
+<td style="background: #D8D800; color:#000000;">198
+</td>
+<td style="background: #DDDD00; color:#000000;">225
+</td>
+<td style="background: #E9E900; color:#000000;">270
+</td>
+<td style="background: #F1F112; color:#000000;">312
+</td>
+<td style="background: #EBEB03; color:#000000;">285
+</td>
+<td style="background: #DDDD00; color:#000000;">220
+</td>
+<td style="background: #CACA00; color:#000000;">164
+</td>
+<td style="background: #B4B468; color:#000000;">113
+</td>
+<td style="background: #A9A9A9; color:#000000;">93
+</td>
+<td style="background: #D6D600; color:#000000; border-left-width:medium">2,305
+</td></tr>
+<tr>
+<td colspan="14" style="text-align:center;font-size:95%;">Source: <a href="/wiki/Agencia_Estatal_de_Meteorolog%C3%ADa" class="mw-redirect" title="Agencia Estatal de Meteorología">AEMET</a><sup id="cite_ref-AEMET.es:_‘Standard_Climate_Values_for_Logroño,_ES’_10-2" class="reference"><a href="#cite_note-AEMET.es:_‘Standard_Climate_Values_for_Logroño,_ES’-10">&#91;10&#93;</a></sup><sup id="cite_ref-AEMET.es:′Extreme_Climate_Values_for_Logroño,_ES&#39;_11-0" class="reference"><a href="#cite_note-AEMET.es:′Extreme_Climate_Values_for_Logroño,_ES&#39;-11">&#91;11&#93;</a></sup>
+</td></tr></tbody></table>
+</div>
+<h2><span class="mw-headline" id="Places_of_interest">Places of interest</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=12" title="Edit section: Places of interest">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:Fa%C3%A7ade_of_Parliament_of_La_Rioja_in_Logro%C3%B1o.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fa%C3%A7ade_of_Parliament_of_La_Rioja_in_Logro%C3%B1o.jpg/130px-Fa%C3%A7ade_of_Parliament_of_La_Rioja_in_Logro%C3%B1o.jpg" decoding="async" width="130" height="173" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fa%C3%A7ade_of_Parliament_of_La_Rioja_in_Logro%C3%B1o.jpg/195px-Fa%C3%A7ade_of_Parliament_of_La_Rioja_in_Logro%C3%B1o.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Fa%C3%A7ade_of_Parliament_of_La_Rioja_in_Logro%C3%B1o.jpg/260px-Fa%C3%A7ade_of_Parliament_of_La_Rioja_in_Logro%C3%B1o.jpg 2x" data-file-width="768" data-file-height="1024" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Fa%C3%A7ade_of_Parliament_of_La_Rioja_in_Logro%C3%B1o.jpg" class="internal" title="Enlarge"></a></div>Façade of Parliament of La Rioja in Logroño.</div></div></div>
+<ul><li>Con-<a href="/wiki/Catedral_de_Santa_Mar%C3%ADa_de_la_Redonda" class="mw-redirect" title="Catedral de Santa María de la Redonda">Catedral de Santa María de la Redonda</a></li>
+<li><a href="/wiki/Church_of_San_Bartolom%C3%A9_(Logro%C3%B1o)" title="Church of San Bartolomé (Logroño)">Iglesia (Church) de San Bartolomé</a></li>
+<li>Iglesia de Santiago</li>
+<li><a href="/wiki/Church_of_Santa_Mar%C3%ADa_de_Palacio_(Logro%C3%B1o)" title="Church of Santa María de Palacio (Logroño)">Iglesia de Palacio</a></li>
+<li>Museo de La Rioja</li>
+<li>Parlamento de La Rioja, an old factory of the <a href="/wiki/Tabacalera" title="Tabacalera">tabacalera</a>, the national tobacco company.</li>
+<li><a href="/wiki/Muralla_del_Revell%C3%ADn" title="Muralla del Revellín">Muralla del Revellín</a></li>
+<li>Fuente (Fountain) de los Riojanos Ilustres, in which royal figures with a connection to either Logroño or La Rioja are represented in <a href="/wiki/Bronze" title="Bronze">bronze</a>. Because the figures are placed looking towards the public and so large torrents of water pour down behind them, the fountain is commonly known as the one with "wet backs".</li></ul>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:Santamariadepalacio.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Santamariadepalacio.jpg/170px-Santamariadepalacio.jpg" decoding="async" width="170" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Santamariadepalacio.jpg/255px-Santamariadepalacio.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Santamariadepalacio.jpg/340px-Santamariadepalacio.jpg 2x" data-file-width="1935" data-file-height="2560" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Santamariadepalacio.jpg" class="internal" title="Enlarge"></a></div>Santa María de Palacio Church.</div></div></div>
+<ul><li><a href="/wiki/Bridge_of_Mantible" title="Bridge of Mantible">Bridge of Mantible</a>, in the El Cortijo district. Constructed during the Roman era and declared <a href="/wiki/Bien_de_Inter%C3%A9s_Cultural" title="Bien de Interés Cultural">Bien de Interés Cultural</a> in the <a href="/wiki/Monument" title="Monument">Monument</a> category on January 25, 1983.</li>
+<li><a href="/wiki/Theatre_of_Bret%C3%B3n_de_los_Herreros" title="Theatre of Bretón de los Herreros">Theatre of Bretón de los Herreros</a></li></ul>
+<h2><span id="Recreation_.28plazas_and_parks.29"></span><span class="mw-headline" id="Recreation_(plazas_and_parks)">Recreation (plazas and parks)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=13" title="Edit section: Recreation (plazas and parks)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Paseo del Príncipe de Vergara (El Espolón): Located in the financial center of the capital and positioned in the center by the statue of General <a href="/wiki/Espartero" class="mw-redirect" title="Espartero">Espartero</a>.</li>
+<li>Plaza del Ayuntamiento: Located on the Avenue of Peace, the modern Town Hall of Logroño, designed by architect <a href="/wiki/Rafael_Moneo" title="Rafael Moneo">Rafael Moneo</a>, is in a large plaza where in years past it has seen numerous public acts, festivals, expositions, concerts, and in the last few years, during Christmas, a life size reconstruction of the nativity scene.</li>
+<li>Parque del Carmen: Located near the bus station, this park has a variety of flora and fauna including several ducks and birds.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2019)">citation needed</span></a></i>&#93;</sup></li></ul>
+<div class="thumb tleft"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:Palacete_logro%C3%B1o.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Palacete_logro%C3%B1o.jpg/170px-Palacete_logro%C3%B1o.jpg" decoding="async" width="170" height="112" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Palacete_logro%C3%B1o.jpg/255px-Palacete_logro%C3%B1o.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Palacete_logro%C3%B1o.jpg/340px-Palacete_logro%C3%B1o.jpg 2x" data-file-width="549" data-file-height="362" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Palacete_logro%C3%B1o.jpg" class="internal" title="Enlarge"></a></div>One of the Palaces of Espolón.</div></div></div>
+<ul><li>Plaza del Mercado: Located somewhere near Calle Portales, one of the most famous avenues of the city, at the foot of the Round Cathedral. This is where the nightly festivals of Logroño occur, near Calle Mayor (Marqués de San Nicolas Street).</li>
+<li>Parque del Ebro: Located near the Ebro, an extensive park full of vegetation ideal for relaxing. Also has a bike path traversing through the park.</li>
+<li>Parque de la Ribera: Next to Parque del Ebro, recently constructed. Here many gardens are found alongside the Plaza de Toros de la Ribera. Also: Riojaforum. <a rel="nofollow" class="external text" href="http://www.riojaforum.com">Palacio de Congresos y Auditorio de La Rioja</a></li>
+<li>Parque de San Miguel</li></ul>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:Parquedelebro.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Parquedelebro.jpg/250px-Parquedelebro.jpg" decoding="async" width="250" height="119" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Parquedelebro.jpg/375px-Parquedelebro.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Parquedelebro.jpg/500px-Parquedelebro.jpg 2x" data-file-width="1024" data-file-height="488" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Parquedelebro.jpg" class="internal" title="Enlarge"></a></div>Parque del Ebro.</div></div></div>
+<h2><span class="mw-headline" id="Social_life">Social life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=14" title="Edit section: Social life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Calle del Laurel, known as "the path of the elephants" and Calle San Juan are typical streets where various restaurants and tapas bars offer some of the best <i>pinchos</i> and <i>tapas</i> in northern Spain. Calle Portales is the main street in the old town, where people like to walk and sit in the terraces to eat a meal or drink wine. Calle Marqués de San Nicolás (otherwise known as Calle Mayor) is the main area where people spend weekend nights.
+</p>
+<h2><span class="mw-headline" id="Broadcasting_stations">Broadcasting stations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=15" title="Edit section: Broadcasting stations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Southwest of Logroño, at 42°26'34"N   2°30'43"W, there is a mediumwave broadcasting station with a transmission power of 20&#160;kW. There may exist a longwave transmitter with 300 metres tall masts at Logroño with 300 metres tall masts transmitting RNE Todo Noticias on 207&#160;kHz.
+</p>
+<table class="box-Expand_section plainlinks metadata ambox mbox-small-left ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><a href="/wiki/File:Wiki_letter_w_cropped.svg" class="image"><img alt="[icon]" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" decoding="async" width="20" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" data-file-width="44" data-file-height="31" /></a></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs expansion</b>. <small>You can help by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=">adding to it</a>.</small>  <small class="date-container"><i>(<span class="date">January 2010</span>)</i></small></div></td></tr></tbody></table>
+<h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=16" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/CB_Ciudad_de_Logro%C3%B1o" title="CB Ciudad de Logroño">CB Ciudad de Logroño</a> - <a href="/wiki/Team_handball" class="mw-redirect" title="Team handball">handball</a>-<a href="/wiki/Liga_ASOBAL" title="Liga ASOBAL">Liga ASOBAL</a> - <a rel="nofollow" class="external text" href="http://www.cbclogrono.com">CB Ciudad de Logroño</a></li>
+<li><a href="/wiki/Club_Voleibol_Logro%C3%B1o" title="Club Voleibol Logroño">Club Voleibol Logroño</a> - <a href="/wiki/Volleyball" title="Volleyball">volleyball</a>-<a href="/wiki/Superliga_Femenina_de_Voleibol" title="Superliga Femenina de Voleibol">Superliga Femenina</a> - <a rel="nofollow" class="external text" href="http://www.voleibollogrono.es/">Club Voleibol Logroño</a></li>
+<li><a href="/wiki/EdF_Logro%C3%B1o" title="EdF Logroño">EdF Logroño</a> - <a href="/wiki/Women%27s_association_football" title="Women&#39;s association football">women's football</a>-<a href="/wiki/Primera_Divisi%C3%B3n_(women)" title="Primera División (women)">Primera División</a> - <a rel="nofollow" class="external text" href="http://www.escuelasdefutbol.es/">EdF Logroño</a></li>
+<li><a href="/wiki/UD_Logro%C3%B1%C3%A9s" title="UD Logroñés">UD Logroñés</a> - <a href="/wiki/Football_(soccer)" class="mw-redirect" title="Football (soccer)">football</a>-<a href="/wiki/Segunda_Divisi%C3%B3n_B" title="Segunda División B">Segunda División B</a> - <a rel="nofollow" class="external text" href="http://www.uniondeportivalogroñes.es//">UD Logroñés</a></li>
+<li><a href="/wiki/SD_Logro%C3%B1%C3%A9s" title="SD Logroñés">SD Logroñés</a> - <a href="/wiki/Football_(soccer)" class="mw-redirect" title="Football (soccer)">football</a>-<a href="/wiki/Segunda_Divisi%C3%B3n_B" title="Segunda División B">Segunda División B</a> - <a rel="nofollow" class="external text" href="http://www.sdlogrones.com">SD Logroñés</a></li>
+<li><a href="/wiki/Yag%C3%BCe_CF" title="Yagüe CF">Yagüe CF</a> - <a href="/wiki/Football_(soccer)" class="mw-redirect" title="Football (soccer)">football</a>-<a href="/wiki/Tercera_Divisi%C3%B3n" title="Tercera División">Tercera División</a></li></ul>
+<p><a href="/wiki/Triple_jump" title="Triple jump">Triple jumper</a> <a href="/wiki/Carlota_Castrejana" title="Carlota Castrejana">Carlota Castrejana</a> is from the city.
+<a href="/wiki/David_Lopez_Moreno" class="mw-redirect" title="David Lopez Moreno">David Lopez Moreno</a>, the <a href="/wiki/Brighton_%26_Hove_Albion" class="mw-redirect" title="Brighton &amp; Hove Albion">Brighton &amp; Hove Albion</a> midfielder is from Logroño.
+</p>
+<h2><span class="mw-headline" id="Festivals_and_traditions">Festivals and traditions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=17" title="Edit section: Festivals and traditions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Arco_San_Bernabe_2015.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arco_San_Bernabe_2015.jpg/220px-Arco_San_Bernabe_2015.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arco_San_Bernabe_2015.jpg/330px-Arco_San_Bernabe_2015.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arco_San_Bernabe_2015.jpg/440px-Arco_San_Bernabe_2015.jpg 2x" data-file-width="3096" data-file-height="2322" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Arco_San_Bernabe_2015.jpg" class="internal" title="Enlarge"></a></div>Arch of Saint Barnabas.</div></div></div>
+<p>The patron saint of Logroño is <a href="/wiki/Mary,_Mother_of_Jesus" class="mw-redirect" title="Mary, Mother of Jesus">Santa María de la Esperanza</a>.
+</p><p>The most important festivals are:
+</p>
+<ul><li>San Bernabé (<a href="/wiki/Saint_Barnabas" class="mw-redirect" title="Saint Barnabas">Saint Barnabas</a>), celebrated on June 11, commemorating the victory and resistance of Logroño against <a href="/wiki/France" title="France">French invaders</a> under <a href="/wiki/Francis_I_of_France" title="Francis I of France">Francis I</a> that besieged the city in May and June 1521. During this celebration, fried trout is typically served by the Fish Brotherhood, along with bread and wine, allegedly the only foodstuffs available in Logroño during the siege.</li>
+<li>San Mateo, celebrated between September 20 and September 26. Since 2006 the celebrations start the Saturday before September 21 (the day of <a href="/wiki/Saint_Matthew" class="mw-redirect" title="Saint Matthew">Saint Matthew</a>) and last for a week.</li></ul>
+<p>During the first week of January there is a cultural festival known as "ACTUAL" with <a href="/wiki/Music" title="Music">music</a>, <a href="/wiki/Theater" class="mw-redirect" title="Theater">theater</a> and <a href="/wiki/Art" title="Art">art</a>.
+</p>
+<h2><span class="mw-headline" id="International_relations">International relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=18" title="Edit section: International relations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/List_of_twin_towns_and_sister_cities_in_Spain" title="List of twin towns and sister cities in Spain">List of twin towns and sister cities in Spain</a></div>
+<h3><span class="mw-headline" id="Twin_towns_and_sister_cities">Twin towns and sister cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=19" title="Edit section: Twin towns and sister cities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Logroño is <a href="/wiki/Twin_towns_and_sister_cities" class="mw-redirect" title="Twin towns and sister cities">twinned</a> with:
+</p>
+<ul><li><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> <a href="/wiki/Brescia" title="Brescia">Brescia</a>, <a href="/wiki/Italy" title="Italy">Italy</a></li>
+<li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Darmstadt" title="Darmstadt">Darmstadt</a>, <a href="/wiki/Germany" title="Germany">Germany</a> <small><i>(since 2002)</i></small><sup id="cite_ref-Darmstadt_twinnings_12-0" class="reference"><a href="#cite_note-Darmstadt_twinnings-12">&#91;12&#93;</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Dax,_Landes" title="Dax, Landes">Dax</a>, <a href="/wiki/France" title="France">France</a> <small><i>(since 1960)</i></small><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Scotland" title="Scotland"><img alt="Scotland" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/23px-Flag_of_Scotland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/35px-Flag_of_Scotland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/46px-Flag_of_Scotland.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Dunfermline" title="Dunfermline">Dunfermline</a>, <a href="/wiki/Fife" title="Fife">Fife</a>, <a href="/wiki/Scotland" title="Scotland">Scotland</a>. <small><i>(since 1990)</i></small><sup id="cite_ref-Fife_Direct_14-0" class="reference"><a href="#cite_note-Fife_Direct-14">&#91;14&#93;</a></sup></li>
+<li><a href="/wiki/El_Hagounia" title="El Hagounia">El Hagounia</a>, <a href="/wiki/Western_Sahara" title="Western Sahara">Western Sahara</a> <small><i>(since 1991)</i></small><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span><a href="/wiki/Libourne" title="Libourne">Libourne</a>, <a href="/wiki/France" title="France">France</a> <small><i>(since 1979)</i></small><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Chile" title="Chile"><img alt="Chile" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span><a href="/wiki/Rancagua" title="Rancagua">Rancagua</a>, <a href="/wiki/Chile" title="Chile">Chile</a> <small><i>(since 1992)</i></small> <sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span><a href="/wiki/Ciudad_de_La_Rioja" class="mw-redirect" title="Ciudad de La Rioja">Ciudad de La Rioja</a>, <a href="/wiki/Argentina" title="Argentina">Argentina</a> <small><i>(since 1992)</i></small></li></ul>
+<p>Logroño is associated with:
+</p>
+<ul><li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> <a href="/wiki/Vichy" title="Vichy">Vichy</a>, <a href="/wiki/France" title="France">France</a> <small><i>(since 1965)</i></small><sup id="cite_ref-Vichy_twinnings_18-0" class="reference"><a href="#cite_note-Vichy_twinnings-18">&#91;18&#93;</a></sup></li>
+<li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> <a href="/wiki/Wilhelmshaven" title="Wilhelmshaven">Wilhelmshaven</a>, <a href="/wiki/Germany" title="Germany">Germany</a> <small><i>(since 1990)</i></small></li></ul>
+<h2><span class="mw-headline" id="Transport">Transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=20" title="Edit section: Transport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The city is served by the new <a href="/wiki/Logro%C3%B1o_railway_station" title="Logroño railway station">Logroño railway station</a>.
+</p>
+<h2><span class="mw-headline" id="In_popular_culture">In popular culture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=21" title="Edit section: In popular culture">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the 4th season of the <a href="/wiki/HBO" title="HBO">HBO</a> television series <i><a href="/wiki/True_Blood" title="True Blood">True Blood</a></i>, the witch Antonia is from Logroño. She refers to herself as Antonia Galván de Logroño.
+</p>
+<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=22" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some notable people from Logroño are:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2;">
+<ul><li><b><a href="/wiki/Juan_Fern%C3%A1ndez_de_Navarrete" class="mw-redirect" title="Juan Fernández de Navarrete">Juan Fernández de Navarrete</a></b>, (1526-1579), <a href="/wiki/Mannerist" class="mw-redirect" title="Mannerist">Mannerist painter</a>.</li>
+<li><b><a href="/wiki/Rodrigo_de_Arriaga" title="Rodrigo de Arriaga">Rodrigo de Arriaga</a></b>, (1592-1667) philosopher, theologian and Jesuit.</li>
+<li><b><a href="/wiki/Fausto_Elhuyar" title="Fausto Elhuyar">Fausto Elhuyar</a></b>, (1755-1833) and <b><a href="/wiki/Juan_Jos%C3%A9_Elhuyar" title="Juan José Elhuyar">Juan José Elhuyar</a></b> (1754-1796) chemists and discoverers of <a href="/wiki/Tungsten" title="Tungsten">tungsten</a>.</li>
+<li><b><a href="/wiki/Mart%C3%ADn_Zurbano" title="Martín Zurbano">Martín Zurbano</a></b>, (1788-1845) liberal military figure.</li>
+<li><b><a href="/wiki/Baldomero_Espartero" title="Baldomero Espartero">Baldomero Espartero</a></b>, (1793-1879) general and <a href="/wiki/Liberalism" title="Liberalism">liberal</a> politician.</li>
+<li><b><a href="/wiki/Cosme_Garc%C3%ADa_S%C3%A1ez" title="Cosme García Sáez">Cosme García Sáez</a></b>, (1818-1874) engineer, first to invent a <a href="/wiki/Submersible" title="Submersible">submersible</a>.</li>
+<li><a href="/w/index.php?title=Ildefonso_Zub%C3%ADa_Icazuriaga&amp;action=edit&amp;redlink=1" class="new" title="Ildefonso Zubía Icazuriaga (page does not exist)"><b>Ildefonso Zubía</b></a>, (1819-1891) pharmacist and botanist.</li>
+<li><b><a href="/wiki/Julio_Rey_Pastor" title="Julio Rey Pastor">Julio Rey Pastor</a></b>, (1888-1962) mathematician.</li>
+<li><b><a href="/wiki/Mar%C3%ADa_Teresa_Le%C3%B3n" title="María Teresa León">María Teresa León</a></b>, (1903-1988) writer of the <a href="/wiki/Generation_of_%2727" title="Generation of &#39;27">Generation of '27</a>.</li>
+<li><b><a href="/wiki/Ram%C3%B3n_Castroviejo" class="mw-redirect" title="Ramón Castroviejo">Ramón Castroviejo</a></b>, (1904-1987) eye surgeon.</li>
+<li><b><a href="/w/index.php?title=Mar%C3%ADa_Teresa_Gil_de_G%C3%A1rate&amp;action=edit&amp;redlink=1" class="new" title="María Teresa Gil de Gárate (page does not exist)">María Teresa Gil de Gárate</a></b>, (1906-1985) educator.</li>
+<li><a href="/w/index.php?title=Gerardo_Sacrist%C3%A1n_Torralba&amp;action=edit&amp;redlink=1" class="new" title="Gerardo Sacristán Torralba (page does not exist)"><b>Gerardo Sacristán</b></a>, (1907-1964) painter.</li>
+<li><a href="/w/index.php?title=Jos%C3%A9_Blanco_Ruiz&amp;action=edit&amp;redlink=1" class="new" title="José Blanco Ruiz (page does not exist)"><b>Pepe Blanco</b></a>, (1911-1981) singer and actor.</li>
+<li><b><a href="/w/index.php?title=Enrique_Blanco_Lac&amp;action=edit&amp;redlink=1" class="new" title="Enrique Blanco Lac (page does not exist)">Enrique Blanco Lac</a></b>, (1914-1994) painter.</li>
+<li><b><a href="/wiki/Manuel_Jal%C3%B3n" class="mw-redirect" title="Manuel Jalón">Manuel Jalón</a></b>, (1925-2011) engineer and inventor.</li>
+<li><b><a href="/wiki/Rafael_Azcona" title="Rafael Azcona">Rafael Azcona</a></b>, (1926-2008) screenwriter and novelist.</li>
+<li><b><a href="/wiki/Soledad_Bravo" title="Soledad Bravo">Soledad Bravo</a></b>, (1943-) venezuelan singer of spanish origin.</li>
+<li><b><a href="/w/index.php?title=Jes%C3%BAs_Vicente_Aguirre&amp;action=edit&amp;redlink=1" class="new" title="Jesús Vicente Aguirre (page does not exist)">Jesús Vicente Aguirre</a></b>, (1948-) singer-songwriter and writer.</li>
+<li><b><a href="/wiki/Pedro_J._Ram%C3%ADrez" title="Pedro J. Ramírez">Pedro J. Ramírez</a></b>, (1952-) journalist and editor of <i>El Español</i>.</li>
+<li><b><a href="/w/index.php?title=Luis_Burgos&amp;action=edit&amp;redlink=1" class="new" title="Luis Burgos (page does not exist)">Luis Burgos</a></b>, (1957-) representational painter.</li>
+<li><b><a href="/wiki/Gaspar_Llamazares" title="Gaspar Llamazares">Gaspar Llamazares</a></b>, (1957-) doctor and politician of <i><a href="/wiki/Izquierda_Abierta" title="Izquierda Abierta">Izquierda Abierta</a></i>.</li>
+<li><b><a href="/w/index.php?title=Angela_Muro&amp;action=edit&amp;redlink=1" class="new" title="Angela Muro (page does not exist)">Angela Muro</a></b>, (1962-) actress, singer and componist.</li>
+<li><b><a href="/wiki/Pepe_Viyuela" title="Pepe Viyuela">Pepe Viyuela</a></b>, (1963-) actor and comedian.</li>
+<li><b><a href="/wiki/Eduardo_S%C3%A1enz_de_Cabez%C3%B3n" title="Eduardo Sáenz de Cabezón">Eduardo Sáenz de Cabezón</a></b>, (1972-) mathematician and science communicator.</li>
+<li><b><a href="/wiki/Pablo_Sainz_Villegas" class="mw-redirect" title="Pablo Sainz Villegas">Pablo Sainz Villegas</a></b>, (1977-) <a href="/wiki/Classical_guitar" title="Classical guitar"> classical guitarist</a>.</li>
+<li><b><a href="/wiki/Daniel_Aranzub%C3%ADa" class="mw-redirect" title="Daniel Aranzubía">Daniel Aranzubía</a></b>, (1979-) former football player.</li>
+<li><b><a href="/wiki/Carlos_Coloma_Nicol%C3%A1s" title="Carlos Coloma Nicolás">Carlos Coloma Nicolás</a></b>, (1981-) cross-country mountain biker.</li>
+<li><b><a href="/wiki/Pau_Quemada" title="Pau Quemada">Pau Quemada</a></b>, (1983-) <a href="/wiki/Field_hockey" title="Field hockey">field hockey</a> player.</li>
+<li><b><a href="/wiki/Alberto_Garz%C3%B3n" title="Alberto Garzón">Alberto Garzón</a></b>, (1985-) economist and politician of <i><a href="/wiki/United_Left_(Spain)" title="United Left (Spain)">United Left</a>.</i>*</li></ul>
+</div>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=23" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Vareia-detailed-view.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Vareia-detailed-view.jpg/120px-Vareia-detailed-view.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Vareia-detailed-view.jpg/180px-Vareia-detailed-view.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Vareia-detailed-view.jpg/240px-Vareia-detailed-view.jpg 2x" data-file-width="1600" data-file-height="1200" /></a></div></div>
+			<div class="gallerytext">
+<p>Roman ruins in Varea, near Logroño. This old village was known as "Vareia".
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Monumento-al-Fuero-de-Logro-o-en-el-Ayuntamiento.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Monumento-al-Fuero-de-Logro-o-en-el-Ayuntamiento.jpg/90px-Monumento-al-Fuero-de-Logro-o-en-el-Ayuntamiento.jpg" decoding="async" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Monumento-al-Fuero-de-Logro-o-en-el-Ayuntamiento.jpg/135px-Monumento-al-Fuero-de-Logro-o-en-el-Ayuntamiento.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Monumento-al-Fuero-de-Logro-o-en-el-Ayuntamiento.jpg/180px-Monumento-al-Fuero-de-Logro-o-en-el-Ayuntamiento.jpg 2x" data-file-width="1728" data-file-height="2304" /></a></div></div>
+			<div class="gallerytext">
+<p>Monumento del Fuero de Logroño, given by Alfonso VI in 1095, near the Town Hall
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:Arch_of_Revell%C3%ADn_Wall_in_Logro%C3%B1o.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Arch_of_Revell%C3%ADn_Wall_in_Logro%C3%B1o.jpg/90px-Arch_of_Revell%C3%ADn_Wall_in_Logro%C3%B1o.jpg" decoding="async" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Arch_of_Revell%C3%ADn_Wall_in_Logro%C3%B1o.jpg/135px-Arch_of_Revell%C3%ADn_Wall_in_Logro%C3%B1o.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Arch_of_Revell%C3%ADn_Wall_in_Logro%C3%B1o.jpg/180px-Arch_of_Revell%C3%ADn_Wall_in_Logro%C3%B1o.jpg 2x" data-file-width="768" data-file-height="1024" /></a></div></div>
+			<div class="gallerytext">
+<p>Arch of Revellín Wall
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Casa_ciencias.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Casa_ciencias.JPG/120px-Casa_ciencias.JPG" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Casa_ciencias.JPG/180px-Casa_ciencias.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Casa_ciencias.JPG/240px-Casa_ciencias.JPG 2x" data-file-width="2592" data-file-height="1952" /></a></div></div>
+			<div class="gallerytext">
+<p>Science "House"
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Rectorado_(University_Headquarters)_of_Universidad_de_La_Rioja_in_Logro%C3%B1o.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rectorado_%28University_Headquarters%29_of_Universidad_de_La_Rioja_in_Logro%C3%B1o.jpg/120px-Rectorado_%28University_Headquarters%29_of_Universidad_de_La_Rioja_in_Logro%C3%B1o.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rectorado_%28University_Headquarters%29_of_Universidad_de_La_Rioja_in_Logro%C3%B1o.jpg/180px-Rectorado_%28University_Headquarters%29_of_Universidad_de_La_Rioja_in_Logro%C3%B1o.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Rectorado_%28University_Headquarters%29_of_Universidad_de_La_Rioja_in_Logro%C3%B1o.jpg/240px-Rectorado_%28University_Headquarters%29_of_Universidad_de_La_Rioja_in_Logro%C3%B1o.jpg 2x" data-file-width="1024" data-file-height="768" /></a></div></div>
+			<div class="gallerytext">
+<p>Universidad de La Rioja
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=24" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ine.es/dynt3/inebase/index.htm?padre=525">"Municipal Register of Spain 2018"</a>. <a href="/wiki/Instituto_Nacional_de_Estad%C3%ADstica_(Spain)" title="Instituto Nacional de Estadística (Spain)">National Statistics Institute</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 April</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Municipal+Register+of+Spain+2018&amp;rft.pub=National+Statistics+Institute&amp;rft_id=http%3A%2F%2Fwww.ine.es%2Fdynt3%2Finebase%2Findex.htm%3Fpadre%3D525&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALogro%C3%B1o" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.collinsdictionary.com/amp/english/logrono">"Logroño"</a>. <i><a href="/wiki/Collins_English_Dictionary" title="Collins English Dictionary">Collins English Dictionary</a></i>. <a href="/wiki/HarperCollins" title="HarperCollins">HarperCollins</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 2,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Collins+English+Dictionary&amp;rft.atitle=Logro%C3%B1o&amp;rft_id=https%3A%2F%2Fwww.collinsdictionary.com%2Famp%2Fenglish%2Flogrono&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALogro%C3%B1o" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://en.oxforddictionaries.com/definition/us/Logroño">"Logroño"</a> (US) and <cite class="citation web"><a rel="nofollow" class="external text" href="https://en.oxforddictionaries.com/definition/Logro%C3%B1o">"Logroño"</a>. <i><a href="/wiki/Oxford_Dictionaries" title="Oxford Dictionaries">Oxford&#160;Dictionaries</a></i>. <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 2,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Oxford%C2%A0Dictionaries&amp;rft.atitle=Logro%C3%B1o&amp;rft_id=https%3A%2F%2Fen.oxforddictionaries.com%2Fdefinition%2FLogro%25C3%25B1o&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALogro%C3%B1o" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.merriam-webster.com/dictionary/Logro%C3%B1o">"Logroño"</a>. <i><a href="/wiki/Merriam-Webster" title="Merriam-Webster">Merriam-Webster Dictionary</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">July 30,</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Merriam-Webster+Dictionary&amp;rft.atitle=Logro%C3%B1o&amp;rft_id=https%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2FLogro%25C3%25B1o&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALogro%C3%B1o" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">I. Rodríguez y R. de Lama, <i>Colección diplomática medieval de La Rioja</i>, vol. I, Logroño 1979, 272-293</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">The Beronian demonym in the Logroño toponym, Urbano Espinosa</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Rolled leather parchment sealed with lead and the royal seal. Valladolid, 20 February 1431. Logroño municipal register</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Keay, S.; R. Mathisen; H. Sivan; R. Talbert; T. Elliott; S. Gillies. <a rel="nofollow" class="external text" href="http://pleiades.stoa.org/places/246729">"Places: 246729 (Vareia?)"</a>. Pleiades<span class="reference-accessdate">. Retrieved <span class="nowrap">August 27,</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Places%3A+246729+%28Vareia%3F%29&amp;rft.pub=Pleiades&amp;rft.au=Keay%2C+S.&amp;rft.au=R.+Mathisen&amp;rft.au=H.+Sivan&amp;rft.au=R.+Talbert&amp;rft.au=T.+Elliott&amp;rft.au=S.+Gillies&amp;rft_id=http%3A%2F%2Fpleiades.stoa.org%2Fplaces%2F246729&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALogro%C3%B1o" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130501161603/http://www.logrono-hotels.com/information/weather.html">"Weather in Logroño"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.logrono-hotels.com/information/weather.html">the original</a> on 1 May 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">12 June</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Weather+in+Logro%C3%B1o&amp;rft_id=http%3A%2F%2Fwww.logrono-hotels.com%2Finformation%2Fweather.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALogro%C3%B1o" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-AEMET.es:_‘Standard_Climate_Values_for_Logroño,_ES’-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-AEMET.es:_‘Standard_Climate_Values_for_Logroño,_ES’_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AEMET.es:_‘Standard_Climate_Values_for_Logroño,_ES’_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AEMET.es:_‘Standard_Climate_Values_for_Logroño,_ES’_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.aemet.es/en/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=9170&amp;k=rio">"Standard Climate Values for Logroño"</a>. Agencia Estatal de Meteorología<span class="reference-accessdate">. Retrieved <span class="nowrap">5 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Standard+Climate+Values+for+Logro%C3%B1o&amp;rft.pub=Agencia+Estatal+de+Meteorolog%C3%ADa&amp;rft_id=http%3A%2F%2Fwww.aemet.es%2Fen%2Fserviciosclimaticos%2Fdatosclimatologicos%2Fvaloresclimatologicos%3Fl%3D9170%26k%3Drio&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALogro%C3%B1o" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-AEMET.es:′Extreme_Climate_Values_for_Logroño,_ES&#39;-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-AEMET.es:′Extreme_Climate_Values_for_Logroño,_ES&#39;_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.aemet.es/en/serviciosclimaticos/datosclimatologicos/efemerides_extremos*?w=0&amp;k=rio&amp;l=9170&amp;datos=det&amp;x=9170&amp;m=1&amp;v=Tmn">"Extreme Climate Values for Logroño"</a>. Agencia Estatal de Meteorología<span class="reference-accessdate">. Retrieved <span class="nowrap">5 June</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Extreme+Climate+Values+for+Logro%C3%B1o&amp;rft.pub=Agencia+Estatal+de+Meteorolog%C3%ADa&amp;rft_id=http%3A%2F%2Fwww.aemet.es%2Fen%2Fserviciosclimaticos%2Fdatosclimatologicos%2Fefemerides_extremos%2A%3Fw%3D0%26k%3Drio%26l%3D9170%26datos%3Ddet%26x%3D9170%26m%3D1%26v%3DTmn&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALogro%C3%B1o" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Darmstadt_twinnings-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Darmstadt_twinnings_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.darmstadt.de/standort/staedtepartnerschaften-und-internationales/index.htm">"Städtepartnerschaften und Internationales"</a>. <i>Büro für Städtepartnerschaften und internationale Beziehungen</i> (in German)<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=B%C3%BCro+f%C3%BCr+St%C3%A4dtepartnerschaften+und+internationale+Beziehungen&amp;rft.atitle=St%C3%A4dtepartnerschaften+und+Internationales&amp;rft_id=http%3A%2F%2Fwww.darmstadt.de%2Fstandort%2Fstaedtepartnerschaften-und-internationales%2Findex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALogro%C3%B1o" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Rioja, La. <a rel="nofollow" class="external text" href="http://www.larioja.com/multimedia/fotos/local/62327-actos-aniversario-hermanamiento-entre-logrono-0.html">"Actos del 50 Aniversario del hermanamiento entre Dax y Logroño - laRioja.com. Foto 1 de 38"</a>. <i>www.larioja.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.larioja.com&amp;rft.atitle=Actos+del+50+Aniversario+del+hermanamiento+entre+Dax+y+Logro%C3%B1o+-+laRioja.com.+Foto+1+de+38&amp;rft.aulast=Rioja&amp;rft.aufirst=La&amp;rft_id=http%3A%2F%2Fwww.larioja.com%2Fmultimedia%2Ffotos%2Flocal%2F62327-actos-aniversario-hermanamiento-entre-logrono-0.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALogro%C3%B1o" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Fife_Direct-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-Fife_Direct_14-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.fife.org.uk/atoz/index.cfm?fuseaction=service.display&amp;objectid=18225846-FC6E-4165-9ECDC72F0DC4BEA1">A-Z Twinning and Networking</a> (. Accessed 2010-11-02.)</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xn--logroo-0wa.es/wps/portal/web/inicio/unidadesMunicipales/relacionesInstitucionales/ciudadesHermanadas/hagunia/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3hTF98Af293QwN_DwtzA0-zUH-LQB-vIBN3A6B8pFl8oLlpKFjewsfS1cAzJDDY0NkxwMDA1JwY3QY4gKMBAd1e-lHpOflJQFeGg9yNU61_iBGavLuHuYWBZ2CgsauTr7eBm5E5RB6fP0DyeFzq55Gfm6pfkBsaURnsmWXiqKgIAOW08ns!/dl3/d3/L2dJQSEvUUt3QS9ZQnZ3LzZfUTc1VU9LRzEwR1BNMDBBNDRDVDdITTFFQjU!/?WCM_GLOBAL_CONTEXT=/web_es/logrono/unidadesMunicipales/relacionesInstitucionales/ciudadesHermanadas/hagunia/Hagunia">"Ayuntamiento de Logroño &#124; Hagunia"</a> (in Spanish). Xn--logroo-0wa.es<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-05-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ayuntamiento+de+Logro%C3%B1o+%26%23124%3B+Hagunia&amp;rft.pub=Xn--logroo-0wa.es&amp;rft_id=http%3A%2F%2Fwww.xn--logroo-0wa.es%2Fwps%2Fportal%2Fweb%2Finicio%2FunidadesMunicipales%2FrelacionesInstitucionales%2FciudadesHermanadas%2Fhagunia%2F%21ut%2Fp%2Fc5%2F04_SB8K8xLLM9MSSzPy8xBz9CP0os3hTF98Af293QwN_DwtzA0-zUH-LQB-vIBN3A6B8pFl8oLlpKFjewsfS1cAzJDDY0NkxwMDA1JwY3QY4gKMBAd1e-lHpOflJQFeGg9yNU61_iBGavLuHuYWBZ2CgsauTr7eBm5E5RB6fP0DyeFzq55Gfm6pfkBsaURnsmWXiqKgIAOW08ns%21%2Fdl3%2Fd3%2FL2dJQSEvUUt3QS9ZQnZ3LzZfUTc1VU9LRzEwR1BNMDBBNDRDVDdITTFFQjU%21%2F%3FWCM_GLOBAL_CONTEXT%3D%2Fweb_es%2Flogrono%2FunidadesMunicipales%2FrelacionesInstitucionales%2FciudadesHermanadas%2Fhagunia%2FHagunia&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALogro%C3%B1o" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xn--logroo-0wa.es/wps/portal/web/inicio/unidadesMunicipales/relacionesInstitucionales/ciudadesHermanadas/libourne/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os_hAc9NQf293QwP3AF8DA0cTE-cQcw9fQ1c_Q_2CbEdFANvKphQ!/?WCM_GLOBAL_CONTEXT=">"Ayuntamiento de Logroño &#124; Libourne"</a> (in Spanish). Xn--logroo-0wa.es<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-05-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ayuntamiento+de+Logro%C3%B1o+%26%23124%3B+Libourne&amp;rft.pub=Xn--logroo-0wa.es&amp;rft_id=http%3A%2F%2Fwww.xn--logroo-0wa.es%2Fwps%2Fportal%2Fweb%2Finicio%2FunidadesMunicipales%2FrelacionesInstitucionales%2FciudadesHermanadas%2Flibourne%2F%21ut%2Fp%2Fc4%2F04_SB8K8xLLM9MSSzPy8xBz9CP0os_hAc9NQf293QwP3AF8DA0cTE-cQcw9fQ1c_Q_2CbEdFANvKphQ%21%2F%3FWCM_GLOBAL_CONTEXT%3D&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALogro%C3%B1o" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.xn--logroo-0wa.es/wps/portal/web/inicio/unidadesMunicipales/relacionesInstitucionales/ciudadesHermanadas/rancagua/!ut/p/c5/04_SB8K8xLLM9MSSzPy8xBz9CP0os3hTF98Af293QwN_DwtzA0-zUH-LQB-vIBN3A6B8pFl8oLlpKFjewsfS1cAzJDDY0NkxwMDA1JwY3QY4gKMBAd1e-lHpOflJQFeGg9yNU61_iBGavLuHuYWBZ2CgsauTr7eBm5E5RB6fP0DyeFzq55Gfm6pfkBsaURnsmWXiqKgIAOW08ns!/dl3/d3/L2dJQSEvUUt3QS9ZQnZ3LzZfUTc1VU9LRzEwR1BNMDBBNDRDVDdITTFFRjY!/?WCM_GLOBAL_CONTEXT=/web_es/logrono/unidadesMunicipales/relacionesInstitucionales/ciudadesHermanadas/rancagua/Rancagua">"Ayuntamiento de Logroño &#124; Rancagua"</a> (in Spanish). Xn--logroo-0wa.es<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-05-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Ayuntamiento+de+Logro%C3%B1o+%26%23124%3B+Rancagua&amp;rft.pub=Xn--logroo-0wa.es&amp;rft_id=http%3A%2F%2Fwww.xn--logroo-0wa.es%2Fwps%2Fportal%2Fweb%2Finicio%2FunidadesMunicipales%2FrelacionesInstitucionales%2FciudadesHermanadas%2Francagua%2F%21ut%2Fp%2Fc5%2F04_SB8K8xLLM9MSSzPy8xBz9CP0os3hTF98Af293QwN_DwtzA0-zUH-LQB-vIBN3A6B8pFl8oLlpKFjewsfS1cAzJDDY0NkxwMDA1JwY3QY4gKMBAd1e-lHpOflJQFeGg9yNU61_iBGavLuHuYWBZ2CgsauTr7eBm5E5RB6fP0DyeFzq55Gfm6pfkBsaURnsmWXiqKgIAOW08ns%21%2Fdl3%2Fd3%2FL2dJQSEvUUt3QS9ZQnZ3LzZfUTc1VU9LRzEwR1BNMDBBNDRDVDdITTFFRjY%21%2F%3FWCM_GLOBAL_CONTEXT%3D%2Fweb_es%2Flogrono%2FunidadesMunicipales%2FrelacionesInstitucionales%2FciudadesHermanadas%2Francagua%2FRancagua&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALogro%C3%B1o" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Vichy_twinnings-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Vichy_twinnings_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://archive.is/20131004135322/http://www.cncd.fr/frontoffice/bdd-region.asp?action=getRegion&amp;id=3">"National Commission for Decentralised cooperation"</a>. <i>Délégation pour l’Action Extérieure des Collectivités Territoriales (Ministère des Affaires étrangères)</i> (in French). Archived from <a rel="nofollow" class="external text" href="http://www.cncd.fr/frontoffice/bdd-region.asp?action=getRegion&amp;id=3#tabs3">the original</a> on 2013-10-04<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=D%C3%A9l%C3%A9gation+pour+l%E2%80%99Action+Ext%C3%A9rieure+des+Collectivit%C3%A9s+Territoriales+%28Minist%C3%A8re+des+Affaires+%C3%A9trang%C3%A8res%29&amp;rft.atitle=National+Commission+for+Decentralised+cooperation&amp;rft_id=http%3A%2F%2Fwww.cncd.fr%2Ffrontoffice%2Fbdd-region.asp%3Faction%3DgetRegion%26id%3D3%23tabs3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALogro%C3%B1o" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit&amp;section=25" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/60px-Wikivoyage-Logo-v3-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/80px-Wikivoyage-Logo-v3-icon.svg.png 2x" data-file-width="193" data-file-height="193" /></td>
+<td class="mbox-text plainlist">Wikivoyage has a travel guide for <i><b><a href="https://en.wikivoyage.org/wiki/Logro%C3%B1o#Q14325" class="extiw" title="wikivoyage:Logroño">Logroño</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://logrono.es">Official website</a> <span class="languageicon">(in Spanish)</span></li>
+<li><a rel="nofollow" class="external text" href="https://www.unirioja.es/">University of La Rioja</a> <span class="languageicon">(in Spanish)</span></li>
+<li><a rel="nofollow" class="external text" href="http://www.bermemar.com/">Bermemar</a> <span class="languageicon">(in Spanish)</span></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060617122003/http://www.bermemar.com/alcaldes/index.htm">Mayors of Logroño</a> <span class="languageicon">(in Spanish)</span></li>
+<li><a rel="nofollow" class="external text" href="http://cofradiadelpez.com/">Fish Brotherhood</a> <span class="languageicon">(in Spanish)</span></li></ul>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Logro%C3%B1o" class="extiw" title="commons:Logroño">Logroño</a></b></i>.</td></tr>
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Municipalities_in_La_Rioja" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Municipalities_in_La_Rioja" title="Template:Municipalities in La Rioja"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Municipalities_in_La_Rioja" title="Template talk:Municipalities in La Rioja"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Municipalities_in_La_Rioja&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Municipalities_in_La_Rioja" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_municipalities_in_La_Rioja" title="List of municipalities in La Rioja">Municipalities</a> in <a href="/wiki/La_Rioja_(Spain)" title="La Rioja (Spain)">La Rioja</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%C3%81balos,_La_Rioja" title="Ábalos, La Rioja">Ábalos</a></li>
+<li><a href="/wiki/Agoncillo,_La_Rioja" title="Agoncillo, La Rioja">Agoncillo</a></li>
+<li><a href="/wiki/Aguilar_del_R%C3%ADo_Alhama" title="Aguilar del Río Alhama">Aguilar del Río Alhama</a></li>
+<li><a href="/wiki/Ajamil" title="Ajamil">Ajamil</a></li>
+<li><a href="/wiki/Albelda_de_Iregua" title="Albelda de Iregua">Albelda de Iregua</a></li>
+<li><a href="/wiki/Alberite" title="Alberite">Alberite</a></li>
+<li><a href="/wiki/Alcanadre" title="Alcanadre">Alcanadre</a></li>
+<li><a href="/wiki/Aldeanueva_de_Ebro" title="Aldeanueva de Ebro">Aldeanueva de Ebro</a></li>
+<li><a href="/wiki/Alesanco" title="Alesanco">Alesanco</a></li>
+<li><a href="/wiki/Ales%C3%B3n" title="Alesón">Alesón</a></li>
+<li><a href="/wiki/Alfaro,_La_Rioja" title="Alfaro, La Rioja">Alfaro</a></li>
+<li><a href="/wiki/Almarza_de_Cameros" title="Almarza de Cameros">Almarza de Cameros</a></li>
+<li><a href="/wiki/Anguciana" title="Anguciana">Anguciana</a></li>
+<li><a href="/wiki/Anguiano" title="Anguiano">Anguiano</a></li>
+<li><a href="/wiki/Arenzana_de_Abajo" title="Arenzana de Abajo">Arenzana de Abajo</a></li>
+<li><a href="/wiki/Arenzana_de_Arriba" title="Arenzana de Arriba">Arenzana de Arriba</a></li>
+<li><a href="/wiki/Arnedillo" title="Arnedillo">Arnedillo</a></li>
+<li><a href="/wiki/Arnedo" title="Arnedo">Arnedo</a></li>
+<li><a href="/wiki/Arr%C3%BAbal" title="Arrúbal">Arrúbal</a></li>
+<li><a href="/wiki/Ausejo" title="Ausejo">Ausejo</a></li>
+<li><a href="/wiki/Autol" title="Autol">Autol</a></li>
+<li><a href="/wiki/Azofra" class="mw-redirect" title="Azofra">Azofra</a></li>
+<li><a href="/wiki/Badar%C3%A1n" title="Badarán">Badarán</a></li>
+<li><a href="/wiki/Ba%C3%B1ares" title="Bañares">Bañares</a></li>
+<li><a href="/wiki/Ba%C3%B1os_de_Rioja" title="Baños de Rioja">Baños de Rioja</a></li>
+<li><a href="/wiki/Ba%C3%B1os_de_R%C3%ADo_Tob%C3%ADa" title="Baños de Río Tobía">Baños de Río Tobía</a></li>
+<li><a href="/wiki/Berceo" title="Berceo">Berceo</a></li>
+<li><a href="/wiki/Bergasa" title="Bergasa">Bergasa</a></li>
+<li><a href="/wiki/Bergasillas_Bajera" title="Bergasillas Bajera">Bergasillas Bajera</a></li>
+<li><a href="/wiki/Bezares" title="Bezares">Bezares</a></li>
+<li><a href="/wiki/Bobadilla,_La_Rioja" title="Bobadilla, La Rioja">Bobadilla</a></li>
+<li><a href="/wiki/Brieva_de_Cameros" title="Brieva de Cameros">Brieva de Cameros</a></li>
+<li><a href="/wiki/Briones" title="Briones">Briones</a></li>
+<li><a href="/wiki/Bri%C3%B1as" title="Briñas">Briñas</a></li>
+<li><a href="/wiki/Cabez%C3%B3n_de_Cameros" title="Cabezón de Cameros">Cabezón de Cameros</a></li>
+<li><a href="/wiki/Calahorra" title="Calahorra">Calahorra</a></li>
+<li><a href="/wiki/Camprov%C3%ADn" title="Camprovín">Camprovín</a></li>
+<li><a href="/wiki/Canales_de_la_Sierra" title="Canales de la Sierra">Canales de la Sierra</a></li>
+<li><a href="/wiki/Canillas_de_R%C3%ADo_Tuerto" title="Canillas de Río Tuerto">Canillas de Río Tuerto</a></li>
+<li><a href="/wiki/Casalarreina" title="Casalarreina">Casalarreina</a></li>
+<li><a href="/wiki/Casta%C3%B1ares_de_Rioja" title="Castañares de Rioja">Castañares de Rioja</a></li>
+<li><a href="/wiki/Castroviejo" title="Castroviejo">Castroviejo</a></li>
+<li><a href="/wiki/Ca%C3%B1as,_La_Rioja" title="Cañas, La Rioja">Cañas</a></li>
+<li><a href="/wiki/Cellorigo" title="Cellorigo">Cellorigo</a></li>
+<li><a href="/wiki/Cenicero" title="Cenicero">Cenicero</a></li>
+<li><a href="/wiki/Cervera_del_R%C3%ADo_Alhama" title="Cervera del Río Alhama">Cervera del Río Alhama</a></li>
+<li><a href="/wiki/Cidam%C3%B3n" title="Cidamón">Cidamón</a></li>
+<li><a href="/wiki/Cihuri" title="Cihuri">Cihuri</a></li>
+<li><a href="/wiki/Cirue%C3%B1a" title="Cirueña">Cirueña</a></li>
+<li><a href="/wiki/Clavijo" title="Clavijo">Clavijo</a></li>
+<li><a href="/wiki/Cordov%C3%ADn" title="Cordovín">Cordovín</a></li>
+<li><a href="/wiki/Corera" title="Corera">Corera</a></li>
+<li><a href="/wiki/Cornago" title="Cornago">Cornago</a></li>
+<li><a href="/wiki/Corporales" title="Corporales">Corporales</a></li>
+<li><a href="/wiki/Cuzcurrita_de_R%C3%ADo_Tir%C3%B3n" title="Cuzcurrita de Río Tirón">Cuzcurrita de Río Tirón</a></li>
+<li><a href="/wiki/C%C3%A1rdenas,_La_Rioja" title="Cárdenas, La Rioja">Cárdenas</a></li>
+<li><a href="/wiki/Daroca_de_Rioja" title="Daroca de Rioja">Daroca de Rioja</a></li>
+<li><a href="/wiki/El_Rasillo_de_Cameros" title="El Rasillo de Cameros">El Rasillo de Cameros</a></li>
+<li><a href="/wiki/El_Redal" title="El Redal">El Redal</a></li>
+<li><a href="/wiki/El_Villar_de_Arnedo" title="El Villar de Arnedo">El Villar de Arnedo</a></li>
+<li><a href="/wiki/Enciso,_La_Rioja" title="Enciso, La Rioja">Enciso</a></li>
+<li><a href="/wiki/Entrena" title="Entrena">Entrena</a></li>
+<li><a href="/wiki/Estollo" title="Estollo">Estollo</a></li>
+<li><a href="/wiki/Ezcaray" title="Ezcaray">Ezcaray</a></li>
+<li><a href="/wiki/Foncea" title="Foncea">Foncea</a></li>
+<li><a href="/wiki/Fonzaleche" title="Fonzaleche">Fonzaleche</a></li>
+<li><a href="/wiki/Fuenmayor" title="Fuenmayor">Fuenmayor</a></li>
+<li><a href="/wiki/Galb%C3%A1rruli" title="Galbárruli">Galbárruli</a></li>
+<li><a href="/wiki/Galilea,_La_Rioja" title="Galilea, La Rioja">Galilea</a></li>
+<li><a href="/wiki/Gallinero_de_Cameros" title="Gallinero de Cameros">Gallinero de Cameros</a></li>
+<li><a href="/wiki/Gimileo" title="Gimileo">Gimileo</a></li>
+<li><a href="/wiki/Gra%C3%B1%C3%B3n" title="Grañón">Grañón</a></li>
+<li><a href="/wiki/Gr%C3%A1valos" title="Grávalos">Grávalos</a></li>
+<li><a href="/wiki/Haro,_La_Rioja" title="Haro, La Rioja">Haro</a></li>
+<li><a href="/wiki/Herce" title="Herce">Herce</a></li>
+<li><a href="/wiki/Herram%C3%A9lluri" title="Herramélluri">Herramélluri</a></li>
+<li><a href="/wiki/Herv%C3%ADas" title="Hervías">Hervías</a></li>
+<li><a href="/wiki/Hormilla" title="Hormilla">Hormilla</a></li>
+<li><a href="/wiki/Hormilleja" title="Hormilleja">Hormilleja</a></li>
+<li><a href="/wiki/Hornillos_de_Cameros" title="Hornillos de Cameros">Hornillos de Cameros</a></li>
+<li><a href="/wiki/Hornos_de_Moncalvillo" title="Hornos de Moncalvillo">Hornos de Moncalvillo</a></li>
+<li><a href="/wiki/Hu%C3%A9rcanos" title="Huércanos">Huércanos</a></li>
+<li><a href="/wiki/Igea" title="Igea">Igea</a></li>
+<li><a href="/wiki/Jal%C3%B3n_de_Cameros" title="Jalón de Cameros">Jalón de Cameros</a></li>
+<li><a href="/wiki/Laguna_de_Cameros" title="Laguna de Cameros">Laguna de Cameros</a></li>
+<li><a href="/wiki/Lagunilla_del_Jubera" title="Lagunilla del Jubera">Lagunilla del Jubera</a></li>
+<li><a href="/wiki/Lardero" title="Lardero">Lardero</a></li>
+<li><a href="/wiki/Ledesma_de_la_Cogolla" title="Ledesma de la Cogolla">Ledesma de la Cogolla</a></li>
+<li><a href="/wiki/Leiva,_La_Rioja" title="Leiva, La Rioja">Leiva</a></li>
+<li><a href="/wiki/Leza_de_R%C3%ADo_Leza" title="Leza de Río Leza">Leza de Río Leza</a></li>
+<li><a class="mw-selflink selflink">Logroño</a></li>
+<li><a href="/wiki/Lumbreras" title="Lumbreras">Lumbreras</a></li>
+<li><a href="/wiki/Manjarr%C3%A9s" title="Manjarrés">Manjarrés</a></li>
+<li><a href="/wiki/Mansilla_de_la_Sierra" title="Mansilla de la Sierra">Mansilla de la Sierra</a></li>
+<li><a href="/wiki/Manzanares_de_Rioja" title="Manzanares de Rioja">Manzanares de Rioja</a></li>
+<li><a href="/wiki/Matute" title="Matute">Matute</a></li>
+<li><a href="/wiki/Medrano,_Spain" title="Medrano, Spain">Medrano</a></li>
+<li><a href="/wiki/Munilla" title="Munilla">Munilla</a></li>
+<li><a href="/wiki/Murillo_de_R%C3%ADo_Leza" title="Murillo de Río Leza">Murillo de Río Leza</a></li>
+<li><a href="/wiki/Muro_de_Aguas" title="Muro de Aguas">Muro de Aguas</a></li>
+<li><a href="/wiki/Muro_en_Cameros" title="Muro en Cameros">Muro en Cameros</a></li>
+<li><a href="/wiki/Nalda" title="Nalda">Nalda</a></li>
+<li><a href="/wiki/Navaj%C3%BAn" title="Navajún">Navajún</a></li>
+<li><a href="/wiki/Navarrete,_La_Rioja" title="Navarrete, La Rioja">Navarrete</a></li>
+<li><a href="/wiki/Nestares" title="Nestares">Nestares</a></li>
+<li><a href="/wiki/Nieva_de_Cameros" title="Nieva de Cameros">Nieva de Cameros</a></li>
+<li><a href="/wiki/N%C3%A1jera" title="Nájera">Nájera</a></li>
+<li><a href="/wiki/Och%C3%A1nduri" title="Ochánduri">Ochánduri</a></li>
+<li><a href="/wiki/Oc%C3%B3n" title="Ocón">Ocón</a></li>
+<li><a href="/wiki/Ojacastro" title="Ojacastro">Ojacastro</a></li>
+<li><a href="/wiki/Ollauri" title="Ollauri">Ollauri</a></li>
+<li><a href="/wiki/Ortigosa_de_Cameros" title="Ortigosa de Cameros">Ortigosa de Cameros</a></li>
+<li><a href="/wiki/Pazuengos" title="Pazuengos">Pazuengos</a></li>
+<li><a href="/wiki/Pedroso,_La_Rioja" title="Pedroso, La Rioja">Pedroso</a></li>
+<li><a href="/wiki/Pinillos,_La_Rioja" title="Pinillos, La Rioja">Pinillos</a></li>
+<li><a href="/wiki/Pradej%C3%B3n" title="Pradejón">Pradejón</a></li>
+<li><a href="/wiki/Pradillo" title="Pradillo">Pradillo</a></li>
+<li><a href="/wiki/Pr%C3%A9jano" title="Préjano">Préjano</a></li>
+<li><a href="/wiki/Quel,_La_Rioja" title="Quel, La Rioja">Quel</a></li>
+<li><a href="/wiki/Rabanera" title="Rabanera">Rabanera</a></li>
+<li><a href="/wiki/Ribafrecha" title="Ribafrecha">Ribafrecha</a></li>
+<li><a href="/wiki/Rinc%C3%B3n_de_Soto" title="Rincón de Soto">Rincón de Soto</a></li>
+<li><a href="/wiki/Robres_del_Castillo" title="Robres del Castillo">Robres del Castillo</a></li>
+<li><a href="/wiki/Rodezno" title="Rodezno">Rodezno</a></li>
+<li><a href="/wiki/Sajazarra" title="Sajazarra">Sajazarra</a></li>
+<li><a href="/wiki/San_Asensio" title="San Asensio">San Asensio</a></li>
+<li><a href="/wiki/San_Mill%C3%A1n_de_Y%C3%A9cora" title="San Millán de Yécora">San Millán de Yécora</a></li>
+<li><a href="/wiki/San_Mill%C3%A1n_de_la_Cogolla" title="San Millán de la Cogolla">San Millán de la Cogolla</a></li>
+<li><a href="/wiki/San_Rom%C3%A1n_de_Cameros" title="San Román de Cameros">San Román de Cameros</a></li>
+<li><a href="/wiki/San_Torcuato" title="San Torcuato">San Torcuato</a></li>
+<li><a href="/wiki/San_Vicente_de_la_Sonsierra" title="San Vicente de la Sonsierra">San Vicente de la Sonsierra</a></li>
+<li><a href="/wiki/Santa_Coloma,_La_Rioja" title="Santa Coloma, La Rioja">Santa Coloma</a></li>
+<li><a href="/wiki/Santa_Engracia_del_Jubera" title="Santa Engracia del Jubera">Santa Engracia del Jubera</a></li>
+<li><a href="/wiki/Santa_Eulalia_Bajera" title="Santa Eulalia Bajera">Santa Eulalia Bajera</a></li>
+<li><a href="/wiki/Santo_Domingo_de_la_Calzada" title="Santo Domingo de la Calzada">Santo Domingo de la Calzada</a></li>
+<li><a href="/wiki/Santurde_de_Rioja" title="Santurde de Rioja">Santurde de Rioja</a></li>
+<li><a href="/wiki/Santurdejo" title="Santurdejo">Santurdejo</a></li>
+<li><a href="/wiki/Sojuela" title="Sojuela">Sojuela</a></li>
+<li><a href="/wiki/Sorzano" title="Sorzano">Sorzano</a></li>
+<li><a href="/wiki/Soto_en_Cameros" title="Soto en Cameros">Soto en Cameros</a></li>
+<li><a href="/wiki/Sot%C3%A9s" title="Sotés">Sotés</a></li>
+<li><a href="/wiki/Terroba" title="Terroba">Terroba</a></li>
+<li><a href="/wiki/Tirgo" title="Tirgo">Tirgo</a></li>
+<li><a href="/wiki/Tob%C3%ADa" title="Tobía">Tobía</a></li>
+<li><a href="/wiki/Tormantos" title="Tormantos">Tormantos</a></li>
+<li><a href="/wiki/Torre_en_Cameros" title="Torre en Cameros">Torre en Cameros</a></li>
+<li><a href="/wiki/Torrecilla_en_Cameros" title="Torrecilla en Cameros">Torrecilla en Cameros</a></li>
+<li><a href="/wiki/Torrecilla_sobre_Alesanco" title="Torrecilla sobre Alesanco">Torrecilla sobre Alesanco</a></li>
+<li><a href="/wiki/Torremontalbo" title="Torremontalbo">Torremontalbo</a></li>
+<li><a href="/wiki/Treviana" title="Treviana">Treviana</a></li>
+<li><a href="/wiki/Tricio" title="Tricio">Tricio</a></li>
+<li><a href="/wiki/Tudelilla" title="Tudelilla">Tudelilla</a></li>
+<li><a href="/wiki/Uru%C3%B1uela" title="Uruñuela">Uruñuela</a></li>
+<li><a href="/wiki/Valdemadera" title="Valdemadera">Valdemadera</a></li>
+<li><a href="/wiki/Valga%C3%B1%C3%B3n" title="Valgañón">Valgañón</a></li>
+<li><a href="/wiki/Ventosa,_La_Rioja" title="Ventosa, La Rioja">Ventosa</a></li>
+<li><a href="/wiki/Ventrosa" title="Ventrosa">Ventrosa</a></li>
+<li><a href="/wiki/Viguera" title="Viguera">Viguera</a></li>
+<li><a href="/wiki/Villalba_de_Rioja" title="Villalba de Rioja">Villalba de Rioja</a></li>
+<li><a href="/wiki/Villalobar_de_Rioja" title="Villalobar de Rioja">Villalobar de Rioja</a></li>
+<li><a href="/wiki/Villamediana_de_Iregua" title="Villamediana de Iregua">Villamediana de Iregua</a></li>
+<li><a href="/wiki/Villanueva_de_Cameros" title="Villanueva de Cameros">Villanueva de Cameros</a></li>
+<li><a href="/wiki/Villar_de_Torre" title="Villar de Torre">Villar de Torre</a></li>
+<li><a href="/wiki/Villarejo" title="Villarejo">Villarejo</a></li>
+<li><a href="/wiki/Villarroya,_La_Rioja" title="Villarroya, La Rioja">Villarroya</a></li>
+<li><a href="/wiki/Villarta-Quintana" title="Villarta-Quintana">Villarta-Quintana</a></li>
+<li><a href="/wiki/Villavelayo" title="Villavelayo">Villavelayo</a></li>
+<li><a href="/wiki/Villaverde_de_Rioja" title="Villaverde de Rioja">Villaverde de Rioja</a></li>
+<li><a href="/wiki/Villoslada_de_Cameros" title="Villoslada de Cameros">Villoslada de Cameros</a></li>
+<li><a href="/wiki/Viniegra_de_Abajo" title="Viniegra de Abajo">Viniegra de Abajo</a></li>
+<li><a href="/wiki/Viniegra_de_Arriba" title="Viniegra de Arriba">Viniegra de Arriba</a></li>
+<li><a href="/wiki/Zarrat%C3%B3n" title="Zarratón">Zarratón</a></li>
+<li><a href="/wiki/Zarzosa" title="Zarzosa">Zarzosa</a></li>
+<li><a href="/wiki/Zorraqu%C3%ADn" title="Zorraquín">Zorraquín</a></li></ul>
+</div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Flag_of_La_Rioja_(with_coat_of_arms).svg" class="image" title="Flag of La Rioja"><img alt="Flag of La Rioja" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_La_Rioja_%28with_coat_of_arms%29.svg/50px-Flag_of_La_Rioja_%28with_coat_of_arms%29.svg.png" decoding="async" width="50" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_La_Rioja_%28with_coat_of_arms%29.svg/75px-Flag_of_La_Rioja_%28with_coat_of_arms%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_La_Rioja_%28with_coat_of_arms%29.svg/100px-Flag_of_La_Rioja_%28with_coat_of_arms%29.svg.png 2x" data-file-width="750" data-file-height="500" /></a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Capitals_of_provinces_of_Spain" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Capitals_of_Provinces_in_Spain" title="Template:Capitals of Provinces in Spain"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Capitals_of_Provinces_in_Spain" title="Template talk:Capitals of Provinces in Spain"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Capitals_of_Provinces_in_Spain&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Capitals_of_provinces_of_Spain" style="font-size:114%;margin:0 4em">Capitals of <a href="/wiki/Provinces_of_Spain" title="Provinces of Spain">provinces</a> of <a href="/wiki/Spain" title="Spain">Spain</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/A_Coru%C3%B1a" title="A Coruña">A Coruña</a></li>
+<li><a href="/wiki/Albacete" title="Albacete">Albacete</a></li>
+<li><a href="/wiki/Alicante" title="Alicante">Alicante</a></li>
+<li><a href="/wiki/Almer%C3%ADa" title="Almería">Almería</a></li>
+<li><a href="/wiki/%C3%81vila,_Spain" title="Ávila, Spain">Ávila</a></li>
+<li><a href="/wiki/Badajoz" title="Badajoz">Badajoz</a></li>
+<li><a href="/wiki/Barcelona" title="Barcelona">Barcelona</a></li>
+<li><a href="/wiki/Bilbao" title="Bilbao">Bilbao</a></li>
+<li><a href="/wiki/Burgos" title="Burgos">Burgos</a></li>
+<li><a href="/wiki/C%C3%A1ceres,_Spain" title="Cáceres, Spain">Cáceres</a></li>
+<li><a href="/wiki/C%C3%A1diz" title="Cádiz">Cádiz</a></li>
+<li><a href="/wiki/Castell%C3%B3n_de_la_Plana" title="Castellón de la Plana">Castellón de la Plana</a></li>
+<li><a href="/wiki/Ciudad_Real" title="Ciudad Real">Ciudad Real</a></li>
+<li><a href="/wiki/C%C3%B3rdoba,_Spain" title="Córdoba, Spain">Córdoba</a></li>
+<li><a href="/wiki/Cuenca,_Spain" title="Cuenca, Spain">Cuenca</a></li>
+<li><a href="/wiki/San_Sebasti%C3%A1n" title="San Sebastián">Donostia-San Sebastián</a></li>
+<li><a href="/wiki/Girona" title="Girona">Girona</a></li>
+<li><a href="/wiki/Granada" title="Granada">Granada</a></li>
+<li><a href="/wiki/Guadalajara,_Castilla%E2%80%93La_Mancha" class="mw-redirect" title="Guadalajara, Castilla–La Mancha">Guadalajara</a></li>
+<li><a href="/wiki/Huelva" title="Huelva">Huelva</a></li>
+<li><a href="/wiki/Huesca" title="Huesca">Huesca</a></li>
+<li><a href="/wiki/Ja%C3%A9n,_Spain" title="Jaén, Spain">Jaén</a></li>
+<li><a class="mw-selflink selflink">Logroño</a></li>
+<li><a href="/wiki/Las_Palmas" title="Las Palmas">Las Palmas</a></li>
+<li><a href="/wiki/Le%C3%B3n,_Spain" title="León, Spain">León</a></li>
+<li><a href="/wiki/Lleida" title="Lleida">Lleida</a></li>
+<li><a href="/wiki/Lugo" title="Lugo">Lugo</a></li>
+<li><a href="/wiki/Madrid" title="Madrid">Madrid</a></li>
+<li><a href="/wiki/M%C3%A1laga" title="Málaga">Málaga</a></li>
+<li><a href="/wiki/Murcia" title="Murcia">Murcia</a></li>
+<li><a href="/wiki/Ourense" title="Ourense">Ourense</a></li>
+<li><a href="/wiki/Oviedo" title="Oviedo">Oviedo</a></li>
+<li><a href="/wiki/Palencia" title="Palencia">Palencia</a></li>
+<li><a href="/wiki/Palma_de_Mallorca" title="Palma de Mallorca">Palma</a></li>
+<li><a href="/wiki/Pamplona" title="Pamplona">Pamplona</a></li>
+<li><a href="/wiki/Pontevedra" title="Pontevedra">Pontevedra</a></li>
+<li><a href="/wiki/Salamanca" title="Salamanca">Salamanca</a></li>
+<li><a href="/wiki/Santander,_Spain" title="Santander, Spain">Santander</a></li>
+<li><a href="/wiki/Santa_Cruz_de_Tenerife" title="Santa Cruz de Tenerife">Santa Cruz</a></li>
+<li><a href="/wiki/Segovia" title="Segovia">Segovia</a></li>
+<li><a href="/wiki/Seville" title="Seville">Seville</a></li>
+<li><a href="/wiki/Soria" title="Soria">Soria</a></li>
+<li><a href="/wiki/Tarragona" title="Tarragona">Tarragona</a></li>
+<li><a href="/wiki/Teruel" title="Teruel">Teruel</a></li>
+<li><a href="/wiki/Toledo,_Spain" title="Toledo, Spain">Toledo</a></li>
+<li><a href="/wiki/Valencia" title="Valencia">Valencia</a></li>
+<li><a href="/wiki/Valladolid" title="Valladolid">Valladolid</a></li>
+<li><a href="/wiki/Vitoria-Gasteiz" title="Vitoria-Gasteiz">Vitoria-Gasteiz</a></li>
+<li><a href="/wiki/Zamora,_Spain" title="Zamora, Spain">Zamora</a></li>
+<li><a href="/wiki/Zaragoza" title="Zaragoza">Zaragoza</a></li></ul>
+</div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Flag_of_Spain.svg" class="image" title="Flag of Spain"><img alt="Flag of Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/50px-Flag_of_Spain.svg.png" decoding="async" width="50" height="33" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/75px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/100px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Capitals_of_autonomous_communities_of_Spain" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Autonomous_Community_capitals_of_Spain" title="Template:Autonomous Community capitals of Spain"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Autonomous_Community_capitals_of_Spain" title="Template talk:Autonomous Community capitals of Spain"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Autonomous_Community_capitals_of_Spain&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Capitals_of_autonomous_communities_of_Spain" style="font-size:114%;margin:0 4em">Capitals of <a href="/wiki/Autonomous_communities_of_Spain" title="Autonomous communities of Spain">autonomous communities</a> of <a href="/wiki/Spain" title="Spain">Spain</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Seville" title="Seville">Seville</a>
+<ul><li><a href="/wiki/Andalusia" title="Andalusia">Andalusia</a></li></ul></li>
+<li><a href="/wiki/Zaragoza" title="Zaragoza">Zaragoza</a>
+<ul><li><a href="/wiki/Aragon" title="Aragon">Aragon</a></li></ul></li>
+<li><a href="/wiki/Oviedo" title="Oviedo">Oviedo</a>
+<ul><li><a href="/wiki/Asturias" title="Asturias">Asturias</a></li></ul></li>
+<li><a href="/wiki/Palma_de_Mallorca" title="Palma de Mallorca">Palma</a>
+<ul><li><a href="/wiki/Balearic_Islands" title="Balearic Islands">Balearic Islands</a></li></ul></li>
+<li><a href="/wiki/Vitoria-Gasteiz" title="Vitoria-Gasteiz">Vitoria-Gasteiz</a>
+<ul><li><a href="/wiki/Basque_Country_(autonomous_community)" title="Basque Country (autonomous community)">Basque Country</a></li></ul></li>
+<li><a href="/wiki/Santa_Cruz_de_Tenerife" title="Santa Cruz de Tenerife">Santa Cruz</a> &amp; <a href="/wiki/Las_Palmas" title="Las Palmas">Las Palmas</a>
+<ul><li><a href="/wiki/Canary_Islands" title="Canary Islands">Canary Islands</a></li></ul></li>
+<li><a href="/wiki/Santander,_Spain" title="Santander, Spain">Santander</a>
+<ul><li><a href="/wiki/Cantabria" title="Cantabria">Cantabria</a></li></ul></li></ul>
+<ul><li><a href="/wiki/Toledo,_Spain" title="Toledo, Spain">Toledo</a>
+<ul><li><a href="/wiki/Castilla%E2%80%93La_Mancha" title="Castilla–La Mancha">Castilla–La Mancha</a></li></ul></li>
+<li><a href="/wiki/Valladolid" title="Valladolid">Valladolid</a>
+<ul><li><i>de facto</i>, <a href="/wiki/Castile_and_Le%C3%B3n" title="Castile and León">Castile and León</a></li></ul></li>
+<li><a href="/wiki/Barcelona" title="Barcelona">Barcelona</a>
+<ul><li><a href="/wiki/Catalonia" title="Catalonia">Catalonia</a></li></ul></li>
+<li><a href="/wiki/M%C3%A9rida,_Spain" title="Mérida, Spain">Mérida</a>
+<ul><li><a href="/wiki/Extremadura" title="Extremadura">Extremadura</a></li></ul></li>
+<li><a href="/wiki/Santiago_de_Compostela" title="Santiago de Compostela">Santiago de Compostela</a>
+<ul><li><a href="/wiki/Galicia_(Spain)" title="Galicia (Spain)">Galicia</a></li></ul></li>
+<li><a class="mw-selflink selflink">Logroño</a>
+<ul><li><a href="/wiki/La_Rioja_(Spain)" title="La Rioja (Spain)">La Rioja</a></li></ul></li></ul>
+<ul><li><a href="/wiki/Madrid" title="Madrid">Madrid</a>
+<ul><li><a href="/wiki/Community_of_Madrid" title="Community of Madrid">Community of Madrid</a></li></ul></li>
+<li><a href="/wiki/Murcia" title="Murcia">Murcia</a>
+<ul><li><a href="/wiki/Region_of_Murcia" title="Region of Murcia">Region of Murcia</a></li></ul></li>
+<li><a href="/wiki/Pamplona" title="Pamplona">Pamplona</a>
+<ul><li><a href="/wiki/Navarre" title="Navarre">Navarre</a></li></ul></li>
+<li><a href="/wiki/Valencia" title="Valencia">Valencia</a>
+<ul><li><a href="/wiki/Valencian_Community" title="Valencian Community">Valencian Community</a></li></ul></li>
+<li><a href="/wiki/Ceuta" title="Ceuta">Ceuta</a><sup><small>1</small></sup></li>
+<li><a href="/wiki/Melilla" title="Melilla">Melilla</a><sup><small>1</small></sup></li></ul>
+</div></td><td class="navbox-image" rowspan="1" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Flag_of_Spain.svg" class="image" title="Flag of Spain"><img alt="Flag of Spain" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/50px-Flag_of_Spain.svg.png" decoding="async" width="50" height="33" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/75px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/100px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></a></div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div><sup><small>1</small></sup> Autonomous cities</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20190926093507
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.296 seconds
+Real time usage: 1.740 seconds
+Preprocessor visited node count: 8533/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 178143/2097152 bytes
+Template argument size: 21835/2097152 bytes
+Highest expansion depth: 26/40
+Expensive parser function count: 12/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 50884/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.668/10.000 seconds
+Lua memory usage: 20.15 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1487.134      1 -total
+ 47.07%  700.018      1 Template:Infobox_settlement
+ 41.68%  619.801      1 Template:Infobox
+ 15.70%  233.520      6 Template:Wikidata
+ 14.78%  219.762      3 Template:Spain_metadata_Wikidata
+ 12.88%  191.486      2 Template:Lang-es
+  8.96%  133.232      9 Template:Both
+  8.69%  129.276      1 Template:Reflist
+  8.53%  126.785      1 Template:Coord
+  6.93%  103.039     14 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:300052-0!canonical and timestamp 20190926093505 and revision id 917132070
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Logroño&amp;oldid=917132070">https://en.wikipedia.org/w/index.php?title=Logroño&amp;oldid=917132070</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Municipalities_in_La_Rioja_(Spain)" title="Category:Municipalities in La Rioja (Spain)">Municipalities in La Rioja (Spain)</a></li><li><a href="/wiki/Category:Logro%C3%B1o" title="Category:Logroño">Logroño</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:CS1_Spanish-language_sources_(es)" title="Category:CS1 Spanish-language sources (es)">CS1 Spanish-language sources (es)</a></li><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_September_2012" title="Category:Articles to be expanded from September 2012">Articles to be expanded from September 2012</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_needing_translation_from_Spanish_Wikipedia" title="Category:Articles needing translation from Spanish Wikipedia">Articles needing translation from Spanish Wikipedia</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Articles_with_hAudio_microformats" title="Category:Articles with hAudio microformats">Articles with hAudio microformats</a></li><li><a href="/wiki/Category:Articles_containing_Spanish-language_text" title="Category:Articles containing Spanish-language text">Articles containing Spanish-language text</a></li><li><a href="/wiki/Category:All_accuracy_disputes" title="Category:All accuracy disputes">All accuracy disputes</a></li><li><a href="/wiki/Category:Articles_with_disputed_statements_from_December_2015" title="Category:Articles with disputed statements from December 2015">Articles with disputed statements from December 2015</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2019" title="Category:Articles with unsourced statements from March 2019">Articles with unsourced statements from March 2019</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_January_2010" title="Category:Articles to be expanded from January 2010">Articles to be expanded from January 2010</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:Articles_with_Spanish-language_external_links" title="Category:Articles with Spanish-language external links">Articles with Spanish-language external links</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Logro%C3%B1o" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Logro%C3%B1o" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Logro%C3%B1o" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Logro%C3%B1o" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Logro%C3%B1o">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Logro%C3%B1o&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Logro%C3%B1o" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Logro%C3%B1o" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Logro%C3%B1o&amp;oldid=917132070" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Logro%C3%B1o&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14325" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Logro%C3%B1o&amp;id=917132070" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Logro%C3%B1o" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage badge-Q17437798 badge-goodarticle" title="good article"><a href="https://en.wikivoyage.org/wiki/Logro%C3%B1o" hreflang="en">Wikivoyage</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Logro%C3%B1o">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Logro%C3%B1o&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Logro%C3%B1o&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%84%D9%88%D8%BA%D8%B1%D9%88%D9%86%D9%8A%D9%88" title="لوغرونيو – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Logronyo" title="Logronyo – Aragonese" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%84%D9%82%D8%B1%D9%86%DB%8C%D9%88" title="لقرنیو – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B3%D1%80%D0%BE%D0%BD%D1%8C%D1%8F" title="Лагронья – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%9B%D1%8F%D0%B3%D1%80%D0%BE%D0%BD%D1%8C%D0%BD%D1%91" title="Лягроньнё – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D1%80%D0%BE%D0%BD%D1%8C%D0%BE" title="Логроньо – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Logronyo" title="Logronyo – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Logro%C3%B1o_(kapital_sa_rehiyon)" title="Logroño (kapital sa rehiyon) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9B%CE%BF%CE%B3%CF%81%CF%8C%CE%BD%CE%B9%CE%BF" title="Λογρόνιο – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Logronjo" title="Logronjo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-ext"><a href="https://ext.wikipedia.org/wiki/Logro%C3%B1u" title="Logroñu – Extremaduran" lang="ext" hreflang="ext" class="interlanguage-link-target">Estremeñu</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%84%DA%AF%D8%B1%D9%86%DB%8C%D9%88" title="لگرنیو – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gd"><a href="https://gd.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Scottish Gaelic" lang="gd" hreflang="gd" class="interlanguage-link-target">Gàidhlig</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%A1%9C%EA%B7%B8%EB%A1%9C%EB%87%A8" title="로그로뇨 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%BC%D5%B8%D5%A3%D6%80%D5%B8%D5%B6%D5%B5%D5%B8" title="Լոգրոնյո – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9C%D7%95%D7%92%D7%A8%D7%95%D7%A0%D7%99%D7%95" title="לוגרוניו – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Javanese" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Lucronium" title="Lucronium – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Logronjo" title="Logronjo – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Logronjas" title="Logronjas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Logro%C3%B1o_(Spanyolorsz%C3%A1g)" title="Logroño (Spanyolország) – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%B2%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A5%8B" title="लोग्रोन्यो – Marathi" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Logro%C3%B1o_(gemeente)" title="Logroño (gemeente) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%8B%E3%83%A7" title="ログローニョ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Logronh" title="Logronh – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%84%D9%88%DA%AF%D8%B1%D9%88%D9%86%D9%88" title="لوگرونو – Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Quechua" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D1%80%D0%BE%D0%BD%D1%8C%D0%BE" title="Логроньо – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sa"><a href="https://sa.wikipedia.org/wiki/%E0%A4%B2%E0%A5%8B%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%82%E0%A4%AF%E0%A5%8B" title="लोग्रोंयो – Sanskrit" lang="sa" hreflang="sa" class="interlanguage-link-target">संस्कृतम्</a></li><li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Sardinian" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D1%80%D0%BE%D1%9A%D0%BE" title="Логроњо – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-kab"><a href="https://kab.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target">Taqbaylit</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D1%80%D0%BE%D0%BD%D1%8C%D0%BE" title="Логроньо – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%A5%E0%B8%81%E0%B8%A3%E0%B8%AD%E0%B8%8D%E0%B9%82%E0%B8%8D" title="โลกรอญโญ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B3%D1%80%D0%BE%D0%BD%D1%8C%D0%BE" title="Логроньо – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%84%D9%88%DA%AF%D8%B1%D9%88%D9%86%D9%88" title="لوگرونو – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Logro%C3%B1o" title="Logroño – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%B4%9B%E6%A0%BC%E7%BE%85%E5%B0%BC%E5%A5%A7" title="洛格羅尼奧 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E6%B4%9B%E6%A0%BC%E7%BD%97%E5%B0%BC%E5%A5%A5" title="洛格罗尼奥 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q14325#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 September 2019, at 11:54<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Logro%C3%B1o&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.296","walltime":"1.740","ppvisitednodes":{"value":8533,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":178143,"limit":2097152},"templateargumentsize":{"value":21835,"limit":2097152},"expansiondepth":{"value":26,"limit":40},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":50884,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1487.134      1 -total"," 47.07%  700.018      1 Template:Infobox_settlement"," 41.68%  619.801      1 Template:Infobox"," 15.70%  233.520      6 Template:Wikidata"," 14.78%  219.762      3 Template:Spain_metadata_Wikidata"," 12.88%  191.486      2 Template:Lang-es","  8.96%  133.232      9 Template:Both","  8.69%  129.276      1 Template:Reflist","  8.53%  126.785      1 Template:Coord","  6.93%  103.039     14 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.668","limit":"10.000"},"limitreport-memusage":{"value":21132766,"limit":52428800},"limitreport-logs":"1 1 National Statistics Institute\n1 1 National Statistics Institute\n"},"cachereport":{"origin":"mw1274","timestamp":"20190926093507","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Logro\u00f1o","url":"https:\/\/en.wikipedia.org\/wiki\/Logro%C3%B1o","sameAs":"http:\/\/www.wikidata.org\/entity\/Q14325","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q14325","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-08-19T20:01:47Z","dateModified":"2019-09-22T11:54:24Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/df\/Fa%C3%A7ade_of_Santa_Mar%C3%ADa_de_la_Redonda_in_Logro%C3%B1o.jpg","headline":"municipality in Spain"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":136,"wgHostname":"mw1251"});});</script>
+</body>
+</html>
+

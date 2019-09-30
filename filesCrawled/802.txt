@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>David Brown Ltd. - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"David_Brown_Ltd.","wgTitle":"David Brown Ltd.","wgCurRevisionId":914269682,"wgRevisionId":914269682,"wgArticleId":542941,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Use British English from June 2013","Use dmy dates from January 2017","Commons category link is on Wikidata","Aston Martin","Tractor manufacturers of the United Kingdom","Engineering companies of the United Kingdom","Companies based in Huddersfield","Manufacturing companies established in 1860","1860 establishments in England","1998 mergers and acquisitions","2008 mergers and acquisitions","2016 mergers and acquisitions"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],
+"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"David_Brown_Ltd.","wgRelevantArticleId":542941,"wgRequestId":"XYvWswpAMEoAAHolIe0AAAAO","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"David_Brown_Limited","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":
+"wikipedia","wgInternalRedirectTargetUrl":"/wiki/David_Brown_Ltd.","wgWikibaseItemId":"Q1173846","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse",
+"ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d3/David_Browns_Park_Works_-_geograph.org.uk_-_35781.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/David_Brown_Ltd."/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/David_Brown_Ltd."/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-David_Brown_Ltd rootpage-David_Brown_Ltd skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">David Brown Ltd.</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=David_Brown_Limited&amp;redirect=no" class="mw-redirect" title="David Brown Limited">David Brown Limited</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">English engineering company</div>
+<p class="mw-empty-elt">
+
+</p>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">David Brown Holdings Limited</caption><tbody><tr><th scope="row" style="padding-right:0.5em;">Fate</th><td style="line-height:1.35em;">purchased by <a href="/wiki/Textron" title="Textron">Textron</a> 1998</td></tr><tr><th scope="row" style="padding-right:0.5em;"><a href="/wiki/Subsidiary" title="Subsidiary">Subsidiaries</a></th><td style="line-height:1.35em;"><div class="plainlist"><ul><li><a href="/wiki/John_I._Thornycroft_%26_Company" title="John I. Thornycroft &amp; Company">Vosper Thorneycroft</a> (nationalised 1977)</li></ul></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:David_Browns_Park_Works_-_geograph.org.uk_-_35781.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/David_Browns_Park_Works_-_geograph.org.uk_-_35781.jpg/220px-David_Browns_Park_Works_-_geograph.org.uk_-_35781.jpg" decoding="async" width="220" height="183" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/David_Browns_Park_Works_-_geograph.org.uk_-_35781.jpg/330px-David_Browns_Park_Works_-_geograph.org.uk_-_35781.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d3/David_Browns_Park_Works_-_geograph.org.uk_-_35781.jpg/440px-David_Browns_Park_Works_-_geograph.org.uk_-_35781.jpg 2x" data-file-width="640" data-file-height="532" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:David_Browns_Park_Works_-_geograph.org.uk_-_35781.jpg" class="internal" title="Enlarge"></a></div>David Brown Gears<br />Park Works Huddersfield 2005</div></div></div>
+<div role="note" class="hatnote navigation-not-searchable">For others of a similar name, see <a href="/wiki/David_Brown_(disambiguation)" class="mw-redirect mw-disambig" title="David Brown (disambiguation)">David Brown</a>.</div>
+<p><b>David Brown Engineering Limited</b> is an English engineering company, principally engaged in the manufacture of <a href="/wiki/Gear" title="Gear">gears</a> and <a href="/wiki/Transmission_(mechanics)" title="Transmission (mechanics)">gearboxes</a>. Their major gear manufacturing plant is in Swan Lane, <a href="/wiki/Lockwood,_West_Yorkshire" class="mw-redirect" title="Lockwood, West Yorkshire">Lockwood</a>, <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, adjacent to <a href="/wiki/Lockwood_railway_station" title="Lockwood railway station">Lockwood railway station</a>. It is named after the company's founder, David Brown, though it is more closely associated with his grandson, <a href="/wiki/David_Brown_(entrepreneur)" title="David Brown (entrepreneur)">Sir David Brown</a> (1904–1993).
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#David_Brown"><span class="tocnumber">1.1</span> <span class="toctext">David Brown</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#David_Brown_&amp;_Sons,_Huddersfield_(the_Huddersfield_group)"><span class="tocnumber">1.2</span> <span class="toctext">David Brown &amp; Sons, Huddersfield (the Huddersfield group)</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#David_Brown_Tractors_Group"><span class="tocnumber">1.3</span> <span class="toctext">David Brown Tractors Group</span></a>
+<ul>
+<li class="toclevel-3 tocsection-5"><a href="#Tractor_Group&#39;s_Lagonda_and_Aston_Martin"><span class="tocnumber">1.3.1</span> <span class="toctext">Tractor Group's Lagonda and Aston Martin</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#Sale_of_David_Brown_Tractors_to_Case_1972"><span class="tocnumber">1.4</span> <span class="toctext">Sale of David Brown Tractors to Case 1972</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Sale_by_David_Brown_family_–_management_buyout_1990"><span class="tocnumber">1.5</span> <span class="toctext">Sale by David Brown family – management buyout 1990</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Sale_by_Textron_2008"><span class="tocnumber">1.6</span> <span class="toctext">Sale by Textron 2008</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Products"><span class="tocnumber">2</span> <span class="toctext">Products</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Transmission_systems"><span class="tocnumber">2.1</span> <span class="toctext">Transmission systems</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#David_Brown_tractor_range"><span class="tocnumber">2.2</span> <span class="toctext">David Brown tractor range</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="David_Brown">David Brown</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit&amp;section=2" title="Edit section: David Brown">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Founded in 1860 as a pattern manufacturing company by 1873 David Brown had begun to concentrate on gear systems and by 1898 was specialising in machine-cut gears. 
+</p><p>The company moved in 1902 to Park Works at Huddersfield, where the firm is based today. 
+</p>
+<h3><span id="David_Brown_.26_Sons.2C_Huddersfield_.28the_Huddersfield_group.29"></span><span class="mw-headline" id="David_Brown_&amp;_Sons,_Huddersfield_(the_Huddersfield_group)">David Brown &amp; Sons, Huddersfield (the Huddersfield group)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit&amp;section=3" title="Edit section: David Brown &amp; Sons, Huddersfield (the Huddersfield group)">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>When David Brown died in 1903, his sons Percy and Frank took over and began the manufacture of gears, complete gear units, gear cutting machines, tools and equipment, bearings and shafts and worm drive gears. Its foundry makes steel and non-ferrous castings.
+Including motor vehicles, aircraft, ships as well as a wide range of British industry.<sup id="cite_ref-TT51947_1-0" class="reference"><a href="#cite_note-TT51947-1">&#91;1&#93;</a></sup>
+</p><p>In 1951 the Huddersfield and Tractor groups freehold land and buildings at Huddersfield, Penistone and Meltham were on sites covering about  150 acres. Another 260,000 square feet of floor space were held under lease.<sup id="cite_ref-TT51947_1-1" class="reference"><a href="#cite_note-TT51947-1">&#91;1&#93;</a></sup>
+</p><p>Gearing manufactured by David Brown Ltd. and powered by electric motors manufactured by Brook Crompton (Electric) Motors, whose factory was in <a href="/wiki/Brockholes" title="Brockholes">Brockholes</a> are used to rotate the top of the <a href="/wiki/BT_Tower" title="BT Tower">BT Tower</a> in London.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>From 1908 to 1915 David Brown and Sons designed and developed and made the <a href="/wiki/Valveless" title="Valveless">Valveless</a> car under engineer Frederick Tasker Burgess (1879-1929) later chief engineer at <a href="/wiki/Humber" title="Humber">Humber</a> and later still one of the team that developed the first <a href="/wiki/Bentley_3_Litre" title="Bentley 3 Litre">3-litre Bentley</a> engine.
+</p><p>In 1913 they established a joint venture in America with <a href="/wiki/Timken_Company" title="Timken Company">Timken</a> for Radicon worm drive units. By the end of <a href="/wiki/World_War_I" title="World War I">World War I</a> the workforce had increased from 200 to 1000 as they started building propulsion units for warships, and drive mechanisms for armaments. By 1921 the company was the largest worm gear manufacturer in the world.<sup id="cite_ref-davidbrown.com_history_3-0" class="reference"><a href="#cite_note-davidbrown.com_history-3">&#91;3&#93;</a></sup>
+</p><p>In 1930 the company took over P.R. Jackson Ltd, another local firm of gear manufacturers and steel founders. Percy's eldest son (Sir David Brown) became managing director in 1931 following Percy's death in June that year. W S Roe was appointed joint managing director with David but he died in April 1933. Percy was appointed chairman. The firm formed another overseas joint venture with Richardson Gears (Pty) Ltd of Footscray, <a href="/wiki/Victoria_(Australia)" title="Victoria (Australia)">Victoria</a>, Australia in 1934. In 1934 the company moved into an old Silk Mill on a site at <a href="/wiki/Meltham" title="Meltham">Meltham</a>, on the south side of Huddersfield. Brown started building tractors with <a href="/wiki/Harry_Ferguson" title="Harry Ferguson">Harry Ferguson</a> there in 1936. 
+</p><p>The company obtained a patent for a tank transmission using controlled differential steering system, known as the <b>Merritt-Brown</b> system, devised by Dr. H. E. Merritt, Director of Tank Design at <a href="/wiki/Royal_Arsenal" title="Royal Arsenal">Woolwich Arsenal</a>, in 1935.<sup id="cite_ref-davidbrown.com_history_3-1" class="reference"><a href="#cite_note-davidbrown.com_history-3">&#91;3&#93;</a></sup> The first vehicle to use this system was the <a href="/wiki/Churchill_tank" title="Churchill tank">Churchill tank</a>, and it was subsequently used on the <a href="/wiki/Centurion_tank" class="mw-redirect" title="Centurion tank">Centurion tank</a> and the <a href="/wiki/Conqueror_tank" class="mw-redirect" title="Conqueror tank">Conqueror tank</a>, as well as the <a href="/wiki/Tortoise_heavy_assault_tank" title="Tortoise heavy assault tank">Tortoise heavy tank</a>.
+</p>
+<h3><span class="mw-headline" id="David_Brown_Tractors_Group">David Brown Tractors Group</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit&amp;section=4" title="Edit section: David Brown Tractors Group">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:David_Brown_Tractors,_Meltham_Mills_(RLH).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/David_Brown_Tractors%2C_Meltham_Mills_%28RLH%29.jpg/220px-David_Brown_Tractors%2C_Meltham_Mills_%28RLH%29.jpg" decoding="async" width="220" height="117" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/David_Brown_Tractors%2C_Meltham_Mills_%28RLH%29.jpg/330px-David_Brown_Tractors%2C_Meltham_Mills_%28RLH%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/David_Brown_Tractors%2C_Meltham_Mills_%28RLH%29.jpg/440px-David_Brown_Tractors%2C_Meltham_Mills_%28RLH%29.jpg 2x" data-file-width="1480" data-file-height="789" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:David_Brown_Tractors,_Meltham_Mills_(RLH).jpg" class="internal" title="Enlarge"></a></div>David Brown Tractor Factory Meltham Mills 1981</div></div></div>
+<p>Personally controlled since its inception by David Brown  (1904–1993) the first venture into tractor production was in a joint project with <a href="/wiki/Harry_Ferguson" title="Harry Ferguson">Harry Ferguson</a> in 1936 building the <b>Ferguson-Brown</b> tractor. David Brown became one of the biggest British tractor manufactures in the post war period, with a major manufacturing plant at Meltham, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a> England. The company broke new ground which others were only to follow later, but being a pioneering company ultimately led to its downfall. The Ferguson-Brown had many innovative features, including the use of cast alloy for many the components, which was light but prone to damage. The Ferguson-Brown used a <a href="/wiki/Coventry_Climax" title="Coventry Climax">Coventry Climax</a> engine for the first 350 tractors. Browns developed their own engine which was fitted to subsequent production. Total production was 1350 + 1 built from parts in 1940 after production finished.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:1971_David_Brown_990.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/1971_David_Brown_990.jpg/220px-1971_David_Brown_990.jpg" decoding="async" width="220" height="202" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/1971_David_Brown_990.jpg/330px-1971_David_Brown_990.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/1971_David_Brown_990.jpg/440px-1971_David_Brown_990.jpg 2x" data-file-width="3679" data-file-height="3383" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:1971_David_Brown_990.jpg" class="internal" title="Enlarge"></a></div>1971 David Brown 990 tractor</div></div></div>
+<p>Brown and Ferguson disagreed over tractor design details in the late 30s, which led David Brown to design his own version, the <i>VAK1</i>, in secret. This was launched at the 1939 Royal Show.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Ferguson split away from Brown and joined up with <a href="/wiki/Henry_Ford" title="Henry Ford">Henry Ford</a> in 1938, after a 'handshake' agreement, to allow his 'Ferguson System' <a href="/wiki/Three-point_hitch" title="Three-point hitch">three-point linkage</a> to be used on the <a href="/wiki/Ford_N_Series_Tractors" class="mw-redirect" title="Ford N Series Tractors">Fordson N</a> tractors. That agreement was eventually terminated by Ford's grandson in 1947 and Ferguson again split away to form <a href="/w/index.php?title=Ferguson_Tractor&amp;action=edit&amp;redlink=1" class="new" title="Ferguson Tractor (page does not exist)">Ferguson Tractors</a> in 1948.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p><p>During the <a href="/wiki/Second_World_War" class="mw-redirect" title="Second World War">Second World War</a> Brown's new heavier tractor, the VAK1, was produced, with over 7,700 units eventually sold, making Brown a wealthy man. It is said the David Brown Tractor is the only one to be built onto a sturdy cast iron chassis where other makers bolt components together to form a chassis-less construction which is weaker. Brown also built aircraft tugs (VIG) for the <a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a> and for pulling the bomb trolleys used to re-arm aircraft. These tugs are distinctive, with truck like tyres, wrap round body work and HD bumpers front and rear, some being fitted with winches. In 1942 Brown started building a tracklayer version, the DB4. The DB4 was built for the army engineers and solved some of the problems found with the VTK, and got round an embargo on imported machines for military use. It was powered by a 38 h.p. <a href="/wiki/W.H.Dorman_%26_Co" title="W.H.Dorman &amp; Co">Dorman</a> diesel and a five speed gearbox. The DB4 was replaced in 1950 by the Trackmaster 30.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:38.5px auto;"><a href="/wiki/File:1952-1953_David_Brown_Trackmaster_30T_Cut-away.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/1952-1953_David_Brown_Trackmaster_30T_Cut-away.JPG/120px-1952-1953_David_Brown_Trackmaster_30T_Cut-away.JPG" decoding="async" width="120" height="73" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/1952-1953_David_Brown_Trackmaster_30T_Cut-away.JPG/180px-1952-1953_David_Brown_Trackmaster_30T_Cut-away.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/1952-1953_David_Brown_Trackmaster_30T_Cut-away.JPG/240px-1952-1953_David_Brown_Trackmaster_30T_Cut-away.JPG 2x" data-file-width="3484" data-file-height="2118" /></a></div></div>
+			<div class="gallerytext">
+<p>Side view of a cut away display of a 1953 30T Trackmaster
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:19px auto;"><a href="/wiki/File:1952-1953_David_Brown_Trackmaster_30T.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1952-1953_David_Brown_Trackmaster_30T.JPG/120px-1952-1953_David_Brown_Trackmaster_30T.JPG" decoding="async" width="120" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1952-1953_David_Brown_Trackmaster_30T.JPG/180px-1952-1953_David_Brown_Trackmaster_30T.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/1952-1953_David_Brown_Trackmaster_30T.JPG/240px-1952-1953_David_Brown_Trackmaster_30T.JPG 2x" data-file-width="2727" data-file-height="2552" /></a></div></div>
+			<div class="gallerytext">
+<p>Rear view of a cut away display of a 1953 30T Trackmaster
+</p>
+			</div>
+		</div></li>
+</ul>
+<p>The tractors division took over the Lancashire firm of Harrison, McGregor &amp; Guest Ltd, who produced the Albion brand of agricultural machinery to complement the tractor product line. After the takeover the company's badge was modified to incorporate the white rose of Yorkshire and the red rose of Lancashire. The Tractors division had ten subsidiaries around the world. At one stage 80% of production was exported. Sales were handled by 2,508 agents in 100 countries.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> A worldwide recession saw tractor sales slump, and after braving the storm and with the debt of a brand new building and production line to finance, it was inevitable that the company was put up for sale, bought by Tenneco who also owned ji case company, all hope to see the factory prosper was dashed when it was announced that survival was a competition between Huddersfield and the international Tractor plant in Doncaster, with the odds stacked in the latter's favour, especially with access to the motorway network on the doorstep. The Meltham factory ended production and a respected British name was erased.
+</p>
+<h4><span id="Tractor_Group.27s_Lagonda_and_Aston_Martin"></span><span class="mw-headline" id="Tractor_Group's_Lagonda_and_Aston_Martin">Tractor Group's Lagonda and Aston Martin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit&amp;section=5" title="Edit section: Tractor Group&#039;s Lagonda and Aston Martin">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In 1947, Brown saw a <a href="/wiki/Classified_advertisement" class="mw-redirect" title="Classified advertisement">classified advertisement</a> in <i><a href="/wiki/The_Times" title="The Times">The Times</a></i>, offering for sale a <i>High Class Motor Business</i>. Brown acquired <a href="/wiki/Aston_Martin" title="Aston Martin">Aston Martin</a> for £20,500 and, in the following year, <a href="/wiki/Lagonda" title="Lagonda">Lagonda</a> for £52,500, followed by the coachbuilder <a href="/wiki/Tickford" title="Tickford">Tickford</a> in 1955. He subsequently concentrated all the Aston Martin manufacturing at the Tickford premises in <a href="/wiki/Newport_Pagnell" title="Newport Pagnell">Newport Pagnell</a>. The <a href="/wiki/Aston_Martin#The_David_Brown_era" title="Aston Martin">David Brown years</a> saw production of the legendary DB series of Aston Martins, which were featured in some <a href="/wiki/James_Bond" title="James Bond">James Bond</a> films.  
+</p><p>David Brown also had connections with <a href="/wiki/Vosper_%26_Company" title="Vosper &amp; Company">Vosper</a> shipbuilding, and <a href="/w/index.php?title=Delapina&amp;action=edit&amp;redlink=1" class="new" title="Delapina (page does not exist)">Delapina</a> and <a href="/w/index.php?title=Radyne&amp;action=edit&amp;redlink=1" class="new" title="Radyne (page does not exist)">Radyne</a> machinery.
+</p><p>Both car companies were sold in 1972 to <a href="/w/index.php?title=Company_Developments_Limited&amp;action=edit&amp;redlink=1" class="new" title="Company Developments Limited (page does not exist)">Company Developments Limited</a>, when Aston Martin was in financial trouble, for a nominal £100.
+</p>
+<h3><span class="mw-headline" id="Sale_of_David_Brown_Tractors_to_Case_1972">Sale of David Brown Tractors to Case 1972</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit&amp;section=6" title="Edit section: Sale of David Brown Tractors to Case 1972">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1972 the tractor operations were sold to <a href="/wiki/Tenneco" title="Tenneco">Tenneco Inc.</a> of America, who owned the <a href="/wiki/Case_Corporation" title="Case Corporation">J.I. Case</a> tractor company. The sale was due to a combination of a reduction in the UK tractor market, increased product development costs, the need to meet new regulations on health and safety, and increased competition from imported machinery.  Case applied the David Brown name and branding to some of its own tractor models in the UK market until the early 1980s before abandoning it in favour of the Case IH brand.
+</p>
+<h3><span id="Sale_by_David_Brown_family_.E2.80.93_management_buyout_1990"></span><span class="mw-headline" id="Sale_by_David_Brown_family_–_management_buyout_1990">Sale by David Brown family – management buyout 1990</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit&amp;section=7" title="Edit section: Sale by David Brown family – management buyout 1990">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1990 the David Brown family disposed of its stake to the business's management. It then floated David Brown as a public company in 1993. David Brown was acquired by <a href="/wiki/Textron" title="Textron">Textron Inc.</a> in October 1998.  
+</p><p>This business, trading as David Brown Engineering Ltd and headquartered in Huddersfield, remains a supplier of heavy transmission systems for industrial, defense, railway and marine applications. These include transmissions for the British <a href="/wiki/Challenger_2_tank" class="mw-redirect" title="Challenger 2 tank">Challenger 2 tanks</a> and American <a href="/wiki/Bradley_Fighting_Vehicle" title="Bradley Fighting Vehicle">Bradley Fighting Vehicles</a>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> Railway transmissions are produced for their Chinese branch 'David Brown China', in a joint partnership called 'Jiangsu Shinri David Brown Gear Systems' at a factory in <a href="/wiki/Changzhou" title="Changzhou">Changzhou</a> near Shanghai.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Sale_by_Textron_2008">Sale by Textron 2008</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit&amp;section=8" title="Edit section: Sale by Textron 2008">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In September 2008 it was announced that David Brown Gear systems and associated companies, David Brown Hydraulics based in Poole in Dorset, Maag Pumps of Switzerland, and Union Pumps of the USA were to be sold to <a href="/wiki/Clyde_Blowers" class="mw-redirect" title="Clyde Blowers">Clyde Blowers</a> of Scotland – owned by entrepreneur <a href="/wiki/Jim_McColl" title="Jim McColl">Jim McColl</a> – in a £368&#160;million deal.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>in 2016 David Brown was merged with Santasalo to form <b>David Brown Santasalo</b>. The joint company remains in the hands of <a href="/wiki/Clyde_Blowers_Capital" title="Clyde Blowers Capital">Clyde Blowers Capital</a>.
+</p>
+<h2><span class="mw-headline" id="Products">Products</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit&amp;section=9" title="Edit section: Products">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Transmission_systems">Transmission systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit&amp;section=10" title="Edit section: Transmission systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h3><span class="mw-headline" id="David_Brown_tractor_range">David Brown tractor range</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit&amp;section=11" title="Edit section: David Brown tractor range">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:David_Brown_Light_Diesel_Tractor_Mk2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/David_Brown_Light_Diesel_Tractor_Mk2.jpg/220px-David_Brown_Light_Diesel_Tractor_Mk2.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/David_Brown_Light_Diesel_Tractor_Mk2.jpg/330px-David_Brown_Light_Diesel_Tractor_Mk2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/David_Brown_Light_Diesel_Tractor_Mk2.jpg/440px-David_Brown_Light_Diesel_Tractor_Mk2.jpg 2x" data-file-width="3648" data-file-height="2736" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:David_Brown_Light_Diesel_Tractor_Mk2.jpg" class="internal" title="Enlarge"></a></div>David Brown light diesel tractor Mk2 at the RAF Museum, London</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:David_Brown_990_Implematic_Tractor.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/David_Brown_990_Implematic_Tractor.png/220px-David_Brown_990_Implematic_Tractor.png" decoding="async" width="220" height="206" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/David_Brown_990_Implematic_Tractor.png/330px-David_Brown_990_Implematic_Tractor.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/David_Brown_990_Implematic_Tractor.png/440px-David_Brown_990_Implematic_Tractor.png 2x" data-file-width="2042" data-file-height="1913" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:David_Brown_990_Implematic_Tractor.png" class="internal" title="Enlarge"></a></div>David Brown 990 Implematic Tractor Made in Meltham around 1964</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Antique_tractor,_Ireland.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Antique_tractor%2C_Ireland.jpg/220px-Antique_tractor%2C_Ireland.jpg" decoding="async" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Antique_tractor%2C_Ireland.jpg/330px-Antique_tractor%2C_Ireland.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Antique_tractor%2C_Ireland.jpg/440px-Antique_tractor%2C_Ireland.jpg 2x" data-file-width="2448" data-file-height="3264" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Antique_tractor,_Ireland.jpg" class="internal" title="Enlarge"></a></div>David Brown 996 Synchromesh tractor (1970s)</div></div></div>
+<ul><li>VAK1 – 1939–45</li>
+<li>VTK1 &amp; VIG1 – 1941–49</li>
+<li>VAK1A – 1945–47</li>
+<li>VAK1C Cropmaster – 1947–54</li>
+<li>DB4 – 1942–49 (110 built)</li>
+<li>Taskmaster – 1948–65</li>
+<li>50TD Trackmaster – 1950–63</li>
+<li>30TD Trackmaster – 1953–&#160;?</li>
+<li>DB25 &amp; DB30 – 1953–58</li>
+<li>VAD 50D – 1953–59</li>
+<li>900 series 1955–57</li>
+<li>VAD 12 2D – 1956–64 lightweight tool carrier</li>
+<li>950 Implematic series – 1958–61</li>
+<li>850 Implematic series – 1961–65</li>
+<li>750 Farmatic series – 19??-??</li>
+<li>880 Implematic series – 1961–65</li>
+<li>990 Implematic series – 1961–65</li>
+<li>770 Selectamatic series – 1965–70</li>
+<li>880 Selectamatic series – 1965–71</li>
+<li>990 Selectamatic series – 1965–71</li>
+<li>1200 Selectamatic series – 1967–71</li>
+<li>780 Selectamatic series – 1965–71</li>
+<li>1210 Manual Gearbox 1971–1979</li>
+<li>1212 Hydra-Shift 1971–1979</li>
+<li>885 Synchromesh 1971–1979</li>
+<li>990,995,996 Synchromesh 1971–1979</li>
+<li>1410 Manual Gearbox first turbo charged David Brown 1974–1979</li>
+<li>1412 Hydra-Shift first turbo charged David Brown 1974–1979</li>
+<li>1190 series – 1979–83</li>
+<li>1290 series – 1979–83</li>
+<li>1390 series – 1979–83</li>
+<li>1490 series – 1979–83</li>
+<li>1690 series – 1979–83</li>
+<li>1690 Turbo series – 1979–83</li>
+<li>1194 series – 1983–88</li>
+<li>1294 series – 1983–88</li>
+<li>1394 series – 1983–88</li>
+<li>1494 series – 1983–88</li>
+<li>1594 series – 1983–88</li>
+<li>1694 series – 1983–88</li></ul>
+<p><b>Export models</b>
+</p>
+<ul><li>775 Selectamatic German market</li>
+<li>3800 (780 petrol) American market</li>
+<li>4600 (880 petrol) American market</li>
+<li>Oliver 500–600 rebadged 850 and 950 American market</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Case_Corporation" title="Case Corporation">Case Corporation</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-TT51947-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-TT51947_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TT51947_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">The David Brown Corporation Limited. <i>The Times</i>, Monday, 12 March 1951; pg. 9; Issue 51947</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.brookcrompton.com/pages/history.htm">http://www.brookcrompton.com/pages/history.htm</a></span>
+</li>
+<li id="cite_note-davidbrown.com_history-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-davidbrown.com_history_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-davidbrown.com_history_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.davidbrown.com/history.php">http://www.davidbrown.com/history.php</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">David Brown Tractors 1936 to 1964, Alan Earnshaw, Nostalgia Road, <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-903016-02-9" title="Special:BookSources/1-903016-02-9">1-903016-02-9</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">David Brown Tractors 1965–1988, by Anthony L Heath, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-903016-03-7" title="Special:BookSources/1-903016-03-7">1-903016-03-7</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.livinghistoryfarm.org/farminginthe40s/machines_0204.html">livinghistoryfarm.org – Ford-Ferguson Tractors</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">David Brown Tractors 1936–1964, by Alan Earnshaw, p5, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-903016-02-9" title="Special:BookSources/1-903016-02-9">1-903016-02-9</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.davidbrown.com/history.php">David Brown Website – History</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/news/local-west-yorkshire-news/2010/04/30/david-brown-gear-systems-on-track-in-china-86081-26346335/">David Brown Gear Systems on track in China (30 April 2010)</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Classic Tractors, issue no. 92, December 2008</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:David_Brown_tractors" class="extiw" title="commons:Category:David Brown tractors">David Brown tractors</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.davidbrown.com">Power Transmission Products – David Brown</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.dbtc.co.uk/index.php?module=Content&amp;func=view&amp;pid=141">David Brown history</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130423001608/http://www.davidbrownireland.com/">The David Brown Ireland Forum</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.dbtc.co.uk/">The David Brown Tractor Club, Spinks Mill, Meltham</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20190925031815
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.248 seconds
+Real time usage: 0.398 seconds
+Preprocessor visited node count: 1714/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 10229/2097152 bytes
+Template argument size: 2313/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 11952/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.057/10.000 seconds
+Lua memory usage: 2.83 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  346.623      1 -total
+ 26.77%   92.775      1 Template:Reflist
+ 22.15%   76.772      3 Template:ISBN
+ 21.26%   73.697      1 Template:Infobox_company
+ 17.03%   59.030      1 Template:Infobox
+ 15.61%   54.093      1 Template:Short_description
+ 14.24%   49.343      1 Template:Commons_category
+ 13.87%   48.063      1 Template:Pagetype
+ 12.27%   42.534      3 Template:Catalog_lookup_link
+  8.87%   30.752      1 Template:Use_British_English
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:542941-0!canonical and timestamp 20190925031815 and revision id 914269682
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=David_Brown_Ltd.&amp;oldid=914269682">https://en.wikipedia.org/w/index.php?title=David_Brown_Ltd.&amp;oldid=914269682</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Aston_Martin" title="Category:Aston Martin">Aston Martin</a></li><li><a href="/wiki/Category:Tractor_manufacturers_of_the_United_Kingdom" title="Category:Tractor manufacturers of the United Kingdom">Tractor manufacturers of the United Kingdom</a></li><li><a href="/wiki/Category:Engineering_companies_of_the_United_Kingdom" title="Category:Engineering companies of the United Kingdom">Engineering companies of the United Kingdom</a></li><li><a href="/wiki/Category:Companies_based_in_Huddersfield" title="Category:Companies based in Huddersfield">Companies based in Huddersfield</a></li><li><a href="/wiki/Category:Manufacturing_companies_established_in_1860" title="Category:Manufacturing companies established in 1860">Manufacturing companies established in 1860</a></li><li><a href="/wiki/Category:1860_establishments_in_England" title="Category:1860 establishments in England">1860 establishments in England</a></li><li><a href="/wiki/Category:1998_mergers_and_acquisitions" title="Category:1998 mergers and acquisitions">1998 mergers and acquisitions</a></li><li><a href="/wiki/Category:2008_mergers_and_acquisitions" title="Category:2008 mergers and acquisitions">2008 mergers and acquisitions</a></li><li><a href="/wiki/Category:2016_mergers_and_acquisitions" title="Category:2016 mergers and acquisitions">2016 mergers and acquisitions</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_British_English_from_June_2013" title="Category:Use British English from June 2013">Use British English from June 2013</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_January_2017" title="Category:Use dmy dates from January 2017">Use dmy dates from January 2017</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=David+Brown+Ltd." title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=David+Brown+Ltd." title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/David_Brown_Ltd." title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:David_Brown_Ltd." rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/David_Brown_Ltd.">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/David_Brown_Ltd." title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/David_Brown_Ltd." rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=David_Brown_Ltd.&amp;oldid=914269682" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=David_Brown_Ltd.&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1173846" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=David_Brown_Ltd.&amp;id=914269682" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:David_Brown_tractors" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=David+Brown+Ltd.">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=David+Brown+Ltd.&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=David_Brown_Ltd.&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/David_Brown_(Unternehmen)" title="David Brown (Unternehmen) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/David_Brown_Limited" title="David Brown Limited – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/David_Brown_(azienda)" title="David Brown (azienda) – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/David_Brown_Engineering_Limited" title="David Brown Engineering Limited – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/David_Brown_Ltd." title="David Brown Ltd. – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/David_Brown_(traktori)" title="David Brown (traktori) – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/David_Brown_Ltd." title="David Brown Ltd. – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1173846#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 September 2019, at 08:07<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=David_Brown_Ltd.&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.398","ppvisitednodes":{"value":1714,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":10229,"limit":2097152},"templateargumentsize":{"value":2313,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11952,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  346.623      1 -total"," 26.77%   92.775      1 Template:Reflist"," 22.15%   76.772      3 Template:ISBN"," 21.26%   73.697      1 Template:Infobox_company"," 17.03%   59.030      1 Template:Infobox"," 15.61%   54.093      1 Template:Short_description"," 14.24%   49.343      1 Template:Commons_category"," 13.87%   48.063      1 Template:Pagetype"," 12.27%   42.534      3 Template:Catalog_lookup_link","  8.87%   30.752      1 Template:Use_British_English"]},"scribunto":{"limitreport-timeusage":{"value":"0.057","limit":"10.000"},"limitreport-memusage":{"value":2970834,"limit":52428800}},"cachereport":{"origin":"mw1319","timestamp":"20190925031815","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"David Brown Ltd.","url":"https:\/\/en.wikipedia.org\/wiki\/David_Brown_Ltd.","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1173846","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1173846","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-21T23:59:12Z","dateModified":"2019-09-06T08:07:25Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d3\/David_Browns_Park_Works_-_geograph.org.uk_-_35781.jpg","headline":"organization"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1239"});});</script>
+</body>
+</html>
+

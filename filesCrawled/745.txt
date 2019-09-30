@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Huddersfield Grammar School - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Huddersfield_Grammar_School","wgTitle":"Huddersfield Grammar School","wgCurRevisionId":887756008,"wgRevisionId":887756008,"wgArticleId":18883078,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Coordinates on Wikidata","All stub articles","Independent schools in Kirklees","Educational institutions established in 1958","Schools in Huddersfield","Cognita","1958 establishments in England","Yorkshire school stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["",
+"Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Huddersfield_Grammar_School","wgRelevantArticleId":18883078,"wgRequestId":"XYrBQQpAICkAAHMGBaIAAABK","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":53.6483,"lon":-1.812},"wgWikibaseItemId":"Q5928252","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Huddersfield_Grammar_School"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Huddersfield_Grammar_School&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Huddersfield_Grammar_School&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Huddersfield_Grammar_School"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Huddersfield_Grammar_School rootpage-Huddersfield_Grammar_School skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Huddersfield Grammar School</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Independent school in Marsh, Huddersfield, West Yorkshire, England</div><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;background-color: lavender">Huddersfield Grammar School</th></tr><tr><th colspan="2" style="text-align:center;background:lavender">Address</th></tr><tr class="adr"><td colspan="2" style="text-align:center"><div style="display:inline;" class="street-address">Royds Mount<br />Luck Lane</div><br /><div style="display:inline;" class="locality">Marsh<br /><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></div>, <div style="display:inline;" class="region"><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></div>, <div style="display:inline;" class="postal-code">HD1 4QX</div><br /><div style="display:inline;" class="country-name"><a href="/wiki/England" title="England">England</a></div></td></tr><tr><th scope="row"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_Grammar_School&amp;params=53.6483_N_1.812_W_type:edu_region:GB_dim:100"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°38′54″N</span> <span class="longitude">1°48′43″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.64830°N 1.81200°W</span><span style="display:none">&#xfeff; / <span class="geo">53.64830; -1.81200</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_Grammar_School&amp;params=53.6483_N_1.812_W_type:edu_region:GB_dim:100"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°38′54″N</span> <span class="longitude">1°48′43″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.64830°N 1.81200°W</span><span style="display:none">&#xfeff; / <span class="geo">53.64830; -1.81200</span></span></span></a></span></span></span></td></tr><tr><th colspan="2" style="text-align:center;background:lavender">Information</th></tr><tr><th scope="row">Type</th><td>Independent</td></tr><tr><th scope="row">Motto</th><td><i>Studio floremus</i> ('I study we flourish')</td></tr><tr><th scope="row">Established</th><td>1995</td></tr><tr><th scope="row"><a href="/wiki/Department_for_Education" title="Department for Education">Department for Education</a> URN</th><td><a rel="nofollow" class="external text" href="https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/107786">107786</a> <a rel="nofollow" class="external text" href="https://www.compare-school-performance.service.gov.uk/school/107786">Tables</a></td></tr><tr><th scope="row"><a href="/wiki/Ofsted" title="Ofsted">Ofsted</a></th><td><a rel="nofollow" class="external text" href="https://reports.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/ELS/107786">Reports</a></td></tr><tr><th scope="row">Headteacher</th><td>Mike Seaton</td></tr><tr><th scope="row">Gender</th><td>Coeducational</td></tr><tr><th scope="row">Age</th><td>3&#32;to 16</td></tr><tr><th scope="row">Enrolment</th><td>525</td></tr><tr><th scope="row">Houses</th><td>Crowther(blue) and Ramsden(red)</td></tr><tr><th scope="row">Colour(s)</th><td>Blue (Crowther) and Red (Ramsden) <span style="background-color:blue; color:white; border:1px solid #000000; text-align:center;">&#160;&#160;&#160;&#160;</span> <span style="background-color:red; color:black; border:1px solid #000000; text-align:center;">&#160;&#160;&#160;&#160;</span></td></tr><tr><th scope="row">Website</th><td class="plainlinks"><a rel="nofollow" class="external free" href="http://www.huddersfield-grammar.co.uk/">http://www.huddersfield-grammar.co.uk/</a></td></tr></tbody></table>
+<p><b>Hudderfield Grammar School</b> is a <a href="/wiki/Coeducational" class="mw-redirect" title="Coeducational">coeducational</a> <a href="/wiki/Independent_school" title="Independent school">independent school</a> located in <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a> in <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, England. The school was established in 1995 on the site of the former independent St David's School, which closed on 1 September 1995.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>  St David's school had been purchased and merged with the former independent Kayes College in 1995 <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>Since 2007 the school has been owned and operated by the <a href="/wiki/Cognita" title="Cognita">Cognita</a> Group. It is the largest independent school in Huddersfield to offer both primary and secondary education.
+</p><p>In 2014, Cognita invested £3.5&#160;million at Huddersfield Grammar School to further enhance the school's site and facilities.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_Grammar_School&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://schooletc.co.uk/school-st-davids-school-127800">"St David's School"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">6 August</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=St+David%27s+School&amp;rft_id=http%3A%2F%2Fschooletc.co.uk%2Fschool-st-davids-school-127800&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Grammar+School" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.thefreelibrary.com/Back+at+Kayes&#39;+College!-a0137634457">"Back at Kayes' College!"</a>. <i>Huddersfield Daily Examiner</i>. 17 October 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">6 August</span> 2013</span> &#8211; via freelibrary.com.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Huddersfield+Daily+Examiner&amp;rft.atitle=Back+at+Kayes%27+College%21&amp;rft.date=2005-10-17&amp;rft_id=http%3A%2F%2Fwww.thefreelibrary.com%2FBack%2Bat%2BKayes%27%2BCollege%21-a0137634457&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Grammar+School" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/news/local-west-yorkshire-news/2013/05/24/3-5m-scheme-to-improve-huddersfield-grammar-school-86081-33376226">"£3.5m scheme to improve Huddersfield Grammar School"</a>. <i>Huddersfield Daily Examiner</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 May</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Huddersfield+Daily+Examiner&amp;rft.atitle=%C2%A33.5m+scheme+to+improve+Huddersfield+Grammar+School&amp;rft_id=http%3A%2F%2Fwww.examiner.co.uk%2Fnews%2Flocal-west-yorkshire-news%2F2013%2F05%2F24%2F3-5m-scheme-to-improve-huddersfield-grammar-school-86081-33376226&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Grammar+School" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_Grammar_School&amp;action=edit&amp;section=2" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.huddersfield-grammar.co.uk/l">Huddersfield Grammar School website</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Schools_in_Kirklees" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Schools_in_Kirklees" title="Template:Schools in Kirklees"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Schools_in_Kirklees" title="Template talk:Schools in Kirklees"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Schools_in_Kirklees&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Schools_in_Kirklees" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_schools_in_Kirklees" title="List of schools in Kirklees">Schools in Kirklees</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Primary schools</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Almondbury_Community_School" title="Almondbury Community School">Almondbury Community School</a></li>
+<li><a href="/wiki/Batley_Grammar_School" title="Batley Grammar School">Batley Grammar School</a></li>
+<li><a href="/wiki/Crowlees_Junior_and_Infant_School" title="Crowlees Junior and Infant School">Crowlees Junior &amp; Infant School</a></li>
+<li><a href="/wiki/Netherhall_Learning_Campus" title="Netherhall Learning Campus">Netherhall Learning Campus</a></li>
+<li><a href="/wiki/Royds_Hall_School" title="Royds Hall School">Royds Hall School</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Middle schools</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scissett_Middle_School" title="Scissett Middle School">Scissett Middle School</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Secondary schools</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/All_Saints_Catholic_College,_Huddersfield" title="All Saints Catholic College, Huddersfield">All Saints RC College</a></li>
+<li><a href="/wiki/Almondbury_Community_School" title="Almondbury Community School">Almondbury Community School</a></li>
+<li><a href="/wiki/Batley_Girls%27_High_School" title="Batley Girls&#39; High School">Batley Girls' High School</a></li>
+<li><a href="/wiki/Batley_Grammar_School" title="Batley Grammar School">Batley Grammar School</a></li>
+<li><a href="/wiki/BBG_Academy" title="BBG Academy">BBG Academy</a></li>
+<li><a href="/wiki/Castle_Hall_Academy" title="Castle Hall Academy">Castle Hall Academy</a></li>
+<li><a href="/wiki/Colne_Valley_High_School" title="Colne Valley High School">Colne Valley High School</a></li>
+<li><a href="/wiki/Creative_and_Media_Studio_School" title="Creative and Media Studio School">Creative &amp; Media Studio School</a></li>
+<li><a href="/wiki/Holmfirth_High_School" title="Holmfirth High School">Holmfirth High School</a></li>
+<li><a href="/wiki/Honley_High_School" title="Honley High School">Honley High School</a></li>
+<li><a href="/wiki/King_James%27s_School,_Almondbury" title="King James&#39;s School, Almondbury">King James's School</a></li>
+<li><a href="/wiki/Manor_Croft_Academy" title="Manor Croft Academy">Manor Croft Academy</a></li>
+<li><a href="/wiki/The_Mirfield_Free_Grammar" title="The Mirfield Free Grammar">The Mirfield Free Grammar</a></li>
+<li><a href="/wiki/Moor_End_Academy" title="Moor End Academy">Moor End Academy</a></li>
+<li><a href="/wiki/Netherhall_Learning_Campus" title="Netherhall Learning Campus">Netherhall Learning Campus</a></li>
+<li><a href="/wiki/North_Huddersfield_Trust_School" title="North Huddersfield Trust School">North Huddersfield Trust School</a></li>
+<li><a href="/wiki/Royds_Hall_School" title="Royds Hall School">Royds Hall School</a></li>
+<li><a href="/wiki/St_John_Fisher_Catholic_Voluntary_Academy" title="St John Fisher Catholic Voluntary Academy">St John Fisher RC Academy</a></li>
+<li><a href="/wiki/Salendine_Nook_High_School" title="Salendine Nook High School">Salendine Nook High School</a></li>
+<li><a href="/wiki/Shelley_College" title="Shelley College">Shelley College</a></li>
+<li><a href="/wiki/Spen_Valley_High_School" title="Spen Valley High School">Spen Valley High School</a></li>
+<li><a href="/wiki/Thornhill_Community_Academy" title="Thornhill Community Academy">Thornhill Community Academy</a></li>
+<li><a href="/wiki/Upper_Batley_High_School" title="Upper Batley High School">Upper Batley High School</a></li>
+<li><a href="/wiki/Westborough_High_School,_Dewsbury" title="Westborough High School, Dewsbury">Westborough High School</a></li>
+<li><a href="/wiki/Whitcliffe_Mount_School" title="Whitcliffe Mount School">Whitcliffe Mount School</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Grammar schools</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Heckmondwike_Grammar_School" title="Heckmondwike Grammar School">Heckmondwike Grammar School</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Independent schools</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Huddersfield Grammar School</a></li>
+<li><a href="/wiki/Markazi_Masjid" class="mw-redirect" title="Markazi Masjid">Markazi Masjid</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">FE &amp; sixth form colleges</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Greenhead_College" title="Greenhead College">Greenhead College</a></li>
+<li><a href="/wiki/Huddersfield_New_College" title="Huddersfield New College">Huddersfield New College</a></li>
+<li><a href="/wiki/Kirklees_College" title="Kirklees College">Kirklees College</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct schools</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birkdale_High_School" title="Birkdale High School">Birkdale High School</a></li></ul>
+</div></td></tr></tbody></table></div>
+<p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:School.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/School.svg/30px-School.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/School.svg/45px-School.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/School.svg/60px-School.svg.png 2x" data-file-width="500" data-file-height="500" /></a></td><td><i>This Yorkshire school or sixth form college related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Huddersfield_Grammar_School&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Yorkshire-school-stub" title="Template:Yorkshire-school-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Yorkshire-school-stub" title="Template talk:Yorkshire-school-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Yorkshire-school-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1245
+Cached time: 20190922175340
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.592 seconds
+Real time usage: 0.722 seconds
+Preprocessor visited node count: 2672/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 43006/2097152 bytes
+Template argument size: 6605/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 8683/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.338/10.000 seconds
+Lua memory usage: 4.62 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  676.840      1 -total
+ 70.72%  478.637      1 Template:Infobox_UK_school
+ 40.15%  271.779      1 Template:Infobox
+ 23.98%  162.334      1 Template:Reflist
+ 19.68%  133.193      1 Template:Infobox_school/short_description
+ 18.68%  126.461      1 Template:Cite_web
+ 11.20%   75.837     46 Template:If_empty
+  7.62%   51.606      1 Template:Coord
+  4.52%   30.576      1 Template:Pagetype
+  3.35%   22.686      2 Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18883078-0!canonical and timestamp 20190922175339 and revision id 887756008
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Huddersfield_Grammar_School&amp;oldid=887756008">https://en.wikipedia.org/w/index.php?title=Huddersfield_Grammar_School&amp;oldid=887756008</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Independent_schools_in_Kirklees" title="Category:Independent schools in Kirklees">Independent schools in Kirklees</a></li><li><a href="/wiki/Category:Educational_institutions_established_in_1958" title="Category:Educational institutions established in 1958">Educational institutions established in 1958</a></li><li><a href="/wiki/Category:Schools_in_Huddersfield" title="Category:Schools in Huddersfield">Schools in Huddersfield</a></li><li><a href="/wiki/Category:Cognita" title="Category:Cognita">Cognita</a></li><li><a href="/wiki/Category:1958_establishments_in_England" title="Category:1958 establishments in England">1958 establishments in England</a></li><li><a href="/wiki/Category:Yorkshire_school_stubs" title="Category:Yorkshire school stubs">Yorkshire school stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Huddersfield+Grammar+School" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Huddersfield+Grammar+School" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Huddersfield_Grammar_School" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Huddersfield_Grammar_School" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Huddersfield_Grammar_School">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Huddersfield_Grammar_School&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Huddersfield_Grammar_School&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Huddersfield_Grammar_School" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Huddersfield_Grammar_School" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Huddersfield_Grammar_School&amp;oldid=887756008" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Huddersfield_Grammar_School&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5928252" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Huddersfield_Grammar_School&amp;id=887756008" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Huddersfield+Grammar+School">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Huddersfield+Grammar+School&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Huddersfield_Grammar_School&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5928252#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 March 2019, at 16:58<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Huddersfield_Grammar_School&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.592","walltime":"0.722","ppvisitednodes":{"value":2672,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":43006,"limit":2097152},"templateargumentsize":{"value":6605,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":8683,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  676.840      1 -total"," 70.72%  478.637      1 Template:Infobox_UK_school"," 40.15%  271.779      1 Template:Infobox"," 23.98%  162.334      1 Template:Reflist"," 19.68%  133.193      1 Template:Infobox_school/short_description"," 18.68%  126.461      1 Template:Cite_web"," 11.20%   75.837     46 Template:If_empty","  7.62%   51.606      1 Template:Coord","  4.52%   30.576      1 Template:Pagetype","  3.35%   22.686      2 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.338","limit":"10.000"},"limitreport-memusage":{"value":4839529,"limit":52428800}},"cachereport":{"origin":"mw1245","timestamp":"20190922175340","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Huddersfield Grammar School","url":"https:\/\/en.wikipedia.org\/wiki\/Huddersfield_Grammar_School","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5928252","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5928252","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-08-15T20:42:20Z","dateModified":"2019-03-14T16:58:27Z","headline":"school in Kirklees, UK"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1320"});});</script>
+</body>
+</html>
+

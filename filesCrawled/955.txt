@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Andrew Herbert - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Andrew_Herbert","wgTitle":"Andrew Herbert","wgCurRevisionId":883109278,"wgRevisionId":883109278,"wgArticleId":8759818,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages containing London Gazette template with parameter supp set to y","EngvarB from December 2017","Use dmy dates from December 2017","BLP articles lacking sources from October 2012","All BLP articles lacking sources","Wikipedia articles with ACM-DL identifiers","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with DBLP identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MGP identifiers","Wikipedia articles with NTA identifiers",
+"Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1954 births","Alumni of the University of Leeds","British computer scientists","Fellows of the British Computer Society","Fellows of Wolfson College, Cambridge","Living people","Members of the University of Cambridge Computer Laboratory","Microsoft employees","Alumni of St John's College, Cambridge","Officers of the Order of the British Empire"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Andrew_Herbert","wgRelevantArticleId":8759818,"wgRequestId":
+"XY1chQpAICkAAGS7L0cAAABT","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4757293","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready",
+"mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Andrew_Herbert"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Andrew_Herbert&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Andrew_Herbert&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Andrew_Herbert"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Andrew_Herbert rootpage-Andrew_Herbert skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Andrew Herbert</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="box-BLP_sources plainlinks metadata ambox ambox-content ambox-BLP_sources" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This <a href="/wiki/Wikipedia:Biographies_of_living_persons" title="Wikipedia:Biographies of living persons">biography of a living person</a> <b>needs additional <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a> for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help by adding <a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable sources</a>. Contentious material about living persons that is unsourced or poorly sourced <b>must be removed immediately</b>, especially if potentially <a href="/wiki/Wikipedia:Libel" title="Wikipedia:Libel">libelous</a> or harmful.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Andrew+Herbert%22">"Andrew Herbert"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Andrew+Herbert%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Andrew+Herbert%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Andrew+Herbert%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Andrew+Herbert%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Andrew+Herbert%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">October 2012</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><b>Andrew James Herbert</b>, <a href="/wiki/Order_of_the_British_Empire" title="Order of the British Empire">OBE</a>, <a href="/wiki/Fellow_of_the_Royal_Academy_of_Engineering" title="Fellow of the Royal Academy of Engineering">FREng</a> (born 1954) is a British <a href="/wiki/Computer_scientist" title="Computer scientist">computer scientist</a>, formerly Chairman of <a href="/wiki/Microsoft_Research" title="Microsoft Research">Microsoft Research</a>, for the Europe, Middle East and Africa region.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Work"><span class="tocnumber">2</span> <span class="toctext">Work</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Advanced_Networked_Systems_Architecture"><span class="tocnumber">2.1</span> <span class="toctext">Advanced Networked Systems Architecture</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Publications"><span class="tocnumber">3</span> <span class="toctext">Publications</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Herbert&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Herbert received a BSc in computational science from the <a href="/wiki/Leeds_University" class="mw-redirect" title="Leeds University">Leeds University</a> in 1975, and a PhD in Computer Science from <a href="/wiki/Cambridge_University" class="mw-redirect" title="Cambridge University">Cambridge University</a> in 1978 for his work on "A Microprogrammed Operating System Kernel".
+</p><p>In 1978 he started working at the <a href="/wiki/University_of_Cambridge_Computer_Laboratory" class="mw-redirect" title="University of Cambridge Computer Laboratory">University of Cambridge Computer Laboratory</a> as assistant lecturer under <a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Maurice Wilkes</a> and <a href="/wiki/Roger_Needham" title="Roger Needham">Roger Needham</a> in the Computer Laboratory, and worked with others on the "Cambridge Model Distributed System". In 1985 he left Cambridge to found his own contract research company (Architecture Projects Ltd – APM Ltd), which led projects to develop ANSA, the Advanced Network Systems Architecture. In 1996 he had founded another sister company called Digitivity to develop a product to enable the secure deployment of Java clients for business-to-business applications. Two years later he joined Citrix Systems Inc. following their acquisition of APM and Digitivity to become Director of Advanced Technology. In 2001 he joined Microsoft Research in Cambridge as an assistant director, and became managing director in April 2003.  In 2010 he became chairman of Microsoft Research EMEA. He retired from Microsoft in September 2011.
+</p><p>Herbert is a Fellow of the <a href="/wiki/Royal_Academy_of_Engineering" title="Royal Academy of Engineering">Royal Academy of Engineering</a>, a Fellow of the <a href="/wiki/British_Computer_Society" title="British Computer Society">British Computer Society</a> and a <a href="/wiki/Liveryman" class="mw-redirect" title="Liveryman">Liveryman</a> of the City of London <a href="/wiki/Worshipful_Company_of_Information_Technologists" title="Worshipful Company of Information Technologists">Worshipful Company of Information Technologists</a>.  He is an Emeritus Fellow of <a href="/wiki/Wolfson_College,_Cambridge" title="Wolfson College, Cambridge">Wolfson College, Cambridge</a> and a member of <a href="/wiki/St_John%27s_College,_Cambridge" title="St John&#39;s College, Cambridge">St John's College, Cambridge</a>.
+</p><p>Herbert was appointed <a href="/wiki/Officer_of_the_Order_of_the_British_Empire" class="mw-redirect" title="Officer of the Order of the British Empire">Officer of the Order of the British Empire</a> (OBE) in the 2010 New Year Honours.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Outside of computing, Herbert's interests include flying and restoring vintage aircraft, computer conservation and building scale working models of steam railway locomotives.  He owns and operates a 1953 <a href="/wiki/De_Havilland_Canada_DHC-1_Chipmunk" title="De Havilland Canada DHC-1 Chipmunk">DHC-1 Chipmunk</a> and shares ownership and operation of a <a href="/wiki/De_Havilland_Hornet_Moth" title="De Havilland Hornet Moth">DH87b Hornet Moth</a> aircraft.
+</p><p>Now in retirement, Herbert is Chairman of Trustees for the Codes and Ciphers Heritage Trust, operating as <a href="/wiki/The_National_Museum_of_Computing" title="The National Museum of Computing">The National Museum of Computing</a> (TNMoC) at Bletchley Park. 
+</p><p>He is also the manager of a project to construct a working replica of the Cambridge <a href="/wiki/EDSAC" title="EDSAC">EDSAC</a> computer at TNMoC and it is hoped it will be operational some time in 2019.
+</p><p>He keeps a working 1967 <a href="/wiki/Elliott_Brothers_(computer_company)" title="Elliott Brothers (computer company)">Elliott 903 computer</a> at his home.
+</p>
+<h2><span class="mw-headline" id="Work">Work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Herbert&amp;action=edit&amp;section=2" title="Edit section: Work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Herbert's research interests include <a href="/wiki/Computer_networking" class="mw-redirect" title="Computer networking">computer networking</a>, <a href="/wiki/Operating_system" title="Operating system">operating systems</a>, <a href="/wiki/Distributed_computing" title="Distributed computing">distributed computing</a>, <a href="/wiki/Programming_language" title="Programming language">programming languages</a> and large-scale <a href="/wiki/Data-driven_programming" title="Data-driven programming">data driven</a> systems. His most significant research achievements were an operating system for the Cambridge CAP Computer, his contributions to the Cambridge Model Distributed System and the Advanced Networked Systems Architecture.
+</p>
+<h3><span class="mw-headline" id="Advanced_Networked_Systems_Architecture">Advanced Networked Systems Architecture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Herbert&amp;action=edit&amp;section=3" title="Edit section: Advanced Networked Systems Architecture">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Advanced Networked Systems Architecture (ANSA) was an applied research programme starting in the 1980s as part of the UK <a href="/wiki/Alvey" title="Alvey">Alvey</a> Programme. ANSA aimed to develop a <a href="/wiki/Distributed_systems" class="mw-redirect" title="Distributed systems">distributed systems</a> software architecture to support applications integration in enterprise-wide systems. The ANSA work included support for interactive multi-media services, object technology for <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a> applications, distributed systems management, mobile object systems and security for electronic commerce.  ANSA was an early example of what became to be known as 'middleware'.
+</p><p>In the 1990s "ANSAWare" software based on the ANSA architecture was used by many organisations ahead of the widespread availability of commercial, <a href="/wiki/CORBA" class="mw-redirect" title="CORBA">CORBA</a>-based products for distributed computing. Notable successes included the NASA <a href="/wiki/Astrophysics_Data_System" title="Astrophysics Data System">Astrophysics Data System</a> (ADS), a European radio pager system and the online customer service system for a major UK utility. As part of his ANSA work, Herbert played an active role in many standards and consortia for distributed computing including <a href="/wiki/TINA-C" title="TINA-C">TINA-C</a>, <a href="/wiki/RM-ODP" title="RM-ODP">RM-ODP</a>, <a href="/wiki/Open_Software_Foundation" title="Open Software Foundation">OSF</a> <a href="/wiki/Distributed_Computing_Environment" title="Distributed Computing Environment">DCE</a> and <a href="/wiki/Object_Management_Group" title="Object Management Group">OMG</a> CORBA.
+</p><p>Herbert created a Cambridge UK company, called Architecture Projects Management Ltd (APM), to employ the ANSA research team.  As ANSA matured APM developed a parallel software consulting business to help companies adopt ANSA ideas and exploit ANSAware, CORBA and Internet technologies.   A key development during this period was E2S, a smart card-based architecture for end-to-end secure business-to-business transactions.  In 1996 APM spun out further business called Digitivity, with offices in Cambridge UK and Palo Alto, California, USA to develop an Internet browser security product.  In 1998 APM and Digitivity were acquired by Citrix Systems of Ft Lauderdale, Florida, USA and Herbert took up the position of Director for Advanced Technologies where he remained until joining Microsoft in 2001.
+</p>
+<h2><span class="mw-headline" id="Publications">Publications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Herbert&amp;action=edit&amp;section=4" title="Edit section: Publications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Herbert published several books and articles,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> a selection:
+</p>
+<ul><li>1979. <i>The Cambridge CAP Computer and Its Operating System</i>. With <a href="/wiki/Maurice_Wilkes" title="Maurice Wilkes">Maurice Wilkes</a> and <a href="/wiki/Roger_Needham" title="Roger Needham">Roger Needham</a> (ed.)</li>
+<li>1984. <i>Cambridge distributed computing system</i>. With <a href="/wiki/Roger_Needham" title="Roger Needham">Roger Needham</a></li>
+<li>2004. <i>Computer systems&#160;: theory, technology, and applications&#160;: a tribute to Roger Needham </i>. With <a href="/wiki/Karen_Sp%C3%A4rck_Jones" title="Karen Spärck Jones">Karen Spärck Jones</a> (ed.)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Andrew_Herbert&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite id="CITEREFGazette59282" class="citation magazine"><a rel="nofollow" class="external text" href="https://www.thegazette.co.uk/London/issue/59282/supplement/10">"No. 59282"</a>. <i><a href="/wiki/The_London_Gazette" title="The London Gazette">The London Gazette</a></i> (Supplement). 31 December 2009. p.&#160;10.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+London+Gazette&amp;rft.atitle=No.+59282&amp;rft.pages=10&amp;rft.date=2009-12-31&amp;rft_id=https%3A%2F%2Fwww.thegazette.co.uk%2FLondon%2Fissue%2F59282%2Fsupplement%2F10&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAndrew+Herbert" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/h/Herbert:Andrew.html">Andrew Herbert</a> List of publications from the DBLP Bibliography Server.</span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q4757293&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q4757293&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q4757293" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/ACM_Digital_Library" class="mw-redirect" title="ACM Digital Library">ACM DL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dl.acm.org/author_page.cfm?id=81100086350">81100086350</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Bibsys" title="Bibsys">BIBSYS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/90078357">90078357</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb162579801">cb162579801</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb162579801">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/DBLP" title="DBLP">DBLP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://dblp.org/pid/h/AHerbert">h/AHerbert</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/128947721">128947721</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000135539688">0000 0001 3553 9688</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n82007159">n82007159</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Mathematics_Genealogy_Project" title="Mathematics Genealogy Project">MGP</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://genealogy.math.ndsu.nodak.edu/id.php?id=137553">137553</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Royal_Library_of_the_Netherlands" title="Royal Library of the Netherlands">NTA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p283025638">283025638</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/082096406">082096406</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/115068127">115068127</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/115068127">115068127</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1254
+Cached time: 20190923224138
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.244 seconds
+Real time usage: 0.384 seconds
+Preprocessor visited node count: 623/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19599/2097152 bytes
+Template argument size: 472/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 14/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3259/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.147/10.000 seconds
+Lua memory usage: 3.11 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  337.806      1 -total
+ 33.49%  113.124      1 Template:Authority_control
+ 29.37%   99.213      1 Template:Reflist
+ 27.35%   92.390      1 Template:London_Gazette
+ 25.86%   87.372      1 Template:Cite_magazine
+ 25.05%   84.626      1 Template:BLP_sources
+ 21.67%   73.191      1 Template:Ambox
+  9.61%   32.464      1 Template:EngvarB
+  9.42%   31.821      1 Template:Find_sources_mainspace
+  4.99%   16.868      2 Template:DMCA
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8759818-0!canonical and timestamp 20190923224137 and revision id 883109278
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Andrew_Herbert&amp;oldid=883109278">https://en.wikipedia.org/w/index.php?title=Andrew_Herbert&amp;oldid=883109278</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1954_births" title="Category:1954 births">1954 births</a></li><li><a href="/wiki/Category:Alumni_of_the_University_of_Leeds" title="Category:Alumni of the University of Leeds">Alumni of the University of Leeds</a></li><li><a href="/wiki/Category:British_computer_scientists" title="Category:British computer scientists">British computer scientists</a></li><li><a href="/wiki/Category:Fellows_of_the_British_Computer_Society" title="Category:Fellows of the British Computer Society">Fellows of the British Computer Society</a></li><li><a href="/wiki/Category:Fellows_of_Wolfson_College,_Cambridge" title="Category:Fellows of Wolfson College, Cambridge">Fellows of Wolfson College, Cambridge</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Members_of_the_University_of_Cambridge_Computer_Laboratory" title="Category:Members of the University of Cambridge Computer Laboratory">Members of the University of Cambridge Computer Laboratory</a></li><li><a href="/wiki/Category:Microsoft_employees" title="Category:Microsoft employees">Microsoft employees</a></li><li><a href="/wiki/Category:Alumni_of_St_John%27s_College,_Cambridge" title="Category:Alumni of St John&#039;s College, Cambridge">Alumni of St John's College, Cambridge</a></li><li><a href="/wiki/Category:Officers_of_the_Order_of_the_British_Empire" title="Category:Officers of the Order of the British Empire">Officers of the Order of the British Empire</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_containing_London_Gazette_template_with_parameter_supp_set_to_y" title="Category:Pages containing London Gazette template with parameter supp set to y">Pages containing London Gazette template with parameter supp set to y</a></li><li><a href="/wiki/Category:EngvarB_from_December_2017" title="Category:EngvarB from December 2017">EngvarB from December 2017</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_December_2017" title="Category:Use dmy dates from December 2017">Use dmy dates from December 2017</a></li><li><a href="/wiki/Category:BLP_articles_lacking_sources_from_October_2012" title="Category:BLP articles lacking sources from October 2012">BLP articles lacking sources from October 2012</a></li><li><a href="/wiki/Category:All_BLP_articles_lacking_sources" title="Category:All BLP articles lacking sources">All BLP articles lacking sources</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ACM-DL_identifiers" title="Category:Wikipedia articles with ACM-DL identifiers">Wikipedia articles with ACM-DL identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_DBLP_identifiers" title="Category:Wikipedia articles with DBLP identifiers">Wikipedia articles with DBLP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MGP_identifiers" title="Category:Wikipedia articles with MGP identifiers">Wikipedia articles with MGP identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NTA_identifiers" title="Category:Wikipedia articles with NTA identifiers">Wikipedia articles with NTA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Andrew+Herbert" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Andrew+Herbert" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Andrew_Herbert" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Andrew_Herbert" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Andrew_Herbert">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Andrew_Herbert&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Andrew_Herbert&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Andrew_Herbert" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Andrew_Herbert" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Andrew_Herbert&amp;oldid=883109278" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Andrew_Herbert&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4757293" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Andrew_Herbert&amp;id=883109278" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Andrew+Herbert">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Andrew+Herbert&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Andrew_Herbert&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D8%AF%D8%B1%D9%88_%D9%87%D8%B1%D8%A8%D8%B1%D8%AA" title="أندرو هربرت – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4757293#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 February 2019, at 09:52<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Andrew_Herbert&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.244","walltime":"0.384","ppvisitednodes":{"value":623,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19599,"limit":2097152},"templateargumentsize":{"value":472,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3259,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  337.806      1 -total"," 33.49%  113.124      1 Template:Authority_control"," 29.37%   99.213      1 Template:Reflist"," 27.35%   92.390      1 Template:London_Gazette"," 25.86%   87.372      1 Template:Cite_magazine"," 25.05%   84.626      1 Template:BLP_sources"," 21.67%   73.191      1 Template:Ambox","  9.61%   32.464      1 Template:EngvarB","  9.42%   31.821      1 Template:Find_sources_mainspace","  4.99%   16.868      2 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.147","limit":"10.000"},"limitreport-memusage":{"value":3263402,"limit":52428800}},"cachereport":{"origin":"mw1254","timestamp":"20190923224138","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Andrew Herbert","url":"https:\/\/en.wikipedia.org\/wiki\/Andrew_Herbert","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4757293","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4757293","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-01-04T22:39:00Z","dateModified":"2019-02-13T09:52:42Z","headline":"British computer scientist"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1320"});});</script>
+</body>
+</html>
+

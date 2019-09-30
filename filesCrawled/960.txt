@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Hall Cross Academy - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Hall_Cross_Academy","wgTitle":"Hall Cross Academy","wgCurRevisionId":903583256,"wgRevisionId":903583256,"wgArticleId":9917768,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","Articles with short description","Coordinates on Wikidata","All articles with unsourced statements","Articles with unsourced statements from July 2018","Articles needing additional references from May 2008","All articles needing additional references","Articles needing cleanup from September 2011","All pages needing cleanup","Articles with unsourced statements from October 2009","Use dmy dates from September 2011","Educational institutions established in the 14th century","1350 establishments in England","Grade II listed buildings in South Yorkshire",
+"Grade II listed educational buildings","Secondary schools in Doncaster","George Gilbert Scott buildings","Academies in Doncaster"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hall_Cross_Academy","wgRelevantArticleId":9917768,"wgRequestId":"XYgZ3ApAMFAAAFRwwP4AAAAN","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Doncaster_Grammar_School","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{
+"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Hall_Cross_Academy","wgCoordinates":{"lat":53.523106,"lon":-1.124831},"wgWikibaseItemId":"Q5642578","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"
+,"skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/8/8b/HallCrossSchool_Lion.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hall_Cross_Academy"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hall_Cross_Academy"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hall_Cross_Academy rootpage-Hall_Cross_Academy skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Hall Cross Academy</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Doncaster_Grammar_School&amp;redirect=no" class="mw-redirect" title="Doncaster Grammar School">Doncaster Grammar School</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Academy in Doncaster, South Yorkshire, England</div><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;background-color: lavender">Hall Cross Academy</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:HallCrossSchool_Lion.png" class="image"><img alt="HallCrossSchool Lion.png" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8b/HallCrossSchool_Lion.png/220px-HallCrossSchool_Lion.png" decoding="async" width="220" height="310" srcset="//upload.wikimedia.org/wikipedia/en/8/8b/HallCrossSchool_Lion.png 1.5x" data-file-width="265" data-file-height="374" /></a><div>Hall Cross Academy Logo</div></td></tr><tr><th colspan="2" style="text-align:center;background:lavender">Address</th></tr><tr class="adr"><td colspan="2" style="text-align:center"><div style="display:inline;" class="street-address">Thorne Road</div><br /><div style="display:inline;" class="locality"><a href="/wiki/Doncaster" title="Doncaster">Doncaster</a></div>, <div style="display:inline;" class="region"><a href="/wiki/South_Yorkshire" title="South Yorkshire">South Yorkshire</a></div>, <div style="display:inline;" class="postal-code">DN1 2HY</div><br /><div style="display:inline;" class="country-name">England</div></td></tr><tr><th scope="row"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Hall_Cross_Academy&amp;params=53.523106_N_1.124831_W_type:edu_region:GB_dim:100"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°31′23″N</span> <span class="longitude">1°07′29″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.523106°N 1.124831°W</span><span style="display:none">&#xfeff; / <span class="geo">53.523106; -1.124831</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Hall_Cross_Academy&amp;params=53.523106_N_1.124831_W_type:edu_region:GB_dim:100"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°31′23″N</span> <span class="longitude">1°07′29″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.523106°N 1.124831°W</span><span style="display:none">&#xfeff; / <span class="geo">53.523106; -1.124831</span></span></span></a></span></span></span></td></tr><tr><th colspan="2" style="text-align:center;background:lavender">Information</th></tr><tr><th scope="row">Type</th><td><a href="/wiki/Academy_(English_school)" title="Academy (English school)">Academy</a></td></tr><tr><th scope="row">Motto</th><td>Confort et liesse -Welfare and Jubilation</td></tr><tr><th scope="row">Established</th><td>1350</td></tr><tr><th scope="row">Specialist</th><td><a href="/wiki/Science_College" title="Science College">Science</a></td></tr><tr><th scope="row"><a href="/wiki/Department_for_Education" title="Department for Education">Department for Education</a> URN</th><td><a rel="nofollow" class="external text" href="https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/137842">137842</a> <a rel="nofollow" class="external text" href="https://www.compare-school-performance.service.gov.uk/school/137842">Tables</a></td></tr><tr><th scope="row"><a href="/wiki/Ofsted" title="Ofsted">Ofsted</a></th><td><a rel="nofollow" class="external text" href="https://reports.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/ELS/137842">Reports</a></td></tr><tr><th scope="row">Age</th><td>11&#32;to 18</td></tr><tr><th scope="row">Enrolment</th><td>1911</td></tr><tr><th scope="row">Capacity</th><td>2263</td></tr><tr><th scope="row">Former pupils</th><td><a href="/wiki/Hall_Cross_School#Old_Danensians" class="mw-redirect" title="Hall Cross School">Old Danensians</a></td></tr><tr><th scope="row">Former names</th><td>Doncaster Grammar School, Hall Cross Comprehensive School</td></tr><tr><th scope="row">Website</th><td class="plainlinks"><a rel="nofollow" class="external free" href="http://www.hallcrossacademy.co.uk">http://www.hallcrossacademy.co.uk</a></td></tr></tbody></table>
+<p><b>Hall Cross Academy</b> (formerly <b>Hall Cross School</b> and <b>Doncaster Grammar School</b>), founded in 1350,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2018)">citation needed</span></a></i>&#93;</sup> is a co-educational academy in <a href="/wiki/Doncaster" title="Doncaster">Doncaster</a>, <a href="/wiki/South_Yorkshire" title="South Yorkshire">South Yorkshire</a>, England.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Admissions"><span class="tocnumber">1</span> <span class="toctext">Admissions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#The_Library_and_Christchurch_House"><span class="tocnumber">2</span> <span class="toctext">The Library and Christchurch House</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Remembrance_Day"><span class="tocnumber">3</span> <span class="toctext">Remembrance Day</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Railways"><span class="tocnumber">4</span> <span class="toctext">Railways</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notable_faculty_members"><span class="tocnumber">5</span> <span class="toctext">Notable faculty members</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Alumni"><span class="tocnumber">6</span> <span class="toctext">Alumni</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Hall_Cross_Comprehensive_School"><span class="tocnumber">6.1</span> <span class="toctext">Hall Cross Comprehensive School</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Doncaster_Grammar_School_for_Boys"><span class="tocnumber">6.2</span> <span class="toctext">Doncaster Grammar School for Boys</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Doncaster_High_School_for_Girls"><span class="tocnumber">6.3</span> <span class="toctext">Doncaster High School for Girls</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Doncaster_Grammar_School"><span class="tocnumber">6.4</span> <span class="toctext">Doncaster Grammar School</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Old_Danensians"><span class="tocnumber">7</span> <span class="toctext">Old Danensians</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Hall_Cross_Academy"><span class="tocnumber">8</span> <span class="toctext">Hall Cross Academy</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Academic_performance"><span class="tocnumber">9</span> <span class="toctext">Academic performance</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Gallery"><span class="tocnumber">10</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Admissions">Admissions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit&amp;section=1" title="Edit section: Admissions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Academy is split over two sites, with the Upper academy located in the centre of <a href="/wiki/Doncaster" title="Doncaster">Doncaster</a> (in the <a href="/wiki/Town_Fields" title="Town Fields">Town Fields</a> area) and the Lower academy in the north of <a href="/wiki/Bessacarr" title="Bessacarr">Bessacarr</a>, near the Dome. Hall Cross Academy has <a href="/wiki/Specialist_school" class="mw-redirect" title="Specialist school">specialist</a> status as a <a href="/wiki/Science_College" title="Science College">Science College</a>. The total number of pupils who attend the Academy is over 2000. It features as an integral part of the community, providing access to facilities for many primary schools, which also form part of its large catchment area. The headteacher of the Academy is Pippa Dodgshon.
+</p><p>It is named after the <a rel="nofollow" class="external text" href="https://www.geograph.org.uk/photo/839453">Hall Cross</a> on Hall Cross Hill, on the opposite side of the main road through Doncaster.
+</p>
+<h2><span class="mw-headline" id="The_Library_and_Christchurch_House">The Library and Christchurch House</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit&amp;section=2" title="Edit section: The Library and Christchurch House">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Hall_Cross_Academy&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small class="date-container"><i>(<span class="date">May 2008</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>The library building is the oldest building on the Town Centre site, it was designed by Sir George Gilbert Scott and was built in 1869. Downstairs it features a plaque which can still be seen to this day, dedicating the building to Queen Victoria. The library is a classic example of Victorian Gothic Revival, featuring a large <a href="/wiki/Hammerbeam_roof" title="Hammerbeam roof">Hammerbeam roof</a> decorated with flowers cut into the massive oak beams which may, in fact, be stained pine. The building also features a tower at one corner. Inside, the library features two massive Gothic-style glass windows at either end, one of them being stained glass, designed and executed by former pupil C. Rupert Moore, which was unveiled in 1938 as a tribute to "Old Boys" from the school who died in World War I. The library features a large number of Victorian plaques, dedicated to past headteachers of the school, men from the school who died in both wars, and other various things. The one added most recently commemorates the visit by Prince Charles to the school in 1989. By number of books, the library is the biggest school library in Doncaster and is largely used by the 6th form.
+</p><p>Christchurch house is the school's equivalent of a "6th form block". It is a large detached Victorian Townhouse which overlooks the local church that the house is named after. The house features a grand wooden staircase, stained glass skylights, and a statue of the Venus de Milo which originally resided in the Girls' School, built in 1918. When the school was disbanded, the statue was moved to Hall Cross Academy.
+</p>
+<h2><span class="mw-headline" id="Remembrance_Day">Remembrance Day</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit&amp;section=3" title="Edit section: Remembrance Day">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Remembrance Day is one of the most important days in the academic calendar. The Academy has held a ceremony every year since 1918 to remember those who attended the school and died in battle. The service begins at 9<span class="nowrap">&#160;</span>am. Speeches are made by the Head Teacher who gives thanks to those who died as a result of conflict.  Two poppy wreaths are then carried down the corridor to the library by the Head Boy and Head Girl. They are then laid by the World War One and World War Two plaques respectively, while the Last Post is played on the trumpet, with the sounds carrying through to the library.
+</p>
+<h2><span class="mw-headline" id="Railways">Railways</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit&amp;section=4" title="Edit section: Railways">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/British_Rail_Class_43_(HST)" title="British Rail Class 43 (HST)">High Speed Train</a> power car no. 43045 was named 'The Grammar School, Doncaster AD1350' in Spring 1984.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> It is now in service with <a href="/wiki/East_Midlands_Trains" title="East Midlands Trains">East Midlands Trains</a> and does not carry its former name. The nameplate removed from the locomotive can be found in the tower of the Academy along with a large collection of <a href="/wiki/Railroadiana" title="Railroadiana">railwayana</a> amassed by the Doncaster Grammar School Railway Society, to which, at one point, one in six pupils belonged<sup id="cite_ref-GBRJ_2-0" class="reference"><a href="#cite_note-GBRJ-2">&#91;2&#93;</a></sup> The collection also includes nameplates from two locomotives destroyed as a result of the <a href="/wiki/Harrow_and_Wealdstone_rail_crash" title="Harrow and Wealdstone rail crash">Harrow and Wealdstone rail crash</a>.<sup id="cite_ref-GBRJ_2-1" class="reference"><a href="#cite_note-GBRJ-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Notable_faculty_members">Notable faculty members</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit&amp;section=5" title="Edit section: Notable faculty members">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/H._J._Blackham" title="H. J. Blackham">H. J. Blackham</a> (taught divinity in the early 1930s)</li>
+<li><a href="/wiki/Squadron_Leader" class="mw-redirect" title="Squadron Leader">Squadron Leader</a> <a href="/wiki/Ernest_Kinghorn" title="Ernest Kinghorn">Ernest Kinghorn</a>, Labour MP from 1945–51 for <a href="/wiki/Great_Yarmouth_(UK_Parliament_constituency)" title="Great Yarmouth (UK Parliament constituency)">Great Yarmouth</a> (taught languages)</li>
+<li>Prof Roy Niblett CBE (taught English from 1930–34)</li></ul>
+<h2><span class="mw-headline" id="Alumni">Alumni</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit&amp;section=6" title="Edit section: Alumni">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Alumni plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article's list of alumni <b>may not follow Wikipedia's <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifiability</a> or <a href="/wiki/Wikipedia:Notability_(people)" title="Wikipedia:Notability (people)">notability</a> policies</b>.<span class="hide-when-compact"> Please <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Hall_Cross_Academy&amp;action=edit">improve this article</a> by removing names that do not have independent <a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable sources</a> showing they are notable AND alumni, or by incorporating the relevant publications into the body of the article through appropriate <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citations</a>.</span>  <small class="date-container"><i>(<span class="date">September 2011</span>)</i></small></div></td></tr></tbody></table>
+<h3><span class="mw-headline" id="Hall_Cross_Comprehensive_School">Hall Cross Comprehensive School</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit&amp;section=7" title="Edit section: Hall Cross Comprehensive School">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/David_Firth" title="David Firth">David Firth</a>, animator behind <a href="/wiki/Salad_Fingers" title="Salad Fingers">Salad Fingers</a> and all animations on the fat-pie website.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2009)">citation needed</span></a></i>&#93;</sup></li>
+<li><a href="/wiki/Barry_Middleton" title="Barry Middleton">Barry Middleton</a>, England international hockey player.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></li>
+<li><a href="/wiki/Louis_Tomlinson" title="Louis Tomlinson">Louis Tomlinson</a>,  pop singer and songwriter, and actor, known as a member of the band <a href="/wiki/One_Direction" title="One Direction">One Direction</a>.</li>
+<li><a href="/wiki/Tan_France" title="Tan France">Tan France</a>, fashion designer and television personality, founder of brand Kingdom &amp; State and fashion expert on <i><a href="/wiki/Queer_Eye_(2018_TV_series)" title="Queer Eye (2018 TV series)">Queer Eye</a></i>.</li></ul>
+<h3><span class="mw-headline" id="Doncaster_Grammar_School_for_Boys">Doncaster Grammar School for Boys</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit&amp;section=8" title="Edit section: Doncaster Grammar School for Boys">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Edmund_Beckett,_1st_Baron_Grimthorpe" title="Edmund Beckett, 1st Baron Grimthorpe">Edmund Beckett, 1st Baron Grimthorpe</a> (briefly)</li>
+<li><a href="/wiki/H.J._Blackham" class="mw-redirect" title="H.J. Blackham">H.J. Blackham</a>, philosopher and humanist</li>
+<li><a href="/wiki/Rodney_Bickerstaffe" title="Rodney Bickerstaffe">Rodney Bickerstaffe</a>, former leader of Britain's largest trades union, UNISON.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup></li>
+<li>Prof Thomas Charlton, Jackson Professor of Engineering from 1970–79 at the <a href="/wiki/University_of_Aberdeen" title="University of Aberdeen">University of Aberdeen</a>, and Professor of Civil Engineering from 1963–70 at <a href="/wiki/Queen%27s_University_Belfast" title="Queen&#39;s University Belfast">Queen's University Belfast</a></li>
+<li>Lord <a href="/wiki/Ronald_Dearing" class="mw-redirect" title="Ronald Dearing">Ronald Dearing</a> CB, former Chairman of the Post Office, Chancellor from 1993–2000 of the <a href="/wiki/University_of_Nottingham" title="University of Nottingham">University of Nottingham</a>, and known for the <a href="/wiki/Dearing_Report" title="Dearing Report">Dearing Report</a> which laid the foundations of tuition fees (<a href="/wiki/Top-up_fees" class="mw-redirect" title="Top-up fees">top-up fees</a>) at universities</li>
+<li>Sir <a href="/wiki/Eric_James_Denton" title="Eric James Denton">Eric Denton</a> CBE, marine biologist,  Royal Society Research Professor from 1964–74 at the <a href="/wiki/University_of_Bristol" title="University of Bristol">University of Bristol</a></li>
+<li>Sir Thomas Easterfield (1866–1949), chemist.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li>
+<li><a href="/wiki/Percy_Elland" title="Percy Elland">Percy Elland</a>, Editor from 1950–59 of the <a href="/wiki/Evening_Standard" title="Evening Standard">Evening Standard</a></li>
+<li>Rev Henry Ellershaw, Master from 1919–30 of <a href="/wiki/University_College,_Durham" title="University College, Durham">University College, Durham</a></li>
+<li>Prof Robert Fox, Professor from 1988–2006 of the History of Science at the <a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a> (<a href="/wiki/Linacre_College,_Oxford" title="Linacre College, Oxford">Linacre College</a>)</li>
+<li>Ian Glasby, UK Ambassador from 1988–90 to the <a href="/wiki/Republic_of_the_Congo" title="Republic of the Congo">Republic of the Congo</a></li>
+<li>Carl Gumsley, Senior Magistrate, Acting Supreme Court Judge and HM Coroner for the Falkland Islands from 2011–2014. Commissioner, Independent Police Complaints Commission from 2014-2017. Judge of the First-tier Tribunal 2018 to present.</li>
+<li><a href="/w/index.php?title=Stuart_Grundy&amp;action=edit&amp;redlink=1" class="new" title="Stuart Grundy (page does not exist)">Stuart Grundy</a>, music journalist, and radio producer from 1967–92 on <a href="/wiki/BBC_Radio_1" title="BBC Radio 1">Radio 1</a></li>
+<li>Prof George Hewitt, Professor of Caucasian Languages since 1996 at <a href="/wiki/SOAS,_University_of_London" class="mw-redirect" title="SOAS, University of London">SOAS, University of London</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li>
+<li>Derek Hirst (1930–2006), painter.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li>
+<li>David Holmes CB, Chairman from 1998–99 of British Airways Regional (became part of <a href="/wiki/BA_Connect" title="BA Connect">BA Connect</a> in 2002 and sold to <a href="/wiki/Flybe" title="Flybe">Flybe</a> in 2007), and from 2003–09 of the <a href="/wiki/RAC_Foundation" title="RAC Foundation">RAC Foundation</a></li>
+<li>Paul Kent, biochemist and Master from 1972–82 of <a href="/wiki/Van_Mildert_College" class="mw-redirect" title="Van Mildert College">Van Mildert College</a></li>
+<li><a href="/wiki/Kevin_Marsh" title="Kevin Marsh">Kevin Marsh</a>, BBC executive, Editor from 2002–06 of the <i><a href="/wiki/Today_(BBC_Radio_4)" title="Today (BBC Radio 4)">Today</a></i> programme</li>
+<li>Terry Murden, Business Editor from 2009–14 on <i><a href="/wiki/The_Scotsman" title="The Scotsman">The Scotsman</a></i><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li>
+<li>Prof <a href="/wiki/Roger_Needham" title="Roger Needham">Roger Needham</a> CBE, Professor of Computer Systems from 1981–98 at the <a href="/wiki/University_of_Cambridge" title="University of Cambridge">University of Cambridge</a>, Head of the <a href="/wiki/University_of_Cambridge_Computer_Laboratory" class="mw-redirect" title="University of Cambridge Computer Laboratory">University of Cambridge Computer Laboratory</a> from 1980–95, and invented important algorithms (<a href="/wiki/Needham-Schroeder_protocol" class="mw-redirect" title="Needham-Schroeder protocol">Needham-Schroeder protocol</a>) for computer security <sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li>
+<li>Prof David Parker, Queen Victoria Professor of Law from 1978–87 at the <a href="/wiki/University_of_Liverpool" title="University of Liverpool">University of Liverpool</a></li>
+<li>Ronald Peet CBE, Chief Executive of <a href="/wiki/Legal_%26_General" title="Legal &amp; General">Legal &amp; General</a> from 1972–84</li>
+<li>Prof John Richmond CBE, Professor of Medicine from 1973–89 at the <a href="/wiki/University_of_Sheffield" title="University of Sheffield">University of Sheffield</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup></li>
+<li>Rev Prof <a href="/wiki/Christopher_Rowland_(theologian)" title="Christopher Rowland (theologian)">Christopher Rowland</a>, <a href="/wiki/Dean_Ireland%27s_Professor_of_the_Exegesis_of_Holy_Scripture" title="Dean Ireland&#39;s Professor of the Exegesis of Holy Scripture">Dean Ireland's Professor of the Exegesis of Holy Scripture</a> since 1991 at the <a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a></li>
+<li><a href="/w/index.php?title=Bob_Rust&amp;action=edit&amp;redlink=1" class="new" title="Bob Rust (page does not exist)">Bob Rust</a>, former ITV weather presenter</li>
+<li>Prof <a href="/wiki/Denis_Sargan" title="Denis Sargan">Denis Sargan</a>, Professor of Econometrics from 1964–84 at the <a href="/wiki/London_School_of_Economics" title="London School of Economics">London School of Economics</a> (LSE).<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></li>
+<li><a href="/w/index.php?title=John_Saynor&amp;action=edit&amp;redlink=1" class="new" title="John Saynor (page does not exist)">John Saynor</a> CMG, Director-General from 1989–92 of the <a href="/wiki/Commonwealth_War_Graves_Commission" title="Commonwealth War Graves Commission">Commonwealth War Graves Commission</a></li>
+<li>Prof <a href="/w/index.php?title=James_Scott_CBE&amp;action=edit&amp;redlink=1" class="new" title="James Scott CBE (page does not exist)">James Scott CBE</a>, Special Professor of Health Care Planning from 1974–97 at the <a href="/wiki/University_of_Nottingham" title="University of Nottingham">University of Nottingham</a>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></li>
+<li><a href="/wiki/John_Scott-Scott" title="John Scott-Scott">John Scott-Scott</a>, rocket scientist</li>
+<li><a href="/w/index.php?title=Prof_David_Shepherd&amp;action=edit&amp;redlink=1" class="new" title="Prof David Shepherd (page does not exist)">Prof David Shepherd</a>, Neuroscientist and Deputy Vice Chancellor at Bangor University</li>
+<li><a href="/wiki/Edward_Smallwood" title="Edward Smallwood">Edward Smallwood</a>, Liberal MP from 1917–18 of <a href="/wiki/Islington_East_(UK_Parliament_constituency)" title="Islington East (UK Parliament constituency)">Islington East</a></li>
+<li><a href="/w/index.php?title=Graham_Snowdon&amp;action=edit&amp;redlink=1" class="new" title="Graham Snowdon (page does not exist)">Graham Snowdon</a>, sports journalist, former cycling correspondent from 1985–97 of <i>The Guardian</i></li>
+<li><a href="/w/index.php?title=Frank_Vince&amp;action=edit&amp;redlink=1" class="new" title="Frank Vince (page does not exist)">Frank Vince</a>, <a href="/wiki/Endocrinology" title="Endocrinology">endocrinologist</a></li>
+<li><a href="/w/index.php?title=Sir_Roy_Watts&amp;action=edit&amp;redlink=1" class="new" title="Sir Roy Watts (page does not exist)">Sir Roy Watts</a> <a href="/wiki/Order_of_the_British_Empire" title="Order of the British Empire">CBE</a>, <a href="/wiki/British_Airways" title="British Airways">BA</a> Chief Executive from 1979–82</li>
+<li>John Whaley CBE, translator.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li>
+<li>Peter Wormald, <a href="/wiki/Registrar_General" class="mw-redirect" title="Registrar General">Registrar General</a>, England and Wales from 1990–96, in charge of the <a href="/wiki/United_Kingdom_Census_1991" class="mw-redirect" title="United Kingdom Census 1991">1991 census</a></li></ul>
+<h3><span class="mw-headline" id="Doncaster_High_School_for_Girls">Doncaster High School for Girls</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit&amp;section=9" title="Edit section: Doncaster High School for Girls">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Madge_Adam" title="Madge Adam">Madge Adam</a>, astronomer.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup></li>
+<li><a href="/wiki/Margo_Gunn" title="Margo Gunn">Margo Gunn</a>, actress</li>
+<li><a href="/wiki/Jane_Harrison_(GC)" class="mw-redirect" title="Jane Harrison (GC)">Jane Harrison</a>, one of four women to have been awarded the <a href="/wiki/George_Cross" title="George Cross">George Cross</a></li></ul>
+<h3><span class="mw-headline" id="Doncaster_Grammar_School">Doncaster Grammar School</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit&amp;section=10" title="Edit section: Doncaster Grammar School">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/John_Cartwright_(lawyer)" class="mw-redirect" title="John Cartwright (lawyer)">John Cartwright</a>, Emeritus Professor of the Law of Contract, <a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a></li>
+<li><a href="/wiki/Gillian_Coultard" title="Gillian Coultard">Gillian Coultard</a>, football player, former Captain of the <a href="/wiki/England_women%27s_national_football_team" title="England women&#39;s national football team">England Woman's football team</a></li>
+<li>Michael Stevenson, BBC television producer from 1988–90 of <i><a href="/wiki/On_the_Record_(BBC_TV_series)" class="mw-redirect" title="On the Record (BBC TV series)">On the Record</a></i>, and Director from 1999–2003 of BBC Education</li>
+<li>Adam Sunderland, advertising executive at <a href="/wiki/J._Walter_Thompson" title="J. Walter Thompson">JWT International</a></li></ul>
+<h2><span class="mw-headline" id="Old_Danensians">Old Danensians</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit&amp;section=11" title="Edit section: Old Danensians">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Alumni and former staff of Doncaster Grammar School, Doncaster High School for Girls, Hall Cross Comprehensive School and Hall Cross Academy, known as Old Danensians, are able to join the Old Danensians' Club.
+</p><p>The object of the Club is to maintain connections between past members of the School with one another and the School, and generally promote the welfare of the foundation.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Hall_Cross_Academy">Hall Cross Academy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit&amp;section=12" title="Edit section: Hall Cross Academy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 2012–2013 term saw the establishment change its name to Hall Cross Academy.
+</p>
+<h2><span class="mw-headline" id="Academic_performance">Academic performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit&amp;section=13" title="Edit section: Academic performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>GCSE results for the school are slightly above average. At A-level it performs well, with some of the best results in South Yorkshire, and the third best in Doncaster LEA. Results in Doncaster at GCSE are notably low, but they are much better at A level, similar to the situation in Grimsby and Hull.
+</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit&amp;section=14" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Hall_x_today.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/7/7b/Hall_x_today.jpg/120px-Hall_x_today.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/en/thumb/7/7b/Hall_x_today.jpg/180px-Hall_x_today.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/7/7b/Hall_x_today.jpg/240px-Hall_x_today.jpg 2x" data-file-width="604" data-file-height="453" /></a></div></div>
+			<div class="gallerytext">
+<p>An external view of the Academy
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Hall_x_library.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b6/Hall_x_library.jpg/120px-Hall_x_library.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b6/Hall_x_library.jpg/180px-Hall_x_library.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b6/Hall_x_library.jpg/240px-Hall_x_library.jpg 2x" data-file-width="604" data-file-height="453" /></a></div></div>
+			<div class="gallerytext">
+<p>The library, as seen from the balcony
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Hall_x_library_window.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/7/7c/Hall_x_library_window.jpg/120px-Hall_x_library_window.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/en/thumb/7/7c/Hall_x_library_window.jpg/180px-Hall_x_library_window.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/7/7c/Hall_x_library_window.jpg/240px-Hall_x_library_window.jpg 2x" data-file-width="604" data-file-height="453" /></a></div></div>
+			<div class="gallerytext">
+<p>A close up of the stained glass library window
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:24px auto;"><a href="/wiki/File:Hall_Cross_001.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/2/28/Hall_Cross_001.jpg/120px-Hall_Cross_001.jpg" decoding="async" width="120" height="102" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/28/Hall_Cross_001.jpg/180px-Hall_Cross_001.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/28/Hall_Cross_001.jpg/240px-Hall_Cross_001.jpg 2x" data-file-width="1236" data-file-height="1047" /></a></div></div>
+			<div class="gallerytext">
+<p>Students at the Thorne Road site, 1887
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:19px auto;"><a href="/wiki/File:Hall_Cross_009.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/7/7e/Hall_Cross_009.jpg/120px-Hall_Cross_009.jpg" decoding="async" width="120" height="112" srcset="//upload.wikimedia.org/wikipedia/en/thumb/7/7e/Hall_Cross_009.jpg/180px-Hall_Cross_009.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/7/7e/Hall_Cross_009.jpg/240px-Hall_Cross_009.jpg 2x" data-file-width="1417" data-file-height="1319" /></a></div></div>
+			<div class="gallerytext">
+<p>The first students to attend the Thorne Road site, 1870
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:21.5px auto;"><a href="/wiki/File:Hall_Cross_005.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/45/Hall_Cross_005.jpg/120px-Hall_Cross_005.jpg" decoding="async" width="120" height="107" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/45/Hall_Cross_005.jpg/180px-Hall_Cross_005.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/45/Hall_Cross_005.jpg/240px-Hall_Cross_005.jpg 2x" data-file-width="1164" data-file-height="1036" /></a></div></div>
+			<div class="gallerytext">
+<p>The original school building, 1869
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.abrail.co.uk/Mag%2047.htm">http://www.abrail.co.uk/Mag%2047.htm</a></span>
+</li>
+<li id="cite_note-GBRJ-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-GBRJ_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GBRJ_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation episode"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/programmes/b03qgh0r">"Nottingham to Leeds"</a>. <a href="/wiki/Great_British_Railway_Journeys" title="Great British Railway Journeys"><i>Great British Railway Journeys</i></a>. Series 5. Episode 10. 17 January 2014. BBC<span class="reference-accessdate">. Retrieved <span class="nowrap">17 January</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Great+British+Railway+Journeys&amp;rft.series=Series+5.+Episode+10&amp;rft.date=2014-01-17&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fprogrammes%2Fb03qgh0r&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHall+Cross+Academy" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="http://www.doncasterfreepress.co.uk/free-press-sport/Hall-Cross-hockey-star-scores.4408662.jp">"Hall Cross hockey star scores at the Olympics"</a>. <i>Doncaster Free Press</i>. 20 August 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Doncaster+Free+Press&amp;rft.atitle=Hall+Cross+hockey+star+scores+at+the+Olympics&amp;rft.date=2008-08-20&amp;rft_id=http%3A%2F%2Fwww.doncasterfreepress.co.uk%2Ffree-press-sport%2FHall-Cross-hockey-star-scores.4408662.jp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHall+Cross+Academy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Geddes, Tanya (27 July 2000). <a rel="nofollow" class="external text" href="http://www.southyorkshiretimes.co.uk/news/FIVE-WILL-RECEIVE-TOWN39S-TOP.367166.jp">"FIVE WILL RECEIVE TOWN'S TOP HONOUR"</a>. <i>South Yorkshire Times</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=South+Yorkshire+Times&amp;rft.atitle=FIVE+WILL+RECEIVE+TOWN%27S+TOP+HONOUR&amp;rft.date=2000-07-27&amp;rft.au=Geddes%2C+Tanya&amp;rft_id=http%3A%2F%2Fwww.southyorkshiretimes.co.uk%2Fnews%2FFIVE-WILL-RECEIVE-TOWN39S-TOP.367166.jp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHall+Cross+Academy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Marsden, E. (1952). <a rel="nofollow" class="external text" href="https://docs.google.com/viewer?a=v&amp;q=cache:0WIKYzPsSm0J:www.rsc.org/delivery/_ArticleLinking/DisplayArticleForFree.cfm%3Fdoi%3DJR9520001557%26JournalCode%3DJR+Thomas+Easterfield+doncaster&amp;hl=en&amp;gl=uk&amp;pid=bl&amp;srcid=ADGEESiVBD9iKLKOeochnYw_2upZK_BSSZoezi3Lz6wgiKjJvW2OS0GWxSS4qJDNd6g6hws_bp01fYgIO0mQpNrSWfJp8ZOF66fy1prRtJ_37vK3KGm2zPTBvZsVwjodlPB1GMYuC33v&amp;sig=AHIEtbTIAA08w2qrDOYxe-UK4GW-xj-83w">"Obituary Notices"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Obituary+Notices&amp;rft.date=1952&amp;rft.au=Marsden%2C+E.&amp;rft_id=https%3A%2F%2Fdocs.google.com%2Fviewer%3Fa%3Dv%26q%3Dcache%3A0WIKYzPsSm0J%3Awww.rsc.org%2Fdelivery%2F_ArticleLinking%2FDisplayArticleForFree.cfm%253Fdoi%253DJR9520001557%2526JournalCode%253DJR%2BThomas%2BEasterfield%2Bdoncaster%26hl%3Den%26gl%3Duk%26pid%3Dbl%26srcid%3DADGEESiVBD9iKLKOeochnYw_2upZK_BSSZoezi3Lz6wgiKjJvW2OS0GWxSS4qJDNd6g6hws_bp01fYgIO0mQpNrSWfJp8ZOF66fy1prRtJ_37vK3KGm2zPTBvZsVwjodlPB1GMYuC33v%26sig%3DAHIEtbTIAA08w2qrDOYxe-UK4GW-xj-83w&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHall+Cross+Academy" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.soas.ac.uk/staff/staff31100.php">George Hewitt</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lynton, Norbert (25 May 2006). <a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/obituaries/derek-hirst-479587.html">"Obituaries – Derek Hirst"</a>. <i>The Independent</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 December</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Independent&amp;rft.atitle=Obituaries+%E2%80%93+Derek+Hirst&amp;rft.date=2006-05-25&amp;rft.au=Lynton%2C+Norbert&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fobituaries%2Fderek-hirst-479587.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHall+Cross+Academy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-28838320">BBC Scotland 2014</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.admin.cam.ac.uk/news/dp/2003030401">Roger Needham</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.timesonline.co.uk/tol/comment/obituaries/article3841665.ece">"Professor John Richmond"</a>. <i>The Times</i>. London. 30 April 2008.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Times&amp;rft.atitle=Professor+John+Richmond&amp;rft.date=2008-04-30&amp;rft_id=http%3A%2F%2Fwww.timesonline.co.uk%2Ftol%2Fcomment%2Fobituaries%2Farticle3841665.ece&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHall+Cross+Academy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news">Hendry, David F (19 April 1996). <a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/people/obituary--professor-denis-sargan-1305657.html">"OBITUARY&#160;: Professor Denis Sargan"</a>. <i>The Independent</i>. London.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Independent&amp;rft.atitle=OBITUARY+%3A+Professor+Denis+Sargan&amp;rft.date=1996-04-19&amp;rft.aulast=Hendry&amp;rft.aufirst=David+F&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fpeople%2Fobituary--professor-denis-sargan-1305657.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHall+Cross+Academy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news">Bourke, J.B. (14 May 1997). <a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/people/obituary-professor-james-scott-1261415.html">"Obituary: Professor James Scott"</a>. <i>The Independent</i>. London.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Independent&amp;rft.atitle=Obituary%3A+Professor+James+Scott&amp;rft.date=1997-05-14&amp;rft.aulast=Bourke&amp;rft.aufirst=J.B.&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fpeople%2Fobituary-professor-james-scott-1261415.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHall+Cross+Academy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/obituaries/john-whaley-501518.html">"John Whaley"</a>. <i>The Independent</i>. London. 5 August 2005.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Independent&amp;rft.atitle=John+Whaley&amp;rft.date=2005-08-05&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fobituaries%2Fjohn-whaley-501518.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHall+Cross+Academy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news">Williams, Kay (10 September 2001). <a rel="nofollow" class="external text" href="https://www.theguardian.com/news/2001/sep/10/guardianobituaries.obituaries">"Madge Adam"</a>. <i>The Guardian</i>. London.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Guardian&amp;rft.atitle=Madge+Adam&amp;rft.date=2001-09-10&amp;rft.aulast=Williams&amp;rft.aufirst=Kay&amp;rft_id=https%3A%2F%2Fwww.theguardian.com%2Fnews%2F2001%2Fsep%2F10%2Fguardianobituaries.obituaries&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHall+Cross+Academy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">
+<cite class="citation web"><a rel="nofollow" class="external text" href="http://www.old-danensians.org.uk/about.html">"Old Danensians' Club"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 September</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Old+Danensians%27+Club&amp;rft_id=http%3A%2F%2Fwww.old-danensians.org.uk%2Fabout.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHall+Cross+Academy" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://hallcrossacademy.co.uk/">Hall Cross Academy website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ofsted.gov.uk/portal/site/Internet/menuitem.7c7b38b14d870c7bb1890a01637046a0/?event=getReport&amp;urn=106808&amp;inspectionNumber=309235&amp;providerCategoryID=8192&amp;fileName=\\school\\106\\s5_106808_20071126.xml">2007 Ofsted report</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.old-danensians.org.uk/index.html">Old Danensians' Club website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.edubase.gov.uk/establishment/summary.xhtml?urn=106808">EduBase</a></li></ul>
+<p class="mw-empty-elt">
+</p>
+<div role="navigation" class="navbox" aria-labelledby="Schools_in_Doncaster" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Schools_in_Doncaster" title="Template:Schools in Doncaster"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Schools_in_Doncaster" title="Template talk:Schools in Doncaster"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Schools_in_Doncaster&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Schools_in_Doncaster" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_schools_in_Doncaster" title="List of schools in Doncaster">Schools in Doncaster</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Secondary</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/The_Armthorpe_Academy" title="The Armthorpe Academy">The Armthorpe Academy</a></li>
+<li><a href="/wiki/Ash_Hill_Academy" title="Ash Hill Academy">Ash Hill Academy</a></li>
+<li><a href="/wiki/Balby_Carr_Community_Academy" class="mw-redirect" title="Balby Carr Community Academy">Balby Carr Community Academy</a></li>
+<li><a href="/wiki/Campsmount_Academy" title="Campsmount Academy">Campsmount Academy</a></li>
+<li><a href="/wiki/De_Warenne_Academy" title="De Warenne Academy">De Warenne Academy</a></li>
+<li><a href="/wiki/Don_Valley_Academy" title="Don Valley Academy">Don Valley Academy</a></li>
+<li><a href="/wiki/Doncaster_Collegiate_Sixth_Form" title="Doncaster Collegiate Sixth Form">Doncaster Collegiate Sixth Form</a></li>
+<li><a class="mw-selflink selflink">Hall Cross Academy</a></li>
+<li><a href="/wiki/The_Hayfield_School" title="The Hayfield School">The Hayfield School</a></li>
+<li><a href="/wiki/Hungerhill_School" title="Hungerhill School">Hungerhill School</a></li>
+<li><a href="/wiki/Laurel_Academy" title="Laurel Academy">Laurel Academy</a></li>
+<li><a href="/wiki/The_McAuley_Catholic_High_School" title="The McAuley Catholic High School">The McAuley Catholic High School</a></li>
+<li><a href="/wiki/Outwood_Academy_Adwick" title="Outwood Academy Adwick">Outwood Academy Adwick</a></li>
+<li><a href="/wiki/Outwood_Academy_Danum" title="Outwood Academy Danum">Outwood Academy Danum</a></li>
+<li><a href="/wiki/Ridgewood_School" title="Ridgewood School">Ridgewood School</a></li>
+<li><a href="/wiki/Rossington_All_Saints_Academy" title="Rossington All Saints Academy">Rossington All Saints Academy</a></li>
+<li><a href="/wiki/Sir_Thomas_Wharton_Academy" title="Sir Thomas Wharton Academy">Sir Thomas Wharton Academy</a></li>
+<li><a href="/wiki/Trinity_Academy,_Thorne" title="Trinity Academy, Thorne">Trinity Academy</a></li>
+<li><a href="/wiki/XP_School" title="XP School">XP School</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Independent</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hill_House_School,_Doncaster" title="Hill House School, Doncaster">Hill House School</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Further education</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Doncaster_College" title="Doncaster College">Doncaster College</a></li>
+<li><a href="/wiki/Doncaster_Collegiate_Sixth_Form" title="Doncaster Collegiate Sixth Form">Doncaster Collegiate Sixth Form</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1320
+Cached time: 20190922202847
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.600 seconds
+Real time usage: 0.769 seconds
+Preprocessor visited node count: 3613/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 60252/2097152 bytes
+Template argument size: 7409/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 37612/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.289/10.000 seconds
+Lua memory usage: 5.36 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  688.280      1 -total
+ 51.58%  355.025      1 Template:Infobox_UK_school
+ 30.77%  211.768      1 Template:Infobox
+ 26.10%  179.656      1 Template:Reflist
+ 15.96%  109.857      1 Template:Infobox_school/short_description
+ 14.17%   97.505      1 Template:Cite_episode
+  8.09%   55.655      2 Template:Citation_needed
+  8.03%   55.277     47 Template:If_empty
+  6.86%   47.202      2 Template:Fix
+  6.24%   42.942      1 Template:Coord
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9917768-0!canonical and timestamp 20190922202846 and revision id 903583256
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hall_Cross_Academy&amp;oldid=903583256">https://en.wikipedia.org/w/index.php?title=Hall_Cross_Academy&amp;oldid=903583256</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Educational_institutions_established_in_the_14th_century" title="Category:Educational institutions established in the 14th century">Educational institutions established in the 14th century</a></li><li><a href="/wiki/Category:1350_establishments_in_England" title="Category:1350 establishments in England">1350 establishments in England</a></li><li><a href="/wiki/Category:Grade_II_listed_buildings_in_South_Yorkshire" title="Category:Grade II listed buildings in South Yorkshire">Grade II listed buildings in South Yorkshire</a></li><li><a href="/wiki/Category:Grade_II_listed_educational_buildings" title="Category:Grade II listed educational buildings">Grade II listed educational buildings</a></li><li><a href="/wiki/Category:Secondary_schools_in_Doncaster" title="Category:Secondary schools in Doncaster">Secondary schools in Doncaster</a></li><li><a href="/wiki/Category:George_Gilbert_Scott_buildings" title="Category:George Gilbert Scott buildings">George Gilbert Scott buildings</a></li><li><a href="/wiki/Category:Academies_in_Doncaster" title="Category:Academies in Doncaster">Academies in Doncaster</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2018" title="Category:Articles with unsourced statements from July 2018">Articles with unsourced statements from July 2018</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2008" title="Category:Articles needing additional references from May 2008">Articles needing additional references from May 2008</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_needing_cleanup_from_September_2011" title="Category:Articles needing cleanup from September 2011">Articles needing cleanup from September 2011</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2009" title="Category:Articles with unsourced statements from October 2009">Articles with unsourced statements from October 2009</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2011" title="Category:Use dmy dates from September 2011">Use dmy dates from September 2011</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hall+Cross+Academy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hall+Cross+Academy" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Hall_Cross_Academy" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Hall_Cross_Academy" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Hall_Cross_Academy">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hall_Cross_Academy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hall_Cross_Academy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hall_Cross_Academy&amp;oldid=903583256" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hall_Cross_Academy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5642578" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hall_Cross_Academy&amp;id=903583256" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hall+Cross+Academy">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hall+Cross+Academy&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hall_Cross_Academy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5642578#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 26 June 2019, at 15:09<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hall_Cross_Academy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.600","walltime":"0.769","ppvisitednodes":{"value":3613,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":60252,"limit":2097152},"templateargumentsize":{"value":7409,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":37612,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  688.280      1 -total"," 51.58%  355.025      1 Template:Infobox_UK_school"," 30.77%  211.768      1 Template:Infobox"," 26.10%  179.656      1 Template:Reflist"," 15.96%  109.857      1 Template:Infobox_school/short_description"," 14.17%   97.505      1 Template:Cite_episode","  8.09%   55.655      2 Template:Citation_needed","  8.03%   55.277     47 Template:If_empty","  6.86%   47.202      2 Template:Fix","  6.24%   42.942      1 Template:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.289","limit":"10.000"},"limitreport-memusage":{"value":5623724,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20190922202847","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hall Cross Academy","url":"https:\/\/en.wikipedia.org\/wiki\/Hall_Cross_Academy","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5642578","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5642578","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-03-07T19:25:16Z","dateModified":"2019-06-26T15:09:12Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/8\/8b\/HallCrossSchool_Lion.png","headline":"grade II listed secondary school in the United kingdom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1245"});});</script>
+</body>
+</html>
+

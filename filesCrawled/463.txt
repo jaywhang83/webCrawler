@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Barry Sheerman - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Barry_Sheerman","wgTitle":"Barry Sheerman","wgCurRevisionId":918574751,"wgRevisionId":918574751,"wgArticleId":450368,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from October 2016","Articles with permanently dead external links","Use dmy dates from June 2017","All articles with unsourced statements","Articles with unsourced statements from December 2018","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with WorldCat-LCCN identifiers","1940 births","Living people","People educated at Hampton School","Labour Co-operative MPs for English constituencies","Alumni of the London School of Economics","Alumni of the University of London",
+"Academics of Swansea University","UK MPs 1979–1983","UK MPs 1983–1987","UK MPs 1987–1992","UK MPs 1992–1997","UK MPs 1997–2001","UK MPs 2001–2005","UK MPs 2005–2010","UK MPs 2010–2015","UK MPs 2015–2017","UK MPs 2017–","People from Sunbury-on-Thames","People from Huddersfield","Governors of the London School of Economics"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Barry_Sheerman","wgRelevantArticleId":450368,"wgRequestId":"XZB-JApAIC8AAAa1KPYAAABA","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],
+"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q477464","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready",
+"ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Official_portrait_of_Mr_Barry_Sheerman_crop_2.jpg/1200px-Official_portrait_of_Mr_Barry_Sheerman_crop_2.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Barry_Sheerman"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Barry_Sheerman&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Barry_Sheerman&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Barry_Sheerman"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Barry_Sheerman rootpage-Barry_Sheerman skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Barry Sheerman</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 100%;"><div style="display:inline-block; font-size:130%;" class="fn">Barry Sheerman</div><br /><div class="honorific-suffix" style="display:inline; font-weight: normal;"><span class="noexcerpt" style="font-size:100%;"><a href="/wiki/Member_of_the_British_House_of_Commons" class="mw-redirect" title="Member of the British House of Commons">MP</a></span></div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Official_portrait_of_Mr_Barry_Sheerman_crop_2.jpg" class="image"><img alt="Official portrait of Mr Barry Sheerman crop 2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Official_portrait_of_Mr_Barry_Sheerman_crop_2.jpg/220px-Official_portrait_of_Mr_Barry_Sheerman_crop_2.jpg" decoding="async" width="220" height="293" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Official_portrait_of_Mr_Barry_Sheerman_crop_2.jpg/330px-Official_portrait_of_Mr_Barry_Sheerman_crop_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Official_portrait_of_Mr_Barry_Sheerman_crop_2.jpg/440px-Official_portrait_of_Mr_Barry_Sheerman_crop_2.jpg 2x" data-file-width="1554" data-file-height="2072" /></a><div style="line-height:normal;padding-top:0.2em;">Sheerman in June 2017</div></td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em">Chair of the <a href="/wiki/Education_Select_Committee" title="Education Select Committee">Education Select Committee</a></th></tr><tr><td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br />16 July 2001&#160;–&#32;19 June 2010</td></tr><tr><th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th><td><a href="/wiki/Malcolm_Wicks" title="Malcolm Wicks">Malcolm Wicks</a></td></tr><tr><th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th><td><a href="/wiki/Graham_Stuart_(politician)" title="Graham Stuart (politician)">Graham Stuart</a></td></tr><tr><th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em">Shadow Minister of State for <a href="/wiki/Department_of_Social_Security" class="mw-redirect" title="Department of Social Security">Social Security <br />(Shadow Minister for Disabled People)</a></th></tr><tr><td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br />8 July 1992&#160;–&#32;12 May 1994</td></tr><tr><th scope="row" style="text-align:left">Leader</th><td><a href="/wiki/John_Smith_(Labour_Party_leader)" title="John Smith (Labour Party leader)">John Smith</a></td></tr><tr><th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th><td><a href="/wiki/Tom_Clarke_(politician)" title="Tom Clarke (politician)">Tom Clarke</a> <small>(1995)</small></td></tr><tr><th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em"><a href="/wiki/Member_of_Parliament_(UK)" class="mw-redirect" title="Member of Parliament (UK)">Member of Parliament</a> <br /> for <a href="/wiki/Huddersfield_(UK_Parliament_constituency)" title="Huddersfield (UK Parliament constituency)">Huddersfield</a><br /><small><a href="/wiki/Huddersfield_East_(UK_Parliament_constituency)" title="Huddersfield East (UK Parliament constituency)">Huddersfield East</a> (1979–1983)</small></th></tr><tr><td colspan="2" style="text-align:center;border-bottom:none"><div style="width:100%; margin:0; background-color: lavender"><b><a href="/wiki/Incumbent" title="Incumbent">Incumbent</a></b></div></td></tr><tr><td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>Assumed office</b></span>&#32;<br />3 May 1979</td></tr><tr><th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th><td><a href="/wiki/Joseph_Mallalieu" class="mw-redirect" title="Joseph Mallalieu">Joseph Mallalieu</a></td></tr><tr><th scope="row" style="text-align:left">Majority</th><td>12,005 (27.4%)</td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th colspan="2" style="text-align:center;background:lavender">Personal details</th></tr><tr><th scope="row">Born</th><td><span style="display:none"> (<span class="bday">1940-08-17</span>) </span>17 August 1940<span class="noprint ForceAgeToShow"> (age&#160;79)</span><br /><a href="/wiki/Sunbury-on-Thames" title="Sunbury-on-Thames">Sunbury-on-Thames</a>, <a href="/wiki/Middlesex" title="Middlesex">Middlesex</a>, England</td></tr><tr><th scope="row">Nationality</th><td>British</td></tr><tr><th scope="row">Political party</th><td><a href="/wiki/Labour_Co-operative" class="mw-redirect" title="Labour Co-operative">Labour Co-operative</a></td></tr><tr><th scope="row">Spouse(s)</th><td><div style="display:inline-block;line-height:normal;margin:2px 0px;">Pamela Brenchley&#32;&#40;<abbr title="married">m.</abbr>&#160;1965&#41;</div></td></tr><tr><th scope="row">Children</th><td>4</td></tr><tr><th scope="row"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></th><td><a href="/wiki/London_School_of_Economics" title="London School of Economics">London School of Economics</a>, <a href="/wiki/University_of_London" title="University of London">University of London</a></td></tr><tr><th scope="row">Profession</th><td><a href="/wiki/Academic" class="mw-redirect" title="Academic">Academic</a></td></tr><tr><th scope="row">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="http://www.barry4huddersfield.co.uk/">www<wbr />.barry4huddersfield<wbr />.co<wbr />.uk</a></span></td></tr></tbody></table>
+<p><b>Barry John Sheerman</b> (born 17 August 1940) is a British <a href="/wiki/Labour_Co-operative" class="mw-redirect" title="Labour Co-operative">Labour Co-operative</a> <a href="/wiki/Politician" title="Politician">politician</a> who has been the <a href="/wiki/Member_of_Parliament" class="mw-redirect" title="Member of Parliament">Member of Parliament</a> (MP) for <a href="/wiki/Huddersfield_(UK_Parliament_constituency)" title="Huddersfield (UK Parliament constituency)">Huddersfield</a> since the <a href="/wiki/1979_United_Kingdom_general_election" title="1979 United Kingdom general election">1979 general election</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_life"><span class="tocnumber">1</span> <span class="toctext">Early life</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Parliamentary_career"><span class="tocnumber">2</span> <span class="toctext">Parliamentary career</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Personal_life"><span class="tocnumber">3</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#News_items"><span class="tocnumber">5.1</span> <span class="toctext">News items</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Video_clips"><span class="tocnumber">5.2</span> <span class="toctext">Video clips</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_life">Early life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Barry_Sheerman&amp;action=edit&amp;section=1" title="Edit section: Early life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sheerman was born on 17 August 1940 in <a href="/wiki/Sunbury-on-Thames" title="Sunbury-on-Thames">Sunbury-on-Thames</a>, <a href="/wiki/Middlesex" title="Middlesex">Middlesex</a> and went to Hampton Grammar School (which became the independent <a href="/wiki/Hampton_School" title="Hampton School">Hampton School</a> in 1975) on <i>Hanworth Road</i> in <a href="/wiki/Hampton,_London" title="Hampton, London">Hampton</a> then <a href="/wiki/Kingston_College_(England)" title="Kingston College (England)">Kingston Technical College</a>. He was educated at the <a href="/wiki/London_School_of_Economics" title="London School of Economics">London School of Economics</a> (<a href="/wiki/Bachelor_of_Science" title="Bachelor of Science">BSc</a> Economics 1965) and at the <a href="/wiki/University_of_London" title="University of London">University of London</a> (MSc 1967). He became a lecturer at the <a href="/wiki/Swansea_University" title="Swansea University">University of Wales, Swansea</a> in 1966 and remained there until his election to parliament in 1979.
+</p>
+<h2><span class="mw-headline" id="Parliamentary_career">Parliamentary career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Barry_Sheerman&amp;action=edit&amp;section=2" title="Edit section: Parliamentary career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sheerman unsuccessfully contested <a href="/wiki/Taunton_(UK_Parliament_constituency)" title="Taunton (UK Parliament constituency)">Taunton</a> in the <a href="/wiki/October_1974_United_Kingdom_general_election" title="October 1974 United Kingdom general election">October 1974 election</a>, and became the MP for Huddersfield East from 1979 to 1983 and for <a href="/wiki/Huddersfield_(UK_Parliament_constituency)" title="Huddersfield (UK Parliament constituency)">Huddersfield</a> since the <a href="/wiki/1983_United_Kingdom_general_election" title="1983 United Kingdom general election">1983 general election</a>. Sheerman has held the Huddersfield seats since, with his majority as low as 3,955 in 1983 and as high as 15,848 in the <a href="/wiki/1997_United_Kingdom_general_election" title="1997 United Kingdom general election">1997 general election</a>. In the most recent general election in <a href="/wiki/2017_United_Kingdom_general_election" title="2017 United Kingdom general election">2017</a>, Sheerman's majority was increased to 12,005 with a swing of 4.7% to Labour.
+</p><p>From 1983 to 1988, Sheerman was the <a href="/wiki/Labour_Party_(UK)" title="Labour Party (UK)">Labour</a> spokesperson on education and employment; for <a href="/wiki/Home_Affairs" class="mw-redirect" title="Home Affairs">Home Affairs</a> (as Shadow Deputy <a href="/wiki/Home_Secretary" title="Home Secretary">Home Secretary</a>) from 1988 to 1992; and for Disabled People's Rights from 1992 to 1994. He was  Chair of the <a href="/wiki/House_of_Commons_of_the_United_Kingdom" title="House of Commons of the United Kingdom">House of Commons</a> Education and Skills <a href="/wiki/Select_Committee_(Westminster_System)" class="mw-redirect" title="Select Committee (Westminster System)">select committee</a> from 2001 to 2010, renamed the <a href="/wiki/Children,_Schools_and_Families_Committee" class="mw-redirect" title="Children, Schools and Families Committee">Children, Schools and Families Committee</a> in 2007. Under his chairmanship, the Committee was often critical of government policy. Sheerman warned the government not to "lose their nerve" over reforming secondary education exam system back in 2005,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and in 2006 said it was "naive" to allocate local school places through parental choice, with lottery selection being the best way to avoid "bloody awful" schools existing as a side effect of parents pushing for their children to study elsewhere.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> During Sheerman's chairmanship, the select committee produced reports on subjects such as home education, education outside the classroom, and young people not in education employment or training (NEETs).
+</p><p>Sheerman consistently voted for the Iraq war,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> and has nearly always voted to block subsequent independent investigations into the war, with the most recent such vote in 2016.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2018)">citation needed</span></a></i>&#93;</sup> He is a member of <a href="/wiki/Labour_Friends_of_Israel" title="Labour Friends of Israel">Labour Friends of Israel</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>He is Chair of the Labour Forum for Criminal Justice and of the Cross-Party Advisory Group on Preparation for European Monetary Union. Outside parliament, he is Chair of the National Educational Research and Development Trust, and a trustee of the <a rel="nofollow" class="external text" href="http://yorkshirechildrenscentre.org.uk/">National Children's Centre</a>. His political interests are listed as trade, industry, finance, <a href="/wiki/Further_education" title="Further education">further education</a>, education, economy, the <a href="/wiki/European_Union" title="European Union">European Union</a>, <a href="/wiki/South_America" title="South America">South America</a> and the <a href="/wiki/United_States" title="United States">United States</a>. 
+</p><p>In June 2009, Sheerman called for a secret ballot of the <a href="/wiki/Parliamentary_Labour_Party" title="Parliamentary Labour Party">Parliamentary Labour Party</a> on whether <a href="/wiki/Gordon_Brown" title="Gordon Brown">Gordon Brown</a> should continue in office as prime minister. This followed widespread criticism of Brown's performance and the resignation of Cabinet member <a href="/wiki/James_Purnell" title="James Purnell">James Purnell</a>. Sheerman later reassured his local party chairman that he had not directly called for Brown's resignation.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Sheerman called for a London catering company to employ "English workers" in a <a href="/wiki/Twitter" title="Twitter">Twitter</a> exchange on 23 April 2012.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> The comments reached the national press. In response Sheerman said the objection to him speaking out was "pernicious political correctness".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>He is founder and chairman of <a href="/wiki/Policy_Connect" title="Policy Connect">Policy Connect</a>, a cross-party, not-for-profit based in London, where he regularly chairs seminar events and research inquiries. He is also chair and co-chair of a number of official All-Party Parliamentary Groups, including the <a href="/wiki/All-Party_Parliamentary_Carbon_Monoxide_Group" title="All-Party Parliamentary Carbon Monoxide Group">All-Party Parliamentary Carbon Monoxide Group</a>, the All-Party Parliamentary Manufacturing Group, and the Bullying All-Party Group. Since 2012, Sheerman has led the Schools to Work Commission, the Labour Party's policy review on the transition from education to employment.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>In June 2015, Sheerman caused controversy when he argued that lowering the voting age to 16, by reducing childhood, might raise the risk of sexual abuse.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>He supported <a href="/wiki/Owen_Smith" title="Owen Smith">Owen Smith</a> in the <a href="/wiki/2016_Labour_Party_(UK)_leadership_election" class="mw-redirect" title="2016 Labour Party (UK) leadership election">2016 Labour Party (UK) leadership election</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>Sheerman voted for the triggering of Article 50 (the trigger for leaving the EU). Kirklees, which his constituency falls within, saw 55% of its residents vote in the 2016 EU referendum to leave the EU. In October 2017, Sheerman appeared on television and announced that he believed that remain vote came mostly from the better educated people in the country.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>In 1993, Sheerman co-wrote, with Isaac Kramnick, a biography of the Labour intellectual <a href="/wiki/Harold_Laski" title="Harold Laski">Harold Laski</a>.
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Barry_Sheerman&amp;action=edit&amp;section=3" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Barry Sheerman married Pamela Elizabeth Brenchley in 1965 in north <a href="/wiki/Surrey" title="Surrey">Surrey</a>, with whom he has one son (born in 1978) and three daughters (born in 1970, 1972 and 1981). He lives in a flat in <a href="/wiki/Almondbury" title="Almondbury">Almondbury</a>, Huddersfield.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> His recreations include walking, biography and films. 
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Barry_Sheerman&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/education/4284407.stm">"End A-level 'obsession', says MP"</a>. <i>BBC</i>. 21 February 2005<span class="reference-accessdate">. Retrieved <span class="nowrap">7 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC&amp;rft.atitle=End+A-level+%27obsession%27%2C+says+MP&amp;rft.date=2005-02-21&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Feducation%2F4284407.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarry+Sheerman" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/uk_news/education/5237548.stm">"Parental school choice 'naive<span class="cs1-kern-right">'</span>"</a>. BBC. 2 August 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">7 April</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Parental+school+choice+%27naive%27&amp;rft.date=2006-08-02&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F2%2Fhi%2Fuk_news%2Feducation%2F5237548.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarry+Sheerman" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.theyworkforyou.com/mp/10534/barry_sheerman/huddersfield/divisions?policy=1049">"Barry Sheerman MP, Huddersfield"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Barry+Sheerman+MP%2C+Huddersfield&amp;rft_id=https%3A%2F%2Fwww.theyworkforyou.com%2Fmp%2F10534%2Fbarry_sheerman%2Fhuddersfield%2Fdivisions%3Fpolicy%3D1049&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarry+Sheerman" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.lfi.org.uk/in-parliament/">"LFI Supporters in Parliament"</a>. <i>Labour Friends of Israel</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 September</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Labour+Friends+of+Israel&amp;rft.atitle=LFI+Supporters+in+Parliament&amp;rft_id=https%3A%2F%2Fwww.lfi.org.uk%2Fin-parliament%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarry+Sheerman" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Gibson, Barry (6 June 2009). <a rel="nofollow" class="external text" href="http://www.examiner.co.uk/news/local-west-yorkshire-news/2009/06/06/huddersfield-mp-sheerman-called-to-account-by-local-party-members-86081-23804506/">"Huddersfield MP Sheerman called to account by local party members"</a>. The Huddersfield Daily Examiner<span class="reference-accessdate">. Retrieved <span class="nowrap">6 June</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Huddersfield+MP+Sheerman+called+to+account+by+local+party+members&amp;rft.pub=The+Huddersfield+Daily+Examiner&amp;rft.date=2009-06-06&amp;rft.au=Gibson%2C+Barry&amp;rft_id=http%3A%2F%2Fwww.examiner.co.uk%2Fnews%2Flocal-west-yorkshire-news%2F2009%2F06%2F06%2Fhuddersfield-mp-sheerman-called-to-account-by-local-party-members-86081-23804506%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarry+Sheerman" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Barry Gibson <a rel="nofollow" class="external text" href="http://www.examiner.co.uk/news/local-west-yorkshire-news/2012/04/25/huddersfield-mp-barry-sheerman-demands-british-jobs-for-british-workers-after-disappointing-bacon-buttie-86081-30832588/">"Huddersfield MP Barry Sheerman demands British jobs for British workers after disappointing bacon buttie"</a>, <i>Huddersfield Daily Examiner</i>, 25 April 2012</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/news/politics/labour/9226143/MP-accused-of-xenophobia-after-complaining-that-Polish-cannot-make-decent-bacon-sandwich.html">"MP accused of 'xenophobia after complaining that Polish cannot make decent bacon sandwich"</a>, <i>Daily Telegraph</i>, 25 April 2012</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www2.warwick.ac.uk/fac/soc/cei/centrelinkmagazine/november2012contents/theschoolstoworkcommission/">University of Warwick, 'The Schools to Work Commission'</a><sup class="noprint Inline-Template"><span style="white-space: nowrap;">&#91;<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title="&#160;Dead link since October 2016">permanent dead link</span></a></i>&#93;</span></sup></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bbc.com/news/uk-politics-33188463">"Votes at 16 raises abuse risk, says MP"</a>. <i>BBC News</i>. 18 June 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News&amp;rft.atitle=Votes+at+16+raises+abuse+risk%2C+says+MP&amp;rft.date=2015-06-18&amp;rft_id=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fuk-politics-33188463&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarry+Sheerman" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news">Smith, Mikey; Bloom, Dan (20 July 2016). <a rel="nofollow" class="external text" href="https://www.mirror.co.uk/news/uk-news/mps-nominating-owen-smith-labour-8451186">"Which MPs are nominating Owen Smith in the Labour leadership contest?"</a>. <i>Mirror</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 November</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mirror&amp;rft.atitle=Which+MPs+are+nominating+Owen+Smith+in+the+Labour+leadership+contest%3F&amp;rft.date=2016-07-20&amp;rft.aulast=Smith&amp;rft.aufirst=Mikey&amp;rft.au=Bloom%2C+Dan&amp;rft_id=https%3A%2F%2Fwww.mirror.co.uk%2Fnews%2Fuk-news%2Fmps-nominating-owen-smith-labour-8451186&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarry+Sheerman" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://order-order.com/2017/10/29/labour-mp-better-educated-voted-remain/">"Labour MP: "Better Educated" Voted Remain - Guido Fawkes"</a>. 29 October 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Labour+MP%3A+%22Better+Educated%22+Voted+Remain+-+Guido+Fawkes&amp;rft.date=2017-10-29&amp;rft_id=https%3A%2F%2Forder-order.com%2F2017%2F10%2F29%2Flabour-mp-better-educated-voted-remain%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarry+Sheerman" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.checkcompany.co.uk/director/2241085/MR-BARRY-JOHN-SHEERMAN">"Barry John Sheerman at Check company"</a>. checkcompany.co.uk<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Barry+John+Sheerman+at+Check+company&amp;rft.pub=checkcompany.co.uk&amp;rft_id=http%3A%2F%2Fwww.checkcompany.co.uk%2Fdirector%2F2241085%2FMR-BARRY-JOHN-SHEERMAN&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABarry+Sheerman" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Barry_Sheerman&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.barrysheerman.org.uk">MP Homepage</a></li>
+<li class="mw-empty-elt"></li>
+<li><a rel="nofollow" class="external text" href="https://www.parliament.uk/biographies/commons/mr-barry-sheerman/411">Profile</a> at <a href="/wiki/Parliament_of_the_United_Kingdom" title="Parliament of the United Kingdom">Parliament of the United Kingdom</a></li>
+<li><a rel="nofollow" class="external text" href="https://hansard.parliament.uk/search/MemberContributions?memberId=411">Contributions in Parliament</a> at <i><a href="/wiki/Hansard" title="Hansard">Hansard</a> 2010–present</i></li>
+<li>Contributions in Parliament during <a rel="nofollow" class="external text" href="https://www.publications.parliament.uk/pa/cm200607/cmhansrd/cmallfiles/mps/commons_hansard_663_home.html">2006–07</a> <a rel="nofollow" class="external text" href="https://www.publications.parliament.uk/pa/cm200708/cmhansrd/cmallfiles/mps/commons_hansard_663_home.html">2007–08</a> <a rel="nofollow" class="external text" href="https://www.publications.parliament.uk/pa/cm200809/cmhansrd/cmallfiles/mps/commons_hansard_663_home.html">2008–09</a> <a rel="nofollow" class="external text" href="https://www.publications.parliament.uk/pa/cm200910/cmhansrd/cmallfiles/mps/commons_hansard_663_home.html">2009–10</a> at <i>Hansard Archives</i></li>
+<li><a rel="nofollow" class="external text" href="http://hansard.millbanksystems.com/people/mr-barry-sheerman">Contributions in Parliament</a> at <i>Hansard 1803–2005</i></li>
+<li><a rel="nofollow" class="external text" href="http://www.publicwhip.org.uk/mp.php?mpn=Barry_Sheerman">Voting record</a> at <a href="/wiki/Public_Whip" title="Public Whip">Public Whip</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.theyworkforyou.com/mp/barry_sheerman">Record in Parliament</a> at <a href="/wiki/TheyWorkForYou" title="TheyWorkForYou">TheyWorkForYou</a></li>
+<li><a rel="nofollow" class="external text" href="http://politics.guardian.co.uk/person/0,,-4719,00.html">Ask Aristotle</a></li>
+<li><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/shared/mpdb/html/329.stm">BBC Politics</a></li>
+<li><a rel="nofollow" class="external text" href="https://publications.parliament.uk/pa/cm200910/cmselect/cmchilsch/316/316i.pdf">NEET: Young People Not in Education, Employment or Training</a> <i>Children, Schools and Families Committee</i></li>
+<li><a rel="nofollow" class="external text" href="https://publications.parliament.uk/pa/cm200910/cmselect/cmchilsch/39/39i.pdf">The Review of Elective Home Education</a> <i>Children, Schools and Families Committee</i></li>
+<li><a rel="nofollow" class="external text" href="https://publications.parliament.uk/pa/cm200910/cmselect/cmchilsch/418/418.pdf">Transforming Education Outside the Classroom</a> <i>Children, Schools and Families Committee</i></li></ul>
+<h3><span class="mw-headline" id="News_items">News items</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Barry_Sheerman&amp;action=edit&amp;section=6" title="Edit section: News items">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/uk_politics/8318030.stm">Appointments in October 2009</a></li>
+<li><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/uk_politics/8283198.stm">Single mothers hostels in September 2009</a></li>
+<li><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/uk_politics/6174554.stm">School bully in November 2006</a></li>
+<li><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/education/5237548.stm">Choice of schools in August 2006</a></li>
+<li><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/england/west_yorkshire/4671936.stm">Gas safety in February 2006</a></li>
+<li><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/education/4284407.stm">Obsession with A levels in February 2005</a></li>
+<li><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/education/4079653.stm">Women are brighter than men in December 2004</a></li></ul>
+<h3><span class="mw-headline" id="Video_clips">Video clips</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Barry_Sheerman&amp;action=edit&amp;section=7" title="Edit section: Video clips">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=hiEels6TeEY"><span class="plainlinks">2020 Vision on the Environment in schools in November 2009</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=BBeXO134-ZQ"><span class="plainlinks">Money skills at the Galpharm Stadium in October 2009</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=_5HBfmhGSzU"><span class="plainlinks">Religion in schools on Teachers TV in January 2008</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></li></ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr>
+<th colspan="3" style="border-top: 5px solid #cccccc"><a href="/wiki/Parliament_of_the_United_Kingdom" title="Parliament of the United Kingdom">Parliament of the United Kingdom</a>
+</th></tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br /><span style="font-weight: bold"><a href="/wiki/Joseph_Mallalieu" class="mw-redirect" title="Joseph Mallalieu">Joseph Mallalieu</a></span>
+</td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Member_of_Parliament" class="mw-redirect" title="Member of Parliament">Member of Parliament</a> for <a href="/wiki/Huddersfield_East_(UK_Parliament_constituency)" title="Huddersfield East (UK Parliament constituency)">Huddersfield East</a></b><br /><a href="/wiki/1979_United_Kingdom_general_election" title="1979 United Kingdom general election">1979</a>–<a href="/wiki/1983_United_Kingdom_general_election" title="1983 United Kingdom general election">1983</a>
+</td>
+<td style="width: 30%; text-align: center;"><b>Constituency abolished</b>
+</td></tr>
+<tr>
+<td style="width: 30%; text-align: center;" rowspan="1"><b>New constituency</b>
+</td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/Member_of_Parliament" class="mw-redirect" title="Member of Parliament">Member of Parliament</a> for <a href="/wiki/Huddersfield_(UK_Parliament_constituency)" title="Huddersfield (UK Parliament constituency)">Huddersfield</a></b><br /><a href="/wiki/1983_United_Kingdom_general_election" title="1983 United Kingdom general election">1983</a>–present
+</td>
+<td style="width: 30%; text-align: center;" rowspan="1"><b>Incumbent</b>
+</td></tr>
+
+
+<tr>
+<th colspan="3" style="border-top: 5px solid #ccccff;">Political offices
+</th></tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br /><span style="font-weight: bold">Unknown</span>
+</td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b> Shadow Minister of State for <a href="/wiki/Department_of_Social_Security" class="mw-redirect" title="Department of Social Security">Social Security <br />(Shadow Minister for Disabled People)</a></b><br />1992–1994
+</td>
+<td style="width: 30%; text-align: center;" rowspan="1"><b>Vacant</b><div style="font-size:90%">Title next held by</div><b><a href="/wiki/Tom_Clarke_(politician)" title="Tom Clarke (politician)">Tom Clarke</a></b>
+</td></tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br /><span style="font-weight: bold"><a href="/wiki/Malcolm_Wicks" title="Malcolm Wicks">Malcolm Wicks</a></span>
+</td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b> Chairman, <a href="/wiki/Education_Select_Committee" title="Education Select Committee">Education &amp; Skills Select Committee</a></b><br />2001–2007
+</td>
+<td style="width: 30%; text-align: center;"><b>Committee abolished</b>
+</td></tr>
+<tr>
+<td style="width: 30%; text-align: center;" rowspan="1"><b>New title</b>
+</td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b> Chairman, <a href="/wiki/Education_Select_Committee" title="Education Select Committee">Children, Schools and Families Select Committee</a></b><br />2007–2010
+</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br /><span style="font-weight: bold"><a href="/wiki/Graham_Stuart_(politician)" title="Graham Stuart (politician)">Graham Stuart</a></span>
+</td></tr>
+</tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Labour_Party_MPs_in_Yorkshire_and_the_Humber" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:#DC241f; color:white;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Yorkshire_and_the_Humber_Labour_Party_MPs" title="Template:Yorkshire and the Humber Labour Party MPs"><abbr title="View this template" style="background:#DC241f; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Yorkshire_and_the_Humber_Labour_Party_MPs" title="Template talk:Yorkshire and the Humber Labour Party MPs"><abbr title="Discuss this template" style="background:#DC241f; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Yorkshire_and_the_Humber_Labour_Party_MPs&amp;action=edit"><abbr title="Edit this template" style="background:#DC241f; color:white;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Labour_Party_MPs_in_Yorkshire_and_the_Humber" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_MPs_for_constituencies_in_England_2017%E2%80%93#MPs_in_the_Yorkshire_and_the_Humber_region" class="mw-redirect" title="List of MPs for constituencies in England 2017–"><span style="color:white">Labour Party MPs in Yorkshire and the Humber</span></a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kevin_Barron" title="Kevin Barron">Kevin Barron</a></li>
+<li><a href="/wiki/Hilary_Benn" title="Hilary Benn">Hilary Benn</a></li>
+<li><a href="/wiki/Clive_Betts" title="Clive Betts">Clive Betts</a></li>
+<li><a href="/wiki/Paul_Blomfield" title="Paul Blomfield">Paul Blomfield</a></li>
+<li><a href="/wiki/Tracy_Brabin" title="Tracy Brabin">Tracy Brabin</a></li>
+<li><a href="/wiki/Richard_Burgon" title="Richard Burgon">Richard Burgon</a></li>
+<li><a href="/wiki/Sarah_Champion" title="Sarah Champion">Sarah Champion</a></li>
+<li><a href="/wiki/Yvette_Cooper" title="Yvette Cooper">Yvette Cooper</a></li>
+<li><a href="/wiki/Mary_Creagh" title="Mary Creagh">Mary Creagh</a></li>
+<li><a href="/wiki/Judith_Cummins" title="Judith Cummins">Judith Cummins</a></li>
+<li><a href="/wiki/Nic_Dakin" title="Nic Dakin">Nic Dakin</a></li>
+<li><a href="/wiki/Caroline_Flint" title="Caroline Flint">Caroline Flint</a></li>
+<li><a href="/wiki/Gill_Furniss" title="Gill Furniss">Gill Furniss</a></li>
+<li><a href="/wiki/John_Grogan_(politician)" title="John Grogan (politician)">John Grogan</a></li>
+<li><a href="/wiki/Louise_Haigh" title="Louise Haigh">Louise Haigh</a></li>
+<li><a href="/wiki/Fabian_Hamilton" title="Fabian Hamilton">Fabian Hamilton</a></li>
+<li><a href="/wiki/Emma_Hardy" title="Emma Hardy">Emma Hardy</a></li>
+<li><a href="/wiki/John_Healey_(politician)" title="John Healey (politician)">John Healey</a></li>
+<li><a href="/wiki/Imran_Hussain_(British_politician)" title="Imran Hussain (British politician)">Imran Hussain</a></li>
+<li><a href="/wiki/Dan_Jarvis" title="Dan Jarvis">Dan Jarvis</a></li>
+<li><a href="/wiki/Diana_Johnson" title="Diana Johnson">Diana Johnson</a></li>
+<li><a href="/wiki/Holly_Lynch" title="Holly Lynch">Holly Lynch</a></li>
+<li><a href="/wiki/Rachael_Maskell" title="Rachael Maskell">Rachael Maskell</a></li>
+<li><a href="/wiki/Ed_Miliband" title="Ed Miliband">Ed Miliband</a></li>
+<li><a href="/wiki/Melanie_Onn" title="Melanie Onn">Melanie Onn</a></li>
+<li><a href="/wiki/Stephanie_Peacock_(politician)" title="Stephanie Peacock (politician)">Stephanie Peacock</a></li>
+<li><a href="/wiki/Rachel_Reeves" title="Rachel Reeves">Rachel Reeves</a></li>
+<li><a href="/wiki/Naz_Shah" title="Naz Shah">Naz Shah</a></li>
+<li><a class="mw-selflink selflink">Barry Sheerman</a></li>
+<li><a href="/wiki/Paula_Sherriff" title="Paula Sherriff">Paula Sherriff</a></li>
+<li><a href="/wiki/Alex_Sobel" title="Alex Sobel">Alex Sobel</a></li>
+<li><a href="/wiki/Jon_Trickett" title="Jon Trickett">Jon Trickett</a></li>
+<li><a href="/wiki/Karl_Turner_(British_politician)" title="Karl Turner (British politician)">Karl Turner</a></li>
+<li><a href="/wiki/Thelma_Walker" title="Thelma Walker">Thelma Walker</a></li>
+<li><a href="/wiki/Rosie_Winterton" title="Rosie Winterton">Rosie Winterton</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q477464&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q477464&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q477464" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000032858424">0000 0000 3285 8424</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n93028799">n93028799</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via LCCN): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/lccn-n93-028799">n93-028799</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20190929095312
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.720 seconds
+Real time usage: 0.947 seconds
+Preprocessor visited node count: 11609/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 66659/2097152 bytes
+Template argument size: 7711/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 27278/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.251/10.000 seconds
+Lua memory usage: 5.75 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  878.380      1 -total
+ 50.87%  446.797      7 Template:Infobox
+ 48.64%  427.245      1 Template:Infobox_officeholder
+ 21.63%  189.962     17 Template:Infobox_officeholder/office
+ 16.61%  145.922      1 Template:Reflist
+ 11.19%   98.278      4 Template:Cite_news
+ 10.00%   87.854      1 Template:Authority_control
+  7.32%   64.291      4 Template:Br_separated_entries
+  6.34%   55.699      1 Template:Citation_needed
+  6.21%   54.572      2 Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:450368-0!canonical and timestamp 20190929095311 and revision id 918574751
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Barry_Sheerman&amp;oldid=918574751">https://en.wikipedia.org/w/index.php?title=Barry_Sheerman&amp;oldid=918574751</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1940_births" title="Category:1940 births">1940 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_educated_at_Hampton_School" title="Category:People educated at Hampton School">People educated at Hampton School</a></li><li><a href="/wiki/Category:Labour_Co-operative_MPs_for_English_constituencies" title="Category:Labour Co-operative MPs for English constituencies">Labour Co-operative MPs for English constituencies</a></li><li><a href="/wiki/Category:Alumni_of_the_London_School_of_Economics" title="Category:Alumni of the London School of Economics">Alumni of the London School of Economics</a></li><li><a href="/wiki/Category:Alumni_of_the_University_of_London" title="Category:Alumni of the University of London">Alumni of the University of London</a></li><li><a href="/wiki/Category:Academics_of_Swansea_University" title="Category:Academics of Swansea University">Academics of Swansea University</a></li><li><a href="/wiki/Category:UK_MPs_1979%E2%80%931983" title="Category:UK MPs 1979–1983">UK MPs 1979–1983</a></li><li><a href="/wiki/Category:UK_MPs_1983%E2%80%931987" title="Category:UK MPs 1983–1987">UK MPs 1983–1987</a></li><li><a href="/wiki/Category:UK_MPs_1987%E2%80%931992" title="Category:UK MPs 1987–1992">UK MPs 1987–1992</a></li><li><a href="/wiki/Category:UK_MPs_1992%E2%80%931997" title="Category:UK MPs 1992–1997">UK MPs 1992–1997</a></li><li><a href="/wiki/Category:UK_MPs_1997%E2%80%932001" title="Category:UK MPs 1997–2001">UK MPs 1997–2001</a></li><li><a href="/wiki/Category:UK_MPs_2001%E2%80%932005" title="Category:UK MPs 2001–2005">UK MPs 2001–2005</a></li><li><a href="/wiki/Category:UK_MPs_2005%E2%80%932010" title="Category:UK MPs 2005–2010">UK MPs 2005–2010</a></li><li><a href="/wiki/Category:UK_MPs_2010%E2%80%932015" title="Category:UK MPs 2010–2015">UK MPs 2010–2015</a></li><li><a href="/wiki/Category:UK_MPs_2015%E2%80%932017" title="Category:UK MPs 2015–2017">UK MPs 2015–2017</a></li><li><a href="/wiki/Category:UK_MPs_2017%E2%80%93" title="Category:UK MPs 2017–">UK MPs 2017–</a></li><li><a href="/wiki/Category:People_from_Sunbury-on-Thames" title="Category:People from Sunbury-on-Thames">People from Sunbury-on-Thames</a></li><li><a href="/wiki/Category:People_from_Huddersfield" title="Category:People from Huddersfield">People from Huddersfield</a></li><li><a href="/wiki/Category:Governors_of_the_London_School_of_Economics" title="Category:Governors of the London School of Economics">Governors of the London School of Economics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_October_2016" title="Category:Articles with dead external links from October 2016">Articles with dead external links from October 2016</a></li><li><a href="/wiki/Category:Articles_with_permanently_dead_external_links" title="Category:Articles with permanently dead external links">Articles with permanently dead external links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_June_2017" title="Category:Use dmy dates from June 2017">Use dmy dates from June 2017</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2018" title="Category:Articles with unsourced statements from December 2018">Articles with unsourced statements from December 2018</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-LCCN_identifiers" title="Category:Wikipedia articles with WorldCat-LCCN identifiers">Wikipedia articles with WorldCat-LCCN identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Barry+Sheerman" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Barry+Sheerman" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Barry_Sheerman" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Barry_Sheerman" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Barry_Sheerman">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Barry_Sheerman&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Barry_Sheerman&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Barry_Sheerman" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Barry_Sheerman" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Barry_Sheerman&amp;oldid=918574751" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Barry_Sheerman&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q477464" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Barry_Sheerman&amp;id=918574751" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Barry+Sheerman">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Barry+Sheerman&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Barry_Sheerman&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Barry_Sheerman" title="Barry Sheerman – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%B7%B4%E9%87%8C%C2%B7%E5%B8%8C%E7%88%BE%E6%9B%BC" title="巴里·希爾曼 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q477464#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 September 2019, at 09:53<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Barry_Sheerman&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.720","walltime":"0.947","ppvisitednodes":{"value":11609,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":66659,"limit":2097152},"templateargumentsize":{"value":7711,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":27278,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  878.380      1 -total"," 50.87%  446.797      7 Template:Infobox"," 48.64%  427.245      1 Template:Infobox_officeholder"," 21.63%  189.962     17 Template:Infobox_officeholder/office"," 16.61%  145.922      1 Template:Reflist"," 11.19%   98.278      4 Template:Cite_news"," 10.00%   87.854      1 Template:Authority_control","  7.32%   64.291      4 Template:Br_separated_entries","  6.34%   55.699      1 Template:Citation_needed","  6.21%   54.572      2 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.251","limit":"10.000"},"limitreport-memusage":{"value":6026907,"limit":52428800}},"cachereport":{"origin":"mw1270","timestamp":"20190929095312","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Barry Sheerman","url":"https:\/\/en.wikipedia.org\/wiki\/Barry_Sheerman","sameAs":"http:\/\/www.wikidata.org\/entity\/Q477464","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q477464","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-01T10:48:01Z","dateModified":"2019-09-29T09:53:11Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/67\/Official_portrait_of_Mr_Barry_Sheerman_crop_2.jpg","headline":"British politician"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1326"});});</script>
+</body>
+</html>
+

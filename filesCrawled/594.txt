@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Trolleybuses in Huddersfield - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Trolleybuses_in_Huddersfield","wgTitle":"Trolleybuses in Huddersfield","wgCurRevisionId":849586346,"wgRevisionId":849586346,"wgArticleId":31208502,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from August 2017","Use British English from August 2017","Commons category link is on Wikidata","Transport in Huddersfield","Defunct trolleybus systems by city","Trolleybus transport in the United Kingdom"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May",
+"Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Trolleybuses_in_Huddersfield","wgRelevantArticleId":31208502,"wgRequestId":"XYrWaQpAMFMAABHCDPUAAAAW","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7845229","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Trolleybuses_in_Huddersfield"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Trolleybuses_in_Huddersfield&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Trolleybuses_in_Huddersfield&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Trolleybuses_in_Huddersfield"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Trolleybuses_in_Huddersfield rootpage-Trolleybuses_in_Huddersfield skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Trolleybuses in Huddersfield</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Huddersfield"><span class="tocnumber">1</span> <span class="toctext">Huddersfield</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Notes"><span class="tocnumber">4.1</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Further_reading"><span class="tocnumber">4.2</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Huddersfield">Huddersfield</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trolleybuses_in_Huddersfield&amp;action=edit&amp;section=1" title="Edit section: Huddersfield">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold">Huddersfield trolleybus system</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:British_Trolleybuses_-_Huddersfield_-_geograph.org.uk_-_553408.jpg" class="image"><img alt="British Trolleybuses - Huddersfield - geograph.org.uk - 553408.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/British_Trolleybuses_-_Huddersfield_-_geograph.org.uk_-_553408.jpg/220px-British_Trolleybuses_-_Huddersfield_-_geograph.org.uk_-_553408.jpg" decoding="async" width="220" height="129" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/British_Trolleybuses_-_Huddersfield_-_geograph.org.uk_-_553408.jpg/330px-British_Trolleybuses_-_Huddersfield_-_geograph.org.uk_-_553408.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/British_Trolleybuses_-_Huddersfield_-_geograph.org.uk_-_553408.jpg/440px-British_Trolleybuses_-_Huddersfield_-_geograph.org.uk_-_553408.jpg 2x" data-file-width="640" data-file-height="375" /></a><div>Huddersfield trolleybus at the Newsome Road terminus, <a href="/wiki/Newsome" title="Newsome">Newsome South</a>, June 1966</div></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Operation</th></tr><tr><th scope="row">Locale</th><td><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>,<br /><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, <a href="/wiki/England" title="England">England</a></td></tr><tr><th scope="row">Open</th><td>1933<span style="display:none">&#160;(<span class="bday dtstart published updated">1933</span>)</span></td></tr><tr><th scope="row">Close</th><td>1968<span style="display:none">&#160;(<span class="dtend">1968</span>)</span></td></tr><tr><th scope="row">Status</th><td>Closed</td></tr><tr><th scope="row">Routes</th><td>15</td></tr><tr><th scope="row">Operator(s)</th><td><a href="/wiki/Huddersfield#Governance" title="Huddersfield">Huddersfield Corporation</a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Infrastructure</th></tr><tr><th scope="row"><a href="/wiki/Railway_electrification_system" title="Railway electrification system">Electrification</a></th><td>
+<ul><li><ul><li><ul><li><a href="/wiki/Volt" title="Volt">V</a> <a href="/wiki/Direct_current" title="Direct current">DC</a> <a href="/wiki/Overhead_line#Parallel_overhead_lines" title="Overhead line">parallel overhead lines</a></li></ul></li></ul></li></ul>
+</td></tr><tr><th scope="row">Depot(s)</th><td>St Thomas’ Rd, <a href="/wiki/Longroyd_Bridge" title="Longroyd Bridge">Longroyd Bridge</a><sup id="cite_ref-HPTG_1-0" class="reference"><a href="#cite_note-HPTG-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row">Stock</th><td>140 (maximum) - mostly 137 60-seat Karrier E6 (bought 1933-40, withdrawn 1946-63), 52 70-seat Karrier/Sunbeam MS2 (1947-52, 1964-67), 24 72-seat BUT (1952-56,  and 10 72-seat Sunbeam S7 (1959, 1967-68). Most had <a href="/wiki/Metropolitan-Vickers" title="Metropolitan-Vickers">Metrovick</a> electrical equipment, with bodies by <a href="/wiki/Brush_Traction#Brush_Electrical_Engineering_Company" title="Brush Traction">Brush</a>, <a href="/wiki/East_Lancashire_Coachbuilders" title="East Lancashire Coachbuilders">East Lancs</a>, <a href="/wiki/Park_Royal_Vehicles" title="Park Royal Vehicles">Park Royal</a>, <a href="/wiki/Charles_H._Roe" title="Charles H. Roe">Roe</a> and <a href="/wiki/Metro_Cammell_Weymann" title="Metro Cammell Weymann">Weymann</a>. All were 6-wheeled.</td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Statistics</th></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th scope="row">Passengers (1949)</th><td>61,255,937<sup id="cite_ref-HPTG_1-1" class="reference"><a href="#cite_note-HPTG-1">&#91;1&#93;</a></sup></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p>The <b>Huddersfield trolleybus system</b> once served the <a href="/wiki/Market_town" title="Market town">market town</a> of <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, in <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, <a href="/wiki/England" title="England">England</a>. Opened on 4&#160;December&#160;1933<span style="display:none">&#160;(<span class="bday dtstart published updated">1933-12-04</span>)</span>,<sup id="cite_ref-joyce-king-newman_2-0" class="reference"><a href="#cite_note-joyce-king-newman-2">&#91;2&#93;</a></sup><sup id="cite_ref-Short_3-0" class="reference"><a href="#cite_note-Short-3">&#91;3&#93;</a></sup> it gradually replaced the <a href="/wiki/Huddersfield_Corporation_Tramways" title="Huddersfield Corporation Tramways">Huddersfield tramway network</a>, which closed on Saturday, 29 June 1940.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>By the standards of the various now-defunct <a href="/wiki/Trolleybus" title="Trolleybus">trolleybus</a> systems in the <a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>, the Huddersfield system was a medium-sized one, with a total of 15 routes and a maximum fleet of 140 trolleybuses.<sup id="cite_ref-Short_3-1" class="reference"><a href="#cite_note-Short-3">&#91;3&#93;</a></sup>  It was closed on 13&#160;July&#160;1968<span style="display:none">&#160;(<span class="dtend">1968-07-13</span>)</span>.<sup id="cite_ref-joyce-king-newman_2-1" class="reference"><a href="#cite_note-joyce-king-newman-2">&#91;2&#93;</a></sup><sup id="cite_ref-Short_3-2" class="reference"><a href="#cite_note-Short-3">&#91;3&#93;</a></sup>
+</p><p>A notable feature of the system was the <a href="/wiki/Longwood_trolleybus_turntable" title="Longwood trolleybus turntable">Longwood trolleybus turntable</a>, which was one of only four such turntables ever to have been constructed in the UK. The turntable was manually operated, and was in use only in 1939–1940 until wartime conditions forced the introduction of other arrangements. However, it remained <i>in situ</i> until demolished in the 1980s.
+</p><p>Three of the former Huddersfield trolleybuses are now preserved, at <a href="/wiki/The_Trolleybus_Museum_at_Sandtoft" title="The Trolleybus Museum at Sandtoft">the Trolleybus Museum at Sandtoft</a>, <a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a>.<sup id="cite_ref-Zebedee_5-0" class="reference"><a href="#cite_note-Zebedee-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trolleybuses_in_Huddersfield&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Huddersfield_trolleybus_routes.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Huddersfield_trolleybus_routes.JPG/220px-Huddersfield_trolleybus_routes.JPG" decoding="async" width="220" height="149" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Huddersfield_trolleybus_routes.JPG/330px-Huddersfield_trolleybus_routes.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Huddersfield_trolleybus_routes.JPG/440px-Huddersfield_trolleybus_routes.JPG 2x" data-file-width="3248" data-file-height="2203" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Huddersfield_trolleybus_routes.JPG" class="internal" title="Enlarge"></a></div>1933-1968 trolleybus routes</div></div></div>
+<p>The first conversion was the 1.9&#160;mi (3.1&#160;km) <a href="/wiki/Almondbury" title="Almondbury">Almondbury</a> tramway. It was converted in sections with a temporary motor bus link as the road was resealed and electrified.
+</p><p>Six different 6-wheel buses were bought to trial on the route with <a href="/wiki/Karrier#Rootes_Group" title="Karrier">Karrier</a>, <a href="/wiki/Christchurch_Transport_Board#Ransomes" title="Christchurch Transport Board">Ransomes</a> and <a href="/wiki/Sunbeam_Commercial_Vehicles#Trolleybuses" title="Sunbeam Commercial Vehicles">Sunbeam</a> chassis and bodies by several builders. Most later buses were Karrier, though the local factory had closed.
+</p><p>The Almondbury route closed on 14 July 1965. The dates of the rest were:-
+</p>
+<table class="wikitable sortable">
+
+<tbody><tr>
+<th>Terminus</th>
+<th>opened</th>
+<th>closed</th>
+<th>
+</th></tr>
+<tr>
+<td><a href="/wiki/Lindley,_Huddersfield" title="Lindley, Huddersfield">Lindley</a> and <a href="/wiki/Outlane" title="Outlane">Outlane</a></td>
+<td>11/11/34</td>
+<td>13/7/68</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Newsome" title="Newsome">Newsome</a></td>
+<td>2/5/37</td>
+<td>13/7/66</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Crosland_Moor" title="Crosland Moor">Crosland Hill</a></td>
+<td>3/10/37</td>
+<td>5/4/64</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Birkby,_Huddersfield" title="Birkby, Huddersfield">Birkby</a>/Fartown Bar</td>
+<td>7/11/37</td>
+<td>5/4/64</td>
+<td>cut back to Wasp Nest Rd due to danger of using Woodbine Rd turning circle in wartime blackout.
+</td></tr>
+<tr>
+<td><a href="/wiki/Marsden,_West_Yorkshire" title="Marsden, West Yorkshire">Marsden</a></td>
+<td>10/4/38</td>
+<td>30/1/63</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Sheepridge,_Huddersfield" title="Sheepridge, Huddersfield">Sheepridge</a></td>
+<td>19/6/38</td>
+<td>13/7/66</td>
+<td>extended to new <a href="/wiki/Brackenhall" title="Brackenhall">Brackenhall</a> estate 5/3/49 and circular via Woodhouse closed.
+</td></tr>
+<tr>
+<td><a href="/wiki/Bradley,_Huddersfield" title="Bradley, Huddersfield">Bradley</a></td>
+<td>19/6/38</td>
+<td>12/7/67</td>
+<td>extended to Keldregate 2/4/56 using poles recovered from Brighouse section.
+</td></tr>
+<tr>
+<td><a href="/wiki/Fartown,_Huddersfield" title="Fartown, Huddersfield">Woodhouse</a></td>
+<td>19/6/38</td>
+<td>13/7/66</td>
+<td>extended to Riddings estate 5/3/49.
+</td></tr>
+<tr>
+<td><a href="/wiki/Longwood,_Huddersfield" title="Longwood, Huddersfield">Longwood</a></td>
+<td>1/1/39</td>
+<td>12/7/67</td>
+<td>due to a low bridge the tram route to <a href="/wiki/Honley" title="Honley">Honley</a> was taken over by buses.
+</td></tr>
+<tr>
+<td><a href="/wiki/Lockwood,_Huddersfield" title="Lockwood, Huddersfield">Lockwood</a></td>
+<td>12/1/39</td>
+<td>13/7/66</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/West_Vale" title="West Vale">West Vale</a> / <a href="/wiki/Elland" title="Elland">Elland</a></td>
+<td>28/5/39</td>
+<td>8/11/61</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Fixby" title="Fixby">Fixby</a> / <a href="/wiki/Brighouse" title="Brighouse">Brighouse</a></td>
+<td>30/6/40</td>
+<td>14/7/65</td>
+<td>cut back to Fixby 9/7/55 due to increasing traffic creating problems when reversing at Brighouse.
+</td></tr></tbody></table>
+<p>In 1958 Edgar Dyson became general manager. The council then agreed to a closure programme, ending with 5 crowded Outlane buses on 13 July 1968. Rates paid to the county council were among reasons for early closure of the West Vale and Marsden routes.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> 
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trolleybuses_in_Huddersfield&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Nuvola_apps_ksysv_square.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nuvola_apps_ksysv_square.svg/28px-Nuvola_apps_ksysv_square.svg.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nuvola_apps_ksysv_square.svg/42px-Nuvola_apps_ksysv_square.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nuvola_apps_ksysv_square.svg/56px-Nuvola_apps_ksysv_square.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Transport" title="Portal:Transport">Transport portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a href="/wiki/File:Yorkshire_rose.svg" class="image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Yorkshire_rose.svg/29px-Yorkshire_rose.svg.png" decoding="async" width="29" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Yorkshire_rose.svg/44px-Yorkshire_rose.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Yorkshire_rose.svg/59px-Yorkshire_rose.svg.png 2x" data-file-width="276" data-file-height="264" /></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Yorkshire" title="Portal:Yorkshire">Yorkshire portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Huddersfield#Transport" title="Huddersfield">Transport in Huddersfield</a></li>
+<li><a href="/wiki/List_of_trolleybus_systems_in_the_United_Kingdom" title="List of trolleybus systems in the United Kingdom">List of trolleybus systems in the United Kingdom</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trolleybuses_in_Huddersfield&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trolleybuses_in_Huddersfield&amp;action=edit&amp;section=5" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist columns references-column-width" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-HPTG-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-HPTG_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HPTG_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.jsh1949.co.uk/HUDDERSFIELD%20FLEETS%202.htm">Huddersfield Passenger Transport Group - photos and history</a></span>
+</li>
+<li id="cite_note-joyce-king-newman-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-joyce-king-newman_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-joyce-king-newman_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Joyce, J.; King, J. S.; and Newman, A. G. (1986). <i>British Trolleybus Systems</i>, pp. 69–72, 159. London: <a href="/wiki/Ian_Allan_Publishing" title="Ian Allan Publishing">Ian Allan Publishing</a>. <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7110-1647-X" title="Special:BookSources/0-7110-1647-X">0-7110-1647-X</a>.</span>
+</li>
+<li id="cite_note-Short-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Short_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Short_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Short_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Short, Peter. <a rel="nofollow" class="external text" href="http://www.britishtrolley.org.uk/former-uk-systems">"Former UK systems"</a>. British Trolleybus Society<span class="reference-accessdate">. Retrieved <span class="nowrap">15 March</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Former+UK+systems&amp;rft.pub=British+Trolleybus+Society&amp;rft.au=Short%2C+Peter&amp;rft_id=http%3A%2F%2Fwww.britishtrolley.org.uk%2Fformer-uk-systems&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrolleybuses+in+Huddersfield" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.jsh1949.co.uk/HUDDERSFIELD%20TRAMS.htm">Huddersfield Passenger Transport Group - HUDDERSFIELD  CORPORATION TRAMS - photos and detailed tram history</a></span>
+</li>
+<li id="cite_note-Zebedee-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Zebedee_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Zebedee, John (30 November 2010). <a rel="nofollow" class="external text" href="http://www.britishtrolley.org.uk/preserved-trolleybuses">"A List of Preserved Trolleybuses in the UK"</a>. British Trolleybus Society<span class="reference-accessdate">. Retrieved <span class="nowrap">16 March</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+List+of+Preserved+Trolleybuses+in+the+UK&amp;rft.pub=British+Trolleybus+Society&amp;rft.date=2010-11-30&amp;rft.au=Zebedee%2C+John&amp;rft_id=http%3A%2F%2Fwww.britishtrolley.org.uk%2Fpreserved-trolleybuses&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrolleybuses+in+Huddersfield" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">King, J S (January 1971). "Huddersfield Trolleybuses". <i>Buses</i>. Ian Allan: 5–13.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Buses&amp;rft.atitle=Huddersfield+Trolleybuses&amp;rft.pages=5-13&amp;rft.date=1971-01&amp;rft.aulast=King&amp;rft.aufirst=J+S&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrolleybuses+in+Huddersfield" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h3><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trolleybuses_in_Huddersfield&amp;action=edit&amp;section=6" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><cite class="citation book">Berry, Robert (2005). <i>Buses in and around Huddersfield</i>. Kendal, Cumbria, UK: Nostalgia Road Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-903016-62-6" title="Special:BookSources/978-1-903016-62-6"><bdi>978-1-903016-62-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Buses+in+and+around+Huddersfield&amp;rft.place=Kendal%2C+Cumbria%2C+UK&amp;rft.pub=Nostalgia+Road+Publishing&amp;rft.date=2005&amp;rft.isbn=978-1-903016-62-6&amp;rft.aulast=Berry&amp;rft.aufirst=Robert&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrolleybuses+in+Huddersfield" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Booth, Gavin (2007). <i>Bus Operators 1970: North West England and Yorkshire</i>. Hersham, Surrey, UK: <a href="/wiki/Ian_Allan_Publishing" title="Ian Allan Publishing">Ian Allan Publishing</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7110-3202-6" title="Special:BookSources/978-0-7110-3202-6"><bdi>978-0-7110-3202-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Bus+Operators+1970%3A+North+West+England+and+Yorkshire&amp;rft.place=Hersham%2C+Surrey%2C+UK&amp;rft.pub=Ian+Allan+Publishing&amp;rft.date=2007&amp;rft.isbn=978-0-7110-3202-6&amp;rft.aulast=Booth&amp;rft.aufirst=Gavin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrolleybuses+in+Huddersfield" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Lockwood, Stephen (2002). <i>Huddersfield Trolleybuses</i>. Midhurst, West Sussex, UK: Middleton Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-901706-92-5" title="Special:BookSources/978-1-901706-92-5"><bdi>978-1-901706-92-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Huddersfield+Trolleybuses&amp;rft.place=Midhurst%2C+West+Sussex%2C+UK&amp;rft.pub=Middleton+Press&amp;rft.date=2002&amp;rft.isbn=978-1-901706-92-5&amp;rft.aulast=Lockwood&amp;rft.aufirst=Stephen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrolleybuses+in+Huddersfield" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Trolleybuses_in_Huddersfield&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Trolleybuses_in_Huddersfield" class="extiw" title="commons:Category:Trolleybuses in Huddersfield">Trolleybuses in Huddersfield</a> at Wikimedia Commons
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110628185703/http://homepage.ntlworld.com/bruce.lake/">Trolleybuses Galore!</a> - Huddersfield trolleybuses fan site</li>
+<li><a rel="nofollow" class="external text" href="http://www.trolleybus.co.uk/archive/">National Trolleybus Archive</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.britishtrolley.org.uk/">British Trolleybus Society</a>, based in Reading</li>
+<li><a rel="nofollow" class="external text" href="http://www.trolleybus.co.uk/nta">National Trolleybus Association</a>, based in London</li>
+<li><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/lifestyle/nostalgia/nostalgia-pictures-huddersfield-trolleybuses-1960s-4924448">Huddersfield Examiner Trolleybus gallery</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Historic_trolleybus_systems_in_the_United_Kingdom" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3" style="background:#efefef;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Historic_UK_Trolleybuses" title="Template:Historic UK Trolleybuses"><abbr title="View this template" style=";background:#efefef;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Historic_UK_Trolleybuses" title="Template talk:Historic UK Trolleybuses"><abbr title="Discuss this template" style=";background:#efefef;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Historic_UK_Trolleybuses&amp;action=edit"><abbr title="Edit this template" style=";background:#efefef;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Historic_trolleybus_systems_in_the_United_Kingdom" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_trolleybus_systems_in_the_United_Kingdom" title="List of trolleybus systems in the United Kingdom">Historic trolleybus systems in the United Kingdom</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#efefef;"><a href="/wiki/List_of_trolleybus_systems_in_the_United_Kingdom#England_(by_region)" title="List of trolleybus systems in the United Kingdom">England</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trolleybuses_in_Ashton-under-Lyne" title="Trolleybuses in Ashton-under-Lyne">Ashton-under-Lyne</a></li>
+<li><a href="/wiki/Trolleybuses_in_Birmingham" title="Trolleybuses in Birmingham">Birmingham</a></li>
+<li><a href="/wiki/Trolleybuses_in_Bournemouth" title="Trolleybuses in Bournemouth">Bournemouth</a></li>
+<li><a href="/wiki/Trolleybuses_in_Bradford" title="Trolleybuses in Bradford">Bradford</a></li>
+<li><a href="/wiki/Trolleybuses_in_Brighton" title="Trolleybuses in Brighton">Brighton</a></li>
+<li><a href="/wiki/Trolleybuses_in_Chesterfield" class="mw-redirect" title="Trolleybuses in Chesterfield">Chesterfield</a></li>
+<li><a href="/wiki/Trolleybuses_in_Cleethorpes" title="Trolleybuses in Cleethorpes">Cleethorpes</a></li>
+<li><a href="/wiki/Trolleybuses_in_Darlington" title="Trolleybuses in Darlington">Darlington</a></li>
+<li><a href="/wiki/Trolleybuses_in_Derby" title="Trolleybuses in Derby">Derby</a></li>
+<li><a href="/wiki/Trolleybuses_in_Doncaster" title="Trolleybuses in Doncaster">Doncaster</a></li>
+<li><a href="/wiki/Trolleybuses_in_Grimsby" title="Trolleybuses in Grimsby">Grimsby</a></li>
+<li><a href="/wiki/Halifax_Corporation_Tramways#Trolleybuses" title="Halifax Corporation Tramways">Halifax</a></li>
+<li><a href="/wiki/Trolleybuses_in_Hartlepool" title="Trolleybuses in Hartlepool">Hartlepool</a></li>
+<li><a href="/wiki/Trolleybuses_in_Hastings" title="Trolleybuses in Hastings">Hastings</a></li>
+<li><a class="mw-selflink selflink">Huddersfield</a></li>
+<li><a href="/wiki/Trolleybuses_in_Ipswich" title="Trolleybuses in Ipswich">Ipswich</a></li>
+<li><a href="/wiki/Keighley_Tramways" title="Keighley Tramways">Keighley</a></li>
+<li><a href="/wiki/Trolleybuses_in_Kingston_upon_Hull" title="Trolleybuses in Kingston upon Hull">Kingston upon Hull</a></li>
+<li><a href="/wiki/Trolleybuses_in_Leeds" title="Trolleybuses in Leeds">Leeds</a></li>
+<li><a href="/wiki/Trolleybuses_in_London" title="Trolleybuses in London">London</a></li>
+<li><a href="/wiki/Trolleybuses_in_Maidstone" title="Trolleybuses in Maidstone">Maidstone</a></li>
+<li><a href="/wiki/Trolleybuses_in_Manchester" title="Trolleybuses in Manchester">Manchester</a></li>
+<li><a href="/wiki/Mexborough_and_Swinton_Traction_Company" title="Mexborough and Swinton Traction Company">Mexborough and Swinton</a></li>
+<li><a href="/wiki/Trolleybuses_in_Newcastle_upon_Tyne" title="Trolleybuses in Newcastle upon Tyne">Newcastle upon Tyne</a></li>
+<li><a href="/wiki/Trolleybuses_in_Nottingham" title="Trolleybuses in Nottingham">Nottingham</a></li>
+<li><a href="/wiki/Trolleybuses_in_Nottinghamshire_and_Derbyshire" title="Trolleybuses in Nottinghamshire and Derbyshire">Nottinghamshire &amp; Derbyshire</a></li>
+<li><a href="/wiki/Trolleybuses_in_Oldham" title="Trolleybuses in Oldham">Oldham</a></li>
+<li><a href="/wiki/Trolleybuses_in_Portsmouth" title="Trolleybuses in Portsmouth">Portsmouth</a></li>
+<li><a href="/wiki/Trolleybuses_in_Ramsbottom" title="Trolleybuses in Ramsbottom">Ramsbottom</a></li>
+<li><a href="/wiki/Trolleybuses_in_Reading" title="Trolleybuses in Reading">Reading</a></li>
+<li><a href="/wiki/Trolleybuses_in_Rotherham" title="Trolleybuses in Rotherham">Rotherham</a></li>
+<li><a href="/wiki/Trolleybuses_in_St_Helens" title="Trolleybuses in St Helens">St Helens</a></li>
+<li><a href="/wiki/Trolleybuses_in_Southend-on-Sea" title="Trolleybuses in Southend-on-Sea">Southend-on-Sea</a></li>
+<li><a href="/wiki/Trolleybuses_in_South_Lancashire" title="Trolleybuses in South Lancashire">South Lancashire</a></li>
+<li><a href="/wiki/Trolleybuses_in_South_Shields" title="Trolleybuses in South Shields">South Shields</a></li>
+<li><a href="/wiki/Trolleybuses_in_Stockport" class="mw-redirect" title="Trolleybuses in Stockport">Stockport</a></li>
+<li><a href="/wiki/Trolleybuses_in_Teesside" title="Trolleybuses in Teesside">Teesside</a></li>
+<li><a href="/wiki/Trolleybuses_in_Walsall" title="Trolleybuses in Walsall">Walsall</a></li>
+<li><a href="/wiki/Trolleybuses_in_Wigan" class="mw-redirect" title="Trolleybuses in Wigan">Wigan</a></li>
+<li><a href="/wiki/Trolleybuses_in_Wolverhampton" title="Trolleybuses in Wolverhampton">Wolverhampton</a></li>
+<li><a href="/wiki/York_Corporation_Tramways#Trolleybuses" title="York Corporation Tramways">York</a></li></ul>
+</div></td><td class="navbox-image" rowspan="5" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:British_Trolleybuses_-_Maidstone_-_geograph.org.uk_-_553634.jpg" class="image" title="Maidstone trolleybus, September 1966."><img alt="Maidstone trolleybus, September 1966." src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/British_Trolleybuses_-_Maidstone_-_geograph.org.uk_-_553634.jpg/100px-British_Trolleybuses_-_Maidstone_-_geograph.org.uk_-_553634.jpg" decoding="async" width="100" height="151" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/British_Trolleybuses_-_Maidstone_-_geograph.org.uk_-_553634.jpg/150px-British_Trolleybuses_-_Maidstone_-_geograph.org.uk_-_553634.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/British_Trolleybuses_-_Maidstone_-_geograph.org.uk_-_553634.jpg/200px-British_Trolleybuses_-_Maidstone_-_geograph.org.uk_-_553634.jpg 2x" data-file-width="423" data-file-height="640" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#efefef;"><a href="/wiki/List_of_trolleybus_systems_in_the_United_Kingdom#Wales" title="List of trolleybus systems in the United Kingdom">Wales</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trolleybuses_in_Aberdare" class="mw-redirect" title="Trolleybuses in Aberdare">Aberdare</a></li>
+<li><a href="/wiki/Trolleybuses_in_Cardiff" title="Trolleybuses in Cardiff">Cardiff</a></li>
+<li><a href="/wiki/Trolleybuses_in_Llanelli" class="mw-redirect" title="Trolleybuses in Llanelli">Llanelli</a></li>
+<li><a href="/wiki/Trolleybuses_in_Pontypridd" class="mw-redirect" title="Trolleybuses in Pontypridd">Pontypridd</a></li>
+<li><a href="/wiki/Trolleybuses_in_Rhondda" class="mw-redirect" title="Trolleybuses in Rhondda">Rhondda</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#efefef;"><a href="/wiki/List_of_trolleybus_systems_in_the_United_Kingdom#Scotland" title="List of trolleybus systems in the United Kingdom">Scotland</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trolleybuses_in_Dundee" class="mw-redirect" title="Trolleybuses in Dundee">Dundee</a></li>
+<li><a href="/wiki/Trolleybuses_in_Glasgow" title="Trolleybuses in Glasgow">Glasgow</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#efefef;"><a href="/wiki/List_of_trolleybus_systems_in_the_United_Kingdom#Northern_Ireland" title="List of trolleybus systems in the United Kingdom">Northern Ireland</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Trolleybuses_in_Belfast" title="Trolleybuses in Belfast">Belfast</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#efefef;"><a href="/wiki/List_of_transport_museums#United_Kingdom" title="List of transport museums">Museums</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Black_Country_Living_Museum" title="Black Country Living Museum">Black Country Living Museum</a></li>
+<li><a href="/wiki/East_Anglia_Transport_Museum" title="East Anglia Transport Museum">East Anglia Transport Museum</a></li>
+<li><a href="/wiki/London_Transport_Museum" title="London Transport Museum">London Transport Museum</a></li>
+<li><a href="/wiki/North_West_Museum_of_Road_Transport" title="North West Museum of Road Transport">North West Museum of Road Transport</a></li>
+<li><a href="/wiki/The_Trolleybus_Museum_at_Sandtoft" title="The Trolleybus Museum at Sandtoft">The Trolleybus Museum at Sandtoft</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1248
+Cached time: 20190925025225
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.524 seconds
+Real time usage: 0.725 seconds
+Preprocessor visited node count: 1542/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38973/2097152 bytes
+Template argument size: 3536/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18046/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.174/10.000 seconds
+Lua memory usage: 5.43 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  595.752      1 -total
+ 40.02%  238.429      1 Template:Reflist
+ 18.84%  112.259      1 Template:ISBN
+ 15.50%   92.342      2 Template:Infobox
+ 14.26%   84.958      1 Template:Infobox_trolleybus_system
+ 14.01%   83.459      2 Template:Cite_web
+ 12.81%   76.336      1 Template:Catalog_lookup_link
+  9.20%   54.819      1 Template:Commonscat-inline
+  9.06%   53.992      1 Template:Convert
+  7.18%   42.756      1 Template:Use_dmy_dates
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:31208502-0!canonical and timestamp 20190925025225 and revision id 849586346
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Trolleybuses_in_Huddersfield&amp;oldid=849586346">https://en.wikipedia.org/w/index.php?title=Trolleybuses_in_Huddersfield&amp;oldid=849586346</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Transport_in_Huddersfield" title="Category:Transport in Huddersfield">Transport in Huddersfield</a></li><li><a href="/wiki/Category:Defunct_trolleybus_systems_by_city" title="Category:Defunct trolleybus systems by city">Defunct trolleybus systems by city</a></li><li><a href="/wiki/Category:Trolleybus_transport_in_the_United_Kingdom" title="Category:Trolleybus transport in the United Kingdom">Trolleybus transport in the United Kingdom</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_August_2017" title="Category:Use dmy dates from August 2017">Use dmy dates from August 2017</a></li><li><a href="/wiki/Category:Use_British_English_from_August_2017" title="Category:Use British English from August 2017">Use British English from August 2017</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Trolleybuses+in+Huddersfield" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Trolleybuses+in+Huddersfield" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Trolleybuses_in_Huddersfield" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Trolleybuses_in_Huddersfield" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Trolleybuses_in_Huddersfield">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Trolleybuses_in_Huddersfield&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Trolleybuses_in_Huddersfield&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Trolleybuses_in_Huddersfield" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Trolleybuses_in_Huddersfield" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Trolleybuses_in_Huddersfield&amp;oldid=849586346" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Trolleybuses_in_Huddersfield&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7845229" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Trolleybuses_in_Huddersfield&amp;id=849586346" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Trolleybuses_in_Huddersfield" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Trolleybuses+in+Huddersfield">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Trolleybuses+in+Huddersfield&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Trolleybuses_in_Huddersfield&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7845229#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 10 July 2018, at 00:57<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Trolleybuses_in_Huddersfield&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.524","walltime":"0.725","ppvisitednodes":{"value":1542,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38973,"limit":2097152},"templateargumentsize":{"value":3536,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18046,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  595.752      1 -total"," 40.02%  238.429      1 Template:Reflist"," 18.84%  112.259      1 Template:ISBN"," 15.50%   92.342      2 Template:Infobox"," 14.26%   84.958      1 Template:Infobox_trolleybus_system"," 14.01%   83.459      2 Template:Cite_web"," 12.81%   76.336      1 Template:Catalog_lookup_link","  9.20%   54.819      1 Template:Commonscat-inline","  9.06%   53.992      1 Template:Convert","  7.18%   42.756      1 Template:Use_dmy_dates"]},"scribunto":{"limitreport-timeusage":{"value":"0.174","limit":"10.000"},"limitreport-memusage":{"value":5694299,"limit":52428800}},"cachereport":{"origin":"mw1248","timestamp":"20190925025225","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Trolleybuses in Huddersfield","url":"https:\/\/en.wikipedia.org\/wiki\/Trolleybuses_in_Huddersfield","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7845229","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7845229","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-03-17T06:46:05Z","dateModified":"2018-07-10T00:57:15Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":882,"wgHostname":"mw1248"});});</script>
+</body>
+</html>
+

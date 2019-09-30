@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Meltham - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Meltham","wgTitle":"Meltham","wgCurRevisionId":917893922,"wgRevisionId":917893922,"wgArticleId":152371,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Use dmy dates from April 2014","Use British English from September 2019","Articles with OS grid coordinates","Coordinates on Wikidata","Commons category link is on Wikidata","Kirklees","Holme Valley","Villages in West Yorkshire","Peak District","Towns and villages of the Peak District","Civil parishes in West Yorkshire"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Meltham","wgRelevantArticleId":152371,"wgRequestId":"XYwGZwpAMFAAAHiRIEIAAABU","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":53.592,"lon":-1.85},"wgWikibaseItemId":"Q2737155","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/bd/Meltham_%26_Lower_Holme_Valley.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Meltham"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Meltham&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Meltham&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Meltham"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Meltham rootpage-Meltham skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Meltham</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the town in West Yorkshire, England. For the train station in the <a href="/wiki/City_of_Bayswater" title="City of Bayswater">City of Bayswater</a>, Australia, see <a href="/wiki/Meltham_railway_station" title="Meltham railway station">Meltham railway station</a>.</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">Meltham</th></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Meltham_%26_Lower_Holme_Valley.JPG" class="image"><img alt="Meltham &amp; Lower Holme Valley.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Meltham_%26_Lower_Holme_Valley.JPG/240px-Meltham_%26_Lower_Holme_Valley.JPG" decoding="async" width="240" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Meltham_%26_Lower_Holme_Valley.JPG/360px-Meltham_%26_Lower_Holme_Valley.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Meltham_%26_Lower_Holme_Valley.JPG/480px-Meltham_%26_Lower_Holme_Valley.JPG 2x" data-file-width="1152" data-file-height="770" /></a><br />Meltham and lower <a href="/wiki/Holme_Valley" title="Holme Valley">Holme Valley</a></td></tr><tr><td colspan="2" style="text-align:center"><div class="center"><div style="width:240px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:240px;padding:0"><div style="position:relative;width:240px"><a href="/wiki/File:West_Yorkshire_UK_location_map.svg" class="image" title="Meltham is located in West Yorkshire"><img alt="Meltham is located in West Yorkshire" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/240px-West_Yorkshire_UK_location_map.svg.png" decoding="async" width="240" height="175" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/360px-West_Yorkshire_UK_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/480px-West_Yorkshire_UK_location_map.svg.png 2x" data-file-width="1425" data-file-height="1039" /></a><div style="position:absolute;top:80.833%;left:40.179%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Meltham" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Meltham" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Meltham</div></div></div></div><div>Location within <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></div></div></div></div></td></tr><tr><th scope="row" style="width: 40%">Population</th><td>8,534&#160;<i>(2011)</i></td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/Ordnance_Survey_National_Grid" title="Ordnance Survey National Grid">OS&#160;grid&#160;reference</a></th><td><span class="plainlinks nourlexpansion"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.591886814183;-1.8519054230358_region:GB_scale:25000?pagename=Meltham">SE099106</a></span></span></td></tr><tr><th scope="row" style="width: 40%"><a href="/wiki/Civil_parishes_in_England" class="mw-redirect" title="Civil parishes in England">Civil parish</a></th><td><div class="plainlist"><ul><li>Meltham</li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Districts_of_England" title="Districts of England">Metropolitan&#160;borough</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Kirklees" title="Kirklees">Kirklees</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Metropolitan_and_non-metropolitan_counties_of_England" title="Metropolitan and non-metropolitan counties of England">Metropolitan&#160;county</a></th><td><div class="plainlist"><ul><li><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Regions_of_England" title="Regions of England">Region</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire and the Humber</a></li></ul></div></td></tr><tr class="mergedrow adr"><th scope="row" style="width: 40%"><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Country</a></th><td><span class="country-name"><a href="/wiki/England" title="England">England</a></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign&#160;state</a></th><td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/Post_town" title="Post town">Post town</a></th><td><span style="font-size:80%;"><span class="allcaps" style="text-transform:uppercase;">HOLMFIRTH</span></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Postcodes_in_the_United_Kingdom" title="Postcodes in the United Kingdom">Postcode&#160;district</a></th><td><span style="font-size:100%;"><a href="/wiki/HD_postcode_area" title="HD postcode area">HD9</a></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Telephone_numbers_in_the_United_Kingdom" title="Telephone numbers in the United Kingdom">Dialling&#160;code</a></th><td><span style="font-size:100%;">01484</span></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/List_of_law_enforcement_agencies_in_the_United_Kingdom" class="mw-redirect" title="List of law enforcement agencies in the United Kingdom">Police</a></th><td><a href="/wiki/West_Yorkshire_Police" title="West Yorkshire Police">West Yorkshire</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Fire_services_in_the_United_Kingdom" title="Fire services in the United Kingdom">Fire</a></th><td><a href="/wiki/West_Yorkshire_Fire_and_Rescue_Service" title="West Yorkshire Fire and Rescue Service">West Yorkshire</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Emergency_medical_services_in_the_United_Kingdom" title="Emergency medical services in the United Kingdom">Ambulance</a></th><td><a href="/wiki/Yorkshire_Ambulance_Service" title="Yorkshire Ambulance Service">Yorkshire</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_members_of_the_European_Parliament_for_the_United_Kingdom,_2019%E2%80%9324" title="List of members of the European Parliament for the United Kingdom, 2019–24">EU&#160;Parliament</a></th><td><a href="/wiki/Yorkshire_and_the_Humber_(European_Parliament_constituency)" title="Yorkshire and the Humber (European Parliament constituency)">Yorkshire and the Humber</a></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_United_Kingdom_Parliament_constituencies" class="mw-redirect" title="List of United Kingdom Parliament constituencies">UK&#160;Parliament</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Colne_Valley_(UK_Parliament_constituency)" title="Colne Valley (UK Parliament constituency)">Colne Valley</a></li></ul></div></td></tr><tr><td colspan="2" class="hlist noprint nowrap" style="text-align:center;border-top: 1px solid #aaa; padding-top: 3px; font-size:85%;">
+<dl><dt><span style="font-weight:normal;">List of places</span></dt>
+<dd><a href="/wiki/List_of_United_Kingdom_locations" title="List of United Kingdom locations">UK</a></dd>
+<dd><a href="/wiki/List_of_places_in_England" title="List of places in England">England</a></dd>
+<dd><a href="/wiki/List_of_places_in_Yorkshire" title="List of places in Yorkshire">Yorkshire</a></dd></dl>
+<span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Meltham&amp;params=53.592_N_1.85_W_region:GB_type:city(8534)"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°35′31″N</span> <span class="longitude">1°51′00″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.592°N 1.850°W</span><span style="display:none">&#xfeff; / <span class="geo">53.592; -1.850</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Meltham&amp;params=53.592_N_1.85_W_region:GB_type:city(8534)"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°35′31″N</span> <span class="longitude">1°51′00″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.592°N 1.850°W</span><span style="display:none">&#xfeff; / <span class="geo">53.592; -1.850</span></span></span></a></span></span></span></td></tr></tbody></table>
+<p><b>Meltham</b> is a town and <a href="/wiki/Civil_parishes_in_England" class="mw-redirect" title="Civil parishes in England">civil parish</a> within the <a href="/wiki/Kirklees" title="Kirklees">Metropolitan Borough of Kirklees</a>, in <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, England. It lies in the <a href="/wiki/Holme_Valley" title="Holme Valley">Holme Valley</a>, below Wessenden Moor, four and a half miles south-west of <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a> on the edge of the <a href="/wiki/Peak_District" title="Peak District">Peak District National Park</a>. It had a population of 8,089 at the 2001 census,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> which was estimated to have increased to 8,600 by 2005.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The population assessed at the 2011 Census was 8,534.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geography"><span class="tocnumber">1</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Education"><span class="tocnumber">2</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Sport"><span class="tocnumber">3</span> <span class="toctext">Sport</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Arts"><span class="tocnumber">4</span> <span class="toctext">Arts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Music"><span class="tocnumber">4.1</span> <span class="toctext">Music</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Television"><span class="tocnumber">4.2</span> <span class="toctext">Television</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Industrial_history"><span class="tocnumber">5</span> <span class="toctext">Industrial history</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Brook(e)_family"><span class="tocnumber">5.1</span> <span class="toctext">Brook(e) family</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Tractor_factory"><span class="tocnumber">5.2</span> <span class="toctext">Tractor factory</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Notable_people_from_Meltham"><span class="tocnumber">6</span> <span class="toctext">Notable people from Meltham</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Gallery"><span class="tocnumber">7</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Location_grid"><span class="tocnumber">8</span> <span class="toctext">Location grid</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meltham&amp;action=edit&amp;section=1" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The valley has been inhabited since pre-historic times and there are two Iron Age sites overlooking the town. Meltham also includes the small village of <a href="/wiki/Helme,_West_Yorkshire" title="Helme, West Yorkshire">Helme</a> which has its own school and church. Meltham is situated within close reach of several major cities. <a href="/wiki/Bradford" title="Bradford">Bradford</a> is 14 miles to the north, <a href="/wiki/Leeds" title="Leeds">Leeds</a> is 19 miles north-east, <a href="/wiki/Manchester" title="Manchester">Manchester</a> is 19 miles to the south-west and <a href="/wiki/Sheffield" title="Sheffield">Sheffield</a> is 21 miles to the south-east.
+</p><p>Surrounding villages within the Kirklees area include <a href="/wiki/Crosland_Moor" title="Crosland Moor">Crosland Moor</a>, <a href="/wiki/Golcar" title="Golcar">Golcar</a>, <a href="/wiki/Honley" title="Honley">Honley</a>, <a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a>, <a href="/wiki/Linthwaite" title="Linthwaite">Linthwaite</a>, <a href="/wiki/Marsden,_West_Yorkshire" title="Marsden, West Yorkshire">Marsden</a>, <a href="/wiki/Netherton,_Huddersfield" class="mw-redirect" title="Netherton, Huddersfield">Netherton</a> and <a href="/wiki/Slaithwaite" title="Slaithwaite">Slaithwaite</a>.
+</p>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meltham&amp;action=edit&amp;section=2" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Meltham itself contains three <a href="/wiki/Primary_schools" class="mw-redirect" title="Primary schools">primary schools</a>, namely Meltham Church of England (C of E) School, Meltham Moor Primary School and Helme (C of E) junior and infant school. <a href="/wiki/Secondary_school" title="Secondary school">Secondary schools</a> serving Meltham primarily include <a href="/wiki/Honley_High_School" title="Honley High School">Honley High School</a>, Holmfirth High School and Colne Valley High School, all of which are located in neighbouring areas.
+</p>
+<h2><span class="mw-headline" id="Sport">Sport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meltham&amp;action=edit&amp;section=3" title="Edit section: Sport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Meltham has active teams in a variety of sports, including <a href="/wiki/Football_(soccer)" class="mw-redirect" title="Football (soccer)">football</a>, <a href="/wiki/Cricket" title="Cricket">cricket</a> and <a href="/wiki/Rugby_league" title="Rugby league">rugby league</a>. The football team, Meltham Athletic FC, currently play in the <a href="/wiki/West_Riding_County_Amateur_Football_League" title="West Riding County Amateur Football League">West Riding County Amateur Football League</a> Premier Division. Notable honours include the West Riding Challenge Cup in 2005, the Huddersfield and District League on two occasions and the Barlow Cup 4 times (including three in a row 2003-05). The cricket side, Meltham CC, has won the 1st XI Byrom Shield on 7 occasions and the Sykes Cup 8 times.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> The 1st XI and 2nd XI currently play in the <a href="/wiki/Huddersfield_Cricket_League" title="Huddersfield Cricket League">Drakes Premierships</a> 1 and 2 respectively. Notable ex-players include England international cricketer <a href="/wiki/Ryan_Sidebottom" title="Ryan Sidebottom">Ryan Sidebottom</a>, <a href="/wiki/Dilip_Doshi" title="Dilip Doshi">Dilip Doshi</a> (father of <a href="/wiki/Nayan_Doshi" title="Nayan Doshi">Nayan</a>), <a href="/wiki/Madan_Lal" title="Madan Lal">Madan Lal</a> and <a href="/wiki/Shahid_Mahmood" title="Shahid Mahmood">Shahid Mahmood</a>. The rugby league side, Meltham All Blacks ARLFC, currently play in the <a href="/wiki/Pennine_League" title="Pennine League">Pennine League</a> Division 4.
+</p>
+<h2><span class="mw-headline" id="Arts">Arts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meltham&amp;action=edit&amp;section=4" title="Edit section: Arts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meltham&amp;action=edit&amp;section=5" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Meltham is home to the <a rel="nofollow" class="external text" href="http://www.melthamband.co.uk/">Meltham and Meltham Mills Band</a>, which was established in 1846 as a brass band. They became the first band to win the British Open Title for three consecutive years, a feat only matched by 5 others.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Television">Television</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meltham&amp;action=edit&amp;section=6" title="Edit section: Television">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Meltham has been used as part of the location for several television projects. The third episode in 1995's <i><a href="/wiki/Coogan%27s_Run" title="Coogan&#39;s Run">Coogan's Run</a></i> was set in and around Meltham Parish Church Hall. In addition scenes of long-running <a href="/wiki/BBC" title="BBC">BBC</a> <a href="/wiki/Sitcom" title="Sitcom">sitcom</a> <i><a href="/wiki/Last_of_the_Summer_Wine" title="Last of the Summer Wine">Last of the Summer Wine</a></i> and <a href="/wiki/ITV_(TV_network)" title="ITV (TV network)">ITV</a> <a href="/wiki/Drama" title="Drama">drama</a> <i><a href="/wiki/Where_the_Heart_Is_(1997_TV_series)" class="mw-redirect" title="Where the Heart Is (1997 TV series)">Where the Heart Is</a></i> used some Meltham houses as character's homes. The scout hut has also been used as well as streets for shooting outdoor scenes.
+</p>
+<h2><span class="mw-headline" id="Industrial_history">Industrial history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meltham&amp;action=edit&amp;section=7" title="Edit section: Industrial history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Brook.28e.29_family"></span><span class="mw-headline" id="Brook(e)_family">Brook(e) family</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meltham&amp;action=edit&amp;section=8" title="Edit section: Brook(e) family">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Meltham Mills was the former site of Jonas Brook and Brothers, a <a href="/wiki/Silk" title="Silk">silk</a> mill complex that employed over 1,000 workers during the late 19th century. The Brook family originally came from New House Hall in <a href="/wiki/Sheepridge,_Huddersfield" title="Sheepridge, Huddersfield">Sheepridge</a>, moving to Thickhollins towards the end of the 18th century. William Brook married Martha Smith at Bradford Parish Church - the daughter of a prominent <a href="/wiki/Mirfield" title="Mirfield">Mirfield</a> banker. Their sons Jonas, James and Joseph established their business in Meltham Mills, using a goat's head - the <a href="/wiki/Crest_(heraldry)" title="Crest (heraldry)">crest</a> from the Brook's <a href="/wiki/Coat_of_arms" title="Coat of arms">coat of arms</a> - as their brand. The goat's head can still be seen on the old office building to the mill complex and their arms are emblazoned in St. James' Church, in Meltham Mills (which the family built) - a hawkes lure: motto <i>"en dieu ma foy"</i> (in God my trust). Meltham Mills Band also carry the Brook family coat of arms as their official logo. Edward Brook died in 1904 at <a href="/wiki/Hoddom_Castle" title="Hoddom Castle">Hoddom Castle</a>, the house near <a href="/wiki/Ecclefechan" title="Ecclefechan">Ecclefechan</a>, south-west Scotland, which he had purchased in 1878.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> The Brook family were <a href="/wiki/Philanthropist" class="mw-redirect" title="Philanthropist">philanthropists</a> and built housing in Meltham Mills for their employees, including the convalescent home.  They also built Meltham Hall, Helme Church and owned an estate at <a href="/wiki/Enderby,_Leicestershire" title="Enderby, Leicestershire">Enderby</a> in <a href="/wiki/Leicestershire" title="Leicestershire">Leicestershire</a>. William Brook is buried with his wife Martha in Meltham Church, but his descendants are buried in the crypt underneath St. James Church, Meltham Mills.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>Jonas Brook and Brothers became United Threads in 1890 and Sir <a href="/wiki/Hildred_Carlile" title="Hildred Carlile">Hildred Carlile</a> of Ponsonby Hall, Hertfordshire was a Director of the business. United Threads was closed in 1939 - the business was transferred to <a href="/wiki/Paisley,_Renfrewshire" title="Paisley, Renfrewshire">Paisley</a> as part of J &amp; P Coats - now <a rel="nofollow" class="external text" href="https://archive.is/20120719062445/http://www.archiveshub.ac.uk/news/02120302.html">Coats Viyella</a>. The factory site was taken over by David Brown Tractors.
+</p><p><a href="/wiki/John_Charles_Brooke" title="John Charles Brooke">John Charles Brooke</a>, who originated from the Silkstone branch of the Newhouse Hall family was <a href="/wiki/Somerset" title="Somerset">Somerset</a> <a href="/wiki/Herald" title="Herald">Herald</a> during the 18th century. He was crushed to death at the <a href="/wiki/Haymarket_Theatre" class="mw-redirect" title="Haymarket Theatre">Haymarket Theatre</a> in <a href="/wiki/London" title="London">London</a> following the crowd's clamour to see <a href="/wiki/King_George_III" class="mw-redirect" title="King George III">King George III</a> in 1794. He is buried in <a href="/wiki/St_Benet_Paul%27s_Wharf" class="mw-redirect" title="St Benet Paul&#39;s Wharf">St Benet Paul's Wharf</a> in London.
+</p>
+<h3><span class="mw-headline" id="Tractor_factory">Tractor factory</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meltham&amp;action=edit&amp;section=9" title="Edit section: Tractor factory">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Meltham Mills was also the former base of the <a href="/wiki/David_Brown_Ltd." title="David Brown Ltd.">David Brown Tractors</a> factory opening in 1939 and closing operations on the site in 1988. The various building have now been converted into a diverse number of industrial units, one housing a <a href="/wiki/Tractor" title="Tractor">Tractor</a> museum and other large sections containing an indoor <a href="/wiki/Kart_racing" title="Kart racing">Kart racing</a> track.
+</p><p>Durker Roods, the former home of <a href="/wiki/David_Brown_(entrepreneur)" title="David Brown (entrepreneur)">Sir David Brown</a> was converted into a hotel and the grounds were sold for private housing.
+</p><p>The town has its own joint Scouting and Guides Association buildings.
+</p>
+<h2><span class="mw-headline" id="Notable_people_from_Meltham">Notable people from Meltham</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meltham&amp;action=edit&amp;section=10" title="Edit section: Notable people from Meltham">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Meltham was the birthplace of Lance Sergeant James Taylor (25B/82) E Company 2nd Battalion, <a href="/wiki/24th_Regiment_(2nd_Warwickshire)" class="mw-redirect" title="24th Regiment (2nd Warwickshire)">24th Regiment (2nd Warwickshire)</a>, who fought at, and survived, the <a href="/wiki/Battle_at_Rorke%27s_Drift" class="mw-redirect" title="Battle at Rorke&#39;s Drift">battle at Rorke's Drift</a> in the <a href="/wiki/Zulu_war" class="mw-redirect" title="Zulu war">Zulu war</a>. Although born in the village, to parents also born there, he grew up in Manchester, but can still be regarded as a native of Meltham.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p><a href="/wiki/Albert_Craig_(The_Surrey_Poet)" class="mw-redirect" title="Albert Craig (The Surrey Poet)">Albert Craig</a>, dubbed the Surrey Poet, was also born and raised in Meltham. His ditties mostly related to cricket and football.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>Australian textile magnate Godfrey Hirst was born at Royd Edge, Meltham in 1857.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>  In 1890 he founded the Godfrey Hirst Woollen Mills at <a href="/wiki/Geelong" title="Geelong">Geelong</a>, <a href="/wiki/Victoria_(Australia)" title="Victoria (Australia)">Victoria</a>, which in the early 20th century became the largest manufacturer of textiles in Australia. The company still operates, as <a href="/wiki/Godfrey_Hirst_Carpets" title="Godfrey Hirst Carpets">Godfrey Hirst Carpets</a>. Hirst died in 1917.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p><p><a href="/wiki/Dora_Thewlis" title="Dora Thewlis">Dora Thewlis</a>, who gained brief national notoriety as a young suffragette when a photograph of her arrest appeared on the front page of the <i>Daily Mirror</i>, was born on Shady Row, Meltham Mills, in May 1890. Within a few years of her birth, the residents of the row had successfully petitioned to have the boundary redrawn so that the entirety of Meltham Mills was within the township of Meltham.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meltham&amp;action=edit&amp;section=11" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:52.5px auto;"><a href="/wiki/File:Meltham_Village_viewed_from_Wessenden_Moor.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Meltham_Village_viewed_from_Wessenden_Moor.jpg/120px-Meltham_Village_viewed_from_Wessenden_Moor.jpg" decoding="async" width="120" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Meltham_Village_viewed_from_Wessenden_Moor.jpg/180px-Meltham_Village_viewed_from_Wessenden_Moor.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Meltham_Village_viewed_from_Wessenden_Moor.jpg/240px-Meltham_Village_viewed_from_Wessenden_Moor.jpg 2x" data-file-width="700" data-file-height="261" /></a></div></div>
+			<div class="gallerytext">
+<p>View of Meltham from Wessenden Moor, <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a> is in the far distance
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:43px auto;"><a href="/wiki/File:David_Brown_Tractors,_Meltham_Mills_(RLH).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/David_Brown_Tractors%2C_Meltham_Mills_%28RLH%29.jpg/120px-David_Brown_Tractors%2C_Meltham_Mills_%28RLH%29.jpg" decoding="async" width="120" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/David_Brown_Tractors%2C_Meltham_Mills_%28RLH%29.jpg/180px-David_Brown_Tractors%2C_Meltham_Mills_%28RLH%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/David_Brown_Tractors%2C_Meltham_Mills_%28RLH%29.jpg/240px-David_Brown_Tractors%2C_Meltham_Mills_%28RLH%29.jpg 2x" data-file-width="1480" data-file-height="789" /></a></div></div>
+			<div class="gallerytext">
+<p>David Brown Tractor Factory Meltham, 1981
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:19px auto;"><a href="/wiki/File:David_Brown_990_Implematic_Tractor.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/David_Brown_990_Implematic_Tractor.png/120px-David_Brown_990_Implematic_Tractor.png" decoding="async" width="120" height="112" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/David_Brown_990_Implematic_Tractor.png/180px-David_Brown_990_Implematic_Tractor.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/David_Brown_990_Implematic_Tractor.png/240px-David_Brown_990_Implematic_Tractor.png 2x" data-file-width="2042" data-file-height="1913" /></a></div></div>
+			<div class="gallerytext">
+<p>David Brown 990 Implematic Tractor Made in Meltham around 1964
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:37px auto;"><a href="/wiki/File:Meltham_Cub_Scouts,_late_1970s_(RLH).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Meltham_Cub_Scouts%2C_late_1970s_%28RLH%29.jpg/120px-Meltham_Cub_Scouts%2C_late_1970s_%28RLH%29.jpg" decoding="async" width="120" height="76" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Meltham_Cub_Scouts%2C_late_1970s_%28RLH%29.jpg/180px-Meltham_Cub_Scouts%2C_late_1970s_%28RLH%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Meltham_Cub_Scouts%2C_late_1970s_%28RLH%29.jpg/240px-Meltham_Cub_Scouts%2C_late_1970s_%28RLH%29.jpg 2x" data-file-width="640" data-file-height="405" /></a></div></div>
+			<div class="gallerytext">
+<p>Meltham Cub Scouts, on Blackpool Bridge, near Digley reservoir (late 1970s)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Royd_edge.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Royd_edge.jpg/120px-Royd_edge.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Royd_edge.jpg/180px-Royd_edge.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Royd_edge.jpg/240px-Royd_edge.jpg 2x" data-file-width="1280" data-file-height="960" /></a></div></div>
+			<div class="gallerytext">
+<p>Meltham viewed from Royd Edge
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Location_grid">Location grid</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meltham&amp;action=edit&amp;section=12" title="Edit section: Location grid">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" class="navbox" aria-labelledby="Places_adjacent_to_Meltham" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Adjacent_communities" title="Template:Adjacent communities"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Adjacent_communities" title="Template talk:Adjacent communities"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Adjacent_communities&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Places_adjacent_to_Meltham" style="font-size:114%;margin:0 4em">Places adjacent to Meltham</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><table role="presentation" style="width:100%; margin:0; text-align:center;"><tbody><tr>
+<td><a href="/wiki/Sowerby_Bridge" title="Sowerby Bridge">Sowerby Bridge</a></td>
+<td><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></td>
+<td><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></td>
+</tr><tr>
+<td style="width:33%"><a href="/wiki/Oldham" title="Oldham">Oldham</a></td>
+<td style="width:33%;">
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/14px-Pfeil_oben.svg.png" decoding="async" title="North" width="14" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/21px-Pfeil_oben.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/28px-Pfeil_oben.svg.png 2x" data-file-width="501" data-file-height="595" /></div>
+<div style="white-space:nowrap;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/17px-Pfeil_links.svg.png" decoding="async" title="West" width="17" height="14" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/25px-Pfeil_links.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/33px-Pfeil_links.svg.png 2x" data-file-width="595" data-file-height="501" /><b style="display:inline-block; vertical-align:middle; margin:0.75em 1em">Meltham</b><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/17px-Pfeil_rechts.svg.png" decoding="async" title="East" width="17" height="14" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/25px-Pfeil_rechts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/33px-Pfeil_rechts.svg.png 2x" data-file-width="595" data-file-height="501" /></div>
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/14px-Pfeil_unten.svg.png" decoding="async" title="South" width="14" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/21px-Pfeil_unten.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/28px-Pfeil_unten.svg.png 2x" data-file-width="501" data-file-height="595" /></div>
+</td>
+<td style="width:33%"><a href="/wiki/Brockholes" title="Brockholes">Brockholes</a></td>
+</tr><tr>
+<td><a href="/wiki/Stalybridge" title="Stalybridge">Stalybridge</a></td>
+<td><a href="/wiki/Holme,_West_Yorkshire" title="Holme, West Yorkshire">Holme</a></td>
+<td><a href="/wiki/Sheffield" title="Sheffield">Sheffield</a></td>
+</tr></tbody></table></div></td></tr></tbody></table></div>
+<p>The above grid is based on exact directions rather than close to.
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meltham&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.neighbourhood.statistics.gov.uk/dissemination/viewFullDataset.do?instanceSelection=03070&amp;productId=779&amp;$ph=60_61&amp;datasetInstanceId=3070&amp;startColumn=1&amp;numberOfColumns=8&amp;containerAreaId=790271">Office for National Statistics&#160;: <i>Census 2001&#160;: Parish Headcounts&#160;: Kirklees</i></a> Retrieved 3 September 2009</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080529135652/http://www.kirklees.gov.uk/community/statistics/census-by-town/MelthmUD.pdf">"Former (Pre 1974) Meltham Urban District, Metham Civil Parish - Area Profile 2008"</a> <span class="cs1-format">(PDF)</span>. Kirklees Council. 2008. Archived from <a rel="nofollow" class="external text" href="http://www.kirklees.gov.uk/community/statistics/census-by-town/MelthmUD.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 29 May 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">24 October</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Former+%28Pre+1974%29+Meltham+Urban+District%2C+Metham+Civil+Parish+-+Area+Profile+2008&amp;rft.pub=Kirklees+Council&amp;rft.date=2008&amp;rft_id=http%3A%2F%2Fwww.kirklees.gov.uk%2Fcommunity%2Fstatistics%2Fcensus-by-town%2FMelthmUD.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMeltham" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.neighbourhood.statistics.gov.uk/dissemination/LeadKeyFigures.do?a=7&amp;b=11126475&amp;c=Meltham&amp;d=16&amp;e=62&amp;g=6371901&amp;i=1001x1003x1032x1004&amp;m=0&amp;r=1&amp;s=1456401212250&amp;enc=1">"Civil Parish population 2011"</a>. <i>Neighbourhood Statistics</i>. Office for National Statics<span class="reference-accessdate">. Retrieved <span class="nowrap">25 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Neighbourhood+Statistics&amp;rft.atitle=Civil+Parish+population+2011&amp;rft_id=http%3A%2F%2Fwww.neighbourhood.statistics.gov.uk%2Fdissemination%2FLeadKeyFigures.do%3Fa%3D7%26b%3D11126475%26c%3DMeltham%26d%3D16%26e%3D62%26g%3D6371901%26i%3D1001x1003x1032x1004%26m%3D0%26r%3D1%26s%3D1456401212250%26enc%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMeltham" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.melthamcc.co.uk/5.html">Meltham Cricket Club Honours</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20080509145140/http://www.melthamcc.co.uk/5.html">Archived</a> 9 May 2008 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.harrogate.co.uk/harrogate-band/champ02.htm">The British Open Brass Band Championships past winners</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070927161946/http://www.harrogate.co.uk/harrogate-band/champ02.htm">Archived</a> 27 September 2007 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Groome, Francis H., ed. (1885). <a rel="nofollow" class="external text" href="http://www.scottish-places.info/parishes/parhistory1031.html">"Hoddam"</a>. <i>Ordnance Gazetteer of Scotland: A Survey of Scottish Topography, Statistical, Biographical and Historical</i>. Thomas C. Jack.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ordnance+Gazetteer+of+Scotland%3A+A+Survey+of+Scottish+Topography%2C+Statistical%2C+Biographical+and+Historical&amp;rft.atitle=Hoddam&amp;rft.date=1885&amp;rft_id=http%3A%2F%2Fwww.scottish-places.info%2Fparishes%2Fparhistory1031.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMeltham" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ebooksread.com/authors-eng/charles-augustus-hulbert/annals-of-the-church-and-parish-of-almondbury-yorkshire-blu/page-29-annals-of-the-church-and-parish-of-almondbury-yorkshire-blu.shtml">Annals of the church and parish of Almondbury, Yorkshire - (page 29 of 57)</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.rorkesdriftvc.com/battle/roll.htm">The Roll of those present at Rorke's Drift 22/23 January, 1879</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Rorke's Drift, Adrian Greaves, Cassell, 2003, p. 246. Censuses 1861, 1871, 1901.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/news/local-west-yorkshire-news/2009/04/22/new-bid-to-fight-diabetes-86081-23439573/">"New bid to fight diabetes"</a>. <i><a href="/wiki/Huddersfield_Examiner" class="mw-redirect" title="Huddersfield Examiner">Huddersfield Examiner</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 March</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Huddersfield+Examiner&amp;rft.atitle=New+bid+to+fight+diabetes&amp;rft_id=http%3A%2F%2Fwww.examiner.co.uk%2Fnews%2Flocal-west-yorkshire-news%2F2009%2F04%2F22%2Fnew-bid-to-fight-diabetes-86081-23439573%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMeltham" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Hirst, Godfrey. <a rel="nofollow" class="external text" href="http://archiver.rootsweb.ancestry.com/th/read/AUS-VIC-GEELONG-DISTRICT/2004-01/1073013985">"Hirst family history"</a>. <i>Woollen manufacturer</i>. RootsWeb - Ancestry.com<span class="reference-accessdate">. Retrieved <span class="nowrap">14 June</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Woollen+manufacturer&amp;rft.atitle=Hirst+family+history&amp;rft.aulast=Hirst&amp;rft.aufirst=Godfrey&amp;rft_id=http%3A%2F%2Farchiver.rootsweb.ancestry.com%2Fth%2Fread%2FAUS-VIC-GEELONG-DISTRICT%2F2004-01%2F1073013985&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMeltham" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://adb.anu.edu.au/biography/hirst-godfrey-6684">Australian Dictionary of Biography Website - Godfrey Hirst</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Prior to the boundary change in 1896, parts of Meltham Mills were within the township of Honley boundary. It seems likely that Dora's father, James Lindley Thewlis, organised the petition.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Meltham&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Meltham" class="extiw" title="commons:Category:Meltham">Meltham</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060212073712/http://www.kirkleesmc.gov.uk/you-kmc/parishcouncil/meltham.shtml">Meltham Town Council</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20051112010128/http://www.meltham.inuk.com/">Meltham on the Web</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.davidbrown.com/history.php">David Brown history at Textron website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.melthamcrossroads.co.uk/">Meltham Crossroads</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Ceremonial_county_of_West_Yorkshire" style="padding:3px"><table class="nowraplinks hlist vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:West_Yorkshire" title="Template:West Yorkshire"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:West_Yorkshire" title="Template talk:West Yorkshire"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:West_Yorkshire&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Ceremonial_county_of_West_Yorkshire" class="adr" style="font-size:114%;margin:0 4em"><span class="category"><a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">Ceremonial county</a></span> of <span class="fn org region"><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></span></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="Yorkshire_Portal"><i><a href="/wiki/Portal:Yorkshire" title="Portal:Yorkshire">Yorkshire Portal</a></i></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Metropolitan districts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/City_of_Bradford" title="City of Bradford">City of Bradford</a></li>
+<li><a href="/wiki/City_of_Leeds" title="City of Leeds">City of Leeds</a></li>
+<li><a href="/wiki/City_of_Wakefield" title="City of Wakefield">City of Wakefield</a></li>
+<li><a href="/wiki/Calderdale" title="Calderdale">Metropolitan Borough of Calderdale</a></li>
+<li><a href="/wiki/Kirklees" title="Kirklees">Metropolitan Borough of Kirklees</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Major settlements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baildon" title="Baildon">Baildon</a></li>
+<li><a href="/wiki/Batley" title="Batley">Batley</a></li>
+<li><a href="/wiki/Bingley" title="Bingley">Bingley</a></li>
+<li><a href="/wiki/Bradford" title="Bradford">Bradford</a></li>
+<li><a href="/wiki/Brighouse" title="Brighouse">Brighouse</a></li>
+<li><a href="/wiki/Castleford" title="Castleford">Castleford</a></li>
+<li><a href="/wiki/Cleckheaton" title="Cleckheaton">Cleckheaton</a></li>
+<li><a href="/wiki/Denholme" title="Denholme">Denholme</a></li>
+<li><a href="/wiki/Dewsbury" title="Dewsbury">Dewsbury</a></li>
+<li><a href="/wiki/Elland" title="Elland">Elland</a></li>
+<li><a href="/wiki/Farsley" title="Farsley">Farsley</a></li>
+<li><a href="/wiki/Featherstone" title="Featherstone">Featherstone</a></li>
+<li><a href="/wiki/Guiseley" title="Guiseley">Guiseley</a></li>
+<li><a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a></li>
+<li><a href="/wiki/Hebden_Bridge" title="Hebden Bridge">Hebden Bridge</a></li>
+<li><a href="/wiki/Heckmondwike" title="Heckmondwike">Heckmondwike</a></li>
+<li><a href="/wiki/Hemsworth" title="Hemsworth">Hemsworth</a></li>
+<li><a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a></li>
+<li><a href="/wiki/Horbury" title="Horbury">Horbury</a></li>
+<li><a href="/wiki/Horsforth" title="Horsforth">Horsforth</a></li>
+<li><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></li>
+<li><a href="/wiki/Ilkley" title="Ilkley">Ilkley</a></li>
+<li><a href="/wiki/Keighley" title="Keighley">Keighley</a></li>
+<li><a href="/wiki/Knottingley" title="Knottingley">Knottingley</a></li>
+<li><a href="/wiki/Leeds" title="Leeds">Leeds</a></li>
+<li><a class="mw-selflink selflink">Meltham</a></li>
+<li><a href="/wiki/Mirfield" title="Mirfield">Mirfield</a></li>
+<li><a href="/wiki/Morley,_West_Yorkshire" title="Morley, West Yorkshire">Morley</a></li>
+<li><a href="/wiki/Normanton,_West_Yorkshire" title="Normanton, West Yorkshire">Normanton</a></li>
+<li><a href="/wiki/Ossett" title="Ossett">Ossett</a></li>
+<li><a href="/wiki/Otley" title="Otley">Otley</a></li>
+<li><a href="/wiki/Pontefract" title="Pontefract">Pontefract</a></li>
+<li><a href="/wiki/Pudsey" title="Pudsey">Pudsey</a></li>
+<li><a href="/wiki/Rothwell,_West_Yorkshire" title="Rothwell, West Yorkshire">Rothwell</a></li>
+<li><a href="/wiki/Shipley,_West_Yorkshire" title="Shipley, West Yorkshire">Shipley</a></li>
+<li><a href="/wiki/Silsden" title="Silsden">Silsden</a></li>
+<li><a href="/wiki/South_Elmsall" title="South Elmsall">South Elmsall</a></li>
+<li><a href="/wiki/Sowerby_Bridge" title="Sowerby Bridge">Sowerby Bridge</a></li>
+<li><a href="/wiki/Todmorden" title="Todmorden">Todmorden</a></li>
+<li><a href="/wiki/Wakefield" title="Wakefield">Wakefield</a></li>
+<li><a href="/wiki/Warley_Town" title="Warley Town">Warley Town</a></li>
+<li><a href="/wiki/Wetherby" title="Wetherby">Wetherby</a></li>
+<li><a href="/wiki/Yeadon,_West_Yorkshire" title="Yeadon, West Yorkshire">Yeadon</a><br /><i>See also:</i> <b><a href="/wiki/List_of_civil_parishes_in_West_Yorkshire" class="mw-redirect" title="List of civil parishes in West Yorkshire">List of civil parishes in West Yorkshire</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Topics</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Parliamentary_constituencies_in_West_Yorkshire" title="List of Parliamentary constituencies in West Yorkshire">Parliamentary constituencies</a></li>
+<li><a href="/wiki/West_Yorkshire_Joint_Services" title="West Yorkshire Joint Services">West Yorkshire Joint Services</a></li>
+<li><a href="/wiki/List_of_places_in_West_Yorkshire" class="mw-redirect" title="List of places in West Yorkshire">Places</a></li>
+<li><a href="/wiki/List_of_settlements_in_West_Yorkshire_by_population" title="List of settlements in West Yorkshire by population">Population of major settlements</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire" title="List of Sites of Special Scientific Interest in West Yorkshire">SSSIs</a></li>
+<li><a href="/wiki/Category:Country_houses_in_West_Yorkshire" title="Category:Country houses in West Yorkshire">Country houses</a></li>
+<li><a href="/wiki/Grade_I_listed_buildings_in_West_Yorkshire" title="Grade I listed buildings in West Yorkshire">Grade I listed buildings</a></li>
+<li><a href="/wiki/Grade_II*_listed_buildings_in_West_Yorkshire" title="Grade II* listed buildings in West Yorkshire">Grade II* listed buildings</a></li>
+<li><a href="/wiki/List_of_windmills_in_West_Yorkshire" title="List of windmills in West Yorkshire">Windmills</a></li>
+<li><a href="/wiki/History_of_West_Yorkshire" class="mw-redirect" title="History of West Yorkshire">History</a></li>
+<li><a href="/wiki/Lord_Lieutenant_of_West_Yorkshire" title="Lord Lieutenant of West Yorkshire">Lord Lieutenants</a></li>
+<li><a href="/wiki/High_Sheriff_of_West_Yorkshire" title="High Sheriff of West Yorkshire">High Sheriffs</a></li>
+<li><a href="/wiki/List_of_monastic_houses_in_West_Yorkshire" title="List of monastic houses in West Yorkshire">Monastic houses</a></li>
+<li><a href="/wiki/List_of_museums_in_West_Yorkshire" title="List of museums in West Yorkshire">Museums</a></li>
+<li><a href="/wiki/List_of_rivers_of_Yorkshire" title="List of rivers of Yorkshire">Rivers</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1230
+Cached time: 20190926002911
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.476 seconds
+Real time usage: 0.672 seconds
+Preprocessor visited node count: 3066/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 70773/2097152 bytes
+Template argument size: 12096/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 23312/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.201/10.000 seconds
+Lua memory usage: 4.85 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  585.501      1 -total
+ 38.78%  227.052      1 Template:Infobox_UK_place
+ 36.94%  216.289      2 Template:Infobox
+ 24.88%  145.700      1 Template:Reflist
+ 18.00%  105.367      4 Template:Cite_web
+ 10.45%   61.191      1 Template:About
+  8.43%   49.371      1 Template:Commons_category
+  8.32%   48.695      1 Template:Coord
+  6.40%   37.477     26 Template:Ubl
+  5.21%   30.479      2 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:152371-0!canonical and timestamp 20190926002910 and revision id 917893922
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Meltham&amp;oldid=917893922">https://en.wikipedia.org/w/index.php?title=Meltham&amp;oldid=917893922</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Kirklees" title="Category:Kirklees">Kirklees</a></li><li><a href="/wiki/Category:Holme_Valley" title="Category:Holme Valley">Holme Valley</a></li><li><a href="/wiki/Category:Villages_in_West_Yorkshire" title="Category:Villages in West Yorkshire">Villages in West Yorkshire</a></li><li><a href="/wiki/Category:Peak_District" title="Category:Peak District">Peak District</a></li><li><a href="/wiki/Category:Towns_and_villages_of_the_Peak_District" title="Category:Towns and villages of the Peak District">Towns and villages of the Peak District</a></li><li><a href="/wiki/Category:Civil_parishes_in_West_Yorkshire" title="Category:Civil parishes in West Yorkshire">Civil parishes in West Yorkshire</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2014" title="Category:Use dmy dates from April 2014">Use dmy dates from April 2014</a></li><li><a href="/wiki/Category:Use_British_English_from_September_2019" title="Category:Use British English from September 2019">Use British English from September 2019</a></li><li><a href="/wiki/Category:Articles_with_OS_grid_coordinates" title="Category:Articles with OS grid coordinates">Articles with OS grid coordinates</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Meltham" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Meltham" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Meltham" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Meltham" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Meltham">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Meltham&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Meltham&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Meltham" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Meltham" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Meltham&amp;oldid=917893922" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Meltham&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2737155" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Meltham&amp;id=917893922" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Meltham" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Meltham">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Meltham&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Meltham&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D9%85%D9%84%D8%AA%D9%87%D8%A7%D9%85%D8%8C_%DB%8C%D9%88%D8%B1%DA%A9%E2%80%8C%D8%B4%D8%B1_%D8%BA%D8%B1%D8%A8%DB%8C" title="ملتهام، یورک‌شر غربی – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Meltham_(kapital_sa_distrito)" title="Meltham (kapital sa distrito) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Meltham" title="Meltham – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Meltham" title="Meltham – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D9%84%D8%AA%D9%87%D8%A7%D9%85%D8%8C_%DB%8C%D9%88%D8%B1%DA%A9%E2%80%8C%D8%B4%D8%B1_%D8%BA%D8%B1%D8%A8%DB%8C" title="ملتهام، یورک‌شر غربی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Meltham" title="Meltham – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Meltham" title="Meltham – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Meltham" title="Meltham – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Meltham" title="Meltham – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Meltham" title="Meltham – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Meltham" title="Meltham – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Meltham" title="Meltham – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2737155#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 26 September 2019, at 00:29<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Meltham&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.476","walltime":"0.672","ppvisitednodes":{"value":3066,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":70773,"limit":2097152},"templateargumentsize":{"value":12096,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":23312,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  585.501      1 -total"," 38.78%  227.052      1 Template:Infobox_UK_place"," 36.94%  216.289      2 Template:Infobox"," 24.88%  145.700      1 Template:Reflist"," 18.00%  105.367      4 Template:Cite_web"," 10.45%   61.191      1 Template:About","  8.43%   49.371      1 Template:Commons_category","  8.32%   48.695      1 Template:Coord","  6.40%   37.477     26 Template:Ubl","  5.21%   30.479      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.201","limit":"10.000"},"limitreport-memusage":{"value":5090329,"limit":52428800}},"cachereport":{"origin":"mw1230","timestamp":"20190926002911","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Meltham","url":"https:\/\/en.wikipedia.org\/wiki\/Meltham","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2737155","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2737155","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-11-27T11:45:23Z","dateModified":"2019-09-26T00:29:05Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bd\/Meltham_%26_Lower_Holme_Valley.JPG","headline":"village in the United Kingdom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":102,"wgHostname":"mw1245"});});</script>
+</body>
+</html>
+

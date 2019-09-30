@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Municipal borough - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Municipal_borough","wgTitle":"Municipal borough","wgCurRevisionId":916909708,"wgRevisionId":916909708,"wgArticleId":667870,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from July 2012","Use British English from July 2012","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from September 2018","Defunct types of subdivision in the United Kingdom","Boroughs of the United Kingdom"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],
+"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Municipal_borough","wgRelevantArticleId":667870,"wgRequestId":"XYoo3QpAIDEAAE4XMdwAAACI","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q518343","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Municipal_borough"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Municipal_borough&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Municipal_borough&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Municipal_borough"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Municipal_borough rootpage-Municipal_borough skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Municipal borough</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Municipal borough</th></tr><tr><th scope="row">Category</th><td>Local government district</td></tr><tr><th scope="row">Location</th><td><a href="/wiki/England_and_Wales" title="England and Wales">England and Wales</a>, <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Republic of Ireland</a>, <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a></td></tr><tr><th scope="row">Found&#160;in</th><td><a href="/wiki/Administrative_county" title="Administrative county">Administrative county</a></td></tr><tr><th scope="row">Created&#160;by</th><td><a href="/wiki/Municipal_Corporations_Act_1835" title="Municipal Corporations Act 1835">Municipal Corporations Act 1835</a> (England and Wales)<br /><a href="/wiki/Municipal_Corporations_(Ireland)_Act_1840" title="Municipal Corporations (Ireland) Act 1840">Municipal Corporations (Ireland) Act 1840</a> (Ireland)</td></tr><tr><th scope="row">Created</th><td>1835</td></tr><tr><th scope="row">Abolished&#160;by</th><td><a href="/wiki/Local_Government_Act_1972" title="Local Government Act 1972">Local Government Act 1972</a> (England and Wales)<br /><a href="/wiki/Local_Government_(Boundaries)_Act_(Northern_Ireland)_1971" title="Local Government (Boundaries) Act (Northern Ireland) 1971">Local Government (Boundaries) Act (Northern Ireland) 1971</a> (Northern Ireland)<br /><a href="/wiki/Local_Government_Act_2001" title="Local Government Act 2001">Local Government Act 2001</a> (Republic of Ireland)</td></tr><tr><th scope="row">Abolished</th><td>1974 (England and Wales)<br />1973 (Northern Ireland)<br />2002 (Republic of Ireland)</td></tr><tr><th scope="row">Possible types</th><td>County borough<br />Non-county borough</td></tr><tr><th scope="row">Possible&#160;status</th><td>City<br />Royal borough</td></tr><tr><th scope="row">Government</th><td>Municipal corporation</td></tr><tr><th scope="row">Subdivisions</th><td><a href="/wiki/Ward_(politics)" class="mw-redirect" title="Ward (politics)">Wards</a></td></tr></tbody></table>
+<p><b>Municipal boroughs</b> were a type of <a href="/wiki/Local_government" title="Local government">local government</a> district which existed in <a href="/wiki/England" title="England">England</a> and <a href="/wiki/Wales" title="Wales">Wales</a> between 1835 and 1974, in <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a> from 1840 to 1973 and in the <a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Republic of Ireland</a> from 1840 to 2002. Broadly similar structures existed in <a href="/wiki/Scotland" title="Scotland">Scotland</a> from 1833 to 1975 with the reform of <a href="/wiki/Royal_burgh" title="Royal burgh">royal burghs</a> and creation of <a href="/wiki/Police_burgh" title="Police burgh">police burghs</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#England_and_Wales"><span class="tocnumber">1</span> <span class="toctext">England and Wales</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Municipal_Corporations_Act_1835"><span class="tocnumber">1.1</span> <span class="toctext">Municipal Corporations Act 1835</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Corporation_and_council"><span class="tocnumber">1.2</span> <span class="toctext">Corporation and council</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Town_councils"><span class="tocnumber">1.2.1</span> <span class="toctext">Town councils</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-5"><a href="#County_and_non-county_boroughs"><span class="tocnumber">1.3</span> <span class="toctext">County and non-county boroughs</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Abolition"><span class="tocnumber">1.4</span> <span class="toctext">Abolition</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Ireland_1840–1922"><span class="tocnumber">2</span> <span class="toctext">Ireland 1840–1922</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Northern_Ireland"><span class="tocnumber">3</span> <span class="toctext">Northern Ireland</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Irish_Free_State_and_the_Republic_of_Ireland"><span class="tocnumber">4</span> <span class="toctext">Irish Free State and the Republic of Ireland</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="England_and_Wales">England and Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Municipal_borough&amp;action=edit&amp;section=1" title="Edit section: England and Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Municipal_Corporations_Act_1835">Municipal Corporations Act 1835</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Municipal_borough&amp;action=edit&amp;section=2" title="Edit section: Municipal Corporations Act 1835">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Borough" title="Borough">Boroughs</a> had existed in England and Wales since <a href="/wiki/Medi%C3%A6val" class="mw-redirect" title="Mediæval">mediæval</a> times. By the <a href="/wiki/Late_Middle_Ages" title="Late Middle Ages">late Middle Ages</a> they had come under royal control, with <a href="/wiki/Municipal_corporation" title="Municipal corporation">corporations</a> established by <a href="/wiki/Royal_charter" title="Royal charter">royal charter</a>. These corporations were not popularly elected: characteristically they were self-selecting <a href="/wiki/Oligarchies" class="mw-redirect" title="Oligarchies">oligarchies</a>, were nominated by tradesmen's <a href="/wiki/Guild" title="Guild">guilds</a> or were under the control of the <a href="/wiki/Lord_of_the_manor" title="Lord of the manor">lord of the manor</a>. A <a href="/wiki/Royal_Commission" class="mw-redirect" title="Royal Commission">Royal Commission</a> was appointed in 1833 to investigate the various borough corporations in England and Wales. In all 263 towns were found to have some form of corporation created by charter or in existence <a href="/wiki/Time_immemorial" title="Time immemorial">by prescription</a>. The majority had self-elected common councils, whose members served for life. Where there was an election, the incumbent members of the corporation often effectively nominated the electorate. Eleven boroughs were <a href="/wiki/Manorialism" title="Manorialism">manorial</a> <a href="/wiki/Court_leet" title="Court leet">court leets</a>.<sup id="cite_ref-fletcher_1-0" class="reference"><a href="#cite_note-fletcher-1">&#91;1&#93;</a></sup> Following the report of the royal commission, legislation was introduced to reform borough corporations.
+</p><p>The <a href="/wiki/Municipal_Corporations_Act_1835" title="Municipal Corporations Act 1835">Municipal Corporations Act 1835</a> provided for a reformed form of town government, designated a municipal borough. The Act introduced a uniform system of town government in municipal boroughs, with an elected <a href="/wiki/Town_council" title="Town council">town council</a>, consisting of a <a href="/wiki/Mayor" title="Mayor">mayor</a>, <a href="/wiki/Aldermen" class="mw-redirect" title="Aldermen">aldermen</a> and <a href="/wiki/Councillor" title="Councillor">councillors</a> to oversee many local affairs.  The legislation required all municipal corporations to be elected according to a standard franchise, based on property ownership.  The Act reformed 178 boroughs. At the same time, a procedure was established whereby the inhabitant householders of a town could <a href="/wiki/Petition" title="Petition">petition</a> the Crown via the <a href="/wiki/Privy_council" title="Privy council">privy council</a> to grant a <a href="/wiki/Royal_charter" title="Royal charter">charter of incorporation</a>, constituting the area a municipal borough.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The attempts to incorporate large industrial towns such as <a href="/wiki/Birmingham" title="Birmingham">Birmingham</a>, <a href="/wiki/Bolton" title="Bolton">Bolton</a>, <a href="/wiki/Manchester" title="Manchester">Manchester</a> and <a href="/wiki/Sheffield" title="Sheffield">Sheffield</a> by <a href="/wiki/British_Whig_Party" class="mw-redirect" title="British Whig Party">Whig</a> and <a href="/wiki/Radicals_(UK)" title="Radicals (UK)">Radical</a> "incorporationists" were bitterly contested by <a href="/wiki/Tory" title="Tory">Tory</a> "anti-incorporationists".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> The Tory objections to the legality of the charters led to them boycotting elections to the new boroughs until the enactment of the <a href="/w/index.php?title=Borough_Charters_Confirmation_Act_1842&amp;action=edit&amp;redlink=1" class="new" title="Borough Charters Confirmation Act 1842 (page does not exist)">Borough Charters Confirmation Act 1842</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>A number of further acts of parliament<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Avoid_weasel_words" class="mw-redirect" title="Wikipedia:Avoid weasel words"><span title="The material near this tag possibly uses too vague attribution or weasel words. (September 2018)">which?</span></a></i>&#93;</sup> amended the 1835 legislation. All of these were repealed and replaced by the <a href="/wiki/Municipal_Corporations_Act_1882" title="Municipal Corporations Act 1882">Municipal Corporations Act 1882</a>. The 1882 Act and the consolidating <a href="/wiki/Local_Government_Act_1933" title="Local Government Act 1933">Local Government Act 1933</a> provided the statutory basis for municipal boroughs up to their abolition. An important change in the 1933 legislation removed the right to petition for incorporation from inhabitant householders. In future, petitions could only be made by existing urban or <a href="/wiki/Rural_district" title="Rural district">rural district</a> councils.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>The <a href="/wiki/Unreformed_boroughs_in_England_and_Wales_1835_-_1886" class="mw-redirect" title="Unreformed boroughs in England and Wales 1835 - 1886">boroughs unreformed by the Act</a> were not immediately abolished. Several of them subsequently sought new charters as municipal boroughs; those that did not were finally abolished in 1887 by the Municipal Corporations Act 1886. Only the <a href="/wiki/City_of_London_Corporation" title="City of London Corporation">City of London Corporation</a> survived as a local authority in an unreformed state; the City undertook a major reform of its democratic structure in 2005.
+</p><p>In 1873 the Association of Municipal Corporations was formed to represent the interests of the boroughs collectively; its membership included both county and non-county boroughs. The AMC was later to be a strong advocate for expanding county boroughs and unitary local government, and it was at the annual conference of the AMC in 1965 that <a href="/wiki/Richard_Crossman" title="Richard Crossman">Richard Crossman</a> called for a reform of all local government. This speech eventually led to the <a href="/wiki/Redcliffe-Maud_Report" title="Redcliffe-Maud Report">Redcliffe-Maud Report</a> recommending large unitary councils for all England.<sup id="cite_ref-AMC_6-0" class="reference"><a href="#cite_note-AMC-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Corporation_and_council">Corporation and council</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Municipal_borough&amp;action=edit&amp;section=3" title="Edit section: Corporation and council">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Each municipal borough possessed a corporation uniformly designated as the <i>Mayor, Aldermen, and Burgesses</i> of the town. The only exception was where the borough enjoyed <a href="/wiki/City_status_in_the_United_Kingdom" title="City status in the United Kingdom">city status</a>;  in this case "burgesses" became "citizens". In a handful of cities the chief magistrate was granted the further dignity of <a href="/wiki/List_of_lord_mayoralties_and_lord_provostships_in_the_United_Kingdom" title="List of lord mayoralties and lord provostships in the United Kingdom">lord mayor</a>.
+</p><p>The corporation was a <a href="/wiki/Body_corporate" class="mw-redirect" title="Body corporate">body corporate</a> with perpetual succession, and included all registered electors or "burgesses" of the borough. However, the actual administration was carried out by a town council, which was in effect a committee representative of the community at large. All those eligible to vote were entered in the "burgess roll", which was compiled by the town clerk annually.<sup id="cite_ref-shaw_7-0" class="reference"><a href="#cite_note-shaw-7">&#91;7&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Town_councils">Town councils</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Municipal_borough&amp;action=edit&amp;section=4" title="Edit section: Town councils">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The town council of each municipal borough consisted of a mayor, aldermen and councillors. The councillors were directly elected by the burgesses for a three-year term, with one third of their membership retiring each year. Boroughs with a population of more than 6,000 were divided into <a href="/wiki/Ward_(politics)" class="mw-redirect" title="Ward (politics)">wards</a> with separate elections held in each ward annually.<sup id="cite_ref-finlayson_8-0" class="reference"><a href="#cite_note-finlayson-8">&#91;8&#93;</a></sup> One quarter of the council were <a href="/wiki/Alderman" title="Alderman">aldermen</a>, who were elected by the council for a six-year term. Half of the aldermen were elected every third year at the council's annual meeting. It was originally envisaged that the council would choose persons from outside of the municipal body. In practice, however, the aldermanic benches were almost exclusively filled by the promotion of long-serving councillors.<sup id="cite_ref-shaw_7-1" class="reference"><a href="#cite_note-shaw-7">&#91;7&#93;</a></sup> The mayor of the borough was elected for a one-year term, although he was eligible for re-election indefinitely. Under the original legislation the mayor was required to be a councillor or alderman. The Municipal Corporations Act 1882 empowered the council to elect any suitably qualified inhabitant of the borough as mayor. However, the mayoralty continued to be almost universally conferred on a senior alderman or councillor.<sup id="cite_ref-shaw_7-2" class="reference"><a href="#cite_note-shaw-7">&#91;7&#93;</a></sup>
+</p><p>Municipal elections were originally held on 1 November, with the mayoral election and filling of aldermanic vacancies on 9 November . Elections were cancelled during the <a href="/wiki/First_World_War" class="mw-redirect" title="First World War">First</a> and <a href="/wiki/Second_World_War" class="mw-redirect" title="Second World War">Second World Wars</a>, and the November 1948 elections were postponed until May 1949. From that date municipal elections were held on the second Thursday of May.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> In view of the forthcoming local government reorganisation, the 1972 elections were rescheduled to 4 May, with no elections in 1973 and all sitting councillors and aldermen holding their seats until midnight on 31 March 1974.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="County_and_non-county_boroughs">County and non-county boroughs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Municipal_borough&amp;action=edit&amp;section=5" title="Edit section: County and non-county boroughs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1889, the <a href="/wiki/Local_Government_Act_1888" title="Local Government Act 1888">Local Government Act 1888</a> created <a href="/wiki/County_council" title="County council">county councils</a> across England and Wales. Boroughs were divided into two sorts, with some becoming <a href="/wiki/County_borough" title="County borough">county boroughs</a> which were entirely self-governing and independent from county council administration.
+</p><p>The non-county boroughs had more limited powers of self-government, and shared power with county councils.  In 1894, towns which had not been incorporated as boroughs became <a href="/wiki/Urban_district_(Great_Britain_and_Ireland)" title="Urban district (Great Britain and Ireland)">urban districts</a> with similar powers to municipal boroughs.
+</p><p>The title of 'borough' was considered to be more dignified than 'urban district', and so many larger urban districts petitioned to be granted the status of a municipal borough, and many were granted this right.  Borough status did not substantially increase local government powers, although municipal boroughs above a certain size had the right to run <a href="/wiki/Primary_education" title="Primary education">primary education</a>.
+</p>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Boroughs_incorporated_in_England_and_Wales_1835_-_1882" class="mw-redirect" title="Boroughs incorporated in England and Wales 1835 - 1882">Boroughs incorporated in England and Wales 1835 - 1882</a>, <a href="/wiki/Unreformed_boroughs_in_England_and_Wales_1835_-_1886" class="mw-redirect" title="Unreformed boroughs in England and Wales 1835 - 1886">Unreformed boroughs in England and Wales 1835 - 1886</a>, and <a href="/wiki/Boroughs_incorporated_in_England_and_Wales_1882_-_1974" class="mw-redirect" title="Boroughs incorporated in England and Wales 1882 - 1974">Boroughs incorporated in England and Wales 1882 - 1974</a></div>
+<h3><span class="mw-headline" id="Abolition">Abolition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Municipal_borough&amp;action=edit&amp;section=6" title="Edit section: Abolition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Under the <a href="/wiki/Local_Government_Act_1958" title="Local Government Act 1958">Local Government Act 1958</a>, small municipal boroughs could be absorbed by surrounding <a href="/wiki/Rural_districts" class="mw-redirect" title="Rural districts">rural districts</a> to become <a href="/wiki/Local_Government_Act_1958#Rural_boroughs" title="Local Government Act 1958">rural boroughs</a>, with the powers of a <a href="/wiki/Parish_councils_in_England" title="Parish councils in England">parish council</a>. Seven small boroughs in Cornwall, Devon and Shropshire underwent this process.
+</p><p>The remaining municipal boroughs, of which there were over 200, were abolished on 1 April 1974 by the <a href="/wiki/Local_Government_Act_1972" title="Local Government Act 1972">Local Government Act 1972</a>. In England, they were replaced by <a href="/wiki/Metropolitan_borough" title="Metropolitan borough">metropolitan</a> or <a href="/wiki/Non-metropolitan_district" title="Non-metropolitan district">non-metropolitan districts</a> and in Wales by <a href="/wiki/Districts_of_Wales" title="Districts of Wales">districts</a>.
+</p><p>In most cases the civic privileges and <a href="/wiki/Coat_of_arms" title="Coat of arms">coat of arms</a> of the abolished boroughs were inherited by one of the new local authorities. District councils were permitted to apply for a charter to receive <a href="/wiki/Borough_status_in_the_United_Kingdom" title="Borough status in the United Kingdom">borough status</a>, while small municipal boroughs became <a href="/wiki/Successor_parish" title="Successor parish">successor parishes</a> with town councils headed by a town mayor. In a few cases <a href="/wiki/Charter_trustees" title="Charter trustees">charter trustees</a>, a special committee of district councillors, were formed to perpetuate the mayoralty of a town or city.
+</p>
+<h2><span id="Ireland_1840.E2.80.931922"></span><span class="mw-headline" id="Ireland_1840–1922">Ireland 1840–1922</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Municipal_borough&amp;action=edit&amp;section=7" title="Edit section: Ireland 1840–1922">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Municipal_Corporations_(Ireland)_Act_1840" title="Municipal Corporations (Ireland) Act 1840">Municipal Corporations (Ireland) Act 1840</a> followed the example of the legislation in England and Wales. Unlike the 1835 Act, the Irish Act abolished nearly all of the country's boroughs, reforming just 10. Inhabitants of the larger of the abolished boroughs or of any town with a population of 3,000 could petition the crown for incorporation under the Act. In the event, only one additional borough was created when <a href="/wiki/Wexford" title="Wexford">Wexford</a> received a charter of incorporation in 1846.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> The corporation and town council was identical in constitution to the English boroughs, and each borough was divided into wards with three, six or nine councillors per ward and one alderman for every three councillors.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p><p>The <a href="/wiki/Local_Government_(Ireland)_Act_1898" title="Local Government (Ireland) Act 1898">Local Government (Ireland) Act 1898</a> designated the six largest municipalities (<a href="/wiki/Belfast" title="Belfast">Belfast</a>, <a href="/wiki/Cork_(city)" title="Cork (city)">Cork</a>, <a href="/wiki/Dublin" title="Dublin">Dublin</a>, <a href="/wiki/Limerick" title="Limerick">Limerick</a>, <a href="/wiki/Derry" title="Derry">Derry</a> and <a href="/wiki/Waterford" title="Waterford">Waterford</a>) as county boroughs. The <a href="/w/index.php?title=Local_Government_(Ireland)_Act_1919&amp;action=edit&amp;redlink=1" class="new" title="Local Government (Ireland) Act 1919 (page does not exist)">Local Government (Ireland) Act 1919</a> introduced a system of <a href="/wiki/Proportional_representation" title="Proportional representation">proportional representation</a> into municipal elections. Wards were replaced by electoral areas, and the entire council was to be elected triennially. Separate elections of aldermen and councillors were ended, with all members of the council elected by popular vote. One quarter of the elected members were entitled to the title of "alderman", which was used to designate the first candidates elected in each area. The remaining successful candidates being "councillors".<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>On <a href="/wiki/Government_of_Ireland_Act_1920" title="Government of Ireland Act 1920">partition</a> in 1922, two boroughs were included in <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a>, and nine in the <a href="/wiki/Irish_Free_State" title="Irish Free State">Irish Free State</a>.
+</p>
+<h2><span class="mw-headline" id="Northern_Ireland">Northern Ireland</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Municipal_borough&amp;action=edit&amp;section=8" title="Edit section: Northern Ireland">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On establishment, Northern Ireland contained only the county boroughs of Belfast and Londonderry. The <a href="/wiki/Parliament_of_Northern_Ireland" title="Parliament of Northern Ireland">Parliament of Northern Ireland</a> abolished proportional representation in local government elections in 1922, and amended the 1840 Act in 1926, allowing <a href="/wiki/Urban_district_(Great_Britain_and_Ireland)" title="Urban district (Great Britain and Ireland)">urban districts</a> to petition the <a href="/wiki/Governor_of_Northern_Ireland" title="Governor of Northern Ireland">Governor</a> for a charter of incorporation.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> Accordingly, by 1972 the number of boroughs had increased to 12 in number.
+</p><p>The system of local government was reorganised in 1973, with 26 <a href="/wiki/Districts_of_Northern_Ireland" class="mw-redirect" title="Districts of Northern Ireland">local government districts</a> replacing all county and municipal boroughs as well as urban and <a href="/wiki/Rural_district" title="Rural district">rural districts</a>. The city or borough status conferred by the municipal charters passed to the new district councils.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Irish_Free_State_and_the_Republic_of_Ireland">Irish Free State and the Republic of Ireland</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Municipal_borough&amp;action=edit&amp;section=9" title="Edit section: Irish Free State and the Republic of Ireland">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Nine boroughs (four county boroughs and five municipal boroughs) were included in the territory of the Irish Free State in 1922. Two new boroughs were created by statute. In 1930, the <a href="/wiki/Corporation_of_D%C3%BAn_Laoghaire" title="Corporation of Dún Laoghaire">borough of Dún Laoghaire</a> was created by the amalgamation of the four urban districts of <a href="/wiki/Blackrock,_Dublin" title="Blackrock, Dublin">Blackrock</a>, <a href="/wiki/Dalkey" title="Dalkey">Dalkey</a>, <a href="/wiki/D%C3%BAn_Laoghaire" title="Dún Laoghaire">Dún Laoghaire</a>, and <a href="/wiki/Killiney" title="Killiney">Killiney</a> and <a href="/wiki/Ballybrack" title="Ballybrack">Ballybrack</a> in <a href="/wiki/County_Dublin" title="County Dublin">County Dublin</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> This borough was later abolished under the Local Government (Dublin) Act, 1993.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> In 1937 the town of Galway was reconstituted as a municipal borough.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p><p>The <a href="/wiki/Local_Government_Act_2001" title="Local Government Act 2001">Local Government Act 2001</a> abolished municipal boroughs. County boroughs were replaced by statutory "cities", while the title of "borough" was retained for the other towns holding the status.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Municipal_borough&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_rural_and_urban_districts_in_England" class="mw-redirect" title="List of rural and urban districts in England">List of rural and urban districts in England</a></li>
+<li><a href="/wiki/List_of_rural_and_urban_districts_in_Wales" class="mw-redirect" title="List of rural and urban districts in Wales">List of rural and urban districts in Wales</a></li>
+<li><a href="/wiki/Urban_district_(Great_Britain_and_Ireland)" title="Urban district (Great Britain and Ireland)">Urban district</a></li>
+<li><a href="/wiki/Rural_district" title="Rural district">Rural district</a></li>
+<li><a href="/wiki/County_borough" title="County borough">County borough</a></li>
+<li><a href="/wiki/Parliamentary_borough" class="mw-redirect" title="Parliamentary borough">Parliamentary borough</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Municipal_borough&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-fletcher-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-fletcher_1-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Joseph_Fletcher_(statistician)" title="Joseph Fletcher (statistician)">Joseph Fletcher</a>, <i>Statistics of the Municipal Institutions of the English Towns</i> in <i>Journal of the Statistical Society of London</i>, Vol. 5, No. 2, (Jul., 1842), pp. 97-168</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Municipal Corporations Act 1835 (C.76) S.141</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Nicholas C Edsall, <i>Varieties of Radicalism: Attwood, Cobden and the Local Politics of Municipal Incorporation</i>, in <i>The Historical Journal</i>, Vol. 16, No. 1, (March 1973), pp. 93-107</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">1842 C.111</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Local Government Act 1933 (C.51), S.129</span>
+</li>
+<li id="cite_note-AMC-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-AMC_6-0">^</a></b></span> <span class="reference-text">Bruce Wood, "The Process of Local Government Reform 1966-74", George Allen &amp; Unwin, 1976, p. 19.</span>
+</li>
+<li id="cite_note-shaw-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-shaw_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-shaw_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-shaw_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Albert Shaw, <i>Municipal Government in Great Britain</i>, in <i>Political Science Quarterly</i>, Vol4, No.2, June 1889, pp. 197-229</span>
+</li>
+<li id="cite_note-finlayson-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-finlayson_8-0">^</a></b></span> <span class="reference-text">G B A M Finlayson, <i>The Politics of Municipal Reform, 1835</i>, in <i>The English Historical Review</i>, Vol.81, No.321, (October 1966), pp.673-692</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><i>The Municipal Elections</i>, The Times, 13 May 1949 p.3</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">The Times, 5 May 1972</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071119020455/http://www.wexfordcorp.ie/bc/AroundTown/History/HistoryofBoroughCouncil/">"History of Borough Council"</a>. Wexford Borough Council. Archived from <a rel="nofollow" class="external text" href="http://www.wexfordcorp.ie/bc/AroundTown/History/HistoryofBoroughCouncil/">the original</a> on 19 November 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=History+of+Borough+Council&amp;rft.pub=Wexford+Borough+Council&amp;rft_id=http%3A%2F%2Fwww.wexfordcorp.ie%2Fbc%2FAroundTown%2FHistory%2FHistoryofBoroughCouncil%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMunicipal+borough" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Municipal Corporations (Ireland) Act 1840 C.108</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Local Government (Ireland) Act 1919 C.19</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><i>Review of Legislation 1922</i>, <i>Journal of Comparative Legislation and International Law</i>, Third Series, Vol. 6, No. 3 (1924)</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Municipal Corporations Act (Northern Ireland) 1926</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Local Government (Northern Ireland) Act 1972 (N.I. 1972 c.9)</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.irishstatutebook.ie/1930/en/act/pub/0027/sec0003.html#zza27y1930s3">"Local Government (Dublin) Act, 1930"</a>. <i><a href="/wiki/Irish_Statute_Book" title="Irish Statute Book">Irish Statute Book</a></i>. Office of the Attorney General<span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Irish+Statute+Book&amp;rft.atitle=Local+Government+%28Dublin%29+Act%2C+1930&amp;rft_id=http%3A%2F%2Fwww.irishstatutebook.ie%2F1930%2Fen%2Fact%2Fpub%2F0027%2Fsec0003.html%23zza27y1930s3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMunicipal+borough" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.irishstatutebook.ie/eli/1993/act/31/section/9/enacted/en/html">"Local Government (Dublin) Act, 1993"</a>. <i><a href="/wiki/Irish_Statute_Book" title="Irish Statute Book">Irish Statute Book</a></i>. Office of the Attorney General<span class="reference-accessdate">. Retrieved <span class="nowrap">5 August</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Irish+Statute+Book&amp;rft.atitle=Local+Government+%28Dublin%29+Act%2C+1993&amp;rft_id=http%3A%2F%2Fwww.irishstatutebook.ie%2Feli%2F1993%2Fact%2F31%2Fsection%2F9%2Fenacted%2Fen%2Fhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMunicipal+borough" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.irishstatutebook.ie/1937/en/act/prv/0003/sec0004.html#zzpa3y1937s4">"Local Government (Galway) Act, 1937"</a>. <i>Irish Statute Book</i>. Office of the Attorney General<span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Irish+Statute+Book&amp;rft.atitle=Local+Government+%28Galway%29+Act%2C+1937&amp;rft_id=http%3A%2F%2Fwww.irishstatutebook.ie%2F1937%2Fen%2Fact%2Fprv%2F0003%2Fsec0004.html%23zzpa3y1937s4&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMunicipal+borough" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.irishstatutebook.ie/2001/en/act/pub/0037/sec0010.html#partii-sec10">"Local Government Act, 2001"</a>. <i>Irish Statute Book</i>. Office of the Attorney General<span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2008</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Irish+Statute+Book&amp;rft.atitle=Local+Government+Act%2C+2001&amp;rft_id=http%3A%2F%2Fwww.irishstatutebook.ie%2F2001%2Fen%2Fact%2Fpub%2F0037%2Fsec0010.html%23partii-sec10&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMunicipal+borough" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<div role="navigation" class="navbox" aria-labelledby="Borough_status_in_the_United_Kingdom" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Borough_status_in_the_United_Kingdom" title="Template:Borough status in the United Kingdom"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Borough_status_in_the_United_Kingdom" title="Template talk:Borough status in the United Kingdom"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Borough_status_in_the_United_Kingdom&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Borough_status_in_the_United_Kingdom" style="font-size:114%;margin:0 4em"><a href="/wiki/Borough_status_in_the_United_Kingdom" title="Borough status in the United Kingdom">Borough status in the United Kingdom</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Contemporary</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/London_boroughs" title="London boroughs">London borough</a></li>
+<li><a href="/wiki/Metropolitan_borough" title="Metropolitan borough">Metropolitan borough (England)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a class="mw-selflink selflink">Municipal borough</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Municipal_Corporations_Act_1835" title="Municipal Corporations Act 1835">Municipal Corporations Act 1835</a> (<a href="/wiki/Boroughs_incorporated_in_England_and_Wales_1835%E2%80%931882" title="Boroughs incorporated in England and Wales 1835–1882">1835–1882 incorporations</a>)</li>
+<li><a href="/wiki/Municipal_Corporations_Act_1882" title="Municipal Corporations Act 1882">Municipal Corporations Act 1882</a> (<a href="/wiki/Boroughs_incorporated_in_England_and_Wales_1882%E2%80%931974" title="Boroughs incorporated in England and Wales 1882–1974">1882–1974 incorporations</a>)</li>
+<li><a href="/wiki/County_borough" title="County borough">County borough</a></li>
+<li><a href="/wiki/Metropolitan_boroughs_of_the_County_of_London" title="Metropolitan boroughs of the County of London">Metropolitan borough (London)</a></li>
+<li><a href="/wiki/Local_Government_Act_1933" title="Local Government Act 1933">Local Government Act 1933</a></li>
+<li><a href="/wiki/Local_Government_Act_1958#Rural_boroughs" title="Local Government Act 1958">Rural borough</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ancient_borough" title="Ancient borough">Ancient borough</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Unreformed_boroughs_in_England_and_Wales_1835%E2%80%931886" title="Unreformed boroughs in England and Wales 1835–1886">Unreformed boroughs 1835–1886</a></li>
+<li><a href="/wiki/Seigneurial_borough" title="Seigneurial borough">Seigneurial borough</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1346
+Cached time: 20190921082710
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.332 seconds
+Real time usage: 0.447 seconds
+Preprocessor visited node count: 1296/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 25122/2097152 bytes
+Template argument size: 1562/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 19615/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.154/10.000 seconds
+Lua memory usage: 3.09 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  389.085      1 -total
+ 39.69%  154.444      1 Template:Reflist
+ 32.91%  128.056      5 Template:Cite_web
+ 18.37%   71.483      1 Template:Infobox_subdivision_type
+ 16.31%   63.461      1 Template:Infobox
+ 15.03%   58.466      1 Template:Which
+ 14.04%   54.642      1 Template:Fix
+ 11.28%   43.893      1 Template:Use_dmy_dates
+  8.62%   33.545      1 Template:Category_handler
+  7.47%   29.063     10 Template:Br_separated_entries
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:667870-0!canonical and timestamp 20190921082710 and revision id 916909708
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Municipal_borough&amp;oldid=916909708">https://en.wikipedia.org/w/index.php?title=Municipal_borough&amp;oldid=916909708</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Defunct_types_of_subdivision_in_the_United_Kingdom" title="Category:Defunct types of subdivision in the United Kingdom">Defunct types of subdivision in the United Kingdom</a></li><li><a href="/wiki/Category:Boroughs_of_the_United_Kingdom" title="Category:Boroughs of the United Kingdom">Boroughs of the United Kingdom</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_July_2012" title="Category:Use dmy dates from July 2012">Use dmy dates from July 2012</a></li><li><a href="/wiki/Category:Use_British_English_from_July_2012" title="Category:Use British English from July 2012">Use British English from July 2012</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_September_2018" title="Category:Articles with specifically marked weasel-worded phrases from September 2018">Articles with specifically marked weasel-worded phrases from September 2018</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Municipal+borough" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Municipal+borough" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Municipal_borough" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Municipal_borough" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Municipal_borough">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Municipal_borough&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Municipal_borough&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Municipal_borough" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Municipal_borough" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Municipal_borough&amp;oldid=916909708" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Municipal_borough&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q518343" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Municipal_borough&amp;id=916909708" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Municipal+borough">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Municipal+borough&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Municipal_borough&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Municipal_Borough" title="Municipal Borough – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Municipal_Borough" title="Municipal Borough – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q518343#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 21 September 2019, at 08:27<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Municipal_borough&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.332","walltime":"0.447","ppvisitednodes":{"value":1296,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":25122,"limit":2097152},"templateargumentsize":{"value":1562,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":19615,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  389.085      1 -total"," 39.69%  154.444      1 Template:Reflist"," 32.91%  128.056      5 Template:Cite_web"," 18.37%   71.483      1 Template:Infobox_subdivision_type"," 16.31%   63.461      1 Template:Infobox"," 15.03%   58.466      1 Template:Which"," 14.04%   54.642      1 Template:Fix"," 11.28%   43.893      1 Template:Use_dmy_dates","  8.62%   33.545      1 Template:Category_handler","  7.47%   29.063     10 Template:Br_separated_entries"]},"scribunto":{"limitreport-timeusage":{"value":"0.154","limit":"10.000"},"limitreport-memusage":{"value":3242557,"limit":52428800}},"cachereport":{"origin":"mw1346","timestamp":"20190921082710","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Municipal borough","url":"https:\/\/en.wikipedia.org\/wiki\/Municipal_borough","sameAs":"http:\/\/www.wikidata.org\/entity\/Q518343","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q518343","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-05-20T17:25:35Z","dateModified":"2019-09-21T08:27:10Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":111,"wgHostname":"mw1328"});});</script>
+</body>
+</html>
+

@@ -1,0 +1,1024 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Federal Constitutional Court - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Federal_Constitutional_Court","wgTitle":"Federal Constitutional Court","wgCurRevisionId":916648655,"wgRevisionId":916648655,"wgArticleId":34781059,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Coordinates not on Wikidata","Articles containing German-language text","Commons category link from Wikidata","Articles with German-language external links","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","Courts in Germany","National supreme courts","Constitutional courts",
+"German constitutional law","Karlsruhe"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Federal_Constitutional_Court","wgRelevantArticleId":34781059,"wgRequestId":"XY5okgpAMEoAAAQY1VEAAAAN","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Federal_Constitutional_Court_of_Germany","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":
+"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Federal_Constitutional_Court","wgCoordinates":{"lat":49.012422,"lon":8.40161},"wgWikibaseItemId":"Q56025","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready",
+"mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Karlsruhe_bundesverfassungsgericht.jpg/1200px-Karlsruhe_bundesverfassungsgericht.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Federal_Constitutional_Court"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Federal_Constitutional_Court"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Federal_Constitutional_Court rootpage-Federal_Constitutional_Court skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Federal Constitutional Court</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Federal_Constitutional_Court_of_Germany&amp;redirect=no" class="mw-redirect" title="Federal Constitutional Court of Germany">Federal Constitutional Court of Germany</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Federal Constitutional Court</th></tr><tr><td colspan="2" style="text-align:center;padding-bottom:0.4em; border-bottom:solid 1px #aaa;"><a href="/wiki/File:BVerfG_Logo.png" class="image"><img alt="BVerfG Logo.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/BVerfG_Logo.png/200px-BVerfG_Logo.png" decoding="async" width="200" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/BVerfG_Logo.png/300px-BVerfG_Logo.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/BVerfG_Logo.png/400px-BVerfG_Logo.png 2x" data-file-width="470" data-file-height="70" /></a></td></tr><tr><th scope="row">Established</th><td>1951<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row">Location</th><td><a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a>, <a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a>, Germany</td></tr><tr><th scope="row"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Federal_Constitutional_Court&amp;params=49.012422_N_8.40161_E_region:DE-BW_type:landmark_dim:5km"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°00′45″N</span> <span class="longitude">8°24′06″E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.012422°N 8.40161°E</span><span style="display:none">&#xfeff; / <span class="geo">49.012422; 8.40161</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Federal_Constitutional_Court&amp;params=49.012422_N_8.40161_E_region:DE-BW_type:landmark_dim:5km"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">49°00′45″N</span> <span class="longitude">8°24′06″E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">49.012422°N 8.40161°E</span><span style="display:none">&#xfeff; / <span class="geo">49.012422; 8.40161</span></span></span></a></span></span></span></td></tr><tr><th scope="row">Composition method</th><td>Election by <a href="/wiki/Bundestag" title="Bundestag">Bundestag</a> and <a href="/wiki/Bundesrat_of_Germany" title="Bundesrat of Germany">Bundesrat</a></td></tr><tr><th scope="row">Authorized by</th><td><a href="/wiki/Basic_Law_for_the_Federal_Republic_of_Germany" title="Basic Law for the Federal Republic of Germany">Basic Law of Germany</a></td></tr><tr><th scope="row">Judge term length</th><td>12 years (mandatory retirement at 68)</td></tr><tr><th scope="row">Number of positions</th><td>16</td></tr><tr><th scope="row">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="https://www.bundesverfassungsgericht.de/">www<wbr />.bundesverfassungsgericht<wbr />.de</a></span> <a href="https://www.wikidata.org/wiki/Q56025#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #E7E7FF; border-top:solid 1px #aaa;">President</th></tr><tr><th scope="row">Currently</th><td><a href="/wiki/Andreas_Vo%C3%9Fkuhle" title="Andreas Voßkuhle">Andreas Voßkuhle</a></td></tr><tr><th scope="row">Since</th><td>16 March 2010</td></tr><tr><th colspan="2" style="text-align:center;background-color: #E7E7FF; border-top:solid 1px #aaa;">Vice President</th></tr><tr><th scope="row">Currently</th><td><a href="/wiki/Stephan_Harbarth" title="Stephan Harbarth">Stephan Harbarth</a></td></tr><tr><th scope="row">Since</th><td>30 November 2018</td></tr></tbody></table>
+<table class="vertical-navbox vcard" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><div class="adr" style="font-size:smaller"><span class="fn org country-name"><a href="/wiki/Germany" title="Germany">Germany</a></span>
+</div></th></tr><tr><th><a href="/wiki/File:Coat_of_arms_of_Germany.svg" class="image"><img alt="Coat of arms of Germany.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_arms_of_Germany.svg/100px-Coat_of_arms_of_Germany.svg.png" decoding="async" width="100" height="130" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_arms_of_Germany.svg/150px-Coat_of_arms_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_arms_of_Germany.svg/200px-Coat_of_arms_of_Germany.svg.png 2x" data-file-width="500" data-file-height="650" /></a></th></tr><tr><th style="border-bottom: #aaa 1px solid"><span class="nowrap" style="font-weight:normal">This article is part of a series on the</span><br /><span style="font-weight:bold"><a href="/wiki/Politics_of_Germany" title="Politics of Germany">politics and government of<br />Germany</a></span></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:#f7eaad;"><a href="/wiki/Basic_Law_for_the_Federal_Republic_of_Germany" title="Basic Law for the Federal Republic of Germany">Constitution <span style="font-size:90%;">(Basic Law)</span></a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul><li><a href="/wiki/Human_rights_in_Germany" title="Human rights in Germany">Human rights</a></li>
+<li><a href="/wiki/Federal_Constitutional_Court_of_Germany" class="mw-redirect" title="Federal Constitutional Court of Germany">Federal Constitutional Court</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:#f7eaad;">Executive</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul><li><a href="/wiki/President_of_Germany" title="President of Germany">President</a>
+<dl><dd><a href="/wiki/Frank-Walter_Steinmeier" title="Frank-Walter Steinmeier">Frank-Walter Steinmeier</a></dd></dl></li>
+<li><a href="/wiki/Chancellor_of_Germany_(1949%E2%80%93)" class="mw-redirect" title="Chancellor of Germany (1949–)">Chancellor</a> <span style="font-size:90%;">(<a href="/wiki/List_of_Chancellors_of_Germany#Federal_Republic" class="mw-redirect" title="List of Chancellors of Germany">List</a>)</span>
+<dl><dd><a href="/wiki/Angela_Merkel" title="Angela Merkel">Angela Merkel</a></dd></dl></li>
+<li><a href="/wiki/Vice-Chancellor_of_Germany" title="Vice-Chancellor of Germany">Vice Chancellor</a>
+<dl><dd><a href="/wiki/Olaf_Scholz" title="Olaf Scholz">Olaf Scholz</a></dd></dl></li>
+<li><a href="/wiki/Cabinet_of_Germany" title="Cabinet of Germany">Cabinet</a>
+<dl><dd><a href="/wiki/Fourth_Merkel_cabinet" title="Fourth Merkel cabinet">Merkel IV</a></dd></dl></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:#f7eaad;">Legislature</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul><li><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Federal_Convention_(Germany)" title="Federal Convention (Germany)">Federal Convention<br /><span style="font-size:90%;">(<i>Bundesversammlung</i>)</span></a></div></li>
+<li><a href="/wiki/Bundesrat_of_Germany" title="Bundesrat of Germany">Federal Council <span style="font-size:90%;">(<i>Bundesrat</i>)</span></a></li>
+<li><a href="/wiki/Bundestag" title="Bundestag">Federal Diet <span style="font-size:90%;">(<i>Bundestag</i>)</span></a></li>
+<li><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Gemeinsamer_Ausschuss" title="Gemeinsamer Ausschuss">Joint Committee<br /><span style="font-size:90%;">(<i>Gemeinsamer Ausschuss</i>)</span></a></div></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:#f7eaad;"><a href="/wiki/Judiciary_of_Germany" title="Judiciary of Germany">Judiciary</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul><li>Federal courts
+<dl><dd><a class="mw-selflink selflink">Constitutional</a></dd>
+<dd><a href="/wiki/Federal_Administrative_Court_(Germany)" title="Federal Administrative Court (Germany)">Administrative</a></dd>
+<dd><a href="/wiki/Federal_Court_of_Justice" title="Federal Court of Justice">Justice</a></dd>
+<dd><a href="/wiki/Federal_Fiscal_Court" title="Federal Fiscal Court">Fiscal</a></dd>
+<dd><a href="/wiki/Federal_Labour_Court" title="Federal Labour Court">Labour</a></dd>
+<dd><a href="/wiki/Federal_Social_Court" title="Federal Social Court">Social</a></dd></dl></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:#f7eaad;"><a href="/wiki/Administrative_divisions_of_Germany" class="mw-redirect" title="Administrative divisions of Germany">Administrative divisions</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul><li><a href="/wiki/States_of_Germany" title="States of Germany">States <span style="font-size:90%;">(<i>Länder</i>)</span></a></li>
+<li><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Regierungsbezirk" title="Regierungsbezirk">Administrative regions<br /><span style="font-size:90%;">(<i>Regierungsbezirke</i>)</span></a></div></li>
+<li><a href="/wiki/Districts_of_Germany" title="Districts of Germany">Districts <span style="font-size:90%;">(<i>Kreise</i>)</span></a></li>
+<li><a href="/wiki/Amt_(country_subdivision)" class="mw-redirect" title="Amt (country subdivision)">Collective municipalities <span style="font-size:90%;">(<i>Ämter</i>)</span></a></li>
+<li><a href="/wiki/Municipalities_of_Germany" title="Municipalities of Germany">Municipalities <span style="font-size:90%;">(<i>Gemeinden</i>)</span></a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align:center; background:#f7eaad;"><a href="/wiki/Elections_in_Germany" title="Elections in Germany">Elections</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-top:0;text-align:left;">
+<ul><li><a href="/wiki/Electoral_system_of_Germany" title="Electoral system of Germany">Electoral system</a></li>
+<li><a href="/wiki/List_of_political_parties_in_Germany" title="List of political parties in Germany">Political parties</a></li>
+<li><a href="/wiki/Referendums_in_Germany" title="Referendums in Germany">Referendums</a></li></ul></div></div></td>
+</tr><tr><th style="padding:0.1em">
+<a href="/wiki/Foreign_relations_of_Germany" title="Foreign relations of Germany">Foreign relations</a></th></tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;">
+<a href="/wiki/File:Flag_of_Germany.svg" class="image"><img alt="Flag of Germany.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/32px-Flag_of_Germany.svg.png" decoding="async" width="32" height="19" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/48px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/64px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a> <a href="/wiki/Portal:Germany" title="Portal:Germany">Germany&#32;portal</a> <div class="hlist" style="text-align:center;font-weight:normal;">
+<ul><li><a href="/wiki/Outline_of_political_science#Politics_by_region" title="Outline of political science">Other countries</a></li>
+<li><a href="https://commons.wikimedia.org/wiki/Atlas_of_Germany" class="extiw" title="commons:Atlas of Germany">Atlas</a></li></ul>
+</div></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Politics_of_Germany" title="Template:Politics of Germany"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Politics_of_Germany" title="Template talk:Politics of Germany"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Politics_of_Germany&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Karlsruhe_bundesverfassungsgericht.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Karlsruhe_bundesverfassungsgericht.jpg/220px-Karlsruhe_bundesverfassungsgericht.jpg" decoding="async" width="220" height="155" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Karlsruhe_bundesverfassungsgericht.jpg/330px-Karlsruhe_bundesverfassungsgericht.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Karlsruhe_bundesverfassungsgericht.jpg/440px-Karlsruhe_bundesverfassungsgericht.jpg 2x" data-file-width="2133" data-file-height="1506" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Karlsruhe_bundesverfassungsgericht.jpg" class="internal" title="Enlarge"></a></div><i lang="de" title="German language text">Bundesverfassungsgericht</i></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bundesverfassungsgericht_Dienstsitz_Waldstadt_2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bundesverfassungsgericht_Dienstsitz_Waldstadt_2.jpg/220px-Bundesverfassungsgericht_Dienstsitz_Waldstadt_2.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bundesverfassungsgericht_Dienstsitz_Waldstadt_2.jpg/330px-Bundesverfassungsgericht_Dienstsitz_Waldstadt_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bundesverfassungsgericht_Dienstsitz_Waldstadt_2.jpg/440px-Bundesverfassungsgericht_Dienstsitz_Waldstadt_2.jpg 2x" data-file-width="2897" data-file-height="1932" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bundesverfassungsgericht_Dienstsitz_Waldstadt_2.jpg" class="internal" title="Enlarge"></a></div>Temporary building of the <i lang="de" title="German language text">Bundesverfassungsgericht</i></div></div></div>
+<p>The <b>Federal Constitutional Court</b> (<a href="/wiki/German_language" title="German language">German</a>: <i lang="de">Bundesverfassungsgericht</i>; abbreviated: <i><i lang="de" title="German language text">BVerfG</i></i>) is the <a href="/wiki/Supreme_court" title="Supreme court">supreme</a> <a href="/wiki/Constitutional_court" title="Constitutional court">constitutional court</a> for the <a href="/wiki/Germany" title="Germany">Federal Republic of Germany</a>, established by the constitution or <a href="/wiki/Basic_Law_for_the_Federal_Republic_of_Germany" title="Basic Law for the Federal Republic of Germany">Basic Law</a> (<i><i lang="de" title="German language text">Grundgesetz</i></i>) of Germany. Since its inception with the beginning of the post-<a href="/wiki/World_War_II" title="World War II">World War II</a> republic, the court has been located in the city of <a href="/wiki/Karlsruhe" title="Karlsruhe">Karlsruhe</a>, which is also the seat of the <a href="/wiki/Federal_Court_of_Justice" title="Federal Court of Justice">Federal Court of Justice</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The main task of the Federal Constitutional Court is <a href="/wiki/Judicial_review" title="Judicial review">judicial review</a>, and it may declare legislation <a href="/wiki/Constitutionality" title="Constitutionality">unconstitutional</a>, thus rendering them ineffective. In this respect, it is similar to other supreme courts with judicial review powers, yet the court possesses a number of additional powers, and is regarded as among the most interventionist and powerful national courts in the world. Unlike other <a href="/wiki/Supreme_court" title="Supreme court">supreme courts</a>, the constitutional court is not an integral stage of the judicial or appeals process (aside from cases concerning constitutional or public international law), and does not serve as a regular <a href="/wiki/Appellate_court" title="Appellate court">appellate court</a> from lower courts or the <a href="/wiki/Supreme_court#Germany" title="Supreme court">Federal Supreme Courts</a> on any violation of federal laws.
+</p><p>The court's jurisdiction is focused on constitutional issues and the compliance of all governmental institutions with the constitution. Constitutional amendments or changes passed by the Parliament are subject to its judicial review, since they have to be compatible with the most basic principles of the <i><i lang="de" title="German language text">Grundgesetz</i></i> defined by the <a href="/wiki/Eternity_clause#Germany" class="mw-redirect" title="Eternity clause">eternity clause</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;note 1&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:German_10_DM_2001_Silver_Coin_Constitutional_Court.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/German_10_DM_2001_Silver_Coin_Constitutional_Court.jpg/220px-German_10_DM_2001_Silver_Coin_Constitutional_Court.jpg" decoding="async" width="220" height="113" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/German_10_DM_2001_Silver_Coin_Constitutional_Court.jpg/330px-German_10_DM_2001_Silver_Coin_Constitutional_Court.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/German_10_DM_2001_Silver_Coin_Constitutional_Court.jpg/440px-German_10_DM_2001_Silver_Coin_Constitutional_Court.jpg 2x" data-file-width="1425" data-file-height="729" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:German_10_DM_2001_Silver_Coin_Constitutional_Court.jpg" class="internal" title="Enlarge"></a></div>50th Anniversary of the <i lang="de" title="German language text">Bun&#173;des&#173;ver&#173;fas&#173;sungs&#173;ge&#173;richt</i> (last coin in Deutsche Mark denomination)</div></div></div>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Scope"><span class="tocnumber">1</span> <span class="toctext">Scope</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Organization"><span class="tocnumber">2</span> <span class="toctext">Organization</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Democratic_function"><span class="tocnumber">3</span> <span class="toctext">Democratic function</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Appointment_of_judges"><span class="tocnumber">4</span> <span class="toctext">Appointment of judges</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Current_members"><span class="tocnumber">4.1</span> <span class="toctext">Current members</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Presidents_of_the_court"><span class="tocnumber">4.2</span> <span class="toctext">Presidents of the court</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Previous_judges"><span class="tocnumber">4.3</span> <span class="toctext">Previous judges</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Landmark_decisions"><span class="tocnumber">5</span> <span class="toctext">Landmark decisions</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Impact_on_European_constitutional_questions"><span class="tocnumber">6</span> <span class="toctext">Impact on European constitutional questions</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes"><span class="tocnumber">8</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Further_reading"><span class="tocnumber">9</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Bibliography"><span class="tocnumber">11</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Scope">Scope</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit&amp;section=1" title="Edit section: Scope">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Basic Law of the Federal Republic of Germany stipulates that all three branches of the state (the legislature, executive, and judiciary) are bound directly by the constitution in Article 20, Section 3 of the document. As a result, the court can rule acts of any branches unconstitutional, whether as formal violations (<a href="/wiki/Ultra_vires" title="Ultra vires">exceeding powers</a> or violating procedures) or as material conflicts (when the civil rights prescribed in the <i>Grundgesetz</i> are not respected).
+</p><p>The powers of the Federal Constitutional Court are defined in article 93 of the <i>Grundgesetz</i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;3&#93;</a></sup>
+This constitutional norm is set out in a federal law, the Federal Constitutional Court Act (BVerfGG), which also defines how decisions of the court on material conflicts are put into force. The Constitutional Court has therefore several strictly defined procedures in which cases may be brought before it:
+</p>
+<ul><li><b><a href="/wiki/Verfassungsbeschwerde" title="Verfassungsbeschwerde">Constitutional complaint</a></b>: By means of the <i>Verfassungsbeschwerde</i> (constitutional complaint) any person may allege that his or her constitutional rights have been violated. Although only a small fraction of these are actually successful (ranging around 2.5% since 1951), several have resulted in major legislation being invalidated, especially in the field of taxation. The large majority of the court's procedures fall into this category; 135,968 such complaints were filed from 1957 to 2002.</li>
+<li><b>Abstract regulation control</b>: Several political institutions, including the governments of the <i><a href="/wiki/States_of_Germany" title="States of Germany">Bundesländer</a></i> (states), may bring a federal law before the court if they consider it unconstitutional. A well-known example of this procedure was the <a href="/wiki/German_Constitutional_Court_abortion_decision,_1975" title="German Constitutional Court abortion decision, 1975">1975 abortion decision</a>, which invalidated legislation intended to decriminalise <a href="/wiki/Abortion" title="Abortion">abortion</a>.</li>
+<li><b>Specific regulation control</b>: Any regular court which is convinced, that a law in question for a certain case is not in conformance with the constitution must suspend that case and bring this law before the Federal Constitutional Court.</li>
+<li><b>Federal dispute</b>: Federal institutions, including members of the <a href="/wiki/Bundestag" title="Bundestag">Bundestag</a>, may bring internal disputes over competences and procedures before the court.</li>
+<li><b>State–federal dispute</b>: The <i><a href="/wiki/States_of_Germany" title="States of Germany">Länder</a></i> may bring disputes over competences and procedures between the states and federal institutions before the court.</li>
+<li><b>Investigation committee control</b></li>
+<li><b>Federal election scrutiny</b>: Violations of election laws may be brought before the court by political institution or any involved voter.</li>
+<li><b>Impeachment procedure</b>: Impeachment proceedings may be brought against the <a href="/wiki/President_of_Germany" title="President of Germany">Federal President</a>, a judge, or a member of one of the Federal Supreme Courts, by the Bundestag, the <a href="/wiki/Bundesrat_of_Germany" title="Bundesrat of Germany">Bundesrat</a> or the federal government, based on violation of constitutional or federal law.</li>
+<li><b>Prohibition of a political party</b>: Only the Constitutional Court has the power to ban a <a href="/wiki/Political_party" title="Political party">political party</a> in Germany. This has happened just twice, both times in the 1950s: the <a href="/wiki/Socialist_Reich_Party" title="Socialist Reich Party">Socialist Reich Party</a> (SRP), a <a href="/wiki/Neo-Nazism" title="Neo-Nazism">neo-Nazi</a> group, was banned in 1952, and the <a href="/wiki/Communist_Party_of_Germany" title="Communist Party of Germany">Communist Party of Germany</a> (KPD) was banned in 1956. In the case of a third political party, the <a href="/wiki/National_Democratic_Party_of_Germany" title="National Democratic Party of Germany">National Democratic Party of Germany</a> (NPD) has been brought by many other political parties before the court on more than one occasion. Due to logistical reasons, however, all of these attempts have failed. The court opted to rule that NPD was constitutional in 2003 after it was learned that the German federal government had injected many of its officials as spies into the party for surveillance and security. Three judges objected to continuing which was sufficient as banning a party requires a two-thirds majority. The court itself did not choose to ban the party. In another instance, back in 2016, it was decided by the second senate of the Federal Constitutional Court that the appeal to ban NPD should be rejected because the party itself had such a small proportion of support and influence that it could be sufficiently argued that it was virtually nonexistent at any level of government in the country. Banning NPD was subsequently seen as pointless since it was believed that what few supporters that it had would either (a) proceed to form a new political party with a different title or (b) move to support the <a href="/wiki/Alternative_for_Germany" title="Alternative for Germany">Alternative for Germany Party</a> (AfD) - another far-right political party in Germany which is more popular than NPD and is quite arguably seen by many people as constitutionally antithetical. Despite this particular attempt at trying to ban the party, however, the Federal Constitutional Court did openly assert that NPD is unconstitutional due to the contents of its ideology and manifesto - even going as far as to say that the political party should not receive any state funding grants to garner support and influence for its causes. No further attempt has since been made to ban the National Democratic Party of Germany.</li></ul>
+<p>Up to 2009, the Constitutional Court had struck down more than 600 laws as unconstitutional.<sup id="cite_ref-davids_5-0" class="reference"><a href="#cite_note-davids-5">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Organization">Organization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit&amp;section=2" title="Edit section: Organization">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The court consists of two senates, each of which has eight members, headed by a senate's chairman. The members of each senate are allocated to three chambers for hearings in constitutional complaint and single regulation control cases. Each chamber consists of three judges, so each senate chairman is at the same time a member of two chambers.
+</p><p>Decisions by a senate require a majority. In some cases a two-thirds vote is required (§ 15 IV 1 BVerfGG). Decisions by a chamber need to be unanimous. A chamber is not authorized to overrule a standing precedent of the senate to which it belongs; such issues need to be submitted to the senate as a whole. Similarly, a senate may not overrule a standing precedent of the other senate, and such issues will be submitted to a plenary meeting of all 16 judges (the Plenum).
+</p><p>Unlike all other German courts, the court often publishes the vote count on its decisions (though only the final tally, not every judge's personal vote) and even allows its members to issue a <a href="/wiki/Dissenting_opinion" title="Dissenting opinion">dissenting opinion</a>. This possibility, introduced only in 1971, is a remarkable deviation from German judicial tradition.
+</p><p>One of the two senate chairmen is also the President of the court, the other one being the Vice President. The presidency alternates between the two senates, i.e. the successor of a President is always chosen from the other senate. The 9th and current president of the court is <a href="/wiki/Andreas_Vo%C3%9Fkuhle" title="Andreas Voßkuhle">Andreas Voßkuhle</a>.
+</p>
+<h2><span class="mw-headline" id="Democratic_function">Democratic function</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit&amp;section=3" title="Edit section: Democratic function">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="rquote pullquote floatright" role="presentation" style="border-collapse:collapse; border-style:none; float:right; margin:0.5em 0.75em; width:33%;">
+
+<tbody><tr style="text-align:left; vertical-align:top;">
+<td style="color:#b2b7f2; font-size:3.3em; font-family:&#39;Times New Roman&#39;,serif; font-weight:bold; padding:4px 2px 2px; width:0.5em; line-height: 1em;">“
+</td>
+<td style="padding:0 10px;">[the] court is an important institution for the protection of <a href="/wiki/Minority_rights" title="Minority rights">minority interests</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;5&#93;</a></sup>
+</td>
+<td style="color:#b2b7f2; font-size:3.3em; font-family:&#39;Times New Roman&#39;,serif; font-weight:bold; padding:4px 2px 2px; text-align:right; vertical-align:bottom; width:0.5em; line-height: 1em;">”
+</td></tr>
+<tr>
+<td class="rquotecite" colspan="3" style="padding-top:10px; font-size:smaller; line-height:normal; text-align:right;">
+</td></tr></tbody></table>
+<p>The Constitutional Court is able to actively administer the law and ensure that political and bureaucratic decisions comply with the rights of the individual enshrined in the Basic Law. Specifically, it can vet the democratic and constitutional legitimacy of bills proposed by federal or state government, scrutinise decisions (such as those relating to taxation) by the administration, arbitrate disputes over the implementation of law between states and the federal government, and (most controversially) ban non-democratic political parties.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;6&#93;</a></sup> The Constitutional Court enjoys more public trust than the federal or state parliaments, which some say derives from the German enthusiasm for the rule of law.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Appointment_of_judges">Appointment of judges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit&amp;section=4" title="Edit section: Appointment of judges">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The court's judges are elected by the <a href="/wiki/Bundestag" title="Bundestag">Bundestag</a> (the German parliament) and the <a href="/wiki/Bundesrat_(Germany)" class="mw-redirect" title="Bundesrat (Germany)">Bundesrat</a> (a legislative body that represents the sixteen state governments on the federal level). According to the <a href="/wiki/Basic_Law_for_the_Federal_Republic_of_Germany" title="Basic Law for the Federal Republic of Germany">Basic Law</a>, each of these bodies selects four members of each senate. The election of a judge requires a two-thirds vote. The selection of the chairman of each senate alternates between Bundestag and Bundesrat and also requires a two-thirds vote.
+</p><p>Until 2015 the Bundestag has delegated this task to a special committee (<i>Richterwahlausschuss</i>, judges election committee), consisting of a small number of Bundestag members. This procedure has caused some constitutional concern and was considered to be unconstitutional by many scholars. In 2015 the <i>Bundesverfassungsgerichtsgesetz</i> (law code of the Federal Constitutional Court) was changed in this aspect, ruling that the Bundestag elects judges to the court by secret ballot in the plenum, requiring a candidate to get a two-thirds majority, that has to equal at least an absolute majority of members of the Bundestag. The <i>Richterwahlausschuss</i> now only has to nominate a candidate.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;8&#93;</a></sup> This new procedure was applied for the first time in September 2017, when <a href="/w/index.php?title=Josef_Christ&amp;action=edit&amp;redlink=1" class="new" title="Josef Christ (page does not exist)">Josef Christ</a> was elected to the first senate as the successor of <a href="/w/index.php?title=Wilhelm_Schluckebier&amp;action=edit&amp;redlink=1" class="new" title="Wilhelm Schluckebier (page does not exist)">Wilhelm Schluckebier</a>.
+In the Bundesrat, a chamber in which the governments of the sixteen German states are represented (each state has 3 to 6 votes depending on its population, which it has to cast <i>en bloc</i>), a candidate currently needs at least 46 of 69 possible votes.
+</p><p>The judges are elected for a 12-year term, but they <a href="/wiki/Mandatory_retirement" title="Mandatory retirement">must retire</a> upon reaching the age of 68. A re-election is not possible. A judge must be at least 40 years old and must be a well-trained jurist. Three out of eight members of each senate have served as a judge on one of the federal courts. Of the other five members of each senate, most judges previously served as an academic jurist at a university, as a public servant or as a lawyer. After ending their term, most judges withdraw themselves from public life. However, there are some prominent exceptions, most notably <a href="/wiki/Roman_Herzog" title="Roman Herzog">Roman Herzog</a>, who was elected <a href="/wiki/President_of_Germany" title="President of Germany">President of Germany</a> in 1994, shortly before the end of his term as president of the court.
+</p>
+<h3><span class="mw-headline" id="Current_members">Current members</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit&amp;section=5" title="Edit section: Current members">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bundesarchiv_B_145_Bild-F083310-0001,_Karlsruhe,_Bundesverfassungsgericht.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bundesarchiv_B_145_Bild-F083310-0001%2C_Karlsruhe%2C_Bundesverfassungsgericht.jpg/220px-Bundesarchiv_B_145_Bild-F083310-0001%2C_Karlsruhe%2C_Bundesverfassungsgericht.jpg" decoding="async" width="220" height="210" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bundesarchiv_B_145_Bild-F083310-0001%2C_Karlsruhe%2C_Bundesverfassungsgericht.jpg/330px-Bundesarchiv_B_145_Bild-F083310-0001%2C_Karlsruhe%2C_Bundesverfassungsgericht.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bundesarchiv_B_145_Bild-F083310-0001%2C_Karlsruhe%2C_Bundesverfassungsgericht.jpg/440px-Bundesarchiv_B_145_Bild-F083310-0001%2C_Karlsruhe%2C_Bundesverfassungsgericht.jpg 2x" data-file-width="736" data-file-height="704" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bundesarchiv_B_145_Bild-F083310-0001,_Karlsruhe,_Bundesverfassungsgericht.jpg" class="internal" title="Enlarge"></a></div>First Senate 1989</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Bundesarchiv_B_145_Bild-F083314-0010,_Karlsruhe,_Bundesverfassungsgericht,_II._Senat.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bundesarchiv_B_145_Bild-F083314-0010%2C_Karlsruhe%2C_Bundesverfassungsgericht%2C_II._Senat.jpg/220px-Bundesarchiv_B_145_Bild-F083314-0010%2C_Karlsruhe%2C_Bundesverfassungsgericht%2C_II._Senat.jpg" decoding="async" width="220" height="209" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bundesarchiv_B_145_Bild-F083314-0010%2C_Karlsruhe%2C_Bundesverfassungsgericht%2C_II._Senat.jpg/330px-Bundesarchiv_B_145_Bild-F083314-0010%2C_Karlsruhe%2C_Bundesverfassungsgericht%2C_II._Senat.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Bundesarchiv_B_145_Bild-F083314-0010%2C_Karlsruhe%2C_Bundesverfassungsgericht%2C_II._Senat.jpg/440px-Bundesarchiv_B_145_Bild-F083314-0010%2C_Karlsruhe%2C_Bundesverfassungsgericht%2C_II._Senat.jpg 2x" data-file-width="800" data-file-height="760" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Bundesarchiv_B_145_Bild-F083314-0010,_Karlsruhe,_Bundesverfassungsgericht,_II._Senat.jpg" class="internal" title="Enlarge"></a></div>Second Senate 1989</div></div></div>
+<table class="wikitable">
+<tbody><tr>
+<th width="300">Name
+</th>
+<th width="320">Term
+</th>
+<th width="150">Nomination by
+</th>
+<th width="200">Election by
+</th></tr>
+<tr>
+<th colspan="4"><b>First Senate</b>
+</th></tr>
+<tr>
+<td><a href="/wiki/Stephan_Harbarth" title="Stephan Harbarth">Stephan Harbarth</a> (born 1971)<br />(Vice President of the Court, Chairman of the First Senate)
+</td>
+<td>November 2018 – November 2030 (12-year-term)
+</td>
+<td><a href="/wiki/CDU/CSU" title="CDU/CSU">CDU/CSU</a>
+</td>
+<td>Bundestag (as judge) <br /> Bundesrat (as Vice President)
+</td></tr>
+<tr>
+<td><a href="/wiki/Johannes_Masing" title="Johannes Masing">Johannes Masing</a> (born 1959)
+</td>
+<td>April 2008 – April 2020 (12-year term)
+</td>
+<td>SPD
+</td>
+<td>Bundesrat
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Andreas_L._Paulus&amp;action=edit&amp;redlink=1" class="new" title="Andreas L. Paulus (page does not exist)">Andreas L. Paulus</a> (born 1968)
+</td>
+<td>March 2010 – March 2022 (12-year term)
+</td>
+<td>FDP
+</td>
+<td>Bundestag
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Gabriele_Britz&amp;action=edit&amp;redlink=1" class="new" title="Gabriele Britz (page does not exist)">Gabriele Britz</a> (born 1968)
+</td>
+<td>February 2011 – February 2023 (12-year term)
+</td>
+<td><a href="/wiki/Social_Democratic_Party_of_Germany" title="Social Democratic Party of Germany">SPD</a>
+</td>
+<td>Bundesrat
+</td></tr>
+<tr>
+<td><a href="/wiki/Susanne_Baer" title="Susanne Baer">Susanne Baer</a> (born 1964)
+</td>
+<td>February 2011 – February 2023 (12-year term)
+</td>
+<td><a href="/wiki/Alliance_%2790/The_Greens" class="mw-redirect" title="Alliance &#39;90/The Greens">Alliance '90/The Greens</a>
+</td>
+<td>Bundestag
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Yvonne_Ott&amp;action=edit&amp;redlink=1" class="new" title="Yvonne Ott (page does not exist)">Yvonne Ott</a> (born 1963)
+</td>
+<td>November 2016 – November 2028 (12-year-term)
+</td>
+<td>SPD
+</td>
+<td>Bundesrat
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Josef_Christ&amp;action=edit&amp;redlink=1" class="new" title="Josef Christ (page does not exist)">Josef Christ</a> (born 1956)
+</td>
+<td>November 2017 – 2024 (retirement)
+</td>
+<td>CDU/CSU
+</td>
+<td>Bundestag
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Henning_Radtke&amp;action=edit&amp;redlink=1" class="new" title="Henning Radtke (page does not exist)">Henning Radtke</a> (born 1962)
+</td>
+<td>July 2018 – May 2030 (retirement)
+</td>
+<td>CDU/CSU
+</td>
+<td>Bundesrat
+</td></tr>
+<tr>
+<th colspan="4"><b>Second Senate</b>
+</th></tr>
+<tr>
+<td><b><a href="/wiki/Andreas_Vo%C3%9Fkuhle" title="Andreas Voßkuhle">Andreas Voßkuhle</a></b> (born 1963)<br />(President of the Court, Chairman of the Second Senate)
+</td>
+<td>May 2008– May 2020 (12-year term)
+</td>
+<td>SPD
+</td>
+<td>Bundesrat (as judge) <br /> Bundestag (as President)
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Peter_M._Huber&amp;action=edit&amp;redlink=1" class="new" title="Peter M. Huber (page does not exist)">Peter M. Huber</a> (born 1959)
+</td>
+<td>October 2010 – October 2022 (12-year term)
+</td>
+<td>CDU/CSU
+</td>
+<td>Bundestag
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Monika_Hermanns&amp;action=edit&amp;redlink=1" class="new" title="Monika Hermanns (page does not exist)">Monika Hermanns</a> (born 1959)
+</td>
+<td>November 2010 – November 2022 (12-year term)
+</td>
+<td>SPD
+</td>
+<td>Bundestag
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Sibylle_Kessal-Wulf&amp;action=edit&amp;redlink=1" class="new" title="Sibylle Kessal-Wulf (page does not exist)">Sibylle Kessal-Wulf</a> (born 1958)
+</td>
+<td>December 2011 – December 2023 (12-year term)
+</td>
+<td>CDU/CSU
+</td>
+<td>Bundesrat
+</td></tr>
+<tr>
+<td><a href="/wiki/Peter_M%C3%BCller_(politician)" title="Peter Müller (politician)">Peter Müller</a> (born 1955)
+</td>
+<td>December 2011 – December 2023 (12-year term)
+</td>
+<td>CDU/CSU
+</td>
+<td>Bundesrat
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Doris_K%C3%B6nig&amp;action=edit&amp;redlink=1" class="new" title="Doris König (page does not exist)">Doris König</a> (born 1957)
+</td>
+<td>June 2014 – June 2024 (12-year term)
+</td>
+<td>SPD
+</td>
+<td>Bundestag
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Ulrich_Maidowski&amp;action=edit&amp;redlink=1" class="new" title="Ulrich Maidowski (page does not exist)">Ulrich Maidowski</a> (born 1958)
+</td>
+<td>July 2014 – July 2026 (12-year term)
+</td>
+<td>SPD
+</td>
+<td>Bundestag
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Christine_Langenfeld&amp;action=edit&amp;redlink=1" class="new" title="Christine Langenfeld (page does not exist)">Christine Langenfeld</a> (born 1962)
+</td>
+<td>July 2016 – July 2028 (12-year term)
+</td>
+<td>CDU/CSU
+</td>
+<td>Bundesrat
+</td></tr>
+</tbody></table>
+<h3><span class="mw-headline" id="Presidents_of_the_court">Presidents of the court</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit&amp;section=6" title="Edit section: Presidents of the court">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The court's head is the President of the Federal Constitutional Court, who chairs one of the two senates and joint sessions of the court, while the other senate is chaired by the Vice President of Federal Constitutional Court. The right to elect the President and the Vice President alternates between the <a href="/wiki/Bundestag" title="Bundestag">Bundestag</a> and the <a href="/wiki/Bundesrat_of_Germany" title="Bundesrat of Germany">Bundesrat</a>. If the President of the Federal Constitutional Court leaves office, i.e. when his or her term as judge at the court ends, the legislative body, whose turn it is to choose the President, has to elect one of the judges of the senate, of which the former President wasn't a member, with a two-thirds-majority. The same applies, if the office of Vice President falls vacant. The given legislative body is free to elect the judge it prefers, but since 1983, the sitting Vice President has always been elected as President.
+</p><p>As he or she is the highest ranking representative of the judicial branch of government, the President of the Federal Constitutional Court ranks 5th in the <a href="/wiki/German_order_of_precedence" title="German order of precedence">German order of precedence</a>.
+</p>
+<table class="wikitable" style="text-align:center">
+
+<tbody><tr>
+<th>No.</th>
+<th>Portrait</th>
+<th>Name<br /><small>(Birth-Death)</small></th>
+<th>Previous Service<br /><small>before court appointment</small></th>
+<th>Took Office</th>
+<th>Left Office</th>
+<th>Sen.</th>
+<th>Vice President
+</th></tr>
+<tr>
+<td>1</td>
+<td><a href="/wiki/File:Bundesarchiv_B_145_Bild-F050215-0005,_Hermann_H%C3%B6pker-Aschoff.jpg" class="image"><img alt="Bundesarchiv B 145 Bild-F050215-0005, Hermann Höpker-Aschoff.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bundesarchiv_B_145_Bild-F050215-0005%2C_Hermann_H%C3%B6pker-Aschoff.jpg/100px-Bundesarchiv_B_145_Bild-F050215-0005%2C_Hermann_H%C3%B6pker-Aschoff.jpg" decoding="async" width="100" height="153" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bundesarchiv_B_145_Bild-F050215-0005%2C_Hermann_H%C3%B6pker-Aschoff.jpg/150px-Bundesarchiv_B_145_Bild-F050215-0005%2C_Hermann_H%C3%B6pker-Aschoff.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Bundesarchiv_B_145_Bild-F050215-0005%2C_Hermann_H%C3%B6pker-Aschoff.jpg/200px-Bundesarchiv_B_145_Bild-F050215-0005%2C_Hermann_H%C3%B6pker-Aschoff.jpg 2x" data-file-width="524" data-file-height="800" /></a></td>
+<td><b><a href="/wiki/Hermann_H%C3%B6pker-Aschoff" title="Hermann Höpker-Aschoff">Hermann Höpker-Aschoff</a></b><br /><small>(1883–1954)</small></td>
+<td>Member of the <a href="/wiki/Bundestag" title="Bundestag">Bundestag</a><small> (1949–1951)</small></td>
+<td>7 September 1951</td>
+<td>15 January 1954 <small>(<i>died in office</i>)</small></td>
+<td>1st</td>
+<td><a href="/wiki/Rudolf_Katz" title="Rudolf Katz">Rudolf Katz</a><small> (1951–1954)
+</small></td></tr>
+<tr>
+<td>2</td>
+<td><a href="/wiki/File:Bundesarchiv_B_145_Bild-F050216-0037,_Josef_Wintrich.jpg" class="image"><img alt="Bundesarchiv B 145 Bild-F050216-0037, Josef Wintrich.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bundesarchiv_B_145_Bild-F050216-0037%2C_Josef_Wintrich.jpg/100px-Bundesarchiv_B_145_Bild-F050216-0037%2C_Josef_Wintrich.jpg" decoding="async" width="100" height="154" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bundesarchiv_B_145_Bild-F050216-0037%2C_Josef_Wintrich.jpg/150px-Bundesarchiv_B_145_Bild-F050216-0037%2C_Josef_Wintrich.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bundesarchiv_B_145_Bild-F050216-0037%2C_Josef_Wintrich.jpg/200px-Bundesarchiv_B_145_Bild-F050216-0037%2C_Josef_Wintrich.jpg 2x" data-file-width="521" data-file-height="800" /></a></td>
+<td><b><a href="/wiki/Josef_Wintrich" title="Josef Wintrich">Josef Wintrich</a></b><br /> <small>(1891–1958)</small></td>
+<td>President of the <a href="/wiki/Munich" title="Munich">Munich</a> Regional court of appeal <small>(1953)</small></td>
+<td>23 March 1954</td>
+<td>19 October 1958 <small>(<i>died in office</i>)</small></td>
+<td>1st</td>
+<td><a href="/wiki/Rudolf_Katz" title="Rudolf Katz">Rudolf Katz</a><small> (1954–1958)
+</small></td></tr>
+<tr>
+<td>3</td>
+<td><a href="/wiki/File:Gebhard_M%C3%BCller.jpg" class="image"><img alt="Gebhard Müller.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gebhard_M%C3%BCller.jpg/100px-Gebhard_M%C3%BCller.jpg" decoding="async" width="100" height="140" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gebhard_M%C3%BCller.jpg/150px-Gebhard_M%C3%BCller.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gebhard_M%C3%BCller.jpg/200px-Gebhard_M%C3%BCller.jpg 2x" data-file-width="204" data-file-height="285" /></a></td>
+<td><b><a href="/wiki/Gebhard_M%C3%BCller" title="Gebhard Müller">Gebhard Müller</a></b> <br /><small>(1900–1990)</small></td>
+<td><a href="/wiki/Minister-President_of_Baden-W%C3%BCrttemberg" class="mw-redirect" title="Minister-President of Baden-Württemberg">Minister President of Baden-Württemberg</a> <small>(1953–1958)</small></td>
+<td>8 January 1959</td>
+<td>8 December 1971</td>
+<td>1st</td>
+<td><a href="/wiki/Rudolf_Katz" title="Rudolf Katz">Rudolf Katz</a><small> (1959–1961)</small>, <a href="/w/index.php?title=Friedrich_Wilhelm_Wagner&amp;action=edit&amp;redlink=1" class="new" title="Friedrich Wilhelm Wagner (page does not exist)">Friedrich Wilhelm Wagner</a><small> (1961–1967)</small>, <a href="/w/index.php?title=Walter_Seuffert&amp;action=edit&amp;redlink=1" class="new" title="Walter Seuffert (page does not exist)">Walter Seuffert</a><small> (1967–1971)</small>
+</td></tr>
+<tr>
+<td>4</td>
+<td><a href="/wiki/File:Bundesarchiv_B_145_Bild-F041440-0013,_Hamburg,_CDU-Bundesparteitag,_Ernst_Benda.jpg" class="image"><img alt="Bundesarchiv B 145 Bild-F041440-0013, Hamburg, CDU-Bundesparteitag, Ernst Benda.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bundesarchiv_B_145_Bild-F041440-0013%2C_Hamburg%2C_CDU-Bundesparteitag%2C_Ernst_Benda.jpg/100px-Bundesarchiv_B_145_Bild-F041440-0013%2C_Hamburg%2C_CDU-Bundesparteitag%2C_Ernst_Benda.jpg" decoding="async" width="100" height="158" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bundesarchiv_B_145_Bild-F041440-0013%2C_Hamburg%2C_CDU-Bundesparteitag%2C_Ernst_Benda.jpg/150px-Bundesarchiv_B_145_Bild-F041440-0013%2C_Hamburg%2C_CDU-Bundesparteitag%2C_Ernst_Benda.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bundesarchiv_B_145_Bild-F041440-0013%2C_Hamburg%2C_CDU-Bundesparteitag%2C_Ernst_Benda.jpg/200px-Bundesarchiv_B_145_Bild-F041440-0013%2C_Hamburg%2C_CDU-Bundesparteitag%2C_Ernst_Benda.jpg 2x" data-file-width="506" data-file-height="797" /></a></td>
+<td><b><a href="/wiki/Ernst_Benda" title="Ernst Benda">Ernst Benda</a></b><br /> <small>(1925–2009)</small></td>
+<td>Member of the <a href="/wiki/Bundestag" title="Bundestag">Bundestag</a><small> (1957–1971)</small></td>
+<td>8 December 1971</td>
+<td>20 December 1983</td>
+<td>1st</td>
+<td><a href="/w/index.php?title=Walter_Seuffert&amp;action=edit&amp;redlink=1" class="new" title="Walter Seuffert (page does not exist)">Walter Seuffert</a><small> (1971–1975)</small>, <a href="/wiki/Wolfgang_Zeidler" title="Wolfgang Zeidler">Wolfgang Zeidler</a><small> (1975–1983)</small>
+</td></tr>
+<tr>
+<td>5</td>
+<td><a href="/wiki/File:Bundesadler_Bundesorgane.svg" class="image"><img alt="Bundesadler Bundesorgane.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bundesadler_Bundesorgane.svg/100px-Bundesadler_Bundesorgane.svg.png" decoding="async" width="100" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bundesadler_Bundesorgane.svg/150px-Bundesadler_Bundesorgane.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bundesadler_Bundesorgane.svg/200px-Bundesadler_Bundesorgane.svg.png 2x" data-file-width="240" data-file-height="224" /></a></td>
+<td><b><a href="/wiki/Wolfgang_Zeidler" title="Wolfgang Zeidler">Wolfgang Zeidler</a></b> <br /><small> (1924–1987)</small></td>
+<td>President of the <a href="/wiki/Federal_Administrative_Court_(Germany)" title="Federal Administrative Court (Germany)">Federal Administrative Court</a> <small> (1970–1975)</small></td>
+<td>20 December 1983</td>
+<td>16 November 1987</td>
+<td>2nd</td>
+<td><a href="/wiki/Roman_Herzog" title="Roman Herzog">Roman Herzog</a><small> (1983–1987)
+</small></td></tr>
+<tr>
+<td>6</td>
+<td><a href="/wiki/File:Roman_Herzog_2012.JPG" class="image"><img alt="Roman Herzog 2012.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Roman_Herzog_2012.JPG/100px-Roman_Herzog_2012.JPG" decoding="async" width="100" height="134" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Roman_Herzog_2012.JPG/150px-Roman_Herzog_2012.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Roman_Herzog_2012.JPG/200px-Roman_Herzog_2012.JPG 2x" data-file-width="836" data-file-height="1122" /></a></td>
+<td><b><a href="/wiki/Roman_Herzog" title="Roman Herzog">Roman Herzog</a></b> <br /><small>(1934–2017)</small></td>
+<td><a href="/wiki/Baden-W%C3%BCrttemberg" title="Baden-Württemberg">Baden-Württemberg</a> State Minister of the Interior <small>(1980–1983)</small></td>
+<td>16 November 1987</td>
+<td>30 June 1994 <small>(<i>resigned</i>)</small></td>
+<td>1st</td>
+<td><a href="/w/index.php?title=Ernst_Gottfried_Mahrenholz&amp;action=edit&amp;redlink=1" class="new" title="Ernst Gottfried Mahrenholz (page does not exist)">Ernst Gottfried Mahrenholz</a> <small>(1987–1994)</small>, <a href="/wiki/Jutta_Limbach" title="Jutta Limbach">Jutta Limbach</a> <small>(1994)</small>
+</td></tr>
+<tr>
+<td>7</td>
+<td><a href="/wiki/File:Jutta_Limbach.jpg" class="image"><img alt="Jutta Limbach.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jutta_Limbach.jpg/100px-Jutta_Limbach.jpg" decoding="async" width="100" height="77" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jutta_Limbach.jpg/150px-Jutta_Limbach.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jutta_Limbach.jpg/200px-Jutta_Limbach.jpg 2x" data-file-width="512" data-file-height="393" /></a></td>
+<td><b><a href="/wiki/Jutta_Limbach" title="Jutta Limbach">Jutta Limbach</a></b> <br /><small>(1934–2016)</small></td>
+<td><a href="/wiki/Berlin" title="Berlin">Berlin</a> Senator of Justice <small>(1989–1994)</small></td>
+<td>14 September 1994</td>
+<td>10 April 2002</td>
+<td>2nd</td>
+<td><a href="/w/index.php?title=Johann_Friedrich_Henschel&amp;action=edit&amp;redlink=1" class="new" title="Johann Friedrich Henschel (page does not exist)">Johann Friedrich Henschel</a> <small>(1994–1995)</small>, <a href="/w/index.php?title=Otto_Seidl&amp;action=edit&amp;redlink=1" class="new" title="Otto Seidl (page does not exist)">Otto Seidl</a> <small>(1995–1998)</small>, <a href="/wiki/Hans-J%C3%BCrgen_Papier" title="Hans-Jürgen Papier">Hans-Jürgen Papier</a> <small>(1998–2002)</small>
+</td></tr>
+<tr>
+<td>8</td>
+<td><a href="/wiki/File:2014-01-08_Hans-J%C3%BCrgen_Papier_5043.JPG" class="image"><img alt="2014-01-08 Hans-Jürgen Papier 5043.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/2014-01-08_Hans-J%C3%BCrgen_Papier_5043.JPG/100px-2014-01-08_Hans-J%C3%BCrgen_Papier_5043.JPG" decoding="async" width="100" height="129" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/2014-01-08_Hans-J%C3%BCrgen_Papier_5043.JPG/150px-2014-01-08_Hans-J%C3%BCrgen_Papier_5043.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/2014-01-08_Hans-J%C3%BCrgen_Papier_5043.JPG/200px-2014-01-08_Hans-J%C3%BCrgen_Papier_5043.JPG 2x" data-file-width="3644" data-file-height="4688" /></a></td>
+<td><b><a href="/wiki/Hans-J%C3%BCrgen_Papier" title="Hans-Jürgen Papier">Hans-Jürgen Papier</a></b> <br /><small>(b. 1943)</small></td>
+<td>Professor for constitutional law at the <a href="/wiki/University_of_Munich" class="mw-redirect" title="University of Munich">LMU Munich</a> <small>(1992–1998)</small></td>
+<td>10 April 2002</td>
+<td>16 March 2010</td>
+<td>1st</td>
+<td><a href="/wiki/Winfried_Hassemer" title="Winfried Hassemer">Winfried Hassemer</a> <small>(2002–2008)</small>, <a href="/wiki/Andreas_Vo%C3%9Fkuhle" title="Andreas Voßkuhle">Andreas Voßkuhle</a> <small>(2008–2010)
+</small></td></tr>
+<tr>
+<td>9</td>
+<td><a href="/wiki/File:2016-10-03_Andreas_Vo%C3%9Fkuhle_(Tag_der_Deutschen_Einheit_2016_in_Dresden)_by_Sandro_Halank.jpg" class="image"><img alt="2016-10-03 Andreas Voßkuhle (Tag der Deutschen Einheit 2016 in Dresden) by Sandro Halank.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/2016-10-03_Andreas_Vo%C3%9Fkuhle_%28Tag_der_Deutschen_Einheit_2016_in_Dresden%29_by_Sandro_Halank.jpg/100px-2016-10-03_Andreas_Vo%C3%9Fkuhle_%28Tag_der_Deutschen_Einheit_2016_in_Dresden%29_by_Sandro_Halank.jpg" decoding="async" width="100" height="139" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/2016-10-03_Andreas_Vo%C3%9Fkuhle_%28Tag_der_Deutschen_Einheit_2016_in_Dresden%29_by_Sandro_Halank.jpg/150px-2016-10-03_Andreas_Vo%C3%9Fkuhle_%28Tag_der_Deutschen_Einheit_2016_in_Dresden%29_by_Sandro_Halank.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/2016-10-03_Andreas_Vo%C3%9Fkuhle_%28Tag_der_Deutschen_Einheit_2016_in_Dresden%29_by_Sandro_Halank.jpg/200px-2016-10-03_Andreas_Vo%C3%9Fkuhle_%28Tag_der_Deutschen_Einheit_2016_in_Dresden%29_by_Sandro_Halank.jpg 2x" data-file-width="1526" data-file-height="2127" /></a></td>
+<td><b><a href="/wiki/Andreas_Vo%C3%9Fkuhle" title="Andreas Voßkuhle">Andreas Voßkuhle</a></b> <br /><small>(b. 1963)</small></td>
+<td>Professor for political science and legal philosophy at the <a href="/wiki/University_of_Freiburg" title="University of Freiburg">University of Freiburg</a> <small>(since 1999)</small><br /> Rector of the University of Freiburg <small>(2008)</small></td>
+<td>16 March 2010</td>
+<td></td>
+<td>2nd</td>
+<td><a href="/wiki/Ferdinand_Kirchhof" title="Ferdinand Kirchhof">Ferdinand Kirchhof</a> <small>(2010–2018)</small>, <a href="/wiki/Stephan_Harbarth" title="Stephan Harbarth">Stephan Harbarth</a> <small>(Since 2018)
+</small></td></tr></tbody></table>
+<h3><span class="mw-headline" id="Previous_judges">Previous judges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit&amp;section=7" title="Edit section: Previous judges">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="text-align: left; vertical-align: top;">
+<ul><li><a href="/wiki/Susanne_Baer" title="Susanne Baer">Susanne Baer</a></li>
+<li><a href="/wiki/Ernst_Benda" title="Ernst Benda">Ernst Benda</a></li>
+<li><a href="/wiki/Ernst-Wolfgang_B%C3%B6ckenf%C3%B6rde" title="Ernst-Wolfgang Böckenförde">Ernst-Wolfgang Böckenförde</a></li>
+<li><a href="/w/index.php?title=Werner_B%C3%B6hmer&amp;action=edit&amp;redlink=1" class="new" title="Werner Böhmer (page does not exist)">Werner Böhmer</a></li>
+<li><a href="/w/index.php?title=Gabriele_Britz&amp;action=edit&amp;redlink=1" class="new" title="Gabriele Britz (page does not exist)">Gabriele Britz</a></li>
+<li><a href="/w/index.php?title=Siegfried_Bro%C3%9F&amp;action=edit&amp;redlink=1" class="new" title="Siegfried Broß (page does not exist)">Siegfried Broß</a></li>
+<li><a href="/w/index.php?title=Hans_Brox&amp;action=edit&amp;redlink=1" class="new" title="Hans Brox (page does not exist)">Hans Brox</a></li>
+<li><a href="/wiki/Brun-Otto_Bryde" title="Brun-Otto Bryde">Brun-Otto Bryde</a></li>
+<li><a href="/w/index.php?title=Josef_Christ&amp;action=edit&amp;redlink=1" class="new" title="Josef Christ (page does not exist)">Josef Christ</a></li>
+<li><a href="/wiki/Udo_Di_Fabio" title="Udo Di Fabio">Udo Di Fabio</a></li>
+<li><a href="/w/index.php?title=Thomas_Dieterich&amp;action=edit&amp;redlink=1" class="new" title="Thomas Dieterich (page does not exist)">Thomas Dieterich</a></li>
+<li><a href="/wiki/Michael_Eichberger" title="Michael Eichberger">Michael Eichberger</a></li>
+<li><a href="/w/index.php?title=Wilhelm_Ellinghaus&amp;action=edit&amp;redlink=1" class="new" title="Wilhelm Ellinghaus (page does not exist)">Wilhelm Ellinghaus</a></li>
+<li><a href="/w/index.php?title=Hans_Joachim_Faller&amp;action=edit&amp;redlink=1" class="new" title="Hans Joachim Faller (page does not exist)">Hans Joachim Faller</a></li>
+<li><a href="/wiki/Everhardt_Fran%C3%9Fen" title="Everhardt Franßen">Everhardt Franßen</a></li>
+<li><a href="/w/index.php?title=Reinhard_Gaier&amp;action=edit&amp;redlink=1" class="new" title="Reinhard Gaier (page does not exist)">Reinhard Gaier</a></li>
+<li><a href="/wiki/Michael_Gerhardt" title="Michael Gerhardt">Michael Gerhardt</a></li>
+<li><a href="/wiki/Karin_Gra%C3%9Fhof" class="mw-redirect" title="Karin Graßhof">Karin Graßhof</a></li>
+<li><a href="/w/index.php?title=Dieter_Grimm&amp;action=edit&amp;redlink=1" class="new" title="Dieter Grimm (page does not exist)">Dieter Grimm</a></li>
+<li><a href="/w/index.php?title=Karl_Haager&amp;action=edit&amp;redlink=1" class="new" title="Karl Haager (page does not exist)">Karl Haager</a></li></ul>
+<p>&#32;
+</p>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul><li><a href="/wiki/Evelyn_Haas" title="Evelyn Haas">Evelyn Haas</a></li>
+<li><a href="/wiki/Winfried_Hassemer" title="Winfried Hassemer">Winfried Hassemer</a></li>
+<li><a href="/w/index.php?title=Johann_Friedrich_Henschel&amp;action=edit&amp;redlink=1" class="new" title="Johann Friedrich Henschel (page does not exist)">Johann Friedrich Henschel</a></li>
+<li><a href="/w/index.php?title=Monika_Hermanns&amp;action=edit&amp;redlink=1" class="new" title="Monika Hermanns (page does not exist)">Monika Hermanns</a></li>
+<li><a href="/wiki/Roman_Herzog" title="Roman Herzog">Roman Herzog</a></li>
+<li><a href="/wiki/Konrad_Hesse" title="Konrad Hesse">Konrad Hesse</a></li>
+<li><a href="/wiki/Martin_Hirsch" title="Martin Hirsch">Martin Hirsch</a></li>
+<li><a href="/w/index.php?title=Dieter_H%C3%B6mig&amp;action=edit&amp;redlink=1" class="new" title="Dieter Hömig (page does not exist)">Dieter Hömig</a></li>
+<li><a href="/wiki/Hermann_H%C3%B6pker-Aschoff" title="Hermann Höpker-Aschoff">Hermann Höpker-Aschoff</a></li>
+<li><a href="/wiki/Christine_Hohmann-Dennhardt" title="Christine Hohmann-Dennhardt">Christine Hohmann-Dennhardt</a></li>
+<li><a href="/wiki/Wolfgang_Hoffmann-Riem" title="Wolfgang Hoffmann-Riem">Wolfgang Hoffmann-Riem</a></li>
+<li><a href="/w/index.php?title=Peter_M._Huber&amp;action=edit&amp;redlink=1" class="new" title="Peter M. Huber (page does not exist)">Peter M. Huber</a></li>
+<li><a href="/wiki/Renate_Jaeger" title="Renate Jaeger">Renate Jaeger</a></li>
+<li><a href="/w/index.php?title=Hans-Joachim_Jentsch&amp;action=edit&amp;redlink=1" class="new" title="Hans-Joachim Jentsch (page does not exist)">Hans-Joachim Jentsch</a></li>
+<li><a href="/wiki/Rudolf_Katz" title="Rudolf Katz">Rudolf Katz</a></li>
+<li><a href="/w/index.php?title=Dietrich_Katzenstein&amp;action=edit&amp;redlink=1" class="new" title="Dietrich Katzenstein (page does not exist)">Dietrich Katzenstein</a></li>
+<li><a href="/w/index.php?title=Sibylle_Kessal-Wulf&amp;action=edit&amp;redlink=1" class="new" title="Sibylle Kessal-Wulf (page does not exist)">Sibylle Kessal-Wulf</a></li>
+<li><a href="/wiki/Ferdinand_Kirchhof" title="Ferdinand Kirchhof">Ferdinand Kirchhof</a></li>
+<li><a href="/wiki/Paul_Kirchhof" title="Paul Kirchhof">Paul Kirchhof</a></li></ul>
+<p>&#32;
+</p>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul><li><a href="/wiki/Hans_Hugo_Klein" title="Hans Hugo Klein">Hans Hugo Klein</a></li>
+<li><a href="/w/index.php?title=Konrad_Kruis&amp;action=edit&amp;redlink=1" class="new" title="Konrad Kruis (page does not exist)">Konrad Kruis</a></li>
+<li><a href="/wiki/J%C3%BCrgen_K%C3%BChling" title="Jürgen Kühling">Jürgen Kühling</a></li>
+<li><a href="/w/index.php?title=Herbert_Landau&amp;action=edit&amp;redlink=1" class="new" title="Herbert Landau (page does not exist)">Herbert Landau</a></li>
+<li><a href="/w/index.php?title=Gerhard_Leibholz&amp;action=edit&amp;redlink=1" class="new" title="Gerhard Leibholz (page does not exist)">Gerhard Leibholz</a></li>
+<li><a href="/wiki/Jutta_Limbach" title="Jutta Limbach">Jutta Limbach</a></li>
+<li><a href="/wiki/Gertrude_L%C3%BCbbe-Wolff" title="Gertrude Lübbe-Wolff">Gertrude Lübbe-Wolff</a></li>
+<li><a href="/w/index.php?title=Ernst_Gottfried_Mahrenholz&amp;action=edit&amp;redlink=1" class="new" title="Ernst Gottfried Mahrenholz (page does not exist)">Ernst Gottfried Mahrenholz</a></li>
+<li><a href="/wiki/Johannes_Masing" title="Johannes Masing">Johannes Masing</a></li>
+<li><a href="/wiki/Rudolf_Mellinghoff" title="Rudolf Mellinghoff">Rudolf Mellinghoff</a></li>
+<li><a href="/wiki/Gebhard_M%C3%BCller" title="Gebhard Müller">Gebhard Müller</a></li>
+<li><a href="/wiki/Peter_M%C3%BCller_(politician)" title="Peter Müller (politician)">Peter Müller</a></li>
+<li><a href="/w/index.php?title=Engelbert_Niebler&amp;action=edit&amp;redlink=1" class="new" title="Engelbert Niebler (page does not exist)">Engelbert Niebler</a></li>
+<li><a href="/w/index.php?title=Gisela_Niemeyer&amp;action=edit&amp;redlink=1" class="new" title="Gisela Niemeyer (page does not exist)">Gisela Niemeyer</a></li>
+<li><a href="/wiki/Lerke_Osterloh" title="Lerke Osterloh">Lerke Osterloh</a></li>
+<li><a href="/wiki/Hans-J%C3%BCrgen_Papier" title="Hans-Jürgen Papier">Hans-Jürgen Papier</a></li>
+<li><a href="/w/index.php?title=Andreas_L._Paulus&amp;action=edit&amp;redlink=1" class="new" title="Andreas L. Paulus (page does not exist)">Andreas L. Paulus</a></li>
+<li><a href="/w/index.php?title=Theodor_Ritterspach&amp;action=edit&amp;redlink=1" class="new" title="Theodor Ritterspach (page does not exist)">Theodor Ritterspach</a></li></ul>
+<p>&#32;
+</p>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<ul><li><a href="/w/index.php?title=Joachim_Rottmann&amp;action=edit&amp;redlink=1" class="new" title="Joachim Rottmann (page does not exist)">Joachim Rottmann</a></li>
+<li><a href="/w/index.php?title=Wiltraut_Rupp-von_Br%C3%BCnneck&amp;action=edit&amp;redlink=1" class="new" title="Wiltraut Rupp-von Brünneck (page does not exist)">Wiltraut Rupp-von Brünneck</a></li>
+<li><a href="/wiki/Erna_Scheffler" title="Erna Scheffler">Erna Scheffler</a></li>
+<li><a href="/wiki/Fabian_von_Schlabrendorff" title="Fabian von Schlabrendorff">Fabian von Schlabrendorff</a></li>
+<li><a href="/w/index.php?title=Wilhelm_Schluckebier&amp;action=edit&amp;redlink=1" class="new" title="Wilhelm Schluckebier (page does not exist)">Wilhelm Schluckebier</a></li>
+<li><a href="/wiki/Helga_Seibert" title="Helga Seibert">Helga Seibert</a></li>
+<li><a href="/w/index.php?title=Otto_Seidl&amp;action=edit&amp;redlink=1" class="new" title="Otto Seidl (page does not exist)">Otto Seidl</a></li>
+<li><a href="/w/index.php?title=Walter_Seuffert&amp;action=edit&amp;redlink=1" class="new" title="Walter Seuffert (page does not exist)">Walter Seuffert</a></li>
+<li><a href="/w/index.php?title=Alfred_S%C3%B6llner&amp;action=edit&amp;redlink=1" class="new" title="Alfred Söllner (page does not exist)">Alfred Söllner</a></li>
+<li><a href="/w/index.php?title=Bertold_Sommer&amp;action=edit&amp;redlink=1" class="new" title="Bertold Sommer (page does not exist)">Bertold Sommer</a></li>
+<li><a href="/w/index.php?title=Helmut_Steinberger&amp;action=edit&amp;redlink=1" class="new" title="Helmut Steinberger (page does not exist)">Helmut Steinberger</a></li>
+<li><a href="/wiki/Udo_Steiner" title="Udo Steiner">Udo Steiner</a></li>
+<li><a href="/wiki/Ernst_Tr%C3%A4ger" title="Ernst Träger">Ernst Träger</a></li>
+<li><a href="/w/index.php?title=Friedrich_Wilhelm_Wagner&amp;action=edit&amp;redlink=1" class="new" title="Friedrich Wilhelm Wagner (page does not exist)">Friedrich Wilhelm Wagner</a></li>
+<li><a href="/wiki/Klaus_Winter" title="Klaus Winter">Klaus Winter</a></li>
+<li><a href="/wiki/Wolfgang_Zeidler" title="Wolfgang Zeidler">Wolfgang Zeidler</a></li></ul>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="Landmark_decisions">Landmark decisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit&amp;section=8" title="Edit section: Landmark decisions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th width="30">Year
+</th>
+<th width="110">Case
+</th>
+<th width="90">Unofficial name
+</th>
+<th width="300">Synopsis
+</th>
+<th width="290">Legal principles set
+</th>
+<th width="350">Consequences
+</th></tr>
+<tr>
+<th colspan="6"><b><a href="/wiki/Dignity" title="Dignity">Human dignity</a></b>
+</th></tr>
+<tr>
+<td>1993
+</td>
+<td>2 BvF 2/90<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;9&#93;</a></sup>
+</td>
+<td><i> (None) </i>
+</td>
+<td>The <a href="/wiki/Bundestag" title="Bundestag">federal lawmakers</a> permitted <a href="/wiki/Abortion" title="Abortion">abortion</a> within twelve weeks after <a href="/wiki/Implantation_(human_embryo)" title="Implantation (human embryo)">implantation</a>. To be legal the expectant mother had to go to a pregnancy consultation minimum three days in advance and the abortion has to be their own decision.
+</td>
+<td>
+<ul><li>If a pregnancy is not the result of a <a href="/wiki/Rape" title="Rape">criminal interaction</a> or a threat to the mother's life an abortion violates the <a href="/wiki/Right_to_life" title="Right to life">right to life</a> of an <a href="/wiki/Embryo" title="Embryo">embryo</a>. As a result, in the last case, abortion has to be prohibited.</li></ul>
+</td>
+<td>Following the decision the lawmakers changed the criminal law. They prohibited abortion within twelve weeks but after using a pregnancy consultation all participants go unpunished.
+</td></tr>
+<tr>
+<td>2003
+</td>
+<td>1 BvR 426/02<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;10&#93;</a></sup>
+</td>
+<td>Benetton II
+</td>
+<td>The <a href="/wiki/Federal_Court_of_Justice" title="Federal Court of Justice">Federal Court of Justice</a> prohibited the <a href="/wiki/Stern_(magazine)" title="Stern (magazine)">magazine Stern</a> to publish a shocking advertisement of the <a href="/wiki/Benetton_Group" title="Benetton Group">Benetton Group</a>. The advertisement showed a bare gluteal with a stamp:”<a href="/wiki/HIV" title="HIV">HIV-positive</a>”
+</td>
+<td>
+<ul><li>Human dignity is absolute. All <a href="/wiki/Fundamental_rights" title="Fundamental rights">fundamental rights</a> are substantiations of human dignity therefore there is no trade-off of human dignity and any fundamental right possible.</li></ul>
+</td>
+<td>The case was remanded to the Federal Court of Justice for a second time. After Benetton II the plaintiff abandoned the lawsuit. A final decision was unnecessary.
+</td></tr>
+<tr>
+<td>2006
+</td>
+<td>1 BvR 357/05<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;11&#93;</a></sup>
+</td>
+<td>civil aviation security act decision
+</td>
+<td>The federal lawmakers permitted the shoot-down of civil airplanes if there is an indication, that it will be used as a weapon against human lives and a shoot-down is the last resort.
+</td>
+<td>
+<ul><li>Human dignity is inviolable. There cannot be any trade-off of lives of innocent people.</li>
+<li>Military can be used as disaster relief, but the use of military weapons violates the constitution.</li>
+<li>Only the federal government can order the military to disaster relief.</li></ul>
+</td>
+<td>The disputed part of the civil aviation security act was declared void. Basically the court decided that a shoot-down could be legal if a flight vehicle is unmanned or there are only suspects on board.
+</td></tr>
+
+<tr>
+<th colspan="6"><b>Protection of fundamental rights</b>
+</th></tr>
+<tr>
+<td>1957
+</td>
+<td>1 BvR 253/56<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;12&#93;</a></sup>
+</td>
+<td>Elfes-Decision (Elfes-Urteil)
+</td>
+<td>The left-wing party member of the centre-right <a href="/wiki/Christian_Democratic_Union_of_Germany" title="Christian Democratic Union of Germany">CDU</a> Wilhelm Elfes was accused of working against the constitution but therefor was never convicted. Based on this indictment he was denied a passport multiple times.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;13&#93;</a></sup> Elfes litigated against the decision.
+</td>
+<td>
+<ul><li>The right to <a href="/wiki/Civil_liberties" title="Civil liberties">personal liberty</a> is to be construed in a broad way.</li>
+<li>Invention of “Heck’s Formula” (named after the rapporteur of the case: Justice Heck). The court can only overview cases if one condition apply:</li></ul>
+<dl><dd><dl><dd><ul><li>The impact of a constitutional norm was misjudged</li></ul></dd></dl></dd></dl>
+<dl><dd><dl><dd><ul><li>Application of the law was discretionary</li></ul></dd></dl></dd></dl>
+<dl><dd><dl><dd><ul><li>Violation of <a href="/wiki/Judicial_restraint" title="Judicial restraint">judicial restraint</a></li></ul></dd></dl></dd></dl>
+</td>
+<td>Elfes lost his specific case but the court cemented personal liberty in general. Justice Heck defined the limits of the court relative to the specialised court system.
+</td></tr>
+<tr>
+<td>1958
+</td>
+<td>1 BvR 400/51<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;14&#93;</a></sup>
+</td>
+<td><a href="/w/index.php?title=L%C3%BCth_Decision&amp;action=edit&amp;redlink=1" class="new" title="Lüth Decision (page does not exist)">Lüth-Decision</a> (Lüth-Urteil)
+</td>
+<td>The court of Hamburg prohibited <a href="/wiki/Erich_L%C3%BCth" title="Erich Lüth">Erich Lüth</a> to call for boycott of the movie <a href="/wiki/Immortal_Beloved_(1951_film)" title="Immortal Beloved (1951 film)">Immortal Beloved</a>. Lüth justified his action because director <a href="/wiki/Veit_Harlan" title="Veit Harlan">Veit Harlan</a> also was responsible for the <a href="/wiki/Antisemitism" title="Antisemitism">antisemetic</a> movie <a href="/wiki/Jud_S%C3%BC%C3%9F_(1940_film)" title="Jud Süß (1940 film)">Jud Süß</a> in 1940.
+</td>
+<td>
+<ul><li>German <a href="/wiki/Basic_Law_for_the_Federal_Republic_of_Germany" title="Basic Law for the Federal Republic of Germany">Basic Law</a> binds <a href="/wiki/Private_law" title="Private law">private law</a> indirectly</li>
+<li>The Federal Constitutional Court is not a regular appellate court on violation of federal law. The court only overviews violation of the Basic Law</li></ul>
+</td>
+<td>With the Lüth-Decision the court defined and restricted its own power. But on the other hand it expanded the effective range of the Basic Law beyond the tension of government and people to the private law. The Basic Law does not bind citizens but it binds the lawmakers in creating private law and the <a href="/wiki/Judiciary" title="Judiciary">judiciary</a> in interpreting it.
+</td></tr>
+<tr>
+<th colspan="6"><b>Development of fundamental rights by the court</b>
+</th></tr>
+<tr>
+<td>1983
+</td>
+<td>1 BvR 209/83,
+<p>1 BvR 269/83,
+</p><p>1 BvR 362/83,
+</p><p>1 BvR 420/83,
+</p><p>1 BvR 440/83,
+</p><p>1 BvR 484/83<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;15&#93;</a></sup>
+</p>
+</td>
+<td>Census Verdict (Volkszählungsurteil)
+</td>
+<td>Citizens litigated against the German census 1983
+</td>
+<td>
+<ul><li>Personal freedom under modern conditions depends on the right to be protected against unlimited data processing, use, collection, storage and disclosure. There is nothing like irrelevant data.</li></ul>
+</td>
+<td>The census was postponed to 1987 until the census 1983 act was corresponding to the verdict. The court created by derivating from human dignity and personal liberty a new civil right: <a href="/wiki/Informational_self-determination" title="Informational self-determination">Informational self-determination</a> The verdict became the fundament of the modern <a href="/wiki/Bundesdatenschutzgesetz" title="Bundesdatenschutzgesetz">German Data Protection Act (1990)</a> and the <a href="/wiki/Data_Protection_Directive" title="Data Protection Directive">EU Data Protection Directive (1998)</a>
+</td></tr>
+<tr>
+<th colspan="6"><b><a href="/wiki/Freedom_of_expression" class="mw-redirect" title="Freedom of expression">Freedom of expression</a></b>
+</th></tr>
+<tr>
+<td>2000
+</td>
+<td>1 BvR 1762/95  &amp; 1 BvR 1787/95<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;16&#93;</a></sup>
+</td>
+<td>Benetton I
+</td>
+<td>The Federal Court of Justice prohibited the magazine Stern to publish shocking advertisements of the Benetton Group. The advertisements showed a bird doubed with oil, <a href="/wiki/Child_labour" title="Child labour">child labour</a> and a bare gluteal with a stamp:”HIV-positive”
+</td>
+<td>
+<ul><li>The publishing of an opinion of a third party that is protected by the freedom of expression is protected itself.</li></ul>
+</td>
+<td>The case was remanded to the Federal Court of Justice whose new decision was challenged again as “Benetton II”
+</td></tr>
+<tr>
+<th colspan="6"><b>Freedom of art</b>
+</th></tr>
+<tr>
+<td>1971
+</td>
+<td>1 BvR 435/68<sup id="cite_ref-Mephisto_18-0" class="reference"><a href="#cite_note-Mephisto-18">&#91;17&#93;</a></sup>
+</td>
+<td><a href="/wiki/Gustaf_Gr%C3%BCndgens#Mephisto_judgment" title="Gustaf Gründgens">Mephisto judgment (Mephisto-Entscheidung)</a>
+</td>
+<td>The heir of <a href="/wiki/Gustaf_Gr%C3%BCndgens" title="Gustaf Gründgens">Gustaf Gründgens</a> sued successfully the publisher of  the novel <a href="/wiki/Mephisto_(novel)" title="Mephisto (novel)">Mephisto (1936)</a> written by Gründgens’ former brother-in-law <a href="/wiki/Klaus_Mann" title="Klaus Mann">Klaus Mann</a> to stop publishing the book. It was prohibited by all lower courts.
+</td>
+<td>
+<ul><li>Freedom of art is guaranteed by Basic Law, but it finds its limit in human dignity and likewise in personality right. Because freedom of art is to be construed in a broad sense, weighing up has to be comprehensive and a case by case decision.</li></ul>
+</td>
+<td>Due to a split decision the ban of the novel was upheld. It was the first decision of the court about interpretation of freedom of art. Apart from the concrete decision the court made clear that freedom of art cannot be limited by general laws.
+</td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Impact_on_European_constitutional_questions">Impact on European constitutional questions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit&amp;section=9" title="Edit section: Impact on European constitutional questions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On 12 September 2012 the Court stated that the question of whether the <a href="/wiki/European_Central_Bank" title="European Central Bank">ECB</a>'s decision to finance European constituent nations through the purchase of bonds on the secondary markets was <a href="/wiki/Ultra_vires" title="Ultra vires">ultra vires</a> because it exceeded the limits established by the German act approving the <a href="/wiki/European_Stability_Mechanism" title="European Stability Mechanism">ESM</a> was to be examined.<sup id="cite_ref-eprs_19-0" class="reference"><a href="#cite_note-eprs-19">&#91;18&#93;</a></sup>  This demonstrates how a citizen's group has the ability to affect the conduct of European institutions. On 7 February 2014, the Court made a preliminary announcement on the case, which was to be published in full on 18 March. In its ruling, the Court decided to leave judgment to the Court of Justice of the EU (<a href="/wiki/Court_of_Justice_of_the_European_Union" title="Court of Justice of the European Union">CJEU</a>).<sup id="cite_ref-eprs_19-1" class="reference"><a href="#cite_note-eprs-19">&#91;18&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Judiciary" title="Judiciary">Judiciary</a></li>
+<li><a href="/wiki/Rechtsstaat" title="Rechtsstaat">Rechtsstaat</a></li>
+<li><a href="/wiki/Rule_according_to_higher_law" title="Rule according to higher law">Rule according to higher law</a></li>
+<li><a href="/wiki/Rule_of_law" title="Rule of law">Rule of law</a></li>
+<li><a href="/wiki/Streitbare_Demokratie" title="Streitbare Demokratie">Streitbare Demokratie</a></li>
+<li><a href="/wiki/Federal_Office_for_the_Protection_of_the_Constitution" title="Federal Office for the Protection of the Constitution">Federal Office for the Protection of the Constitution</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit&amp;section=11" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Art. 79 s. III</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit&amp;section=12" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Justin Collings, <i>Democracy's Guardians: A History of the German Federal Constitutional Court 1951-2001</i> (Oxford University Press, 2015).</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bundesverfassungsgericht.de/EN/Das-Gericht/Bibliothek/bibliothek_node.html">"Bundesverfassungsgericht  -  Library"</a>. <i>www.bundesverfassungsgericht.de</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.bundesverfassungsgericht.de&amp;rft.atitle=Bundesverfassungsgericht++-++Library&amp;rft_id=http%3A%2F%2Fwww.bundesverfassungsgericht.de%2FEN%2FDas-Gericht%2FBibliothek%2Fbibliothek_node.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Donald P. Kommers &amp; Russell A. Miller, <i>The Constitutional Jurisprudence of the Federal Republic of Germany</i> (3d ed.: Duke University Press, 2012), p. 40.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.btg-bestellservice.de/pdf/80201000.pdf">"Art. 93"</a> &#91;Jurisdiction of the Federal Constitutional Court&#93; <span class="cs1-format">(PDF)</span>. <i>Basic Law for the Federal Republic of Germany</i>. Berlin: German Bundestag. April 2010. pp.&#160;82–83<span class="reference-accessdate">. Retrieved <span class="nowrap">19 August</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Basic+Law+for+the+Federal+Republic+of+Germany&amp;rft.atitle=Art.+93&amp;rft.pages=82-83&amp;rft.date=2010-04&amp;rft_id=https%3A%2F%2Fwww.btg-bestellservice.de%2Fpdf%2F80201000.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-davids-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-davids_5-0">^</a></b></span> <span class="reference-text">Law, David S., <i>The Anatomy of a Conservative Court</i> in Texas Law Review lxxxvii: 1545–93</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><i>Government and Politics of West Germany</i>, p. 165</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Kesselman et al. (2009), ch. 4 p. 69</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="https://www.webcitation.org/66DOaKfY0?url=http://www.economist.com/node/13376204">"Germany's Constitutional Court: Judgment days"</a>, <i>The Economist</i>, Karlsruhe, 26 May 2009, archived from <a rel="nofollow" class="external text" href="http://www.economist.com/node/13376204">the original</a> on 2012-03-16</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Economist&amp;rft.atitle=Germany%27s+Constitutional+Court%3A+Judgment+days&amp;rft.date=2009-05-26&amp;rft_id=http%3A%2F%2Fwww.economist.com%2Fnode%2F13376204&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&amp;jumpTo=bgbl115s0973.pdf#__bgbl__//*%5B@attr_id=&#39;bgbl115s0973.pdf&#39;%5D__1473798083909">"Bundesgesetzblatt"</a> <span class="cs1-format">(PDF)</span>. <i>www.bgbl.de</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.bgbl.de&amp;rft.atitle=Bundesgesetzblatt&amp;rft_id=http%3A%2F%2Fwww.bgbl.de%2Fxaver%2Fbgbl%2Fstart.xav%3Fstartbk%3DBundesanzeiger_BGBl%26jumpTo%3Dbgbl115s0973.pdf%23&#95;_bgbl&#95;_%2F%2F%2A%255B%40attr_id%3D%27bgbl115s0973.pdf%27%255D&#95;_1473798083909&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.jurion.de/urteile/bverfg/1993-05-28/2-bvf-2_90/">"Bundesverfassungsgericht Urt. v. 28.05.1993, Az.: 2 BvF 2/90"</a> &#91;Federal Constitutional Court, decided on May 28th, 1993, Case 2 BvF 2/90&#93;. <i>Jurion</i> (in German). <a href="/wiki/Cologne" title="Cologne">Cologne</a>: Wolters Kluwer. 1993-05-28<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Jurion&amp;rft.atitle=Bundesverfassungsgericht+Urt.+v.+28.05.1993%2C+Az.%3A+2+BvF+2%2F90&amp;rft.date=1993-05-28&amp;rft_id=https%3A%2F%2Fwww.jurion.de%2Furteile%2Fbverfg%2F1993-05-28%2F2-bvf-2_90%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bundesverfassungsgericht.de/entscheidungen/rs20030311_1bvr042602.html">"L e i t s ä t z e zum Beschluss des Ersten Senats vom 11. März 2003"</a> &#91;Guiding principles of the decision of the first senate, decided on March 11th, 2003&#93;. <i>Federal Constitutional Court - Decisions</i> (in German). Karlsruhe: Federal Constitutional Court. 2003-03-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Federal+Constitutional+Court+-+Decisions&amp;rft.atitle=L+e+i+t+s+%C3%A4+t+z+e+zum+Beschluss+des+Ersten+Senats+vom+11.+M%C3%A4rz+2003&amp;rft.date=2003-03-11&amp;rft_id=https%3A%2F%2Fwww.bundesverfassungsgericht.de%2Fentscheidungen%2Frs20030311_1bvr042602.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bundesverfassungsgericht.de/entscheidungen/rs20060215_1bvr035705.html">"Urteil des Ersten Senats vom 15. Februar 2006"</a> &#91;Federal Constitutional Court verdict, decided on February 15th, 2006&#93;. <i>Federal Constitutional Court - Decisions</i> (in German). Karlsruhe: Federal Constitutional Court. 2006-02-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Federal+Constitutional+Court+-+Decisions&amp;rft.atitle=Urteil+des+Ersten+Senats+vom+15.+Februar+2006&amp;rft.date=2006-02-15&amp;rft_id=https%3A%2F%2Fwww.bundesverfassungsgericht.de%2Fentscheidungen%2Frs20060215_1bvr035705.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/1957/01/rs19570116_1bvr025356.html">"Urteil des Ersten Senats vom 16. Januar 1957"</a> &#91;Federal Constitutional Court verdict, decided on January 16th, 1957&#93;. <i>Federal Constitutional Court - Decisions</i> (in German). Karlsruhe: Federal Constitutional Court. 1957-01-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Federal+Constitutional+Court+-+Decisions&amp;rft.atitle=Urteil+des+Ersten+Senats+vom+16.+Januar+1957&amp;rft.date=1957-01-16&amp;rft_id=https%3A%2F%2Fwww.bundesverfassungsgericht.de%2FSharedDocs%2FEntscheidungen%2FDE%2F1957%2F01%2Frs19570116_1bvr025356.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://refubium.fu-berlin.de/handle/fub188/10044">"Elfes - Mehr als ein Urteil"</a> &#91;Elfes – More than a verdict&#93;. <i>Dissertations of the university</i> (in German). <a href="/wiki/Berlin" title="Berlin">Berlin</a>: <a href="/wiki/Free_University_of_Berlin" title="Free University of Berlin">Free University of Berlin</a>. 2011-01-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dissertations+of+the+university&amp;rft.atitle=Elfes+-+Mehr+als+ein+Urteil&amp;rft.date=2011-01-11&amp;rft_id=https%3A%2F%2Frefubium.fu-berlin.de%2Fhandle%2Ffub188%2F10044&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.servat.unibe.ch/dfr/bv007198.html#208">"BVerfGE 7, 198 - Lüth"</a> &#91;Case BVerfGE 7, 198 Lüth&#93;. <i>Das Fallrecht (DFR) Verfassungsrecht</i> (in German). <a href="/wiki/Bern" title="Bern">Bern</a>: <a href="/wiki/University_of_Bern" title="University of Bern">University of Bern</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Das+Fallrecht+%28DFR%29+Verfassungsrecht&amp;rft.atitle=BVerfGE+7%2C+198+-+L%C3%BCth&amp;rft_id=http%3A%2F%2Fwww.servat.unibe.ch%2Fdfr%2Fbv007198.html%23208&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://openjur.de/u/268440.html">"Volkszählung ("Volkszählungsurteil")"</a> &#91;Census (“Census Verdict”)&#93; (in German). <a href="/wiki/Hamburg" title="Hamburg">Hamburg</a>: OpenJur. pp.&#160;openJur 2012, 616<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Volksz%C3%A4hlung+%28%22Volksz%C3%A4hlungsurteil%22%29&amp;rft.place=Hamburg&amp;rft.pages=openJur+2012%2C+616&amp;rft.pub=OpenJur&amp;rft_id=https%3A%2F%2Fopenjur.de%2Fu%2F268440.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.bundesverfassungsgericht.de/entscheidungen/rs20001212_1bvr176295.html">"L e i t s ä t z e zum Urteil des Ersten Senats vom 12. Dezember 2000"</a> &#91;Guiding principles of the decision of the first senate, decided on December 12th, 2000&#93;. <i>Federal Constitutional Court - Decisions</i> (in German). Karlsruhe: Federal Constitutional Court. 2000-12-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-01</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Federal+Constitutional+Court+-+Decisions&amp;rft.atitle=L+e+i+t+s+%C3%A4+t+z+e+zum+Urteil+des+Ersten+Senats+vom+12.+Dezember+2000&amp;rft.date=2000-12-12&amp;rft_id=https%3A%2F%2Fwww.bundesverfassungsgericht.de%2Fentscheidungen%2Frs20001212_1bvr176295.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Mephisto-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mephisto_18-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://openjur.de/u/31670.html">"BVerfG, Beschluss vom 24.02.1971 - 1 BvR 435/68"</a> &#91;Federal Constitutional Court, Court order, decided on February 24th, 1971 - 1 BvR 435/68&#93;. <i>BVerfG Rechtsprechung</i> (in German). Hamburg: OpenJur e.V. 1971-02-24<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-12-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=BVerfG+Rechtsprechung&amp;rft.atitle=BVerfG%2C+Beschluss+vom+24.02.1971+-+1+BvR+435%2F68&amp;rft.date=1971-02-24&amp;rft_id=https%3A%2F%2Fopenjur.de%2Fu%2F31670.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-eprs-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-eprs_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-eprs_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.europarl.europa.eu/RegData/bibliotheque/briefing/2014/140761/LDM_BRI%282014%29140761_REV1_EN.pdf">"europarl.europa.eu: "The German Constitutional Court's ruling on the ECB's bond-buying decision" 10 Feb 2014"</a> <span class="cs1-format">(PDF)</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=europarl.europa.eu%3A+%22The+German+Constitutional+Court%27s+ruling+on+the+ECB%27s+bond-buying+decision%22+10+Feb+2014&amp;rft_id=http%3A%2F%2Fwww.europarl.europa.eu%2FRegData%2Fbibliotheque%2Fbriefing%2F2014%2F140761%2FLDM_BRI%25282014%2529140761_REV1_EN.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit&amp;section=14" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Allen, Christopher S. (10 February 2009). "Chapter 4: Germany".  In Kesselman, Mark; Krieger, Joel; Joseph, William A (eds.). <i>Introduction to Comparative Politics</i>. Wadsworth. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-495-79741-3" title="Special:BookSources/0-495-79741-3"><bdi>0-495-79741-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Chapter+4%3A+Germany&amp;rft.btitle=Introduction+to+Comparative+Politics&amp;rft.pub=Wadsworth&amp;rft.date=2009-02-10&amp;rft.isbn=0-495-79741-3&amp;rft.aulast=Allen&amp;rft.aufirst=Christopher+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation journal">Law, David S. (2009). "The Anatomy of a Conservative Court: Judicial Review in Japan". <i>Texas Law Review</i>. <b>87</b>: 1545–1593. <a href="/wiki/Social_Science_Research_Network" title="Social Science Research Network">SSRN</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//ssrn.com/abstract=1406169">1406169</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Texas+Law+Review&amp;rft.atitle=The+Anatomy+of+a+Conservative+Court%3A+Judicial+Review+in+Japan&amp;rft.volume=87&amp;rft.pages=1545-1593&amp;rft.date=2009&amp;rft_id=%2F%2Fssrn.com%2Fabstract%3D1406169&amp;rft.aulast=Law&amp;rft.aufirst=David+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.economist.com/node/13376204">"Judgment Days: Germany's Constitutional Court"</a>. The Economist. 28 March 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Judgment+Days%3A+Germany%E2%80%99s+Constitutional+Court&amp;rft.date=2009-03-28&amp;rft_id=http%3A%2F%2Fwww.economist.com%2Fnode%2F13376204&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation journal">Lenaerts, Koen; Gutman, Kathleen. "<span class="cs1-kern-left">'</span>Federal Common Law' in the European Union: A Comparative Perspective from the United States". <i>The American Journal of Comparative Law</i>. <b>54</b>: 1–121. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/20454486">20454486</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+American+Journal+of+Comparative+Law&amp;rft.atitle=%27Federal+Common+Law%27+in+the+European+Union%3A+A+Comparative+Perspective+from+the+United+States.&amp;rft.volume=54&amp;rft.pages=1-121&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F20454486&amp;rft.aulast=Lenaerts&amp;rft.aufirst=Koen&amp;rft.au=Gutman%2C+Kathleen&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation journal">Pruezel-Thomas. "The abortion issue and the federal constitutional court". <i>German Politics</i>. <b>2:3</b>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=German+Politics&amp;rft.atitle=The+abortion+issue+and+the+federal+constitutional+court&amp;rft.volume=2%3A3&amp;rft.au=Pruezel-Thomas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation journal">Johnson. "The federal constitutional court: Facing up to the strains of law and politics in the new Germany". <i>German Politics</i>. <b>3:3</b>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=German+Politics&amp;rft.atitle=The+federal+constitutional+court%3A+Facing+up+to+the+strains+of+law+and+politics+in+the+new+Germany&amp;rft.volume=3%3A3&amp;rft.au=Johnson&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFederal+Constitutional+Court" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Federal_Constitutional_Court_of_Germany" class="extiw" title="commons:Category:Federal Constitutional Court of Germany">Federal Constitutional Court of Germany</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://www.bundesverfassungsgericht.de/">Official website</a></span></span> <a href="https://www.wikidata.org/wiki/Q56025#P856" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/10px-Blue_pencil.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/15px-Blue_pencil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Blue_pencil.svg/20px-Blue_pencil.svg.png 2x" data-file-width="600" data-file-height="600" /></a></li>
+<li><a rel="nofollow" class="external text" href="http://bundesrecht.juris.de/bundesrecht/bverfgg/">Federal Constitutional Court Act (BVerfGG)</a> <span class="languageicon">(in German)</span></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150430041938/http://www.iuscomp.org/gla/statutes/BVerfGG.htm">Federal Constitutional Court Act (BVerfGG) - web archive</a> <span class="languageicon">(in English)</span></li>
+<li><a rel="nofollow" class="external text" href="http://germanlawarchive.iuscomp.org/?p=221">Federal Constitutional Court Act (BVerfGG) - germanlawarchive </a> <span class="languageicon">(in English)</span></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180609155012/https://germanlawarchive.iuscomp.org/?p=221">Federal Constitutional Court Act (BVerfGG) - germanlawarchive at 20180609 </a> <span class="languageicon">(in English)</span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Supreme_Courts_of_Europe" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Europe_topic" title="Template:Europe topic"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Europe_topic" title="Template talk:Europe topic"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Europe_topic&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Supreme_Courts_of_Europe" style="font-size:114%;margin:0 4em">Supreme Courts of Europe</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sovereign states</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Supreme_Court_of_Albania" title="Supreme Court of Albania">Albania</a></li>
+<li><a href="/w/index.php?title=Supreme_Court_of_Andorra&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of Andorra (page does not exist)">Andorra</a></li>
+<li><a href="/w/index.php?title=Supreme_Court_of_Armenia&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of Armenia (page does not exist)">Armenia</a></li>
+<li><a href="/wiki/Supreme_Court_of_Austria" class="mw-redirect" title="Supreme Court of Austria">Austria</a></li>
+<li><a href="/wiki/Supreme_Court_of_Azerbaijan" title="Supreme Court of Azerbaijan">Azerbaijan</a></li>
+<li><a href="/wiki/Supreme_Court_of_Belarus" title="Supreme Court of Belarus">Belarus</a></li>
+<li><a href="/wiki/Supreme_Court_of_Belgium" class="mw-redirect" title="Supreme Court of Belgium">Belgium</a></li>
+<li><a href="/wiki/Supreme_Court_of_Bosnia_and_Herzegovina" class="mw-redirect" title="Supreme Court of Bosnia and Herzegovina">Bosnia and Herzegovina</a></li>
+<li><a href="/wiki/Supreme_Court_of_Bulgaria" class="mw-redirect" title="Supreme Court of Bulgaria">Bulgaria</a></li>
+<li><a href="/wiki/Supreme_Court_of_Croatia" title="Supreme Court of Croatia">Croatia</a></li>
+<li><a href="/wiki/Supreme_Court_of_Cyprus" title="Supreme Court of Cyprus">Cyprus</a></li>
+<li><a href="/wiki/Supreme_Court_of_the_Czech_Republic" title="Supreme Court of the Czech Republic">Czech Republic</a></li>
+<li><a href="/wiki/Supreme_Court_of_Denmark" class="mw-redirect" title="Supreme Court of Denmark">Denmark</a></li>
+<li><a href="/wiki/Supreme_Court_of_Estonia" title="Supreme Court of Estonia">Estonia</a></li>
+<li><a href="/wiki/Supreme_Court_of_Finland" title="Supreme Court of Finland">Finland</a></li>
+<li><a href="/wiki/Supreme_Court_of_France" class="mw-redirect" title="Supreme Court of France">France</a></li>
+<li><a href="/wiki/Supreme_Court_of_Georgia_(country)" title="Supreme Court of Georgia (country)">Georgia</a></li>
+<li><a href="/wiki/Supreme_Court_of_Germany" class="mw-redirect" title="Supreme Court of Germany">Germany</a></li>
+<li><a href="/wiki/Supreme_Court_of_Greece" class="mw-redirect" title="Supreme Court of Greece">Greece</a></li>
+<li><a href="/wiki/Supreme_Court_of_Hungary" title="Supreme Court of Hungary">Hungary</a></li>
+<li><a href="/wiki/Supreme_Court_of_Iceland" title="Supreme Court of Iceland">Iceland</a></li>
+<li><a href="/wiki/Supreme_Court_of_the_Republic_of_Ireland" class="mw-redirect" title="Supreme Court of the Republic of Ireland">Ireland</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Supreme_Court_of_Italy" class="mw-redirect" title="Supreme Court of Italy">Italy</a></li>
+<li><a href="/wiki/Supreme_Court_of_Kazakhstan" title="Supreme Court of Kazakhstan">Kazakhstan</a></li>
+<li><a href="/wiki/Supreme_Court_of_Latvia" title="Supreme Court of Latvia">Latvia</a></li>
+<li><a href="/w/index.php?title=Supreme_Court_of_Liechtenstein&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of Liechtenstein (page does not exist)">Liechtenstein</a></li>
+<li><a href="/wiki/Supreme_Court_of_Lithuania" title="Supreme Court of Lithuania">Lithuania</a></li>
+<li><a href="/w/index.php?title=Supreme_Court_of_Luxembourg&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of Luxembourg (page does not exist)">Luxembourg</a></li>
+<li><a href="/w/index.php?title=Supreme_Court_of_Malta&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of Malta (page does not exist)">Malta</a></li>
+<li><a href="/wiki/Supreme_Court_of_Moldova" class="mw-redirect" title="Supreme Court of Moldova">Moldova</a></li>
+<li><a href="/wiki/Supreme_Court_of_Monaco" title="Supreme Court of Monaco">Monaco</a></li>
+<li><a href="/w/index.php?title=Supreme_Court_of_Montenegro&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of Montenegro (page does not exist)">Montenegro</a></li>
+<li><a href="/wiki/Supreme_Court_of_the_Netherlands" title="Supreme Court of the Netherlands">Netherlands</a></li>
+<li><a href="/w/index.php?title=Supreme_Court_of_North_Macedonia&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of North Macedonia (page does not exist)">North Macedonia</a></li>
+<li><a href="/wiki/Supreme_Court_of_Norway" title="Supreme Court of Norway">Norway</a></li>
+<li><a href="/wiki/Supreme_Court_of_Poland" title="Supreme Court of Poland">Poland</a></li>
+<li><a href="/wiki/Supreme_Court_of_Portugal" class="mw-redirect" title="Supreme Court of Portugal">Portugal</a></li>
+<li><a href="/wiki/Supreme_Court_of_Romania" class="mw-redirect" title="Supreme Court of Romania">Romania</a></li>
+<li><a href="/wiki/Supreme_Court_of_Russia" title="Supreme Court of Russia">Russia</a></li>
+<li><a href="/w/index.php?title=Supreme_Court_of_San_Marino&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of San Marino (page does not exist)">San Marino</a></li>
+<li><a href="/wiki/Supreme_Court_of_Serbia" class="mw-redirect" title="Supreme Court of Serbia">Serbia</a></li>
+<li><a href="/w/index.php?title=Supreme_Court_of_Slovakia&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of Slovakia (page does not exist)">Slovakia</a></li>
+<li><a href="/wiki/Supreme_Court_of_Slovenia" title="Supreme Court of Slovenia">Slovenia</a></li>
+<li><a href="/wiki/Supreme_Court_of_Spain" title="Supreme Court of Spain">Spain</a></li>
+<li><a href="/wiki/Supreme_Court_of_Sweden" title="Supreme Court of Sweden">Sweden</a></li>
+<li><a href="/wiki/Supreme_Court_of_Switzerland" class="mw-redirect" title="Supreme Court of Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Supreme_Court_of_Turkey" class="mw-redirect" title="Supreme Court of Turkey">Turkey</a></li>
+<li><a href="/wiki/Supreme_Court_of_Ukraine" title="Supreme Court of Ukraine">Ukraine</a></li>
+<li><a href="/wiki/Supreme_Court_of_the_United_Kingdom" title="Supreme Court of the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Supreme_Court_of_Vatican_City" class="mw-redirect" title="Supreme Court of Vatican City">Vatican City</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">States with limited<br />recognition</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Supreme_Court_of_Abkhazia&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of Abkhazia (page does not exist)">Abkhazia</a></li>
+<li><a href="/w/index.php?title=Supreme_Court_of_the_Republic_of_Artsakh&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of the Republic of Artsakh (page does not exist)">Artsakh</a></li>
+<li><a href="/wiki/Supreme_Court_of_Northern_Cyprus" class="mw-redirect" title="Supreme Court of Northern Cyprus">Northern Cyprus</a></li>
+<li><a href="/w/index.php?title=Supreme_Court_of_South_Ossetia&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of South Ossetia (page does not exist)">South Ossetia</a></li>
+<li><a href="/w/index.php?title=Supreme_Court_of_Transnistria&amp;action=edit&amp;redlink=1" class="new" title="Supreme Court of Transnistria (page does not exist)">Transnistria</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Judiciary_of_Germany" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Supreme_Courts_of_Germany" title="Template:Supreme Courts of Germany"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Supreme_Courts_of_Germany&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Supreme Courts of Germany (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Supreme_Courts_of_Germany&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Judiciary_of_Germany" style="font-size:114%;margin:0 4em"><a href="/wiki/Judiciary_of_Germany" title="Judiciary of Germany">Judiciary of Germany</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Constitutional Court</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Federal Constitutional Court (<i>Bundesverfassungsgericht</i>)</a></li></ul>
+</div></td><td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Coat_of_arms_of_Germany.svg" class="image" title="coat of arms of Germany"><img alt="coat of arms of Germany" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_arms_of_Germany.svg/50px-Coat_of_arms_of_Germany.svg.png" decoding="async" width="50" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_arms_of_Germany.svg/75px-Coat_of_arms_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Coat_of_arms_of_Germany.svg/100px-Coat_of_arms_of_Germany.svg.png 2x" data-file-width="500" data-file-height="650" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Supreme Courts</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Federal_Administrative_Court_(Germany)" title="Federal Administrative Court (Germany)">Federal Administrative Court (<i>Bundesverwaltungsgericht</i>)</a></li>
+<li><a href="/wiki/Federal_Court_of_Justice" title="Federal Court of Justice">Federal Court of Justice (<i>Bundesgerichtshof</i>)</a></li>
+<li><a href="/wiki/Federal_Finance_Court" class="mw-redirect" title="Federal Finance Court">Federal Finance Court (<i>Bundesfinanzhof</i>)</a></li>
+<li><a href="/wiki/Federal_Labour_Court" title="Federal Labour Court">Federal Labour Court (<i>Bundesarbeitsgericht</i>)</a></li>
+<li><a href="/wiki/Federal_Social_Court" title="Federal Social Court">Federal Social Court (<i>Bundessozialgericht</i>)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Collaborations of Supreme Courts</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Joint_Senate_of_the_Supreme_Courts_of_the_Federation" title="Joint Senate of the Supreme Courts of the Federation">Joint Senate of the Supreme Courts of the Federation (<i>Gemeinsamer Senat der Obersten Gerichtshöfe</i>)</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q56025&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q56025&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q56025" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb11960786k">cb11960786k</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb11960786k">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/2117905-0">2117905-0</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000405559401">0000 0004 0555 9401</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/nr92013443">nr92013443</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/027603490">027603490</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/159296031">159296031</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/159296031">159296031</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1254
+Cached time: 20190927171527
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 1.064 seconds
+Real time usage: 1.357 seconds
+Preprocessor visited node count: 12987/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 117358/2097152 bytes
+Template argument size: 10542/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 14/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 54946/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.510/10.000 seconds
+Lua memory usage: 18.76 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1106.758      1 -total
+ 21.06%  233.031      1 Template:Europe_topic
+ 20.66%  228.636      2 Template:Navbox
+ 17.78%  196.762      1 Template:Reflist
+ 17.33%  191.814     49 Template:Iso2country
+ 16.27%  180.059      6 Template:Lang
+ 14.91%  165.056      1 Template:Infobox_high_court
+ 14.61%  161.699     13 Template:Cite_web
+ 14.24%  157.554      1 Template:Infobox
+  6.71%   74.311     49 Template:Iso2country/data
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:34781059-0!canonical and timestamp 20190927171526 and revision id 916648655
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Federal_Constitutional_Court&amp;oldid=916648655">https://en.wikipedia.org/w/index.php?title=Federal_Constitutional_Court&amp;oldid=916648655</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Courts_in_Germany" title="Category:Courts in Germany">Courts in Germany</a></li><li><a href="/wiki/Category:National_supreme_courts" title="Category:National supreme courts">National supreme courts</a></li><li><a href="/wiki/Category:Constitutional_courts" title="Category:Constitutional courts">Constitutional courts</a></li><li><a href="/wiki/Category:German_constitutional_law" title="Category:German constitutional law">German constitutional law</a></li><li><a href="/wiki/Category:Karlsruhe" title="Category:Karlsruhe">Karlsruhe</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Coordinates_not_on_Wikidata" title="Category:Coordinates not on Wikidata">Coordinates not on Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_German-language_text" title="Category:Articles containing German-language text">Articles containing German-language text</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_German-language_external_links" title="Category:Articles with German-language external links">Articles with German-language external links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Federal+Constitutional+Court" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Federal+Constitutional+Court" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Federal_Constitutional_Court" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Federal_Constitutional_Court" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Federal_Constitutional_Court">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Federal_Constitutional_Court" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Federal_Constitutional_Court" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Federal_Constitutional_Court&amp;oldid=916648655" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Federal_Constitutional_Court&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q56025" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Federal_Constitutional_Court&amp;id=916648655" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Federal_Constitutional_Court_of_Germany" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Federal+Constitutional+Court">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Federal+Constitutional+Court&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Federal_Constitutional_Court&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Bundesverfassungsgericht" title="Bundesverfassungsgericht – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AD%D9%83%D9%85%D8%A9_%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9" title="المحكمة الدستورية الألمانية – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Tribunal_Constitucional_d%27Alemanya" title="Tribunal Constitucional d&#039;Alemanya – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Tysklands_forfatningsdomstol" title="Tysklands forfatningsdomstol – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle" title="good article"><a href="https://de.wikipedia.org/wiki/Bundesverfassungsgericht" title="Bundesverfassungsgericht – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%93%CE%B5%CF%81%CE%BC%CE%B1%CE%BD%CE%B9%CE%BA%CF%8C_%CE%9F%CE%BC%CE%BF%CF%83%CF%80%CE%BF%CE%BD%CE%B4%CE%B9%CE%B1%CE%BA%CF%8C_%CE%A3%CF%85%CE%BD%CF%84%CE%B1%CE%B3%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CF%8C_%CE%94%CE%B9%CE%BA%CE%B1%CF%83%CF%84%CE%AE%CF%81%CE%B9%CE%BF" title="Γερμανικό Ομοσπονδιακό Συνταγματικό Δικαστήριο – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Tribunal_Constitucional_de_Alemania" title="Tribunal Constitucional de Alemania – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Federacia_Konstitucia_Kortumo_de_Germanio" title="Federacia Konstitucia Kortumo de Germanio – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Alemaniako_Konstituzio_Auzitegia" title="Alemaniako Konstituzio Auzitegia – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D8%AF%DA%AF%D8%A7%D9%87_%D9%82%D8%A7%D9%86%D9%88%D9%86_%D8%A7%D8%B3%D8%A7%D8%B3%DB%8C_%D9%81%D8%AF%D8%B1%D8%A7%D9%84_%D8%A2%D9%84%D9%85%D8%A7%D9%86" title="دادگاه قانون اساسی فدرال آلمان – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Tribunal_constitutionnel_f%C3%A9d%C3%A9ral" title="Tribunal constitutionnel fédéral – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%97%B0%EB%B0%A9%ED%97%8C%EB%B2%95%EB%B2%95%EC%9B%90" title="연방헌법법원 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Corte_costituzionale_federale_tedesca" title="Corte costituzionale federale tedesca – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%91%D7%99%D7%AA_%D7%94%D7%9E%D7%A9%D7%A4%D7%98_%D7%94%D7%97%D7%95%D7%A7%D7%AA%D7%99_%D7%94%D7%A4%D7%93%D7%A8%D7%9C%D7%99_%D7%A9%D7%9C_%D7%92%D7%A8%D7%9E%D7%A0%D7%99%D7%94" title="בית המשפט החוקתי הפדרלי של גרמניה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Bundesverfassungsgericht" title="Bundesverfassungsgericht – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Vokietijos_Konstitucinis_Teismas" title="Vokietijos Konstitucinis Teismas – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bundesverfassungsgericht" title="Bundesverfassungsgericht – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E9%80%A3%E9%82%A6%E6%86%B2%E6%B3%95%E8%A3%81%E5%88%A4%E6%89%80" title="連邦憲法裁判所 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Bundesverfassungsgericht" title="Bundesverfassungsgericht – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Federalny_Trybuna%C5%82_Konstytucyjny" title="Federalny Trybunał Konstytucyjny – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Tribunal_Constitucional_Federal_da_Alemanha" title="Tribunal Constitucional Federal da Alemanha – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D1%83%D0%B4_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8" title="Конституционный суд Германии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Bundesverfassungsgericht" title="Bundesverfassungsgericht – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B2%D0%B5%D0%B7%D0%BD%D0%B8_%D1%83%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D0%B8_%D1%81%D1%83%D0%B4_%D0%9D%D0%B5%D0%BC%D0%B0%D1%87%D0%BA%D0%B5" title="Савезни уставни суд Немачке – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Saksan_perustuslakituomioistuin" title="Saksan perustuslakituomioistuin – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Tysklands_f%C3%B6rfattningsdomstol" title="Tysklands författningsdomstol – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%8D%E0%B8%AA%E0%B8%AB%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C" title="ศาลรัฐธรรมนูญสหพันธ์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Federal_Anayasa_Mahkemesi" title="Federal Anayasa Mahkemesi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9_%D1%81%D1%83%D0%B4_%D0%9D%D1%96%D0%BC%D0%B5%D1%87%D1%87%D0%B8%D0%BD%D0%B8" title="Федеральний конституційний суд Німеччини – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/T%C3%B2a_%C3%A1n_Hi%E1%BA%BFn_ph%C3%A1p_Li%C3%AAn_bang_%C4%90%E1%BB%A9c" title="Tòa án Hiến pháp Liên bang Đức – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%BE%B7%E5%9B%BD%E8%81%94%E9%82%A6%E5%AE%AA%E6%B3%95%E6%B3%95%E9%99%A2" title="德国联邦宪法法院 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q56025#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 September 2019, at 23:07<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Federal_Constitutional_Court&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.064","walltime":"1.357","ppvisitednodes":{"value":12987,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":117358,"limit":2097152},"templateargumentsize":{"value":10542,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":14,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":54946,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00% 1106.758      1 -total"," 21.06%  233.031      1 Template:Europe_topic"," 20.66%  228.636      2 Template:Navbox"," 17.78%  196.762      1 Template:Reflist"," 17.33%  191.814     49 Template:Iso2country"," 16.27%  180.059      6 Template:Lang"," 14.91%  165.056      1 Template:Infobox_high_court"," 14.61%  161.699     13 Template:Cite_web"," 14.24%  157.554      1 Template:Infobox","  6.71%   74.311     49 Template:Iso2country/data"]},"scribunto":{"limitreport-timeusage":{"value":"0.510","limit":"10.000"},"limitreport-memusage":{"value":19667338,"limit":52428800},"limitreport-logs":"table#1 {\n}\n"},"cachereport":{"origin":"mw1254","timestamp":"20190927171527","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Federal Constitutional Court","url":"https:\/\/en.wikipedia.org\/wiki\/Federal_Constitutional_Court","sameAs":"http:\/\/www.wikidata.org\/entity\/Q56025","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q56025","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-02-25T15:51:15Z","dateModified":"2019-09-19T23:07:31Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4c\/Karlsruhe_bundesverfassungsgericht.jpg","headline":"supreme constitutional court for the Federal Republic of Germany"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":153,"wgHostname":"mw1239"});});</script>
+</body>
+</html>
+

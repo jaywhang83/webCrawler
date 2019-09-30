@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Double hyphen - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Double_hyphen","wgTitle":"Double hyphen","wgCurRevisionId":914338558,"wgRevisionId":914338558,"wgArticleId":2467483,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from June 2012","All articles needing additional references","Articles containing Japanese-language text","Commons category link is on Wikidata","Punctuation","Typographical symbols"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct",
+"Nov","Dec"],"wgRelevantPageName":"Double_hyphen","wgRelevantArticleId":2467483,"wgRequestId":"XYxd8QpAMEoAAKkwTXkAAAAQ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1242843","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":
+"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Double_hyphen"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Double_hyphen&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Double_hyphen&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Double_hyphen"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Double_hyphen rootpage-Double_hyphen skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Double hyphen</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Double_hyphen&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Double+hyphen%22">"Double hyphen"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Double+hyphen%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Double+hyphen%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Double+hyphen%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Double+hyphen%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Double+hyphen%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">June 2012</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:294px;"><a href="/wiki/File:Double_hyphen_in_Walbaum-Fraktur.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/d/df/Double_hyphen_in_Walbaum-Fraktur.png" decoding="async" width="292" height="52" class="thumbimage" data-file-width="292" data-file-height="52" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Double_hyphen_in_Walbaum-Fraktur.png" class="internal" title="Enlarge"></a></div>Double oblique hyphen in a <a href="/wiki/Fraktur_(typeface)" class="mw-redirect" title="Fraktur (typeface)">Fraktur</a> typeface</div></div></div>
+<p>The <b>double hyphen</b> (＝ or ゠) is a <a href="/wiki/Punctuation" title="Punctuation">punctuation mark</a> that consists of two parallel <a href="/wiki/Hyphen" title="Hyphen">hyphens</a>. It was a development of the earlier <span class="nowrap"><b>double oblique hyphen</b></span> (⸗) which developed from a <a href="/wiki/Central_Europe" title="Central Europe">Central European</a> variant of the <a href="/wiki/Slash_(punctuation)#History" title="Slash (punctuation)">virgule slash</a>, originally a form of <a href="/wiki/Comma_(punctuation)" class="mw-redirect" title="Comma (punctuation)">scratch comma</a>. In order to avoid its being confused with the <a href="/wiki/Equals_sign" title="Equals sign">equals sign</a> (=), the double hyphen is often given as double oblique hyphen in modern typography. The double hyphen is also not to be confused with two consecutive hyphens (-<span style="padding-left: 0.1em;">-</span>), which are often used to represent an <a href="/wiki/Em_dash" class="mw-redirect" title="Em dash">em dash</a> (&#8212;) or <a href="/wiki/Dash" title="Dash">en dash</a> (–); that practice arose due to the limitations of typewriter character sets which did not have both hyphen and dash.
+</p>
+<h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Double_hyphen&amp;action=edit&amp;section=1" title="Edit section: Usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Double_oblique_hyphen_used_in_a_Hittite_dictionary.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Double_oblique_hyphen_used_in_a_Hittite_dictionary.png/220px-Double_oblique_hyphen_used_in_a_Hittite_dictionary.png" decoding="async" width="220" height="49" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Double_oblique_hyphen_used_in_a_Hittite_dictionary.png/330px-Double_oblique_hyphen_used_in_a_Hittite_dictionary.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Double_oblique_hyphen_used_in_a_Hittite_dictionary.png/440px-Double_oblique_hyphen_used_in_a_Hittite_dictionary.png 2x" data-file-width="577" data-file-height="128" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Double_oblique_hyphen_used_in_a_Hittite_dictionary.png" class="internal" title="Enlarge"></a></div>Double oblique hyphens (besides ordinary hyphens) used in a <a href="/wiki/Hittite_language" title="Hittite language">Hittite</a> dictionary<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Double_Hyphen_in_a_work_from_Arno_Schmidt.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Double_Hyphen_in_a_work_from_Arno_Schmidt.png/220px-Double_Hyphen_in_a_work_from_Arno_Schmidt.png" decoding="async" width="220" height="40" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Double_Hyphen_in_a_work_from_Arno_Schmidt.png/330px-Double_Hyphen_in_a_work_from_Arno_Schmidt.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Double_Hyphen_in_a_work_from_Arno_Schmidt.png/440px-Double_Hyphen_in_a_work_from_Arno_Schmidt.png 2x" data-file-width="1439" data-file-height="263" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Double_Hyphen_in_a_work_from_Arno_Schmidt.png" class="internal" title="Enlarge"></a></div>Double (straight) hyphen in an edition of stories by <a href="/wiki/Arno_Schmidt" title="Arno Schmidt">Arno Schmidt</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></div></div></div>
+<p>The double hyphen is used for several different purposes throughout the world:
+</p>
+<ul><li>Some <a href="/wiki/Typeface" title="Typeface">typefaces</a>, such as <a href="/wiki/Fraktur_(typeface)" class="mw-redirect" title="Fraktur (typeface)">Fraktur</a> faces, use the double hyphen as a <a href="/wiki/Glyph" title="Glyph">glyphic</a> variant of the single hyphen. (With Fraktur faces, such a double hyphen usually is oblique.)</li>
+<li>It may be also used for artistic or commercial purposes to achieve a distinctive visual effect. For example, the name of <a href="/wiki/Waldorf%3DAstoria_Hotel" class="mw-redirect" title="Waldorf=Astoria Hotel">The Waldorf=Astoria</a> hotel was officially written with a double hyphen from 1949 to 2009.</li>
+<li>In <a href="/wiki/Merriam-Webster" title="Merriam-Webster">Merriam-Webster</a> dictionaries if a word is divided at the end of the line, and the division point happens to be a hyphen, it is replaced with a double hyphen to graphically indicate that the divided word is normally hyphenated, for example <i>cross⸗<br />country</i>.</li>
+<li>In several dictionaries published in the late nineteenth and early twentieth centuries, all such compound words are linked with double hyphens, whether at the end of the line or not, and the normal use of the single hyphen for non-compound words is retained. An example from the first or second page of such dictionaries is <i><a href="/wiki/Aaron%27s_rod" title="Aaron&#39;s rod">Aaron's⸗rod</a></i>. Examples include the <a href="/wiki/Century_Dictionary" title="Century Dictionary">Century Dictionary</a> and <a href="/wiki/Funk_%26_Wagnalls" title="Funk &amp; Wagnalls">Funk &amp; Wagnalls</a> New Standard Dictionary of the English Language.</li>
+<li>It is used as a distinct punctuation mark by <a href="/wiki/Coptic_language" title="Coptic language">Coptic language</a> and ancient Near Eastern language scholars.</li>
+<li>It is used as a distinct punctuation mark in <a href="/wiki/Ojibwe_language" title="Ojibwe language">Ojibwe language</a> publications in the Fiero Roman orthography, as a hyphen is used to separate compound preverb units regardless of their line position, while a double hyphen is used to divide a word at the end of a line and can be treated as a <a href="/wiki/Soft_hyphen" title="Soft hyphen">soft hyphen</a>. However, due to lack of availability of a double hyphen in most fonts, an equal sign is often used as a substitute.</li>
+<li>In Ojibwe, <a href="/wiki/Cree_language" title="Cree language">Cree</a> and other languages using <a href="/wiki/Unified_Canadian_syllabics" class="mw-redirect" title="Unified Canadian syllabics">Unified Canadian syllabics</a>, as final <i>c</i> ( ᐨ )—encoded as <style data-mw-deduplicate="TemplateStyles:r886047074">.mw-parser-output .smallcaps{font-variant:small-caps}</style><span class="smallcaps" style="font-size: smaller;">CANADIAN SYLLABICS FINAL SHORT HORIZONTAL STROKE</span> (U+1428)—resembles a hyphen, a double hyphen (᐀) named <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047074"/><span class="smallcaps" style="font-size: smaller;">CANADIAN SYLLABICS HYPHEN</span> (U+1400) is used to distinguish the punctuation from the syllabics letter.</li>
+<li>In <a href="/wiki/Japanese_language" title="Japanese language">Japanese</a>, the double hyphen<span style="font-weight: normal">&#32;(<span lang="ja">ダブルハイフン</span><span style="display:none">,</span>&#32;<i>daburu haifun</i>)</span> in rare cases replaces an English en dash or hyphen when writing foreign words in <a href="/wiki/Katakana" title="Katakana">katakana</a> due to their potential confusion with the <a href="/wiki/Ch%C5%8Don" class="mw-redirect" title="Chōon">prolonged sound mark</a> (<span lang="ja" title="Japanese language text">ー</span>). It may be used to separate a person's given and family names, such as transcribing the name of <a href="/wiki/Galileo_Galilei" title="Galileo Galilei">Galileo Galilei</a> as: ガリレオ＝ガリレイ.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> The <a href="/wiki/Middle_dot" class="mw-redirect" title="Middle dot">middle dot</a> (<span lang="ja" title="Japanese language text">・</span>) is however much more commonly used for these purposes. (For foreign names that include both spaces and hyphens, both the middle dot and double hyphen may appear together as in <a href="/wiki/Catherine_Zeta-Jones" title="Catherine Zeta-Jones">Catherine Zeta-Jones</a>: キャサリン・ゼタ゠ジョーンズ.) The double hyphen is part of the <a href="/wiki/JIS_X_0213" title="JIS X 0213">JIS X 0213</a> standard, but is not included in more commonly used character encodings, such as <a href="/wiki/Shift-JIS" class="mw-redirect" title="Shift-JIS">Shift-JIS</a> and <a href="/wiki/EUC-JP" class="mw-redirect" title="EUC-JP">EUC-JP</a>. For this reason, the equals sign is frequently used in its place.</li></ul>
+<h2><span class="mw-headline" id="Unicode">Unicode</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Double_hyphen&amp;action=edit&amp;section=2" title="Edit section: Unicode">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When the double hyphen is used as a functionally equivalent graphical variant of the single hyphen, it is represented in <a href="/wiki/Unicode" title="Unicode">Unicode</a> as a normal hyphen.
+</p><p>When used as a punctuation mark distinct from the single hyphen, the double hyphen is represented in Unicode by several different points.
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Name</th>
+<th>Glyph</th>
+<th>Code point</th>
+<th>Purpose
+</th></tr>
+<tr>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047074"/><span class="smallcaps" style="font-size: smaller;">CANADIAN SYLLABICS HYPHEN</span>
+</td>
+<td align="center">᐀
+</td>
+<td align="center"><code>U+1400</code>
+</td>
+<td><a href="/wiki/Canadian_Aboriginal_Syllabics" class="mw-redirect" title="Canadian Aboriginal Syllabics">Canadian Aboriginal Syllabics</a> to distinguish a hyphen from <code>U+1428</code> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047074"/><span class="smallcaps" style="font-size: smaller;">CANADIAN SYLLABICS FINAL SHORT HORIZONTAL STROKE</span> ( ᐨ )
+</td></tr>
+<tr>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047074"/><span class="smallcaps" style="font-size: smaller;">DOUBLE OBLIQUE HYPHEN</span>
+</td>
+<td align="center">⸗
+</td>
+<td align="center"><code>U+2E17</code>
+</td>
+<td>Coptic and ancient Near Eastern language scholarship
+</td></tr>
+<tr>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047074"/><span class="smallcaps" style="font-size: smaller;">DOUBLE HYPHEN</span>
+</td>
+<td align="center">⹀
+</td>
+<td align="center"><code>U+2E40</code>
+</td>
+<td>Generic (non-Asian) double hyphen
+</td></tr>
+<tr>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047074"/><span class="smallcaps" style="font-size: smaller;">KATAKANA-HIRAGANA DOUBLE HYPHEN</span>
+</td>
+<td align="center">゠
+</td>
+<td align="center"><code>U+30A0</code>
+</td>
+<td>Japanese and  orthography (in Kana or Kanji script)
+</td></tr>
+<tr>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047074"/><span class="smallcaps" style="font-size: smaller;">MODIFIER LETTER SHORT EQUALS SIGN</span>
+</td>
+<td align="center">꞊
+</td>
+<td align="center"><code>U+A78A</code>
+</td>
+<td>Used as a tone letter and also to mark clitics in <a href="/wiki/Interlinear_glossing" class="mw-redirect" title="Interlinear glossing">interlinear glossing</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Double_hyphen&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external free" href="http://www.cs.tut.fi/~jkorpela/dashes.html">http://www.cs.tut.fi/~jkorpela/dashes.html</a></li></ul>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Hans G. Güterbock, Harry A. Hoffner, Theo P. J. van den Hout: <i>The Hittite Dictionary of the Oriental Institute of the University of Chicago (CHD)</i>, volume L–N, Chicago (USA) 1989, <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-918986-58-3" title="Special:BookSources/0-918986-58-3">0-918986-58-3</a>, p. 355. – Detail of the left border of the second column.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="/wiki/Arno_Schmidt" title="Arno Schmidt">Arno Schmidt</a>: <i>Erzählungen</i>, Frankfurt am Main (Germany) 1994, <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/3-10-373505-7" title="Special:BookSources/3-10-373505-7">3-10-373505-7</a>, p. 525. – Detail of the right border of the printed text.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://dictionary.goo.ne.jp/jn/138522/meaning/m2u/%E3%83%80%E3%83%96%E3%83%AB%E3%83%8F%E3%82%A4%E3%83%95%E3%83%B3/">https://dictionary.goo.ne.jp/jn/138522/meaning/m2u/%E3%83%80%E3%83%96%E3%83%AB%E3%83%8F%E3%82%A4%E3%83%95%E3%83%B3/</a></span>
+</li>
+</ol></div>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Double_hyphens" class="extiw" title="commons:Category:Double hyphens">Double hyphens</a></b></i>.</td></tr>
+</tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1258
+Cached time: 20190925023031
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.376 seconds
+Real time usage: 0.514 seconds
+Preprocessor visited node count: 843/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 14669/2097152 bytes
+Template argument size: 1660/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6750/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.195/10.000 seconds
+Lua memory usage: 10.41 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  459.035      1 -total
+ 37.66%  172.882      2 Template:Lang
+ 23.53%  108.014      1 Template:More_citations_needed
+ 18.32%   84.073      1 Template:Ambox
+ 17.58%   80.699      2 Template:ISBN
+ 11.41%   52.372      2 Template:Catalog_lookup_link
+  9.46%   43.433      1 Template:Commonscat
+  8.03%   36.873      1 Template:Find_sources_mainspace
+  5.49%   25.184      8 Template:Sc2
+  4.02%   18.443      1 Template:Nihongo
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2467483-0!canonical and timestamp 20190925023031 and revision id 914338558
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Double_hyphen&amp;oldid=914338558">https://en.wikipedia.org/w/index.php?title=Double_hyphen&amp;oldid=914338558</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Punctuation" title="Category:Punctuation">Punctuation</a></li><li><a href="/wiki/Category:Typographical_symbols" title="Category:Typographical symbols">Typographical symbols</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2012" title="Category:Articles needing additional references from June 2012">Articles needing additional references from June 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_containing_Japanese-language_text" title="Category:Articles containing Japanese-language text">Articles containing Japanese-language text</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Double+hyphen" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Double+hyphen" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Double_hyphen" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Double_hyphen" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Double_hyphen">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Double_hyphen&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Double_hyphen&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Double_hyphen" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Double_hyphen" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Double_hyphen&amp;oldid=914338558" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Double_hyphen&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1242843" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Double_hyphen&amp;id=914338558" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Double_hyphens" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Double+hyphen">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Double+hyphen&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Double_hyphen&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Doppelbindestrich" title="Doppelbindestrich – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%94%CE%B9%CF%80%CE%BB%CF%8C_%CE%B5%CE%BD%CF%89%CF%84%CE%B9%CE%BA%CF%8C" title="Διπλό ενωτικό – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%83%8F%E3%82%A4%E3%83%95%E3%83%B3" title="ダブルハイフン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-vo"><a href="https://vo.wikipedia.org/wiki/Teilamal%C3%BCl" title="Teilamalül – Volapük" lang="vo" hreflang="vo" class="interlanguage-link-target">Volapük</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1242843#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 September 2019, at 19:09<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Double_hyphen&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.514","ppvisitednodes":{"value":843,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":14669,"limit":2097152},"templateargumentsize":{"value":1660,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6750,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  459.035      1 -total"," 37.66%  172.882      2 Template:Lang"," 23.53%  108.014      1 Template:More_citations_needed"," 18.32%   84.073      1 Template:Ambox"," 17.58%   80.699      2 Template:ISBN"," 11.41%   52.372      2 Template:Catalog_lookup_link","  9.46%   43.433      1 Template:Commonscat","  8.03%   36.873      1 Template:Find_sources_mainspace","  5.49%   25.184      8 Template:Sc2","  4.02%   18.443      1 Template:Nihongo"]},"scribunto":{"limitreport-timeusage":{"value":"0.195","limit":"10.000"},"limitreport-memusage":{"value":10920759,"limit":52428800}},"cachereport":{"origin":"mw1258","timestamp":"20190925023031","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Double hyphen","url":"https:\/\/en.wikipedia.org\/wiki\/Double_hyphen","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1242843","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1242843","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-08-16T17:00:41Z","dateModified":"2019-09-06T19:09:39Z","headline":"character"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1239"});});</script>
+</body>
+</html>
+

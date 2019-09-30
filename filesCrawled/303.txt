@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Serbian names - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Serbian_names","wgTitle":"Serbian names","wgCurRevisionId":917796213,"wgRevisionId":917796213,"wgArticleId":14647718,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1: long volume value","Articles needing additional references from August 2009","All articles needing additional references","Articles containing Serbian-language text","Articles containing Hungarian-language text","Articles containing Macedonian-language text","Articles containing Romanian-language text","CS1 errors: missing periodical","Names by culture","Serbian culture","Slavic-language names","Serbian-language names"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy",
+"wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Serbian_names","wgRelevantArticleId":14647718,"wgRequestId":"XY69@ApAAEYAAE1UVxsAAABX","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q7452919","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard",
+"ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Serbian_names"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Serbian_names&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Serbian_names&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Serbian_names"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Serbian_names rootpage-Serbian_names skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Serbian names</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Serbian_names&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Serbian+names%22">"Serbian names"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Serbian+names%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Serbian+names%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Serbian+names%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Serbian+names%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Serbian+names%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">August 2009</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Names_of_the_Serbs" class="mw-redirect" title="Names of the Serbs">Names of the Serbs</a></div>
+<p>This article features the <b>naming culture</b> of <b><a href="/wiki/Personal_name" title="Personal name">personal names</a></b> of ethnic <a href="/wiki/Serbs" title="Serbs">Serbs</a> and the <a href="/wiki/Serbian_language" title="Serbian language">Serbian language</a>. Serbian names are rendered in the "Western name order" with the <a href="/wiki/Surname" title="Surname">surname</a> placed after the <a href="/wiki/Given_name" title="Given name">given name</a>. "Eastern name order" may be used when multiple names appear in a sorted list, particularly in official notes and legal documents when the last name is capitalized (e.g. MILOVANOVIĆ Janko).
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Given_names"><span class="tocnumber">1</span> <span class="toctext">Given names</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Surnames"><span class="tocnumber">2</span> <span class="toctext">Surnames</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Sources"><span class="tocnumber">6</span> <span class="toctext">Sources</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Given_names">Given names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=1" title="Edit section: Given names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Serbian_given_names" class="mw-redirect" title="Serbian given names">Serbian given names</a></div>
+<p>As with most European cultures, a child is <a href="/wiki/Given_name" title="Given name">given a first name</a> chosen by their parents or <a href="/wiki/Godparent" title="Godparent">godparents</a>. The given name comes first, the surname last, e.g. "Željko Popović", where "Željko" is a first name and "Popović" is a family name.
+</p><p>Serbian first names largely originate from <a href="/wiki/Slavic_names" title="Slavic names">Slavic roots</a>: e.g. <a href="/wiki/Miroslav_(given_name)" title="Miroslav (given name)">Miroslav</a>, <a href="/wiki/Vladimir_(name)" title="Vladimir (name)">Vladimir</a>, <a href="/wiki/Zoran" title="Zoran">Zoran</a>, <a href="/wiki/Lubomir_(given_name)" class="mw-redirect" title="Lubomir (given name)">Ljubomir</a>, <a href="/wiki/Vesna_(name)" class="mw-redirect" title="Vesna (name)">Vesna</a>, <a href="/wiki/Radmila" title="Radmila">Radmila</a>, <a href="/wiki/Milica" title="Milica">Milica</a>, <a href="/wiki/Svetlana" title="Svetlana">Svetlana</a>, <a href="/wiki/Slavica_(disambiguation)" class="mw-redirect mw-disambig" title="Slavica (disambiguation)">Slavica</a>, <a href="/w/index.php?title=Bo%C5%BEidarka&amp;action=edit&amp;redlink=1" class="new" title="Božidarka (page does not exist)">Božidarka</a>, <a href="/wiki/Milorad" title="Milorad">Milorad</a>, <a href="/wiki/Dragan" title="Dragan">Dragan</a>, <a href="/wiki/Milan_(given_name)" title="Milan (given name)">Milan</a>, <a href="/wiki/Goran_(Slavic_name)" title="Goran (Slavic name)">Goran</a>, <a href="/wiki/Radomir_(given_name)" title="Radomir (given name)">Radomir</a>, <a href="/wiki/Vuka%C5%A1in" title="Vukašin">Vukašin</a>, <a href="/wiki/Miomir" title="Miomir">Miomir</a>, <a href="/wiki/Branimir" title="Branimir">Branimir</a>, <a href="/wiki/Budimir_(disambiguation)" class="mw-redirect mw-disambig" title="Budimir (disambiguation)">Budimir</a>; see also <a href="/wiki/Slavic_names" title="Slavic names">Slavic names</a>, or the <a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D1%81%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D1%85_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0" class="extiw" title="sr:Списак словенских имена">list of Slavic names in the Serbian Wikipedia</a>)
+</p><p>Some may be non-<a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a> but chosen to reflect <a href="/wiki/Christianity" title="Christianity">Christian</a> faith. Names of this nature may often originate from <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a> for <a href="/wiki/Bible" title="Bible">Biblical</a> reasons. Christian names include: e.g. <a href="/wiki/Nikola" title="Nikola">Nikola</a>, <a href="/wiki/Ivan_(name)" title="Ivan (name)">Ivan</a>, <a href="/wiki/Jovan" title="Jovan">Jovan</a>, <a href="/wiki/Maria_(given_name)" title="Maria (given name)">Marija</a>, <a href="/wiki/Anna_(given_name)" title="Anna (given name)">Ana</a>, Mihailo. Along similar lines of non-Slavic names among Christians, the origins for many such names are <a href="/wiki/Greeks" title="Greeks">Greek</a>: e.g. <a href="/wiki/Aleksandar" class="mw-redirect" title="Aleksandar">Aleksandar</a>, <a href="/wiki/Andrej" class="mw-redirect" title="Andrej">Andrej</a>, <a href="/wiki/Teodora" title="Teodora">Teodora</a>, <a href="/wiki/Jelena_(disambiguation)" class="mw-redirect" title="Jelena (disambiguation)">Jelena</a>, <a href="/wiki/Sophia_(name)" class="mw-redirect" title="Sophia (name)">Sofija</a>, <a href="/wiki/Katarina_(given_name)" title="Katarina (given name)">Katarina</a>, <a href="/wiki/Nikola" title="Nikola">Nikola</a>, <a href="/wiki/%C4%90or%C4%91e" title="Đorđe">Đorđe</a>, <a href="/wiki/Stefan_(given_name)" title="Stefan (given name)">Stefan</a>, <a href="/wiki/Petar" class="mw-redirect" title="Petar">Petar</a>, <a href="/wiki/Vasilije" title="Vasilije">Vasilije</a>, <a href="/wiki/Todor" title="Todor">Todor</a>. Names of <a href="/wiki/Latin" title="Latin">Latin</a> origin include: e.g. <a href="/wiki/Marko_(given_name)" title="Marko (given name)">Marko</a>, <a href="/wiki/Angela_(given_name)" title="Angela (given name)">Anđelka</a>, <a href="/wiki/Anthony_(given_name)" title="Anthony (given name)">Antonije</a>, <a href="/wiki/Paul_(name)" class="mw-redirect" title="Paul (name)">Pavle</a>, <a href="/wiki/Sr%C4%91an" title="Srđan">Srđan</a>, <a href="/wiki/Marina_(given_name)" title="Marina (given name)">Marina</a>, <a href="/wiki/Natalia_(given_name)" title="Natalia (given name)">Natalija</a>, Kornelije. Names of <a href="/wiki/Germanic_languages" title="Germanic languages">Germanic</a> origin, entering through Russian, include: e.g. <a href="/wiki/Igor_(given_name)" title="Igor (given name)">Igor</a>, <a href="/wiki/Oliver_(given_name)" title="Oliver (given name)">Oliver</a>, <a href="/wiki/Olga_(name)" title="Olga (name)">Olga</a>.
+</p><p>In Serbian naming culture, apotropaic names (<i>zaštitne ime</i>, "protective names") include <a href="/wiki/Vuk_(name)" title="Vuk (name)">Vuk</a> (and its many derivatives), <a href="/wiki/Nenad" title="Nenad">Nenad</a>, <a href="/wiki/Prodan" title="Prodan">Prodan</a>, <a href="/w/index.php?title=Sredoje&amp;action=edit&amp;redlink=1" class="new" title="Sredoje (page does not exist)">Sredoje</a>, <a href="/wiki/Stani%C5%A1a" title="Staniša">Staniša</a>, and others.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div class="mw-collapsible mw-collapsible-leftside-toggle mw-collapsed" style="box-sizing:border-box;width:100%;font-size:95%;padding:4px;border:none;"><div style="font-size:100%;line-height:1.6;font-weight:bold;background:transparent;text-align:left;;">Examples (table)</div><div class="mw-collapsible-content" style="background:transparent;text-align:left;;">
+<table class="wikitable sortable">
+
+<tbody><tr bgcolor="#ececec" align="center">
+<th><a href="/wiki/Serbian_language" title="Serbian language">Serbian</a></th>
+<th>Derivation</th>
+<th>Origin</th>
+<th>Meaning</th>
+<th><small>Related<br />(Forms)</small></th>
+<th>Female
+</th></tr>
+<tr>
+<td><a href="/wiki/Miroslav_(given_name)" title="Miroslav (given name)">Miroslav</a><br />Мирослав
+</td>
+<td>
+</td>
+<td><a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a>
+</td>
+<td>Peace and Glory
+</td>
+<td><a href="/wiki/Miros%C5%82aw_(given_name)" title="Mirosław (given name)">Mirosław</a>, Mirko
+</td>
+<td>Mira, Miroslava
+</td></tr>
+<tr>
+<td><a href="/wiki/Vladimir_(name)" title="Vladimir (name)">Vladimir</a><br />Владимир
+</td>
+<td>Владимѣръ
+</td>
+<td><a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a><br /><small><a href="/wiki/Old_Church_Slavonic" title="Old Church Slavonic">Old Church Slavonic</a></small>
+</td>
+<td>Rule in Peace
+</td>
+<td><i>Vlada</i>, <i>Vlado</i>
+</td>
+<td>Vladimira, Vlada
+</td></tr>
+<tr>
+<td><a href="/wiki/Vuka%C5%A1in" title="Vukašin">Vukašin</a><br />Вукашин
+</td>
+<td>
+</td>
+<td><a href="/wiki/Slavic_peoples" class="mw-redirect" title="Slavic peoples">Slavic</a>
+</td>
+<td>Son of the wolf, younger wolf
+</td>
+<td>Vuki, Vuk, Vule, Vučko, Vukosav
+</td>
+<td>Vuka, Vukica
+</td></tr>
+<tr>
+<td><a href="/wiki/Zoran" title="Zoran">Zoran</a><br />Зоран
+</td>
+<td>
+</td>
+<td><a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a>
+</td>
+<td>Daybreak
+</td>
+<td><i>Zoki</i>, <i>Zoća</i>
+</td>
+<td>Zora, Zorana, Zorica
+</td></tr>
+<tr>
+<td><a href="/wiki/Goran_(Slavic_name)" title="Goran (Slavic name)">Goran</a><br />Горан
+</td>
+<td>
+</td>
+<td><a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a>
+</td>
+<td>Woodsman, Highlander<br />"The tall one"
+</td>
+<td>
+</td>
+<td>Gora, Gorana, Gorica, Goga, Gorjanka
+</td></tr>
+<tr>
+<td><a href="/wiki/Aleksandar" class="mw-redirect" title="Aleksandar">Aleksandar</a><br />Александар
+</td>
+<td>Aléxandros<br />Αλέξανδρος
+</td>
+<td><a href="/wiki/Greek_language" title="Greek language">Greek</a>
+</td>
+<td>Protector of Man
+</td>
+<td>Aleksa, <i>Saša</i>, <i>Sale</i>
+</td>
+<td>Aleksandra, Saša, Saška
+</td></tr>
+<tr>
+<td><a href="/wiki/John_(given_name)" title="John (given name)">Jovan</a><br />Jован
+</td>
+<td>Ioannis<br />Ιωάννης
+</td>
+<td><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a><br /><small>(Biblical)</small>
+</td>
+<td>God is gracious
+</td>
+<td><a href="/wiki/Ivan_(name)" title="Ivan (name)">Ivan</a><br />Jovo, Jovica, Joca, Jole
+</td>
+<td>Jovana, Ivana, Ivanka, Iva
+</td></tr>
+<tr>
+<td><a href="/wiki/Marko_(given_name)" title="Marko (given name)">Marko</a><br />Марко
+</td>
+<td><a href="/wiki/Marcus_(name)" title="Marcus (name)">Marcus</a>
+</td>
+<td><a href="/wiki/Latin" title="Latin">Latin</a>
+</td>
+<td>
+</td>
+<td>Maki, Mare
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/Nikola" title="Nikola">Nikola</a><br />Никола
+</td>
+<td><a href="/wiki/Nikolaos" title="Nikolaos">Nikolaos</a><br />Νικόλαος
+</td>
+<td><a href="/wiki/Greek_language" title="Greek language">Greek</a>
+</td>
+<td>Victory of the people
+</td>
+<td><i>Nidža</i>, Niko
+</td>
+<td>Nikoleta, Nikolina
+</td></tr>
+<tr>
+<td><a href="/wiki/%C4%90or%C4%91e" title="Đorđe">Đorđe</a><br />Ђopђe
+</td>
+<td><a href="/wiki/Georgios" title="Georgios">Georgios</a><br />Γεώργιος
+</td>
+<td><a href="/wiki/Greek_language" title="Greek language">Greek</a>
+</td>
+<td>Farmer
+</td>
+<td><a href="/wiki/%C4%90ura%C4%91_(disambiguation)" class="mw-redirect" title="Đurađ (disambiguation)">Đurađ</a><br /><i>Đuro</i>, <i>Đole</i>, <i>Đoka</i>, Đorđa, Đorđo
+</td>
+<td>Đorđica, Đurđica, Đurđina
+</td></tr>
+<tr>
+<td><a href="/wiki/Mihajlo" title="Mihajlo">Mihajlo</a><br />Михајло
+</td>
+<td><a href="/wiki/Mikha%27el" class="mw-redirect" title="Mikha&#39;el">Mikha'el</a><br />מִיכָאֵל
+</td>
+<td><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a><br /><small>(Biblical)</small>
+</td>
+<td>"He who is like God"
+</td>
+<td>Mika, Miki, <i>Miha</i>
+</td>
+<td>
+</td></tr>
+</tbody></table>
+</div></div>
+<h2><span class="mw-headline" id="Surnames">Surnames</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=2" title="Edit section: Surnames">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most <b>Serbian surnames</b> have the surname <a href="/wiki/Suffix" title="Suffix">suffix</a> <i lang="sr-Latn" title="Serbian language text"><a href="/wiki/-i%C4%87" class="mw-redirect" title="-ić">-ić</a></i> (<a href="/wiki/Serbian_Cyrillic_alphabet" title="Serbian Cyrillic alphabet">Serbian Cyrillic</a>: <span lang="sr-Cyrl" title="Serbian language text">-ић</span>) (<small></small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Serbo-Croatian" title="Help:IPA/Serbo-Croatian">[itɕ]</a></span>). This can sometimes further be transcribed as <i>-ic</i>, but in history, Serbian names have often been transcribed with a phonetic ending, <i>-ich</i> or <i>-itch</i>.
+</p><p>This form is often associated with <a href="/wiki/Serbs" title="Serbs">Serbs</a> from before the early 20th century: hence <a href="/wiki/Milutin_Milankovi%C4%87" title="Milutin Milanković">Milutin Milanković</a> is usually referred to, for historical reasons, as Milutin Milankovitch, and <a href="/wiki/Mileva_Mari%C4%87" title="Mileva Marić">Mileva Marić</a>, born in <a href="/wiki/Vojvodina" title="Vojvodina">Vojvodina</a> (then a part of Hungary) has sometimes been rendered as Marity (e.g. in the claim of "Einstein-Marity" theory).
+</p><p>The <i lang="sr-Latn" title="Serbian language text">-ić</i> suffix is a <a href="/wiki/Slavic_languages" title="Slavic languages">Slavic</a> <a href="/wiki/Diminutive" title="Diminutive">diminutive</a>, originally functioning to create <a href="/wiki/Patronymic" title="Patronymic">patronymics</a>. Thus the surname <a href="/wiki/Petrovi%C4%87" title="Petrović">Petrović</a> means the little son of Petar (Petrić signifies the little son of Petra, the widow).
+</p><p>Most Serbian surnames are paternal (father), maternal (mother), occupational, or derived from personal traits.
+</p><p>Other common surname suffixes are <i lang="sr-Latn" title="Serbian language text">-ov</i> (<span lang="sr-Cyrl" title="Serbian language text">-ов</span>), <i lang="sr-Latn" title="Serbian language text">-ev</i> (<span lang="sr-Cyrl" title="Serbian language text">-ев</span>), <i lang="sr-Latn" title="Serbian language text">-in</i> (<span lang="sr-Cyrl" title="Serbian language text">-ин</span>) and <i lang="sr-Latn" title="Serbian language text">-ski</i> (<span lang="sr-Cyrl" title="Serbian language text">-ски</span>; also <i lang="sr-Latn" title="Serbian language text">-cki</i>(<span lang="sr-Cyrl" title="Serbian language text">-цки</span>)/<i lang="sr-Latn" title="Serbian language text">čki</i>(<span lang="sr-Cyrl" title="Serbian language text">чки</span>)/<i lang="sr-Latn" title="Serbian language text">ški</i>(<span lang="sr-Cyrl" title="Serbian language text">шки</span>)) which is the Slavic <a href="/wiki/Genitive_case" title="Genitive case">possessive case</a> suffix, thus Nikola's son becomes Nikolin, Petar's son Petrov, and Jovan's son Jovanov. The two suffixes are often combined, most commonly as <i lang="sr-Latn" title="Serbian language text">-ović</i> (<span lang="sr-Cyrl" title="Serbian language text">-овић</span>). Other, less common suffices are <i lang="sr-Latn" title="Serbian language text">-alj</i>(<span lang="sr-Cyrl" title="Serbian language text">-аљ</span>)/<i lang="sr-Latn" title="Serbian language text">olj</i>(<span lang="sr-Cyrl" title="Serbian language text">ољ</span>)/<i lang="sr-Latn" title="Serbian language text">elj</i>(<span lang="sr-Cyrl" title="Serbian language text">ељ</span>), <i lang="sr-Latn" title="Serbian language text">-ija</i> (<span lang="sr-Cyrl" title="Serbian language text">-ија</span>), <i lang="sr-Latn" title="Serbian language text">-ica</i> (<span lang="sr-Cyrl" title="Serbian language text">-ица</span>), <i lang="sr-Latn" title="Serbian language text">-ar</i>(<span lang="sr-Cyrl" title="Serbian language text">-ар</span>)/<i lang="sr-Latn" title="Serbian language text">ac</i>(<span lang="sr-Cyrl" title="Serbian language text">ац</span>)/<i lang="sr-Latn" title="Serbian language text">an</i>(<span lang="sr-Cyrl" title="Serbian language text">ан</span>).
+</p><p>When marrying, the woman most often adopts her husband's family name, though she can also keep both of her last names or not change her last name at all.
+</p><p>It is estimated that some two thirds of all Serbian surnames end in <i lang="sr-Latn" title="Serbian language text">-ić</i>. The ten most common surnames in <a href="/wiki/Serbia" title="Serbia">Serbia</a>, in order, are <a href="/wiki/Jovanovi%C4%87" title="Jovanović">Jovanović</a>, <a href="/wiki/Petrovi%C4%87" title="Petrović">Petrović</a>, <a href="/wiki/Nikoli%C4%87" title="Nikolić">Nikolić</a>, <a href="/wiki/Markovi%C4%87" title="Marković">Marković</a>, <a href="/wiki/%C4%90or%C4%91evi%C4%87" title="Đorđević">Đorđević</a>, <a href="/wiki/Stojanovi%C4%87" title="Stojanović">Stojanović</a>, <a href="/wiki/Ili%C4%87" title="Ilić">Ilić</a>, <a href="/wiki/Stankovi%C4%87" title="Stanković">Stanković</a>, <a href="/wiki/Pavlovi%C4%87" title="Pavlović">Pavlović</a> and <a href="/wiki/Milo%C5%A1evi%C4%87" class="mw-redirect" title="Milošević">Milošević</a>.<sup id="cite_ref-Politika_2-0" class="reference"><a href="#cite_note-Politika-2">&#91;2&#93;</a></sup>
+</p><p>Outside Serbian countries, Slavic suffixes have been transliterated. <a href="/wiki/Serbs_in_Hungary" title="Serbs in Hungary">Serbs in Hungary</a> have the endings <i lang="hu" title="Hungarian language text">-ity</i>, <i lang="hu" title="Hungarian language text">-ics</i> <i lang="hu" title="Hungarian language text">-its</i>, <a href="/wiki/Serbs_in_North_Macedonia" class="mw-redirect" title="Serbs in North Macedonia">Serbs in North Macedonia</a> <i lang="mk-Latn" title="Macedonian-language romanization">-ikj</i> (or <i lang="mk-Latn" title="Macedonian-language romanization">iḱ</i>; <a href="/wiki/Macedonian_language" title="Macedonian language">Macedonian</a>: <span lang="mk" title="Macedonian language text">иќ</span>), and <a href="/wiki/Serbs_in_Romania" class="mw-redirect" title="Serbs in Romania">Serbs in Romania</a> <i lang="ro" title="Romanian language text">-ici</i>.
+</p><p>Although far less common than patronymic surnames, matronymic surnames are widespread both in Serbia and in neighboring countries where Serbs live. Examples include surnames such as Katić, Sinđelić, Nedić, Marić, Višnjić, Janjić, Sarić, Miličić, Milenić, Natalić, Zorić, Smiljić, Anđelić and many others. Sometimes it is difficult to ascertain if the name of a specific family is patronymic or matronymic considering many Serbian names have both male and female version (for example, surname Miljanić could come from both m.- Miljan and f.- Miljana). Cases where widows had to become heads of households were not uncommon during 18th and 19th century and when surnames were first standardized in Serbia in 1851 it was decided they would be based on the names of eldest living heads of households which in some cases were women. People who did not know their father well would also often take matronymic surnames, with a notable case being the hero of the First Serbian Uprising Stevan Sinđelić, who took that surname in honor of his mother Sinđelija.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=3" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The names of early Serbian rulers like <a href="/wiki/Mutimir" class="mw-redirect" title="Mutimir">Mutimir</a> are <a href="/wiki/Slavic_dithematic_names" class="mw-redirect" title="Slavic dithematic names">Slavic dithematic names</a>, as per Old Slavic tradition, until the 9th century and Christianization after which Christian names appear.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p><a href="/wiki/Demetrios_Chomatenos" title="Demetrios Chomatenos">Demetrios Chomatenos</a> (<a href="/wiki/Archbishop_of_Ohrid" title="Archbishop of Ohrid">Archbishop of Ohrid</a> from 1216 to 1236) registered the naming culture of the <a href="/wiki/South_Slavs" title="South Slavs">South Slavs</a> in <a href="/wiki/Byzantine_lands" class="mw-redirect" title="Byzantine lands">Byzantine lands</a>. In the 11th and 12th century, family names became more common and stable in Byzantium, adapted by the majority of people in <a href="/wiki/Macedonia_(region)#Medieval_Macedonia" title="Macedonia (region)">Byzantine Macedonia</a>, <a href="/wiki/Epirus" title="Epirus">Epirus</a> and other regions (including women, sometimes even monks), not only aristocrats. The South Slavs, however, maintained the tradition of only giving a personal name, sometimes with a <a href="/wiki/Patronymic" title="Patronymic">Patronymic</a>. There are only 2 cases of family names used by South Slavs during this time; Bogdanopoulos and Serbopoulos, both Serbian names with the Greek suffix -opoulos (όπουλος, originating in <a href="/wiki/Peloponnese" title="Peloponnese">Peloponnese</a> in the 10th century)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>. Patronymics ending on -ić, on the other hand, seem to have been the norm by late 14th and early 15th century because nearly all letters of correspondence between Dubrovnik and Serbia and Bosnia from that period contain them. In that same period proper family names of Slavic origin, not just patronymics, appear in Dubrovnik and soon in Hum and then in Serbia and Bosnia where during 15th-century nobles start using proper surnames. However this never became common among ordinary people and since nobility of Serbia and Bosnia was mostly wiped out by 16th century, only their remnants in Venice, Hungary and later Habsburg monarchy as well as some members of high clergy used standard surnames during following centuries. Due to general lack of safety clans started to form in regions of Montenegro and Herzegovina from 15th century onwards. These clans were territorially based but each was subdivided into fraternities so some people used names of these fraternities as a surname in those regions but only when speaking to outsiders and more as a toponymic rather than proper surname.
+</p><p>In older naming convention which was common in Serbia up until the mid 19th century a person's name would consist of three distinct parts: the person's given name, the patronymic derived from father's personal name, and the family or fraternity name, as seen in for example in the name of language reformer Vuk Stefanović Karadžić. However, use of this convention depended on a person's education and interest in his ancestry. Most ordinary people were still referred to mostly by their given name and sometimes with a patronymic, profession or toponymic. Serbian surnames as used today were first standardized in Principality of Serbia during 1851 and on the census of 1854, the population was recorded by their fixed surnames for the first time. Surnames were mostly formed as patronymics (or in some cases matronymics) derived from names of at the time eldest living heads of households rather than distant ancestors, though there were exceptions. In most cases, such patronymics were already in use so they were simply "frozen" and turned into surnames that carried on into future generations. This swift introduction of surnames is one of the reasons why, in comparison to other regions where Serbs live, there is less variation in forms of surnames within central Serbia, where vast majority of surnames ends with suffixes -ović (in patronymic surnames) and -ić (can be used both for patronymic and for matronymic surnames).
+</p><p>Among Serbs that lived across the rivers Drina, Sava and Danube, in addition to surnames with these most common suffixes there were many surnames based on professions, nicknames, toponymics, traits, etc. In case of what was then Southern Hungary, Serb suffixes were often intentionally changed by Austro-Hungarian administrators from -ović, -ević and -ić into -ov, -ev, -in and -ski which in their mind sounded less typically Serbian. This process started around 1817 but was particularly intensified after 1860/61 when Duchy of Serbia and Tamiš Banate was abolished and 1867 when Habsburg monarchy was reformed into Austro-Hungary. By 1900s it had only moderate success and it never achieved its true goal of culturally separating Vojvodina Serbs from their brethren to the south. In some regions with Serbian majority which were only liberated during wars of 1912–1918, standardized surnames were finally introduced with the creation of Kingdom of Serbs, Croats and Slovenes and recorded for the first time during population census of 1921.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Serbs" title="Category:Serbs">a series</a> of articles on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size: 200%;"><a href="/wiki/Serbs" title="Serbs">Serbs</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Serbian_Cross.svg" class="image"><img alt="Serbian Cross.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Serbian_Cross.svg/70px-Serbian_Cross.svg.png" decoding="async" width="70" height="93" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Serbian_Cross.svg/105px-Serbian_Cross.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Serbian_Cross.svg/140px-Serbian_Cross.svg.png 2x" data-file-width="451" data-file-height="600" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;">Native communities</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><b><a href="/wiki/Serbia" title="Serbia">Serbia</a></b>
+<ul><li><b><a href="/wiki/Kosovo_Serbs" title="Kosovo Serbs">Kosovo and Metohija</a></b></li>
+<li><b><a href="/wiki/Serbs_of_Vojvodina" class="mw-redirect" title="Serbs of Vojvodina">Vojvodina</a></b></li></ul></li>
+<li><b><a href="/wiki/Serbs_of_Bosnia_and_Herzegovina" title="Serbs of Bosnia and Herzegovina">Bosnia and Herzegovina</a></b></li>
+<li><b><a href="/wiki/Serbs_of_Montenegro" title="Serbs of Montenegro">Montenegro</a></b></li>
+<li><b><a href="/wiki/Serbs_of_Croatia" title="Serbs of Croatia">Croatia</a></b></li>
+<li><b><a href="/wiki/Serbs_in_the_Republic_of_Macedonia" class="mw-redirect" title="Serbs in the Republic of Macedonia">Macedonia</a></b><br /></li>
+<li><a href="/wiki/Serbs_of_Romania" title="Serbs of Romania">Romania</a></li>
+<li><a href="/wiki/Serbs_in_Hungary" title="Serbs in Hungary">Hungary</a></li>
+<li><a href="/wiki/Serbs_in_Albania" class="mw-redirect" title="Serbs in Albania">Albania</a></li>
+<li><a href="/wiki/Serbs_in_Bulgaria" title="Serbs in Bulgaria">Bulgaria</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;"><a href="/wiki/Serb_diaspora" title="Serb diaspora">Diaspora</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><i>Europe</i>
+<ul><li><a href="/wiki/Serbs_in_Germany" title="Serbs in Germany">Germany</a></li>
+<li><a href="/wiki/Serbs_in_Austria" title="Serbs in Austria">Austria</a></li>
+<li><a href="/wiki/Immigration_from_the_former_Yugoslavia_to_Switzerland" title="Immigration from the former Yugoslavia to Switzerland">Switzerland</a></li>
+<li><a href="/wiki/Serbs_in_France" title="Serbs in France">France</a></li>
+<li><a href="/wiki/Serbian_Luxembourger" class="mw-redirect" title="Serbian Luxembourger">Luxembourg</a></li>
+<li><a href="/wiki/Serbs_in_Sweden" class="mw-redirect" title="Serbs in Sweden">Sweden</a></li>
+<li><a href="/wiki/Serbs_in_the_United_Kingdom" title="Serbs in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Serbs_in_Italy" title="Serbs in Italy">Italy</a></li>
+<li><a href="/wiki/Serbs_in_Slovenia" title="Serbs in Slovenia">Slovenia</a></li>
+<li><a href="/wiki/Serbian_Russians" class="mw-redirect" title="Serbian Russians">Russia</a></li>
+<li><a href="/wiki/Serbs_in_Greece" title="Serbs in Greece">Greece</a></li>
+<li><a href="/wiki/Serbs_in_Norway" title="Serbs in Norway">Norway</a></li>
+<li><a href="/wiki/Spanish_Serbs" class="mw-redirect" title="Spanish Serbs">Spain</a></li>
+<li><a href="/wiki/Serbs_of_Slovakia" title="Serbs of Slovakia">Slovakia</a></li>
+<li><a href="/wiki/Ukrainian_Serbs" class="mw-redirect" title="Ukrainian Serbs">Ukraine</a></li></ul>
+<p><i>Overseas</i>
+</p>
+<ul><li><a href="/wiki/Serbian_American" class="mw-redirect" title="Serbian American">United States</a></li>
+<li><a href="/wiki/Serbian_Canadians" title="Serbian Canadians">Canada</a></li>
+<li><a href="/wiki/Serbian_Australian" class="mw-redirect" title="Serbian Australian">Australia</a></li>
+<li><a href="/wiki/Serbian_New_Zealander" class="mw-redirect" title="Serbian New Zealander">New Zealand</a></li>
+<li><a href="/wiki/Serbian_Argentine" class="mw-redirect" title="Serbian Argentine">Argentina</a></li>
+<li><a href="/wiki/Serbian_Brazilian" title="Serbian Brazilian">Brazil</a></li>
+<li><a href="/wiki/Serbian_Venezuelan" class="mw-redirect" title="Serbian Venezuelan">Venezuela</a></li>
+<li><a href="/wiki/Serbian_South_African" class="mw-redirect" title="Serbian South African">South Africa</a></li>
+<li><a href="/wiki/Serbs_in_Botswana" title="Serbs in Botswana">Botswana</a></li>
+<li><a href="/wiki/Turkish_Serbs" class="mw-redirect" title="Turkish Serbs">Turkey</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;"><a href="/wiki/Serbian_culture" title="Serbian culture">Culture</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Symbols_of_Serbia" class="mw-redirect" title="Symbols of Serbia">Symbols</a></li></ul>
+<ul><li><a href="/wiki/Serbian_Orthodox_Church" title="Serbian Orthodox Church">Religion</a>
+<ul><li><a href="/wiki/Slava" title="Slava">Slava</a></li>
+<li><a href="/wiki/Serbian_Christmas_traditions" title="Serbian Christmas traditions">Christmas traditions</a></li></ul></li></ul>
+<ul><li><a href="/wiki/Cultural_Property_of_Great_Importance" class="mw-redirect" title="Cultural Property of Great Importance">Cultural Heritage sites</a></li>
+<li><a href="/wiki/Architecture_of_Serbia" title="Architecture of Serbia">Architecture</a></li></ul>
+<ul><li><a href="/wiki/Serbian_art" title="Serbian art">Art</a></li>
+<li><a href="/wiki/Serbian_literature" title="Serbian literature">Literature</a>
+<ul><li><a href="/wiki/Serbian_epic_poetry" title="Serbian epic poetry">Epic poetry</a></li></ul></li></ul>
+<ul><li><a href="/wiki/Music_of_Serbia" title="Music of Serbia">Music</a></li>
+<li><a href="/wiki/Cinema_of_Serbia" title="Cinema of Serbia">Cinema</a></li></ul>
+<ul><li><a href="/wiki/Serbian_dress" class="mw-redirect" title="Serbian dress">Costume</a></li>
+<li><a href="/wiki/Serbian_dances" title="Serbian dances">Dances</a></li>
+<li><a href="/wiki/Serbian_cuisine" title="Serbian cuisine">Cuisine</a></li>
+<li><a href="/wiki/Serbian_kinship" class="mw-redirect" title="Serbian kinship">Kinship</a></li></ul>
+<ul><li><a href="/wiki/Sport_in_Serbia" title="Sport in Serbia">Sport</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;"><a href="/wiki/History_of_the_Serbs" title="History of the Serbs">History</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Names_of_the_Serbs" class="mw-redirect" title="Names of the Serbs">Name</a></li>
+<li><a href="/wiki/History_of_the_Serbs" title="History of the Serbs">History of Serbs</a></li>
+<li><a href="/wiki/History_of_Serbia" title="History of Serbia">History of Serbia</a></li>
+<li><a href="/wiki/Serbian_lands" class="mw-redirect" title="Serbian lands">Serbian lands</a></li>
+<li><a href="/wiki/List_of_Serbian_monarchs" title="List of Serbian monarchs">Serbian rulers</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;"><a href="/wiki/Serbian_language" title="Serbian language">Language</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Serbian_language" title="Serbian language">Serbian</a></li></ul>
+<ul><li><a href="/wiki/Shtokavian_dialect" class="mw-redirect" title="Shtokavian dialect">Shtokavian</a></li>
+<li><a href="/wiki/Torlakian_dialect" title="Torlakian dialect">Torlakian</a></li>
+<li><a href="/wiki/Church_Slavonic_language" title="Church Slavonic language">Church Slavonic</a>
+<ul><li><a href="/wiki/Old_Church_Slavonic" title="Old Church Slavonic">Old</a></li></ul></li></ul>
+<ul><li><a href="/wiki/Serbo-Croatian" title="Serbo-Croatian">Serbo-Croat</a></li>
+<li><a href="/wiki/South_Slavic_languages" title="South Slavic languages">South Slavic</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-top:1px solid #aaa;">Related groups</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Bosniaks" title="Bosniaks">Bosniaks</a></li>
+<li><a href="/wiki/Croats" title="Croats">Croats</a></li>
+<li><a href="/wiki/Macedonians_(ethnic_group)" title="Macedonians (ethnic group)">Macedonians</a></li>
+<li><a href="/wiki/Montenegrins" title="Montenegrins">Montenegrins</a></li></ul></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Serbs" title="Template:Serbs"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Serbs" title="Template talk:Serbs"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Serbs&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<ul><li><a href="/wiki/Serbian-language_given_names" title="Serbian-language given names">Serbian-language given names</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic names</a></li>
+<li><a href="/wiki/Slavic_surnames" class="mw-redirect" title="Slavic surnames">Slavic surnames</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
+<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Surname</a>
+<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
+<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
+<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
+<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
+<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
+<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
+<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
+<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
+<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
+<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
+<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
+<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
+<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
+<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
+<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
+<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
+<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
+<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
+<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
+<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
+<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
+<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
+<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
+<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
+<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
+<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
+<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
+<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
+<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
+<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
+<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
+<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
+<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
+<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
+<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
+<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
+<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
+<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
+<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
+<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
+<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
+<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
+<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
+<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
+<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
+<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
+<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
+<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
+<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
+<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
+<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
+<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
+<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
+<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
+<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
+<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
+<li><a href="/wiki/English_name" title="English name">English</a></li>
+<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
+<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
+<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
+<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
+<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
+<li><a href="/wiki/French_name" title="French name">French</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
+<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
+<li><a href="/wiki/German_name" title="German name">German</a></li>
+<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
+<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
+<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
+<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
+<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
+<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
+<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
+<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
+<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
+<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
+<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
+<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
+<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
+<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
+<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
+<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
+<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
+<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
+<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
+<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
+<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
+<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
+<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
+<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
+<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
+<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
+<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
+<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
+<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
+<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
+<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
+<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
+<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
+<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
+<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
+<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
+<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
+<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
+<li><a class="mw-selflink selflink">Serbian</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
+<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
+<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
+<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
+<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
+<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
+<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
+<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
+<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
+<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
+<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
+<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
+<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
+<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
+<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
+<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
+<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
+<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
+<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
+<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
+<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
+<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
+<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
+<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
+<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
+<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
+<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
+<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
+<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award_or_decoration" title="Award or decoration">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
+<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
+<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
+<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
+<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
+<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
+<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
+<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
+<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
+<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
+<li><a href="/wiki/Name_day" title="Name day">Name day</a>
+<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
+<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
+<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
+<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
+<li><a href="/wiki/Family" title="Family">Family</a></li>
+<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
+<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
+<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
+<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
+<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
+<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
+<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
+<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
+<li><a href="/wiki/Signature" title="Signature">Signature</a>
+<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
+<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
+<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
+<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
+</div></td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Grković, Milica (1977). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=1D9CAQAAIAAJ"><i>Rečnik ličnih imena kod Srba</i></a>. Belgrade: Vuk Karadžić.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Re%C4%8Dnik+li%C4%8Dnih+imena+kod+Srba&amp;rft.place=Belgrade&amp;rft.pub=Vuk+Karad%C5%BEi%C4%87&amp;rft.date=1977&amp;rft.aulast=Grkovi%C4%87&amp;rft.aufirst=Milica&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D1D9CAQAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Politika-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Politika_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.politika.rs/rubrike/Drustvo/U-Srbiji-najvise-Jovanovica-Petrovica-i-Nikolica.lt.html">http://www.politika.rs/rubrike/Drustvo/U-Srbiji-najvise-Jovanovica-Petrovica-i-Nikolica.lt.html</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">SANU (1995). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=CLcrAQAAIAAJ"><i>Glas</i></a>. 377-381. Srpska akademija nauka i umetnosti. p.&#160;37.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Glas&amp;rft.pages=37&amp;rft.pub=Srpska+akademija+nauka+i+umetnosti&amp;rft.date=1995&amp;rft.au=SANU&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DCLcrAQAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://en.scientificcommons.org/41510473">http://en.scientificcommons.org/41510473</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Serbian_names&amp;action=edit&amp;section=6" title="Edit section: Sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dt>Books</dt></dl>
+<ul><li><cite id="CITEREFGrković1977" class="citation book">Grković, Milica (1977). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=1D9CAQAAIAAJ"><i>Rečnik ličnih imena kod Srba</i></a>. Belgrade: Vuk Karadžić.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Re%C4%8Dnik+li%C4%8Dnih+imena+kod+Srba&amp;rft.place=Belgrade&amp;rft.pub=Vuk+Karad%C5%BEi%C4%87&amp;rft.date=1977&amp;rft.aulast=Grkovi%C4%87&amp;rft.aufirst=Milica&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D1D9CAQAAIAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Jovičević, Radojica (1985). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Fc0cAAAAMAAJ"><i>Lična imena u staroslovenskom jeziku</i></a>. Filološki fakultet Beogradskog Univerziteta.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Li%C4%8Dna+imena+u+staroslovenskom+jeziku&amp;rft.pub=Filolo%C5%A1ki+fakultet+Beogradskog+Univerziteta&amp;rft.date=1985&amp;rft.aulast=Jovi%C4%8Devi%C4%87&amp;rft.aufirst=Radojica&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DFc0cAAAAMAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Stojanović, Katarina (2007). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=oIDhGAAACAAJ"><i>Srpska imena: narodna i hrišćanska</i></a>. Gramatik. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-86-84421-51-9" title="Special:BookSources/978-86-84421-51-9"><bdi>978-86-84421-51-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Srpska+imena%3A+narodna+i+hri%C5%A1%C4%87anska&amp;rft.pub=Gramatik&amp;rft.date=2007&amp;rft.isbn=978-86-84421-51-9&amp;rft.aulast=Stojanovi%C4%87&amp;rft.aufirst=Katarina&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DoIDhGAAACAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Janjatović, Đorđe (1993). <i>Презимена Срба у Босни</i>. Sombor: Prosveta-Trgovina.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D0%A1%D1%80%D0%B1%D0%B0+%D1%83+%D0%91%D0%BE%D1%81%D0%BD%D0%B8&amp;rft.place=Sombor&amp;rft.pub=Prosveta-Trgovina&amp;rft.date=1993&amp;rft.aulast=Janjatovi%C4%87&amp;rft.aufirst=%C4%90or%C4%91e&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Milićević, Risto (2005). <i>Hercegovačka prezimena</i>. Belgrade.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Hercegova%C4%8Dka+prezimena&amp;rft.place=Belgrade&amp;rft.date=2005&amp;rft.aulast=Mili%C4%87evi%C4%87&amp;rft.aufirst=Risto&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Vuković, Gordana; Nedeljkov, Ljiljana (1983). <i>Речник презимена шајкашке (XVIII и XIX vek)</i>. Novi Sad: Филозофски факултет.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%D0%A0%D0%B5%D1%87%D0%BD%D0%B8%D0%BA+%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D1%88%D0%B0%D1%98%D0%BA%D0%B0%D1%88%D0%BA%D0%B5+%28XVIII+%D0%B8+XIX+vek%29&amp;rft.place=Novi+Sad&amp;rft.pub=%D0%A4%D0%B8%D0%BB%D0%BE%D0%B7%D0%BE%D1%84%D1%81%D0%BA%D0%B8+%D1%84%D0%B0%D0%BA%D1%83%D0%BB%D1%82%D0%B5%D1%82&amp;rft.date=1983&amp;rft.aulast=Vukovi%C4%87&amp;rft.aufirst=Gordana&amp;rft.au=Nedeljkov%2C+Ljiljana&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Mihajlović, Velimir (2002). <i>Српски презименик</i>. Novi Sad: Аурора.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B8+%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D0%BA&amp;rft.place=Novi+Sad&amp;rft.pub=%D0%90%D1%83%D1%80%D0%BE%D1%80%D0%B0&amp;rft.date=2002&amp;rft.aulast=Mihajlovi%C4%87&amp;rft.aufirst=Velimir&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Šimunović, Petar (1985). <i>Naša prezimena</i>. Zagreb: Matica hrvatska.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Na%C5%A1a+prezimena&amp;rft.place=Zagreb&amp;rft.pub=Matica+hrvatska&amp;rft.date=1985&amp;rft.aulast=%C5%A0imunovi%C4%87&amp;rft.aufirst=Petar&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<dl><dt>Journals</dt></dl>
+<ul><li><cite class="citation journal">Vukanović, Tatomir (1940).  Drobnjaković, Borivoje (ed.). <a rel="nofollow" class="external text" href="http://etnografskimuzej.rs/wp-content/uploads/2014/01/Glasnik-Etnografskog-muzeja-u-Beogradu-knjiga-15-godina-19401.pdf">"Lična imena kod Srba"</a> <span class="cs1-format">(PDF)</span>. <i>Гласник Етнографског музеја у Београду</i>. Етнографски музеј у Београду. <b>15</b>: 56–75.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=%D0%93%D0%BB%D0%B0%D1%81%D0%BD%D0%B8%D0%BA+%D0%95%D1%82%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%81%D0%BA%D0%BE%D0%B3+%D0%BC%D1%83%D0%B7%D0%B5%D1%98%D0%B0+%D1%83+%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D1%83&amp;rft.atitle=Li%C4%8Dna+imena+kod+Srba&amp;rft.volume=15&amp;rft.pages=56-75&amp;rft.date=1940&amp;rft.aulast=Vukanovi%C4%87&amp;rft.aufirst=Tatomir&amp;rft_id=http%3A%2F%2Fetnografskimuzej.rs%2Fwp-content%2Fuploads%2F2014%2F01%2FGlasnik-Etnografskog-muzeja-u-Beogradu-knjiga-15-godina-19401.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation journal">Zujić, Krunoslav (1995). "Prezimena i porodični nadimci u Imotskoj krajini". <i>Imotski zbornik</i>. <b>3</b>: 45–133.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Imotski+zbornik&amp;rft.atitle=Prezimena+i+porodi%C4%8Dni+nadimci+u+Imotskoj+krajini&amp;rft.volume=3&amp;rft.pages=45-133&amp;rft.date=1995&amp;rft.aulast=Zuji%C4%87&amp;rft.aufirst=Krunoslav&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<dl><dt>Other</dt></dl>
+<ul><li><cite class="citation journal">Republic of Serbia (2012) [2011]. <a rel="nofollow" class="external text" href="http://pod2.stat.gov.rs/ObjavljenePublikacije/Popis2011/Najcesca%20imena%20i%20pezimena.pdf">"Најчешћа имена и презимена у Србији"</a> <span class="cs1-format">(PDF)</span>. Republic of Serbia.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=%D0%9D%D0%B0%D1%98%D1%87%D0%B5%D1%88%D1%9B%D0%B0+%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D0%B8+%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D1%83+%D0%A1%D1%80%D0%B1%D0%B8%D1%98%D0%B8&amp;rft.date=2012&amp;rft.au=Republic+of+Serbia&amp;rft_id=http%3A%2F%2Fpod2.stat.gov.rs%2FObjavljenePublikacije%2FPopis2011%2FNajcesca%2520imena%2520i%2520pezimena.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.poreklo.rs/2012/04/05/srpska-prezimena-u-dalmaciji/">"Српска презимена у Далмацији"</a>. Poreklo. 5 April 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B0+%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D1%83+%D0%94%D0%B0%D0%BB%D0%BC%D0%B0%D1%86%D0%B8%D1%98%D0%B8&amp;rft.pub=Poreklo&amp;rft.date=2012-04-05&amp;rft_id=http%3A%2F%2Fwww.poreklo.rs%2F2012%2F04%2F05%2Fsrpska-prezimena-u-dalmaciji%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.poreklo.rs/2012/07/03/poreklo-prezimena-srba-u-potkozarju/">"Порекло презимена Срба у Поткозарју"</a>. Poreklo. 3 July 2012.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%D0%9F%D0%BE%D1%80%D0%B5%D0%BA%D0%BB%D0%BE+%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0+%D0%A1%D1%80%D0%B1%D0%B0+%D1%83+%D0%9F%D0%BE%D1%82%D0%BA%D0%BE%D0%B7%D0%B0%D1%80%D1%98%D1%83&amp;rft.pub=Poreklo&amp;rft.date=2012-07-03&amp;rft_id=http%3A%2F%2Fwww.poreklo.rs%2F2012%2F07%2F03%2Fporeklo-prezimena-srba-u-potkozarju%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASerbian+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1299
+Cached time: 20190925144743
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.488 seconds
+Real time usage: 0.660 seconds
+Preprocessor visited node count: 1402/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 92016/2097152 bytes
+Template argument size: 146/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 30767/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.300/10.000 seconds
+Lua memory usage: 14.71 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  547.929      1 -total
+ 35.79%  196.086     41 Template:Lang
+ 21.48%  117.708     10 Template:Cite_book
+ 19.01%  104.175      1 Template:Refimprove
+ 18.15%   99.433      1 Template:Reflist
+ 14.48%   79.314      1 Template:Ambox
+  5.47%   29.987      1 Template:Find_sources_mainspace
+  4.59%   25.172      1 Template:Serbs
+  3.87%   21.228      1 Template:Sidebar_with_collapsible_lists
+  3.66%   20.049      1 Template:Names_in_world_cultures
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:14647718-0!canonical and timestamp 20190925144743 and revision id 917796213
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Serbian_names&amp;oldid=917796213">https://en.wikipedia.org/w/index.php?title=Serbian_names&amp;oldid=917796213</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Names_by_culture" title="Category:Names by culture">Names by culture</a></li><li><a href="/wiki/Category:Serbian_culture" title="Category:Serbian culture">Serbian culture</a></li><li><a href="/wiki/Category:Slavic-language_names" title="Category:Slavic-language names">Slavic-language names</a></li><li><a href="/wiki/Category:Serbian-language_names" title="Category:Serbian-language names">Serbian-language names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1:_long_volume_value" title="Category:CS1: long volume value">CS1: long volume value</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2009" title="Category:Articles needing additional references from August 2009">Articles needing additional references from August 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_containing_Serbian-language_text" title="Category:Articles containing Serbian-language text">Articles containing Serbian-language text</a></li><li><a href="/wiki/Category:Articles_containing_Hungarian-language_text" title="Category:Articles containing Hungarian-language text">Articles containing Hungarian-language text</a></li><li><a href="/wiki/Category:Articles_containing_Macedonian-language_text" title="Category:Articles containing Macedonian-language text">Articles containing Macedonian-language text</a></li><li><a href="/wiki/Category:Articles_containing_Romanian-language_text" title="Category:Articles containing Romanian-language text">Articles containing Romanian-language text</a></li><li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Serbian+names" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Serbian+names" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Serbian_names" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Serbian_names" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Serbian_names">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Serbian_names&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Serbian_names&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Serbian_names" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Serbian_names" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Serbian_names&amp;oldid=917796213" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Serbian_names&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7452919" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Serbian_names&amp;id=917796213" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Serbian+names">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Serbian+names&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Serbian_names&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B1_%D0%B8%D1%81%D0%B5%D0%BC%D0%B5" title="Серб исеме – Bashkir" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%A3%CE%B5%CF%81%CE%B2%CE%B9%CE%BA%CE%AC_%CE%BF%CE%BD%CF%8C%CE%BC%CE%B1%CF%84%CE%B1" title="Σερβικά ονόματα – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8D%D5%A5%D6%80%D5%A2%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B8%D6%82%D5%B6" title="Սերբական անուն – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%90%E1%83%AE%E1%83%94%E1%83%9A%E1%83%98%E1%83%A1_%E1%83%93%E1%83%90%E1%83%A0%E1%83%A5%E1%83%9B%E1%83%94%E1%83%95%E1%83%98%E1%83%A1_%E1%83%A1%E1%83%94%E1%83%A0%E1%83%91%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%A2%E1%83%A0%E1%83%90%E1%83%93%E1%83%98%E1%83%AA%E1%83%98%E1%83%94%E1%83%91%E1%83%98" title="სახელის დარქმევის სერბული ტრადიციები – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B8_%D0%BB%D0%B8%D1%87%D0%BD%D0%B8_%D0%B8%D0%BC%D0%B8%D1%9A%D0%B0" title="Српски лични имиња – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B1%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D0%BC%D1%8F" title="Сербское имя – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Tradita_e_emrave_n%C3%AB_Serbi" title="Tradita e emrave në Serbi – Albanian" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D1%80%D0%BF%D1%81%D0%BA%D0%B0_%D0%BB%D0%B8%D1%87%D0%BD%D0%B0_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0" title="Српска лична имена – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B1%D1%81%D1%8C%D0%BA%D1%96_%D1%96%D0%BC%D0%B5%D0%BD%D0%B0" title="Сербські імена – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7452919#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 September 2019, at 14:47<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Serbian_names&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.488","walltime":"0.660","ppvisitednodes":{"value":1402,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":92016,"limit":2097152},"templateargumentsize":{"value":146,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":30767,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  547.929      1 -total"," 35.79%  196.086     41 Template:Lang"," 21.48%  117.708     10 Template:Cite_book"," 19.01%  104.175      1 Template:Refimprove"," 18.15%   99.433      1 Template:Reflist"," 14.48%   79.314      1 Template:Ambox","  5.47%   29.987      1 Template:Find_sources_mainspace","  4.59%   25.172      1 Template:Serbs","  3.87%   21.228      1 Template:Sidebar_with_collapsible_lists","  3.66%   20.049      1 Template:Names_in_world_cultures"]},"scribunto":{"limitreport-timeusage":{"value":"0.300","limit":"10.000"},"limitreport-memusage":{"value":15420929,"limit":52428800}},"cachereport":{"origin":"mw1299","timestamp":"20190925144743","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Serbian names","url":"https:\/\/en.wikipedia.org\/wiki\/Serbian_names","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7452919","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7452919","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-12-10T20:26:29Z","dateModified":"2019-09-25T14:47:40Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1275"});});</script>
+</body>
+</html>
+

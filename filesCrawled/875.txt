@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Farsley - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Farsley","wgTitle":"Farsley","wgCurRevisionId":905673212,"wgRevisionId":905673212,"wgArticleId":4404766,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["OpenDomesday","CS1: Julian–Gregorian uncertainty","Articles needing additional references from February 2017","All articles needing additional references","Use dmy dates from November 2017","Use British English from November 2017","Coordinates on Wikidata","All articles with unsourced statements","Articles with unsourced statements from October 2017","Places in Leeds","Towns in West Yorkshire"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March",
+"April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Farsley","wgRelevantArticleId":4404766,"wgRequestId":"XYv-IwpAMEsAAKj8PzoAAABP","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":53.8116,"lon":-1.6718},"wgWikibaseItemId":"Q5436438","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert",
+"ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Town_street_middle%2C_Farsley_1_September_2017.jpg/1200px-Town_street_middle%2C_Farsley_1_September_2017.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Farsley"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Farsley&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Farsley&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Farsley"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Farsley rootpage-Farsley skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Farsley</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Farsley&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Farsley%22">"Farsley"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Farsley%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Farsley%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Farsley%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Farsley%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Farsley%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">February 2017</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p class="mw-empty-elt">
+
+</p>
+<table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">Farsley</th></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Town_street_middle,_Farsley_1_September_2017.jpg" class="image"><img alt="Town street middle, Farsley 1 September 2017.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Town_street_middle%2C_Farsley_1_September_2017.jpg/250px-Town_street_middle%2C_Farsley_1_September_2017.jpg" decoding="async" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Town_street_middle%2C_Farsley_1_September_2017.jpg/375px-Town_street_middle%2C_Farsley_1_September_2017.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Town_street_middle%2C_Farsley_1_September_2017.jpg/500px-Town_street_middle%2C_Farsley_1_September_2017.jpg 2x" data-file-width="3264" data-file-height="2448" /></a><br />Town Street</td></tr><tr><td colspan="2" style="text-align:center"><div class="center"><div style="width:240px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:240px;padding:0"><div style="position:relative;width:240px"><a href="/wiki/File:West_Yorkshire_UK_location_map.svg" class="image" title="Farsley is located in West Yorkshire"><img alt="Farsley is located in West Yorkshire" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/240px-West_Yorkshire_UK_location_map.svg.png" decoding="async" width="240" height="175" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/360px-West_Yorkshire_UK_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/480px-West_Yorkshire_UK_location_map.svg.png 2x" data-file-width="1425" data-file-height="1039" /></a><div style="position:absolute;top:35.083%;left:56.089%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Farsley" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Farsley" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Farsley</div></div></div></div><div>Location within <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></div></div></div></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Districts_of_England" title="Districts of England">Metropolitan&#160;borough</a></th><td><div class="plainlist"><ul><li><a href="/wiki/City_of_Leeds" title="City of Leeds">City of Leeds</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Metropolitan_and_non-metropolitan_counties_of_England" title="Metropolitan and non-metropolitan counties of England">Metropolitan&#160;county</a></th><td><div class="plainlist"><ul><li><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Regions_of_England" title="Regions of England">Region</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire and the Humber</a></li></ul></div></td></tr><tr class="mergedrow adr"><th scope="row" style="width: 40%"><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Country</a></th><td><span class="country-name"><a href="/wiki/England" title="England">England</a></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign&#160;state</a></th><td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/Post_town" title="Post town">Post town</a></th><td><span style="font-size:80%;"><span class="allcaps" style="text-transform:uppercase;">PUDSEY</span></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Postcodes_in_the_United_Kingdom" title="Postcodes in the United Kingdom">Postcode&#160;district</a></th><td><span style="font-size:100%;"><a href="/wiki/LS_postcode_area" title="LS postcode area">LS28</a></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Telephone_numbers_in_the_United_Kingdom" title="Telephone numbers in the United Kingdom">Dialling&#160;code</a></th><td><span style="font-size:100%;">0113</span></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/List_of_law_enforcement_agencies_in_the_United_Kingdom" class="mw-redirect" title="List of law enforcement agencies in the United Kingdom">Police</a></th><td><a href="/wiki/West_Yorkshire_Police" title="West Yorkshire Police">West Yorkshire</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Fire_services_in_the_United_Kingdom" title="Fire services in the United Kingdom">Fire</a></th><td><a href="/wiki/West_Yorkshire_Fire_and_Rescue_Service" title="West Yorkshire Fire and Rescue Service">West Yorkshire</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Emergency_medical_services_in_the_United_Kingdom" title="Emergency medical services in the United Kingdom">Ambulance</a></th><td><a href="/wiki/Yorkshire_Ambulance_Service" title="Yorkshire Ambulance Service">Yorkshire</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_members_of_the_European_Parliament_for_the_United_Kingdom,_2019%E2%80%9324" title="List of members of the European Parliament for the United Kingdom, 2019–24">EU&#160;Parliament</a></th><td><a href="/wiki/Yorkshire_and_the_Humber_(European_Parliament_constituency)" title="Yorkshire and the Humber (European Parliament constituency)">Yorkshire and the Humber</a></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_United_Kingdom_Parliament_constituencies" class="mw-redirect" title="List of United Kingdom Parliament constituencies">UK&#160;Parliament</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Pudsey_(UK_Parliament_constituency)" title="Pudsey (UK Parliament constituency)">Pudsey</a></li></ul></div></td></tr><tr><td colspan="2" class="hlist noprint nowrap" style="text-align:center;border-top: 1px solid #aaa; padding-top: 3px; font-size:85%;">
+<dl><dt><span style="font-weight:normal;">List of places</span></dt>
+<dd><a href="/wiki/List_of_United_Kingdom_locations" title="List of United Kingdom locations">UK</a></dd>
+<dd><a href="/wiki/List_of_places_in_England" title="List of places in England">England</a></dd>
+<dd><a href="/wiki/List_of_places_in_Yorkshire" title="List of places in Yorkshire">Yorkshire</a></dd></dl>
+<span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Farsley&amp;params=53.8116_N_1.6718_W_region:GB_type:city"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°48′42″N</span> <span class="longitude">1°40′18″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.8116°N 1.6718°W</span><span style="display:none">&#xfeff; / <span class="geo">53.8116; -1.6718</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Farsley&amp;params=53.8116_N_1.6718_W_region:GB_type:city"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°48′42″N</span> <span class="longitude">1°40′18″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.8116°N 1.6718°W</span><span style="display:none">&#xfeff; / <span class="geo">53.8116; -1.6718</span></span></span></a></span></span></span></td></tr></tbody></table>
+<p><b>Farsley</b> is a town in the <a href="/wiki/City_of_Leeds" title="City of Leeds">City of Leeds</a> <a href="/wiki/Metropolitan_borough" title="Metropolitan borough">metropolitan borough</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, <a href="/wiki/England" title="England">England</a> 6&#160;miles (9&#160;km) to the west of <a href="/wiki/Leeds_city_centre" title="Leeds city centre">Leeds city centre</a>, and 4&#160;miles (6&#160;km) east of <a href="/wiki/Bradford" title="Bradford">Bradford</a>. Farsley could be considered a <a href="/wiki/Commuter_town" title="Commuter town">commuter town</a> as it is situated between the two cities. It was formerly in the <a href="/wiki/Municipal_borough" title="Municipal borough">municipal borough</a> of nearby <a href="/wiki/Pudsey" title="Pudsey">Pudsey</a> and is part of the City of Leeds <a href="/wiki/Wards_and_electoral_divisions_of_the_United_Kingdom" title="Wards and electoral divisions of the United Kingdom">ward</a> of Calverley and Farsley which also includes the estate of <a href="/wiki/Swinnow" title="Swinnow">Swinnow</a> and some northern parts of Pudsey.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>It is mentioned in the 1086 <i><a href="/wiki/Domesday_Book" title="Domesday Book">Domesday Book</a></i> as <i>Ferselleia</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> During the industrial revolution Farsley was a centre for wool processing as there were a number of mills in the area.
+</p><p>Farsley is just off the main road between <a href="/wiki/Leeds" title="Leeds">Leeds</a> and Bradford and just off the <a href="/wiki/Leeds_Outer_Ring_Road" title="Leeds Outer Ring Road">A6110 Leeds outer ring road</a>. <a href="/wiki/New_Pudsey_railway_station" title="New Pudsey railway station">New Pudsey railway station</a> is between Farsley and Pudsey providing train services towards Leeds, Bradford, <a href="/wiki/Manchester_Victoria_station" title="Manchester Victoria station">Manchester Victoria</a> and <a href="/wiki/Blackpool_North_railway_station" title="Blackpool North railway station">Blackpool</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Amenities"><span class="tocnumber">1</span> <span class="toctext">Amenities</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Education"><span class="tocnumber">2</span> <span class="toctext">Education</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Sport"><span class="tocnumber">3</span> <span class="toctext">Sport</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Housing"><span class="tocnumber">4</span> <span class="toctext">Housing</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#People"><span class="tocnumber">5</span> <span class="toctext">People</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Location_grid"><span class="tocnumber">6</span> <span class="toctext">Location grid</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Amenities">Amenities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farsley&amp;action=edit&amp;section=1" title="Edit section: Amenities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Most of Farsley's amenities are situated on or around Town Street.  There is a <a href="/wiki/Co-operative_Group" class="mw-redirect" title="Co-operative Group">Co-operative Group</a> convenience store, a post office, bookmakers, several independent retailers as well as four pubs and a wine bar.  <a href="/wiki/Throstle_Nest" class="mw-redirect" title="Throstle Nest">Throstle Nest</a> football ground also has facilities open to the general public.  The only form of public transport in Farsley is bus, services are available to <a href="/wiki/Leeds_city_centre" title="Leeds city centre">Leeds city centre</a>, <a href="/wiki/Pudsey" title="Pudsey">Pudsey</a>, <a href="/wiki/Horsforth" title="Horsforth">Horsforth</a>, <a href="/wiki/Seacroft" title="Seacroft">Seacroft</a>, <a href="/wiki/Bradford" title="Bradford">Bradford</a> and <a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a>.  New Pudsey railway station which is midway between Leeds and Bradford is about 1 mile away from the centre of Farsley. There are also several schools in Farsley, as well as further schools in neighbouring Pudsey.  Nearby Pudsey offers a wider range of amenities, which many Farsley residents take advantage of.  The nearest large supermarket is <a href="/wiki/Asda" title="Asda">Asda</a> at the Owlcotes Centre in <a href="/wiki/Stanningley" title="Stanningley">Stanningley</a>, there is also a <a href="/wiki/Marks_and_Spencers" class="mw-redirect" title="Marks and Spencers">Marks and Spencers</a>. Only four of the previously 11 pubs are left in the town. Among them, <i>The Fleece</i> at the bottom of Town Street was the second pub purchased by <a href="/wiki/Tetley%27s_Brewery" title="Tetley&#39;s Brewery">Joshua Tetley's &amp; Son</a> the Leeds Brewer, and the first outside of the brewer's grounds. The other public houses are <i>The Old Hall</i> and <i>The Bay Horse</i>. In addition, The Farsley Village Wine Bar is located in Town Street. Farsley also has an Indian restaurant named <i>Deeva</i> and a Mediterranean restaurant named <i>The Olive and Feta</i>.  There are also three coffee lounges offering food: The Hub, Coopers, and The Mill Kitchen.
+</p>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:24.5px auto;"><a href="/wiki/File:The_Bay_Horse_-_Town_Street,_Farsley_-_geograph.org.uk_-_369086.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Bay_Horse_-_Town_Street%2C_Farsley_-_geograph.org.uk_-_369086.jpg/120px-The_Bay_Horse_-_Town_Street%2C_Farsley_-_geograph.org.uk_-_369086.jpg" decoding="async" width="120" height="101" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Bay_Horse_-_Town_Street%2C_Farsley_-_geograph.org.uk_-_369086.jpg/180px-The_Bay_Horse_-_Town_Street%2C_Farsley_-_geograph.org.uk_-_369086.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/The_Bay_Horse_-_Town_Street%2C_Farsley_-_geograph.org.uk_-_369086.jpg/240px-The_Bay_Horse_-_Town_Street%2C_Farsley_-_geograph.org.uk_-_369086.jpg 2x" data-file-width="639" data-file-height="540" /></a></div></div>
+			<div class="gallerytext">
+<p>The Bay Horse
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:The_Fleece_in_Farsley.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Fleece_in_Farsley.jpg/120px-The_Fleece_in_Farsley.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Fleece_in_Farsley.jpg/180px-The_Fleece_in_Farsley.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_Fleece_in_Farsley.jpg/240px-The_Fleece_in_Farsley.jpg 2x" data-file-width="1600" data-file-height="1200" /></a></div></div>
+			<div class="gallerytext">
+<p>The Fleece
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:27px auto;"><a href="/wiki/File:New_Inn,_Farsley_1_September_2017.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/New_Inn%2C_Farsley_1_September_2017.jpg/120px-New_Inn%2C_Farsley_1_September_2017.jpg" decoding="async" width="120" height="96" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/New_Inn%2C_Farsley_1_September_2017.jpg/180px-New_Inn%2C_Farsley_1_September_2017.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/New_Inn%2C_Farsley_1_September_2017.jpg/240px-New_Inn%2C_Farsley_1_September_2017.jpg 2x" data-file-width="2806" data-file-height="2253" /></a></div></div>
+			<div class="gallerytext">
+<p>The New Inn
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Old_Hall_Hotel,_Farsley_1_September_2017.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Old_Hall_Hotel%2C_Farsley_1_September_2017.jpg/120px-Old_Hall_Hotel%2C_Farsley_1_September_2017.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Old_Hall_Hotel%2C_Farsley_1_September_2017.jpg/180px-Old_Hall_Hotel%2C_Farsley_1_September_2017.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Old_Hall_Hotel%2C_Farsley_1_September_2017.jpg/240px-Old_Hall_Hotel%2C_Farsley_1_September_2017.jpg 2x" data-file-width="3264" data-file-height="2448" /></a></div></div>
+			<div class="gallerytext">
+<p>Old Hall Hotel
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="Education">Education</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farsley&amp;action=edit&amp;section=2" title="Edit section: Education">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In Farsley there are three primary schools: Farsley Farfield Primary School for 3 to 11 year old children,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Westroyd Primary School and Nursery<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> for 3 to 11 year olds, and Farsley Springbank Primary School<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> for 4 to 11 year old pupils. The local secondary school is <a href="/wiki/Priesthorpe_School" title="Priesthorpe School">Priesthorpe School</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> with about 1100 pupils.
+</p>
+<h2><span class="mw-headline" id="Sport">Sport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farsley&amp;action=edit&amp;section=3" title="Edit section: Sport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Farsley_Celtic_03_2_September_2017.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Farsley_Celtic_03_2_September_2017.jpg/220px-Farsley_Celtic_03_2_September_2017.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Farsley_Celtic_03_2_September_2017.jpg/330px-Farsley_Celtic_03_2_September_2017.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Farsley_Celtic_03_2_September_2017.jpg/440px-Farsley_Celtic_03_2_September_2017.jpg 2x" data-file-width="3264" data-file-height="2448" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Farsley_Celtic_03_2_September_2017.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Throstle_Nest" class="mw-redirect" title="Throstle Nest">Throstle Nest</a> football ground</div></div></div>
+<p>Farsley is home to the <a href="/wiki/Non-League_football" title="Non-League football">non-League football</a> team <a href="/wiki/Farsley_Celtic_F.C." title="Farsley Celtic F.C.">Farsley Celtic F.C.</a> who play at <a href="/wiki/Throstle_Nest" class="mw-redirect" title="Throstle Nest">Throstle Nest</a>. They were formed to replace <a href="/wiki/Farsley_Celtic_A.F.C." class="mw-redirect" title="Farsley Celtic A.F.C.">Farsley Celtic A.F.C.</a> who played in the <a href="/wiki/Football_Conference" class="mw-redirect" title="Football Conference">Football Conference</a> for several years prior to their winding up in March 2010.
+</p><p>Farsley Cricket Club, whose ground is situated in Red Lane, play in the <a href="/wiki/Bradford_Cricket_League" class="mw-redirect" title="Bradford Cricket League">Bradford League</a> Division 1. <a href="/wiki/Raymond_Illingworth" class="mw-redirect" title="Raymond Illingworth">Raymond Illingworth</a>, former <a href="/wiki/England_cricket_team" title="England cricket team">England cricket captain</a>, is their most notable former player.
+</p>
+<h2><span class="mw-headline" id="Housing">Housing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farsley&amp;action=edit&amp;section=4" title="Edit section: Housing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Marsden_Court,_Farsley_1_September_2017.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Marsden_Court%2C_Farsley_1_September_2017.jpg/220px-Marsden_Court%2C_Farsley_1_September_2017.jpg" decoding="async" width="220" height="176" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Marsden_Court%2C_Farsley_1_September_2017.jpg/330px-Marsden_Court%2C_Farsley_1_September_2017.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Marsden_Court%2C_Farsley_1_September_2017.jpg/440px-Marsden_Court%2C_Farsley_1_September_2017.jpg 2x" data-file-width="2868" data-file-height="2292" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Marsden_Court,_Farsley_1_September_2017.jpg" class="internal" title="Enlarge"></a></div>Marsden Court flats, with low rise to left</div></div></div>
+<p>Farsley has a variety of housing. Around Town Street are some older <a href="/wiki/Terrace_houses" class="mw-redirect" title="Terrace houses">terrace houses</a> and smaller cottages. To the west of Town Street is a small <a href="/wiki/Council_estate" class="mw-redirect" title="Council estate">council estate</a>, consisting mainly of <a href="/wiki/Apartment" title="Apartment">flats</a>, the tallest block being twelve stories high.  Towards the outskirts of Farsley there are many large <a href="/wiki/Detached_houses" class="mw-redirect" title="Detached houses">detached houses</a>.
+</p>
+<h2><span class="mw-headline" id="People">People</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farsley&amp;action=edit&amp;section=5" title="Edit section: People">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>The Rev. <a href="/wiki/Samuel_Marsden" title="Samuel Marsden">Samuel Marsden</a> (born in Farsley)<sup id="cite_ref-ADB_7-0" class="reference"><a href="#cite_note-ADB-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> was associated with the reformist <a href="/wiki/William_Wilberforce" title="William Wilberforce">William Wilberforce</a> in England, was ordained in 1794, married Elisabeth Fristan, and then sailed to New South Wales, Australia. He arrived in Sydney on 10 March 1794, shortly after the birth of their first child, Anne. By 1795 he was settled in Parramatta, where he became Chaplain, wealthy landowner, farmer and magistrate.  He was known as the "Flogging Parson", because even by the standards of his day, he inflicted severe punishments while acting as a magistrate.<sup id="cite_ref-ADB_7-1" class="reference"><a href="#cite_note-ADB-7">&#91;7&#93;</a></sup>  This has been attributed to a dislike of Roman Catholics and Irish. Joseph Holt, an Irish priest and activist, left on account of a flogging ordered by Marsden.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2017)">citation needed</span></a></i>&#93;</sup>  Sheephead Park is a memorial garden dedicated to Marsden and is situated on Farsley Town Street.</li>
+<li>Sculptor <a href="/wiki/John_Wormald_Appleyard" title="John Wormald Appleyard">John Wormald Appleyard</a> (1831–1894) grew up in Farsley.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> There is a stained glass window dedicated to him, in St John's Church.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup></li>
+<li><a href="/wiki/Rugby_league" title="Rugby league">Rugby league</a> footballer <a href="/wiki/Fred_Farrar" title="Fred Farrar">Fred Farrar</a>, whose nickname was The Farsley Flyer, was a member of <a href="/wiki/Hunslet_R.L.F.C." title="Hunslet R.L.F.C.">Hunslet</a>'s <a href="/wiki/1907%E2%80%9308_Northern_Rugby_Football_Union_season" title="1907–08 Northern Rugby Football Union season">1907–08</a> <a href="/wiki/All_Four_Cups" title="All Four Cups">All Four Cups</a> winning team.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2017)">citation needed</span></a></i>&#93;</sup></li></ul>
+<h2><span class="mw-headline" id="Location_grid">Location grid</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farsley&amp;action=edit&amp;section=6" title="Edit section: Location grid">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><br />
+</p>
+<div role="navigation" class="navbox" aria-labelledby="Places_adjacent_to_Farsley" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Adjacent_communities" title="Template:Adjacent communities"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Adjacent_communities" title="Template talk:Adjacent communities"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Adjacent_communities&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Places_adjacent_to_Farsley" style="font-size:114%;margin:0 4em">Places adjacent to Farsley</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><table role="presentation" style="width:100%; margin:0; text-align:center;"><tbody><tr>
+<td></td>
+<td><a href="/wiki/Rodley,_West_Yorkshire" title="Rodley, West Yorkshire">Rodley</a></td>
+<td></td>
+</tr><tr>
+<td style="width:33%"><a href="/wiki/Thornbury,_West_Yorkshire" title="Thornbury, West Yorkshire">Thornbury</a></td>
+<td style="width:33%;">
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/14px-Pfeil_oben.svg.png" decoding="async" title="North" width="14" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/21px-Pfeil_oben.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Pfeil_oben.svg/28px-Pfeil_oben.svg.png 2x" data-file-width="501" data-file-height="595" /></div>
+<div style="white-space:nowrap;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/17px-Pfeil_links.svg.png" decoding="async" title="West" width="17" height="14" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/25px-Pfeil_links.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pfeil_links.svg/33px-Pfeil_links.svg.png 2x" data-file-width="595" data-file-height="501" /><b style="display:inline-block; vertical-align:middle; margin:0.75em 1em">Farsley</b><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/17px-Pfeil_rechts.svg.png" decoding="async" title="East" width="17" height="14" style="vertical-align: middle" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/25px-Pfeil_rechts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pfeil_rechts.svg/33px-Pfeil_rechts.svg.png 2x" data-file-width="595" data-file-height="501" /></div>
+<div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/14px-Pfeil_unten.svg.png" decoding="async" title="South" width="14" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/21px-Pfeil_unten.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pfeil_unten.svg/28px-Pfeil_unten.svg.png 2x" data-file-width="501" data-file-height="595" /></div>
+</td>
+<td style="width:33%"><a href="/wiki/Bramley,_Leeds" title="Bramley, Leeds">Bramley</a></td>
+</tr><tr>
+<td></td>
+<td><a href="/wiki/Pudsey" title="Pudsey">Pudsey</a></td>
+<td></td>
+</tr></tbody></table></div></td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farsley&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.leeds.gov.uk/docs/Calverley%20and%20Farsley.pdf">"Calverley and Farsley Ward"</a> <span class="cs1-format">(PDF)</span>. Leeds City Council. 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Calverley+and+Farsley+Ward&amp;rft.pub=Leeds+City+Council&amp;rft.date=2015&amp;rft_id=http%3A%2F%2Fwww.leeds.gov.uk%2Fdocs%2FCalverley%2520and%2520Farsley.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFarsley" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://opendomesday.org/place/SE2135/Farsley/">Farsley</a> in the <i><a href="/wiki/Domesday_Book" title="Domesday Book">Domesday Book</a></i>. Retrieved 19 October 2017.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.farsleyfarfield.org.uk/">"Farsley Farfield Primary School"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Farsley+Farfield+Primary+School&amp;rft_id=http%3A%2F%2Fwww.farsleyfarfield.org.uk%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFarsley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.westroydinfantschool.co.uk">"Westroyd Infant School and Nursery"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Westroyd+Infant+School+and+Nursery&amp;rft_id=http%3A%2F%2Fwww.westroydinfantschool.co.uk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFarsley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.farsleyspringbank.co.uk">"Farsley Springbank Junior School"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Farsley+Springbank+Junior+School&amp;rft_id=http%3A%2F%2Fwww.farsleyspringbank.co.uk&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFarsley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.priesthorpe.org">"Priesthorpe School"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">1 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Priesthorpe+School&amp;rft_id=http%3A%2F%2Fwww.priesthorpe.org&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFarsley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-ADB-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-ADB_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ADB_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://adb.anu.edu.au/biography/marsden-samuel-2433">"Australian Dictionary of Biography: Marsden, Samuel"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Australian+Dictionary+of+Biography%3A+Marsden%2C+Samuel&amp;rft_id=http%3A%2F%2Fadb.anu.edu.au%2Fbiography%2Fmarsden-samuel-2433&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFarsley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Other sources also state <a href="/wiki/Horsforth" title="Horsforth">Horsforth</a> as his birthplace: <cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wholesomewords.org/missions/biomarsden2.html">"Samuel Marsden, Apostle of New Zealand"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 October</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Samuel+Marsden%2C+Apostle+of+New+Zealand&amp;rft_id=http%3A%2F%2Fwww.wholesomewords.org%2Fmissions%2Fbiomarsden2.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFarsley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation news">Bradford, Eveleigh (June 2016). <a rel="nofollow" class="external text" href="https://issuu.com/northleedslife/docs/2016_june_b">"They lived in Leeds"</a>. <i>North Leeds Life</i>. p.&#160;8-9<span class="reference-accessdate">. Retrieved <span class="nowrap">19 February</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=North+Leeds+Life&amp;rft.atitle=They+lived+in+Leeds&amp;rft.pages=8-9&amp;rft.date=2016-06&amp;rft.aulast=Bradford&amp;rft.aufirst=Eveleigh&amp;rft_id=https%3A%2F%2Fissuu.com%2Fnorthleedslife%2Fdocs%2F2016_june_b&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFarsley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.britishnewspaperarchive.co.uk/viewer/bl/0000076/18940703/030/0008">"A stained glass window"</a>. <i>Leeds Mercury</i>. 3 July 1894. p.&#160;8 col5<span class="reference-accessdate">. Retrieved <span class="nowrap">19 February</span> 2019</span> &#8211; via British Newspaper Archive.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Leeds+Mercury&amp;rft.atitle=A+stained+glass+window&amp;rft.pages=8+col5&amp;rft.date=1894-07-03&amp;rft_id=https%3A%2F%2Fwww.britishnewspaperarchive.co.uk%2Fviewer%2Fbl%2F0000076%2F18940703%2F030%2F0008&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFarsley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Farsley&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.farsleytoday.co.uk/">YEP Farsley Today Community Website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.locallife.co.uk/leeds/streetindex.asp?town=Farsley">Street index</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.farsleyvillage.com/">Community Web site</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20190919124329
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.436 seconds
+Real time usage: 0.587 seconds
+Preprocessor visited node count: 2958/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 61411/2097152 bytes
+Template argument size: 10137/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 28814/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.209/10.000 seconds
+Lua memory usage: 5.41 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  517.839      1 -total
+ 37.81%  195.796      1 Template:Infobox_UK_place
+ 34.99%  181.188      2 Template:Infobox
+ 18.71%   96.896      7 Template:Cite_web
+ 16.72%   86.587      1 Template:More_citations_needed
+ 13.73%   71.113      1 Template:Ambox
+  7.87%   40.748      2 Template:Citation_needed
+  7.67%   39.732     26 Template:Ubl
+  6.74%   34.927      2 Template:Fix
+  6.06%   31.374      1 Template:Coord
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4404766-0!canonical and timestamp 20190919124328 and revision id 905673212
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Farsley&amp;oldid=905673212">https://en.wikipedia.org/w/index.php?title=Farsley&amp;oldid=905673212</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Places_in_Leeds" title="Category:Places in Leeds">Places in Leeds</a></li><li><a href="/wiki/Category:Towns_in_West_Yorkshire" title="Category:Towns in West Yorkshire">Towns in West Yorkshire</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:OpenDomesday" title="Category:OpenDomesday">OpenDomesday</a></li><li><a href="/wiki/Category:CS1:_Julian%E2%80%93Gregorian_uncertainty" title="Category:CS1: Julian–Gregorian uncertainty">CS1: Julian–Gregorian uncertainty</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2017" title="Category:Articles needing additional references from February 2017">Articles needing additional references from February 2017</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_November_2017" title="Category:Use dmy dates from November 2017">Use dmy dates from November 2017</a></li><li><a href="/wiki/Category:Use_British_English_from_November_2017" title="Category:Use British English from November 2017">Use British English from November 2017</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2017" title="Category:Articles with unsourced statements from October 2017">Articles with unsourced statements from October 2017</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Farsley" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Farsley" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Farsley" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Farsley" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Farsley">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Farsley&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Farsley&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Farsley" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Farsley" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Farsley&amp;oldid=905673212" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Farsley&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5436438" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Farsley&amp;id=905673212" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Farsley" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Farsley">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Farsley&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Farsley&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Farsley" title="Farsley – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Farsley" title="Farsley – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Farsley" title="Farsley – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Farsley" title="Farsley – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5436438#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 10 July 2019, at 16:23<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Farsley&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.436","walltime":"0.587","ppvisitednodes":{"value":2958,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":61411,"limit":2097152},"templateargumentsize":{"value":10137,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":28814,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  517.839      1 -total"," 37.81%  195.796      1 Template:Infobox_UK_place"," 34.99%  181.188      2 Template:Infobox"," 18.71%   96.896      7 Template:Cite_web"," 16.72%   86.587      1 Template:More_citations_needed"," 13.73%   71.113      1 Template:Ambox","  7.87%   40.748      2 Template:Citation_needed","  7.67%   39.732     26 Template:Ubl","  6.74%   34.927      2 Template:Fix","  6.06%   31.374      1 Template:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.209","limit":"10.000"},"limitreport-memusage":{"value":5670136,"limit":52428800}},"cachereport":{"origin":"mw1332","timestamp":"20190919124329","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Farsley","url":"https:\/\/en.wikipedia.org\/wiki\/Farsley","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5436438","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5436438","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-03-15T22:37:07Z","dateModified":"2019-07-10T16:23:55Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/07\/Town_street_middle%2C_Farsley_1_September_2017.jpg","headline":"town in Leeds, United Kindom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":135,"wgHostname":"mw1240"});});</script>
+</body>
+</html>
+

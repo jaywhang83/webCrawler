@@ -1,0 +1,715 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>New Bedford River - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"New_Bedford_River","wgTitle":"New Bedford River","wgCurRevisionId":871250004,"wgRevisionId":871250004,"wgArticleId":150864,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from May 2015","Use British English from May 2015","Coordinates on Wikidata","Rivers of Cambridgeshire","Tributaries of the River Great Ouse","Drainage canals in England","Canals in Cambridgeshire","Canals opened in 1652","1652 establishments in England"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan",
+"Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"New_Bedford_River","wgRelevantArticleId":150864,"wgRequestId":"XZEEpApAAD4AAFz73wkAAABP","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":52.333333333333336,"lon":0.03333333333333333},"wgWikibaseItemId":"Q7005467","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/1/1e/New_Bedford_River.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/New_Bedford_River"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=New_Bedford_River&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=New_Bedford_River&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/New_Bedford_River"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-New_Bedford_River rootpage-New_Bedford_River skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">New Bedford River</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;font-size: larger; background-color: #CEDEFF">New Bedford River</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:New_Bedford_River.jpg" class="image"><img alt="New Bedford River.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/New_Bedford_River.jpg/288px-New_Bedford_River.jpg" decoding="async" width="288" height="192" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/New_Bedford_River.jpg/432px-New_Bedford_River.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/New_Bedford_River.jpg/576px-New_Bedford_River.jpg 2x" data-file-width="640" data-file-height="427" /></a><div>New Bedford River at <a href="/wiki/Oxlode" class="mw-redirect" title="Oxlode">Oxlode</a></div></td></tr><tr><th colspan="2" style="text-align:center;background-color: #CEDEFF">Specifications</th></tr><tr><th scope="row">Status</th><td>Open</td></tr><tr><th scope="row">Navigation authority</th><td>Environment Agency</td></tr><tr><th colspan="2" style="text-align:center;background-color: #CEDEFF">History</th></tr><tr><th scope="row">Principal engineer</th><td>Cornelius Vermuyden</td></tr><tr><th scope="row">Date of act</th><td>1649</td></tr><tr><th scope="row">Date of first use</th><td>1652</td></tr><tr><th colspan="2" style="text-align:center;background-color: #CEDEFF">Geography</th></tr><tr><th scope="row">Start point</th><td><a href="/wiki/Earith" title="Earith">Earith</a></td></tr><tr><th scope="row">End point</th><td><a href="/wiki/Denver_Sluice" class="mw-redirect" title="Denver Sluice">Denver Sluice</a></td></tr><tr><th scope="row">Connects to</th><td><a href="/wiki/River_Great_Ouse" title="River Great Ouse">River Great Ouse</a></td></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r910949775">.mw-parser-output .RMbox{box-shadow:0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12),0 3px 1px -2px rgba(0,0,0,.2)}.mw-parser-output .RMinline{float:none;width:100%;margin:0;border:none}.mw-parser-output table.routemap{padding:0;border:0;border-collapse:collapse;background:transparent;white-space:nowrap;line-height:1.2;margin:auto}.mw-parser-output table.routemap .RMcollapse{margin:0;border-collapse:collapse;vertical-align:middle}.mw-parser-output table.routemap .RMreplace{margin:0;border-collapse:collapse;vertical-align:middle;position:absolute;bottom:0}.mw-parser-output table.routemap .RMsi{display:inline;font-size:90%}.mw-parser-output table.routemap .RMl1{padding:0 3px;text-align:left}.mw-parser-output table.routemap .RMr1{padding:0 3px;text-align:right}.mw-parser-output table.routemap .RMl{text-align:right}.mw-parser-output table.routemap .RMr{text-align:left}.mw-parser-output table.routemap .RMl4{padding:0 3px 0 0;text-align:left}.mw-parser-output table.routemap .RMr4{padding:0 0 0 3px;text-align:right}.mw-parser-output table.routemap>tbody>tr{line-height:1}.mw-parser-output table.routemap>tbody>tr>td,.mw-parser-output table.RMcollapse>tbody>tr>td,.mw-parser-output table.RMreplace>tbody>tr>td{padding:0;width:auto;vertical-align:middle;text-align:center}.mw-parser-output .RMir>div{display:inline-block;vertical-align:middle;padding:0;height:20px;min-height:20px}.mw-parser-output .RMir img{height:initial!important;max-width:initial!important}.mw-parser-output .RMir .RMov{position:relative}.mw-parser-output .RMir .RMov .RMic,.mw-parser-output .RMir .RMov .RMtx{position:absolute;left:0;top:0;padding:0}.mw-parser-output .RMir .RMtx{line-height:20px;height:20px;min-height:20px;vertical-align:middle;text-align:center}.mw-parser-output .RMir .RMsp{height:20px;min-height:20px}.mw-parser-output .RMir .RMtx>abbr,.mw-parser-output .RMir .RMtx>div{line-height:.975;display:inline-block;vertical-align:middle}.mw-parser-output .RMir .RMts{font-size:10px;transform:scaleX(.89)}.mw-parser-output .RMir .RMf_{height:5px;min-height:5px;width:20px;min-width:20px}.mw-parser-output .RMir .RMfm{height:100%;min-height:100%;width:4px;min-width:4px;margin:0 auto}.mw-parser-output .RMir .RMo{width:2.5px;min-width:2.5px}.mw-parser-output .RMir .RMc{width:5px;min-width:5px}.mw-parser-output .RMir .RMoc{width:7.5px;min-width:7.5px}.mw-parser-output .RMir .RMd{width:10px;min-width:10px}.mw-parser-output .RMir .RMod{width:12.5px;min-width:12.5px}.mw-parser-output .RMir .RMcd{width:15px;min-width:15px}.mw-parser-output .RMir .RMocd{width:17.5px;min-width:17.5px}.mw-parser-output .RMir .RM_{width:20px;min-width:20px}.mw-parser-output .RMir .RM_o{width:22.5px;min-width:22.5px}.mw-parser-output .RMir .RM_c{width:25px;min-width:25px}.mw-parser-output .RMir .RM_oc{width:27.5px;min-width:27.5px}.mw-parser-output .RMir .RM_d{width:30px;min-width:30px}.mw-parser-output .RMir .RM_od{width:32.5px;min-width:32.5px}.mw-parser-output .RMir .RM_cd{width:35px;min-width:35px}.mw-parser-output .RMir .RM_ocd{width:37.5px;min-width:37.5px}.mw-parser-output .RMir .RMb{width:40px;min-width:40px}.mw-parser-output .RMir .RMcb{width:45px;min-width:45px}.mw-parser-output .RMir .RMdb{width:50px;min-width:50px}.mw-parser-output .RMir .RMcdb{width:55px;min-width:55px}.mw-parser-output .RMir .RM_b{width:60px;min-width:60px}.mw-parser-output .RMir .RM_cb{width:65px;min-width:65px}.mw-parser-output .RMir .RM_db{width:70px;min-width:70px}.mw-parser-output .RMir .RM_cdb{width:75px;min-width:75px}.mw-parser-output .RMir .RMs{width:80px;min-width:80px}.mw-parser-output .RMir .RMds{width:90px;min-width:90px}.mw-parser-output .RMir .RM_s{width:100px;min-width:100px}.mw-parser-output .RMir .RM_ds{width:110px;min-width:110px}.mw-parser-output .RMir .RMbs{width:120px;min-width:120px}.mw-parser-output .RMir .RMdbs{width:130px;min-width:130px}.mw-parser-output .RMir .RM_bs{width:140px;min-width:140px}.mw-parser-output .RMir .RM_dbs{width:150px;min-width:150px}.mw-parser-output .RMir .RMw{width:160px;min-width:160px}.mw-parser-output .RMir .RM_w{width:180px;min-width:180px}.mw-parser-output .RMir .RMbw{width:200px;min-width:200px}.mw-parser-output .RMir .RM_bw{width:220px;min-width:220px}.mw-parser-output .RMir .RMsw{width:240px;min-width:240px}.mw-parser-output .RMir .RM_sw{width:260px;min-width:260px}.mw-parser-output .RMir .RMbsw{width:280px;min-width:280px}.mw-parser-output .RMir .RM_bsw{width:300px;min-width:300px}</style>
+<table class="collapsible RMbox" cellspacing="0" cellpadding="0" style="float:right;clear:right;margin-top:0;margin-bottom:1em;margin-left:1em;empty-cells:show;border-collapse:collapse;font-size:88%;background:#F9F9F9;">
+<tbody><tr>
+<th style="color:white;background:#0099ff;text-align:center;padding:5px"><div class="plainlinks hlist navbar mini" style="float:left;margin-right:5px;white-space:nowrap"><span style="margin-right:-0.125em;font-size:113.63636363636%;color:white">&#91; </span><ul><li class="nv-view"><a href="/wiki/Template:Bedford_Rivers_map" title="Template:Bedford Rivers map"><abbr title="View this template" style="font-size:113.63636363636%;color:white">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Bedford_Rivers_map" title="Template talk:Bedford Rivers map"><abbr title="Discuss this template" style="font-size:113.63636363636%;color:white">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Bedford_Rivers_map&amp;action=edit"><abbr title="Edit this template" style="font-size:113.63636363636%;color:white">e</abbr></a></li></ul><span style="margin-left:-0.125em;font-size:113.63636363636%;color:white"> &#93;</span></div><div style="margin-left:55px"><div style="white-space:nowrap;margin-right:55px;font-size:113.63636363636%">Old and New Bedford Rivers</div></div>
+</th></tr>
+<tr>
+<td style="line-height:normal;padding:4px 5px"><div class="selfreference noprint" style="text-align:right;font-size:97%"><a href="/wiki/Template:Waterways_legend" title="Template:Waterways legend">Legend</a></div>
+</td></tr>
+<tr>
+<td style="padding:0px 6px 6px">
+<table class="nogrid routemap" style="font-size:107.95454545455%">
+
+
+<tbody><tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_uCONTg.svg/20px-BSicon_uCONTg.svg.png" decoding="async" title="uCONTg" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_uCONTg.svg/30px-BSicon_uCONTg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_uCONTg.svg/40px-BSicon_uCONTg.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_uCONTg.svg/20px-BSicon_uCONTg.svg.png" decoding="async" title="uCONTg" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_uCONTg.svg/30px-BSicon_uCONTg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_uCONTg.svg/40px-BSicon_uCONTg.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">to <a href="/wiki/King%27s_Lynn" title="King&#39;s Lynn">King's Lynn</a>
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/20px-BSicon_uKMW.svg.png" decoding="async" title="uKMW" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/30px-BSicon_uKMW.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/40px-BSicon_uKMW.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/20px-BSicon_uKMW.svg.png" decoding="async" title="uKMW" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/30px-BSicon_uKMW.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/40px-BSicon_uKMW.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2"><a href="/wiki/River_Great_Ouse" title="River Great Ouse">River Great Ouse</a> and Relief Channel
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/BSicon_uCONTgq.svg/20px-BSicon_uCONTgq.svg.png" decoding="async" title="uCONTgq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/BSicon_uCONTgq.svg/30px-BSicon_uCONTgq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/BSicon_uCONTgq.svg/40px-BSicon_uCONTgq.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/BSicon_uFGATEr.svg/20px-BSicon_uFGATEr.svg.png" decoding="async" title="uFGATEr" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/BSicon_uFGATEr.svg/30px-BSicon_uFGATEr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/BSicon_uFGATEr.svg/40px-BSicon_uFGATEr.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/BSicon_uFABZgr%2Br.svg/20px-BSicon_uFABZgr%2Br.svg.png" decoding="async" title="uFABZgr+r" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/BSicon_uFABZgr%2Br.svg/30px-BSicon_uFABZgr%2Br.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/BSicon_uFABZgr%2Br.svg/40px-BSicon_uFABZgr%2Br.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2"><a href="/wiki/Middle_Level_Navigations" title="Middle Level Navigations">Salter's Lode Lock</a>
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/BSicon_uFABZgl%2Bl.svg/20px-BSicon_uFABZgl%2Bl.svg.png" decoding="async" title="uFABZgl+l" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/BSicon_uFABZgl%2Bl.svg/30px-BSicon_uFABZgl%2Bl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/BSicon_uFABZgl%2Bl.svg/40px-BSicon_uFABZgl%2Bl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/BSicon_uSTRq.svg/20px-BSicon_uSTRq.svg.png" decoding="async" title="uSTRq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/BSicon_uSTRq.svg/30px-BSicon_uSTRq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/BSicon_uSTRq.svg/40px-BSicon_uSTRq.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/BSicon_uFABZq%2Blr.svg/20px-BSicon_uFABZq%2Blr.svg.png" decoding="async" title="uFABZq+lr" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/BSicon_uFABZq%2Blr.svg/30px-BSicon_uFABZq%2Blr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/BSicon_uFABZq%2Blr.svg/40px-BSicon_uFABZq%2Blr.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BSicon_uFGATEl.svg/20px-BSicon_uFGATEl.svg.png" decoding="async" title="uFGATEl" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BSicon_uFGATEl.svg/30px-BSicon_uFGATEl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BSicon_uFGATEl.svg/40px-BSicon_uFGATEl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/BSicon_uABZg%2Br.svg/20px-BSicon_uABZg%2Br.svg.png" decoding="async" title="uABZg+r" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/BSicon_uABZg%2Br.svg/30px-BSicon_uABZg%2Br.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/BSicon_uABZg%2Br.svg/40px-BSicon_uABZg%2Br.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Denver Sluice
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uSTOPLOCK.svg/20px-BSicon_uSTOPLOCK.svg.png" decoding="async" title="uSTOPLOCK" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uSTOPLOCK.svg/30px-BSicon_uSTOPLOCK.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uSTOPLOCK.svg/40px-BSicon_uSTOPLOCK.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BSicon_uSTRl.svg/20px-BSicon_uSTRl.svg.png" decoding="async" title="uSTRl" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BSicon_uSTRl.svg/30px-BSicon_uSTRl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BSicon_uSTRl.svg/40px-BSicon_uSTRl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BSicon_uSTR%2Br.svg/20px-BSicon_uSTR%2Br.svg.png" decoding="async" title="uSTR+r" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BSicon_uSTR%2Br.svg/30px-BSicon_uSTR%2Br.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BSicon_uSTR%2Br.svg/40px-BSicon_uSTR%2Br.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Old Bedford Sluice
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/BSicon_uCONTf.svg/20px-BSicon_uCONTf.svg.png" decoding="async" title="uCONTf" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/BSicon_uCONTf.svg/30px-BSicon_uCONTf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/BSicon_uCONTf.svg/40px-BSicon_uCONTf.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/20px-BSicon_uKMW.svg.png" decoding="async" title="uKMW" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/30px-BSicon_uKMW.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/40px-BSicon_uKMW.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/20px-BSicon_uKMW.svg.png" decoding="async" title="uKMW" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/30px-BSicon_uKMW.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/40px-BSicon_uKMW.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Old and New Bedford Rivers
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uexSTR%2Bl.svg/20px-BSicon_uexSTR%2Bl.svg.png" decoding="async" title="uexSTR+l" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uexSTR%2Bl.svg/30px-BSicon_uexSTR%2Bl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uexSTR%2Bl.svg/40px-BSicon_uexSTR%2Bl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BSicon_uxWEIRfr.svg/20px-BSicon_uxWEIRfr.svg.png" decoding="async" title="uxWEIRfr" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BSicon_uxWEIRfr.svg/30px-BSicon_uxWEIRfr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BSicon_uxWEIRfr.svg/40px-BSicon_uxWEIRfr.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/BSicon_ueABZgr.svg/20px-BSicon_ueABZgr.svg.png" decoding="async" title="ueABZgr" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/BSicon_ueABZgr.svg/30px-BSicon_ueABZgr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/BSicon_ueABZgr.svg/40px-BSicon_ueABZgr.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Welmore Lake Sluice
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BSicon_uSKRZ-Eu.svg/20px-BSicon_uSKRZ-Eu.svg.png" decoding="async" title="uSKRZ-Eu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BSicon_uSKRZ-Eu.svg/30px-BSicon_uSKRZ-Eu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/BSicon_uSKRZ-Eu.svg/40px-BSicon_uSKRZ-Eu.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Footbridge to <a href="/wiki/WWT_Welney" class="mw-redirect" title="WWT Welney">WWT Welney</a>
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BSicon_uVGATE.svg/20px-BSicon_uVGATE.svg.png" decoding="async" title="uVGATE" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BSicon_uVGATE.svg/30px-BSicon_uVGATE.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/BSicon_uVGATE.svg/40px-BSicon_uVGATE.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Welney flood control gate
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/20px-BSicon_uSKRZ-Au.svg.png" decoding="async" title="uSKRZ-Au" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/30px-BSicon_uSKRZ-Au.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/40px-BSicon_uSKRZ-Au.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSKRZ-Au.svg/20px-BSicon_uexSKRZ-Au.svg.png" decoding="async" title="uexSKRZ-Au" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSKRZ-Au.svg/30px-BSicon_uexSKRZ-Au.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSKRZ-Au.svg/40px-BSicon_uexSKRZ-Au.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BSicon_RA%2Br.svg/20px-BSicon_RA%2Br.svg.png" decoding="async" title="RA+r" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BSicon_RA%2Br.svg/30px-BSicon_RA%2Br.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/BSicon_RA%2Br.svg/40px-BSicon_RA%2Br.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">A1101 Delph Bridge, Welney
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/BSicon_RAl.svg/20px-BSicon_RAl.svg.png" decoding="async" title="RAl" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/BSicon_RAl.svg/30px-BSicon_RAl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/BSicon_RAl.svg/40px-BSicon_RAl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/20px-BSicon_uSKRZ-Au.svg.png" decoding="async" title="uSKRZ-Au" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/30px-BSicon_uSKRZ-Au.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/40px-BSicon_uSKRZ-Au.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">A1101 Suspension Bridge
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/20px-BSicon_uKMW.svg.png" decoding="async" title="uKMW" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/30px-BSicon_uKMW.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/40px-BSicon_uKMW.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BSicon_uexKMW.svg/20px-BSicon_uexKMW.svg.png" decoding="async" title="uexKMW" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BSicon_uexKMW.svg/30px-BSicon_uexKMW.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BSicon_uexKMW.svg/40px-BSicon_uexKMW.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Old Bedford and River Delph
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/BSicon_uSTRbr.svg/20px-BSicon_uSTRbr.svg.png" decoding="async" title="uSTRbr" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/BSicon_uSTRbr.svg/30px-BSicon_uSTRbr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/BSicon_uSTRbr.svg/40px-BSicon_uSTRbr.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BSicon_uexSTRq.svg/20px-BSicon_uexSTRq.svg.png" decoding="async" title="uexSTRq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BSicon_uexSTRq.svg/30px-BSicon_uexSTRq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BSicon_uexSTRq.svg/40px-BSicon_uexSTRq.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">100-Foot PS and Engine Basin
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/BSicon_CONTgq.svg/20px-BSicon_CONTgq.svg.png" decoding="async" title="CONTgq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/BSicon_CONTgq.svg/30px-BSicon_CONTgq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/BSicon_CONTgq.svg/40px-BSicon_CONTgq.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/BSicon_STRq.svg/20px-BSicon_STRq.svg.png" decoding="async" title="STRq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/BSicon_STRq.svg/30px-BSicon_STRq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/BSicon_STRq.svg/40px-BSicon_STRq.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BSicon_umKRZu.svg/20px-BSicon_umKRZu.svg.png" decoding="async" title="umKRZu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BSicon_umKRZu.svg/30px-BSicon_umKRZu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BSicon_umKRZu.svg/40px-BSicon_umKRZu.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BSicon_uxmKRZu.svg/20px-BSicon_uxmKRZu.svg.png" decoding="async" title="uxmKRZu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BSicon_uxmKRZu.svg/30px-BSicon_uxmKRZu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/BSicon_uxmKRZu.svg/40px-BSicon_uxmKRZu.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/BSicon_STRq.svg/20px-BSicon_STRq.svg.png" decoding="async" title="STRq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/BSicon_STRq.svg/30px-BSicon_STRq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/BSicon_STRq.svg/40px-BSicon_STRq.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BSicon_umKRZu.svg/20px-BSicon_umKRZu.svg.png" decoding="async" title="umKRZu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BSicon_umKRZu.svg/30px-BSicon_umKRZu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BSicon_umKRZu.svg/40px-BSicon_umKRZu.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BSicon_CONTfq.svg/20px-BSicon_CONTfq.svg.png" decoding="async" title="CONTfq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BSicon_CONTfq.svg/30px-BSicon_CONTfq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BSicon_CONTfq.svg/40px-BSicon_CONTfq.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">March to Ely Railway
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/BSicon_uSTRbr.svg/20px-BSicon_uSTRbr.svg.png" decoding="async" title="uSTRbr" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/57/BSicon_uSTRbr.svg/30px-BSicon_uSTRbr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/57/BSicon_uSTRbr.svg/40px-BSicon_uSTRbr.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/BSicon_uexFABZgr%2Br.svg/20px-BSicon_uexFABZgr%2Br.svg.png" decoding="async" title="uexFABZgr+r" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/BSicon_uexFABZgr%2Br.svg/30px-BSicon_uexFABZgr%2Br.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/BSicon_uexFABZgr%2Br.svg/40px-BSicon_uexFABZgr%2Br.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Welches Dam pumping station
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/BSicon_uSTRq.svg/20px-BSicon_uSTRq.svg.png" decoding="async" title="uSTRq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/BSicon_uSTRq.svg/30px-BSicon_uSTRq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/BSicon_uSTRq.svg/40px-BSicon_uSTRq.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/BSicon_uexFGATEl.svg/20px-BSicon_uexFGATEl.svg.png" decoding="async" title="uexFGATEl" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/BSicon_uexFGATEl.svg/30px-BSicon_uexFGATEl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/BSicon_uexFGATEl.svg/40px-BSicon_uexFGATEl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/BSicon_uFABZgr%2Br.svg/20px-BSicon_uFABZgr%2Br.svg.png" decoding="async" title="uFABZgr+r" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/BSicon_uFABZgr%2Br.svg/30px-BSicon_uFABZgr%2Br.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/BSicon_uFABZgr%2Br.svg/40px-BSicon_uFABZgr%2Br.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Welches Dam Lock (derelict)
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uexSTR%2Bl.svg/20px-BSicon_uexSTR%2Bl.svg.png" decoding="async" title="uexSTR+l" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uexSTR%2Bl.svg/30px-BSicon_uexSTR%2Bl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uexSTR%2Bl.svg/40px-BSicon_uexSTR%2Bl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSTRr.svg/20px-BSicon_uexSTRr.svg.png" decoding="async" title="uexSTRr" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSTRr.svg/30px-BSicon_uexSTRr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSTRr.svg/40px-BSicon_uexSTRr.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uexSTR%2Bl.svg/20px-BSicon_uexSTR%2Bl.svg.png" decoding="async" title="uexSTR+l" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uexSTR%2Bl.svg/30px-BSicon_uexSTR%2Bl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uexSTR%2Bl.svg/40px-BSicon_uexSTR%2Bl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSTRr.svg/20px-BSicon_uexSTRr.svg.png" decoding="async" title="uexSTRr" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSTRr.svg/30px-BSicon_uexSTRr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSTRr.svg/40px-BSicon_uexSTRr.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BSicon_uexSTRq.svg/20px-BSicon_uexSTRq.svg.png" decoding="async" title="uexSTRq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BSicon_uexSTRq.svg/30px-BSicon_uexSTRq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BSicon_uexSTRq.svg/40px-BSicon_uexSTRq.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BSicon_uxSTRbl.svg/20px-BSicon_uxSTRbl.svg.png" decoding="async" title="uxSTRbl" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BSicon_uxSTRbl.svg/30px-BSicon_uxSTRbl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/BSicon_uxSTRbl.svg/40px-BSicon_uxSTRbl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Mepal pumping station
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BSicon_uSKRZ-Yu.svg/20px-BSicon_uSKRZ-Yu.svg.png" decoding="async" title="uSKRZ-Yu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BSicon_uSKRZ-Yu.svg/30px-BSicon_uSKRZ-Yu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BSicon_uSKRZ-Yu.svg/40px-BSicon_uSKRZ-Yu.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Mepal Bridge
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSKRZ-Au.svg/20px-BSicon_uexSKRZ-Au.svg.png" decoding="async" title="uexSKRZ-Au" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSKRZ-Au.svg/30px-BSicon_uexSKRZ-Au.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSKRZ-Au.svg/40px-BSicon_uexSKRZ-Au.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSKRZ-Au.svg/20px-BSicon_uexSKRZ-Au.svg.png" decoding="async" title="uexSKRZ-Au" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSKRZ-Au.svg/30px-BSicon_uexSKRZ-Au.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSKRZ-Au.svg/40px-BSicon_uexSKRZ-Au.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BSicon_RAq.svg/20px-BSicon_RAq.svg.png" decoding="async" title="RAq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BSicon_RAq.svg/30px-BSicon_RAq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BSicon_RAq.svg/40px-BSicon_RAq.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BSicon_RAq.svg/20px-BSicon_RAq.svg.png" decoding="async" title="RAq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BSicon_RAq.svg/30px-BSicon_RAq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/BSicon_RAq.svg/40px-BSicon_RAq.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/20px-BSicon_uSKRZ-Au.svg.png" decoding="async" title="uSKRZ-Au" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/30px-BSicon_uSKRZ-Au.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/40px-BSicon_uSKRZ-Au.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">A142 bridges, Mepal
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/BSicon_uexSKRZ-Yu.svg/20px-BSicon_uexSKRZ-Yu.svg.png" decoding="async" title="uexSKRZ-Yu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/BSicon_uexSKRZ-Yu.svg/30px-BSicon_uexSKRZ-Yu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/BSicon_uexSKRZ-Yu.svg/40px-BSicon_uexSKRZ-Yu.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/BSicon_uexSKRZ-Yu.svg/20px-BSicon_uexSKRZ-Yu.svg.png" decoding="async" title="uexSKRZ-Yu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/BSicon_uexSKRZ-Yu.svg/30px-BSicon_uexSKRZ-Yu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/BSicon_uexSKRZ-Yu.svg/40px-BSicon_uexSKRZ-Yu.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BSicon_uSKRZ-Yu.svg/20px-BSicon_uSKRZ-Yu.svg.png" decoding="async" title="uSKRZ-Yu" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BSicon_uSKRZ-Yu.svg/30px-BSicon_uSKRZ-Yu.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BSicon_uSKRZ-Yu.svg/40px-BSicon_uSKRZ-Yu.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Sutton Gault bridges
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BSicon_uexKMW.svg/20px-BSicon_uexKMW.svg.png" decoding="async" title="uexKMW" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BSicon_uexKMW.svg/30px-BSicon_uexKMW.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BSicon_uexKMW.svg/40px-BSicon_uexKMW.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/20px-BSicon_uexSTR.svg.png" decoding="async" title="uexSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/30px-BSicon_uexSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/BSicon_uexSTR.svg/40px-BSicon_uexSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/BSicon_uSTR%2Bl.svg/20px-BSicon_uSTR%2Bl.svg.png" decoding="async" title="uSTR+l" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/BSicon_uSTR%2Bl.svg/30px-BSicon_uSTR%2Bl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/BSicon_uSTR%2Bl.svg/40px-BSicon_uSTR%2Bl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/BSicon_uSTRr.svg/20px-BSicon_uSTRr.svg.png" decoding="async" title="uSTRr" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/BSicon_uSTRr.svg/30px-BSicon_uSTRr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/BSicon_uSTRr.svg/40px-BSicon_uSTRr.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Counter Drain
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BSicon_uexKMW.svg/20px-BSicon_uexKMW.svg.png" decoding="async" title="uexKMW" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BSicon_uexKMW.svg/30px-BSicon_uexKMW.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/BSicon_uexKMW.svg/40px-BSicon_uexKMW.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/20px-BSicon_uKMW.svg.png" decoding="async" title="uKMW" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/30px-BSicon_uKMW.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BSicon_uKMW.svg/40px-BSicon_uKMW.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Old and New Bedford Rivers
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/BSicon_uxWEIRf.svg/20px-BSicon_uxWEIRf.svg.png" decoding="async" title="uxWEIRf" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/BSicon_uxWEIRf.svg/30px-BSicon_uxWEIRf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/BSicon_uxWEIRf.svg/40px-BSicon_uxWEIRf.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/20px-BSicon_uSTR.svg.png" decoding="async" title="uSTR" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/30px-BSicon_uSTR.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BSicon_uSTR.svg/40px-BSicon_uSTR.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Earith Sluice
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSKRZ-Au.svg/20px-BSicon_uexSKRZ-Au.svg.png" decoding="async" title="uexSKRZ-Au" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSKRZ-Au.svg/30px-BSicon_uexSKRZ-Au.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/BSicon_uexSKRZ-Au.svg/40px-BSicon_uexSKRZ-Au.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/20px-BSicon_uSKRZ-Au.svg.png" decoding="async" title="uSKRZ-Au" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/30px-BSicon_uSKRZ-Au.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/BSicon_uSKRZ-Au.svg/40px-BSicon_uSKRZ-Au.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_uCONTg.svg/20px-BSicon_uCONTg.svg.png" decoding="async" title="uCONTg" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_uCONTg.svg/30px-BSicon_uCONTg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/BSicon_uCONTg.svg/40px-BSicon_uCONTg.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">A1123 bridges
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div class="RM_"></div><div class="RM_"></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BSicon_uxABZg%2Bl.svg/20px-BSicon_uxABZg%2Bl.svg.png" decoding="async" title="uxABZg+l" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BSicon_uxABZg%2Bl.svg/30px-BSicon_uxABZg%2Bl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/BSicon_uxABZg%2Bl.svg/40px-BSicon_uxABZg%2Bl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/BSicon_uSTRq.svg/20px-BSicon_uSTRq.svg.png" decoding="async" title="uSTRq" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/BSicon_uSTRq.svg/30px-BSicon_uSTRq.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/BSicon_uSTRq.svg/40px-BSicon_uSTRq.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uFABZqlr.svg/20px-BSicon_uFABZqlr.svg.png" decoding="async" title="uFABZqlr" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uFABZqlr.svg/30px-BSicon_uFABZqlr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BSicon_uFABZqlr.svg/40px-BSicon_uFABZqlr.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BSicon_uFGATEl.svg/20px-BSicon_uFGATEl.svg.png" decoding="async" title="uFGATEl" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BSicon_uFGATEl.svg/30px-BSicon_uFGATEl.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BSicon_uFGATEl.svg/40px-BSicon_uFGATEl.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/BSicon_uSTRr.svg/20px-BSicon_uSTRr.svg.png" decoding="async" title="uSTRr" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/BSicon_uSTRr.svg/30px-BSicon_uSTRr.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/BSicon_uSTRr.svg/40px-BSicon_uSTRr.svg.png 2x" data-file-width="500" data-file-height="500" /></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">Hermitage Lock, Old West River
+</td></tr>
+<tr>
+<td class="RMl" colspan="2">
+</td>
+<td class="RMl1">
+</td>
+<td class="RMir"><div><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/BSicon_uCONTf.svg/20px-BSicon_uCONTf.svg.png" decoding="async" title="uCONTf" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/BSicon_uCONTf.svg/30px-BSicon_uCONTf.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/44/BSicon_uCONTf.svg/40px-BSicon_uCONTf.svg.png 2x" data-file-width="500" data-file-height="500" /></div><div class="RM_"></div><div class="RM_"></div>
+</td>
+<td class="RMr1">
+</td>
+<td class="RMr" colspan="2">to <a href="/wiki/Bedford" title="Bedford">Bedford</a>
+</td></tr>
+<tr>
+<td style="padding:0 3px 0 0;">
+</td>
+<td>
+</td>
+<td class="RMl1">
+</td>
+<td>
+</td>
+<td class="RMr1">
+</td>
+<td>
+</td>
+<td style="padding:0 0 0 3px;">
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+<p>The <b>New Bedford River</b>, also known as the <b>Hundred Foot Drain</b> because of the distance between the tops of the two embankments on either side of the river, is a man-made cut-off or by-pass channel of the <a href="/wiki/River_Great_Ouse" title="River Great Ouse">River Great Ouse</a> in <a href="/wiki/The_Fens" title="The Fens">the Fens</a> of <a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a>, England. It provides an almost straight channel between <a href="/wiki/Earith" title="Earith">Earith</a> and <a href="/wiki/Denver_Sluice" class="mw-redirect" title="Denver Sluice">Denver Sluices</a>. It is tidal, with reverse tidal flow being clearly visible at Welney, some 19 miles (31&#160;km) from the sea.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Course"><span class="tocnumber">2</span> <span class="toctext">Course</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Bibliography"><span class="tocnumber">3</span> <span class="toctext">Bibliography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#References"><span class="tocnumber">3.1</span> <span class="toctext">References</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=New_Bedford_River&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the 1620s, there was discontent in the region through which the New Bedford River now flows, as the land was regularly inundated by flood water. <a href="/wiki/Francis_Russell,_4th_Earl_of_Bedford" title="Francis Russell, 4th Earl of Bedford">Francis Russell, 4th Earl of Bedford</a>, who owned large tracts of land in the vicinity, agreed to carry out drainage works in 1630, in return for 95,000 acres (38,000&#160;ha) of the land which would be reclaimed. He was joined in the project by thirteen other adventurers, who formed a corporation and obtained a charter to carry out the work in 1634. The Dutch engineer <a href="/wiki/Cornelius_Vermuyden" title="Cornelius Vermuyden">Cornelius Vermuyden</a> was engaged to oversee the work, which included nine major drainage channels, including the Bedford River, which ran from Earith to Salter's Lode. The tract of land through which it ran became known as the <a href="/wiki/Bedford_Level" class="mw-redirect" title="Bedford Level">Bedford Level</a>, and the scheme was declared to be complete in 1637. However, in 1638, that decision was reversed, and <a href="/wiki/Charles_I_of_England" title="Charles I of England">King Charles I</a> became the undertaker to ensure the work was completed. The adventurers were given 40,000 acres (16,000&#160;ha) for the work that had already been carried out, and further work was again to be overseen by Vermuyden, but little work was done, as the <a href="/wiki/English_Civil_War" title="English Civil War">English Civil War</a> intervened. The existing works were neglected, and some were deliberately damaged during the hostilities.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>In 1649, interest in the drainage of the Bedford Level resumed, and a second Drainage Act was obtained. It became known as the 'Pretended Act', and authorised <a href="/wiki/William_Russell,_1st_Duke_of_Bedford" title="William Russell, 1st Duke of Bedford">William Russell, the 5th Earl of Bedford</a>, to carry out further work, the chief of which was a second channel parallel to the Bedford River. Vermuyden was again the engineer, and the new channel was completed in 1652. The Bedford River became known as the <a href="/wiki/Old_Bedford_River" title="Old Bedford River">Old Bedford River</a>, and the new channel became the New Bedford River. Sluices were built at Earith and Denver, and the river carried most of the flow of the River Great Ouse, resulting in its old course via Ely becoming just a drainage channel. The <a href="/wiki/Corporation_of_the_Bedford_Level" class="mw-redirect" title="Corporation of the Bedford Level">Corporation of the Bedford Level</a> was set up, and took control of the river and the drainage channels, under the terms of the General Drainage Act, passed in 1663. This move was not popular with those engaged in navigation on the Great Ouse, as the sluices were operated for the benefit of the drainage scheme, and boats often had to wait for days or weeks while the sluices remained closed. The destruction of the Denver Sluice in 1713, caused by exceptional flood levels, was celebrated by the boatmen, but the resultant flooding led to the Corporation building a new sluice between 1748 and 1750. The concerns of the boatmen were placated by the provision of a <a href="/wiki/Lock_(water_transport)" class="mw-redirect" title="Lock (water transport)">navigation lock</a> in the structure.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Welmore_Lake_Sluice_-_geograph.org.uk_-_2734068.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Welmore_Lake_Sluice_-_geograph.org.uk_-_2734068.jpg/220px-Welmore_Lake_Sluice_-_geograph.org.uk_-_2734068.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Welmore_Lake_Sluice_-_geograph.org.uk_-_2734068.jpg/330px-Welmore_Lake_Sluice_-_geograph.org.uk_-_2734068.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/Welmore_Lake_Sluice_-_geograph.org.uk_-_2734068.jpg/440px-Welmore_Lake_Sluice_-_geograph.org.uk_-_2734068.jpg 2x" data-file-width="1600" data-file-height="1200" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Welmore_Lake_Sluice_-_geograph.org.uk_-_2734068.jpg" class="internal" title="Enlarge"></a></div>The outlet of Welmore Lake Sluice into the New Bedford River</div></div></div>
+<p>Some of the workers who built the New Bedford River may have been Scottish prisoners-of-war captured at the <a href="/wiki/Battle_of_Dunbar_(1650)" title="Battle of Dunbar (1650)">Battle of Dunbar</a>, since a number of such prisoners were used on drainage schemes in the Fens, because labourers were scarce. After 1652, they were supplemented by Dutch prisoners, as a result of sea battles between <a href="/wiki/Robert_Blake_(admiral)" title="Robert Blake (admiral)">Admiral Blake</a> and <a href="/wiki/Maarten_Tromp" title="Maarten Tromp">Lieutenant-Admiral Tromp</a> during the <a href="/wiki/First_Anglo-Dutch_War" title="First Anglo-Dutch War">First Anglo-Dutch War</a>, and probably by a colony of French workers stationed near Thorney Abbey.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Towards the northern end of the washes, the New Bedford River is joined by the River Delph at Welmore Lake Sluice. The origins of this channel, which is sometimes called the thirty-foot drain, are obscure, although it was built to assist the removal of water from the washlands, according to C. N. Cole writing in 1784. Prior to 1825, there was a dam where the sluice is located, and water was let out of the washland by cutting a slot in it, which the flood water enlarged as it passed through. The cost of rebuilding the dam at the end of the process was considerable, and this unsatisfactory arrangement was replaced by a sluice. At the same time, the New Bedford River was made wider and deeper, while some of the flood banks were also raised.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> At its southern end, the River Delph is connected to the Old Bedford River at a double bend near Welches Dam. The northern half of the Old Bedford River is no longer connected to its southern half. It is not known exactly when this configuration was built, although it may have been between 1789 and 1821, since Cole's map of 1789 shows the Old Bedford River proceeding in a straight line, and Baker's map of 1821 shows two rivers, each with a double bend.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Blair argues for a date soon after the New Bedford River was built, however, since Welches Dam is named after Edmund Welche, who worked with Vermuyden, and the dam in question was originally built across the Old Bedford River.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<div style="clear:left;"></div>
+<h2><span class="mw-headline" id="Course">Course</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=New_Bedford_River&amp;action=edit&amp;section=2" title="Edit section: Course">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The New Bedford River follows a fairly straight course, heading approximately north-east for 20.8 miles (33.5&#160;km) from Earith to Denver Sluice. While there are no real restrictions on the length or width of boats, draught is limited to 2 feet (0.6&#160;m) and headroom to 7.8 feet (2.4&#160;m), although the river is tidal, and so these values can fluctuate depending on the state of the tide.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Cmglee_New_Bedford_River_aerial.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cmglee_New_Bedford_River_aerial.jpg/220px-Cmglee_New_Bedford_River_aerial.jpg" decoding="async" width="220" height="110" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cmglee_New_Bedford_River_aerial.jpg/330px-Cmglee_New_Bedford_River_aerial.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Cmglee_New_Bedford_River_aerial.jpg/440px-Cmglee_New_Bedford_River_aerial.jpg 2x" data-file-width="1024" data-file-height="512" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Cmglee_New_Bedford_River_aerial.jpg" class="internal" title="Enlarge"></a></div>Aerial view of the New (middle diagonal grey line) and Old (right diagonal grey line) Bedford Rivers crossed by the Ely-March railway (bottom dark line)</div></div></div>
+<p>The area between the two Bedford Rivers, 20 miles (32&#160;km) long and 1,070 yards (980&#160;m) wide at their greatest separation near Welney,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> is below the rivers and below sea level, and is frequently flooded during winter. There is a sluice at Earith which is used to control the waters of the River Great Ouse. It was built with nine openings in 1637, but was subsequently rebuilt with seven openings in 1824, and again with three openings in 1954. When flows in the upper river are normal, the sluice gates are closed, and most of the flow is routed along the tidal New Bedford River. As flows increase, the sluices are opened, and water flows along the Old Bedford River, which progressively floods the 8.9 square miles (23&#160;km<sup>2</sup>) of <a href="/wiki/Washland" title="Washland">washlands</a> which comprise the <a href="/wiki/Ouse_Washes" title="Ouse Washes">Ouse Washes</a>.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> At <a href="/wiki/Welney" title="Welney">Welney</a>, these washes provide an ideal <a href="/wiki/Habitat_(ecology)" class="mw-redirect" title="Habitat (ecology)">habitat</a> for <a href="/wiki/Wildfowl" class="mw-redirect" title="Wildfowl">wildfowl</a> and other birds, and the <a href="/wiki/Wildfowl_and_Wetlands_Trust" class="mw-redirect" title="Wildfowl and Wetlands Trust">Wildfowl and Wetlands Trust</a> has established a <a href="/wiki/Nature_reserve" title="Nature reserve">nature reserve</a> here, the <a href="/wiki/WWT_Welney" class="mw-redirect" title="WWT Welney">WWT Welney</a>. The reserve occupies 990 acres (400&#160;ha), and is accessible from the A1101 bridge by following a minor road to the carpark, and then crossing the New Bedford River by a footbridge. It is important for its wild flowers, dragonflies and butterflies, as well as the birds, which are most numerous when the washland is flooded.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>There are public footpaths on both sides of the river for most of its length, the only exception being a short section of the western bank near Earith. A long-distance footpath called the <a href="/wiki/Hereward_Way" title="Hereward Way">Hereward Way</a> crosses the river by the A1101 bridge at Welney, and then follows the eastern bank southwards almost to the <a href="/wiki/March_railway_station" title="March railway station">March</a> to <a href="/wiki/Ely_railway_station" title="Ely railway station">Ely</a> railway line. It turns to the east a little before the bridge, following the north bank of the Engine Basin, a drainage channel which is pumped into the river by the Hundred Foot Pumping Station.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<div style="clear:left;"></div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=New_Bedford_River&amp;action=edit&amp;section=3" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r886047268">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{list-style-type:none;margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li,.mw-parser-output .refbegin-hanging-indents>dl>dd{margin-left:0;padding-left:3.2em;text-indent:-3.2em;list-style:none}.mw-parser-output .refbegin-100{font-size:100%}</style><div class="refbegin" style="">
+<ul><li><cite id="CITEREFBlair2006a" class="citation book">Blair, Andrew Hunter (2006a). <i>The River Great Ouse and tributaries</i>. Imray Laurie Norie and Wilson Ltd. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-85288-943-5" title="Special:BookSources/978-0-85288-943-5"><bdi>978-0-85288-943-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+River+Great+Ouse+and+tributaries&amp;rft.pub=Imray+Laurie+Norie+and+Wilson+Ltd&amp;rft.date=2006&amp;rft.isbn=978-0-85288-943-5&amp;rft.aulast=Blair&amp;rft.aufirst=Andrew+Hunter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANew+Bedford+River" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></li>
+<li><cite id="CITEREFBlair2006b" class="citation book">Blair, Andrew Hunter (2006b). <i>Fenland Waterways</i>. Imray Laurie Norie and Wilson Ltd. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-85288-994-7" title="Special:BookSources/978-0-85288-994-7"><bdi>978-0-85288-994-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Fenland+Waterways&amp;rft.pub=Imray+Laurie+Norie+and+Wilson+Ltd&amp;rft.date=2006&amp;rft.isbn=978-0-85288-994-7&amp;rft.aulast=Blair&amp;rft.aufirst=Andrew+Hunter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANew+Bedford+River" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFBoyesRussell1977" class="citation book">Boyes, John; Russell, Ronald (1977). <i>The Canals of Eastern England</i>. David and Charles. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7153-7415-3" title="Special:BookSources/978-0-7153-7415-3"><bdi>978-0-7153-7415-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Canals+of+Eastern+England&amp;rft.pub=David+and+Charles&amp;rft.date=1977&amp;rft.isbn=978-0-7153-7415-3&amp;rft.aulast=Boyes&amp;rft.aufirst=John&amp;rft.au=Russell%2C+Ronald&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANew+Bedford+River" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFCumberlidge2009" class="citation book">Cumberlidge, Jane (2009). <i>Inland Waterways of Great Britain (8th Ed.)</i>. Imray Laurie Norie and Wilson. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-84623-010-3" title="Special:BookSources/978-1-84623-010-3"><bdi>978-1-84623-010-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Inland+Waterways+of+Great+Britain+%288th+Ed.%29&amp;rft.pub=Imray+Laurie+Norie+and+Wilson&amp;rft.date=2009&amp;rft.isbn=978-1-84623-010-3&amp;rft.aulast=Cumberlidge&amp;rft.aufirst=Jane&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANew+Bedford+River" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFDarby2011" class="citation book">Darby, H.C. (2011) [1958]. <i>The Draining of the Fens</i>. Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-107-40298-0" title="Special:BookSources/978-1-107-40298-0"><bdi>978-1-107-40298-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Draining+of+the+Fens&amp;rft.pub=Cambridge+University+Press&amp;rft.date=2011&amp;rft.isbn=978-1-107-40298-0&amp;rft.aulast=Darby&amp;rft.aufirst=H.C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANew+Bedford+River" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+</div>
+<h3><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=New_Bedford_River&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="#CITEREFBoyesRussell1977">Boyes &amp; Russell 1977</a>, pp.&#160;137,140</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="#CITEREFBoyesRussell1977">Boyes &amp; Russell 1977</a>, pp.&#160;140–141</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="#CITEREFDarby2011">Darby 2011</a>, p.&#160;76</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="#CITEREFDarby2011">Darby 2011</a>, pp.&#160;186–187</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="#CITEREFDarby2011">Darby 2011</a>, p.&#160;74</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="#CITEREFBlair2006b">Blair 2006b</a>, pp.&#160;38–39</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a href="#CITEREFCumberlidge2009">Cumberlidge 2009</a>, pp.&#160;229–230</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Measured using <a href="/wiki/Google_Earth" title="Google Earth">Google Earth</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a href="#CITEREFBlair2006a">Blair 2006a</a>, p.&#160;33</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a href="#CITEREFBlair2006b">Blair 2006b</a>, p.&#160;39</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Ordnance Survey, 1:25,000 map</span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="River_Great_Ouse,_England" style="padding:3px"><table class="nowraplinks hlist hnum mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:River_Great_Ouse" title="Template:River Great Ouse"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:River_Great_Ouse" title="Template talk:River Great Ouse"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:River_Great_Ouse&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="River_Great_Ouse,_England" style="font-size:114%;margin:0 4em"><a href="/wiki/River_Great_Ouse" title="River Great Ouse">River Great Ouse</a>, England</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Counties</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Northamptonshire" title="Northamptonshire">Northamptonshire</a></li>
+<li><a href="/wiki/Buckinghamshire" title="Buckinghamshire">Buckinghamshire</a></li>
+<li><a href="/wiki/Bedfordshire" title="Bedfordshire">Bedfordshire</a></li>
+<li><a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a></li>
+<li><a href="/wiki/Norfolk" title="Norfolk">Norfolk</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Flows into</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/The_Wash" title="The Wash">The Wash</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Towns <br /> <small style="font-weight: normal;">(upstream to downstream)</small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brackley" title="Brackley">Brackley</a></li>
+<li><a href="/wiki/Buckingham" title="Buckingham">Buckingham</a></li>
+<li><a href="/wiki/Old_Stratford" title="Old Stratford">Old Stratford</a></li>
+<li><a href="/wiki/Milton_Keynes" title="Milton Keynes">Milton Keynes</a>
+<ul><li><a href="/wiki/Stony_Stratford" title="Stony Stratford">Stony Stratford</a></li>
+<li><a href="/wiki/Wolverton" title="Wolverton">Wolverton</a></li>
+<li><a href="/wiki/New_Bradwell" title="New Bradwell">New Bradwell</a></li></ul></li>
+<li><a href="/wiki/Newport_Pagnell" title="Newport Pagnell">Newport Pagnell</a></li>
+<li><a href="/wiki/Olney,_Buckinghamshire" title="Olney, Buckinghamshire">Olney</a></li>
+<li><a href="/wiki/Kempston" title="Kempston">Kempston</a></li>
+<li><a href="/wiki/Bedford" title="Bedford">Bedford</a></li>
+<li><a href="/wiki/St_Neots" title="St Neots">St Neots</a></li>
+<li><a href="/wiki/Godmanchester" title="Godmanchester">Godmanchester</a></li>
+<li><a href="/wiki/Huntingdon" title="Huntingdon">Huntingdon</a></li>
+<li><a href="/wiki/St_Ives,_Cambridgeshire" title="St Ives, Cambridgeshire">St Ives</a></li>
+<li><a href="/wiki/Ely,_Cambridgeshire" title="Ely, Cambridgeshire">Ely</a></li>
+<li><a href="/wiki/Littleport" title="Littleport">Littleport</a></li>
+<li><a href="/wiki/Downham_Market" title="Downham Market">Downham Market</a></li>
+<li><a href="/wiki/King%27s_Lynn" title="King&#39;s Lynn">King's Lynn</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Major tributaries <br /> <small style="font-weight: normal;">(upstream to downstream by <a href="/wiki/Confluence" title="Confluence">confluence</a>)</small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/River_Tove" title="River Tove">River Tove</a></li>
+<li><a href="/wiki/River_Ouzel" title="River Ouzel">River Ouzel</a> (or Lovat)</li>
+<li><a href="/wiki/River_Ivel" title="River Ivel">River Ivel</a></li>
+<li><a href="/wiki/River_Kym" title="River Kym">River Kym</a></li>
+<li><a href="/wiki/Old_Bedford_River" title="Old Bedford River">Old Bedford River</a></li>
+<li><a class="mw-selflink selflink">New Bedford River</a></li>
+<li><a href="/wiki/River_Cam" title="River Cam">River Cam</a></li>
+<li><a href="/wiki/River_Lark" title="River Lark">River Lark</a></li>
+<li><a href="/wiki/River_Little_Ouse" title="River Little Ouse">River Little Ouse</a></li>
+<li><a href="/wiki/River_Wissey" title="River Wissey">River Wissey</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Major bridges <br /> <small style="font-weight: normal;">(upstream to downstream)</small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Harrold,_Bedfordshire" title="Harrold, Bedfordshire">Harrold</a> bridge</li>
+<li><a href="/wiki/A428_road" title="A428 road">A428</a> <a href="/wiki/Turvey,_Bedfordshire" title="Turvey, Bedfordshire">Turvey</a> bridge</li>
+<li><a href="/wiki/A428_road" title="A428 road">A428</a> <a href="/wiki/Bromham,_Bedfordshire" title="Bromham, Bedfordshire">Bromham</a> bypass</li>
+<li><a href="/wiki/A6_road_(Great_Britain)" class="mw-redirect" title="A6 road (Great Britain)">A6</a> <a href="/wiki/Bedford" title="Bedford">Bedford</a> Town Bridge</li>
+<li><a href="/wiki/A421_road" title="A421 road">A421</a> <a href="/wiki/Bedford" title="Bedford">Bedford</a> bypass</li>
+<li><a href="/wiki/Great_Barford_Bridge" title="Great Barford Bridge">Great Barford Bridge</a></li>
+<li>A428 Bridge <a href="/wiki/St_Neots" title="St Neots">St Neots</a></li>
+<li>St Neots Town Bridge</li>
+<li><a href="/wiki/Godmanchester_Chinese_Bridge" title="Godmanchester Chinese Bridge">Godmanchester Chinese Bridge</a></li>
+<li>A14 bridge, River Great Ouse</li>
+<li><a href="/wiki/Old_Bridge,_Huntingdon" title="Old Bridge, Huntingdon">Huntingdon Old Bridge</a></li>
+<li><a href="/wiki/St_Ives_Bridge" title="St Ives Bridge">St Ives Bridge</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<dl><dt><a href="/wiki/List_of_rivers_of_the_United_Kingdom#Longest_rivers_in_the_United_Kingdom" title="List of rivers of the United Kingdom">Longest UK rivers</a></dt></dl>
+<ol><li><a href="/wiki/River_Severn" title="River Severn">Severn</a></li>
+<li><a href="/wiki/River_Thames" title="River Thames">Thames</a></li>
+<li><a href="/wiki/River_Trent" title="River Trent">Trent</a></li>
+<li><a href="/wiki/River_Great_Ouse" title="River Great Ouse">Great Ouse</a></li>
+<li><a href="/wiki/River_Wye" title="River Wye">Wye</a></li>
+<li><a href="/wiki/River_Ure" title="River Ure">Ure</a>/<a href="/wiki/River_Ouse,_Yorkshire" title="River Ouse, Yorkshire">Ouse</a></li>
+<li><a href="/wiki/River_Tay" title="River Tay">Tay</a></li>
+<li><a href="/wiki/River_Spey" title="River Spey">Spey</a></li>
+<li><a href="/wiki/River_Clyde" title="River Clyde">Clyde</a></li>
+<li><a href="/wiki/River_Tweed" title="River Tweed">Tweed</a></li>
+<li><a href="/wiki/River_Avon,_Warwickshire" title="River Avon, Warwickshire">Avon</a></li>
+<li><a href="/wiki/River_Nene" title="River Nene">Nene</a></li>
+<li><a href="/wiki/River_Eden,_Cumbria" title="River Eden, Cumbria">Eden</a></li>
+<li><a href="/wiki/River_Dee,_Aberdeenshire" title="River Dee, Aberdeenshire">Dee</a></li></ol>
+</div></td></tr></tbody></table></div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=New_Bedford_River&amp;params=52_20_N_0_02_E_region:GB_type:river_source:GNS-enwiki"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°20′N</span> <span class="longitude">0°02′E</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.333°N 0.033°E</span><span style="display:none">&#xfeff; / <span class="geo">52.333; 0.033</span></span></span></a></span></span></span>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20190914021513
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.572 seconds
+Real time usage: 0.753 seconds
+Preprocessor visited node count: 1583/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 68254/2097152 bytes
+Template argument size: 670/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 17527/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.189/10.000 seconds
+Lua memory usage: 5.78 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  532.187      1 -total
+ 35.78%  190.395      1 Template:Bedford_Rivers_map
+ 30.72%  163.472      1 Template:Routemap
+ 18.08%   96.228      5 Template:Cite_book
+ 11.81%   62.876      1 Template:Infobox_Canal
+  7.82%   41.620     10 Template:Convert
+  7.55%   40.187      1 Template:Infobox
+  6.34%   33.750      1 Template:Use_dmy_dates
+  6.32%   33.636      1 Template:Reflist
+  5.13%   27.320      1 Template:Coord
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:150864-0!canonical and timestamp 20190914021512 and revision id 871250004
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=New_Bedford_River&amp;oldid=871250004">https://en.wikipedia.org/w/index.php?title=New_Bedford_River&amp;oldid=871250004</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Rivers_of_Cambridgeshire" title="Category:Rivers of Cambridgeshire">Rivers of Cambridgeshire</a></li><li><a href="/wiki/Category:Tributaries_of_the_River_Great_Ouse" title="Category:Tributaries of the River Great Ouse">Tributaries of the River Great Ouse</a></li><li><a href="/wiki/Category:Drainage_canals_in_England" title="Category:Drainage canals in England">Drainage canals in England</a></li><li><a href="/wiki/Category:Canals_in_Cambridgeshire" title="Category:Canals in Cambridgeshire">Canals in Cambridgeshire</a></li><li><a href="/wiki/Category:Canals_opened_in_1652" title="Category:Canals opened in 1652">Canals opened in 1652</a></li><li><a href="/wiki/Category:1652_establishments_in_England" title="Category:1652 establishments in England">1652 establishments in England</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_May_2015" title="Category:Use dmy dates from May 2015">Use dmy dates from May 2015</a></li><li><a href="/wiki/Category:Use_British_English_from_May_2015" title="Category:Use British English from May 2015">Use British English from May 2015</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=New+Bedford+River" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=New+Bedford+River" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/New_Bedford_River" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:New_Bedford_River" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/New_Bedford_River">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=New_Bedford_River&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=New_Bedford_River&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/New_Bedford_River" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/New_Bedford_River" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=New_Bedford_River&amp;oldid=871250004" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=New_Bedford_River&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7005467" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=New_Bedford_River&amp;id=871250004" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:New_Bedford_River" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=New+Bedford+River">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=New+Bedford+River&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=New_Bedford_River&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/New_Bedford_River_(kanal)" title="New Bedford River (kanal) – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/New_Bedford_River_(kanal)" title="New Bedford River (kanal) – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7005467#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 November 2018, at 21:12<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=New_Bedford_River&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.572","walltime":"0.753","ppvisitednodes":{"value":1583,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":68254,"limit":2097152},"templateargumentsize":{"value":670,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":17527,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  532.187      1 -total"," 35.78%  190.395      1 Template:Bedford_Rivers_map"," 30.72%  163.472      1 Template:Routemap"," 18.08%   96.228      5 Template:Cite_book"," 11.81%   62.876      1 Template:Infobox_Canal","  7.82%   41.620     10 Template:Convert","  7.55%   40.187      1 Template:Infobox","  6.34%   33.750      1 Template:Use_dmy_dates","  6.32%   33.636      1 Template:Reflist","  5.13%   27.320      1 Template:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.189","limit":"10.000"},"limitreport-memusage":{"value":6065399,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20190914021513","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"New Bedford River","url":"https:\/\/en.wikipedia.org\/wiki\/New_Bedford_River","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7005467","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7005467","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-11-24T10:12:55Z","dateModified":"2018-11-29T21:12:35Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1e\/New_Bedford_River.jpg","headline":"river in the United Kingdom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1267"});});</script>
+</body>
+</html>
+

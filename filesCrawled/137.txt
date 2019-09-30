@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Johann Schneider-Ammann - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Johann_Schneider-Ammann","wgTitle":"Johann Schneider-Ammann","wgCurRevisionId":903993712,"wgRevisionId":903993712,"wgArticleId":28910977,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","Use dmy dates from July 2017","Use British English from July 2017","Commons category link from Wikidata","Wikipedia articles with GND identifiers","Wikipedia articles with HDS identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1952 births","Agriculture ministers of Switzerland","FDP.The Liberals politicians","Living people","Members of the National Council (Switzerland)","Members of the Swiss Federal Council","People from Emmental District",
+"People from Langenthal","Swiss Protestants"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Johann_Schneider-Ammann","wgRelevantArticleId":28910977,"wgRequestId":"XYwrTgpAMF0AADGqUOIAAAAE","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":
+!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q380063","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready",
+"jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Johann_Schneider-Ammann_2011.jpg/1200px-Johann_Schneider-Ammann_2011.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Johann_Schneider-Ammann"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Johann_Schneider-Ammann&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Johann_Schneider-Ammann&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Johann_Schneider-Ammann"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Johann_Schneider-Ammann rootpage-Johann_Schneider-Ammann skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Johann Schneider-Ammann</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;font-size: 100%;"><div style="display:inline-block; font-size:130%;" class="fn">Johann Schneider-Ammann</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Johann_Schneider-Ammann_2011.jpg" class="image"><img alt="Johann Schneider-Ammann 2011.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Johann_Schneider-Ammann_2011.jpg/220px-Johann_Schneider-Ammann_2011.jpg" decoding="async" width="220" height="257" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Johann_Schneider-Ammann_2011.jpg/330px-Johann_Schneider-Ammann_2011.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Johann_Schneider-Ammann_2011.jpg/440px-Johann_Schneider-Ammann_2011.jpg 2x" data-file-width="2126" data-file-height="2480" /></a></td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em"><a href="/wiki/President_of_the_Swiss_Confederation" title="President of the Swiss Confederation">President of Switzerland</a></th></tr><tr><td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br />1 January 2016&#160;–&#32;31 December 2016</td></tr><tr><th scope="row" style="text-align:left"><span class="nowrap">Vice President</span></th><td><a href="/wiki/Doris_Leuthard" title="Doris Leuthard">Doris Leuthard</a></td></tr><tr><th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th><td><a href="/wiki/Simonetta_Sommaruga" title="Simonetta Sommaruga">Simonetta Sommaruga</a></td></tr><tr><th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th><td><a href="/wiki/Doris_Leuthard" title="Doris Leuthard">Doris Leuthard</a></td></tr><tr><th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em"><a href="/wiki/Vice_President_of_Switzerland" class="mw-redirect" title="Vice President of Switzerland">Vice President of Switzerland</a></th></tr><tr><td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br />1 January 2015&#160;–&#32;31 December 2015</td></tr><tr><th scope="row" style="text-align:left">President</th><td><a href="/wiki/Simonetta_Sommaruga" title="Simonetta Sommaruga">Simonetta Sommaruga</a></td></tr><tr><th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th><td><a href="/wiki/Simonetta_Sommaruga" title="Simonetta Sommaruga">Simonetta Sommaruga</a></td></tr><tr><th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th><td><a href="/wiki/Doris_Leuthard" title="Doris Leuthard">Doris Leuthard</a></td></tr><tr><th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em">Head of the <a href="/wiki/Federal_Department_of_Economic_Affairs,_Education_and_Research" title="Federal Department of Economic Affairs, Education and Research">Department of Economic Affairs, Education and Research</a></th></tr><tr><td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br />1 November 2010&#160;–&#32;31 December 2018</td></tr><tr><th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th><td><a href="/wiki/Doris_Leuthard" title="Doris Leuthard">Doris Leuthard</a></td></tr><tr><th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th><td><a href="/wiki/Guy_Parmelin" title="Guy Parmelin">Guy Parmelin</a></td></tr><tr><th colspan="2" style="text-align:center;background:lavender;line-height:normal;padding:0.2em 0.2em"><a href="/wiki/List_of_members_of_the_Swiss_Federal_Council" title="List of members of the Swiss Federal Council">Member of the Swiss Federal Council</a></th></tr><tr><td colspan="2" style="text-align:center;border-bottom:none"><span class="nowrap"><b>In office</b></span><br />1 November 2010&#160;–&#32;31 December 2018</td></tr><tr><th scope="row" style="text-align:left"><span class="nowrap">Preceded by</span></th><td><a href="/wiki/Hans-Rudolf_Merz" title="Hans-Rudolf Merz">Hans-Rudolf Merz</a></td></tr><tr><th scope="row" style="text-align:left"><span class="nowrap">Succeeded by</span></th><td><a href="/wiki/Karin_Keller-Sutter" title="Karin Keller-Sutter">Karin Keller-Sutter</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th colspan="2" style="text-align:center;background:lavender">Personal details</th></tr><tr><th scope="row">Born</th><td><div style="display:inline" class="nickname">Johann Niklaus Schneider</div><br /><span style="display:none"> (<span class="bday">1952-02-18</span>) </span>18 February 1952<span class="noprint ForceAgeToShow"> (age&#160;67)</span><br /><a href="/wiki/Sumiswald" title="Sumiswald">Sumiswald</a>, <a href="/wiki/Canton_of_Bern" title="Canton of Bern">Canton of Bern</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></td></tr><tr><th scope="row">Political party</th><td><a href="/wiki/FDP.The_Liberals" title="FDP.The Liberals">FDP.The Liberals</a></td></tr><tr><th scope="row">Spouse(s)</th><td>Katharina Ammann</td></tr><tr><th scope="row">Children</th><td>2</td></tr><tr><th scope="row"><a href="/wiki/Alma_mater" title="Alma mater">Alma mater</a></th><td><a href="/wiki/ETH_Zurich" title="ETH Zurich">ETH Zürich</a><br /><a href="/wiki/INSEAD" title="INSEAD">INSEAD</a></td></tr></tbody></table>
+<p><b>Johann Niklaus Schneider-Ammann</b> (born <b>Schneider</b>; 18 February 1952) is a Swiss businessman and a politician.  Schneider-Ammann is married, has two children, and lives in <a href="/wiki/Langenthal" title="Langenthal">Langenthal</a>, <a href="/wiki/Canton_of_Bern" title="Canton of Bern">Canton of Bern</a>, Switzerland.
+</p><p>The son of a <a href="/wiki/Veterinarian" title="Veterinarian">veterinarian</a> born in <a href="/wiki/Sumiswald" title="Sumiswald">Sumiswald</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a>, Schneider-Ammann graduated as an <a href="/wiki/Electrical_engineering" title="Electrical engineering">electrical engineer</a> from the <a href="/wiki/ETH_Z%C3%BCrich" class="mw-redirect" title="ETH Zürich">ETH Zürich</a> in 1977, and obtained a <a href="/wiki/Master_of_Business_Administration" title="Master of Business Administration">Master of Business Administration</a> from <a href="/wiki/INSEAD" title="INSEAD">INSEAD</a> in <a href="/wiki/France" title="France">France</a> in 1983.<sup id="cite_ref-Le_Matin_1-0" class="reference"><a href="#cite_note-Le_Matin-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>From 1990 to 2010, Schneider-Ammann acted as the head of his family's <a href="/wiki/Mechanical_engineering" title="Mechanical engineering">mechanical engineering</a> company, <a href="/wiki/Ammann_Group" title="Ammann Group">Ammann Group</a>, in the 4th generation, when he passed control over the company to his two children.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Political_career"><span class="tocnumber">1</span> <span class="toctext">Political career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Other_activities"><span class="tocnumber">2</span> <span class="toctext">Other activities</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Notes_and_references"><span class="tocnumber">3</span> <span class="toctext">Notes and references</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Political_career">Political career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johann_Schneider-Ammann&amp;action=edit&amp;section=1" title="Edit section: Political career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1999, Schneider-Ammann was elected to the Swiss National Council, and is a member of the <a href="/wiki/Free_Democratic_Party_of_Switzerland" title="Free Democratic Party of Switzerland">Free Democratic Party</a>.
+</p><p>From 1999, Schneider-Ammann chaired the corporate union <a href="/wiki/Swissmem" title="Swissmem">Swissmem</a>. Schneider-Ammann was elected to the <a href="/wiki/Swiss_National_Council" class="mw-redirect" title="Swiss National Council">National Council</a> in <a href="/wiki/1999_Swiss_federal_election" title="1999 Swiss federal election">1999</a>, and re-elected in <a href="/wiki/2003_Swiss_federal_election" title="2003 Swiss federal election">2003</a> and <a href="/wiki/2007_Swiss_federal_election" title="2007 Swiss federal election">2007</a>.
+</p><p>In the context of the <a href="/wiki/2008_financial_crisis" class="mw-redirect" title="2008 financial crisis">2008 financial crisis</a>, Schneider-Ammann took a critical stance on bonuses awarded to the finance industry.<sup id="cite_ref-Egenter_3-0" class="reference"><a href="#cite_note-Egenter-3">&#91;3&#93;</a></sup>
+</p><p>In 2008, Schneider-Ammann's company moved substantial funds to a <a href="/wiki/Tax_haven" title="Tax haven">tax haven</a> in <a href="/wiki/Jersey" title="Jersey">Jersey</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>On <a href="/wiki/2010_Swiss_Federal_Council_election" title="2010 Swiss Federal Council election">22 September 2010</a>, Schneider-Ammann was elected to the <a href="/wiki/Swiss_Federal_Council" class="mw-redirect" title="Swiss Federal Council">Swiss Federal Council</a>, as the successor to <a href="/wiki/Hans-Rudolf_Merz" title="Hans-Rudolf Merz">Hans-Rudolf Merz</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Schneider-Ammann is the head of the <a href="/wiki/Federal_Department_of_Economic_Affairs,_Education_and_Research" title="Federal Department of Economic Affairs, Education and Research">Federal Department of Economic Affairs, Education and Research</a>—the Swiss <a href="/wiki/Commerce_minister" title="Commerce minister">commerce minister</a> (formerly the Federal Department of Economic Affairs)--taking office on 1 November 2010.<sup id="cite_ref-ATS-2010_6-0" class="reference"><a href="#cite_note-ATS-2010-6">&#91;6&#93;</a></sup>
+Schneider-Ammann had previously announced his intention to step down from his corporate responsibilities as well as various board memberships if elected.<sup id="cite_ref-Le_Matin_1-1" class="reference"><a href="#cite_note-Le_Matin-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Other_activities">Other activities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johann_Schneider-Ammann&amp;action=edit&amp;section=2" title="Edit section: Other activities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Asian_Infrastructure_Investment_Bank" title="Asian Infrastructure Investment Bank">Asian Infrastructure Investment Bank</a> (AIIB), Ex-Officio Member of the Board of Governors<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li>
+<li><a href="/wiki/European_Bank_for_Reconstruction_and_Development" title="European Bank for Reconstruction and Development">European Bank for Reconstruction and Development</a> (EBRD), Ex-Officio Member of the Board of Governors<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li>
+<li>Joint World Bank-IMF Development Committee, Member<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Notes_and_references">Notes and references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johann_Schneider-Ammann&amp;action=edit&amp;section=3" title="Edit section: Notes and references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Le_Matin-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Le_Matin_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Le_Matin_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.lematin.ch/actu/suisse/johann-schneider-ammann-capitaine-industrie-326053">"Johann Schneider-Ammann: un capitaine d'industrie"</a>. <i>Le Matin</i> (in French). Edipresse Publications SA. 22 September 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">22 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Le+Matin&amp;rft.atitle=Johann+Schneider-Ammann%3A+un+capitaine+d%E2%80%99industrie&amp;rft.date=2010-09-22&amp;rft_id=http%3A%2F%2Fwww.lematin.ch%2Factu%2Fsuisse%2Fjohann-schneider-ammann-capitaine-industrie-326053&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohann+Schneider-Ammann" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tsr.ch/info/suisse/2477380-schneider-ammann-le-sacre-de-l-entrepreneur.html">"Schneider-Ammann: le sacre de l'entrepreneur"</a>. <i>TSR info</i> (in French). SRG SSR Idée Suisse. 20 September 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">22 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TSR+info&amp;rft.atitle=Schneider-Ammann%3A+le+sacre+de+l%E2%80%99entrepreneur&amp;rft.date=2010-09-20&amp;rft_id=http%3A%2F%2Fwww.tsr.ch%2Finfo%2Fsuisse%2F2477380-schneider-ammann-le-sacre-de-l-entrepreneur.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohann+Schneider-Ammann" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Egenter-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Egenter_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Egenter, Sven; Rhodes, Jason (22 September 2010). <a rel="nofollow" class="external text" href="https://www.reuters.com/article/idUSLDE68L0ZO20100922?pageNumber=2">"Women take majority in Swiss cabinet for first time"</a>. <i>Reuters</i>. Thomson Reuters. p.&#160;2<span class="reference-accessdate">. Retrieved <span class="nowrap">22 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Reuters&amp;rft.atitle=Women+take+majority+in+Swiss+cabinet+for+first+time&amp;rft.pages=2&amp;rft.date=2010-09-22&amp;rft.aulast=Egenter&amp;rft.aufirst=Sven&amp;rft.au=Rhodes%2C+Jason&amp;rft_id=https%3A%2F%2Fwww.reuters.com%2Farticle%2FidUSLDE68L0ZO20100922%3FpageNumber%3D2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohann+Schneider-Ammann" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Andreas Valda, <a rel="nofollow" class="external text" href="http://www.tagesanzeiger.ch/wirtschaft/SchneiderAmmann-ein-Steueroptimierer/story/27059323">Schneider-Ammann, ein Steueroptimierer?</a>, <i><a href="/wiki/Tages-Anzeiger" title="Tages-Anzeiger">Tages-Anzeiger</a></i>  30 January 2014.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.swissinfo.ch/eng/specials/election_cabinet/Elections_produce_female_majority_in_cabinet.html?cid=28376382">"Elections produce female majority in cabinet"</a>. <i>Swissinfo.ch</i>. SRG SSR Idée Suisse. 22 September 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">22 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Swissinfo.ch&amp;rft.atitle=Elections+produce+female+majority+in+cabinet&amp;rft.date=2010-09-22&amp;rft_id=http%3A%2F%2Fwww.swissinfo.ch%2Feng%2Fspecials%2Felection_cabinet%2FElections_produce_female_majority_in_cabinet.html%3Fcid%3D28376382&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohann+Schneider-Ammann" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-ATS-2010-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-ATS-2010_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.tsr.ch/info/suisse/2515971-leuthard-au-detec-widmer-schlumpf-aux-finances.html">"Leuthard au DETEC, Widmer-Schlumpf aux finances"</a>. <i>TSR Télévision Suisse Romande</i>. SRG SSR. 27 September 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">27 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TSR+T%C3%A9l%C3%A9vision+Suisse+Romande&amp;rft.atitle=Leuthard+au+DETEC%2C+Widmer-Schlumpf+aux+finances&amp;rft.date=2010-09-27&amp;rft_id=http%3A%2F%2Fwww.tsr.ch%2Finfo%2Fsuisse%2F2515971-leuthard-au-detec-widmer-schlumpf-aux-finances.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AJohann+Schneider-Ammann" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.aiib.org/en/about-aiib/governance/board-governors/index.html">Board of Governors</a> <a href="/wiki/Asian_Infrastructure_Investment_Bank" title="Asian Infrastructure Investment Bank">Asian Infrastructure Investment Bank</a> (AIIB).</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ebrd.com/shareholders-and-board-of-governors.html">Board of Governors</a> <a href="/wiki/European_Bank_for_Reconstruction_and_Development" title="European Bank for Reconstruction and Development">European Bank for Reconstruction and Development</a> (EBRD).</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.devcommittee.org/sites/www.devcommittee.org/files/documents/DCMembers_1.pdf">Members</a> Joint World Bank-IMF Development Committee.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Johann_Schneider-Ammann&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Johann_Schneider-Ammann" class="extiw" title="commons:Category:Johann Schneider-Ammann">Johann Schneider-Ammann</a> at Wikimedia Commons</li>
+<li><a rel="nofollow" class="external text" href="https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council/johann_n.-schneider-ammann.html">Profile of Johann Schneider-Ammann</a> with election results on the <a rel="nofollow" class="external text" href="https://www.admin.ch/gov/en/start.html">website of the Swiss Federal Council</a>.</li>
+<li><a rel="nofollow" class="external text" href="https://www.parlament.ch/E/Suche/Pages/biografie.aspx?biografie_id=508">Biography of Johann Schneider-Ammann</a> on the <a rel="nofollow" class="external text" href="https://www.parlament.ch/E/">website of the Swiss Parliament</a>. <span class="languageicon" style="font-size:0.95em; font-weight:bold; color:#555;">(de)</span></li></ul>
+<table class="wikitable succession-box" style="margin:0.5em auto; font-size:95%;clear:both;">
+
+<tbody><tr>
+<th colspan="3" style="border-top: 5px solid #ccccff;">Political offices
+</th></tr>
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br /><span style="font-weight: bold"><a href="/wiki/Hans-Rudolf_Merz" title="Hans-Rudolf Merz">Hans-Rudolf Merz</a></span>
+</td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/List_of_members_of_the_Swiss_Federal_Council" title="List of members of the Swiss Federal Council">Member of the Swiss Federal Council</a></b><br />2010–2018
+</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br /><span style="font-weight: bold"><a href="/wiki/Karin_Keller-Sutter" title="Karin Keller-Sutter">Karin Keller-Sutter</a></span>
+</td></tr>
+
+
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="1">Preceded&#160;by<br /><span style="font-weight: bold"><a href="/wiki/Doris_Leuthard" title="Doris Leuthard">Doris Leuthard</a></span>
+</td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b> Head of the <a href="/wiki/Federal_Department_of_Economic_Affairs,_Education_and_Research" title="Federal Department of Economic Affairs, Education and Research">Department of Economic Affairs, Education and Research</a></b><br />2010–2018
+</td>
+<td style="width: 30%; text-align: center;" rowspan="1">Succeeded&#160;by<br /><span style="font-weight: bold"><a href="/wiki/Guy_Parmelin" title="Guy Parmelin">Guy Parmelin</a></span>
+</td></tr>
+
+
+<tr style="text-align:center;">
+<td style="width:30%;" rowspan="2">Preceded&#160;by<br /><span style="font-weight: bold"><a href="/wiki/Simonetta_Sommaruga" title="Simonetta Sommaruga">Simonetta Sommaruga</a></span>
+</td>
+<td style="width: 40%; text-align: center;" rowspan="1"><b> Vice President of Switzerland</b><br />2015
+</td>
+<td style="width: 30%; text-align: center;" rowspan="2">Succeeded&#160;by<br /><span style="font-weight: bold"><a href="/wiki/Doris_Leuthard" title="Doris Leuthard">Doris Leuthard</a></span>
+</td></tr>
+
+<tr>
+<td style="width: 40%; text-align: center;" rowspan="1"><b> <a href="/wiki/President_of_the_Swiss_Confederation" title="President of the Swiss Confederation">President of Switzerland</a></b><br />2016
+</td></tr></tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="President_of_the_Swiss_Confederation_(list)" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Presidents_of_the_Swiss_Confederation" title="Template:Presidents of the Swiss Confederation"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Presidents_of_the_Swiss_Confederation" title="Template talk:Presidents of the Swiss Confederation"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Presidents_of_the_Swiss_Confederation&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="President_of_the_Swiss_Confederation_(list)" style="font-size:114%;margin:0 4em"><a href="/wiki/President_of_the_Swiss_Confederation" title="President of the Swiss Confederation">President of the Swiss Confederation</a> (<a href="/wiki/List_of_Presidents_of_the_Swiss_Confederation" class="mw-redirect" title="List of Presidents of the Swiss Confederation">list</a>)</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;line-height:1.1; padding:0.35em 1em; text-align:center;">1848–1874</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.4;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jonas_Furrer" title="Jonas Furrer">Furrer</a></li>
+<li><a href="/wiki/Henri_Druey" title="Henri Druey">Druey</a></li>
+<li><a href="/wiki/Josef_Munzinger" title="Josef Munzinger">Munzinger</a></li>
+<li><a href="/wiki/Jonas_Furrer" title="Jonas Furrer">Furrer</a></li>
+<li><a href="/wiki/Wilhelm_Matthias_Naeff" title="Wilhelm Matthias Naeff">Naeff</a></li>
+<li><a href="/wiki/Friedrich_Frey-Heros%C3%A9" title="Friedrich Frey-Herosé">Frey-Herosé</a></li>
+<li><a href="/wiki/Jonas_Furrer" title="Jonas Furrer">Furrer</a></li>
+<li><a href="/wiki/Jakob_St%C3%A4mpfli" title="Jakob Stämpfli">Stämpfli</a></li>
+<li><a href="/wiki/Constant_Fornerod" title="Constant Fornerod">Fornerod</a></li>
+<li><a href="/wiki/Jonas_Furrer" title="Jonas Furrer">Furrer</a></li>
+<li><a href="/wiki/Jakob_St%C3%A4mpfli" title="Jakob Stämpfli">Stämpfli</a></li>
+<li><a href="/wiki/Friedrich_Frey-Heros%C3%A9" title="Friedrich Frey-Herosé">Frey-Herosé</a></li>
+<li><a href="/wiki/Melchior_Josef_Martin_Kn%C3%BCsel" title="Melchior Josef Martin Knüsel">Knüsel</a></li>
+<li><a href="/wiki/Jakob_St%C3%A4mpfli" title="Jakob Stämpfli">Stämpfli</a></li>
+<li><a href="/wiki/Constant_Fornerod" title="Constant Fornerod">Fornerod</a></li>
+<li><a href="/wiki/Jakob_Dubs" title="Jakob Dubs">Dubs</a></li>
+<li><a href="/wiki/Karl_Schenk" title="Karl Schenk">Schenk</a></li>
+<li><a href="/wiki/Melchior_Josef_Martin_Kn%C3%BCsel" title="Melchior Josef Martin Knüsel">Knüsel</a></li>
+<li><a href="/wiki/Constant_Fornerod" title="Constant Fornerod">Fornerod</a></li>
+<li><a href="/wiki/Jakob_Dubs" title="Jakob Dubs">Dubs</a></li>
+<li><a href="/wiki/Emil_Welti" title="Emil Welti">Welti</a></li>
+<li><a href="/wiki/Jakob_Dubs" title="Jakob Dubs">Dubs</a></li>
+<li><a href="/wiki/Karl_Schenk" title="Karl Schenk">Schenk</a></li>
+<li><a href="/wiki/Emil_Welti" title="Emil Welti">Welti</a></li>
+<li><a href="/wiki/Paul_C%C3%A9r%C3%A9sole" title="Paul Cérésole">Cérésole</a></li>
+<li><a href="/wiki/Karl_Schenk" title="Karl Schenk">Schenk</a></li></ul>
+</div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Coat_of_arms_of_Switzerland.svg" class="image" title="Coat of Arms of Switzerland"><img alt="Coat of Arms of Switzerland" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coat_of_arms_of_Switzerland.svg/50px-Coat_of_arms_of_Switzerland.svg.png" decoding="async" width="50" height="55" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coat_of_arms_of_Switzerland.svg/75px-Coat_of_arms_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Coat_of_arms_of_Switzerland.svg/100px-Coat_of_arms_of_Switzerland.svg.png 2x" data-file-width="604" data-file-height="669" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;line-height:1.1; padding:0.35em 1em; text-align:center;">1875–1899</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.4;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Johann_Jakob_Scherer" title="Johann Jakob Scherer">Scherer</a></li>
+<li><a href="/wiki/Emil_Welti" title="Emil Welti">Welti</a></li>
+<li><a href="/wiki/Joachim_Heer" title="Joachim Heer">Heer</a></li>
+<li><a href="/wiki/Karl_Schenk" title="Karl Schenk">Schenk</a></li>
+<li><a href="/wiki/Bernhard_Hammer" title="Bernhard Hammer">Hammer</a></li>
+<li><a href="/wiki/Emil_Welti" title="Emil Welti">Welti</a></li>
+<li><a href="/wiki/Numa_Droz" title="Numa Droz">Droz</a></li>
+<li><a href="/wiki/Simeon_Bavier" title="Simeon Bavier">Bavier</a></li>
+<li><a href="/wiki/Louis_Ruchonnet" title="Louis Ruchonnet">Ruchonnet</a></li>
+<li><a href="/wiki/Emil_Welti" title="Emil Welti">Welti</a></li>
+<li><a href="/wiki/Karl_Schenk" title="Karl Schenk">Schenk</a></li>
+<li><a href="/wiki/Adolf_Deucher" title="Adolf Deucher">Deucher</a></li>
+<li><a href="/wiki/Numa_Droz" title="Numa Droz">Droz</a></li>
+<li><a href="/wiki/Wilhelm_Hertenstein" title="Wilhelm Hertenstein">Hertenstein</a></li>
+<li><a href="/wiki/Bernhard_Hammer" title="Bernhard Hammer">Hammer</a></li>
+<li><a href="/wiki/Louis_Ruchonnet" title="Louis Ruchonnet">Ruchonnet</a></li>
+<li><a href="/wiki/Emil_Welti" title="Emil Welti">Welti</a></li>
+<li><a href="/wiki/Walter_Hauser" title="Walter Hauser">Hauser</a></li>
+<li><a href="/wiki/Karl_Schenk" title="Karl Schenk">Schenk</a></li>
+<li><a href="/wiki/Emil_Frey" title="Emil Frey">Frey</a></li>
+<li><a href="/wiki/Josef_Zemp" title="Josef Zemp">Zemp</a></li>
+<li><a href="/wiki/Adrien_Lachenal" title="Adrien Lachenal">Lachenal</a></li>
+<li><a href="/wiki/Adolf_Deucher" title="Adolf Deucher">Deucher</a></li>
+<li><a href="/wiki/Eug%C3%A8ne_Ruffy" title="Eugène Ruffy">Ruffy</a></li>
+<li><a href="/wiki/Eduard_M%C3%BCller_(Swiss_politician)" title="Eduard Müller (Swiss politician)">Müller</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;line-height:1.1; padding:0.35em 1em; text-align:center;">1900–1924</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.4;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Walter_Hauser" title="Walter Hauser">Hauser</a></li>
+<li><a href="/wiki/Ernst_Brenner" title="Ernst Brenner">Brenner</a></li>
+<li><a href="/wiki/Josef_Zemp" title="Josef Zemp">Zemp</a></li>
+<li><a href="/wiki/Adolf_Deucher" title="Adolf Deucher">Deucher</a></li>
+<li><a href="/wiki/Robert_Comtesse" title="Robert Comtesse">Comtesse</a></li>
+<li><a href="/wiki/Marc-Emile_Ruchet" class="mw-redirect" title="Marc-Emile Ruchet">Ruchet</a></li>
+<li><a href="/wiki/Ludwig_Forrer" title="Ludwig Forrer">Forrer</a></li>
+<li><a href="/wiki/Eduard_M%C3%BCller_(Swiss_politician)" title="Eduard Müller (Swiss politician)">Müller</a></li>
+<li><a href="/wiki/Ernst_Brenner" title="Ernst Brenner">Brenner</a></li>
+<li><a href="/wiki/Adolf_Deucher" title="Adolf Deucher">Deucher</a></li>
+<li><a href="/wiki/Robert_Comtesse" title="Robert Comtesse">Comtesse</a></li>
+<li><a href="/wiki/Marc-Emile_Ruchet" class="mw-redirect" title="Marc-Emile Ruchet">Ruchet</a></li>
+<li><a href="/wiki/Ludwig_Forrer" title="Ludwig Forrer">Forrer</a></li>
+<li><a href="/wiki/Eduard_M%C3%BCller_(Swiss_politician)" title="Eduard Müller (Swiss politician)">Müller</a></li>
+<li><a href="/wiki/Arthur_Hoffmann_(politician)" title="Arthur Hoffmann (politician)">Hoffmann</a></li>
+<li><a href="/wiki/Giuseppe_Motta" title="Giuseppe Motta">Motta</a></li>
+<li><a href="/wiki/Camille_Decoppet" title="Camille Decoppet">Decoppet</a></li>
+<li><a href="/wiki/Edmund_Schulthess" title="Edmund Schulthess">Schulthess</a></li>
+<li><a href="/wiki/Felix_Calonder" title="Felix Calonder">Calonder</a></li>
+<li><a href="/wiki/Gustave_Ador" title="Gustave Ador">Ador</a></li>
+<li><a href="/wiki/Giuseppe_Motta" title="Giuseppe Motta">Motta</a></li>
+<li><a href="/wiki/Edmund_Schulthess" title="Edmund Schulthess">Schulthess</a></li>
+<li><a href="/wiki/Robert_Haab" title="Robert Haab">Haab</a></li>
+<li><a href="/wiki/Karl_Scheurer" title="Karl Scheurer">Scheurer</a></li>
+<li><a href="/wiki/Ernest_Chuard" title="Ernest Chuard">Chuard</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;line-height:1.1; padding:0.35em 1em; text-align:center;">1925–1949</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.4;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Jean-Marie_Musy" title="Jean-Marie Musy">Musy</a></li>
+<li><a href="/wiki/Heinrich_H%C3%A4berlin" title="Heinrich Häberlin">Häberlin</a></li>
+<li><a href="/wiki/Giuseppe_Motta" title="Giuseppe Motta">Motta</a></li>
+<li><a href="/wiki/Edmund_Schulthess" title="Edmund Schulthess">Schulthess</a></li>
+<li><a href="/wiki/Robert_Haab" title="Robert Haab">Haab</a></li>
+<li><a href="/wiki/Jean-Marie_Musy" title="Jean-Marie Musy">Musy</a></li>
+<li><a href="/wiki/Heinrich_H%C3%A4berlin" title="Heinrich Häberlin">Häberlin</a></li>
+<li><a href="/wiki/Giuseppe_Motta" title="Giuseppe Motta">Motta</a></li>
+<li><a href="/wiki/Edmund_Schulthess" title="Edmund Schulthess">Schulthess</a></li>
+<li><a href="/wiki/Marcel_Pilet-Golaz" title="Marcel Pilet-Golaz">Pilet-Golaz</a></li>
+<li><a href="/wiki/Rudolf_Minger" title="Rudolf Minger">Minger</a></li>
+<li><a href="/wiki/Albert_Meyer_(politician)" title="Albert Meyer (politician)">Meyer</a></li>
+<li><a href="/wiki/Giuseppe_Motta" title="Giuseppe Motta">Motta</a></li>
+<li><a href="/wiki/Johannes_Baumann" title="Johannes Baumann">Baumann</a></li>
+<li><a href="/wiki/Philipp_Etter" title="Philipp Etter">Etter</a></li>
+<li><a href="/wiki/Marcel_Pilet-Golaz" title="Marcel Pilet-Golaz">Pilet-Golaz</a></li>
+<li><a href="/wiki/Ernst_Wetter" title="Ernst Wetter">Wetter</a></li>
+<li><a href="/wiki/Philipp_Etter" title="Philipp Etter">Etter</a></li>
+<li><a href="/wiki/Enrico_Celio" title="Enrico Celio">E. Celio</a></li>
+<li><a href="/wiki/Walther_Stampfli" title="Walther Stampfli">Stampfli</a></li>
+<li><a href="/wiki/Eduard_von_Steiger" title="Eduard von Steiger">von Steiger</a></li>
+<li><a href="/wiki/Karl_Kobelt" title="Karl Kobelt">Kobelt</a></li>
+<li><a href="/wiki/Philipp_Etter" title="Philipp Etter">Etter</a></li>
+<li><a href="/wiki/Enrico_Celio" title="Enrico Celio">E. Celio</a></li>
+<li><a href="/wiki/Ernst_Nobs" title="Ernst Nobs">Nobs</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;line-height:1.1; padding:0.35em 1em; text-align:center;">1950–1974</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.4;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Max_Petitpierre" title="Max Petitpierre">Petitpierre</a></li>
+<li><a href="/wiki/Eduard_von_Steiger" title="Eduard von Steiger">Steiger</a></li>
+<li><a href="/wiki/Karl_Kobelt" title="Karl Kobelt">Kobelt</a></li>
+<li><a href="/wiki/Philipp_Etter" title="Philipp Etter">Etter</a></li>
+<li><a href="/wiki/Rodolphe_Rubattel" title="Rodolphe Rubattel">Rubattel</a></li>
+<li><a href="/wiki/Max_Petitpierre" title="Max Petitpierre">Petitpierre</a></li>
+<li><a href="/wiki/Markus_Feldmann" title="Markus Feldmann">Feldmann</a></li>
+<li><a href="/wiki/Hans_Streuli" title="Hans Streuli">Streuli</a></li>
+<li><a href="/wiki/Thomas_Holenstein" title="Thomas Holenstein">Holenstein</a></li>
+<li><a href="/wiki/Paul_Chaudet" title="Paul Chaudet">Chaudet</a></li>
+<li><a href="/wiki/Max_Petitpierre" title="Max Petitpierre">Petitpierre</a></li>
+<li><a href="/wiki/Friedrich_Traugott_Wahlen" title="Friedrich Traugott Wahlen">Wahlen</a></li>
+<li><a href="/wiki/Paul_Chaudet" title="Paul Chaudet">Chaudet</a></li>
+<li><a href="/wiki/Willy_Sp%C3%BChler" title="Willy Spühler">Spühler</a></li>
+<li><a href="/wiki/Ludwig_von_Moos" title="Ludwig von Moos">von Moos</a></li>
+<li><a href="/wiki/Hans-Peter_Tschudi" title="Hans-Peter Tschudi">Tschudi</a></li>
+<li><a href="/wiki/Hans_Schaffner" title="Hans Schaffner">Schaffner</a></li>
+<li><a href="/wiki/Roger_Bonvin" title="Roger Bonvin">Bonvin</a></li>
+<li><a href="/wiki/Willy_Sp%C3%BChler" title="Willy Spühler">Spühler</a></li>
+<li><a href="/wiki/Ludwig_von_Moos" title="Ludwig von Moos">von Moos</a></li>
+<li><a href="/wiki/Hans-Peter_Tschudi" title="Hans-Peter Tschudi">Tschudi</a></li>
+<li><a href="/wiki/Rudolf_Gn%C3%A4gi" title="Rudolf Gnägi">Gnägi</a></li>
+<li><a href="/wiki/Nello_Celio" title="Nello Celio">N. Celio</a></li>
+<li><a href="/wiki/Roger_Bonvin" title="Roger Bonvin">Bonvin</a></li>
+<li><a href="/wiki/Ernst_Brugger" title="Ernst Brugger">Brugger</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;line-height:1.1; padding:0.35em 1em; text-align:center;">1975–1999</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.4;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Pierre_Graber" title="Pierre Graber">Graber</a></li>
+<li><a href="/wiki/Rudolf_Gn%C3%A4gi" title="Rudolf Gnägi">Gnägi</a></li>
+<li><a href="/wiki/Kurt_Furgler" title="Kurt Furgler">Furgler</a></li>
+<li><a href="/wiki/Willi_Ritschard" title="Willi Ritschard">Ritschard</a></li>
+<li><a href="/wiki/Hans_H%C3%BCrlimann" title="Hans Hürlimann">Hürlimann</a></li>
+<li><a href="/wiki/Georges-Andr%C3%A9_Chevallaz" title="Georges-André Chevallaz">Chevallaz</a></li>
+<li><a href="/wiki/Kurt_Furgler" title="Kurt Furgler">Furgler</a></li>
+<li><a href="/wiki/Fritz_Honegger" title="Fritz Honegger">Honegger</a></li>
+<li><a href="/wiki/Pierre_Aubert" title="Pierre Aubert">Aubert</a></li>
+<li><a href="/wiki/Leon_Schlumpf" title="Leon Schlumpf">Schlumpf</a></li>
+<li><a href="/wiki/Kurt_Furgler" title="Kurt Furgler">Furgler</a></li>
+<li><a href="/wiki/Alphons_Egli" title="Alphons Egli">Egli</a></li>
+<li><a href="/wiki/Pierre_Aubert" title="Pierre Aubert">Aubert</a></li>
+<li><a href="/wiki/Otto_Stich" title="Otto Stich">Stich</a></li>
+<li><a href="/wiki/Jean-Pascal_Delamuraz" title="Jean-Pascal Delamuraz">Delamuraz</a></li>
+<li><a href="/wiki/Arnold_Koller" title="Arnold Koller">Koller</a></li>
+<li><a href="/wiki/Flavio_Cotti" title="Flavio Cotti">Cotti</a></li>
+<li><a href="/wiki/Ren%C3%A9_Felber" title="René Felber">Felber</a></li>
+<li><a href="/wiki/Adolf_Ogi" title="Adolf Ogi">Ogi</a></li>
+<li><a href="/wiki/Otto_Stich" title="Otto Stich">Stich</a></li>
+<li><a href="/wiki/Kaspar_Villiger" title="Kaspar Villiger">Villiger</a></li>
+<li><a href="/wiki/Jean-Pascal_Delamuraz" title="Jean-Pascal Delamuraz">Delamuraz</a></li>
+<li><a href="/wiki/Arnold_Koller" title="Arnold Koller">Koller</a></li>
+<li><a href="/wiki/Flavio_Cotti" title="Flavio Cotti">Cotti</a></li>
+<li><a href="/wiki/Ruth_Dreifuss" title="Ruth Dreifuss">Dreifuss</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;line-height:1.1; padding:0.35em 1em; text-align:center;">2000–present</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;line-height:1.4;"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Adolf_Ogi" title="Adolf Ogi">Ogi</a></li>
+<li><a href="/wiki/Moritz_Leuenberger" title="Moritz Leuenberger">Leuenberger</a></li>
+<li><a href="/wiki/Kaspar_Villiger" title="Kaspar Villiger">Villiger</a></li>
+<li><a href="/wiki/Pascal_Couchepin" title="Pascal Couchepin">Couchepin</a></li>
+<li><a href="/wiki/Joseph_Deiss" title="Joseph Deiss">Deiss</a></li>
+<li><a href="/wiki/Samuel_Schmid" title="Samuel Schmid">Schmid</a></li>
+<li><a href="/wiki/Moritz_Leuenberger" title="Moritz Leuenberger">Leuenberger</a></li>
+<li><a href="/wiki/Micheline_Calmy-Rey" title="Micheline Calmy-Rey">Calmy-Rey</a></li>
+<li><a href="/wiki/Pascal_Couchepin" title="Pascal Couchepin">Couchepin</a></li>
+<li><a href="/wiki/Hans-Rudolf_Merz" title="Hans-Rudolf Merz">Merz</a></li>
+<li><a href="/wiki/Doris_Leuthard" title="Doris Leuthard">Leuthard</a></li>
+<li><a href="/wiki/Micheline_Calmy-Rey" title="Micheline Calmy-Rey">Calmy-Rey</a></li>
+<li><a href="/wiki/Eveline_Widmer-Schlumpf" title="Eveline Widmer-Schlumpf">Widmer-Schlumpf</a></li>
+<li><a href="/wiki/Ueli_Maurer" title="Ueli Maurer">Maurer</a></li>
+<li><a href="/wiki/Didier_Burkhalter" title="Didier Burkhalter">Burkhalter</a></li>
+<li><a href="/wiki/Simonetta_Sommaruga" title="Simonetta Sommaruga">Sommaruga</a></li>
+<li><a class="mw-selflink selflink">Schneider-Ammann</a></li>
+<li><a href="/wiki/Doris_Leuthard" title="Doris Leuthard">Leuthard</a></li>
+<li><a href="/wiki/Alain_Berset" title="Alain Berset">Berset</a></li>
+<li><a href="/wiki/Ueli_Maurer" title="Ueli Maurer">Maurer</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:A_coloured_voting_box.svg" class="image"><img alt="A coloured voting box.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/21px-A_coloured_voting_box.svg.png" decoding="async" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/32px-A_coloured_voting_box.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/01/A_coloured_voting_box.svg/42px-A_coloured_voting_box.svg.png 2x" data-file-width="160" data-file-height="160" /></a></span><a href="/wiki/Portal:Politics" title="Portal:Politics">Politics portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Flag_of_Switzerland.svg" class="image"><img alt="Flag of Switzerland.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/21px-Flag_of_Switzerland.svg.png" decoding="async" width="21" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/42px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000" /></a></span><a href="/wiki/Portal:Switzerland" title="Portal:Switzerland">Switzerland portal</a></span></li></ul></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q380063&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q380063&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q380063" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/1046593242">1046593242</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Historical_Dictionary_of_Switzerland" title="Historical Dictionary of Switzerland">HDS</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://www.hls-dhs-dss.ch/textes/f/F46584.php">46584</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n2014063082">n2014063082</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/306324687">306324687</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/306324687">306324687</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1239
+Cached time: 20190925024954
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.912 seconds
+Real time usage: 1.126 seconds
+Preprocessor visited node count: 10875/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 76757/2097152 bytes
+Template argument size: 5140/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 8/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 16882/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.363/10.000 seconds
+Lua memory usage: 4.38 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1013.231      1 -total
+ 50.97%  516.491      9 Template:Infobox
+ 47.12%  477.454      1 Template:Infobox_officeholder
+ 23.63%  239.400     17 Template:Infobox_officeholder/office
+ 15.50%  157.001      1 Template:Reflist
+ 13.25%  134.243      5 Template:Cite_web
+ 12.44%  126.069      1 Template:Authority_control
+  6.44%   65.230      1 Template:Commons_category-inline
+  5.14%   52.040      1 Template:Sister-inline
+  4.64%   47.047      2 Template:If_then_show
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:28910977-0!canonical and timestamp 20190925024953 and revision id 903993712
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Johann_Schneider-Ammann&amp;oldid=903993712">https://en.wikipedia.org/w/index.php?title=Johann_Schneider-Ammann&amp;oldid=903993712</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1952_births" title="Category:1952 births">1952 births</a></li><li><a href="/wiki/Category:Agriculture_ministers_of_Switzerland" title="Category:Agriculture ministers of Switzerland">Agriculture ministers of Switzerland</a></li><li><a href="/wiki/Category:FDP.The_Liberals_politicians" title="Category:FDP.The Liberals politicians">FDP.The Liberals politicians</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Members_of_the_National_Council_(Switzerland)" title="Category:Members of the National Council (Switzerland)">Members of the National Council (Switzerland)</a></li><li><a href="/wiki/Category:Members_of_the_Swiss_Federal_Council" title="Category:Members of the Swiss Federal Council">Members of the Swiss Federal Council</a></li><li><a href="/wiki/Category:People_from_Emmental_District" title="Category:People from Emmental District">People from Emmental District</a></li><li><a href="/wiki/Category:People_from_Langenthal" title="Category:People from Langenthal">People from Langenthal</a></li><li><a href="/wiki/Category:Swiss_Protestants" title="Category:Swiss Protestants">Swiss Protestants</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2017" title="Category:Use dmy dates from July 2017">Use dmy dates from July 2017</a></li><li><a href="/wiki/Category:Use_British_English_from_July_2017" title="Category:Use British English from July 2017">Use British English from July 2017</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_HDS_identifiers" title="Category:Wikipedia articles with HDS identifiers">Wikipedia articles with HDS identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Johann+Schneider-Ammann" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Johann+Schneider-Ammann" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Johann_Schneider-Ammann" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Johann_Schneider-Ammann" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Johann_Schneider-Ammann">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Johann_Schneider-Ammann&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Johann_Schneider-Ammann&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Johann_Schneider-Ammann" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Johann_Schneider-Ammann" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Johann_Schneider-Ammann&amp;oldid=903993712" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Johann_Schneider-Ammann&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q380063" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Johann_Schneider-Ammann&amp;id=903993712" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Johann_Schneider-Ammann" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Johann+Schneider-Ammann">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Johann+Schneider-Ammann&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Johann_Schneider-Ammann&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – Alemannisch" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%8A%D9%88%D9%87%D8%A7%D9%86_%D8%B4%D9%86%D8%A7%D9%8A%D8%AF%D8%B1-%D8%A2%D9%85%D8%A7%D9%86" title="يوهان شنايدر-آمان – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%93%CE%B9%CF%8C%CF%87%CE%B1%CE%BD_%CE%A3%CE%BD%CE%AC%CE%B9%CE%BD%CF%84%CE%B5%CF%81-%CE%86%CE%BC%CE%B1%CE%BD" title="Γιόχαν Σνάιντερ-Άμαν – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%DB%8C%D9%88%D9%87%D8%A7%D9%86_%D8%A7%D8%B4%D9%86%D8%A7%DB%8C%D8%AF%D8%B1-%D8%A2%D9%85%D8%A7%D9%86" title="یوهان اشنایدر-آمان – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9A%94%ED%95%9C_%EC%8A%88%EB%82%98%EC%9D%B4%EB%8D%94%EC%95%84%EB%A7%8C" title="요한 슈나이더아만 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%85%D5%B8%D5%B0%D5%A1%D5%B6_%D5%87%D5%B6%D5%A1%D5%B5%D5%A4%D5%A5%D6%80_%D4%B1%D5%B4%D5%B4%D5%A1%D5%B6%D5%B6" title="Յոհան Շնայդեր Ամմանն – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ie"><a href="https://ie.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – Interlingue" lang="ie" hreflang="ie" class="interlanguage-link-target">Interlingue</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%99%D7%95%D7%94%D7%90%D7%9F_%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8-%D7%90%D7%9E%D7%90%D7%9F" title="יוהאן שניידר-אמאן – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Ioannes_Nicolaus_Schneider-Ammann" title="Ioannes Nicolaus Schneider-Ammann – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%8F%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%8A%E3%82%A4%E3%83%80%E3%83%BC%EF%BC%9D%E3%82%A2%E3%83%9E%E3%83%B3" title="ヨハン・シュナイダー＝アマン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Johann_Niklaus_Schneider-Ammann" title="Johann Niklaus Schneider-Ammann – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – Romansh" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A8%D0%BD%D0%B0%D0%B9%D0%B4%D0%B5%D1%80-%D0%90%D0%BC%D0%BC%D0%B0%D0%BD%D0%BD,_%D0%99%D0%BE%D1%85%D0%B0%D0%BD%D0%BD" title="Шнайдер-Амманн, Йоханн – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Johann_Schneider%E2%80%91Ammann" title="Johann Schneider‑Ammann – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-yo"><a href="https://yo.wikipedia.org/wiki/Johann_Schneider-Ammann" title="Johann Schneider-Ammann – Yoruba" lang="yo" hreflang="yo" class="interlanguage-link-target">Yorùbá</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%B4%84%E7%BF%B0%C2%B7%E6%96%BD%E8%80%90%E5%BE%B7-%E9%98%BF%E6%9B%BC" title="約翰·施耐德-阿曼 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q380063#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 June 2019, at 07:58<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Johann_Schneider-Ammann&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.912","walltime":"1.126","ppvisitednodes":{"value":10875,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":76757,"limit":2097152},"templateargumentsize":{"value":5140,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16882,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00% 1013.231      1 -total"," 50.97%  516.491      9 Template:Infobox"," 47.12%  477.454      1 Template:Infobox_officeholder"," 23.63%  239.400     17 Template:Infobox_officeholder/office"," 15.50%  157.001      1 Template:Reflist"," 13.25%  134.243      5 Template:Cite_web"," 12.44%  126.069      1 Template:Authority_control","  6.44%   65.230      1 Template:Commons_category-inline","  5.14%   52.040      1 Template:Sister-inline","  4.64%   47.047      2 Template:If_then_show"]},"scribunto":{"limitreport-timeusage":{"value":"0.363","limit":"10.000"},"limitreport-memusage":{"value":4588326,"limit":52428800}},"cachereport":{"origin":"mw1239","timestamp":"20190925024954","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Johann Schneider-Ammann","url":"https:\/\/en.wikipedia.org\/wiki\/Johann_Schneider-Ammann","sameAs":"http:\/\/www.wikidata.org\/entity\/Q380063","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q380063","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-09-22T06:18:21Z","dateModified":"2019-06-29T07:58:55Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/a\/a6\/Johann_Schneider-Ammann_2011.jpg","headline":"businessman, politician and member of the Swiss Federal Council (2010-2018)"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":122,"wgHostname":"mw1258"});});</script>
+</body>
+</html>
+
