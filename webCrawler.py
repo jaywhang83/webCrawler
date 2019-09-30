@@ -43,14 +43,15 @@ def crawler(seedUrl, numPages):
     robotTxt.set_url(urllib.parse.urljoin(BASE, 'robots.txt'))
     robotTxt.read()
 
-    while((not frontier.empty()) and (count < numPages and depth < MAX_DEPTH)):
+    while((not frontier.empty()) and (count < numPages and depth <= MAX_DEPTH)):
         url = frontier.get()
+        time.sleep(1)
         """
         Making "GET" request. Redirect is set to True so it can follow
         redirect url
         """
         response = req.request('GET', url, redirect=True)
-        
+
         """
         When count of page number is equal to number of pages in the 
         current depth then all of the pages in the current depth has
@@ -59,8 +60,9 @@ def crawler(seedUrl, numPages):
         """
         if count == currentCount:
             depth += 1
-            currentCount = nextCount
+            currentCount += nextCount
             nextCount = 0
+        # countDepth(count, currentCount, nextCount, depth)
         """
         Url link is only crawled when response code is 200 and url is
         allow to crawl by robotx.txt, it's wiki link, and it has not been
@@ -76,7 +78,6 @@ def crawler(seedUrl, numPages):
             paragraphs = re.findall(r'<p>(.*?)</p>', str(resp))
             # Checks if the webpage has been already crawled 
             if paragraphs not in contents:
-                time.sleep(1)
                 # If webpage has not been crawled, appends content to 
                 # contents list
                 contents.append(paragraphs)
@@ -88,7 +89,7 @@ def crawler(seedUrl, numPages):
                 links[count]= url
                 # Appends the size of the page to the list of page sizes
                 pageSizes.append(pageSize)
-
+                print("url: ", url, "count: ", count, "Depth: ", depth)
                 """
                 Creates name in format; nnn.txt
                 Example: 30.txt
@@ -152,7 +153,6 @@ def addUrlToQueue(resp, frontier, links, nextCount, base):
             if fullUrl not in links.values():
                 frontier.put(fullUrl)
                 nextCount += 1
-
     return nextCount
 
 
