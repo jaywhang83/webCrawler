@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Matriname - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Matriname","wgTitle":"Matriname","wgCurRevisionId":908552130,"wgRevisionId":908552130,"wgArticleId":25873579,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template webcite links","All articles with style issues","All articles with unsourced statements","Articles with unsourced statements from November 2017","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from December 2017","Webarchive template wayback links","Wikipedia articles with style issues","Gender equality","Kinship and descent","Matriarchy","Surname"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy",
+"wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Matriname","wgRelevantArticleId":25873579,"wgRequestId":"XYp3@gpAAEIAABqW1O8AAACD","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6787830","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Matriname"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Matriname&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Matriname&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Matriname"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Matriname rootpage-Matriname skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Matriname</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Essay-like plainlinks metadata ambox ambox-style ambox-essay-like" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>is written like a <a href="/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_a_publisher_of_original_thought" title="Wikipedia:What Wikipedia is not">personal reflection, personal essay, or argumentative essay</a></b> that states a Wikipedia editor's personal feelings or presents an original argument about a topic.<span class="hide-when-compact"> Please <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Matriname&amp;action=edit">help improve it</a> by rewriting it in an <a href="/wiki/Wikipedia:Writing_better_articles#Information_style_and_tone" title="Wikipedia:Writing better articles">encyclopedic style</a>.</span><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div role="note" class="hatnote navigation-not-searchable">For personal names derived from the mother's given name, see <a href="/wiki/Matronymic" title="Matronymic">Matronymic</a>.</div>
+<p>A <b><a href="/wiki/Matrilineal" class="mw-redirect" title="Matrilineal">matrilineal</a> surname</b> or <b>matriname</b><sup id="cite_ref-sykes_1-0" class="reference"><a href="#cite_note-sykes-1">&#91;1&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;a&#93;</a></sup><sup id="cite_ref-vitales_2-1" class="reference"><a href="#cite_note-vitales-2">&#91;2&#93;</a></sup> is a <a href="/wiki/Family_name" class="mw-redirect" title="Family name">family name</a> inherited from one's mother, and maternal grandmother, etc. whose <a href="/wiki/Line_of_descent" class="mw-redirect" title="Line of descent">line of descent</a> is called a <b>matriline.</b>
+</p><p>These existed even before patrinames,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;3&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;b&#93;</a></sup><sup id="cite_ref-Isbell_5-1" class="reference"><a href="#cite_note-Isbell-5">&#91;4&#93;</a></sup> which are surnames inherited from one's father.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Single_surname"><span class="tocnumber">1</span> <span class="toctext">Single surname</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Double_surname"><span class="tocnumber">2</span> <span class="toctext">Double surname</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Single_surname">Single surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Matriname&amp;action=edit&amp;section=1" title="Edit section: Single surname">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although the term "maternal surname" can be confused with "matriname", there is a difference in <a href="/wiki/Patrilineality" title="Patrilineality">patrilineal</a> cultures, where the <i>maternal</i> surname is the mother's patriname. In addition, in some cultures, women inherit a surname from their mother as well as from their father.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2017)">citation needed</span></a></i>&#93;</sup><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Avoid_weasel_words" class="mw-redirect" title="Wikipedia:Avoid weasel words"><span title="The material near this tag possibly uses too vague attribution or weasel words. (December 2017)">which?</span></a></i>&#93;</sup>In such patrilineal cultures, matrinames are able to co-exist with patrinames.
+</p><p>For example, where matrinames exist, they are passed from mother to child along with <a href="/wiki/Mitochondrial_DNA" title="Mitochondrial DNA">mitochondrial DNA</a> (mtDNA). Similarly, where patrinames exist, they are passed from father to son along with <a href="/wiki/Y_chromosome" title="Y chromosome">Y-chromosome</a> DNA (<a href="/wiki/Y-DNA" class="mw-redirect" title="Y-DNA">Y-DNA</a>). Within a patrilineal culture, if any group of women sharing mtDNA (from their common mother-line ancestor) was to choose a surname and then hand it down to successive generations, by definition, that surname would become a matrilineal surname or matriname within a patrilineal culture.<sup id="cite_ref-sykes_1-1" class="reference"><a href="#cite_note-sykes-1">&#91;1&#93;</a></sup> The test of whether a particular surname is a matriname is to determine if it is being handed down from mother to daughter in a <i>matriline</i>.
+</p><p>The usual lack of matrinames to hand down in patrilineal cultures makes <i>traditional <a href="/wiki/Genealogy" title="Genealogy">genealogy</a></i> more difficult in the mother-line case than in the normal (father-line) case.<sup id="cite_ref-sykes_1-2" class="reference"><a href="#cite_note-sykes-1">&#91;1&#93;</a></sup> After all, <i>father-line</i> surnames originated partly to identify individuals clearly and <a href="/wiki/Surname#History" title="Surname">were adopted</a> partly for administrative reasons;<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;c&#93;</a></sup> and these <i>patrinames</i> help in searching for facts and documentation from centuries ago. Patrinames are stable <i>identity-surnames</i>, surnames which identify an individual, whether now or in the past or future; and matrinames similarly are <i>identity-surnames</i> for women.
+</p><p>In the 1979 "Convention on the Elimination of Discrimination Against Women," or <a href="/wiki/CEDAW" class="mw-redirect" title="CEDAW">CEDAW</a>, the UN officially adopted a provision, item (g) of CEDAW's Article 16, to the effect that women and men, and specifically wife and husband, shall have the same rights to choose a "family name", as well as a "profession" and an "occupation".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;5&#93;</a></sup> These three rights are only a small part of the document's long list of rights related to <a href="/wiki/Gender_equality" title="Gender equality">gender equality</a> meant to ensure women have equal opportunities to men. However, according to the article, the United States has not yet ratified this UN Convention or the multilateral treaty.
+</p><p>In non-discriminating states, women may eventually gain the same right to their own matriname as men have traditionally had (within father-line cultures) to their own patriname. And similarly, within mother-line or matrilineal cultures, men may gain the right to their own patriname. In other words, the <i>handing down of both</i> matrinames and patrinames would co-exist within each culture to avoid discriminating against either women or men. (Note that some cultures have <i>no</i> <a href="/wiki/Surnames" class="mw-redirect" title="Surnames">surnames</a>&#160;&#8211;&#32; but if a culture has surnames then in this regard a non-discriminating culture would be a both-lines [mother-line and father-line] or <a href="/wiki/Ambilineal" class="mw-redirect" title="Ambilineal">ambilineal</a> culture.)
+</p><p>The actual use of a matriname would involve, first, invention or choice of a name by a group of women who share mtDNA (from their common matriline ancestor)<sup id="cite_ref-sykes_1-3" class="reference"><a href="#cite_note-sykes-1">&#91;1&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;6&#93;</a></sup> and then using it in their daughters' <a href="/wiki/Birth_record" class="mw-redirect" title="Birth record">birth records</a> (or <a href="/wiki/Birth_certificate" title="Birth certificate">birth certificates</a>).
+</p><p>This use of the mother's matriname would be parallel to and symmetric with the normal use of the father's patriname in each new son's birth record. Note well; this <i>is</i> the above-mentioned "handing down of both" the matriname and the patriname.
+</p><p>It should be mentioned that the <i>patriname</i> is normally a single surname, like Smith or Jones, normally not a double surname like Smith-Jones or Smith Jones.<sup id="cite_ref-2patri_10-0" class="reference"><a href="#cite_note-2patri-10">&#91;d&#93;</a></sup> And, just as men normally do not change their patriname,<sup id="cite_ref-2patri_10-1" class="reference"><a href="#cite_note-2patri-10">&#91;d&#93;</a></sup> so also women would normally not change their matriname. Thus, both identity-surnames should be equally stable over the generations.<sup id="cite_ref-sykes_1-4" class="reference"><a href="#cite_note-sykes-1">&#91;1&#93;</a></sup>
+</p><p>Note that one's birth surname is one's <i>legal surname</i>, unless one changes the latter&#160;&#8211;&#32; such as in some purely patrilineal cultures where women traditionally change to their husband's patriname at marriage, as described in <a href="/wiki/Married_and_maiden_names" class="mw-redirect" title="Married and maiden names">Married and maiden names</a> and in <a href="/wiki/Name_change" title="Name change">Name change</a>.
+</p><p>Here is a specific example to illustrate and summarize these concepts: the father and sons in a <a href="/wiki/Nuclear_family" title="Nuclear family">nuclear family</a> have the very-familiar patriname <i>Smith</i> while the mother and daughters have the matriname <i>Momline</i> as their own (and thus equally stable) identity-surname.
+</p>
+<h2><span class="mw-headline" id="Double_surname">Double surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Matriname&amp;action=edit&amp;section=2" title="Edit section: Double surname">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The 4 <b>double surname</b> possibilities which combine a matriname with a patriname, in either order, and with or without a hyphen, and which thus provide the aforementioned "gender symmetry", are as follows: matriname patriname, matriname-patriname, patriname matriname, and patriname-matriname. The patrilineal surname or patriname that is received from the mother in patrilineal cultures does not qualify as a matriname, as stated in the preceding section.
+</p><p>3 of the 4 possibilities enumerated above are used together in the example below. Such conventions of double surnames were proposed<sup id="cite_ref-sykes_1-5" class="reference"><a href="#cite_note-sykes-1">&#91;1&#93;</a></sup> in <i><a href="/wiki/The_Seven_Daughters_of_Eve" title="The Seven Daughters of Eve">The Seven Daughters of Eve</a></i>, and an English family with the matriname "Phythian" actually used one of them, as demonstrated and discussed in an online "feature" article.<sup id="cite_ref-dblname_11-0" class="reference"><a href="#cite_note-dblname-11">&#91;7&#93;</a></sup>
+</p><p>As a hypothetical example of these double surnames, let the matrinames be "Mamaname" and "Momline" and the patrinames be "Smith" and "Jones". The mother, with birth double surname "<b>Momline</b>-Jones", and the father, with birth double  surname "Mamaname <b>Smith</b>", both choose to retain their birth double surnames unchanged throughout their lives and agree in some wise to denominate all of their daughters and sons with the birth double surname "Smith Momline": The mother hands down her matriname and, symmetrically, the father hands down his patriname. All of their sons have the Y-DNA of and, accordingly, the patriname "Smith" of their patriline, while all of the daughters have both the mtDNA of and, accordingly, the matriname "Momline" of their matriline.<sup id="cite_ref-sykes_1-6" class="reference"><a href="#cite_note-sykes-1">&#91;1&#93;</a></sup><sup id="cite_ref-dblname_11-1" class="reference"><a href="#cite_note-dblname-11">&#91;7&#93;</a></sup> (Note that most societies give all children of a family the same surname, as in this example.) Thus, each person has only one identity-surname, which in this example is either "Momline" or "Smith". The identity-surname of each is stable throughout life<sup id="cite_ref-2patri_10-2" class="reference"><a href="#cite_note-2patri-10">&#91;d&#93;</a></sup> and always half of whatever double surname(s) he or she assumes throughout life, including at birth and marriage(s).
+</p><p>The family in this hypothetical example could choose to adopt a convention, given its 3 co-existing surnames "Momline-Jones", "Mamaname Smith", and "Smith Momline", of all members using only one family "usage name" in daily social life. Possible samples of this family's usage name might be any one of its 3 co-existing double surnames; one of its identity-surnames "Momline" or "Smith"; or an invented surname, e. g., "Momith", which combines "Momline" and "Smith".<sup id="cite_ref-MrsMan_12-0" class="reference"><a href="#cite_note-MrsMan-12">&#91;8&#93;</a></sup> Single surname families could use such usage names also. There is some relevant discussion in this footnote.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;e&#93;</a></sup> This family's 3 surnames, however, <i>should</i> be used in their respective members' personal legal documents, and could also be used otherwise such as in the respective members' personal profession/vocation.
+</p><p>Rather than keeping their own birth or legal surnames, the parents in this example might prefer <i>at marriage</i> to change their surnames to "Smith Momline", the same as their children-to-be, so that the members of their nuclear family would all share this one surname.
+</p><p>Of course, one's own identity-surname (here, the matriname "Momline" or the patriname "Smith") would always be available as one's own usage name, such as in one's profession/vocation.
+</p><p>This double surname example should be compared with its single surname counterpart at the end of the preceding section.
+</p><p>In toto, the gender-symmetric single surnames presented in the preceding section have the advantage of being simpler and briefer, but if used alone, would give <i>different</i> surnames for members of the different genders in a nuclear family. In contrast, all of the children in a nuclear family would have the <i>same double</i> surname. Also, these double surnames would <i>record</i> on legal documents both the matriname and patriname, with <i>both</i> identity-surnames later aiding <i>each</i> gender in genealogy and other searches of historical records.<sup id="cite_ref-sykes_1-7" class="reference"><a href="#cite_note-sykes-1">&#91;1&#93;</a></sup><sup id="cite_ref-dblname_11-2" class="reference"><a href="#cite_note-dblname-11">&#91;7&#93;</a></sup><sup id="cite_ref-MrsMan_12-1" class="reference"><a href="#cite_note-MrsMan-12">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Matriname&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Double_surname" class="mw-redirect" title="Double surname">Double surname</a></li>
+<li><a href="/wiki/Extinction_of_surnames" class="mw-redirect" title="Extinction of surnames">Extinction of surnames</a></li>
+<li><a href="/wiki/Family_name" class="mw-redirect" title="Family name">Family name</a></li>
+<li><a href="/wiki/Gender_equality" title="Gender equality">Gender equality</a></li>
+<li><a href="/wiki/List_of_matrilineal_or_matrilocal_societies" title="List of matrilineal or matrilocal societies">List of matrilineal or matrilocal societies</a></li>
+<li><a href="/wiki/List_of_people_who_adopted_matrilineal_surnames" title="List of people who adopted matrilineal surnames">List of people who adopted matrilineal surnames</a></li>
+<li><a href="/wiki/Lucy_Stone_League" title="Lucy Stone League">Lucy Stone League</a>, on the topic of identity-surnames</li>
+<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
+<li><a href="/wiki/Matrilineality" title="Matrilineality">Matrilineality</a></li>
+<li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineality</a></li>
+<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic surname</a></li>
+<li><a href="/wiki/Women%27s_rights" title="Women&#39;s rights">Women's rights</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Matriname&amp;action=edit&amp;section=4" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: lower-alpha;">
+<ol class="references">
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">The word "matriname" was used in scientific literature for many years before Professor Sykes' 2001 book. The Reference<sup id="cite_ref-vitales_2-0" class="reference"><a href="#cite_note-vitales-2">&#91;2&#93;</a></sup> provides a 1992 example, parts of which are available for Wikipedia readers to readily see, via "Google books".</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Likewise, the word "patriname" has been used for many years in scientific literature, and also in family genealogy. For an online example, the Reference<sup id="cite_ref-Isbell_5-0" class="reference"><a href="#cite_note-Isbell-5">&#91;4&#93;</a></sup> gives complete access to a 1978 ethnography which uses <i>patriname</i>. Finally, examples showing the word <i>patriname</i> used in <i>family genealogy</i> work are too personal to link to, here in public Wikipedia, <i>but can be seen</i> by searching online for "patriname" (use the quote marks, for best results, and look for Rootsweb or Genforum within the URL of a candidate item).</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">For a more complete historical background, see <a href="/wiki/Surname#History" title="Surname">Surname §&#160;History</a>.</span>
+</li>
+<li id="cite_note-2patri-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-2patri_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-2patri_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-2patri_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">By reading within the <a href="/wiki/Family_name" class="mw-redirect" title="Family name">Family name</a> article, one notices that the single-surname (or patriname) is indeed used as the identity-surname, such as Smith or Jones, and that the double-surname Smith-Jones <i>is</i> normally used as <i>two</i> patrinames. Similarly one notices that patrinames normally are not changed.</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Not only this double-surname family, but also its <i>single surname</i> version at the end of the previous section might both somehow choose to use a <i>single</i> name as a <i>usage name</i>, whether "Momline", "Smith", "Momith", or another invented single surname. In principle, any new friends have no way of knowing whether either of the family's surnames are actually single or double. These 2 cases would look the same to all others&#160;&#8211;&#32; except someone handling their legal documents.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Matriname&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-sykes-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-sykes_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sykes_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-sykes_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-sykes_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-sykes_1-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-sykes_1-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-sykes_1-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-sykes_1-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text">Sykes, Bryan (2001). <i><a href="/wiki/The_Seven_Daughters_of_Eve" title="The Seven Daughters of Eve">The Seven Daughters of Eve</a></i>. W.W. Norton. <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-393-02018-5" title="Special:BookSources/0-393-02018-5">0-393-02018-5</a>; pp. 291–2. Professor <a href="/wiki/Bryan_Sykes" title="Bryan Sykes">Bryan Sykes</a> uses "matriname", only, and states that women adding their own matriname to men's patriname (or "surname" as Sykes calls it) would really help in future genealogy work and historical-record searches. This effectively suggests the <i>double surname</i> presented in this article. Professor Sykes also states on p. 292 that a woman's matriname will be handed down with her <a href="/wiki/MtDNA" class="mw-redirect" title="MtDNA">mtDNA</a>, the main topic of his book.</span>
+</li>
+<li id="cite_note-vitales-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-vitales_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-vitales_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Fernandez. James W. (1992). About "moradas vitales". <i>Cultures 2</i> (from Academia de la Llingua Asturiana), p. 69. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=1E4eUt41U6IC&amp;pg=PA69&amp;dq=matriname&amp;hl=en&amp;sa=X&amp;ei=IB8BUeP9J6Hs2QWj94HYCw&amp;ved=0CEEQ6AEwAzgK#v=onepage&amp;q=matriname&amp;f=false">Here is the "Google book", using matriname.</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">linguistics.berkeley.edu (2004). "<a rel="nofollow" class="external text" href="http://www.linguistics.berkeley.edu/~rosemary/55-2004-names.pdf">Naming practices</a>". A PDF file with a section on "Chinese naming practices (Mak et al., 2003)". Archived at WebCite <a rel="nofollow" class="external autonumber" href="https://www.webcitation.org/5xd5YvhE3?url=http://www.linguistics.berkeley.edu/%7Erosemary/55-2004-names.pdf">[1]</a> on 1 Apr 2011.</span>
+</li>
+<li id="cite_note-Isbell-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Isbell_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Isbell_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Isbell, Billie Jean (1978, 1985). <i>To Defend Ourselves: Ecology and Ritual in an Andean Village</i>. Waveland Press. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0881331732" title="Special:BookSources/0881331732">0881331732</a>, Ch. 3, p. 79. <a rel="nofollow" class="external text" href="http://ecommons.library.cornell.edu/handle/1813/2135">Here is the complete book, from Cornell Univ.</a> Get to Chapter 3 of the book, then do a search for patriname.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">UN Convention, 1979. "<a rel="nofollow" class="external text" href="https://www.un.org/womenwatch/daw/cedaw/text/econvention.htm">Convention on the Elimination of Discrimination Against Women</a>", or CEDAW. Archived at WebCite <a rel="nofollow" class="external autonumber" href="https://www.webcitation.org/5xc2eRFDv?url=http://www.un.org/womenwatch/daw/cedaw/text/econvention.htm">[2]</a> on 1 Apr 2011.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Stannard, Una (1977). <i>Mrs Man</i>. San Francisco: Germainbooks. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-914142-02-X" title="Special:BookSources/0-914142-02-X">0-914142-02-X</a>; pp. 334–37. </span>
+</li>
+<li id="cite_note-dblname-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-dblname_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dblname_11-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-dblname_11-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Sarah Louisa Phythian-Adams, 20 Aug. 2008. "<a rel="nofollow" class="external text" href="http://www.thefword.org.uk/features/2008/08/in_the_name_of">In the Name of...</a> <a rel="nofollow" class="external text" href="https://www.webcitation.org/5xc1oy0QR?url=http://www.thefword.org.uk/features/2008/08/in_the_name_of">Archived</a> 2011-04-01 at <a href="/wiki/WebCite" title="WebCite">WebCite</a>", an <i>TheFWord.org</i> featured article by the author. (To find the family tree etc. of this pioneering matriname double-surname case, search the <i>article</i> for the word "proposal".) Archived at WebCite <a rel="nofollow" class="external autonumber" href="https://www.webcitation.org/5xc1oy0QR?url=http://www.thefword.org.uk/features/2008/08/in_the_name_of">[3]</a> on 1 Apr 2011.</span>
+</li>
+<li id="cite_note-MrsMan-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-MrsMan_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MrsMan_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"> Stannard 1977; pp. 334–37 on actual invented surnames and pp. 84–88 on double surnames.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Matriname&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130602222708/http://lucystoneleague.org/">Lucy Stone League official website</a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&#32;(archived June 2, 2013) (on the topic of identity-surnames)</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Family" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Family" title="Template:Family"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Family" title="Template talk:Family"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Family&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Family" style="font-size:114%;margin:0 4em"><a href="/wiki/Family" title="Family">Family</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*_History&amp;#10;*_Household&amp;#10;*_Nuclear_family&amp;#10;*_Extended_family&amp;#10;*_Conjugal_family&amp;#10;*_Immediate_family&amp;#10;*_Matrifocal_family&amp;#10;*_Stepfamily&amp;#10;*_Dysfunctional_family&amp;#10;*_Polyfidelitous_families">
+<ul><li><a href="/wiki/History_of_the_family" title="History of the family">History</a></li>
+<li><a href="/wiki/Household" title="Household">Household</a></li>
+<li><a href="/wiki/Nuclear_family" title="Nuclear family">Nuclear family</a></li>
+<li><a href="/wiki/Extended_family" title="Extended family">Extended family</a></li>
+<li><a href="/wiki/Conjugal_family" title="Conjugal family">Conjugal family</a></li>
+<li><a href="/wiki/Immediate_family" title="Immediate family">Immediate family</a></li>
+<li><a href="/wiki/Matrifocal_family" title="Matrifocal family">Matrifocal family</a></li>
+<li><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></li>
+<li><a href="/wiki/Dysfunctional_family" title="Dysfunctional family">Dysfunctional family</a></li>
+<li><a href="/wiki/Polyfidelity" title="Polyfidelity">Polyfidelitous families</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/First-degree_relatives" title="First-degree relatives">First-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Parent" title="Parent">Parent</a>
+<ul><li><a href="/wiki/Father" title="Father">father</a></li>
+<li><a href="/wiki/Mother" title="Mother">mother</a></li></ul></li>
+<li><a href="/wiki/Child" title="Child">Child</a>
+<ul><li><a href="/wiki/Son" title="Son">son</a></li>
+<li><a href="/wiki/Daughter" title="Daughter">daughter</a></li></ul></li>
+<li><a href="/wiki/Sibling" title="Sibling">Sibling</a>
+<ul><li><a href="/wiki/Brother" title="Brother">brother</a></li>
+<li><a href="/wiki/Sister" title="Sister">sister</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Second-degree_relative" title="Second-degree relative">Second-degree relatives</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Grandparent" title="Grandparent">Grandparent</a></li>
+<li><a href="/wiki/Grandchild" class="mw-redirect" title="Grandchild">Grandchild</a></li>
+<li><a href="/wiki/Aunt" title="Aunt">Aunt</a></li>
+<li><a href="/wiki/Uncle" title="Uncle">Uncle</a></li>
+<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Niece and nephew</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Third-degree_relative" title="Third-degree relative">Third-degree relatives</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Great-grandparent" class="mw-redirect" title="Great-grandparent">Great-grandparent</a></li>
+<li><a href="/wiki/Great-grandchild" class="mw-redirect" title="Great-grandchild">Great-grandchild</a></li>
+<li><a href="/wiki/Niece_and_nephew" title="Niece and nephew">Grandnephew and grandniece</a></li>
+<li><a href="/wiki/Uncle" title="Uncle">Great-Uncle</a></li>
+<li><a href="/wiki/Aunt" title="Aunt">Great-Aunt</a></li>
+<li><a href="/wiki/Cousin" title="Cousin">Cousin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Affinity_(law)" title="Affinity (law)">Family-in-law</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Spouse" title="Spouse">Spouse</a>
+<ul><li><a href="/wiki/Wife" title="Wife">wife</a></li>
+<li><a href="/wiki/Husband" title="Husband">husband</a></li></ul></li>
+<li><a href="/wiki/Parent-in-law" title="Parent-in-law">Parents-in-law</a></li>
+<li><a href="/wiki/Sibling-in-law" title="Sibling-in-law">Siblings-in-law</a></li>
+<li><a href="/wiki/Son-in-law" class="mw-redirect" title="Son-in-law">Son-in-law</a></li>
+<li><a href="/wiki/Daughter-in-law" class="mw-redirect" title="Daughter-in-law">Daughter-in-law</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Stepfamily" title="Stepfamily">Stepfamily</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Stepfather" title="Stepfather">Stepfather</a></li>
+<li><a href="/wiki/Stepmother" title="Stepmother">Stepmother</a></li>
+<li><a href="/wiki/Stepchild" title="Stepchild">Stepchild</a></li>
+<li><a href="/wiki/Stepsibling" title="Stepsibling">Stepsibling</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kinship_terminology" title="Kinship terminology">Kinship terminology</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kinship" title="Kinship">Kinship</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal kinship</a></li>
+<li><a href="/wiki/Adoption" title="Adoption">Adoption</a></li>
+<li><a href="/wiki/Affinity_(law)" title="Affinity (law)">Affinity</a></li>
+<li><a href="/wiki/Consanguinity" title="Consanguinity">Consanguinity</a></li>
+<li><a href="/wiki/Disownment" title="Disownment">Disownment</a></li>
+<li><a href="/wiki/Divorce" title="Divorce">Divorce</a></li>
+<li><a href="/wiki/Family_estrangement" title="Family estrangement">Estrangement</a></li>
+<li><a href="/wiki/Fictive_kinship" title="Fictive kinship">Fictive kinship</a></li>
+<li><a href="/wiki/Marriage" title="Marriage">Marriage</a></li>
+<li><a href="/wiki/Nurture_kinship" title="Nurture kinship">Nurture kinship</a></li>
+<li><a href="/wiki/Hawaiian_kinship" title="Hawaiian kinship">Hawaiian kinship</a></li>
+<li><a href="/wiki/Sudanese_kinship" title="Sudanese kinship">Sudanese kinship</a></li>
+<li><a href="/wiki/Eskimo_kinship" title="Eskimo kinship">Eskimo kinship</a></li>
+<li><a href="/wiki/Iroquois_kinship" title="Iroquois kinship">Iroquois kinship</a></li>
+<li><a href="/wiki/Crow_kinship" title="Crow kinship">Crow kinship</a></li>
+<li><a href="/wiki/Omaha_kinship" title="Omaha kinship">Omaha kinship</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Ancestor" title="Ancestor">Lineage</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bilateral_descent" title="Bilateral descent">Bilateral descent</a></li>
+<li><a href="/wiki/Most_recent_common_ancestor" title="Most recent common ancestor">Common ancestor</a></li>
+<li><a href="/wiki/Surname" title="Surname">Family name</a></li>
+<li><a href="/wiki/Family_tree" title="Family tree">Family tree</a></li>
+<li><a href="/wiki/Genealogy" title="Genealogy">Genealogy</a></li>
+<li><a href="/wiki/Heirloom" title="Heirloom">Heirloom</a></li>
+<li><a href="/wiki/Heredity" title="Heredity">Heredity</a></li>
+<li><a href="/wiki/Inheritance" title="Inheritance">Inheritance</a></li>
+<li><a href="/wiki/Lineal_descendant" title="Lineal descendant">Lineal descendant</a></li>
+<li><a href="/wiki/Matrilineality" title="Matrilineality">Matrilineality</a></li>
+<li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineality</a></li>
+<li><a href="/wiki/Pedigree_chart" title="Pedigree chart">Pedigree chart</a></li>
+<li><a href="/wiki/Progenitor" title="Progenitor">Progenitor</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Relationships</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agape" title="Agape">Agape (parental love)</a></li>
+<li><a href="/wiki/Eros_(concept)" title="Eros (concept)">Eros (marital love)</a></li>
+<li><a href="/wiki/Filial_piety" title="Filial piety">Filial piety</a></li>
+<li><a href="/wiki/Storge" title="Storge">Storge (familial love)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Holidays</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mother%27s_Day" title="Mother&#39;s Day">Mother's Day</a>
+<ul><li><a href="/wiki/Mother%27s_Day_(United_States)" title="Mother&#39;s Day (United States)">U.S.</a></li></ul></li>
+<li><a href="/wiki/Father%27s_Day" title="Father&#39;s Day">Father's Day</a></li>
+<li><a href="/wiki/Father-Daughter_Day" class="mw-redirect" title="Father-Daughter Day">Father-Daughter Day</a></li>
+<li><a href="/wiki/Siblings_Day" title="Siblings Day">Siblings Day</a></li>
+<li><a href="/wiki/National_Grandparents_Day" title="National Grandparents Day">National Grandparents Day</a></li>
+<li><a href="/wiki/Parents%27_Day" title="Parents&#39; Day">Parents' Day</a></li>
+<li><a href="/wiki/Children%27s_Day" title="Children&#39;s Day">Children's Day</a></li>
+<li><a href="/wiki/Family_Day" title="Family Day">Family Day</a>
+<ul><li><a href="/wiki/Family_Day_(Canada)" title="Family Day (Canada)">Canada</a></li></ul></li>
+<li><a href="/wiki/American_Family_Day" title="American Family Day">American Family Day</a></li>
+<li><a href="/wiki/National_Family_Week" title="National Family Week">National Family Week</a>
+<ul><li><a href="/wiki/National_Family_Week_(UK)" title="National Family Week (UK)">UK</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Wedding_anniversary" title="Wedding anniversary">Wedding anniversary</a></li>
+<li><a href="/wiki/Sociology_of_the_family" title="Sociology of the family">Sociology of the family</a></li>
+<li><a href="/wiki/Museum_of_Motherhood" title="Museum of Motherhood">Museum of Motherhood</a></li>
+<li><a href="/wiki/Incest" title="Incest">Incest</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
+<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Surname</a>
+<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a class="mw-selflink selflink">Matrilineal</a></li>
+<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
+<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
+<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
+<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
+<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
+<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
+<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
+<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
+<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
+<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
+<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
+<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
+<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
+<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
+<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
+<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
+<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
+<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
+<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
+<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
+<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
+<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
+<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
+<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
+<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
+<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
+<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
+<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
+<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
+<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
+<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
+<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
+<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
+<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
+<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
+<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
+<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
+<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
+<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
+<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
+<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
+<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
+<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
+<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
+<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
+<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
+<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
+<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
+<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
+<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
+<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
+<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
+<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
+<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
+<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
+<li><a href="/wiki/English_name" title="English name">English</a></li>
+<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
+<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
+<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
+<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
+<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
+<li><a href="/wiki/French_name" title="French name">French</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
+<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
+<li><a href="/wiki/German_name" title="German name">German</a></li>
+<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
+<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
+<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
+<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
+<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
+<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
+<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
+<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
+<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
+<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
+<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
+<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
+<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
+<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
+<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
+<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
+<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
+<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
+<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
+<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
+<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
+<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
+<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
+<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
+<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
+<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
+<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
+<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
+<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
+<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
+<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
+<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
+<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
+<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
+<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
+<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
+<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
+<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
+<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
+<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
+<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
+<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
+<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
+<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
+<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
+<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
+<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
+<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
+<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
+<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
+<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
+<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
+<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
+<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
+<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
+<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
+<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
+<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
+<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
+<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
+<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
+<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
+<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
+<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
+<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
+<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
+<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award_or_decoration" title="Award or decoration">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
+<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
+<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
+<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
+<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
+<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
+<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
+<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
+<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
+<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
+<li><a href="/wiki/Name_day" title="Name day">Name day</a>
+<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
+<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
+<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
+<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
+<li><a href="/wiki/Family" title="Family">Family</a></li>
+<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
+<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
+<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
+<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
+<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
+<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
+<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
+<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
+<li><a href="/wiki/Signature" title="Signature">Signature</a>
+<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
+<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
+<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
+<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1266
+Cached time: 20190918133902
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.328 seconds
+Real time usage: 0.468 seconds
+Preprocessor visited node count: 1688/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 69920/2097152 bytes
+Template argument size: 4399/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 16393/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.076/10.000 seconds
+Lua memory usage: 2.72 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  349.891      1 -total
+ 41.31%  144.541      2 Template:Reflist
+ 24.91%   87.151      3 Template:ISBN
+ 16.71%   58.452      1 Template:Essay-like
+ 15.27%   53.426      3 Template:Catalog_lookup_link
+ 12.59%   44.042      1 Template:Citation_needed
+ 11.84%   41.439      2 Template:Fix
+ 11.52%   40.298      1 Template:Ambox
+  8.16%   28.548      1 Template:Notelist
+  7.99%   27.940      3 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:25873579-0!canonical and timestamp 20190918133902 and revision id 908552130
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Matriname&amp;oldid=908552130">https://en.wikipedia.org/w/index.php?title=Matriname&amp;oldid=908552130</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_style_issues" title="Category:Wikipedia articles with style issues">Wikipedia articles with style issues</a></li><li><a href="/wiki/Category:Gender_equality" title="Category:Gender equality">Gender equality</a></li><li><a href="/wiki/Category:Kinship_and_descent" title="Category:Kinship and descent">Kinship and descent</a></li><li><a href="/wiki/Category:Matriarchy" title="Category:Matriarchy">Matriarchy</a></li><li><a href="/wiki/Category:Surname" title="Category:Surname">Surname</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_webcite_links" title="Category:Webarchive template webcite links">Webarchive template webcite links</a></li><li><a href="/wiki/Category:All_articles_with_style_issues" title="Category:All articles with style issues">All articles with style issues</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2017" title="Category:Articles with unsourced statements from November 2017">Articles with unsourced statements from November 2017</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_December_2017" title="Category:Articles with specifically marked weasel-worded phrases from December 2017">Articles with specifically marked weasel-worded phrases from December 2017</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Matriname" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Matriname" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Matriname" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Matriname" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Matriname">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Matriname&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Matriname&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Matriname" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Matriname" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Matriname&amp;oldid=908552130" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Matriname&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6787830" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Matriname&amp;id=908552130" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Matriname">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Matriname&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Matriname&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6787830#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 30 July 2019, at 12:57<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Matriname&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.328","walltime":"0.468","ppvisitednodes":{"value":1688,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":69920,"limit":2097152},"templateargumentsize":{"value":4399,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16393,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  349.891      1 -total"," 41.31%  144.541      2 Template:Reflist"," 24.91%   87.151      3 Template:ISBN"," 16.71%   58.452      1 Template:Essay-like"," 15.27%   53.426      3 Template:Catalog_lookup_link"," 12.59%   44.042      1 Template:Citation_needed"," 11.84%   41.439      2 Template:Fix"," 11.52%   40.298      1 Template:Ambox","  8.16%   28.548      1 Template:Notelist","  7.99%   27.940      3 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.076","limit":"10.000"},"limitreport-memusage":{"value":2854701,"limit":52428800}},"cachereport":{"origin":"mw1266","timestamp":"20190918133902","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Matriname","url":"https:\/\/en.wikipedia.org\/wiki\/Matriname","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6787830","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6787830","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-01-20T01:37:24Z","dateModified":"2019-07-30T12:57:59Z","headline":"surname recieved from a female ancestor"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1271"});});</script>
+</body>
+</html>
+

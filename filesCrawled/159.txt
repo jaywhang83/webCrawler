@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Melih Cevdet Anday - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Melih_Cevdet_Anday","wgTitle":"Melih Cevdet Anday","wgCurRevisionId":859275517,"wgRevisionId":859275517,"wgArticleId":8039055,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with script errors","Use dmy dates from September 2013","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with SNAC-ID identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1915 births","2002 deaths","People from Istanbul","Turkish poets","20th-century poets"],"wgBreakFrames"
+:!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Melih_Cevdet_Anday","wgRelevantArticleId":8039055,"wgRequestId":"XZDT5QpAIDEAAKAtPlQAAABQ","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},
+"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","ScribuntoErrors":[
+"\u003Cp\u003ELua error in Module:I18n at line 6: bad argument #1 to 'pairs' (table expected, got nil).\u003C/p\u003E\u003Cp\u003EBacktrace:\u003C/p\u003E\u003Col class=\"scribunto-trace\"\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: in function \"pairs\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:I18n\u0026amp;action=edit#mw-ce-l6\"\u003EModule:I18n:6\u003C/a\u003E\u003C/strong\u003E: in function \"tableMerge\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:I18n\u0026amp;action=edit#mw-ce-l21\"\u003EModule:I18n:21\u003C/a\u003E\u003C/strong\u003E: in function \"loadI18n\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:Wikidata\u0026amp;action=edit#mw-ce-l89\"\u003EModule:Wikidata:89\u003C/a\u003E\u003C/strong\u003E: in function \"chunk\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:486\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: in function \"getExpandedArgument\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:169\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:String\u0026amp;action=edit#mw-ce-l496\"\u003EModule:String:496\u003C/a\u003E\u003C/strong\u003E: in function \"_getParameters\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:String\u0026amp;action=edit#mw-ce-l213\"\u003EModule:String:213\u003C/a\u003E\u003C/strong\u003E: in function \"chunk\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:511\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: in function \"getAllExpandedArguments\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:188\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: in function \"pairs\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:Arguments\u0026amp;action=edit#mw-ce-l207\"\u003EModule:Arguments:207\u003C/a\u003E\u003C/strong\u003E: in function \"mergeArgs\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:Arguments\u0026amp;action=edit#mw-ce-l320\"\u003EModule:Arguments:320\u003C/a\u003E\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: in function \"pairs\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:TableTools\u0026amp;action=edit#mw-ce-l113\"\u003EModule:TableTools:113\u003C/a\u003E\u003C/strong\u003E: in function \"numKeys\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:TableTools\u0026amp;action=edit#mw-ce-l215\"\u003EModule:TableTools:215\u003C/a\u003E\u003C/strong\u003E: in function \"compressSparseArray\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:Separated_entries\u0026amp;action=edit#mw-ce-l20\"\u003EModule:Separated_entries:20\u003C/a\u003E\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E(tail call)\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:511\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: in function \"getExpandedArgument\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:169\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:Infobox\u0026amp;action=edit#mw-ce-l376\"\u003EModule:Infobox:376\u003C/a\u003E\u003C/strong\u003E: in function \"preprocessArgs\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:Infobox\u0026amp;action=edit#mw-ce-l429\"\u003EModule:Infobox:429\u003C/a\u003E\u003C/strong\u003E: in function \"chunk\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:511\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003C/ol\u003E"
+],"wgWikibaseItemId":"Q965750","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.scribunto.errors","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice",
+"ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/d/d9/Melih_Cevdet_Anday.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Melih_Cevdet_Anday"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Melih_Cevdet_Anday&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Melih_Cevdet_Anday&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Melih_Cevdet_Anday"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Melih_Cevdet_Anday rootpage-Melih_Cevdet_Anday skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Melih Cevdet Anday</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div style="display:inline;" class="fn">Melih Cevdet Anday</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Melih_Cevdet_Anday.jpg" class="image" title="Melih Cevdet Anday"><img alt="Melih Cevdet Anday" src="//upload.wikimedia.org/wikipedia/en/d/d9/Melih_Cevdet_Anday.jpg" decoding="async" width="214" height="315" data-file-width="214" data-file-height="315" /></a><div><small>Melih Cevdet Anday</small></div></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em;padding-right:0.65em;">Born</th><td style="line-height:1.4em;"><span style="display:none">(<span class="bday">1915-03-13</span>)</span>13 March 1915<br /><a href="/wiki/Istanbul" title="Istanbul">Istanbul</a>, <a href="/wiki/Turkey" title="Turkey">Turkey</a></td></tr><tr><th scope="row" style="padding-top:0.225em;line-height:1.1em;padding-right:0.65em;">Died</th><td style="line-height:1.4em;">29 November 2002<span style="display:none">(2002-11-29)</span> (aged&#160;87)<br /><a href="/wiki/Istanbul" title="Istanbul">Istanbul</a>, <a href="/wiki/Turkey" title="Turkey">Turkey</a></td></tr></tbody></table>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:15em"><tbody><tr><th class="navbox-title" style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Turkish_literature" title="Turkish literature">Turkish<br />literature</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<a href="/wiki/Category:Turkish_literature" title="Category:Turkish literature">By category</a></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+Epic tradition</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Orkhon_script" class="mw-redirect" title="Orkhon script">Orhon</a></li>
+<li><a href="/wiki/Book_of_Dede_Korkut" title="Book of Dede Korkut">Dede Korkut</a></li>
+<li><a href="/wiki/Epic_of_K%C3%B6ro%C4%9Flu" class="mw-redirect" title="Epic of Köroğlu">Köroğlu</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+Folk tradition</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Turkish_folk_literature" title="Turkish folk literature">Folk literature</a></li>
+<li><a href="/wiki/Turkish_folklore" title="Turkish folklore">Folklore</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+<a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman era</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Poetry_of_the_Ottoman_Empire" class="mw-redirect" title="Poetry of the Ottoman Empire">Poetry</a></li>
+<li><a href="/wiki/Prose_of_the_Ottoman_Empire" title="Prose of the Ottoman Empire">Prose</a></li></ul></td>
+</tr><tr><th class="navbox-abovebelow" style="padding:0.1em">
+<a href="/wiki/Turkey" title="Turkey">Republican era</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/Contemporary_Turkish_literature" title="Contemporary Turkish literature">Contemporary</a></li>
+<li><a href="/wiki/Poetry_of_the_Republic_of_Turkey" class="mw-redirect" title="Poetry of the Republic of Turkey">Poetry</a></li>
+<li><a href="/wiki/Prose_of_the_Republic_of_Turkey" class="mw-redirect" title="Prose of the Republic of Turkey">Prose</a></li></ul></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:History_of_Turkish_literature" title="Template:History of Turkish literature"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:History_of_Turkish_literature" title="Template talk:History of Turkish literature"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:History_of_Turkish_literature&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Melih Cevdet Anday</b> (13 March 1915 – 28 November 2002), was a <a href="/wiki/Turkish_people" title="Turkish people">Turkish</a> writer whose unique poetry stands outside the traditional literary movements. He also wrote in many other genres which, over six and a half decades, included eleven collections of poems, eight plays, eight novels, fifteen collections of essays, several of which won major literary awards. He also translated several books from diverse languages into Turkish.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Biography"><span class="tocnumber">1</span> <span class="toctext">Biography</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Literary_career"><span class="tocnumber">2</span> <span class="toctext">Literary career</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Bibliography"><span class="tocnumber">3</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Translations_into_European_languages"><span class="tocnumber">4</span> <span class="toctext">Translations into European languages</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Biography">Biography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melih_Cevdet_Anday&amp;action=edit&amp;section=1" title="Edit section: Biography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Melih Cevdet Anday was born in <a href="/wiki/Istanbul" title="Istanbul">Istanbul</a> in 1915 and lived there until his parents moved to <a href="/wiki/Ankara" title="Ankara">Ankara</a> in 1931. He graduated from Gazi High School and for a while began studying sociology in <a href="/wiki/Belgium" title="Belgium">Belgium</a> on a State Railways scholarship but had to return home in 1940 after the German invasion. Between 1942–51 he worked as a publication consultant for the Ministry of Education in Ankara and then as a city librarian. During this time he began his career as a journalist for several newspapers. After 1954, he worked as a teacher for the Istanbul Municipal Conservatory. Between 1964 and 1969, Anday served on Turkish Radio Television’s Board of Directors. After he retired from his position in the Conservatory in 1977, Anday was assigned to <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> Headquarters in Paris as Cultural Attaché until recalled after a change of Government.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Literary_career">Literary career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melih_Cevdet_Anday&amp;action=edit&amp;section=2" title="Edit section: Literary career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As a poet, Anday was one of the leaders of the <a href="/wiki/Garip" title="Garip">Garip</a> movement, which also included <a href="/wiki/Orhan_Veli" class="mw-redirect" title="Orhan Veli">Orhan Veli</a> and <a href="/wiki/Oktay_Rifat" class="mw-redirect" title="Oktay Rifat">Oktay Rifat</a>. According to the preface of their joint collection, published in 1941, poetry should abandon the formalism and rhetorical classical style of previous centuries, making itself simple, colloquial, and matter of fact—an artless art designed to serve the common people.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>However, present there even then was an uneasy acknowledgement of French <a href="/wiki/Surrealism" title="Surrealism">Surrealism</a>, and Anday was eventually to change his engaged style to a cerebral neo-surrealism as he cautiously navigated beyond the difficult political waters of his country. This culminated in what was regarded at the time as his masterwork, the four-sectioned long poem "Ulysses Bound" (<i>Kollari Bagli Odysseus</i>) of 1963.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> In this he deploys an original rhetoric of his own:
+</p>
+<dl><dd>A slow world, in progress, with no memory</dd>
+<dd>Visible only to the eye before there was an eye</dd>
+<dd>Where nameless beings were advancing among other beings</dd>
+<dd>Trees grew before trees were</dd>
+<dd>And a star in the temple of the clouds</dd>
+<dd>Opened wide the unharvested sky</dd>
+<dd>To the bloody dawn of the epochs before there was reason.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></dd></dl>
+<p>Other sectioned poems of some length were to follow, including "On the Nomad Sea" (<i>Göçebe Denizin Üstünde</i>, 1970)<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> and "A poem in the manner of Karacaoglan" (<i>Karacaoğlan’ın Bir Şiiri Üzerine Çeşitlemeler’de</i>).<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> But there were also many short poems of disarming simplicity such as "Sun" (I was just about to speak/ When suddenly the sun came out) and "Seagull" (Seagull, capital letter/ Scribbled by a child) whose thoughtful qualities journey beyond his earlier manner.
+</p><p>From henceforth his varied work began to earn Anday official recognition. In particular his play <i>Mikado’nun Çöpleri</i> (The Mikado Game) earned him several awards: Most Successful Playwright of the 1967–1968 Drama Season; the İlhan İskender Prize; Ankara Art Lovers Foundation for the Best Playwright in 1971–1972.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> Another play, <i>Ölümsüzler ya da Bir Cinayetin Söylencesi</i> (The Immortals or the Legend of a Murder) won the Enka Art Prize in 1980. His poetry collection <i>Teknenin Ölümü</i> (Death of the Boat) won the 1978 Sedat Simavi Foundation Literature Prize, and <i>Ölümsüzlük Ardinda Gilgamis</i> (Gilgamesh Beyond Death) gained the 1981 Türkiye İş Bankası Prize. In 1971 UNESCO honoured among him other outstanding European authors. He also received the TÜYAP Honour Prize for 1991 and the 2000 Aydin Dogan Foundation’s Literature Award.
+</p><p>In 1994 the sculptor <a href="/wiki/Metin_Yurdanur" title="Metin Yurdanur">Metin Yurdanur</a> cast a seated statue of him in bronze which is now sited in the park named after him at Ören on the <a href="/wiki/Gulf_of_G%C3%B6kova" title="Gulf of Gökova">Gulf of Gökova</a>.
+</p>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melih_Cevdet_Anday&amp;action=edit&amp;section=3" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Melih_Cevdet_Anday.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Melih_Cevdet_Anday.JPG/220px-Melih_Cevdet_Anday.JPG" decoding="async" width="220" height="287" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Melih_Cevdet_Anday.JPG/330px-Melih_Cevdet_Anday.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Melih_Cevdet_Anday.JPG/440px-Melih_Cevdet_Anday.JPG 2x" data-file-width="2064" data-file-height="2692" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Melih_Cevdet_Anday.JPG" class="internal" title="Enlarge"></a></div>Metin Yurdanur’s statue of the poet in Melih Cevdet Anday Park, Ören</div></div></div>
+<dl><dt>Poetry</dt>
+<dd></dd></dl>
+<ul><li><i>Garip</i> (Odd, 1941) with Orhan Veli and Oktay Rifat</li>
+<li><i>Rahatı Kaçan Ağaç</i> (The Disturbed Tree, 1946)</li>
+<li><i>Telgrafhane</i> (Telegram Office, 1952)</li>
+<li><i>Yan Yana</i> (Side by side, 1956)</li>
+<li><i>Kolları bağlı Odysseus</i> (Odysseus Bound, 1963)</li>
+<li><i>Göçebe Denizin Üstünde</i> (On the Nomad Sea, 1970)</li>
+<li><i>Teknenin Ölümü</i> (The death of a Boat, 1975)</li>
+<li><i>Sözcükler</i> (Words, 1978)</li>
+<li><i>Ölümsüzlük Ardında Gılgamış</i> (Gilgamesh Beyond Death, 1981)</li>
+<li><i>Güneşte</i> (In the Sun, 1989)</li>
+<li><i>Yağmurun Altında</i> (Under the Rain, 1995)</li>
+<li><i>Seçme Siirler</i> (Selected Poetry, 1997).</li></ul>
+<dl><dt>Novels</dt>
+<dd></dd></dl>
+<ul><li><i>Aylaklar</i> (The Vagabonds, 1965)</li>
+<li><i>Gizli Emir</i> (The Secret Command, 1970)</li>
+<li><i>İsa'nın Güncesi</i> (The Diary of Christ, 1974)</li>
+<li><i>Raziye</i> (1975)</li>
+<li><i>Yagmurlu Sokak</i> (Rainy Street, 1991),</li>
+<li><i>Meryem Gibi</i> (Like Mary, 1991)</li>
+<li><i>Birbirimizi Anlayamayiz</i> (We Cannot Understand Each Other, 1992).</li></ul>
+<dl><dt>Plays</dt>
+<dd></dd></dl>
+<ul><li><i>İçerdekiler</i> (Insiders, 1965)</li>
+<li><i>Mikado'nun Çöpleri</i> (The Mikado Game, 1967)</li>
+<li><i>Dört Oyun</i> (Four Plays: Tomorrow in a Different Grove, Beware of the Dog, The Dead Want to Speak, and Inspectors,1972)</li>
+<li><i>Ölümsüzler</i> (The Immortals: Complete Plays 1 and 2, 1981)</li></ul>
+<dl><dt>Essays</dt>
+<dd></dd></dl>
+<ul><li><i>Doğu-Batı</i> (East-West, 1961)</li>
+<li><i>Konuşarak</i> (Speaking, 1964)</li>
+<li><i>Gelişen Komedya</i> (Developing Comedy, 1965)</li>
+<li><i>Yeni Tanrılar</i> (The New Gods, 1974)</li>
+<li><i>Sosyalist Bir Dünya</i> (A Socialist World, 1975)</li>
+<li><i>Dilimiz Üstüne Konuşmalar</i> (Discussions about our Language, 1975)</li>
+<li><i>Maddecilik ve Ülkücülük</i> (Materialism and Idealism, 1977)</li>
+<li><i>Yasak</i> (The Ban, 1978)</li>
+<li><i>Paris Yazıları</i> (Paris Writings, 1982)</li>
+<li><i>Açikliga Dogru</i> (Towards Openness, 1984)</li>
+<li><i>Sevismenin Güdüklügü ve Yüceligi</i> (On the Deficiency and Loftiness of Love-Making, 1990)</li>
+<li><i>Yiten Söz</i> (The Vanishing Word, 1992)</li>
+<li><i>Aldanma ki</i> (Don’t Be Fooled, 1992)</li>
+<li><i>Imge Ormanlari</i> (The Forests of Images, 1994)</li>
+<li><i>Gelecegi Yasamak</i> (Living the Future, 1994)</li></ul>
+<dl><dt>Memoir</dt>
+<dd></dd></dl>
+<ul><li><i>Sovyet Rusya, Azerbaycan, Özbekistan, Bulgaristan, Macaristan</i> (Soviet Russia, Azerbaijan, Uzbekistan, Bulgaria, Hungary, 1965)</li></ul>
+<h2><span class="mw-headline" id="Translations_into_European_languages">Translations into European languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melih_Cevdet_Anday&amp;action=edit&amp;section=4" title="Edit section: Translations into European languages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Anday’s works have been translated into Russian, German, Hungarian, Romanian, French and English. Book-length translations include the novel <i>Aylaklar</i> into Bulgarian (Sofia 1966) and poetry selections into French: <i>Ulysse Bras Attachés et autres poems</i>, (Poésie-Club UNESCO, Paris, 1970) and <i>Offrandes</i> 1946–1989 (Editions UNESCO, 1998). US selections of poetry include <i>On The Nomad Sea</i>, (Geronimo Books, New York, 1974); <i>Rain One Step Away</i>, (Charioteer Press, Washington, DC, 1980); <i>Silent Stones: Selected Poems of Melih Cevdet Anday</i> (Northfield: Talisman House, 2017).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>  The last of these, translated by poets <a href="/wiki/Sidney_Wade" title="Sidney Wade">Sidney Wade</a> and  <a href="/wiki/Efe_Murad" title="Efe Murad">Efe Murad</a>, was winner of the 2015 Meral Divitci Prize.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p><b>Sources</b>
+</p><p>1.<i>M.C.ANDAY</i>. "EI" Magazine of European Art Center (EUARCE) of Greece, 8st issue 1994, p.11 &amp; 38-39
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melih_Cevdet_Anday&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Garip" title="Garip">Garip</a> Movement</li>
+<li><a href="/wiki/List_of_contemporary_Turkish_poets" title="List of contemporary Turkish poets">List of contemporary Turkish poets</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melih_Cevdet_Anday&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Details <a rel="nofollow" class="external text" href="http://www.turkishculture.org/literature/literature/turkish-authors/melih-cevdet-anday-248.htm?type=1">under the author’s name</a> at the Turkish Cultural Foundation</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Turkish Cultural Foundation</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">There is a translation of the preface in the online journal by poets <a href="/wiki/Sidney_Wade" title="Sidney Wade">Sidney Wade</a> and  <a href="/wiki/Efe_Murad" title="Efe Murad">Efe Murad</a>, <a rel="nofollow" class="external text" href="http://criticalflame.org/garip-a-turkish-poetry-manifesto-1941"><i>The Critical Flame</i></a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Talât Sait Halman, <i>A Millennium of Turkish Literature: A Concise History</i>, Syracuse University 2011, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=glbkeEywls0C&amp;lpg=PA99&amp;dq=%22Melih%20Cevdet%20Anday%20%22&amp;pg=PA99#v=onepage&amp;q=%22Melih%20Cevdet%20Anday%20%22&amp;f=false">pp.99-100</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Song 1, section 1</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Translated in <i>A Brave New Quest: 100 Modern Turkish Poems</i>, Syracuse University Press 2006, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=_a6Hpa0Iji0C&amp;lpg=PA189&amp;dq=%22Melih%20Cevdet%20Anday%20%22&amp;pg=PA72#v=onepage&amp;q=Nomad%20Sea&amp;f=false">pp.72-77</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">See External Links below for some sections</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">A translation was included in <i>An Anthology of Turkish Drama</i> Vol.1, <a rel="nofollow" class="external text" href="https://books.google.com/books?id=vJ5_Rvuzzu8C&amp;lpg=PA273&amp;dq=Anday%20Mikado&amp;pg=PA273#v=onepage&amp;q=Anday%20Mikado&amp;f=false">pp.271-324</a>, Syracuse University 2008</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.spdbooks.org/Products/9781584981251/silent-stones-selected-poems-of-melih-cevdet-anday.aspx">Silent Stones: Selected Poems of Melih Cevdet Anday</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nazimhikmetpoetryfestival.org/article.php?doc=105">Nazım Hikmet Poetry Festival Meral Divitçi Prize</a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Melih_Cevdet_Anday&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>"A poem in the manner of Karacaoglan", translations by <a href="/wiki/Sidney_Wade" title="Sidney Wade">Sidney Wade</a> and  <a href="/wiki/Efe_Murad" title="Efe Murad">Efe Murad</a> in "Asymptote" <a rel="nofollow" class="external text" href="http://twolinespress.com/poem-in-the-manner-of-karacaoglan">sections 1 and 4</a>; <a rel="nofollow" class="external text" href="http://www.asymptotejournal.com/poetry/melih-cevdet-anday-a-poem-in-the-manner-of-karacaoglan">sections 6-8</a></li>
+<li>"Voice", a translation by <a href="/wiki/Sidney_Wade" title="Sidney Wade">Sidney Wade</a> and  <a href="/wiki/Efe_Murad" title="Efe Murad">Efe Murad</a> in "Guernica" <a rel="nofollow" class="external autonumber" href="https://www.guernicamag.com/poetry/voice">[1]</a></li>
+<li>"Garip: A Turkish Poetry Manifesto", a translation by <a href="/wiki/Sidney_Wade" title="Sidney Wade">Sidney Wade</a> and  <a href="/wiki/Efe_Murad" title="Efe Murad">Efe Murad</a> in "Critical Flame" <a rel="nofollow" class="external text" href="http://criticalflame.org/garip-a-turkish-poetry-manifesto-1941"><i>The Critical Flame</i></a></li>
+<li><a rel="nofollow" class="external text" href="http://www.cs.rpi.edu/~sibel/poetry/melih_cevdet_anday.html#Poems%20in%20English">8 poems</a></li>
+<li><a rel="nofollow" class="external text" href="https://books.google.com/books?id=_a6Hpa0Iji0C&amp;lpg=PA189&amp;dq=%22Melih%20Cevdet%20Anday%20%22&amp;pg=PA72#v=onepage&amp;q=Nomad%20Sea&amp;f=false">Eight poems</a> in <i>A Brave New Quest: 100 Modern Turkish Poems</i>, Syracuse University Press 2006</li>
+<li>"Silent Stones: Selected Poems of Melih Cevdet Anday", <a rel="nofollow" class="external autonumber" href="http://www.spdbooks.org/Products/9781584981251/silent-stones-selected-poems-of-melih-cevdet-anday.aspx">[2]</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Turkish_literature" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Turkish_literature" title="Template:Turkish literature"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Turkish_literature" title="Template talk:Turkish literature"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Turkish_literature&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Turkish_literature" style="font-size:114%;margin:0 4em"><a href="/wiki/Turkish_literature" title="Turkish literature">Turkish literature</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Folk</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/A%C5%9F%C4%B1k_Mahzuni_%C5%9Eerif" title="Aşık Mahzuni Şerif">Aşık Mahzuni Şerif</a></li>
+<li><a href="/wiki/%C3%82%C5%9F%C4%B1k_Veysel_%C5%9Eat%C4%B1ro%C4%9Flu" class="mw-redirect" title="Âşık Veysel Şatıroğlu">Âşık Veysel Şatıroğlu</a></li>
+<li><a href="/wiki/Dadalo%C4%9Flu" title="Dadaloğlu">Dadaloğlu</a></li>
+<li><a href="/wiki/Erzurumlu_Emrah" title="Erzurumlu Emrah">Erzurumlu Emrah</a></li>
+<li><a href="/w/index.php?title=Gevheri&amp;action=edit&amp;redlink=1" class="new" title="Gevheri (page does not exist)">Gevheri</a></li>
+<li><a href="/wiki/Hac%C4%B1_Bekta%C5%9F-%C4%B1_Veli" class="mw-redirect" title="Hacı Bektaş-ı Veli">Hacı Bektaş-ı Veli</a></li>
+<li><a href="/wiki/Karacao%C4%9Flan" title="Karacaoğlan">Karacaoğlan</a></li>
+<li><a href="/wiki/Kaygusuz_Abdal" title="Kaygusuz Abdal">Kaygusuz Abdal</a></li>
+<li><a href="/wiki/Nasreddin" title="Nasreddin">Nasreddin</a></li>
+<li><a href="/wiki/Ne%C5%9Fet_Erta%C5%9F" title="Neşet Ertaş">Neşet Ertaş</a></li>
+<li><a href="/wiki/Pir_Sultan_Abdal" title="Pir Sultan Abdal">Pir Sultan Abdal</a></li>
+<li><a href="/w/index.php?title=Seyrani&amp;action=edit&amp;redlink=1" class="new" title="Seyrani (page does not exist)">Seyrani</a></li>
+<li><a href="/wiki/Yunus_Emre" title="Yunus Emre">Yunus Emre</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Medieval and <br /> <a href="/wiki/Ottoman_Empire" title="Ottoman Empire">Ottoman</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sultan_Veled" class="mw-redirect" title="Sultan Veled">Sultan Veled</a></li>
+<li><a href="/wiki/Imadaddin_Nasimi" title="Imadaddin Nasimi">Imadaddin Nasimi</a></li>
+<li><a href="/wiki/Fuz%C3%BBl%C3%AE" title="Fuzûlî">Fuzûlî</a></li>
+<li><a href="/wiki/B%C3%A2k%C3%AE" title="Bâkî">Bâkî</a></li>
+<li><a href="/wiki/Mihri_Hatun" title="Mihri Hatun">Mihri Hatun</a></li>
+<li><a href="/wiki/Sehi_Bey" title="Sehi Bey">Sehi Bey</a></li>
+<li><a href="/wiki/%C4%B0sa_Necati" title="İsa Necati">İsa Necati</a></li>
+<li><a href="/wiki/Nishandji_Tadji-zade_Dja%27fer_%C3%87elebi" title="Nishandji Tadji-zade Dja&#39;fer Çelebi">Tadjizade Dja'fer Çelebi</a></li>
+<li><a href="/wiki/Suzi_%C3%87elebi_of_Prizren" title="Suzi Çelebi of Prizren">Prizrenli Suzi Çelebi</a></li>
+<li><a href="/wiki/Mesihi_of_Prishtina" title="Mesihi of Prishtina">Mesihi</a></li>
+<li><a href="/wiki/Yahya_bey_Dukagjini" title="Yahya bey Dukagjini">Yahya bey Dukagjini</a></li>
+<li><a href="/wiki/Nef%27i" title="Nef&#39;i">Nef'i</a></li>
+<li><a href="/wiki/Ned%C3%AEm" title="Nedîm">Nedîm</a></li>
+<li><a href="/w/index.php?title=%C5%9Eeyh_G%C3%A2lib&amp;action=edit&amp;redlink=1" class="new" title="Şeyh Gâlib (page does not exist)">Şeyh Gâlib</a></li>
+<li><a href="/wiki/Evliya_%C3%87elebi" title="Evliya Çelebi">Evliya Çelebi</a></li>
+<li><a href="/wiki/Katib_%C3%87elebi" class="mw-redirect" title="Katib Çelebi">Katib Çelebi</a></li>
+<li><a href="/wiki/Khayali" title="Khayali">K̲h̲ayālī Mehmed Bey</a></li>
+<li><a href="/wiki/Ahdi_of_Baghdad" title="Ahdi of Baghdad">Ahdi of Baghdad</a></li>
+<li><a href="/wiki/Latif%C3%AE" title="Latifî">Latifî</a></li>
+<li><a href="/wiki/Riyazi" title="Riyazi">Riyazi</a></li>
+<li><a href="/wiki/Yirmisekiz_Mehmed_%C3%87elebi" title="Yirmisekiz Mehmed Çelebi">Yirmisekiz Mehmed Çelebi</a></li>
+<li><a href="/wiki/Fitnat_Han%C4%B1m" title="Fitnat Hanım">Fitnat Hanım</a></li>
+<li><a href="/wiki/Ali_%C3%87elebi" title="Ali Çelebi">Ali Çelebi</a></li>
+<li><a href="/wiki/A%C5%9F%C4%B1k_%C3%87elebi" title="Aşık Çelebi">Aşık Çelebi</a></li>
+<li><a href="/wiki/K%C4%B1nal%C4%B1z%C3%A2de_Hasan_%C3%87elebi" title="Kınalızâde Hasan Çelebi">Kınalızâde Hasan Çelebi</a></li>
+<li><a href="/wiki/Ziya_Pasha" title="Ziya Pasha">Ziya Pasha</a></li>
+<li><a href="/wiki/Sami_Frash%C3%ABri" title="Sami Frashëri">Şemsettin Sami</a></li>
+<li><a href="/wiki/Nam%C4%B1k_Kemal" title="Namık Kemal">Namık Kemal</a></li>
+<li><a href="/wiki/Zafer_Han%C4%B1m" title="Zafer Hanım">Zafer Hanım</a></li>
+<li><a href="/wiki/Ahmed_Midhat_Efendi" class="mw-redirect" title="Ahmed Midhat Efendi">Ahmed Midhat Efendi</a></li>
+<li><a href="/wiki/Tevfik_Fikret" title="Tevfik Fikret">Tevfik Fikret</a></li>
+<li><a href="/w/index.php?title=Cen%C3%A2b_%C5%9Eeh%C3%A2bedd%C3%AEn&amp;action=edit&amp;redlink=1" class="new" title="Cenâb Şehâbeddîn (page does not exist)">Cenâb Şehâbeddîn</a></li>
+<li><a href="/wiki/%C3%96mer_Seyfettin" title="Ömer Seyfettin">Ömer Seyfettin</a></li>
+<li><a href="/wiki/Mehmet_Emin_Yurdakul" title="Mehmet Emin Yurdakul">Mehmet Emin Yurdakul</a></li>
+<li><a href="/w/index.php?title=Ali_Canip_Y%C3%B6ntem&amp;action=edit&amp;redlink=1" class="new" title="Ali Canip Yöntem (page does not exist)">Ali Canip Yöntem</a></li>
+<li><a href="/w/index.php?title=Mirza_Habib_Esfahani&amp;action=edit&amp;redlink=1" class="new" title="Mirza Habib Esfahani (page does not exist)">Mirza Habib Esfahani</a></li>
+<li><a href="/wiki/Muallim_Naci" title="Muallim Naci">Muallim Naci</a></li>
+<li><a href="/wiki/Fatma_Aliye_Topuz" title="Fatma Aliye Topuz">Fatma Aliye Topuz</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Republican era</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Halit_Ziya_U%C5%9Fakl%C4%B1gil" class="mw-redirect" title="Halit Ziya Uşaklıgil">Halit Ziya Uşaklıgil</a></li>
+<li><a href="/wiki/Ahmet_Ha%C5%9Fim" title="Ahmet Haşim">Ahmet Haşim</a></li>
+<li><a href="/wiki/Halide_Edib_Ad%C4%B1var" title="Halide Edib Adıvar">Halide Edib Adıvar</a></li>
+<li><a href="/wiki/Re%C5%9Fat_Nuri_G%C3%BCntekin" title="Reşat Nuri Güntekin">Reşat Nuri Güntekin</a></li>
+<li><a href="/wiki/Yakup_Kadri_Karaosmano%C4%9Flu" title="Yakup Kadri Karaosmanoğlu">Yakup Kadri Karaosmanoğlu</a></li>
+<li><a href="/wiki/Mehmet_Fuat_K%C3%B6pr%C3%BCl%C3%BC" title="Mehmet Fuat Köprülü">Mehmet Fuat Köprülü</a></li>
+<li><a href="/wiki/Cevat_%C5%9Eakir_Kabaa%C4%9Fa%C3%A7l%C4%B1" title="Cevat Şakir Kabaağaçlı">Cevat Şakir Kabaağaçlı</a></li>
+<li><a href="/wiki/Erc%C3%BCment_Ekrem_Talu" title="Ercüment Ekrem Talu">Ercüment Ekrem Talu</a></li>
+<li><a href="/wiki/Nurullah_Ata%C3%A7" title="Nurullah Ataç">Nurullah Ataç</a></li>
+<li><a href="/wiki/Orhan_Kemal" title="Orhan Kemal">Orhan Kemal</a></li>
+<li><a href="/wiki/Peyami_Safa" title="Peyami Safa">Peyami Safa</a></li>
+<li><a href="/wiki/Murathan_Mungan" title="Murathan Mungan">Murathan Mungan</a></li>
+<li><a href="/w/index.php?title=Orhan_Han%C3%A7erlio%C4%9Flu&amp;action=edit&amp;redlink=1" class="new" title="Orhan Hançerlioğlu (page does not exist)">Orhan Hançerlioğlu</a></li>
+<li><a href="/w/index.php?title=Samim_Kocag%C3%B6z&amp;action=edit&amp;redlink=1" class="new" title="Samim Kocagöz (page does not exist)">Samim Kocagöz</a></li>
+<li><a href="/wiki/Semiha_Ayverdi" class="mw-redirect" title="Semiha Ayverdi">Semiha Ayverdi</a></li>
+<li><a href="/wiki/Tar%C4%B1k_Bu%C4%9Fra" title="Tarık Buğra">Tarık Buğra</a></li>
+<li><a href="/wiki/Ya%C5%9Far_Kemal" title="Yaşar Kemal">Yaşar Kemal</a></li>
+<li><a href="/wiki/Fakir_Baykurt" title="Fakir Baykurt">Fakir Baykurt</a></li>
+<li><a href="/w/index.php?title=Bilge_Karasu&amp;action=edit&amp;redlink=1" class="new" title="Bilge Karasu (page does not exist)">Bilge Karasu</a></li>
+<li><a href="/wiki/O%C4%9Fuz_Atay" title="Oğuz Atay">Oğuz Atay</a></li>
+<li><a href="/w/index.php?title=Tomris_Uyar&amp;action=edit&amp;redlink=1" class="new" title="Tomris Uyar (page does not exist)">Tomris Uyar</a></li>
+<li><a href="/wiki/Ahmet_Altan" title="Ahmet Altan">Ahmet Altan</a></li>
+<li><a href="/wiki/Orhan_Pamuk" title="Orhan Pamuk">Orhan Pamuk</a></li>
+<li><a href="/wiki/Elif_Shafak" title="Elif Shafak">Elif Shafak</a></li>
+<li><a href="/w/index.php?title=Memduh_%C5%9Eevket_Esendal&amp;action=edit&amp;redlink=1" class="new" title="Memduh Şevket Esendal (page does not exist)">Memduh Şevket Esendal</a></li>
+<li><a href="/w/index.php?title=Kenan_Hulusi_Koray&amp;action=edit&amp;redlink=1" class="new" title="Kenan Hulusi Koray (page does not exist)">Kenan Hulusi Koray</a></li>
+<li><a href="/wiki/Sait_Faik_Abas%C4%B1yan%C4%B1k" title="Sait Faik Abasıyanık">Sait Faik Abasıyanık</a></li>
+<li><a href="/wiki/Kemal_Tahir" title="Kemal Tahir">Kemal Tahir</a></li>
+<li><a href="/wiki/Haldun_Taner" title="Haldun Taner">Haldun Taner</a></li>
+<li><a href="/wiki/Aziz_Nesin" title="Aziz Nesin">Aziz Nesin</a></li>
+<li><a href="/wiki/Nezihe_Araz" title="Nezihe Araz">Nezihe Araz</a></li>
+<li><a href="/w/index.php?title=Suut_Kemal_Yetkin&amp;action=edit&amp;redlink=1" class="new" title="Suut Kemal Yetkin (page does not exist)">Suut Kemal Yetkin</a></li>
+<li><a href="/wiki/Sabahattin_Ali" title="Sabahattin Ali">Sabahattin Ali</a></li>
+<li><a href="/w/index.php?title=Kemal_Bilba%C5%9Far&amp;action=edit&amp;redlink=1" class="new" title="Kemal Bilbaşar (page does not exist)">Kemal Bilbaşar</a></li>
+<li><a href="/w/index.php?title=Cemil_Meri%C3%A7&amp;action=edit&amp;redlink=1" class="new" title="Cemil Meriç (page does not exist)">Cemil Meriç</a></li>
+<li><a href="/w/index.php?title=Ru%C5%9Fen_E%C5%9Fref_%C3%9Cnayd%C4%B1n&amp;action=edit&amp;redlink=1" class="new" title="Ruşen Eşref Ünaydın (page does not exist)">Ruşen Eşref Ünaydın</a></li>
+<li><a href="/wiki/Nurullah_Ata%C3%A7" title="Nurullah Ataç">Nurullah Ataç</a></li>
+<li><a href="/wiki/Beh%C3%A7et_Necatigil" title="Behçet Necatigil">Behçet Necatigil</a></li>
+<li><a href="/wiki/Necati_Cumal%C4%B1" title="Necati Cumalı">Necati Cumalı</a></li>
+<li><a href="/wiki/Ayfer_Tun%C3%A7" title="Ayfer Tunç">Ayfer Tunç</a></li>
+<li><a href="/w/index.php?title=Yekta_Kopan&amp;action=edit&amp;redlink=1" class="new" title="Yekta Kopan (page does not exist)">Yekta Kopan</a></li>
+<li><a href="/wiki/Ahmet_Kutsi_Tecer" title="Ahmet Kutsi Tecer">Ahmet Kutsi Tecer</a></li>
+<li><a href="/wiki/%C5%9Eevket_S%C3%BCreyya_Aydemir" title="Şevket Süreyya Aydemir">Şevket Süreyya Aydemir</a></li>
+<li><a href="/wiki/Mehmet_Emin_Yurdakul" title="Mehmet Emin Yurdakul">Mehmet Emin Yurdakul</a></li>
+<li><a href="/wiki/Ziya_G%C3%B6kalp" title="Ziya Gökalp">Ziya Gökalp</a></li>
+<li><a href="/wiki/Nih%C3%A2l_Ats%C4%B1z" class="mw-redirect" title="Nihâl Atsız">Nihâl Atsız</a></li>
+<li><a href="/w/index.php?title=Orhan_%C5%9Eaik_G%C3%B6kyay&amp;action=edit&amp;redlink=1" class="new" title="Orhan Şaik Gökyay (page does not exist)">Orhan Şaik Gökyay</a></li>
+<li><a href="/wiki/Orhan_Veli_Kan%C4%B1k" title="Orhan Veli Kanık">Orhan Veli Kanık</a></li>
+<li><a href="/wiki/Oktay_R%C4%B1fat_Horozcu" title="Oktay Rıfat Horozcu">Oktay Rıfat Horozcu</a></li>
+<li><a class="mw-selflink selflink">Melih Cevdet Anday</a></li>
+<li><a href="/wiki/Naz%C4%B1m_Hikmet" class="mw-redirect" title="Nazım Hikmet">Nazım Hikmet</a></li>
+<li><a href="/wiki/R%C4%B1fat_Ilgaz" title="Rıfat Ilgaz">Rıfat Ilgaz</a></li>
+<li><a href="/wiki/Cemal_S%C3%BCreya" title="Cemal Süreya">Cemal Süreya</a></li>
+<li><a href="/wiki/%C4%B0lhan_Berk" title="İlhan Berk">İlhan Berk</a></li>
+<li><a href="/wiki/Turgut_Uyar" title="Turgut Uyar">Turgut Uyar</a></li>
+<li><a href="/wiki/Edip_Cansever" title="Edip Cansever">Edip Cansever</a></li>
+<li><a href="/wiki/Ece_Ayhan_%C3%87a%C4%9Flar" title="Ece Ayhan Çağlar">Ece Ayhan Çağlar</a></li>
+<li><a href="/wiki/Sezai_Karako%C3%A7" title="Sezai Karakoç">Sezai Karakoç</a></li>
+<li><a href="/w/index.php?title=Tevfik_Akda%C4%9F&amp;action=edit&amp;redlink=1" class="new" title="Tevfik Akdağ (page does not exist)">Tevfik Akdağ</a></li>
+<li><a href="/w/index.php?title=%C3%9Clk%C3%BC_Tamer&amp;action=edit&amp;redlink=1" class="new" title="Ülkü Tamer (page does not exist)">Ülkü Tamer</a></li>
+<li><a href="/wiki/Neyzen_Tevfik" title="Neyzen Tevfik">Neyzen Tevfik</a></li>
+<li><a href="/wiki/Yahya_Kemal_Beyatl%C4%B1" title="Yahya Kemal Beyatlı">Yahya Kemal Beyatlı</a></li>
+<li><a href="/wiki/Abd%C3%BClhak_%C5%9Einasi_Hisar" title="Abdülhak Şinasi Hisar">Abdülhak Şinasi Hisar</a></li>
+<li><a href="/w/index.php?title=Orhan_Seyfi_Orhon&amp;action=edit&amp;redlink=1" class="new" title="Orhan Seyfi Orhon (page does not exist)">Orhan Seyfi Orhon</a></li>
+<li><a href="/w/index.php?title=Enis_Behi%C3%A7_Kory%C3%BCrek&amp;action=edit&amp;redlink=1" class="new" title="Enis Behiç Koryürek (page does not exist)">Enis Behiç Koryürek</a></li>
+<li><a href="/w/index.php?title=Halit_Fahri_Ozansoy&amp;action=edit&amp;redlink=1" class="new" title="Halit Fahri Ozansoy (page does not exist)">Halit Fahri Ozansoy</a></li>
+<li><a href="/w/index.php?title=Yusuf_Ziya_Orta%C3%A7&amp;action=edit&amp;redlink=1" class="new" title="Yusuf Ziya Ortaç (page does not exist)">Yusuf Ziya Ortaç</a></li>
+<li><a href="/w/index.php?title=Muammer_L%C3%BCtfi_Bak%C5%9Fi&amp;action=edit&amp;redlink=1" class="new" title="Muammer Lütfi Bakşi (page does not exist)">Muammer Lütfi Bakşi</a></li>
+<li><a href="/wiki/Necip_Faz%C4%B1l_K%C4%B1sak%C3%BCrek" title="Necip Fazıl Kısakürek">Necip Fazıl Kısakürek</a></li>
+<li><a href="/w/index.php?title=Vasfi_Mahir_Kocay%C3%BCrek&amp;action=edit&amp;redlink=1" class="new" title="Vasfi Mahir Kocayürek (page does not exist)">Vasfi Mahir Kocayürek</a></li>
+<li><a href="/w/index.php?title=Sabri_Esat_Siyavu%C5%9Fgil&amp;action=edit&amp;redlink=1" class="new" title="Sabri Esat Siyavuşgil (page does not exist)">Sabri Esat Siyavuşgil</a></li>
+<li><a href="/w/index.php?title=Cevdet_Kudret&amp;action=edit&amp;redlink=1" class="new" title="Cevdet Kudret (page does not exist)">Cevdet Kudret</a></li>
+<li><a href="/w/index.php?title=Ya%C5%9Far_Nabi_Nay%C4%B1r&amp;action=edit&amp;redlink=1" class="new" title="Yaşar Nabi Nayır (page does not exist)">Yaşar Nabi Nayır</a></li>
+<li><a href="/wiki/Ahmet_Muhip_D%C4%B1ranas" title="Ahmet Muhip Dıranas">Ahmet Muhip Dıranas</a></li>
+<li><a href="/wiki/Cahit_S%C4%B1tk%C4%B1_Taranc%C4%B1" title="Cahit Sıtkı Tarancı">Cahit Sıtkı Tarancı</a></li>
+<li><a href="/w/index.php?title=Ziya_Osman_Saba&amp;action=edit&amp;redlink=1" class="new" title="Ziya Osman Saba (page does not exist)">Ziya Osman Saba</a></li>
+<li><a href="/w/index.php?title=Faik_Baysal&amp;action=edit&amp;redlink=1" class="new" title="Faik Baysal (page does not exist)">Faik Baysal</a></li>
+<li><a href="/w/index.php?title=Salah_Birsel&amp;action=edit&amp;redlink=1" class="new" title="Salah Birsel (page does not exist)">Salah Birsel</a></li>
+<li><a href="/w/index.php?title=%C3%96zdemir_Asaf&amp;action=edit&amp;redlink=1" class="new" title="Özdemir Asaf (page does not exist)">Özdemir Asaf</a></li>
+<li><a href="/w/index.php?title=N._Abbas_Sayar&amp;action=edit&amp;redlink=1" class="new" title="N. Abbas Sayar (page does not exist)">N. Abbas Sayar</a></li>
+<li><a href="/wiki/Can_Y%C3%BCcel" title="Can Yücel">Can Yücel</a></li>
+<li><a href="/wiki/Attil%C3%A2_%C4%B0lhan" title="Attilâ İlhan">Attilâ İlhan</a></li>
+<li><a href="/w/index.php?title=G%C3%BCven_Turan&amp;action=edit&amp;redlink=1" class="new" title="Güven Turan (page does not exist)">Güven Turan</a></li>
+<li><a href="/wiki/%C4%B0smet_%C3%96zel" title="İsmet Özel">İsmet Özel</a></li>
+<li><a href="/w/index.php?title=Cem_Uzung%C3%BCne%C5%9F&amp;action=edit&amp;redlink=1" class="new" title="Cem Uzungüneş (page does not exist)">Cem Uzungüneş</a></li>
+<li><a href="/w/index.php?title=Mehmet_Altun&amp;action=edit&amp;redlink=1" class="new" title="Mehmet Altun (page does not exist)">Mehmet Altun</a></li>
+<li><a href="/w/index.php?title=Mehmet_Erte&amp;action=edit&amp;redlink=1" class="new" title="Mehmet Erte (page does not exist)">Mehmet Erte</a></li>
+<li><a href="/w/index.php?title=K%C3%BC%C3%A7%C3%BCk_%C4%B0skender&amp;action=edit&amp;redlink=1" class="new" title="Küçük İskender (page does not exist)">Küçük İskender</a></li>
+<li><a href="/wiki/Faruk_Nafiz_%C3%87aml%C4%B1bel" title="Faruk Nafiz Çamlıbel">Faruk Nafiz Çamlıbel</a></li>
+<li><a href="/wiki/Faz%C4%B1l_H%C3%BCsn%C3%BC_Da%C4%9Flarca" title="Fazıl Hüsnü Dağlarca">Fazıl Hüsnü Dağlarca</a></li>
+<li><a href="/wiki/Yusuf_At%C4%B1lgan" title="Yusuf Atılgan">Yusuf Atılgan</a></li>
+<li><a href="/wiki/Murat_G%C3%BClsoy" title="Murat Gülsoy">Murat Gülsoy</a></li>
+<li><a href="/wiki/Ay%C5%9Fe_Kulin" title="Ayşe Kulin">Ayşe Kulin</a></li>
+<li><a href="/wiki/Y%C4%B1lmaz_Onay" title="Yılmaz Onay">Yılmaz Onay</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q965750&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q965750&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q965750" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Bibsys" title="Bibsys">BIBSYS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/99023849">99023849</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb11888750r">cb11888750r</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb11888750r">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/119537850">119537850</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000368497503">0000 0003 6849 7503</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n81093309">n81093309</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Royal_Library_of_the_Netherlands" title="Royal Library of the Netherlands">NTA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p074125265">074125265</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/SNAC" title="SNAC">SNAC</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://socialarchive.iath.virginia.edu/ark:/99166/w6sn147p">w6sn147p</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/026685779">026685779</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/49220867">49220867</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/49220867">49220867</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1328
+Cached time: 20190929155518
+Cache expiry: 86400
+Dynamic content: true
+Complications: []
+CPU time usage: 0.272 seconds
+Real time usage: 0.404 seconds
+Preprocessor visited node count: 1083/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 33762/2097152 bytes
+Template argument size: 948/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 10/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 4106/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.088/10.000 seconds
+Lua memory usage: 2.79 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  327.699      1 -total
+ 56.74%  185.951      1 Template:Infobox_writer
+ 52.19%  171.036      1 Template:Infobox
+ 42.20%  138.293      3 Template:Br_separated_entries
+ 33.02%  108.195      1 Template:Birth_date
+ 14.09%   46.179      1 Template:Authority_control
+ 11.86%   38.881      1 Template:Use_dmy_dates
+  5.37%   17.599      1 Template:Turkish_Literature
+  5.16%   16.901      1 Template:DMCA
+  4.78%   15.662      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8039055-0!canonical and timestamp 20190929155517 and revision id 859275517
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Melih_Cevdet_Anday&amp;oldid=859275517">https://en.wikipedia.org/w/index.php?title=Melih_Cevdet_Anday&amp;oldid=859275517</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1915_births" title="Category:1915 births">1915 births</a></li><li><a href="/wiki/Category:2002_deaths" title="Category:2002 deaths">2002 deaths</a></li><li><a href="/wiki/Category:People_from_Istanbul" title="Category:People from Istanbul">People from Istanbul</a></li><li><a href="/wiki/Category:Turkish_poets" title="Category:Turkish poets">Turkish poets</a></li><li><a href="/wiki/Category:20th-century_poets" title="Category:20th-century poets">20th-century poets</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_script_errors" title="Category:Pages with script errors">Pages with script errors</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2013" title="Category:Use dmy dates from September 2013">Use dmy dates from September 2013</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NTA_identifiers" title="Category:Wikipedia articles with NTA identifiers">Wikipedia articles with NTA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SNAC-ID_identifiers" title="Category:Wikipedia articles with SNAC-ID identifiers">Wikipedia articles with SNAC-ID identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Melih+Cevdet+Anday" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Melih+Cevdet+Anday" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Melih_Cevdet_Anday" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Melih_Cevdet_Anday" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Melih_Cevdet_Anday">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Melih_Cevdet_Anday&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Melih_Cevdet_Anday&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Melih_Cevdet_Anday" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Melih_Cevdet_Anday" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Melih_Cevdet_Anday&amp;oldid=859275517" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Melih_Cevdet_Anday&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q965750" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Melih_Cevdet_Anday&amp;id=859275517" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Melih+Cevdet+Anday">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Melih+Cevdet+Anday&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Melih_Cevdet_Anday&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D9%84%D9%8A%D8%AD_%D8%AC%D9%88%D8%AF%D8%AA_%D8%A3%D9%86%D8%B6%D8%A7%D9%8A" title="مليح جودت أنضاي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Melih_Cevdet" title="Melih Cevdet – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Melih_Cevdet" title="Melih Cevdet – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9C%CE%B5%CE%BB%CE%AF%CF%87_%CE%A4%CE%B6%CE%B5%CE%B2%CE%BD%CF%84%CE%AD%CF%84_%CE%91%CE%BD%CF%84%CE%AC%CF%85" title="Μελίχ Τζεβντέτ Αντάυ – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Melih_Cevdet_Anday" title="Melih Cevdet Anday – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D9%84%DB%8C%D8%AD_%D8%AC%D9%88%D8%AF%D8%AA_%D8%A2%D9%86%D8%AF%D8%A7%DB%8C" title="ملیح جودت آندای – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Melih_Cevdet_Anday" title="Melih Cevdet Anday – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%84%D5%A5%D5%AC%D5%AB%D5%B0_%D5%8B%D6%87%D5%A4%D5%A5%D5%A9_%D4%B1%D5%B6%D5%A4%D5%A1%D5%B5" title="Մելիհ Ջևդեթ Անդայ – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BB%D0%B8%D1%85_%D0%8F%D0%B5%D0%B2%D0%B4%D0%B5%D1%82_%D0%90%D0%BD%D0%B4%D0%B0%D1%98" title="Мелих Џевдет Андај – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Melih_Cevdet_Anday" title="Melih Cevdet Anday – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Melih_Cevdet_Anday" title="Melih Cevdet Anday – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Melih_Cevdet_Anday" title="Melih Cevdet Anday – Zazaki" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q965750#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 12 September 2018, at 23:41<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Melih_Cevdet_Anday&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.272","walltime":"0.404","ppvisitednodes":{"value":1083,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":33762,"limit":2097152},"templateargumentsize":{"value":948,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4106,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  327.699      1 -total"," 56.74%  185.951      1 Template:Infobox_writer"," 52.19%  171.036      1 Template:Infobox"," 42.20%  138.293      3 Template:Br_separated_entries"," 33.02%  108.195      1 Template:Birth_date"," 14.09%   46.179      1 Template:Authority_control"," 11.86%   38.881      1 Template:Use_dmy_dates","  5.37%   17.599      1 Template:Turkish_Literature","  5.16%   16.901      1 Template:DMCA","  4.78%   15.662      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.088","limit":"10.000"},"limitreport-memusage":{"value":2927506,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20190929155518","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Melih Cevdet Anday","url":"https:\/\/en.wikipedia.org\/wiki\/Melih_Cevdet_Anday","sameAs":"http:\/\/www.wikidata.org\/entity\/Q965750","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q965750","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-11-20T22:49:51Z","dateModified":"2018-09-12T23:41:21Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/d\/d9\/Melih_Cevdet_Anday.jpg","headline":"Turkish poet and writer"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":513,"wgHostname":"mw1328"});});</script>
+</body>
+</html>
+

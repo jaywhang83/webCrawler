@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>List of Sites of Special Scientific Interest in West Yorkshire - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire","wgTitle":"List of Sites of Special Scientific Interest in West Yorkshire","wgCurRevisionId":916935892,"wgRevisionId":916935892,"wgArticleId":5871885,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with OS grid coordinates","Sites of Special Scientific Interest in West Yorkshire","Lists of Sites of Special Scientific Interest by Area of Search","West Yorkshire-related lists"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":[
+"","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire","wgRelevantArticleId":5871885,"wgRequestId":"XYrH1ApAAEAAAJsY7hsAAABN","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q6597195","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":
+"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire rootpage-List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">List of Sites of Special Scientific Interest in West Yorkshire</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>This is a <b>list of the <a href="/wiki/Sites_of_Special_Scientific_Interest" class="mw-redirect" title="Sites of Special Scientific Interest">Sites of Special Scientific Interest</a> (SSSIs) in <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></b>. <a href="/wiki/English_Nature" title="English Nature">English Nature</a>, the designating body for SSSIs in <a href="/wiki/England" title="England">England</a>, uses the <a href="/wiki/Metropolitan_and_non-metropolitan_counties_of_England" title="Metropolitan and non-metropolitan counties of England">1974–1996 county system</a>, and the same approach is followed here, rather than, for example, merging all <a href="/wiki/Yorkshire" title="Yorkshire">Yorkshire</a> sites into a single list.
+</p><p>For other counties, see <a href="/wiki/List_of_SSSIs_by_Area_of_Search" class="mw-redirect" title="List of SSSIs by Area of Search">List of SSSIs by Area of Search</a>.
+</p>
+<h2><span class="mw-headline" id="Sites">Sites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire&amp;action=edit&amp;section=1" title="Edit section: Sites">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="font-size:90%">
+<tbody><tr>
+<th width="270" rowspan="2">Site name
+</th>
+<th width="160" colspan="2">Reason for designation
+</th>
+<th width="100" colspan="2">Area<sup class="reference" id="ref_AreaA"><a href="#endnote_AreaA">[A]</a></sup>
+</th>
+<th width="100" rowspan="2">Grid reference<sup class="reference" id="ref_Grid_referenceB"><a href="#endnote_Grid_referenceB">[B]</a></sup>
+</th>
+<th width="60" rowspan="2">Year in which notified
+</th>
+<th width="50" rowspan="2">Map<sup class="reference" id="ref_MapC"><a href="#endnote_MapC">[C]</a></sup>
+</th>
+<th width="60" rowspan="2">Citation<sup class="reference" id="ref_CitationD"><a href="#endnote_CitationD">[D]</a></sup>
+</th></tr>
+<tr>
+<th width="80">Biological interest
+</th>
+<th width="80">Geological interest
+</th>
+<th width="50">Hectares
+</th>
+<th width="50">Acres
+</th></tr>
+<tr>
+<td><a href="/w/index.php?title=Bingley_South_Bog&amp;action=edit&amp;redlink=1" class="new" title="Bingley South Bog (page does not exist)">Bingley South Bog</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">4.0
+</td>
+<td align="right">9.9
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.843519503197;-1.8267032255774_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE115386</a></span>
+</td>
+<td align="center">1990
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271005894%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1005894.pdf">[1]</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Breary_Marsh" title="Breary Marsh">Breary Marsh</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">9.5
+</td>
+<td align="right">23.5
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.869942223139;-1.5999967631781_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE264416</a></span>
+</td>
+<td align="center">1983
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271004047%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1004047.pdf">[2]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Broadhead_Clough&amp;action=edit&amp;redlink=1" class="new" title="Broadhead Clough (page does not exist)">Broadhead Clough</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">63.8
+</td>
+<td align="right">157.6
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.711926003132;-0.49240853011916_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE996250</a></span>
+</td>
+<td align="center">1983/84
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271004085%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1004085.pdf">[3]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Crimsworth_Dean&amp;action=edit&amp;redlink=1" class="new" title="Crimsworth Dean (page does not exist)">Crimsworth Dean</a>
+</td>
+<td>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td align="right">13.8
+</td>
+<td align="right">34.1
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.76005467565;-2.0196813525695_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SD988293</a></span>, <span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.788817413539;-2.0105879126027_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SD994325</a></span>
+</td>
+<td align="center">1984
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271001739%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1001739.pdf">[4]</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Dark_Peak" title="Dark Peak">Dark Peak</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td align="right">31,852.9
+</td>
+<td align="right">78,708.4
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.460635529992;-1.835794418607_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SK110960</a></span>
+</td>
+<td align="center">1993
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271003028%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1003028.pdf">[5]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Denby_Grange_Colliery_Ponds&amp;action=edit&amp;redlink=1" class="new" title="Denby Grange Colliery Ponds (page does not exist)">Denby Grange Colliery Ponds</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">19.1
+</td>
+<td align="right">47.2
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.632628481827;-1.5916576104169_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE271152</a></span>
+</td>
+<td align="center">1997
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%272000132%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/2000132.pdf">[6]</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Eccup_Reservoir" title="Eccup Reservoir">Eccup Reservoir</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">114.5
+</td>
+<td align="right">282.9
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.870646166737;-1.5452405157855_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE300417</a></span>
+</td>
+<td align="center">1987
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271003837%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1003837.pdf">[7]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Elland_Bypass_Cutting&amp;action=edit&amp;redlink=1" class="new" title="Elland Bypass Cutting (page does not exist)">Elland Bypass Cutting</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">1.1
+</td>
+<td align="right">2.7
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.678131983847;-1.8213262893127_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE119202</a></span>
+</td>
+<td align="center">1989
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271003352%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1003352.pdf">[8]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Fairburn_And_Newton_Ings&amp;action=edit&amp;redlink=1" class="new" title="Fairburn And Newton Ings (page does not exist)">Fairburn And Newton Ings</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">168.1
+</td>
+<td align="right">415.4
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.741919985549;-1.3146552760784_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE453275</a></span>
+</td>
+<td align="center">1984
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271004115%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1004115.pdf">[9]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Great_Dib_Wood&amp;action=edit&amp;redlink=1" class="new" title="Great Dib Wood (page does not exist)">Great Dib Wood</a>
+</td>
+<td>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td align="right">1.1
+</td>
+<td align="right">2.7
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.894497523806;-1.6986717979076_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE199443</a></span>
+</td>
+<td align="center">1984
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271001776%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1001776.pdf">[10]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Hetchell_Wood&amp;action=edit&amp;redlink=1" class="new" title="Hetchell Wood (page does not exist)">Hetchell Wood</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">14.2
+</td>
+<td align="right">35.3
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.87644405927;-1.4295788749896_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE376424</a></span>
+</td>
+<td align="center">1983
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271004127%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1004127.pdf">[11]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Honley_Station_Cutting&amp;action=edit&amp;redlink=1" class="new" title="Honley Station Cutting (page does not exist)">Honley Station Cutting</a>
+</td>
+<td>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td align="right">0.4
+</td>
+<td align="right">1.0
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.609757153397;-1.7823176824347_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE145126</a></span>
+</td>
+<td align="center">1989
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271003371%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1003371.pdf">[12]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Hook_Moor&amp;action=edit&amp;redlink=1" class="new" title="Hook Moor (page does not exist)">Hook Moor</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">1.7
+</td>
+<td align="right">4.2
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.813980325781;-1.3423376279784_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE434355</a></span>
+</td>
+<td align="center">1989
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271005559%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1005559.pdf">[13]</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/Leeds_and_Liverpool_Canal" title="Leeds and Liverpool Canal">Leeds and Liverpool Canal</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">19.5
+</td>
+<td align="right">48.2
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.832426987382;-1.6778450843948_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE213374</a></span>
+</td>
+<td align="center">1984
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271004146%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1004146.pdf">[14]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Linton_Common&amp;action=edit&amp;redlink=1" class="new" title="Linton Common (page does not exist)">Linton Common</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">0.7
+</td>
+<td align="right">1.7
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.913233757948;-1.4168988352229_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE384465</a></span>
+</td>
+<td align="center">1984
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271004167%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1004167.pdf">[15]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Madbanks_And_Ledsham_Banks&amp;action=edit&amp;redlink=1" class="new" title="Madbanks And Ledsham Banks (page does not exist)">Madbanks And Ledsham Banks</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">6.2
+</td>
+<td align="right">15.2
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.755409725214;-1.31595245357_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE452290</a></span>, <span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.765217170554;-1.3021398582969_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE461301</a></span>
+</td>
+<td align="center">1984
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271004190%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1004190.pdf">[16]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Micklefield_Quarry&amp;action=edit&amp;redlink=1" class="new" title="Micklefield Quarry (page does not exist)">Micklefield Quarry</a>
+</td>
+<td>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td align="right">0.6
+</td>
+<td align="right">1.5
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.786917084323;-1.3245470837255_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE446325</a></span>
+</td>
+<td align="center">1990
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271004202%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1004202.pdf">[17]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Mickletown_Ings&amp;action=edit&amp;redlink=1" class="new" title="Mickletown Ings (page does not exist)">Mickletown Ings</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">38.3
+</td>
+<td align="right">94.6
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.742329304712;-1.3904586119682_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE403275</a></span>
+</td>
+<td align="center">1983
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271004217%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1004217.pdf">[18]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Norwood_Bottoms&amp;action=edit&amp;redlink=1" class="new" title="Norwood Bottoms (page does not exist)">Norwood Bottoms</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">11.0
+</td>
+<td align="right">27.2
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.869173529139;-1.4129492009386_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE387416</a></span>
+</td>
+<td align="center">1986
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271003789%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1003789.pdf">[19]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Nostell_Brickyard_Quarry&amp;action=edit&amp;redlink=1" class="new" title="Nostell Brickyard Quarry (page does not exist)">Nostell Brickyard Quarry</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">12.5
+</td>
+<td align="right">31.0
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.647959475782;-1.3918198024912_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE403170</a></span>
+</td>
+<td>
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271000751%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1000751.pdf">[20]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Park_Clough&amp;action=edit&amp;redlink=1" class="new" title="Park Clough (page does not exist)">Park Clough</a>
+</td>
+<td>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td align="right">0.5
+</td>
+<td align="right">1.2
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.609047869182;-1.9561316375331_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE030125</a></span>
+</td>
+<td align="center">1984
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271001794%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1001794.pdf">[21]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Rake_Dike&amp;action=edit&amp;redlink=1" class="new" title="Rake Dike (page does not exist)">Rake Dike</a>
+</td>
+<td>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td align="right">4.7
+</td>
+<td align="right">11.6
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.539763890776;-1.859631689121_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE094048</a></span>, <span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.548717287578;-1.8324357286553_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE112058</a></span>
+</td>
+<td align="center">1986
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271003777%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1003777.pdf">[22]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Roach_Lime_Hills&amp;action=edit&amp;redlink=1" class="new" title="Roach Lime Hills (page does not exist)">Roach Lime Hills</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">5.4
+</td>
+<td align="right">13.4
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.778161399595;-1.3671774002941_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE418315</a></span>
+</td>
+<td align="center">1983
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271004230%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1004230.pdf">[23]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Seckar_Wood&amp;action=edit&amp;redlink=1" class="new" title="Seckar Wood (page does not exist)">Seckar Wood</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">46.4
+</td>
+<td align="right">114.6
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.624226982716;-1.5085814785854_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE326143</a></span>
+</td>
+<td align="center">1984
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271004252%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1004252.pdf">[24]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=South_Elmsall_Quarry&amp;action=edit&amp;redlink=1" class="new" title="South Elmsall Quarry (page does not exist)">South Elmsall Quarry</a>
+</td>
+<td>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td align="right">0.3
+</td>
+<td align="right">0.7
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.598742217226;-1.2701311693744_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE484116</a></span>
+</td>
+<td align="center">1990
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271004301%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1004301.pdf">[25]</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/South_Pennine_Moors" title="South Pennine Moors">South Pennine Moors</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td align="right">20,938.0
+</td>
+<td align="right">51,740.0
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.766284736972;-2.1228426287331_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SD920300</a></span>
+</td>
+<td align="center">1994
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271007196%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1007196.pdf">[26]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Standedge_Road_Cutting&amp;action=edit&amp;redlink=1" class="new" title="Standedge Road Cutting (page does not exist)">Standedge Road Cutting</a>
+</td>
+<td>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td align="right">3.5
+</td>
+<td align="right">8.5
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.58208832322;-1.9742845589952_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE018095</a></span> – <span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.584782961612;-1.9667303052987_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE023098</a></span>
+</td>
+<td align="center">1984
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271001851%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1001851.pdf">[27]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Townclose_Hills&amp;action=edit&amp;redlink=1" class="new" title="Townclose Hills (page does not exist)">Townclose Hills</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">12.1
+</td>
+<td align="right">30.0
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.768362074031;-1.3840132084746_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE407304</a></span>
+</td>
+<td align="center">1984
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271004310%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1004310.pdf">[28]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Trench_Meadows&amp;action=edit&amp;redlink=1" class="new" title="Trench Meadows (page does not exist)">Trench Meadows</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">4.7
+</td>
+<td align="right">11.6
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.844380756812;-1.8023819471871_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE131387</a></span>
+</td>
+<td align="center">1999
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%272000369%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/2000369.pdf">[29]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Wentbridge_Ings&amp;action=edit&amp;redlink=1" class="new" title="Wentbridge Ings (page does not exist)">Wentbridge Ings</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">1.9
+</td>
+<td align="right">4.8
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.6572250004;-1.2797137222462_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE477181</a></span>
+</td>
+<td align="center">1987
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271004516%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1004516.pdf">[30]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Withens_Clough&amp;action=edit&amp;redlink=1" class="new" title="Withens Clough (page does not exist)">Withens Clough</a>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td>
+</td>
+<td align="right">3.0
+</td>
+<td align="right">7.4
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.707025412552;-2.0181413664435_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SD989234</a></span>
+</td>
+<td align="center">1984
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271004333%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1004333.pdf">[31]</a>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Yeadon_Brickworks_And_Railway_Cutting&amp;action=edit&amp;redlink=1" class="new" title="Yeadon Brickworks And Railway Cutting (page does not exist)">Yeadon Brickworks And Railway Cutting</a>
+</td>
+<td>
+</td>
+<td align="center"><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600" /><span style="display:none">Y</span>
+</td>
+<td align="right">3.3
+</td>
+<td align="right">8.2
+</td>
+<td align="center"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.863063063007;-1.7080207534979_region:GB_scale:25000?pagename=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">SE193408</a></span>
+</td>
+<td align="center">1984
+</td>
+<td align="center"><span class="nourlexpansion" title="MAGIC Defra Map"><a rel="nofollow" class="external text" href="http://magic.defra.gov.uk/MagicMap.aspx?startTopic=Designations&amp;activelayer=sssiIndex&amp;query=HYPERLINK%3D%271001873%27">Map</a></span>
+</td>
+<td align="center"><a rel="nofollow" class="external autonumber" href="http://www.sssi.naturalengland.org.uk/citation/citation_photo/1001873.pdf">[32]</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire&amp;action=edit&amp;section=2" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<dl><dd><span class="citation wikicite" id="endnote_AreaA"><a href="#ref_AreaA"><b><sup>A</sup></b></a></span> Data rounded to one decimal place.</dd>
+<dd><span class="citation wikicite" id="endnote_Grid_referenceB"><a href="#ref_Grid_referenceB"><b><sup>B</sup></b></a></span> Grid reference is based on the <a href="/wiki/British_national_grid_reference_system" class="mw-redirect" title="British national grid reference system">British national grid reference system</a>, also known as <a href="/wiki/OSGB36" class="mw-redirect" title="OSGB36">OSGB36</a>, and is the system used by the <a href="/wiki/Ordnance_Survey" title="Ordnance Survey">Ordnance Survey</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></dd>
+<dd><span class="citation wikicite" id="endnote_MapC"><a href="#ref_MapC"><b><sup>C</sup></b></a></span> Link to maps using the <i>Nature on the Map</i> service provided by <i>English Nature</i>.</dd>
+<dd><span class="citation wikicite" id="endnote_CitationD"><a href="#ref_CitationD"><b><sup>D</sup></b></a></span> <i>English Nature</i> citation sheets for each SSSI. Retrieved on 27 August 2012.</dd></dl>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20060720181544/http://www.ordnancesurvey.co.uk/oswebsite/getamap/help.html#gridref">"Guide to National Grid"</a>. <i>Ordnance Survey</i>. Archived from <a rel="nofollow" class="external text" href="http://www.ordnancesurvey.co.uk/oswebsite/getamap/help.html#gridref">the original</a> on 20 July 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">27 August</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ordnance+Survey&amp;rft.atitle=Guide+to+National+Grid&amp;rft_id=http%3A%2F%2Fwww.ordnancesurvey.co.uk%2Foswebsite%2Fgetamap%2Fhelp.html%23gridref&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+Sites+of+Special+Scientific+Interest+in+West+Yorkshire" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="SSSIs_in_the_United_Kingdom,_grouped_by_Area_of_Search" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:SSSI_AOS_lists" title="Template:SSSI AOS lists"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:SSSI_AOS_lists" title="Template talk:SSSI AOS lists"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:SSSI_AOS_lists&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="SSSIs_in_the_United_Kingdom,_grouped_by_Area_of_Search" style="font-size:114%;margin:0 4em"><a href="/wiki/Site_of_Special_Scientific_Interest" title="Site of Special Scientific Interest">SSSIs</a> in the United Kingdom, grouped by <a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_by_Area_of_Search" title="List of Sites of Special Scientific Interest by Area of Search">Area of Search</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">England</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Avon" title="List of Sites of Special Scientific Interest in Avon">Avon</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Bedfordshire" title="List of Sites of Special Scientific Interest in Bedfordshire">Bedfordshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Berkshire" title="List of Sites of Special Scientific Interest in Berkshire">Berkshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Buckinghamshire" title="List of Sites of Special Scientific Interest in Buckinghamshire">Buckinghamshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Cambridgeshire" title="List of Sites of Special Scientific Interest in Cambridgeshire">Cambridgeshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Cheshire" title="List of Sites of Special Scientific Interest in Cheshire">Cheshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Cleveland" title="List of Sites of Special Scientific Interest in Cleveland">Cleveland</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Cornwall" title="List of Sites of Special Scientific Interest in Cornwall">Cornwall</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_County_Durham" title="List of Sites of Special Scientific Interest in County Durham">County Durham</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Cumbria" title="List of Sites of Special Scientific Interest in Cumbria">Cumbria</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Derbyshire" title="List of Sites of Special Scientific Interest in Derbyshire">Derbyshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Devon" title="List of Sites of Special Scientific Interest in Devon">Devon</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Dorset" title="List of Sites of Special Scientific Interest in Dorset">Dorset</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_East_Sussex" title="List of Sites of Special Scientific Interest in East Sussex">East Sussex</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Essex" title="List of Sites of Special Scientific Interest in Essex">Essex</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Gloucestershire" title="List of Sites of Special Scientific Interest in Gloucestershire">Gloucestershire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Greater_London" title="List of Sites of Special Scientific Interest in Greater London">Greater London</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Greater_Manchester" title="List of Sites of Special Scientific Interest in Greater Manchester">Greater Manchester</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Hampshire" title="List of Sites of Special Scientific Interest in Hampshire">Hampshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Hereford_and_Worcester" title="List of Sites of Special Scientific Interest in Hereford and Worcester">Hereford and Worcester</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Hertfordshire" title="List of Sites of Special Scientific Interest in Hertfordshire">Hertfordshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Humberside" title="List of Sites of Special Scientific Interest in Humberside">Humberside</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_on_the_Isle_of_Wight" title="List of Sites of Special Scientific Interest on the Isle of Wight">Isle of Wight</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Kent" title="List of Sites of Special Scientific Interest in Kent">Kent</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Lancashire" title="List of Sites of Special Scientific Interest in Lancashire">Lancashire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Leicestershire" title="List of Sites of Special Scientific Interest in Leicestershire">Leicestershire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Lincolnshire" title="List of Sites of Special Scientific Interest in Lincolnshire">Lincolnshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Merseyside" title="List of Sites of Special Scientific Interest in Merseyside">Merseyside</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Norfolk" title="List of Sites of Special Scientific Interest in Norfolk">Norfolk</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_North_Yorkshire" title="List of Sites of Special Scientific Interest in North Yorkshire">North Yorkshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Northamptonshire" title="List of Sites of Special Scientific Interest in Northamptonshire">Northamptonshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Northumberland" title="List of Sites of Special Scientific Interest in Northumberland">Northumberland</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Nottinghamshire" title="List of Sites of Special Scientific Interest in Nottinghamshire">Nottinghamshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Oxfordshire" title="List of Sites of Special Scientific Interest in Oxfordshire">Oxfordshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Rutland" title="List of Sites of Special Scientific Interest in Rutland">Rutland</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Shropshire" title="List of Sites of Special Scientific Interest in Shropshire">Shropshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Somerset" title="List of Sites of Special Scientific Interest in Somerset">Somerset</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_South_Yorkshire" title="List of Sites of Special Scientific Interest in South Yorkshire">South Yorkshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Staffordshire" title="List of Sites of Special Scientific Interest in Staffordshire">Staffordshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Suffolk" title="List of Sites of Special Scientific Interest in Suffolk">Suffolk</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Surrey" title="List of Sites of Special Scientific Interest in Surrey">Surrey</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Tyne_and_Wear" title="List of Sites of Special Scientific Interest in Tyne and Wear">Tyne and Wear</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Warwickshire" title="List of Sites of Special Scientific Interest in Warwickshire">Warwickshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_the_West_Midlands" title="List of Sites of Special Scientific Interest in the West Midlands">West Midlands</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_West_Sussex" title="List of Sites of Special Scientific Interest in West Sussex">West Sussex</a></li>
+<li><a class="mw-selflink selflink">West Yorkshire</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Wiltshire" title="List of Sites of Special Scientific Interest in Wiltshire">Wiltshire</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Scotland</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Angus_and_Dundee" title="List of Sites of Special Scientific Interest in Angus and Dundee">Angus and Dundee</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Annandale_and_Eskdale" title="List of Sites of Special Scientific Interest in Annandale and Eskdale">Annandale and Eskdale</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Badenoch_and_Strathspey" title="List of Sites of Special Scientific Interest in Badenoch and Strathspey">Badenoch and Strathspey</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Banff_and_Buchan" title="List of Sites of Special Scientific Interest in Banff and Buchan">Banff and Buchan</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Berwickshire_and_Roxburgh" title="List of Sites of Special Scientific Interest in Berwickshire and Roxburgh">Berwickshire and Roxburgh</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Caithness" title="List of Sites of Special Scientific Interest in Caithness">Caithness</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Clydesdale_and_South_East_Glasgow" title="List of Sites of Special Scientific Interest in Clydesdale and South East Glasgow">Clydesdale and South East Glasgow</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Cumnock_and_Kyle" title="List of Sites of Special Scientific Interest in Cumnock and Kyle">Cumnock and Kyle</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Dumbarton_and_North_Glasgow" title="List of Sites of Special Scientific Interest in Dumbarton and North Glasgow">Dumbarton and North Glasgow</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Dunfermline_and_Kirkcaldy" title="List of Sites of Special Scientific Interest in Dunfermline and Kirkcaldy">Dunfermline and Kirkcaldy</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_East_Perth" title="List of Sites of Special Scientific Interest in East Perth">East Perth</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_East_Ross_and_Cromarty" title="List of Sites of Special Scientific Interest in East Ross and Cromarty">East Ross and Cromarty</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Edinburgh_and_West_Lothian" title="List of Sites of Special Scientific Interest in Edinburgh and West Lothian">Edinburgh and West Lothian</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Falkirk_and_Clackmannan" title="List of Sites of Special Scientific Interest in Falkirk and Clackmannan">Falkirk and Clackmannan</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Gordon_and_Aberdeen" title="List of Sites of Special Scientific Interest in Gordon and Aberdeen">Gordon and Aberdeen</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Inverness" title="List of Sites of Special Scientific Interest in Inverness">Inverness</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Islay_and_Jura" title="List of Sites of Special Scientific Interest in Islay and Jura">Islay and Jura</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Kincardine_and_Deeside" title="List of Sites of Special Scientific Interest in Kincardine and Deeside">Kincardine and Deeside</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Kintyre" title="List of Sites of Special Scientific Interest in Kintyre">Kintyre</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Lorne" title="List of Sites of Special Scientific Interest in Lorne">Lorne</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Mid_and_East_Lothian" title="List of Sites of Special Scientific Interest in Mid and East Lothian">Mid and East Lothian</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Mid_Argyll_and_Cowal" title="List of Sites of Special Scientific Interest in Mid Argyll and Cowal">Mid Argyll and Cowal</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Moray_and_Nairn" title="List of Sites of Special Scientific Interest in Moray and Nairn">Moray and Nairn</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Mull,_Coll_and_Tiree" title="List of Sites of Special Scientific Interest in Mull, Coll and Tiree">Mull, Coll and Tiree</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Nithsdale" title="List of Sites of Special Scientific Interest in Nithsdale">Nithsdale</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_North_East_Fife" title="List of Sites of Special Scientific Interest in North East Fife">North East Fife</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_North_Lochaber" title="List of Sites of Special Scientific Interest in North Lochaber">North Lochaber</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_North_West_Sutherland" title="List of Sites of Special Scientific Interest in North West Sutherland">North West Sutherland</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_North_Wester_Ross_and_Cromarty" title="List of Sites of Special Scientific Interest in North Wester Ross and Cromarty">North Wester Ross and Cromarty</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Orkney" title="List of Sites of Special Scientific Interest in Orkney">Orkney</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Renfrew_and_Cunninghame" title="List of Sites of Special Scientific Interest in Renfrew and Cunninghame">Renfrew and Cunninghame</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Rum_and_the_Small_Isles" title="List of Sites of Special Scientific Interest in Rum and the Small Isles">Rum and the Small Isles</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Shetland" title="List of Sites of Special Scientific Interest in Shetland">Shetland</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Skye_and_Lochalsh" title="List of Sites of Special Scientific Interest in Skye and Lochalsh">Skye and Lochalsh</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_South_East_Sutherland" title="List of Sites of Special Scientific Interest in South East Sutherland">South East Sutherland</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_South_Lochaber" title="List of Sites of Special Scientific Interest in South Lochaber">South Lochaber</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_South_Perth" title="List of Sites of Special Scientific Interest in South Perth">South Perth</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_South_Wester_Ross_and_Cromarty" title="List of Sites of Special Scientific Interest in South Wester Ross and Cromarty">South Wester Ross and Cromarty</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Stirling" title="List of Sites of Special Scientific Interest in Stirling">Stirling</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Tweeddale_and_Ettrick_and_Lauderdale" title="List of Sites of Special Scientific Interest in Tweeddale and Ettrick and Lauderdale">Tweeddale and Ettrick and Lauderdale</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_West_Perth" title="List of Sites of Special Scientific Interest in West Perth">West Perth</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Western_Isles_North" title="List of Sites of Special Scientific Interest in Western Isles North">Western Isles North</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Western_Isles_South" title="List of Sites of Special Scientific Interest in Western Isles South">Western Isles South</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Wigtown_and_Stewartry" title="List of Sites of Special Scientific Interest in Wigtown and Stewartry">Wigtown and Stewartry</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Wales</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_SSSIs_in_Brecknock" title="List of SSSIs in Brecknock">Brecknock</a></li>
+<li><a href="/wiki/List_of_SSSIs_in_Carmarthen_%26_Dinefwr" title="List of SSSIs in Carmarthen &amp; Dinefwr">Carmarthen &amp; Dinefwr</a></li>
+<li><a href="/wiki/List_of_SSSIs_in_Ceredigion" title="List of SSSIs in Ceredigion">Ceredigion</a></li>
+<li><a href="/wiki/List_of_SSSIs_in_Clwyd" title="List of SSSIs in Clwyd">Clwyd</a></li>
+<li><a href="/wiki/List_of_SSSIs_in_East_Gwynedd" title="List of SSSIs in East Gwynedd">East Gwynedd</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_Gwent" title="List of Sites of Special Scientific Interest in Gwent">Gwent</a></li>
+<li><a href="/wiki/List_of_SSSIs_in_Mid_%26_South_Glamorgan" title="List of SSSIs in Mid &amp; South Glamorgan">Mid &amp; South Glamorgan</a></li>
+<li><a href="/wiki/List_of_SSSIs_in_Montgomery" title="List of SSSIs in Montgomery">Montgomery</a></li>
+<li><a href="/wiki/List_of_SSSIs_in_Preseli_%26_South_Pembrokeshire" title="List of SSSIs in Preseli &amp; South Pembrokeshire">Preseli &amp; South Pembrokeshire</a></li>
+<li><a href="/wiki/List_of_SSSIs_in_Radnor" title="List of SSSIs in Radnor">Radnor</a></li>
+<li><a href="/wiki/List_of_SSSIs_in_West_Glamorgan" title="List of SSSIs in West Glamorgan">West Glamorgan</a></li>
+<li><a href="/wiki/List_of_SSSIs_in_West_Gwynedd" title="List of SSSIs in West Gwynedd">West Gwynedd</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Northern Ireland</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Areas_of_Special_Scientific_Interest_in_Antrim" class="mw-redirect" title="List of Areas of Special Scientific Interest in Antrim">County Antrim</a></li>
+<li><a href="/wiki/List_of_ASSIs_in_Armagh" class="mw-redirect" title="List of ASSIs in Armagh">County Armagh</a></li>
+<li><a href="/wiki/List_of_ASSIs_in_Down" class="mw-redirect" title="List of ASSIs in Down">County Down</a></li>
+<li><a href="/wiki/List_of_ASSIs_in_Fermanagh" class="mw-redirect" title="List of ASSIs in Fermanagh">County Fermanagh</a></li>
+<li><a href="/wiki/List_of_ASSIs_in_Londonderry" class="mw-redirect" title="List of ASSIs in Londonderry">County Londonderry</a></li>
+<li><a href="/wiki/List_of_ASSIs_in_Tyrone" class="mw-redirect" title="List of ASSIs in Tyrone">County Tyrone</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1269
+Cached time: 20190925015012
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.280 seconds
+Real time usage: 0.337 seconds
+Preprocessor visited node count: 1639/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 84795/2097152 bytes
+Template argument size: 1362/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3105/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.097/10.000 seconds
+Lua memory usage: 2 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  216.655      1 -total
+ 42.06%   91.117      1 Template:Reflist
+ 36.58%   79.256      1 Template:Cite_web
+ 32.45%   70.312     36 Template:Gbmappingsmall
+ 28.95%   62.727     36 Template:OS_coord
+  9.63%   20.873      1 Template:SSSI_AOS_lists
+  7.69%   16.668      1 Template:Navbox
+  3.96%    8.572      4 Template:Ref_label
+  2.95%    6.399     34 Template:Y
+  2.44%    5.286     32 Template:Nature_on_the_map
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5871885-0!canonical and timestamp 20190925015012 and revision id 916935892
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire&amp;oldid=916935892">https://en.wikipedia.org/w/index.php?title=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire&amp;oldid=916935892</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sites_of_Special_Scientific_Interest_in_West_Yorkshire" title="Category:Sites of Special Scientific Interest in West Yorkshire">Sites of Special Scientific Interest in West Yorkshire</a></li><li><a href="/wiki/Category:Lists_of_Sites_of_Special_Scientific_Interest_by_Area_of_Search" title="Category:Lists of Sites of Special Scientific Interest by Area of Search">Lists of Sites of Special Scientific Interest by Area of Search</a></li><li><a href="/wiki/Category:West_Yorkshire-related_lists" title="Category:West Yorkshire-related lists">West Yorkshire-related lists</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_OS_grid_coordinates" title="Category:Articles with OS grid coordinates">Articles with OS grid coordinates</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+Sites+of+Special+Scientific+Interest+in+West+Yorkshire" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+Sites+of+Special+Scientific+Interest+in+West+Yorkshire" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire&amp;oldid=916935892" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6597195" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire&amp;id=916935892" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+Sites+of+Special+Scientific+Interest+in+West+Yorkshire">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+Sites+of+Special+Scientific+Interest+in+West+Yorkshire&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ru badge-Q17506997 badge-featuredlist" title="featured list"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BA%D0%BE%D0%B2_%D0%BE%D1%81%D0%BE%D0%B1%D0%BE%D0%B3%D0%BE_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A3%D1%8D%D1%81%D1%82-%D0%99%D0%BE%D1%80%D0%BA%D1%88%D0%B8%D1%80%D0%B0" title="Список участков особого научного значения Уэст-Йоркшира – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q6597195#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 21 September 2019, at 12:39<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.280","walltime":"0.337","ppvisitednodes":{"value":1639,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":84795,"limit":2097152},"templateargumentsize":{"value":1362,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3105,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  216.655      1 -total"," 42.06%   91.117      1 Template:Reflist"," 36.58%   79.256      1 Template:Cite_web"," 32.45%   70.312     36 Template:Gbmappingsmall"," 28.95%   62.727     36 Template:OS_coord","  9.63%   20.873      1 Template:SSSI_AOS_lists","  7.69%   16.668      1 Template:Navbox","  3.96%    8.572      4 Template:Ref_label","  2.95%    6.399     34 Template:Y","  2.44%    5.286     32 Template:Nature_on_the_map"]},"scribunto":{"limitreport-timeusage":{"value":"0.097","limit":"10.000"},"limitreport-memusage":{"value":2097537,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20190925015012","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of Sites of Special Scientific Interest in West Yorkshire","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire","sameAs":"http:\/\/www.wikidata.org\/entity\/Q6597195","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q6597195","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-07-07T19:15:37Z","dateModified":"2019-09-21T12:39:24Z","headline":"Wikimedia list article"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":459,"wgHostname":"mw1269"});});</script>
+</body>
+</html>
+

@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Slack Roman Fort - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Slack_Roman_Fort","wgTitle":"Slack Roman Fort","wgCurRevisionId":895673630,"wgRevisionId":895673630,"wgArticleId":40497692,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: deprecated parameters","CS1: Julian–Gregorian uncertainty","Coordinates on Wikidata","Roman fortifications in England","History of Yorkshire","Scheduled Ancient Monuments in West Yorkshire","Roman legionary fortresses in England"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May",
+"Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Slack_Roman_Fort","wgRelevantArticleId":40497692,"wgRequestId":"XZHHVApAMEsAAIKXYB8AAAAL","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Slack_Roman_fort","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Slack_Roman_Fort","wgCoordinates":{"lat":53.654,"lon":-1.872},"wgWikibaseItemId":"Q15278153","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};
+RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin",
+"mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/1200px-West_Yorkshire_UK_location_map.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Slack_Roman_Fort"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Slack_Roman_Fort&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Slack_Roman_Fort&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Slack_Roman_Fort"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Slack_Roman_Fort rootpage-Slack_Roman_Fort skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Slack Roman Fort</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Slack_Roman_fort&amp;redirect=no" class="mw-redirect" title="Slack Roman fort">Slack Roman fort</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold">Slack Roman Fort</th></tr><tr><td colspan="2" style="text-align:center;text-align: center"><div class="center"><div style="width:240px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:240px;padding:0"><div style="position:relative;width:240px"><a href="/wiki/File:West_Yorkshire_UK_location_map.svg" class="image" title="Slack Roman Fort is located in West Yorkshire"><img alt="Slack Roman Fort is located in West Yorkshire" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/240px-West_Yorkshire_UK_location_map.svg.png" decoding="async" width="240" height="175" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/360px-West_Yorkshire_UK_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/480px-West_Yorkshire_UK_location_map.svg.png 2x" data-file-width="1425" data-file-height="1039" /></a><div style="position:absolute;top:67.917%;left:38.214%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Slack Roman Fort" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/7px-Red_pog.svg.png" decoding="async" title="Slack Roman Fort" width="7" height="7" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/11px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/14px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div></div></div><div>Location within West Yorkshire</div></div></div></div></td></tr><tr><th colspan="2" style="text-align:center;background-color:#ededed">General information</th></tr><tr><th scope="row">Architectural style</th><td class="category">Roman <a href="/wiki/Castra" title="Castra">fort</a></td></tr><tr><th scope="row">Town or city</th><td><a href="/wiki/Outlane" title="Outlane">Outlane</a><br /><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a><br /> <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></td></tr><tr><th scope="row">Country</th><td><a href="/wiki/England" title="England">England</a></td></tr><tr><th scope="row"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Slack_Roman_Fort&amp;params=53.654_N_1.872_W_type:landmark_region:GB-ENG"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°39′14″N</span> <span class="longitude">1°52′19″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.654°N 1.872°W</span><span style="display:none">&#xfeff; / <span class="geo">53.654; -1.872</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Slack_Roman_Fort&amp;params=53.654_N_1.872_W_type:landmark_region:GB-ENG"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°39′14″N</span> <span class="longitude">1°52′19″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.654°N 1.872°W</span><span style="display:none">&#xfeff; / <span class="geo">53.654; -1.872</span></span></span></a></span></span></span></td></tr><tr class="note"><th scope="row">Completed</th><td>AD 79</td></tr></tbody></table>
+<p><b>Slack Roman Fort</b> was a <a href="/wiki/Castra" title="Castra">castellum</a> near <a href="/wiki/Outlane" title="Outlane">Outlane</a>, to the west of <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a> in  <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, England. Its site is a <a href="/wiki/Scheduled_monument" title="Scheduled monument">scheduled monument</a>.<sup id="cite_ref-pastscape_1-0" class="reference"><a href="#cite_note-pastscape-1">&#91;1&#93;</a></sup> The ruins of the fort which lay alongside the <a href="/wiki/Pennines" title="Pennines">Pennine</a> section of the <a href="/wiki/Roman_road" class="mw-redirect" title="Roman road">Roman road</a> from <a href="/wiki/Deva_Victrix" title="Deva Victrix">Deva Victrix</a> (<a href="/wiki/Chester" title="Chester">Chester</a>) to <a href="/wiki/Eboracum" title="Eboracum">Eboracum</a> (<a href="/wiki/York" title="York">York</a>) are no longer visible. The fort may have been the <b>Cambodunum</b> mentioned as a station on this route in the <a href="/wiki/Antonine_Itinerary" title="Antonine Itinerary">Antonine Itinerary</a>.<sup id="cite_ref-NHLECambodunum_2-0" class="reference"><a href="#cite_note-NHLECambodunum-2">&#91;2&#93;</a></sup>
+</p><p><a href="/wiki/Archaeological_dig" class="mw-redirect" title="Archaeological dig">Archaeological digs</a> indicate the fort was constructed of turf and wood to defend the <a href="/wiki/Roman_Britain" title="Roman Britain">Roman</a> road in the time of <a href="/wiki/Gnaeus_Julius_Agricola" title="Gnaeus Julius Agricola">Agricola</a> in <span class="smallcaps"><span style="font-variant: small-caps; text-transform: lowercase;">AD</span></span>&#160;79.<sup id="cite_ref-pastscape_1-1" class="reference"><a href="#cite_note-pastscape-1">&#91;1&#93;</a></sup> Outside the fort walls was a stone bath-house which was extended around <span class="smallcaps"><span style="font-variant: small-caps; text-transform: lowercase;">AD</span></span>&#160;104 and <span class="smallcaps"><span style="font-variant: small-caps; text-transform: lowercase;">AD</span></span>&#160;120. A <a href="/wiki/Vicus" title="Vicus">vicus</a> or small settlement of wooden huts grew outside the fort.<sup id="cite_ref-vicus_3-0" class="reference"><a href="#cite_note-vicus-3">&#91;3&#93;</a></sup><sup id="cite_ref-Slack_4-0" class="reference"><a href="#cite_note-Slack-4">&#91;4&#93;</a></sup>
+</p><p>In December 2016, a retired professor from <a href="/wiki/Bangor_University" title="Bangor University">Bangor University</a>, Peter Field, hypothesised that the fort's site was a potential location for the mythical <a href="/wiki/Camelot" title="Camelot">Camelot</a>.<sup id="cite_ref-Field,_2016_5-0" class="reference"><a href="#cite_note-Field,_2016-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Location"><span class="tocnumber">1</span> <span class="toctext">Location</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Excavations"><span class="tocnumber">2</span> <span class="toctext">Excavations</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Location">Location</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slack_Roman_Fort&amp;action=edit&amp;section=1" title="Edit section: Location">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The site of the fort is on gently sloping ground sheltered by a hill rising to 1,200 feet (366&#160;m) above sea level about 4 miles (6&#160;km) from Huddersfield. Observation posts on the surrounding hills commanded views towards <a href="/wiki/Blackstone_Edge" title="Blackstone Edge">Blackstone Edge</a>, <a href="/wiki/Standedge" title="Standedge">Standedge</a>, Huddersfield and the <a href="/wiki/Stainland" title="Stainland">Stainland</a> Valley in the <a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a> direction.<sup id="cite_ref-GH_6-0" class="reference"><a href="#cite_note-GH-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Excavations">Excavations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slack_Roman_Fort&amp;action=edit&amp;section=2" title="Edit section: Excavations">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Huddersfield Archaeological and Topographical Society, whose secretary was <a href="/wiki/George_Lloyd_(archaeologist)" title="George Lloyd (archaeologist)">George Lloyd</a>, excavated the site in 1865. It excavated the remains of a residence measuring 60 feet (18&#160;m) by 68 feet (21&#160;m) with a courtyard. Nearby was a cremation site and on the slope 80 yards (73&#160;m) below the house are the remains of a <a href="/wiki/Hypocaust" title="Hypocaust">hypocaust</a> for the hot air <a href="/wiki/Thermae" title="Thermae">bath</a>. Also found nearby were a British stone axe, pottery, part of a brooch and a quantity of <a href="/wiki/Galena" title="Galena">galena</a>, (lead ore).<sup id="cite_ref-GH_6-1" class="reference"><a href="#cite_note-GH-6">&#91;6&#93;</a></sup> On another part of the site are the remains of a cold bath comprised a slab of concrete 13&#160;feet 6&#160;inches (4.1&#160;m) long by 6&#160;feet 3&#160;inches (1.9&#160;m) wide. The room it was in had a red tiled floor. Copper or bronze coins from the reigns of <a href="/wiki/Vespasian" title="Vespasian">Vespasian</a> and <a href="/wiki/Nerva" title="Nerva">Nerva</a>, an earthenware jar and a tile stamped "COH IIII BRE" were also uncovered.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>Excavations between 1913 and 1915 and 1958 to 1963 uncovered the fort's <a href="/wiki/Rampart_(fortification)" title="Rampart (fortification)">ramparts</a> and the foundations of its gateways and corner towers. The ramparts, constructed of turves on a stone footing, surrounded an area 356 feet (111 metres) square. They were surrounded by a ditch, in some parts a double ditch when the fort was built in about <span class="smallcaps"><span style="font-variant: small-caps; text-transform: lowercase;">AD</span></span>&#160;79. Inside are the outlines of several wooden buildings including the military headquarters and barrack blocks. Another phase of development about 20 years later added two granaries roofed with tiles stamped COHIIIIBRE, the mark of the 4th cohort of <a href="/wiki/List_of_ancient_tribes_in_Illyria#Breuci" title="List of ancient tribes in Illyria">Breuci</a> who operated a tilery in the nearby Grimescar Valley. A phase of building in stone began in the early <span class="smallcaps"><span style="font-variant: small-caps; text-transform: lowercase;">AD</span></span>&#160;120s. but by then the garrison had been reduced. The fort was occupied until about <span class="smallcaps"><span style="font-variant: small-caps; text-transform: lowercase;">AD</span></span>&#160;140.<sup id="cite_ref-Slack_4-1" class="reference"><a href="#cite_note-Slack-4">&#91;4&#93;</a></sup>
+</p><p>Outside the fort to the east was the bath-house and to the north was a small civilian settlement which may have continued until <span class="smallcaps"><span style="font-variant: small-caps; text-transform: lowercase;">AD</span></span>&#160;200.<sup id="cite_ref-Slack_4-2" class="reference"><a href="#cite_note-Slack-4">&#91;4&#93;</a></sup>
+</p><p>The <a href="/wiki/Tolson_Museum" title="Tolson Museum">Tolson Museum</a> in Huddersfield has a collection of artefacts including the reconstructed Grade II <a href="/wiki/Listed_building" title="Listed building">listed</a> remains of the <a href="/wiki/Hypocaust" title="Hypocaust">hypocaust</a>, comprising the rubble columns and tiled floor, that were moved to Ravensknowle Park from the fort.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slack_Roman_Fort&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-pastscape-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-pastscape_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-pastscape_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFHistoric_England47459" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="http://www.pastscape.org.uk/hob.aspx?hob_id=47459">"Camulodunum  (47459)"</a>. <i>PastScape</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PastScape&amp;rft.atitle=Camulodunum++%2847459%29&amp;rft.au=Historic+England&amp;rft_id=http%3A%2F%2Fwww.pastscape.org.uk%2Fhob.aspx%3Fhob_id%3D47459&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlack+Roman+Fort" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-NHLECambodunum-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-NHLECambodunum_2-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1005804" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>, <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1005804">"Cambodunum Roman fort and vicus, Slack (1005804)"</a>, <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">, retrieved <span class="nowrap">22 December</span> 2016</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Cambodunum+Roman+fort+and+vicus%2C+Slack+%281005804%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1005804&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlack+Roman+Fort" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-vicus-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-vicus_3-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England47487" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="http://www.pastscape.org.uk/hob.aspx?hob_id=47487">"Monument No.&#160;47487"</a>. <i>PastScape</i><span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PastScape&amp;rft.atitle=Monument+No.+47487&amp;rft.au=Historic+England&amp;rft_id=http%3A%2F%2Fwww.pastscape.org.uk%2Fhob.aspx%3Fhob_id%3D47487&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlack+Roman+Fort" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Slack-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Slack_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Slack_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Slack_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140614042745/http://www.archaeology.wyjs.org.uk/romanweb/Slack.htm"><i>The Romans in West Yorkshire Slack</i></a>, West Yorkshire Joint Services, archived from <a rel="nofollow" class="external text" href="http://www.archaeology.wyjs.org.uk/romanweb/Slack.htm">the original</a> on 14 June 2014<span class="reference-accessdate">, retrieved <span class="nowrap">12 September</span> 2013</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Romans+in+West+Yorkshire+Slack&amp;rft.pub=West+Yorkshire+Joint+Services&amp;rft_id=http%3A%2F%2Fwww.archaeology.wyjs.org.uk%2Fromanweb%2FSlack.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlack+Roman+Fort" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite uses deprecated parameter <code class="cs1-code">&#124;deadurl=</code> (<a href="/wiki/Help:CS1_errors#deprecated_params" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Field,_2016-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Field,_2016_5-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.bbc.co.uk/news/uk-wales-north-west-wales-38330272">"Ex-Bangor University professor reveals 'true Camelot"</a>. <i><a href="/wiki/BBC_News_Online" title="BBC News Online">BBC News Online</a></i>. 18 December 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">21 December</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News+Online&amp;rft.atitle=Ex-Bangor+University+professor+reveals+%27true+Camelot&amp;rft.date=2016-12-18&amp;rft_id=https%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fuk-wales-north-west-wales-38330272&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlack+Roman+Fort" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-GH-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-GH_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GH_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><span class="cs1-lock-subscription" title="Paid subscription required"><a rel="nofollow" class="external text" href="http://www.britishnewspaperarchive.co.uk/viewer/bl/0000060/18651121/033/0007">"The Antiquarian Discoveries near Huddersfield (from the Leeds Mercury)"</a></span>. <i>Glasgow Herald</i>. <a href="/wiki/British_Newspaper_Archive" title="British Newspaper Archive">British Newspaper Archive</a>. 21 November 1865<span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Glasgow+Herald&amp;rft.atitle=The+Antiquarian+Discoveries+near+Huddersfield+%28from+the+Leeds+Mercury%29&amp;rft.date=1865-11-21&amp;rft_id=http%3A%2F%2Fwww.britishnewspaperarchive.co.uk%2Fviewer%2Fbl%2F0000060%2F18651121%2F033%2F0007&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlack+Roman+Fort" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation news"><span class="cs1-lock-subscription" title="Paid subscription required"><a rel="nofollow" class="external text" href="http://www.britishnewspaperarchive.co.uk/viewer/BL/0000076/18651125/007/0005">"The Antiquarian Discoveries near Huddersfield"</a></span>. <i>Leeds Mercury</i>. <a href="/wiki/British_Newspaper_Archive" title="British Newspaper Archive">British Newspaper Archive</a>. 25 November 1865<span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Leeds+Mercury&amp;rft.atitle=The+Antiquarian+Discoveries+near+Huddersfield&amp;rft.date=1865-11-25&amp;rft_id=http%3A%2F%2Fwww.britishnewspaperarchive.co.uk%2Fviewer%2FBL%2F0000076%2F18651125%2F007%2F0005&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlack+Roman+Fort" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1266976" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>, <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1266976">"The remains of Hypocaust from Slack Roman Camp re erected in Ravensknowle Park, Wakefield Road (1266976)"</a>, <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">, retrieved <span class="nowrap">22 August</span> 2015</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=The+remains+of+Hypocaust+from+Slack+Roman+Camp+re+erected+in+Ravensknowle+Park%2C+Wakefield+Road+%281266976%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1266976&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASlack+Roman+Fort" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Slack_Roman_Fort&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/lifestyle/nostalgia/amazing-image-shows-just-roman-7074371">Reconstructed images of the fort</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1245
+Cached time: 20190907151302
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.564 seconds
+Real time usage: 0.673 seconds
+Preprocessor visited node count: 2088/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 36569/2097152 bytes
+Template argument size: 6754/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 24659/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.336/10.000 seconds
+Lua memory usage: 6.09 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  611.779      1 -total
+ 46.28%  283.141      1 Template:Infobox_Historic_building
+ 39.84%  243.763      1 Template:Reflist
+ 38.87%  237.823      1 Template:Infobox
+ 22.78%  139.340      2 Template:PastScape
+ 21.81%  133.419      2 Template:Cite_web
+ 15.19%   92.923      1 Template:Country_abbreviation
+ 10.15%   62.126      7 Template:Convert
+  8.96%   54.822      1 Template:Location_map
+  5.75%   35.160      2 Template:NHLE
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:40497692-0!canonical and timestamp 20190907151302 and revision id 895673630
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Slack_Roman_Fort&amp;oldid=895673630">https://en.wikipedia.org/w/index.php?title=Slack_Roman_Fort&amp;oldid=895673630</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Roman_fortifications_in_England" title="Category:Roman fortifications in England">Roman fortifications in England</a></li><li><a href="/wiki/Category:History_of_Yorkshire" title="Category:History of Yorkshire">History of Yorkshire</a></li><li><a href="/wiki/Category:Scheduled_Ancient_Monuments_in_West_Yorkshire" title="Category:Scheduled Ancient Monuments in West Yorkshire">Scheduled Ancient Monuments in West Yorkshire</a></li><li><a href="/wiki/Category:Roman_legionary_fortresses_in_England" title="Category:Roman legionary fortresses in England">Roman legionary fortresses in England</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_deprecated_parameters" title="Category:CS1 errors: deprecated parameters">CS1 errors: deprecated parameters</a></li><li><a href="/wiki/Category:CS1:_Julian%E2%80%93Gregorian_uncertainty" title="Category:CS1: Julian–Gregorian uncertainty">CS1: Julian–Gregorian uncertainty</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Slack+Roman+Fort" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Slack+Roman+Fort" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Slack_Roman_Fort" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Slack_Roman_Fort" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Slack_Roman_Fort">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Slack_Roman_Fort&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Slack_Roman_Fort&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Slack_Roman_Fort" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Slack_Roman_Fort" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Slack_Roman_Fort&amp;oldid=895673630" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Slack_Roman_Fort&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15278153" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Slack_Roman_Fort&amp;id=895673630" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Slack+Roman+Fort">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Slack+Roman+Fort&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Slack_Roman_Fort&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Kre%C3%B1vlec%27h_roman_Slack" title="Kreñvlec&#039;h roman Slack – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15278153#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 5 May 2019, at 20:54<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Slack_Roman_Fort&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.564","walltime":"0.673","ppvisitednodes":{"value":2088,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":36569,"limit":2097152},"templateargumentsize":{"value":6754,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":24659,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  611.779      1 -total"," 46.28%  283.141      1 Template:Infobox_Historic_building"," 39.84%  243.763      1 Template:Reflist"," 38.87%  237.823      1 Template:Infobox"," 22.78%  139.340      2 Template:PastScape"," 21.81%  133.419      2 Template:Cite_web"," 15.19%   92.923      1 Template:Country_abbreviation"," 10.15%   62.126      7 Template:Convert","  8.96%   54.822      1 Template:Location_map","  5.75%   35.160      2 Template:NHLE"]},"scribunto":{"limitreport-timeusage":{"value":"0.336","limit":"10.000"},"limitreport-memusage":{"value":6387687,"limit":52428800}},"cachereport":{"origin":"mw1245","timestamp":"20190907151302","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Slack Roman Fort","url":"https:\/\/en.wikipedia.org\/wiki\/Slack_Roman_Fort","sameAs":"http:\/\/www.wikidata.org\/entity\/Q15278153","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q15278153","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-09-10T21:15:16Z","dateModified":"2019-05-05T20:54:36Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5b\/West_Yorkshire_UK_location_map.svg","headline":"human settlement in United Kingdom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":169,"wgHostname":"mw1240"});});</script>
+</body>
+</html>
+

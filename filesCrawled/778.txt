@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Roy Castle - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Roy_Castle","wgTitle":"Roy Castle","wgCurRevisionId":917660561,"wgRevisionId":917660561,"wgArticleId":558051,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with script errors","EngvarB from August 2014","Use dmy dates from August 2014","Articles with hCards","All articles with unsourced statements","Articles with unsourced statements from March 2016","Wikipedia articles with BNE identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with MusicBrainz identifiers","Wikipedia articles with NLA-person identifiers","Wikipedia articles with NTA identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1932 births","1994 deaths","Comedians from Yorkshire",
+"Deaths from cancer in England","Deaths from lung cancer","English male stage actors","English Christians","English male comedians","English male dancers","English male film actors","English male singers","English male television actors","English television presenters","English trumpeters","Male trumpeters","Officers of the Order of the British Empire","People from Holmfirth","People from Thornton-Cleveleys","People from Liverpool","20th-century English male actors","20th-century English singers","Tap dancers","20th-century trumpeters","20th-century English comedians","British male comedy actors","20th-century male singers"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May",
+"Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Roy_Castle","wgRelevantArticleId":558051,"wgRequestId":"XZEQrwpAAD4AABIz5hsAAADP","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","ScribuntoErrors":[
+"\u003Cp\u003ELua error in Module:I18n at line 6: bad argument #1 to 'pairs' (table expected, got nil).\u003C/p\u003E\u003Cp\u003EBacktrace:\u003C/p\u003E\u003Col class=\"scribunto-trace\"\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: in function \"pairs\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:I18n\u0026amp;action=edit#mw-ce-l6\"\u003EModule:I18n:6\u003C/a\u003E\u003C/strong\u003E: in function \"tableMerge\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:I18n\u0026amp;action=edit#mw-ce-l21\"\u003EModule:I18n:21\u003C/a\u003E\u003C/strong\u003E: in function \"loadI18n\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:Wikidata\u0026amp;action=edit#mw-ce-l89\"\u003EModule:Wikidata:89\u003C/a\u003E\u003C/strong\u003E: in function \"chunk\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:486\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: in function \"getExpandedArgument\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:169\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:String\u0026amp;action=edit#mw-ce-l496\"\u003EModule:String:496\u003C/a\u003E\u003C/strong\u003E: in function \"_getParameters\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:String\u0026amp;action=edit#mw-ce-l213\"\u003EModule:String:213\u003C/a\u003E\u003C/strong\u003E: in function \"chunk\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:511\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: in function \"getAllExpandedArguments\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:188\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: in function \"pairs\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:Arguments\u0026amp;action=edit#mw-ce-l207\"\u003EModule:Arguments:207\u003C/a\u003E\u003C/strong\u003E: in function \"mergeArgs\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:Arguments\u0026amp;action=edit#mw-ce-l320\"\u003EModule:Arguments:320\u003C/a\u003E\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: in function \"pairs\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:TableTools\u0026amp;action=edit#mw-ce-l113\"\u003EModule:TableTools:113\u003C/a\u003E\u003C/strong\u003E: in function \"numKeys\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:TableTools\u0026amp;action=edit#mw-ce-l215\"\u003EModule:TableTools:215\u003C/a\u003E\u003C/strong\u003E: in function \"compressSparseArray\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:Separated_entries\u0026amp;action=edit#mw-ce-l20\"\u003EModule:Separated_entries:20\u003C/a\u003E\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E(tail call)\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:511\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E: in function \"getExpandedArgument\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:169\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:Infobox\u0026amp;action=edit#mw-ce-l376\"\u003EModule:Infobox:376\u003C/a\u003E\u003C/strong\u003E: in function \"preprocessArgs\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E\u003Ca href=\"//en.wikipedia.org/w/index.php?title=Module:Infobox\u0026amp;action=edit#mw-ce-l429\"\u003EModule:Infobox:429\u003C/a\u003E\u003C/strong\u003E: in function \"chunk\"\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003Emw.lua:511\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003Cli\u003E\u003Cstrong\u003E[C]\u003C/strong\u003E:\u0026#160;?\u003C/li\u003E\u003C/ol\u003E"
+],"wgWikibaseItemId":"Q5684618","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.scribunto.errors","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar",
+"ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Roy_Castle"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Roy_Castle&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Roy_Castle&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Roy_Castle"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Roy_Castle rootpage-Roy_Castle skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Roy Castle</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">Roy Castle</div><br /><div class="honorific-suffix" style="font-size: 77%; font-weight: normal; display:inline;"><a href="/wiki/Order_of_the_British_Empire" title="Order of the British Empire">OBE</a></div></th></tr><tr><th scope="row">Born</th><td><span style="display:none">(<span class="bday">1932-08-31</span>)</span>31 August 1932<br /><div style="display:inline" class="birthplace"><a href="/wiki/Scholes,_Holme_Valley" title="Scholes, Holme Valley">Scholes</a>, <a href="/wiki/West_Riding_of_Yorkshire" title="West Riding of Yorkshire">West Riding of Yorkshire</a>, England</div></td></tr><tr><th scope="row">Died</th><td>2 September 1994<span style="display:none">(1994-09-02)</span> (aged&#160;62)<br /><div style="display:inline" class="deathplace"><a href="/wiki/Buckinghamshire" title="Buckinghamshire">Buckinghamshire</a>, England</div></td></tr><tr><th scope="row">Occupation</th><td class="role"><div class="hlist hlist-separated"><ul><li>Dancer</li><li>singer</li><li>comedian</li><li>actor</li><li>television presenter</li><li>musician</li></ul></div></td></tr><tr><th scope="row">Years&#160;active</th><td>1953–1994</td></tr><tr><th scope="row">Known&#160;for</th><td><i><a href="/wiki/Record_Breakers" title="Record Breakers">Record Breakers</a></i></td></tr><tr><th scope="row"><span class="nowrap">Spouse(s)</span></th><td><div style="display:inline-block;line-height:normal;margin:2px 0px;"><a href="/wiki/Fiona_Dickson" class="mw-redirect" title="Fiona Dickson">Fiona Dickson</a>&#32;&#40;<abbr title="married">m.</abbr>&#160;1963&#8211;1994&#41;</div></td></tr><tr><th scope="row">Children</th><td>4, including <a href="/wiki/Ben_Castle" title="Ben Castle">Ben Castle</a></td></tr></tbody></table>
+<p><b>Roy Castle</b> <span class="noexcerpt" style="font-size:100%;"><a href="/wiki/Officer_of_the_Order_of_the_British_Empire" class="mw-redirect" title="Officer of the Order of the British Empire">OBE</a></span> (31 August 1932<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> – 2 September 1994<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>) was an English dancer, singer, comedian, actor, television presenter and musician. In addition to being an accomplished <a href="/wiki/Jazz" title="Jazz">jazz</a> trumpet player, he could play many other instruments. Following a versatile career as a performer on stage, television and film, he became best known to British television viewers as the long-running presenter of the children's series <i><a href="/wiki/Record_Breakers" title="Record Breakers">Record Breakers</a></i>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Early_career"><span class="tocnumber">1</span> <span class="toctext">Early career</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Television_and_film_career"><span class="tocnumber">2</span> <span class="toctext">Television and film career</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Record_Breakers"><span class="tocnumber">2.1</span> <span class="toctext"><i>Record Breakers</i></span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Singing_career"><span class="tocnumber">3</span> <span class="toctext">Singing career</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Personal_life"><span class="tocnumber">4</span> <span class="toctext">Personal life</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Illness_and_death"><span class="tocnumber">5</span> <span class="toctext">Illness and death</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Filmography"><span class="tocnumber">6</span> <span class="toctext">Filmography</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Early_career">Early career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roy_Castle&amp;action=edit&amp;section=1" title="Edit section: Early career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Castle was born in <a href="/wiki/Scholes,_Holme_Valley" title="Scholes, Holme Valley">Scholes</a>, near <a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a>, <a href="/wiki/West_Riding_of_Yorkshire" title="West Riding of Yorkshire">West Riding of Yorkshire</a>. The son of a railwayman, he was a <a href="/wiki/Tap_dancer" class="mw-redirect" title="Tap dancer">tap dancer</a> from an early age and trained at Nora Bray's school of dance with Audrey Spencer who later ran a big dance school,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> and after leaving Holme Valley Grammar School (now <a href="/wiki/Honley_High_School" title="Honley High School">Honley High School</a>) he started his career as an entertainer in an amateur concert party. As a young performer in the 1950s, he lived in <a href="/wiki/Cleveleys" title="Cleveleys">Cleveleys</a> near <a href="/wiki/Blackpool" title="Blackpool">Blackpool</a> and appeared there at the local Queen's Theatre, turning professional in 1953 as a stooge for <a href="/wiki/Jimmy_Clitheroe" title="Jimmy Clitheroe">Jimmy Clitheroe</a> and <a href="/wiki/Jimmy_James_(comedian)" title="Jimmy James (comedian)">Jimmy James</a>. By 1958 he was appearing at the <a href="/wiki/Royal_Variety_Show" class="mw-redirect" title="Royal Variety Show">Royal Variety Show</a>. As a singer, he released one charting single in 1960, the Christmas song "Little White Berry".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Television_and_film_career">Television and film career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roy_Castle&amp;action=edit&amp;section=2" title="Edit section: Television and film career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1965, Castle starred with <a href="/wiki/Peter_Cushing" title="Peter Cushing">Peter Cushing</a> in the film <i><a href="/wiki/Dr._Who_and_the_Daleks" title="Dr. Who and the Daleks">Dr. Who and the Daleks</a></i>, the first of two cinematic spin-offs from the popular <a href="/wiki/BBC" title="BBC">BBC</a> television series. He played the role of <a href="/wiki/Dr._Who_(Dalek_films)" title="Dr. Who (Dalek films)">Dr. Who</a>'s first male assistant, <a href="/wiki/List_of_companions_in_Doctor_Who_spin-offs#Ian_Chesterton" title="List of companions in Doctor Who spin-offs">Ian Chesterton</a>, and was cast to perform the role more comedically than it had been played by <a href="/wiki/William_Russell_(English_actor)" title="William Russell (English actor)">William Russell</a> in the original series. He also appeared in <i><a href="/wiki/Dr._Terror%27s_House_of_Horrors" title="Dr. Terror&#39;s House of Horrors">Dr. Terror's House of Horrors</a></i> as a jazz musician suffering a curse after copying <a href="/wiki/Haitian_Vodou" title="Haitian Vodou">voodoo</a> tunes. He also appeared in <i><a href="/wiki/Carry_On_Up_the_Khyber" title="Carry On Up the Khyber">Carry On Up the Khyber</a></i> in 1968 and in the <a href="/wiki/Musical_film" title="Musical film">TV musical</a> <i><a href="/wiki/Pickwick_(1969_film)" title="Pickwick (1969 film)">Pickwick</a></i> for the BBC in 1969. In the 90s he appeared again in Pickwick, touring the country, starring alongside Sir Harry Secombe and the show was recorded again. Sir Harry had originally starred in the West End  version of the show in 1963.  In 1973, Castle teamed up with the actor and comedian <a href="/wiki/Ronnie_Barker" title="Ronnie Barker">Ronnie Barker</a> in an original one-off called "Another Fine Mess" (an episode from a series called <i><a href="/wiki/Seven_of_One" title="Seven of One">Seven of One</a></i>). Barker was one of Castle's best friends, and paid tribute to their work together shortly after Castle's death.
+</p><p>Between 1967 and 1968 Castle co-starred with <a href="/wiki/Jimmy_Edwards" title="Jimmy Edwards">Jimmy Edwards</a> in the London West End run of the comedy farce show <i><a href="/wiki/Big_Bad_Mouse" title="Big Bad Mouse">Big Bad Mouse</a></i> when <a href="/wiki/Eric_Sykes" title="Eric Sykes">Eric Sykes</a> had to withdraw because of illness. The show was resident at the <a href="/wiki/Shaftesbury_Theatre" title="Shaftesbury Theatre">Shaftesbury Theatre</a> and, being loosely scripted, it offered both Edwards and Castle the chance to freely <a href="/wiki/Ad_lib" class="mw-redirect" title="Ad lib">ad-lib</a> and generally break the <a href="/wiki/Fourth_wall" title="Fourth wall">fourth wall</a> with the audience, Castle breaking into trumpet performances while Edwards walked into a front stall seat to read a newspaper, tap dancing and firing <a href="/wiki/Table_tennis" title="Table tennis">ping-pong</a> balls into the stalls.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> He also once stood in for <a href="/wiki/Bruce_Forsyth" title="Bruce Forsyth">Bruce Forsyth</a> hosting <i><a href="/wiki/The_Generation_Game" title="The Generation Game">The Generation Game</a></i> in 1975 while Forsyth was ill. He made many appearances on BBC TV's long running variety show <i>The Good Old Days</i>, making huge use of his multi instrumental and performing skills.
+</p>
+<h3><span class="mw-headline" id="Record_Breakers"><i>Record Breakers</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roy_Castle&amp;action=edit&amp;section=3" title="Edit section: Record Breakers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 1972, he first presented <i><a href="/wiki/Record_Breakers" title="Record Breakers">Record Breakers</a></i>, a children's show, and he remained host for over 20 years. He recorded the <a href="/wiki/Theme_music" title="Theme music">theme song</a> for the show himself. While presenting the show he broke nine <a href="/wiki/World_record" title="World record">world records</a> himself, including
+</p>
+<ul><li>Fastest <a href="/wiki/Tap-dance" class="mw-redirect" title="Tap-dance">tap-dance</a> 1,440 taps per minute – 24 taps per second, set on 14 January 1973, a record that has never been bettered.<sup id="cite_ref-autogenerated1_6-0" class="reference"><a href="#cite_note-autogenerated1-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li>
+<li>Longest <a href="/wiki/Wing_walking" title="Wing walking">wing walk</a> – 3 hours, 23 minutes.<sup id="cite_ref-autogenerated1_6-1" class="reference"><a href="#cite_note-autogenerated1-6">&#91;6&#93;</a></sup></li>
+<li>Playing the same tune on 43 different instruments in four minutes.</li>
+<li>On the 2nd November 1985 the <a href="/wiki/Daily_Mirror" title="Daily Mirror">Daily Mirror</a> reported that "Twinkle-toed Roy Castle has the world at his feet...the millionth time in 24 hours. This was the moment when he tap-danced his way to a new record and raised £1 million for charity. The comedian, host of TV's <a href="/wiki/Record_Breakers" title="Record Breakers">Record Breakers</a>, averaged nearly twelve steps a second during the sponsored feat in London. Roy, 53, had already qualified as the world's fastest tap-dancer.  Last night, a million taps on, he was the tiredest, too."<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li></ul>
+<p>He was a host of the show up until a few months before his death in 1994, alongside <a href="/wiki/Norris_McWhirter" title="Norris McWhirter">Norris</a> and <a href="/wiki/Ross_McWhirter" title="Ross McWhirter">Ross McWhirter</a>, <a href="/wiki/Fiona_Kennedy" title="Fiona Kennedy">Fiona Kennedy</a> and <a href="/wiki/Cheryl_Baker" title="Cheryl Baker">Cheryl Baker</a>. From then on, hosting was taken over by Baker and former athlete <a href="/wiki/Kriss_Akabusi" title="Kriss Akabusi">Kriss Akabusi</a>. It continued for 29 years until 2001, one of Britain's longest-running shows.
+</p>
+<h2><span class="mw-headline" id="Singing_career">Singing career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roy_Castle&amp;action=edit&amp;section=4" title="Edit section: Singing career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Between 1958 and 1969, Castle recorded three <a href="/wiki/LP_album" class="mw-redirect" title="LP album">LPs</a>. One of these, <i>Songs For A Rainy Day</i> was recorded in 1966 for <a href="/wiki/Columbia_Records" title="Columbia Records">Columbia</a> and was reissued in the UK on CD by <a href="/wiki/EMI" title="EMI">EMI</a> Gold, re-titled <i>Isn't This A Lovely Day</i> in 2005. The record features twelve songs with rain as the theme. British <a href="/wiki/Jazz" title="Jazz">jazz</a> players of the day <a href="/wiki/Gordon_Beck" title="Gordon Beck">Gordon Beck</a> (piano), <a href="/wiki/Jeff_Clyne" title="Jeff Clyne">Jeff Clyne</a> (bass), Leon Calvert (flugelhorn), Ike Isaacs (guitar), Ray Swinfield (flute) and <a href="/wiki/Al_Newman" title="Al Newman">Al Newman</a> (saxophone) played on the record and it features jazz arrangements by Victor Graham covering a variety of styles such as <a href="/wiki/Big_band" title="Big band">big band</a>, ("<a href="/wiki/Pennies_from_Heaven_(song)" title="Pennies from Heaven (song)">Pennies From Heaven</a>", "<a href="/wiki/Stormy_Weather_(song)" title="Stormy Weather (song)">Stormy Weather</a>"), ballads ("February Brings The Rain", "<a href="/wiki/Here%27s_That_Rainy_Day" title="Here&#39;s That Rainy Day">Here's That Rainy Day</a>", "Soon It's Gonna Rain") and <a href="/wiki/Bossa_nova" title="Bossa nova">bossa novas</a> ("<a href="/wiki/Everytime_It_Rains" title="Everytime It Rains">Everytime It Rains</a>", "The Gentle Rain").<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2016)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roy_Castle&amp;action=edit&amp;section=5" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Castle married dancer <a href="/wiki/Fiona_Dickson" class="mw-redirect" title="Fiona Dickson">Fiona Dickson</a> in 1963.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> They had been introduced to each other by <a href="/wiki/Eric_Morecambe" title="Eric Morecambe">Eric Morecambe</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> Both Castle and his wife were committed <a href="/wiki/Christians" title="Christians">Christians</a> and they regularly attended the <a href="/wiki/Baptist" class="mw-redirect" title="Baptist">Baptist</a> church near their home. They had four children. Their youngest son, <a href="/wiki/Ben_Castle" title="Ben Castle">Ben Castle</a> (born 1973), is a jazz saxophonist who has played with a wide range of artists, including <a href="/wiki/Jamie_Cullum" title="Jamie Cullum">Jamie Cullum</a>, <a href="/wiki/Carleen_Anderson" title="Carleen Anderson">Carleen Anderson</a>, <a href="/wiki/Beth_Rowley" title="Beth Rowley">Beth Rowley</a>, <a href="/wiki/Marillion" title="Marillion">Marillion</a> and <a href="/wiki/Radiohead" title="Radiohead">Radiohead</a>, and performed on film soundtracks.
+</p><p>Castle was a <a href="/wiki/Association_football" title="Association football">football</a> fan and supported <a href="/wiki/Liverpool_F.C." title="Liverpool F.C.">Liverpool</a>. Less than six months before his death, he attended the <a href="/wiki/Everton_F.C." title="Everton F.C.">Liverpool-Everton</a> <a href="/wiki/Local_derby" class="mw-redirect" title="Local derby">derby match</a> at <a href="/wiki/Anfield" title="Anfield">Anfield</a> on 14 March 1994 and stood on the Spion Kop terrace. He had also been in the crowd at Liverpool's <a href="/wiki/FA_Cup" title="FA Cup">FA Cup</a> final victory over <a href="/wiki/Sunderland_A.F.C." title="Sunderland A.F.C.">Sunderland</a> in May 1992, shortly after he was first found to have cancer. At that time <a href="/wiki/Ronnie_Barker" title="Ronnie Barker">Ronnie Barker</a> paid tribute to him, referring to their portrayal of characters that bore a strong resemblance to <a href="/wiki/Laurel_and_Hardy" title="Laurel and Hardy">Laurel and Hardy</a> in <i><a href="/wiki/Another_Fine_Mess" title="Another Fine Mess">Another Fine Mess</a></i>.
+</p><p>On 31 December 1992, Castle was awarded the <a href="/wiki/OBE" class="mw-redirect" title="OBE">OBE</a>. He was also a recipient of the <a href="/wiki/Carl_Alan_Award" class="mw-redirect" title="Carl Alan Award">Carl Alan Award</a>, an honour voted for by members of the professional dance industry.
+</p>
+<h2><span class="mw-headline" id="Illness_and_death">Illness and death</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roy_Castle&amp;action=edit&amp;section=6" title="Edit section: Illness and death">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Castle was diagnosed with lung cancer in March 1992, and was told that his chances of recovery were slim and that it was unlikely that he would live for more than six months. He underwent <a href="/wiki/Chemotherapy" title="Chemotherapy">chemotherapy</a> and <a href="/wiki/Radiotherapy" class="mw-redirect" title="Radiotherapy">radiotherapy</a> and went into <a href="/wiki/Remission_(medicine)" title="Remission (medicine)">remission</a> later that year. A non-smoker, he blamed his illness on <a href="/wiki/Passive_smoking" title="Passive smoking">passive smoking</a> during his years of playing the trumpet in smoky jazz clubs.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> On 26 November 1993, Castle announced that his illness had returned, and once again underwent treatment in the hope of overcoming it. Several months later, he carried out the high-profile <i>Tour of Hope</i> to raise funds for the erection of the building that would become the <a href="/wiki/Roy_Castle_Lung_Cancer_Foundation" title="Roy Castle Lung Cancer Foundation">Roy Castle Lung Cancer Foundation</a>, which is the only British charity dedicated solely to defeating lung cancer. By this stage, however, his condition was deteriorating and recovery was looking highly unlikely.
+</p><p>During and shortly after Castle's illness, many smoke-free restaurants and cafes were awarded the <i>Roy Castle Clean Air Award</i> to denote their adherence to a (then voluntary) smoke-free regime.
+</p><p>His final contribution to <i>Record Breakers</i> was aired at the end of the series ending in December 1993, although the programme continued until 2001.
+</p><p>He died in <a href="/wiki/Buckinghamshire" title="Buckinghamshire">Buckinghamshire</a> on 2 September 1994, two days after his 62nd birthday.
+</p><p>His widow Fiona worked with the charity after her husband's death, and campaigned for the British <a href="/wiki/Smoking_ban" title="Smoking ban">smoking ban</a> which came into effect in <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a> in 2004, <a href="/wiki/Scotland" title="Scotland">Scotland</a> in 2006 and <a href="/wiki/England" title="England">England</a> and <a href="/wiki/Wales" title="Wales">Wales</a> in 2007, banning smoking in virtually all enclosed <a href="/wiki/Public_space" title="Public space">public places</a>.
+</p>
+<h2><span class="mw-headline" id="Filmography">Filmography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roy_Castle&amp;action=edit&amp;section=7" title="Edit section: Filmography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year
+</th>
+<th>Title
+</th>
+<th>Role
+</th>
+<th>Notes
+</th></tr>
+<tr>
+<td>1960</td>
+<td><i><a href="/wiki/Sink_the_Bismarck!" title="Sink the Bismarck!">Sink the Bismarck!</a></i></td>
+<td>Seaman on 'Prince of Wales'</td>
+<td>Uncredited
+</td></tr>
+<tr>
+<td>1965</td>
+<td><i><a href="/wiki/Dr._Terror%27s_House_of_Horrors" title="Dr. Terror&#39;s House of Horrors">Dr. Terror's House of Horrors</a></i></td>
+<td>Biff Bailey</td>
+<td>(segment "Voodoo")
+</td></tr>
+<tr>
+<td>1965</td>
+<td><i><a href="/wiki/Dr._Who_and_the_Daleks" title="Dr. Who and the Daleks">Dr. Who and the Daleks</a></i></td>
+<td>Ian Chesterton</td>
+<td>
+</td></tr>
+<tr>
+<td>1967</td>
+<td><i><a href="/wiki/The_Plank_(1967_film)" title="The Plank (1967 film)">The Plank</a></i></td>
+<td>Delivery Man with boxes (Wilfred Bavistock)</td>
+<td>
+</td></tr>
+<tr>
+<td>1968</td>
+<td><i><a href="/wiki/Carry_On_Up_the_Khyber" title="Carry On Up the Khyber">Carry On Up the Khyber</a></i></td>
+<td>Capt. Keene</td>
+<td>
+</td></tr>
+<tr>
+<td>1969</td>
+<td><i><a href="/wiki/Pickwick_(1969_film)" title="Pickwick (1969 film)">Pickwick</a></i></td>
+<td>Sam Weller</td>
+<td>
+</td></tr>
+<tr>
+<td>1975</td>
+<td><i><a href="/wiki/Legend_of_the_Werewolf" title="Legend of the Werewolf">Legend of the Werewolf</a></i></td>
+<td>Photographer</td>
+<td>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roy_Castle&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">GRO Register of Births: DEC 1932 9a 303 HUDDERSFIELD – Roy Castle, mmn = Swallow</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">GRO Register of Deaths: "SEP 1994 B13A 237 CHILTERN &amp; SOUTH BUCKS – Roy Castle, DoB = 31 Aug 1932" aged 62</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/news/local-west-yorkshire-news/2011/08/06/appeal-launched-for-memories-of-nora-bray-s-dance-school-86081-29187030/"><i>Appeal launched for memories of Nora Bray's dance school</i></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Appeal+launched+for+memories+of+Nora+Bray%27s+dance+school&amp;rft_id=http%3A%2F%2Fwww.examiner.co.uk%2Fnews%2Flocal-west-yorkshire-news%2F2011%2F08%2F06%2Fappeal-launched-for-memories-of-nora-bray-s-dance-school-86081-29187030%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARoy+Castle" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.theofficialcharts.com/artist/_/roy%20castle/">"ROY CASTLE &#124; Artist &#124; Official Charts"</a>. <i>UK Chart Archive</i>. <a href="/wiki/Official_Charts_Company" title="Official Charts Company">Official Charts Company</a>. 22 December 1960<span class="reference-accessdate">. Retrieved <span class="nowrap">21 October</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=UK+Chart+Archive&amp;rft.atitle=ROY+CASTLE+%26%23124%3B+Artist+%26%23124%3B+Official+Charts&amp;rft.date=1960-12-22&amp;rft_id=http%3A%2F%2Fwww.theofficialcharts.com%2Fartist%2F_%2Froy%2520castle%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARoy+Castle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.bravoencore.co.uk/bravo.html">"Bravo Encore - Theatre programmes_B"</a>. <i>www.bravoencore.co.uk</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.bravoencore.co.uk&amp;rft.atitle=Bravo+Encore+-+Theatre+programmes_B&amp;rft_id=http%3A%2F%2Fwww.bravoencore.co.uk%2Fbravo.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARoy+Castle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-autogenerated1-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-autogenerated1_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autogenerated1_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20161011155827/http://www.bbc.co.uk/dna/place-london/plain/A810073">"h2g2 – Roy Castle – Entertainer – A810073"</a>. BBC. Archived from <a rel="nofollow" class="external text" href="http://www.bbc.co.uk/dna/place-london/plain/A810073">the original</a> on 11 October 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">14 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=h2g2+%E2%80%93+Roy+Castle+%E2%80%93+Entertainer+%E2%80%93+A810073&amp;rft.pub=BBC&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fdna%2Fplace-london%2Fplain%2FA810073&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARoy+Castle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.theatredance.com/tap/">"All About Tap Dance"</a>. TheatreDance.com. 14 January 1973<span class="reference-accessdate">. Retrieved <span class="nowrap">14 February</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=All+About+Tap+Dance&amp;rft.pub=TheatreDance.com&amp;rft.date=1973-01-14&amp;rft_id=http%3A%2F%2Fwww.theatredance.com%2Ftap%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARoy+Castle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Daily Mirror newspaper Saturday November 2nd 1985 page 7.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">GRO Register of Marriages: SEP 1963 6a 1063 ETON – Roy Castle = Joan F. Dickson</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070705004708/http://www.lovesouthend.org/profiles_detail.php?ProfileID=7">"Love Southend Profiles"</a>. <i>web.archive.org</i>. 5 July 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=web.archive.org&amp;rft.atitle=Love+Southend+Profiles&amp;rft.date=2007-07-05&amp;rft_id=https%3A%2F%2Fweb.archive.org%2Fweb%2F20070705004708%2Fhttp%3A%2F%2Fwww.lovesouthend.org%2Fprofiles_detail.php%3FProfileID%3D7&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARoy+Castle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/uk/91322.stm">"Cancer centre fulfils Roy Castle's dream"</a>. <i><a href="/wiki/BBC_News_Online" title="BBC News Online">BBC News Online</a></i>. BBC. 12 May 1998<span class="reference-accessdate">. Retrieved <span class="nowrap">28 October</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BBC+News+Online&amp;rft.atitle=Cancer+centre+fulfils+Roy+Castle%27s+dream&amp;rft.date=1998-05-12&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fuk%2F91322.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARoy+Castle" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Roy_Castle&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/28px-P_vip.svg.png" decoding="async" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/41px-P_vip.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/69/P_vip.svg/55px-P_vip.svg.png 2x" data-file-width="1911" data-file-height="1944" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Biography" title="Portal:Biography">Biography portal</a></span></li></ul></div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/dna/h2g2/A810073">h2g2 page</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm0145321/">Roy Castle</a> on <a href="/wiki/IMDb" title="IMDb">IMDb</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.roycastle.org/">Roy Castle Lung Cancer Foundation</a></li></ul>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q5684618&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q5684618&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q5684618" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX1643037">XX1643037</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/000000006690621X">0000 0000 6690 621X</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n86046517">n86046517</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/e6461a50-5892-4bc8-bf31-29e4134e9290">e6461a50-5892-4bc8-bf31-29e4134e9290</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_Australia" title="National Library of Australia">NLA-person</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://trove.nla.gov.au/people/967041">967041</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Royal_Library_of_the_Netherlands" title="Royal Library of the Netherlands">NTA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p072482796">072482796</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/92528448">92528448</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/92528448">92528448</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1322
+Cached time: 20190929154145
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.492 seconds
+Real time usage: 0.700 seconds
+Preprocessor visited node count: 2534/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 27229/2097152 bytes
+Template argument size: 2335/2097152 bytes
+Highest expansion depth: 18/40
+Expensive parser function count: 11/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 21287/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.237/10.000 seconds
+Lua memory usage: 5.26 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  625.065      1 -total
+ 40.55%  253.486      1 Template:Infobox_person
+ 37.00%  231.302      1 Template:Infobox
+ 25.52%  159.486      5 Template:Br_separated_entries
+ 22.21%  138.847      1 Template:Reflist
+ 18.63%  116.474      1 Template:Birth_date
+ 12.23%   76.475      1 Template:Citation
+  7.79%   48.667      1 Template:Citation_needed
+  7.31%   45.710      1 Template:Post-nominals
+  7.07%   44.189      1 Template:Authority_control
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:558051-0!canonical and timestamp 20190929154144 and revision id 917660561
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Roy_Castle&amp;oldid=917660561">https://en.wikipedia.org/w/index.php?title=Roy_Castle&amp;oldid=917660561</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1932_births" title="Category:1932 births">1932 births</a></li><li><a href="/wiki/Category:1994_deaths" title="Category:1994 deaths">1994 deaths</a></li><li><a href="/wiki/Category:Comedians_from_Yorkshire" title="Category:Comedians from Yorkshire">Comedians from Yorkshire</a></li><li><a href="/wiki/Category:Deaths_from_cancer_in_England" title="Category:Deaths from cancer in England">Deaths from cancer in England</a></li><li><a href="/wiki/Category:Deaths_from_lung_cancer" title="Category:Deaths from lung cancer">Deaths from lung cancer</a></li><li><a href="/wiki/Category:English_male_stage_actors" title="Category:English male stage actors">English male stage actors</a></li><li><a href="/wiki/Category:English_Christians" title="Category:English Christians">English Christians</a></li><li><a href="/wiki/Category:English_male_comedians" title="Category:English male comedians">English male comedians</a></li><li><a href="/wiki/Category:English_male_dancers" title="Category:English male dancers">English male dancers</a></li><li><a href="/wiki/Category:English_male_film_actors" title="Category:English male film actors">English male film actors</a></li><li><a href="/wiki/Category:English_male_singers" title="Category:English male singers">English male singers</a></li><li><a href="/wiki/Category:English_male_television_actors" title="Category:English male television actors">English male television actors</a></li><li><a href="/wiki/Category:English_television_presenters" title="Category:English television presenters">English television presenters</a></li><li><a href="/wiki/Category:English_trumpeters" title="Category:English trumpeters">English trumpeters</a></li><li><a href="/wiki/Category:Male_trumpeters" title="Category:Male trumpeters">Male trumpeters</a></li><li><a href="/wiki/Category:Officers_of_the_Order_of_the_British_Empire" title="Category:Officers of the Order of the British Empire">Officers of the Order of the British Empire</a></li><li><a href="/wiki/Category:People_from_Holmfirth" title="Category:People from Holmfirth">People from Holmfirth</a></li><li><a href="/wiki/Category:People_from_Thornton-Cleveleys" title="Category:People from Thornton-Cleveleys">People from Thornton-Cleveleys</a></li><li><a href="/wiki/Category:People_from_Liverpool" title="Category:People from Liverpool">People from Liverpool</a></li><li><a href="/wiki/Category:20th-century_English_male_actors" title="Category:20th-century English male actors">20th-century English male actors</a></li><li><a href="/wiki/Category:20th-century_English_singers" title="Category:20th-century English singers">20th-century English singers</a></li><li><a href="/wiki/Category:Tap_dancers" title="Category:Tap dancers">Tap dancers</a></li><li><a href="/wiki/Category:20th-century_trumpeters" title="Category:20th-century trumpeters">20th-century trumpeters</a></li><li><a href="/wiki/Category:20th-century_English_comedians" title="Category:20th-century English comedians">20th-century English comedians</a></li><li><a href="/wiki/Category:British_male_comedy_actors" title="Category:British male comedy actors">British male comedy actors</a></li><li><a href="/wiki/Category:20th-century_male_singers" title="Category:20th-century male singers">20th-century male singers</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_script_errors" title="Category:Pages with script errors">Pages with script errors</a></li><li><a href="/wiki/Category:EngvarB_from_August_2014" title="Category:EngvarB from August 2014">EngvarB from August 2014</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_August_2014" title="Category:Use dmy dates from August 2014">Use dmy dates from August 2014</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2016" title="Category:Articles with unsourced statements from March 2016">Articles with unsourced statements from March 2016</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_identifiers" title="Category:Wikipedia articles with MusicBrainz identifiers">Wikipedia articles with MusicBrainz identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLA-person_identifiers" title="Category:Wikipedia articles with NLA-person identifiers">Wikipedia articles with NLA-person identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NTA_identifiers" title="Category:Wikipedia articles with NTA identifiers">Wikipedia articles with NTA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Roy+Castle" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Roy+Castle" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Roy_Castle" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Roy_Castle" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Roy_Castle">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Roy_Castle&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Roy_Castle&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Roy_Castle" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Roy_Castle" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Roy_Castle&amp;oldid=917660561" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Roy_Castle&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5684618" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Roy_Castle&amp;id=917660561" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Roy+Castle">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Roy+Castle&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Roy_Castle&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Roy_Castle" title="Roy Castle – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D9%8A_%D9%83%D8%A7%D8%B3%D9%84" title="روي كاسل – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Roy_Castle" title="Roy Castle – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Roy_Castle" title="Roy Castle – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5684618#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 24 September 2019, at 21:16<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Roy_Castle&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.492","walltime":"0.700","ppvisitednodes":{"value":2534,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":27229,"limit":2097152},"templateargumentsize":{"value":2335,"limit":2097152},"expansiondepth":{"value":18,"limit":40},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21287,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  625.065      1 -total"," 40.55%  253.486      1 Template:Infobox_person"," 37.00%  231.302      1 Template:Infobox"," 25.52%  159.486      5 Template:Br_separated_entries"," 22.21%  138.847      1 Template:Reflist"," 18.63%  116.474      1 Template:Birth_date"," 12.23%   76.475      1 Template:Citation","  7.79%   48.667      1 Template:Citation_needed","  7.31%   45.710      1 Template:Post-nominals","  7.07%   44.189      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.237","limit":"10.000"},"limitreport-memusage":{"value":5519299,"limit":52428800}},"cachereport":{"origin":"mw1322","timestamp":"20190929154145","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Roy Castle","url":"https:\/\/en.wikipedia.org\/wiki\/Roy_Castle","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5684618","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5684618","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-27T20:38:13Z","dateModified":"2019-09-24T21:16:37Z","headline":"English dancer, singer, comedian, actor, television presenter and musician"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":106,"wgHostname":"mw1267"});});</script>
+</body>
+</html>
+

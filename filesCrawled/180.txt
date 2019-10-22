@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Dual naming - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Dual_naming","wgTitle":"Dual naming","wgCurRevisionId":918098505,"wgRevisionId":918098505,"wgArticleId":2616701,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from April 2011","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from March 2011","Place names","Language policy","Naming controversies"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun",
+"Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dual_naming","wgRelevantArticleId":2616701,"wgRequestId":"XY@juQpAMFoAAKK5esQAAACO","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5310220","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready"
+,"user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface",
+"ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dual_naming"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Dual_naming&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Dual_naming&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Dual_naming"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Dual_naming rootpage-Dual_naming skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Dual naming</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Dual_naming&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Dual+naming%22">"Dual naming"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Dual+naming%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Dual+naming%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Dual+naming%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Dual+naming%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Dual+naming%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">April 2011</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><b>Dual naming</b> is the adoption of an official place name that combines two earlier names, usually to resolve a disagreement over which of the two individual names is most appropriate. Sometimes the two individual names are from different languages. In several countries dual naming is used where a native people and a colonial settler community have used different names, for example the <a href="/wiki/Denali_naming_dispute" class="mw-redirect" title="Denali naming dispute">Denali naming dispute</a> in the US.
+</p><p>In <a href="/wiki/Australia" title="Australia">Australia</a>, a dual naming policy is used to name landmarks that are of significance to the <a href="/wiki/Indigenous_Australians" title="Indigenous Australians">Indigenous Australians</a>, but for which the most common name is European.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>  For example, the landmark with the indigenous name <i><a href="/wiki/Uluru" title="Uluru">Uluru</a></i> and European name <i>Ayers Rock</i> is now officially named <i>Uluru / Ayers Rock</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>Similarly, <a href="/wiki/List_of_dual_place_names_in_New_Zealand" title="List of dual place names in New Zealand">some places in New Zealand</a> have dual <a href="/wiki/Maori_language" class="mw-redirect" title="Maori language">Maori</a> and <a href="/wiki/English_language" title="English language">English</a> names, such as <a href="/wiki/Aoraki/Mount_Cook" class="mw-redirect" title="Aoraki/Mount Cook">Aoraki/Mount Cook</a>.<sup id="cite_ref-NZGB_frameworks_3-0" class="reference"><a href="#cite_note-NZGB_frameworks-3">&#91;3&#93;</a></sup> The practice of officially giving certain New Zealand places dual names began in the 1920s,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> but dual names have become much more common in the 1990s and 2000s, in part due to <a href="/wiki/Treaty_of_Waitangi_claims_and_settlements" title="Treaty of Waitangi claims and settlements">Treaty of Waitangi settlements</a>.<sup id="cite_ref-NZGB_frameworks_3-1" class="reference"><a href="#cite_note-NZGB_frameworks-3">&#91;3&#93;</a></sup>
+</p><p>"Derry/Londonderry" has been used unofficially to circumvent the <a href="/wiki/Derry/Londonderry_name_dispute" title="Derry/Londonderry name dispute">Derry/Londonderry name dispute</a>, in which <a href="/wiki/Irish_nationalism" title="Irish nationalism">Irish nationalists</a> used "Derry" and <a href="/wiki/Ulster_unionism" class="mw-redirect" title="Ulster unionism">Ulster unionists</a> use "Londonderry" for the <a href="/wiki/Derry" title="Derry">city</a> and <a href="/wiki/County_Londonderry" title="County Londonderry">county</a> in <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a>. The "Derry stroke Londonderry" spoken form of this has in turn engendered the city's nickname "Stroke City".<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2011)">citation needed</span></a></i>&#93;</sup>
+</p><p>In <a href="/wiki/Romania" title="Romania">Romania</a>, the city of Cluj was renamed <a href="/wiki/Cluj-Napoca" title="Cluj-Napoca">Cluj-Napoca</a> for political reasons in the 1970s, as the communist government wanted to emphasize the city's Roman origins.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Another example of the phenomenon can be seen in the name of the capital of the <a href="/wiki/Spain" title="Spain">Spanish</a> <a href="/wiki/Basque_Country_(autonomous_community)" title="Basque Country (autonomous community)">Basque Country</a>, <a href="/wiki/Vitoria-Gasteiz" title="Vitoria-Gasteiz">Vitoria-Gasteiz</a>. This combines the city's <a href="/wiki/Spanish_language" title="Spanish language">Spanish</a> name of Vitoria and <a href="/wiki/Basque_language" title="Basque language">Basque</a> name of Gasteiz.
+</p><p>The official names of bilingual areas of <a href="/wiki/Alsace" title="Alsace">Alsace</a>, <a href="/wiki/France" title="France">France</a>, and <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a> also apply. For instance, the German and French Swiss town of <a href="/wiki/Biel/Bienne" title="Biel/Bienne">Biel/Bienne</a> is the combination of its German name (Biel) and its French name (Bienne).
+</p><p>In Finland, many towns have two names, one in Finnish and one in Swedish (the two official languages of the country). The two names are considered equally correct but are not used as a formal duality of names.
+</p><p>A special problem occurs when the landmark lies on the border between two (or more) countries, for example <a href="/wiki/Mount_Everest" title="Mount Everest">Mount Everest</a> has several different locally-used names.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dual_naming&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_dual_place_names_in_New_Zealand" title="List of dual place names in New Zealand">List of dual place names in New Zealand</a></li>
+<li><a href="/wiki/Names_of_places_in_Finland_in_Finnish_and_in_Swedish" title="Names of places in Finland in Finnish and in Swedish">Names of places in Finland in Finnish and in Swedish</a></li>
+<li><a href="/wiki/Pleonasm#Bilingual_tautological_expressions" title="Pleonasm">Bilingual tautological names</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dual_naming&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.icsm.gov.au/sites/default/files/2017-07/consistent_place_names_principles_0.pdf">"Principles for the Consistent Use of Place Names"</a> <span class="cs1-format">(PDF)</span>. Permanent Committee on Place Names, Intergovernmental Committee on Surveying and Mapping. October 2016. pp.&#160;9, 19<span class="reference-accessdate">. Retrieved <span class="nowrap">19 June</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Principles+for+the+Consistent+Use+of+Place+Names&amp;rft.pages=9%2C+19&amp;rft.pub=Permanent+Committee+on+Place+Names%2C+Intergovernmental+Committee+on+Surveying+and+Mapping&amp;rft.date=2016-10&amp;rft_id=http%3A%2F%2Fwww.icsm.gov.au%2Fsites%2Fdefault%2Ffiles%2F2017-07%2Fconsistent_place_names_principles_0.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADual+naming" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://placenames.nt.gov.au/policies/dualnaming">"Dual Naming"</a>. Northern Territory Government<span class="reference-accessdate">. Retrieved <span class="nowrap">8 July</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dual+Naming&amp;rft.pub=Northern+Territory+Government&amp;rft_id=https%3A%2F%2Fplacenames.nt.gov.au%2Fpolicies%2Fdualnaming&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADual+naming" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-NZGB_frameworks-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-NZGB_frameworks_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NZGB_frameworks_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110724195854/http://www.linz.govt.nz/docs/placenames/frameworks-nzgb-201010-ver3.pdf">"Frameworks of the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa Version 3"</a> <span class="cs1-format">(PDF)</span>. October 2010. pp.&#160;40–42. Archived from <a rel="nofollow" class="external text" href="http://www.linz.govt.nz/docs/placenames/frameworks-nzgb-201010-ver3.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 24 July 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">15 April</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Frameworks+of+the+New+Zealand+Geographic+Board+Ng%C4%81+Pou+Taunaha+o+Aotearoa+Version+3&amp;rft.pages=40-42&amp;rft.date=2010-10&amp;rft_id=http%3A%2F%2Fwww.linz.govt.nz%2Fdocs%2Fplacenames%2Fframeworks-nzgb-201010-ver3.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADual+naming" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100522044225/http://www.linz.govt.nz/docs/placenames/proposingaplacename/protocol-maoriv2.pdf">"Protocol for Mäori Place Names"</a> <span class="cs1-format">(PDF)</span>. New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa. 14 August 2002. Archived from <a rel="nofollow" class="external text" href="http://www.linz.govt.nz/docs/placenames/proposingaplacename/protocol-maoriv2.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 22 May 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">12 November</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Protocol+for+M%C3%A4ori+Place+Names&amp;rft.pub=New+Zealand+Geographic+Board+Ng%C4%81+Pou+Taunaha+o+Aotearoa&amp;rft.date=2002-08-14&amp;rft_id=http%3A%2F%2Fwww.linz.govt.nz%2Fdocs%2Fplacenames%2Fproposingaplacename%2Fprotocol-maoriv2.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADual+naming" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">George W. White (1999). "Transylvania:Hungarian, Romanian, or Neither?".  In Herb, Guntram Henrik; David H. Kaplan (eds.). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=ikVCJQIJsNoC&amp;pg=PA267&amp;dq=John+Hunyadi+Transylvania"><i>Nested Identities: Nationalism, Territory, and Scale</i></a>. Rowman &amp; Littlefield. p.&#160;275. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8476-8467-9" title="Special:BookSources/0-8476-8467-9"><bdi>0-8476-8467-9</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Transylvania%3AHungarian%2C+Romanian%2C+or+Neither%3F&amp;rft.btitle=Nested+Identities%3A+Nationalism%2C+Territory%2C+and+Scale&amp;rft.pages=275&amp;rft.pub=Rowman+%26+Littlefield&amp;rft.date=1999&amp;rft.isbn=0-8476-8467-9&amp;rft.au=George+W.+White&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DikVCJQIJsNoC%26pg%3DPA267%26dq%3DJohn%2BHunyadi%2BTransylvania&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADual+naming" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1299
+Cached time: 20190927010738
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.220 seconds
+Real time usage: 0.313 seconds
+Preprocessor visited node count: 523/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19160/2097152 bytes
+Template argument size: 555/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 15991/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.133/10.000 seconds
+Lua memory usage: 3.45 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  291.619      1 -total
+ 46.95%  136.929      1 Template:Reflist
+ 40.86%  119.153      1 Template:Refimprove
+ 37.63%  109.734      4 Template:Cite_web
+ 27.13%   79.130      1 Template:Ambox
+ 12.08%   35.224      1 Template:Find_sources_mainspace
+ 10.58%   30.853      1 Template:Citation_needed
+  9.25%   26.970      1 Template:Fix
+  4.35%   12.689      1 Template:Delink
+  3.62%   10.556      2 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2616701-0!canonical and timestamp 20190927010738 and revision id 918098505
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dual_naming&amp;oldid=918098505">https://en.wikipedia.org/w/index.php?title=Dual_naming&amp;oldid=918098505</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Place_names" title="Category:Place names">Place names</a></li><li><a href="/wiki/Category:Language_policy" title="Category:Language policy">Language policy</a></li><li><a href="/wiki/Category:Naming_controversies" title="Category:Naming controversies">Naming controversies</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2011" title="Category:Articles needing additional references from April 2011">Articles needing additional references from April 2011</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2011" title="Category:Articles with unsourced statements from March 2011">Articles with unsourced statements from March 2011</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dual+naming" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Dual+naming" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Dual_naming" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Dual_naming" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Dual_naming">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Dual_naming&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Dual_naming&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Dual_naming" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Dual_naming" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Dual_naming&amp;oldid=918098505" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Dual_naming&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5310220" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dual_naming&amp;id=918098505" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dual+naming">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Dual+naming&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Dual_naming&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5310220#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 September 2019, at 01:07<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Dual_naming&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.220","walltime":"0.313","ppvisitednodes":{"value":523,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19160,"limit":2097152},"templateargumentsize":{"value":555,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15991,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  291.619      1 -total"," 46.95%  136.929      1 Template:Reflist"," 40.86%  119.153      1 Template:Refimprove"," 37.63%  109.734      4 Template:Cite_web"," 27.13%   79.130      1 Template:Ambox"," 12.08%   35.224      1 Template:Find_sources_mainspace"," 10.58%   30.853      1 Template:Citation_needed","  9.25%   26.970      1 Template:Fix","  4.35%   12.689      1 Template:Delink","  3.62%   10.556      2 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.133","limit":"10.000"},"limitreport-memusage":{"value":3619327,"limit":52428800}},"cachereport":{"origin":"mw1299","timestamp":"20190927010738","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Dual naming","url":"https:\/\/en.wikipedia.org\/wiki\/Dual_naming","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5310220","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5310220","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-09-05T03:09:53Z","dateModified":"2019-09-27T01:07:37Z","headline":"naming policy; adoption of an official place name that combines two earlier names, usually to resolve a disagreement over which of the two individual names is most appropriate"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1255"});});</script>
+</body>
+</html>
+

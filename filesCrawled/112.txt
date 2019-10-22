@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ochoa - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ochoa","wgTitle":"Ochoa","wgCurRevisionId":914065590,"wgRevisionId":914065590,"wgArticleId":7345122,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking sources from August 2018","All articles lacking sources","Articles containing Basque-language text","Articles with short description","All set index articles","Surnames","Spanish-language surnames","Basque-language surnames"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep",
+"Oct","Nov","Dec"],"wgRelevantPageName":"Ochoa","wgRelevantArticleId":7345122,"wgRequestId":"XZFADwpAIC0AABsTR0sAAACN","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5395941","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready",
+"user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ochoa"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ochoa&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ochoa&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ochoa"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ochoa rootpage-Ochoa skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Ochoa</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Unreferenced plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Ochoa&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small class="date-container"><i>(<span class="date">August 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><p><b>Ochoa</b> (<a href="/wiki/Basque_language" title="Basque language">Basque</a>: <i lang="eu">Otxoa</i>) is a Spanish<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> surname of Basque origin common throughout <a href="/wiki/Spain" title="Spain">Spain</a>, <a href="/wiki/France" title="France">France</a>, the <a href="/wiki/Americas" title="Americas">Americas</a>, and the <a href="/wiki/Philippines" title="Philippines">Philippines</a>. It is a surname of <a href="/wiki/Patronymic" title="Patronymic">patronymic</a> origin; it was originally a <a href="/wiki/Given_name" title="Given name">given name</a> in <a href="/wiki/Spain_in_the_Middle_Ages" title="Spain in the Middle Ages">Medieval Spain</a>.
+</p><p>The name originated in the <a href="/wiki/Basque_Country_(greater_region)" title="Basque Country (greater region)">Basque Country</a> and means "the <a href="/wiki/Wolf" title="Wolf">wolf</a>", from the Basque vocabulary word <i>otso</i>/<i>otxo</i> meaning "wolf" (the suffix -a in the <a href="/wiki/Basque_language" title="Basque language">Basque language</a> represents the definite article). In <a href="/wiki/Standard_Basque" title="Standard Basque">Standard Basque</a>, the name is spelled <i>otsoa</i> or <i>otxoa</i>. There was also a female given name <i>Ochanda</i> (meaning "female wolf", cf. the elegant tower in the old quarter of <a href="/wiki/Vitoria-Gasteiz" title="Vitoria-Gasteiz">Vitoria-Gasteiz</a> named after Ochanda, proper name of the daughter of a man responsible for revamping the tower in the 16th century) and <i>Ochotorena </i>or<i> Otxotorena</i>, meaning "son of Ochoto" (literally "small wolf"). The Spanish equivalent of this Basque given name was <b><a href="/wiki/Lope_(disambiguation)" class="mw-redirect mw-disambig" title="Lope (disambiguation)">Lope</a></b>, also appearing in the names of <a href="/wiki/Gascony" title="Gascony">Gascon</a> lords in the High Middle Ages.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geographical_distribution"><span class="tocnumber">1</span> <span class="toctext">Geographical distribution</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#People"><span class="tocnumber">2</span> <span class="toctext">People</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Fictional_characters"><span class="tocnumber">3</span> <span class="toctext">Fictional characters</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Other"><span class="tocnumber">4</span> <span class="toctext">Other</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Geographical_distribution">Geographical distribution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ochoa&amp;action=edit&amp;section=1" title="Edit section: Geographical distribution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As of 2014, 32.2% of all known bearers of the surname <i>Ochoa</i> were residents of <a href="/wiki/Mexico" title="Mexico">Mexico</a> (frequency 1:671), 12.1% of <a href="/wiki/Colombia" title="Colombia">Colombia</a> (1:686), 11.8% of the <a href="/wiki/United_States" title="United States">United States</a> (1:5,302), 9.4% of <a href="/wiki/Venezuela" title="Venezuela">Venezuela</a> (1:556), 5.8% of <a href="/wiki/Peru" title="Peru">Peru</a> (1:949), 5.1% of <a href="/wiki/Guatemala" title="Guatemala">Guatemala</a> (1:547), 4.8% of <a href="/wiki/Argentina" title="Argentina">Argentina</a> (1:1,537), 4.8% of <a href="/wiki/Ecuador" title="Ecuador">Ecuador</a> (1:580), 3.1% of <a href="/wiki/Honduras" title="Honduras">Honduras</a> (1:492), 2.5% of <a href="/wiki/Spain" title="Spain">Spain</a> (1:3,191), 1.6% of <a href="/wiki/Nicaragua" title="Nicaragua">Nicaragua</a> (1:651), 1.4% of <a href="/wiki/Cuba" title="Cuba">Cuba</a> (1:1,390), 1.4% of <a href="/wiki/Bolivia" title="Bolivia">Bolivia</a> (1:1,286) and 1.3% of <a href="/wiki/El_Salvador" title="El Salvador">El Salvador</a> (1:861).
+</p><p>In <a href="/wiki/Spain" title="Spain">Spain</a>, the frequency of the surname was higher than national average (1:3,191) in the following autonomous communities:
+</p>
+<ul><li>1. <a href="/wiki/La_Rioja_(Spain)" title="La Rioja (Spain)">La Rioja</a> (1:310)</li>
+<li>2. <a href="/wiki/Navarre" title="Navarre">Navarre</a> (1:438)</li>
+<li>3. <a href="/wiki/Basque_Country_(autonomous_community)" title="Basque Country (autonomous community)">Basque Country</a> (1:1,261)</li>
+<li>4. <a href="/wiki/Cantabria" title="Cantabria">Cantabria</a> (1:1,963)</li>
+<li>5. <a href="/wiki/Aragon" title="Aragon">Aragon</a> (1:2,024)</li>
+<li>6. <a href="/wiki/Castilla-La_Mancha" class="mw-redirect" title="Castilla-La Mancha">Castilla-La Mancha</a> (1:2,573)</li>
+<li>7. <a href="/wiki/Community_of_Madrid" title="Community of Madrid">Community of Madrid</a> (1:2,933)</li></ul>
+<p>In <a href="/wiki/Honduras" title="Honduras">Honduras</a>, the frequency of the surname was higher than national average (1:492) in the following departments:<sup id="cite_ref-ochoa2014_2-0" class="reference"><a href="#cite_note-ochoa2014-2">&#91;2&#93;</a></sup>
+</p>
+<ul><li>1. <a href="/wiki/Choluteca_Department" title="Choluteca Department">Choluteca</a> (1:147)</li>
+<li>2. <a href="/wiki/Francisco_Moraz%C3%A1n_Department" title="Francisco Morazán Department">Francisco Morazán</a> (1:309)</li>
+<li>3. <a href="/wiki/Olancho_Department" title="Olancho Department">Olancho</a> (1:370)</li>
+<li>4. <a href="/wiki/Valle_Department" title="Valle Department">Valle</a> (1:427)</li></ul>
+<h2><span class="mw-headline" id="People">People</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ochoa&amp;action=edit&amp;section=2" title="Edit section: People">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Alex_Ochoa" title="Alex Ochoa">Alex Ochoa</a> (1972–), American baseball player</li>
+<li><a href="/wiki/Arnaldo_Ochoa" title="Arnaldo Ochoa">Arnaldo Ochoa</a> (1930–1989), Cuban army general, executed for treason</li>
+<li><a href="/wiki/Baltazar_Hinojosa_Ochoa" title="Baltazar Hinojosa Ochoa">Baltazar Hinojosa Ochoa</a> (1963–), Mexican politician, mayor of Matamoros, Tamaulipas</li>
+<li><a href="/wiki/Blanca_Fern%C3%A1ndez_Ochoa" title="Blanca Fernández Ochoa">Blanca Fernández Ochoa</a> (1963–2019), Spanish alpine skier</li>
+<li><a href="/wiki/Carla_Ochoa" title="Carla Ochoa">Carla Ochoa</a> (1979–), Chilean fashion model</li>
+<li><a href="/wiki/Carlos_Ochoa" title="Carlos Ochoa">Carlos Ochoa</a> (1978–), Mexican football (soccer) player</li>
+<li><a href="/wiki/Carlos_Jos%C3%A9_Ochoa" title="Carlos José Ochoa">Carlos José Ochoa</a> (1980–), Venezuelan cyclists</li>
+<li><a href="/wiki/Carlos_M._Ochoa" title="Carlos M. Ochoa">Carlos M. Ochoa</a>  (1920–2008), Peruvian botanist</li>
+<li><a href="/wiki/Digna_Ochoa" title="Digna Ochoa">Digna Ochoa</a> (1964–2001), Mexican human-rights lawyer</li>
+<li><a href="/wiki/Eduardo_L%C3%B3pez_Ochoa" title="Eduardo López Ochoa">Eduardo López Ochoa</a> (1877–1936), Spanish army general, Africanist, and Freemason</li>
+<li><a href="/wiki/Eduardo_M._Ochoa" title="Eduardo M. Ochoa">Eduardo M. Ochoa</a>, Argentine college administrator</li>
+<li><a href="/wiki/Eliades_Ochoa" title="Eliades Ochoa">Eliades Ochoa</a> (1946–), Cuban guitarist and singer</li>
+<li><a href="/wiki/Ellen_Ochoa" title="Ellen Ochoa">Ellen Ochoa</a> (1958–), first Mexican-American astronaut</li>
+<li><a href="/wiki/Estevan_Ochoa" title="Estevan Ochoa">Estevan Ochoa</a> (1831–1888), Mexican-born American businessman and politician</li>
+<li><a href="/w/index.php?title=Emillo_Ochoa&amp;action=edit&amp;redlink=1" class="new" title="Emillo Ochoa (page does not exist)">Emillo Ochoa</a> 1972 -2004 drug trafficker</li>
+<li><a href="/wiki/Eugenio_de_Ochoa" title="Eugenio de Ochoa">Eugenio de Ochoa</a> (1815–1872), Spanish author and translator</li>
+<li><a href="/wiki/Fabio_Ochoa_Restrepo" title="Fabio Ochoa Restrepo">Fabio Ochoa Restrepo</a> (a.k.a. "Don Fabio") (1923–2002), Colombian businessman, father of the <a href="/wiki/Ochoa_brothers" class="mw-redirect" title="Ochoa brothers">Ochoa brothers</a></li>
+<li><a href="/wiki/Francisco_Fern%C3%A1ndez_Ochoa" title="Francisco Fernández Ochoa">Francisco Fernández Ochoa</a> (1950–2006), Spanish alpine skier</li>
+<li><a href="/wiki/Francisco_Labastida" title="Francisco Labastida">Francisco Labastida Ochoa</a> (1942–), Mexican economist and politician</li>
+<li><a href="/wiki/Gilda_Ochoa" title="Gilda Ochoa">Gilda Ochoa</a>, American professor</li>
+<li><a href="/wiki/Gorka_Otxoa" title="Gorka Otxoa">Gorka Otxoa</a> (1979–), Spanish actor</li>
+<li><a href="/wiki/Guillermo_Ochoa" title="Guillermo Ochoa">Guillermo Ochoa</a> (a.k.a. "Paco Memo") (1985–), Mexican football (soccer) player</li>
+<li><a href="/wiki/Israel_Ochoa" title="Israel Ochoa">Israel Ochoa</a> (1964–), Colombian cyclist</li>
+<li><a href="/wiki/Javier_Otxoa" title="Javier Otxoa">Javier Otxoa</a> (1974–), Spanish cyclist</li>
+<li><a href="/wiki/Jes%C3%BAs_Ochoa_(footballer)" title="Jesús Ochoa (footballer)">Jesús Ochoa (footballer)</a> (1981–), Mexican-American football (soccer) player</li>
+<li><a href="/wiki/Jes%C3%BAs_Ochoa_(actor)" title="Jesús Ochoa (actor)">Jesús Ochoa (actor)</a> (1959–), Mexican actor</li>
+<li><a href="/wiki/Ochoa_brothers" class="mw-redirect" title="Ochoa brothers">Ochoa brothers</a>, Colombian brothers Jorge, Juan David and Fabio Ochoa, former members of the Medellín drug cartel</li>
+<li><a href="/wiki/Leire_Mart%C3%ADnez" title="Leire Martínez">Leire Martínez Ochoa</a> (1979–), Spanish-Basque singer, vocalist of <a href="/wiki/La_Oreja_de_Van_Gogh" title="La Oreja de Van Gogh">La Oreja de Van Gogh</a> after <a href="/wiki/Amaia_Montero" title="Amaia Montero">Amaia Montero</a>'s departure</li>
+<li><a href="/wiki/Leonorilda_Ochoa" title="Leonorilda Ochoa">Leonorilda Ochoa</a> (1939–2016), Mexican actress</li>
+<li><a href="/wiki/Lewis_Ochoa" title="Lewis Ochoa">Lewis Ochoa</a> (1991-), English football (soccer) player</li>
+<li><a href="/wiki/Lorena_Ochoa" title="Lorena Ochoa">Lorena Ochoa</a> (1981–), Mexican golfer</li>
+<li><a href="/wiki/Paquito_Ochoa,_Jr." class="mw-redirect" title="Paquito Ochoa, Jr.">Paquito Ochoa, Jr.</a> (1960-), Filipino lawyer and politician</li>
+<li><a href="/wiki/Mariana_Ochoa" title="Mariana Ochoa">Mariana Ochoa</a> (1979–), Mexican actress and singer</li>
+<li><a href="/w/index.php?title=Matthew_Ochoa&amp;action=edit&amp;redlink=1" class="new" title="Matthew Ochoa (page does not exist)">Matthew Ochoa</a> (musician) Famous drummer for The Dirty Heads</li>
+<li><a href="/wiki/Raymond_Ochoa" title="Raymond Ochoa">Raymond Ochoa</a> (2001–), American actor and brother of Ryan Ochoa</li>
+<li><a href="/wiki/Richard_Ochoa" title="Richard Ochoa">Richard Ochoa</a> (1984–), Venezuelan track and road cyclist</li>
+<li><a href="/wiki/Ryan_Ochoa" title="Ryan Ochoa">Ryan Ochoa</a> (1996–), American actor</li>
+<li><a href="/w/index.php?title=Sara_Ochoa&amp;action=edit&amp;redlink=1" class="new" title="Sara Ochoa (page does not exist)">Sara Ochoa</a> (1989-), veterinarian</li>
+<li><a href="/wiki/Samuel_Ochoa" class="mw-redirect" title="Samuel Ochoa">Samuel Ochoa</a> (1986-), Mexican football (soccer) player</li>
+<li><a href="/wiki/Severo_Ochoa" title="Severo Ochoa">Severo Ochoa</a> (1905–1993), Spanish biochemist, Nobel Laureate, Medicine, 1959</li></ul>
+<h2><span class="mw-headline" id="Fictional_characters">Fictional characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ochoa&amp;action=edit&amp;section=3" title="Edit section: Fictional characters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Pablo Belisario Ochoa, one of the five genetic fathers of <a href="/wiki/Agent_47" title="Agent 47">Agent 47</a> in the <a href="/wiki/Hitman_(franchise)" title="Hitman (franchise)">Hitman series</a></li>
+<li><a href="/wiki/List_of_characters_in_Grand_Theft_Auto_IV#Julio_Ochoa" class="mw-redirect" title="List of characters in Grand Theft Auto IV">Julio Ochoa</a>, incumbent mayor of <a href="/wiki/Liberty_City_(Grand_Theft_Auto)" class="mw-redirect" title="Liberty City (Grand Theft Auto)">Liberty City</a> in <i><a href="/wiki/Grand_Theft_Auto_IV" title="Grand Theft Auto IV">Grand Theft Auto IV</a></i></li>
+<li><a href="/wiki/Deadly_Heat#Characters" title="Deadly Heat">Detective Miguel Ochoa</a>, character in the <a href="/wiki/Richard_Castle#Nikki_Heat_Booklist" title="Richard Castle">Nikki Heat</a> novels based on <i><a href="/wiki/Castle_(TV_series)" title="Castle (TV series)">Castle</a></i> character <a href="/wiki/List_of_Castle_characters#Javier_Esposito" title="List of Castle characters">Detective Javier Esposito</a>.</li></ul>
+<h2><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ochoa&amp;action=edit&amp;section=4" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Ochoa_syndrome" class="mw-redirect" title="Ochoa syndrome">Ochoa syndrome</a>, rare congenital syndrome associated with facial expressions and hydronephrosis</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ochoa&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.ancestry.com/name-origin?surname=ochoa">https://www.ancestry.com/name-origin?surname=ochoa</a></span>
+</li>
+<li id="cite_note-ochoa2014-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-ochoa2014_2-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://forebears.co.uk/surnames/ochoa#surnames">Ochoa surname distribution</a></span>
+</li>
+</ol></div></div>
+<style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
+<table id="setindexbox" class="metadata plainlinks dmbox dmbox-setindex" style="" role="presentation">
+<tbody><tr>
+<td class="mbox-image" style="padding: 2px 0 2px 0.4em;"> <img alt="WPanthroponymy.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/30px-WPanthroponymy.svg.png" decoding="async" width="30" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/45px-WPanthroponymy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/WPanthroponymy.svg/60px-WPanthroponymy.svg.png 2x" data-file-width="53" data-file-height="51" /></td>
+<td class="mbox-text" style="padding: 0.25em 0.4em; font-style: italic;"> <div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Surname list</div>This page lists people with the <a href="/wiki/Surname" title="Surname">surname</a> <b>Ochoa</b>. If an <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special:WhatLinksHere/Ochoa&amp;namespace=0">internal link</a> intending to refer to a specific person led you to this page, you may wish to change that <a href="/wiki/Wikipedia:Manual_of_Style/Linking" title="Wikipedia:Manual of Style/Linking">link</a> by adding the person's <a href="/wiki/Given_name" title="Given name">given name</a>(s) to the link. </td>
+</tr>
+</tbody></table>
+<p><a class="mw-selflink selflink">Ochoa</a> ·<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Special%3APrefixIndex&amp;from=Ochoa&amp;namespace=0">All pages</a> · <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Category:Living_people&amp;from=Ochoa">Living people</a> · <a class="external text" href="https://en.wikipedia.org/wiki/Special:Search?search=Ochoa&amp;fulltext=Search">WP search</a> · <a href="/wiki/Special:WhatLinksHere/Ochoa" title="Special:WhatLinksHere/Ochoa">links</a>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1323
+Cached time: 20190914230047
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.240 seconds
+Real time usage: 0.317 seconds
+Preprocessor visited node count: 430/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 7552/2097152 bytes
+Template argument size: 833/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1074/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.147/10.000 seconds
+Lua memory usage: 8.78 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  276.938      1 -total
+ 51.90%  143.723      1 Template:Lang-eu
+ 21.14%   58.553      1 Template:Unreferenced
+ 19.17%   53.087      1 Template:Surname
+ 16.05%   44.447      1 Template:Dmbox
+ 14.03%   38.863      1 Template:Ambox
+  6.09%   16.855      1 Template:Short_description
+  5.04%   13.953      1 Template:Pagetype
+  4.37%   12.093      1 Template:Reflist
+  2.40%    6.649      1 Template:PAGENAMEBASE
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7345122-0!canonical and timestamp 20190914230046 and revision id 914065590
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ochoa&amp;oldid=914065590">https://en.wikipedia.org/w/index.php?title=Ochoa&amp;oldid=914065590</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Surnames" title="Category:Surnames">Surnames</a></li><li><a href="/wiki/Category:Spanish-language_surnames" title="Category:Spanish-language surnames">Spanish-language surnames</a></li><li><a href="/wiki/Category:Basque-language_surnames" title="Category:Basque-language surnames">Basque-language surnames</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_sources_from_August_2018" title="Category:Articles lacking sources from August 2018">Articles lacking sources from August 2018</a></li><li><a href="/wiki/Category:All_articles_lacking_sources" title="Category:All articles lacking sources">All articles lacking sources</a></li><li><a href="/wiki/Category:Articles_containing_Basque-language_text" title="Category:Articles containing Basque-language text">Articles containing Basque-language text</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_set_index_articles" title="Category:All set index articles">All set index articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ochoa" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ochoa" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ochoa" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Ochoa" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ochoa">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ochoa&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ochoa&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ochoa" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ochoa" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ochoa&amp;oldid=914065590" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ochoa&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5395941" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ochoa&amp;id=914065590" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ochoa_(surname)" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ochoa">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ochoa&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ochoa&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ochoa" title="Ochoa – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ochoa_(apellido)" title="Ochoa (apellido) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ochoa" title="Ochoa – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/Ochoa" title="Ochoa – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5395941#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 4 September 2019, at 23:25<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ochoa&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.240","walltime":"0.317","ppvisitednodes":{"value":430,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":7552,"limit":2097152},"templateargumentsize":{"value":833,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1074,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  276.938      1 -total"," 51.90%  143.723      1 Template:Lang-eu"," 21.14%   58.553      1 Template:Unreferenced"," 19.17%   53.087      1 Template:Surname"," 16.05%   44.447      1 Template:Dmbox"," 14.03%   38.863      1 Template:Ambox","  6.09%   16.855      1 Template:Short_description","  5.04%   13.953      1 Template:Pagetype","  4.37%   12.093      1 Template:Reflist","  2.40%    6.649      1 Template:PAGENAMEBASE"]},"scribunto":{"limitreport-timeusage":{"value":"0.147","limit":"10.000"},"limitreport-memusage":{"value":9204122,"limit":52428800}},"cachereport":{"origin":"mw1323","timestamp":"20190914230047","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ochoa","url":"https:\/\/en.wikipedia.org\/wiki\/Ochoa","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5395941","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5395941","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-10-08T02:12:12Z","dateModified":"2019-09-04T23:25:08Z","headline":"family name; Basque surname"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":116,"wgHostname":"mw1324"});});</script>
+</body>
+</html>
+

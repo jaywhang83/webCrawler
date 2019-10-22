@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Arriva Yorkshire - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Arriva_Yorkshire","wgTitle":"Arriva Yorkshire","wgCurRevisionId":915278422,"wgRevisionId":915278422,"wgArticleId":3405495,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with short description","Use dmy dates from March 2016","Articles containing potentially dated statements from December 2017","All articles containing potentially dated statements","Commons category link from Wikidata","Arriva Group bus operators in England","Bus operators in South Yorkshire","Bus operators in the East Riding of Yorkshire","Bus operators in West Yorkshire","Companies based in Wakefield"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],
+"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Arriva_Yorkshire","wgRelevantArticleId":3405495,"wgRequestId":"XYrRmQpAMFcAAFuBHf4AAABB","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q4796024",
+"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert",
+"ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Arriva_Yorkshire_1913_YJ58_FHP.jpg/1200px-Arriva_Yorkshire_1913_YJ58_FHP.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Arriva_Yorkshire"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Arriva_Yorkshire&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Arriva_Yorkshire&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Arriva_Yorkshire"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Arriva_Yorkshire rootpage-Arriva_Yorkshire skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Arriva Yorkshire</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Bus operator in Yorkshire</div>
+<p class="mw-empty-elt">
+</p>
+<table class="infobox" style="width:22em"><caption>Arriva Yorkshire</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Arriva_Yorkshire_1913_YJ58_FHP.jpg" class="image"><img alt="Arriva Yorkshire 1913 YJ58 FHP.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Arriva_Yorkshire_1913_YJ58_FHP.jpg/250px-Arriva_Yorkshire_1913_YJ58_FHP.jpg" decoding="async" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Arriva_Yorkshire_1913_YJ58_FHP.jpg/375px-Arriva_Yorkshire_1913_YJ58_FHP.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Arriva_Yorkshire_1913_YJ58_FHP.jpg/500px-Arriva_Yorkshire_1913_YJ58_FHP.jpg 2x" data-file-width="1600" data-file-height="1200" /></a><div><a href="/wiki/Alexander_Dennis_Enviro400" title="Alexander Dennis Enviro400">Alexander Dennis Enviro400</a> in <a href="/wiki/Leeds" title="Leeds">Leeds</a> in July 2009</div></td></tr><tr><th scope="row">Parent</th><td><a href="/wiki/Arriva_UK_Bus" title="Arriva UK Bus">Arriva UK Bus</a></td></tr><tr><th scope="row">Founded</th><td>1905 (rebranded as Arriva 1997)</td></tr><tr><th scope="row">Headquarters</th><td><a href="/wiki/Wakefield" title="Wakefield">Wakefield</a></td></tr><tr><th scope="row">Service area</th><td><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a><br /><a href="/wiki/South_Yorkshire" title="South Yorkshire">South Yorkshire</a><br /><a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a> and the southern areas of <a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a></td></tr><tr><th scope="row">Depots</th><td>5</td></tr><tr><th scope="row">Fleet</th><td>313 (September 2015)</td></tr><tr><th scope="row">Website</th><td><a rel="nofollow" class="external text" href="http://www.arrivabus.co.uk/Yorkshire/">www.arrivabus.co.uk/Yorkshire</a></td></tr></tbody></table>
+<p><b>Arriva Yorkshire</b><sup id="cite_ref-company84167_1-0" class="reference"><a href="#cite_note-company84167-1">&#91;1&#93;</a></sup> is a bus operator providing services in <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, <a href="/wiki/South_Yorkshire" title="South Yorkshire">South Yorkshire</a>, <a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a> and the southern areas of <a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a>. It is a subsidiary of <a href="/wiki/Arriva_UK_Bus" title="Arriva UK Bus">Arriva UK Bus</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Brands"><span class="tocnumber">2</span> <span class="toctext">Brands</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Discrimination"><span class="tocnumber">3</span> <span class="toctext">Discrimination</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Fleet"><span class="tocnumber">4</span> <span class="toctext">Fleet</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Depots"><span class="tocnumber">5</span> <span class="toctext">Depots</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arriva_Yorkshire&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:West_Riding_Buses_bus_252_(C920_FMP),_Showbus_rally_2009.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/West_Riding_Buses_bus_252_%28C920_FMP%29%2C_Showbus_rally_2009.jpg/220px-West_Riding_Buses_bus_252_%28C920_FMP%29%2C_Showbus_rally_2009.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/West_Riding_Buses_bus_252_%28C920_FMP%29%2C_Showbus_rally_2009.jpg/330px-West_Riding_Buses_bus_252_%28C920_FMP%29%2C_Showbus_rally_2009.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/West_Riding_Buses_bus_252_%28C920_FMP%29%2C_Showbus_rally_2009.jpg/440px-West_Riding_Buses_bus_252_%28C920_FMP%29%2C_Showbus_rally_2009.jpg 2x" data-file-width="1600" data-file-height="1200" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:West_Riding_Buses_bus_252_(C920_FMP),_Showbus_rally_2009.jpg" class="internal" title="Enlarge"></a></div>Preserved <a href="/wiki/Leyland_Lynx" title="Leyland Lynx">Leyland Lynx</a> in <a href="/wiki/West_Riding_Automobile_Company" title="West Riding Automobile Company">West Riding Buses</a> livery in September 2009</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Arriva_Yorkshire_Leyland_Olympian_610_at_Leeds.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arriva_Yorkshire_Leyland_Olympian_610_at_Leeds.jpg/220px-Arriva_Yorkshire_Leyland_Olympian_610_at_Leeds.jpg" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arriva_Yorkshire_Leyland_Olympian_610_at_Leeds.jpg/330px-Arriva_Yorkshire_Leyland_Olympian_610_at_Leeds.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Arriva_Yorkshire_Leyland_Olympian_610_at_Leeds.jpg/440px-Arriva_Yorkshire_Leyland_Olympian_610_at_Leeds.jpg 2x" data-file-width="1545" data-file-height="1030" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Arriva_Yorkshire_Leyland_Olympian_610_at_Leeds.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Eastern_Coach_Works" title="Eastern Coach Works">Eastern Coach Works</a> bodied <a href="/wiki/Leyland_Olympian" title="Leyland Olympian">Leyland Olympian</a> in <a href="/wiki/Leeds" title="Leeds">Leeds</a> in April 2006</div></div></div>
+<p>Arriva Yorkshire was formed as a combination of mergers of previous companies based in West and North Yorkshire.
+</p><p>In 1904 Yorkshire (West Riding) Electric Tramways began operating tram services in <a href="/wiki/Wakefield" title="Wakefield">Wakefield</a> followed in 1906 by <a href="/wiki/Castleford" title="Castleford">Castleford</a>. In November 1923 the West Riding Automobile Company began operating bus services in <a href="/wiki/West_Riding" class="mw-redirect" title="West Riding">West Riding</a>.<sup id="cite_ref-ArrivaHistory_2-0" class="reference"><a href="#cite_note-ArrivaHistory-2">&#91;2&#93;</a></sup>
+</p><p>Yorkshire Woollen District Transport<sup id="cite_ref-company2284553_3-0" class="reference"><a href="#cite_note-company2284553-3">&#91;3&#93;</a></sup> operated services around <a href="/wiki/Dewsbury" title="Dewsbury">Dewsbury</a>.<sup id="cite_ref-ArrivaHistory_2-1" class="reference"><a href="#cite_note-ArrivaHistory-2">&#91;2&#93;</a></sup>
+</p><p>Both companies were acquired by the <a href="/wiki/National_Bus_Company_(UK)" title="National Bus Company (UK)">National Bus Company</a>, along with Selby &amp; District<sup id="cite_ref-company2225132_4-0" class="reference"><a href="#cite_note-company2225132-4">&#91;4&#93;</a></sup> with the companies maintaining separate identities. In 1987 West Riding Automobile and Yorkshire Woollen District were sold in a <a href="/wiki/Management_buyout" title="Management buyout">management buyout</a> to Caldaire,<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> under whose ownership they traded as West Riding Buses and Yorkshire Buses respectively. In 1994 South Yorkshire Road Transport, based in <a href="/wiki/Pontefract" title="Pontefract">Pontefract</a>, was purchased.<sup id="cite_ref-ArrivaHistory_2-2" class="reference"><a href="#cite_note-ArrivaHistory-2">&#91;2&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> The four companies were taken over by <a href="/wiki/British_Bus" title="British Bus">British Bus</a> in 1995<sup id="cite_ref-ArrivaHistory_2-3" class="reference"><a href="#cite_note-ArrivaHistory-2">&#91;2&#93;</a></sup> which itself was purchased by <a href="/wiki/Arriva" title="Arriva">Cowie Group</a> in August 1996.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> All were rebranded under the Arriva brand in 1997.
+</p><p>Although Arriva Yorkshire trades as one entity, it is formed of three companies: Arriva Yorkshire West<sup id="cite_ref-company2284553_3-1" class="reference"><a href="#cite_note-company2284553-3">&#91;3&#93;</a></sup> (the former Yorkshire Woollen District company), Arriva Yorkshire<sup id="cite_ref-company84167_1-1" class="reference"><a href="#cite_note-company84167-1">&#91;1&#93;</a></sup> (the former West Riding and South Yorkshire Road Transport companies) and Arriva Yorkshire North<sup id="cite_ref-company2225132_4-1" class="reference"><a href="#cite_note-company2225132-4">&#91;4&#93;</a></sup> (the former Selby &amp; District company).
+</p><p>Since May 2008 there has been a sister company in <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>. <a href="/wiki/Yorkshire_Tiger" title="Yorkshire Tiger">Centrebus Holdings</a>, in which Arriva held a 40% stake, was formed when the Huddersfield operations of <a href="/wiki/Stagecoach_Yorkshire" title="Stagecoach Yorkshire">Stagecoach Yorkshire</a> was purchased along with the separate <a href="/wiki/Yorkshire_Tiger#Tiger_Blue" title="Yorkshire Tiger">K-Line</a> bus company.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> In September 2013, Arriva took full ownership of Centrebus Holdings and K-Line with the former rebranded <a href="/wiki/Yorkshire_Tiger" title="Yorkshire Tiger">Yorkshire Tiger</a> and the latter as <a href="/wiki/Yorkshire_Tiger#Tiger_Blue" title="Yorkshire Tiger">Tiger Blue</a>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Brands">Brands</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arriva_Yorkshire&amp;action=edit&amp;section=2" title="Edit section: Brands">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Arriva_Yorkshire_Bus_Number_1514.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Arriva_Yorkshire_Bus_Number_1514.jpg/220px-Arriva_Yorkshire_Bus_Number_1514.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Arriva_Yorkshire_Bus_Number_1514.jpg/330px-Arriva_Yorkshire_Bus_Number_1514.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Arriva_Yorkshire_Bus_Number_1514.jpg/440px-Arriva_Yorkshire_Bus_Number_1514.jpg 2x" data-file-width="5328" data-file-height="4000" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Arriva_Yorkshire_Bus_Number_1514.jpg" class="internal" title="Enlarge"></a></div>A MAX branded bus in <a href="/wiki/Wakefield" title="Wakefield">Wakefield</a></div></div></div>
+<p>Arriva Yorkshire uses several different brands to differentiate their services. <a href="/wiki/Arriva_Sapphire" title="Arriva Sapphire">Sapphire</a>,<sup id="cite_ref-:0_13-0" class="reference"><a href="#cite_note-:0-13">&#91;13&#93;</a></sup> a premium brand, uses buses fitted with E-leather seats, free WiFi access, charging points, and audible and visual stop announcements <sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>, as well as dedicated drivers for each route. <sup id="cite_ref-:0_13-1" class="reference"><a href="#cite_note-:0-13">&#91;13&#93;</a></sup> <a href="/wiki/Arriva_Max" title="Arriva Max">MAX</a> is similar to Sapphire, also using buses fitted with WiFi and E-leather seating.<sup id="cite_ref-:1_15-0" class="reference"><a href="#cite_note-:1-15">&#91;15&#93;</a></sup> In Yorkshire, routes 126 and 127, from Dewsbury to Wakefield, 202 and 203, from Dewsbury to Leeds, 268, Wakefield to Bradford, and 229, Huddersfield to Leeds are MAX branded,<sup id="cite_ref-:1_15-1" class="reference"><a href="#cite_note-:1-15">&#91;15&#93;</a></sup> whilst routes 110, from Hall Green and Wakefield to Leeds, 163 and 166, from Castleford to Leeds, and route 415, from Selby to York, are branded as Sapphire.
+</p><p>The third sub brand in use is Frequenta, which designates high frequency routes. Arriva Yorkshire currently use this on routes 148 and 149, running between Wakefield, Pontefract and Knottingley,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> with services running every 10 minutes.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discrimination">Discrimination</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arriva_Yorkshire&amp;action=edit&amp;section=3" title="Edit section: Discrimination">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A widely reported case in 2008 concerned a <a href="/wiki/Goth_subculture" title="Goth subculture">gothic</a> couple, Dani Graves and his fiancée Tasha Maltby, who wears a dog collar and lead.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> A driver had refused them travel and made comments to them, allegedly saying "We don't let freaks and dogs like you on."
+</p><p>Arriva Yorkshire has said "We take any allegations of discrimination very seriously" and is investigating the claims and the couple's complaints.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p><p>The company confirmed the couple were refused travel on two occasions due to "fears for passenger safety". In a statement the company addressed the issue, claiming that the dog lead was potentially dangerous. Arriva also said they would be writing to Mr Graves "to apologise for any distress caused by the way this matter was handled".<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Fleet">Fleet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arriva_Yorkshire&amp;action=edit&amp;section=4" title="Edit section: Fleet">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As of December 2017<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Arriva_Yorkshire&amp;action=edit">&#91;update&#93;</a></sup> the fleet consisted of 334 buses.<sup id="cite_ref-Fleetlist_21-0" class="reference"><a href="#cite_note-Fleetlist-21">&#91;21&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Depots">Depots</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arriva_Yorkshire&amp;action=edit&amp;section=5" title="Edit section: Depots">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Arriva Yorkshire operate five depots in <a href="/wiki/Castleford" title="Castleford">Castleford</a>, <a href="/wiki/Dewsbury" title="Dewsbury">Dewsbury</a>, <a href="/wiki/Heckmondwike" title="Heckmondwike">Heckmondwike</a>, <a href="/wiki/Selby" title="Selby">Selby</a> and <a href="/wiki/Wakefield" title="Wakefield">Wakefield</a>.<sup id="cite_ref-Fleetlist_21-1" class="reference"><a href="#cite_note-Fleetlist-21">&#91;21&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arriva_Yorkshire&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-company84167-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-company84167_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-company84167_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://data.companieshouse.gov.uk/doc/company/00084167">Companies House extract company no 84167</a> Arriva Yorkshire Limited formerly West Riding Automobile Company Limited</span>
+</li>
+<li id="cite_note-ArrivaHistory-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-ArrivaHistory_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ArrivaHistory_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ArrivaHistory_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ArrivaHistory_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.arrivabus.co.uk/content.aspx?id=796">Arriva Yorkshire History</a> Arriva</span>
+</li>
+<li id="cite_note-company2284553-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-company2284553_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-company2284553_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://data.companieshouse.gov.uk/doc/company/02284553">Companies House extract company no 2284553</a> Arriva Yorkshire West Limited formerly Yorkshire Woollen District Transport Company Limited</span>
+</li>
+<li id="cite_note-company2225132-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-company2225132_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-company2225132_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://data.companieshouse.gov.uk/doc/company/02225132">Companies House extract company no 2225132</a> Arriva Yorkshire North Limited formerly Selby &amp; District Bus Company Limited</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://data.companieshouse.gov.uk/doc/company/02066896">Companies House extract company no 2066896</a> Yorkshire Bus Holdings Limited formerly Caldaire Holdings Limited</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://data.companieshouse.gov.uk/doc/company/01090790">Companies House extract company no 1090790</a> Arriva Yorkshire South Limited formerly South Yorkshire Road Transport Limited</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://webarchive.nationalarchives.gov.uk/20120119162530/http://www.competition-commission.org.uk/rep_pub/reports/1997/396cowie.htm">Cowie Group plc and British Bus Group Limited: A report on the merger situation</a> Competition Commission 31 October 1996</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://webarchive.nationalarchives.gov.uk/20120119203901/http://www.competition-commission.org.uk/rep_pub/reports/1997/fulltext/396a3.4.pdf">Principal operating subsidiaries of British Bus</a> Competition Commission 1997</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/news/express-and-chronicle/2008/05/03/stagecoach-operation-is-sold-but-not-to-arriva-86081-20874542/">Stagecoach operation is sold - but not to Arriva</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120320044050/http://www.examiner.co.uk/news/express-and-chronicle/2008/05/03/stagecoach-operation-is-sold-but-not-to-arriva-86081-20874542/">Archived</a> 20 March 2012 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <i><a href="/wiki/Huddersfield_Daily_Examiner" title="Huddersfield Daily Examiner">Huddersfield Daily Examiner</a></i> 3 May 2008</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.arriva.co.uk/media_centre/press_releases/2013/september/130909-centrebus.aspx?sc_lang=en">Centrebus (Holdings) Limited</a> Arriva 9 September 2013</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.busandcoach.com/newspage.aspx?id=7964&amp;categoryid=0">Arriva takes joint venture control</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131022222314/http://www.busandcoach.com/newspage.aspx?id=7964&amp;categoryid=0">Archived</a> 22 October 2013 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <i>Bus &amp; Coach Professional</i> 12 September 2013</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.busandcoach.com/newspage.aspx?id=8060&amp;categoryid=0">Arriva unleases its Yorkshire Tiger</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131018015813/http://www.busandcoach.com/newspage.aspx?id=8060&amp;categoryid=0">Archived</a> 18 October 2013 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <i>Bus &amp; Coach Professional</i> 9 October 2013</span>
+</li>
+<li id="cite_note-:0-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Cole, David (21 April 2015). <a rel="nofollow" class="external text" href="https://www.busandcoachbuyer.com/sparkling-leeds/">"Sparkling in Leeds"</a>. <i>Bus &amp; Coach Buyer</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190515155055/https://www.busandcoachbuyer.com/sparkling-leeds/">Archived</a> from the original on 15 May 2019.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bus+%26+Coach+Buyer&amp;rft.atitle=Sparkling+in+Leeds&amp;rft.date=2015-04-21&amp;rft.aulast=Cole&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fwww.busandcoachbuyer.com%2Fsparkling-leeds%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArriva+Yorkshire" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.arrivabus.co.uk/about-us/sapphire/a-new-way-to-travel/">"A new way to travel"</a>. <i>Arriva</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190515160840/https://www.arrivabus.co.uk/about-us/sapphire/a-new-way-to-travel/">Archived</a> from the original on 15 May 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Arriva&amp;rft.atitle=A+new+way+to+travel&amp;rft_id=https%3A%2F%2Fwww.arrivabus.co.uk%2Fabout-us%2Fsapphire%2Fa-new-way-to-travel%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArriva+Yorkshire" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-:1-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.arrivabus.co.uk/about-us/max--new-inter-urban-express-services-from-arriva/">"MAX – new inter-urban express services from Arriva"</a>. <i>Arriva</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190515160127/https://www.arrivabus.co.uk/about-us/max--new-inter-urban-express-services-from-arriva/">Archived</a> from the original on 15 May 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Arriva&amp;rft.atitle=MAX+%E2%80%93+new+inter-urban+express+services+from+Arriva&amp;rft_id=https%3A%2F%2Fwww.arrivabus.co.uk%2Fabout-us%2Fmax--new-inter-urban-express-services-from-arriva%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArriva+Yorkshire" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190515154621/https://www.arrivabus.co.uk/yorkshire/Latest/introducing-frequenta--beyond/">"148/149 goes Frequenta!"</a>. <i>Arriva in Yorkshire</i>. 9 November 2016. Archived from <a rel="nofollow" class="external text" href="https://www.arrivabus.co.uk/yorkshire/Latest/introducing-frequenta--beyond/">the original</a> on 15 May 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Arriva+in+Yorkshire&amp;rft.atitle=148%2F149+goes+Frequenta%21&amp;rft.date=2016-11-09&amp;rft_id=https%3A%2F%2Fwww.arrivabus.co.uk%2Fyorkshire%2FLatest%2Fintroducing-frequenta--beyond%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArriva+Yorkshire" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.arrivabus.co.uk/yorkshire/services/148-148a-149---frequenta---wakefield-to-knottingley/?direction=outbound">"FREQUENTA - Wakefield to Knottingley"</a>. <i>Arriva Yorkshire</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190515155727/https://www.arrivabus.co.uk/yorkshire/services/148-148a-149---frequenta---wakefield-to-knottingley/?direction=outbound">Archived</a> from the original on 15 May 2019<span class="reference-accessdate">. Retrieved <span class="nowrap">15 May</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Arriva+Yorkshire&amp;rft.atitle=FREQUENTA+-+Wakefield+to+Knottingley&amp;rft_id=https%3A%2F%2Fwww.arrivabus.co.uk%2Fyorkshire%2Fservices%2F148-148a-149---frequenta---wakefield-to-knottingley%2F%3Fdirection%3Doutbound&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArriva+Yorkshire" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.mirfieldreporter.co.uk/news/Get-off-my-bus-.4134447.jp"><i>Get off my bus - I'm sick of single mums</i></a>, Mirfield Reporter, 31 May 2008</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Get+off+my+bus+-+I%27m+sick+of+single+mums&amp;rft.pub=Mirfield+Reporter&amp;rft.date=2008-05-31&amp;rft_id=http%3A%2F%2Fwww.mirfieldreporter.co.uk%2Fnews%2FGet-off-my-bus-.4134447.jp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArriva+Yorkshire" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">
+<cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dailymail.co.uk/news/article-509713/Im-human-pet-The-Goth-teenager-fiance-walks-dog-lead.html">"<span class="cs1-kern-left">'</span>I'm a human pet': The Goth teenager whose fiance walks her around on a dog lead"</a>. Daily Mail. 23 January 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">27 September</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%27I%27m+a+human+pet%27%3A+The+Goth+teenager+whose+fiance+walks+her+around+on+a+dog+lead&amp;rft.pub=Daily+Mail&amp;rft.date=2008-01-23&amp;rft_id=http%3A%2F%2Fwww.dailymail.co.uk%2Fnews%2Farticle-509713%2FIm-human-pet-The-Goth-teenager-fiance-walks-dog-lead.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArriva+Yorkshire" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">
+<cite class="citation web"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/england/bradford/7204543.stm">"Dog-lead goths 'hounded off bus<span class="cs1-kern-right">'</span>"</a>. BBC News. 23 January 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">27 September</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dog-lead+goths+%27hounded+off+bus%27&amp;rft.pub=BBC+News&amp;rft.date=2008-01-23&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fengland%2Fbradford%2F7204543.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArriva+Yorkshire" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Fleetlist-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-Fleetlist_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Fleetlist_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://nebula.wsimg.com/2b4f5cedfc8c6dbe397445c2681a2b1e?AccessKeyId=8B7A174C4DD908996CD8&amp;disposition=0&amp;alloworigin=1">"Arriva Yorkshire"</a>. Sheffield Omnibus Enthusiasts Society. 17 November 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">13 December</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Arriva+Yorkshire&amp;rft.pub=Sheffield+Omnibus+Enthusiasts+Society&amp;rft.date=2017-11-17&amp;rft_id=http%3A%2F%2Fnebula.wsimg.com%2F2b4f5cedfc8c6dbe397445c2681a2b1e%3FAccessKeyId%3D8B7A174C4DD908996CD8%26disposition%3D0%26alloworigin%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AArriva+Yorkshire" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Arriva_Yorkshire&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Arriva_Yorkshire" class="extiw" title="commons:Category:Arriva Yorkshire">Arriva Yorkshire</a> at Wikimedia Commons</li>
+<li><a rel="nofollow" class="external text" href="http://www.arrivabus.co.uk/Yorkshire/">Company website</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Arriva" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Arriva_Group_UK" title="Template:Arriva Group UK"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Arriva_Group_UK&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Arriva Group UK (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Arriva_Group_UK&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Arriva" style="font-size:114%;margin:0 4em"><a href="/wiki/Arriva" title="Arriva">Arriva</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arriva_UK_Bus" title="Arriva UK Bus">UK Bus</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arriva_Buses_Wales" title="Arriva Buses Wales">Arriva Buses Wales</a></li>
+<li><a href="/wiki/Arriva_London" title="Arriva London">Arriva London</a>
+<ul><li><a href="/wiki/Arriva_London#The_Heritage_Fleet" title="Arriva London">The Heritage Fleet</a></li></ul></li>
+<li><a href="/wiki/Arriva_Midlands" title="Arriva Midlands">Arriva Midlands</a>
+<ul><li><a href="/wiki/Arriva_Derby" title="Arriva Derby">Arriva Derby</a></li>
+<li><a href="/wiki/Arriva_Fox_County" title="Arriva Fox County">Arriva Fox County</a></li>
+<li><a href="/wiki/Arriva_Midlands#Arriva_Midlands_North" title="Arriva Midlands">Arriva Midlands North</a></li></ul></li>
+<li><a href="/wiki/Arriva_North_East" title="Arriva North East">Arriva North East</a></li>
+<li><a href="/wiki/Arriva_North_West" title="Arriva North West">Arriva North West</a></li>
+<li><a href="/wiki/Arriva_Shires_%26_Essex" title="Arriva Shires &amp; Essex">Arriva Shires &amp; Essex</a></li>
+<li><a href="/wiki/Arriva_Southern_Counties" title="Arriva Southern Counties">Arriva Southern Counties</a>
+<ul><li><a href="/wiki/Arriva_Colchester" title="Arriva Colchester">Arriva Colchester</a></li>
+<li><a href="/wiki/Arriva_Guildford_%26_West_Surrey" title="Arriva Guildford &amp; West Surrey">Arriva Guildford &amp; West Surrey</a></li>
+<li><a href="/wiki/Arriva_Kent_Thameside" title="Arriva Kent Thameside">Arriva Kent Thameside</a></li>
+<li><a href="/wiki/Arriva_Southend" title="Arriva Southend">Arriva Southend</a></li>
+<li><a href="/wiki/Fastrack_(bus)" title="Fastrack (bus)">Fastrack</a></li></ul></li>
+<li><a class="mw-selflink selflink">Arriva Yorkshire</a></li>
+<li><a href="/wiki/Yorkshire_Tiger" title="Yorkshire Tiger">Yorkshire Tiger</a>
+<ul><li><a href="/wiki/Yorkshire_Tiger#Tiger_Blue" title="Yorkshire Tiger">Tiger Blue</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arriva_UK_Bus" title="Arriva UK Bus">UK bus brands</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/ArrivaClick" title="ArrivaClick">ArrivaClick</a></li>
+<li><a href="/wiki/Arriva_Max" title="Arriva Max">Arriva Max</a></li>
+<li><a href="/wiki/Arriva_Sapphire" title="Arriva Sapphire">Arriva Sapphire</a></li>
+<li><a href="/wiki/Green_Line_Coaches" title="Green Line Coaches">Green Line Coaches</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Arriva_UK_Trains" title="Arriva UK Trains">UK Trains</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alliance_Rail_Holdings" title="Alliance Rail Holdings">Alliance Rail Holdings</a></li>
+<li><a href="/wiki/Arriva_Rail_London" title="Arriva Rail London">Arriva Rail London</a></li>
+<li><a href="/wiki/Arriva_TrainCare" title="Arriva TrainCare">Arriva TrainCare</a></li>
+<li><a href="/wiki/Chiltern_Railways" title="Chiltern Railways">Chiltern Railways</a></li>
+<li><a href="/wiki/CrossCountry" title="CrossCountry">CrossCountry</a></li>
+<li><a href="/wiki/Grand_Central_(train_operating_company)" title="Grand Central (train operating company)">Grand Central</a></li>
+<li><a href="/wiki/Northern_(train_operating_company)" title="Northern (train operating company)">Northern</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">European operations</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arriva_RP" title="Arriva RP">Arriva RP</a></li>
+<li><a href="/wiki/ASF_Autolinee" title="ASF Autolinee">ASF Autolinee</a> <small>(25%)</small></li>
+<li><a href="/wiki/NoordNed" title="NoordNed">NoordNed</a>
+<ul><li><a href="/wiki/Spurt_(Dutch_Railways)" title="Spurt (Dutch Railways)">Spurt</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former operations</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Netinera" title="Netinera">Arriva Deutschland</a>
+<ul><li><a href="/wiki/Osthannoversche_Eisenbahnen" class="mw-redirect" title="Osthannoversche Eisenbahnen">Osthannoversche Eisenbahnen</a></li>
+<li><a href="/wiki/Die_L%C3%A4nderbahn" title="Die Länderbahn">Vogtlandbahn</a></li></ul></li>
+<li><a href="/wiki/Buses_in_Malta#Arriva_(2011–2013)" title="Buses in Malta">Arriva Malta</a></li>
+<li><a href="/wiki/Arriva_North_West_%26_Wales" class="mw-redirect" title="Arriva North West &amp; Wales">Arriva North West &amp; Wales</a></li>
+<li><a href="/wiki/Arriva_Northumbria" title="Arriva Northumbria">Arriva Northumbria</a></li>
+<li><a href="/wiki/Arriva_Scotland_West" title="Arriva Scotland West">Arriva Scotland West</a></li>
+<li><a href="/wiki/Arriva_Trains_Merseyside" title="Arriva Trains Merseyside">Arriva Trains Merseyside</a></li>
+<li><a href="/wiki/Arriva_Trains_Northern" title="Arriva Trains Northern">Arriva Trains Northern</a></li>
+<li><a href="/wiki/Arriva_Trains_Wales" title="Arriva Trains Wales">Arriva Trains Wales</a></li>
+<li><a href="/wiki/British_Bus" title="British Bus">British Bus</a>
+<ul><li><a href="/wiki/London_Country_South_West" title="London Country South West">London &amp; Country</a></li>
+<li><a href="/wiki/London_Country_South_East" title="London Country South East">Londonlinks</a></li>
+<li><a href="/wiki/Maidstone_%26_District_Motor_Services" title="Maidstone &amp; District Motor Services">Maidstone &amp; District Motor Services</a></li>
+<li><a href="/wiki/North_Western_Road_Car_Company_(1986)" title="North Western Road Car Company (1986)">North Western Road Car Company</a></li>
+<li><a href="/wiki/Stevensons_of_Uttoxeter" title="Stevensons of Uttoxeter">Stevensons of Uttoxeter</a></li></ul></li>
+<li><a href="/wiki/Glasgow_Flyer" title="Glasgow Flyer">Glasgow Flyer</a></li>
+<li><a href="/wiki/Grey-Green" title="Grey-Green">Grey-Green</a></li>
+<li><a href="/wiki/London_Overground_Rail_Operations" title="London Overground Rail Operations">London Overground Rail Operations</a> <small>(50%)</small></li>
+<li><a href="/wiki/New_Enterprise_Coaches" title="New Enterprise Coaches">New Enterprise Coaches</a></li>
+<li><a href="/wiki/Tellings-Golden_Miller" title="Tellings-Golden Miller">Tellings-Golden Miller</a></li>
+<li><a href="/wiki/The_Original_Tour" title="The Original Tour">The Original Tour</a></li>
+<li><a href="/wiki/Wardle_Transport" title="Wardle Transport">Wardle Transport</a></li>
+<li><a href="/wiki/Wrexham_%26_Shropshire" title="Wrexham &amp; Shropshire">Wrexham &amp; Shropshire</a> <small>(50%)</small></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Bus_operators_in_Yorkshire_and_the_Humber" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Bus_companies_in_Yorkshire" title="Template:Bus companies in Yorkshire"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Bus_companies_in_Yorkshire" title="Template talk:Bus companies in Yorkshire"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Bus_companies_in_Yorkshire&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Bus_operators_in_Yorkshire_and_the_Humber" style="font-size:114%;margin:0 4em">Bus operators in <a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire and the Humber</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/East_Yorkshire_(bus_company)" title="East Yorkshire (bus company)">East Yorkshire</a></li>
+<li><a href="/wiki/Stagecoach_in_Hull" title="Stagecoach in Hull">Stagecoach in Hull</a></li>
+<li><a href="/wiki/Yorkshire_Coastliner" class="mw-redirect" title="Yorkshire Coastliner">Yorkshire Coastliner</a></li></ul>
+</div></td><td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:EnglandYorkshireHumber.png" class="image" title="Yorkshire and the Humber"><img alt="Yorkshire and the Humber" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/EnglandYorkshireHumber.png/100px-EnglandYorkshireHumber.png" decoding="async" width="100" height="124" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/EnglandYorkshireHumber.png/150px-EnglandYorkshireHumber.png 1.5x, //upload.wikimedia.org/wikipedia/commons/d/dd/EnglandYorkshireHumber.png 2x" data-file-width="200" data-file-height="247" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/North_Lincolnshire" title="North Lincolnshire">North Lincolnshire</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Stagecoach_Grimsby-Cleethorpes" title="Stagecoach Grimsby-Cleethorpes">Stagecoach Grimsby-Cleethorpes</a></li>
+<li><a href="/wiki/Stagecoach_in_Lincolnshire" title="Stagecoach in Lincolnshire">Stagecoach in Lincolnshire</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Arriva Yorkshire</a></li>
+<li><a href="/wiki/Connexionsbuses" title="Connexionsbuses">Connexionsbuses</a></li>
+<li><a href="/wiki/Dales_%26_District" title="Dales &amp; District">Dales &amp; District</a></li>
+<li><a href="/wiki/First_York" title="First York">First York</a> (<a href="/wiki/York_park_and_ride" title="York park and ride">York park and ride</a>)</li>
+<li><a href="/wiki/Harrogate_Bus_Company" title="Harrogate Bus Company">Harrogate Bus Company</a></li>
+<li><a href="/wiki/Transdev_York" class="mw-redirect" title="Transdev York">Transdev York</a></li>
+<li><a href="/wiki/York_Pullman" title="York Pullman">York Pullman</a></li>
+<li><a href="/wiki/Yorkshire_Coastliner" class="mw-redirect" title="Yorkshire Coastliner">Yorkshire Coastliner</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/South_Yorkshire" title="South Yorkshire">South Yorkshire</a> (<a href="/wiki/South_Yorkshire_Passenger_Transport_Executive" title="South Yorkshire Passenger Transport Executive">PTE</a>)</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Arriva Yorkshire</a></li>
+<li><a href="/wiki/First_South_Yorkshire" title="First South Yorkshire">First South Yorkshire</a></li>
+<li><a href="/wiki/Sheffield_Community_Transport" title="Sheffield Community Transport">Sheffield Community Transport</a></li>
+<li><a href="/wiki/Stagecoach_Yorkshire" title="Stagecoach Yorkshire">Stagecoach Yorkshire</a>
+<ul><li><a href="/wiki/Stagecoach_Sheffield" title="Stagecoach Sheffield">Stagecoach Sheffield</a></li></ul></li>
+<li><a href="/wiki/TM_Travel" title="TM Travel">TM Travel</a></li>
+<li><a href="/wiki/Wilfreda_Beehive" title="Wilfreda Beehive">Wilfreda Beehive</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a> (<a href="/wiki/West_Yorkshire_Metro" title="West Yorkshire Metro">PTE</a>)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Arriva Yorkshire</a></li>
+<li><a href="/wiki/First_West_Yorkshire" title="First West Yorkshire">First West Yorkshire</a>
+<ul><li><a href="/wiki/First_Bradford" title="First Bradford">First Bradford</a></li>
+<li><a href="/wiki/First_Calderdale_%26_Huddersfield" title="First Calderdale &amp; Huddersfield">First Calderdale &amp; Huddersfield</a></li>
+<li><a href="/wiki/First_Leeds" title="First Leeds">First Leeds</a></li></ul></li>
+<li><a href="/wiki/Harrogate_Bus_Company" title="Harrogate Bus Company">Harrogate Bus Company</a></li>
+<li><a href="/wiki/Keighley_Bus_Company" title="Keighley Bus Company">Keighley Bus Company</a></li>
+<li><a href="/wiki/Stotts_Coaches" title="Stotts Coaches">Stotts Coaches</a></li>
+<li><a href="/wiki/TLC_Travel" title="TLC Travel">TLC Travel</a></li>
+<li><a href="/wiki/Yorkshire_Coastliner" class="mw-redirect" title="Yorkshire Coastliner">Yorkshire Coastliner</a></li>
+<li><a href="/wiki/Yorkshire_Tiger" title="Yorkshire Tiger">Yorkshire Tiger</a>
+<ul><li><a href="/wiki/Yorkshire_Tiger#Tiger_Blue" title="Yorkshire Tiger">Tiger Blue</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/England" title="England">National</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Megabus_(Europe)" title="Megabus (Europe)">Megabus</a></li>
+<li><a href="/wiki/National_Express_Coaches" title="National Express Coaches">National Express</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1252
+Cached time: 20190925023153
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.460 seconds
+Real time usage: 0.619 seconds
+Preprocessor visited node count: 1352/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 47103/2097152 bytes
+Template argument size: 1229/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 34956/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.193/10.000 seconds
+Lua memory usage: 4.36 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  495.879      1 -total
+ 46.40%  230.092      1 Template:Reflist
+ 21.41%  106.185      1 Template:Cite_news
+ 10.44%   51.785      1 Template:Infobox_Bus_transit
+ 10.22%   50.670      1 Template:Commons_category-inline
+  9.72%   48.194      1 Template:Short_description
+  9.02%   44.741      7 Template:Cite_web
+  8.98%   44.521      1 Template:Infobox
+  8.90%   44.127      1 Template:Pagetype
+  8.19%   40.597      1 Template:Sister-inline
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3405495-0!canonical and timestamp 20190925023153 and revision id 915278422
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Arriva_Yorkshire&amp;oldid=915278422">https://en.wikipedia.org/w/index.php?title=Arriva_Yorkshire&amp;oldid=915278422</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Arriva_Group_bus_operators_in_England" title="Category:Arriva Group bus operators in England">Arriva Group bus operators in England</a></li><li><a href="/wiki/Category:Bus_operators_in_South_Yorkshire" title="Category:Bus operators in South Yorkshire">Bus operators in South Yorkshire</a></li><li><a href="/wiki/Category:Bus_operators_in_the_East_Riding_of_Yorkshire" title="Category:Bus operators in the East Riding of Yorkshire">Bus operators in the East Riding of Yorkshire</a></li><li><a href="/wiki/Category:Bus_operators_in_West_Yorkshire" title="Category:Bus operators in West Yorkshire">Bus operators in West Yorkshire</a></li><li><a href="/wiki/Category:Companies_based_in_Wakefield" title="Category:Companies based in Wakefield">Companies based in Wakefield</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_March_2016" title="Category:Use dmy dates from March 2016">Use dmy dates from March 2016</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_December_2017" title="Category:Articles containing potentially dated statements from December 2017">Articles containing potentially dated statements from December 2017</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Arriva+Yorkshire" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Arriva+Yorkshire" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Arriva_Yorkshire" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Arriva_Yorkshire" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Arriva_Yorkshire">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Arriva_Yorkshire&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Arriva_Yorkshire&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Arriva_Yorkshire" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Arriva_Yorkshire" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Arriva_Yorkshire&amp;oldid=915278422" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Arriva_Yorkshire&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4796024" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Arriva_Yorkshire&amp;id=915278422" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Arriva_Yorkshire" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Arriva+Yorkshire">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Arriva+Yorkshire&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Arriva_Yorkshire&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4796024#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 12 September 2019, at 08:03<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Arriva_Yorkshire&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.460","walltime":"0.619","ppvisitednodes":{"value":1352,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":47103,"limit":2097152},"templateargumentsize":{"value":1229,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":34956,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  495.879      1 -total"," 46.40%  230.092      1 Template:Reflist"," 21.41%  106.185      1 Template:Cite_news"," 10.44%   51.785      1 Template:Infobox_Bus_transit"," 10.22%   50.670      1 Template:Commons_category-inline","  9.72%   48.194      1 Template:Short_description","  9.02%   44.741      7 Template:Cite_web","  8.98%   44.521      1 Template:Infobox","  8.90%   44.127      1 Template:Pagetype","  8.19%   40.597      1 Template:Sister-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.193","limit":"10.000"},"limitreport-memusage":{"value":4566761,"limit":52428800}},"cachereport":{"origin":"mw1252","timestamp":"20190925023153","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Arriva Yorkshire","url":"https:\/\/en.wikipedia.org\/wiki\/Arriva_Yorkshire","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4796024","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4796024","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-12-13T09:53:00Z","dateModified":"2019-09-12T08:03:41Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f6\/Arriva_Yorkshire_1913_YJ58_FHP.jpg","headline":"Bus operator in Yorkshire"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":808,"wgHostname":"mw1252"});});</script>
+</body>
+</html>
+

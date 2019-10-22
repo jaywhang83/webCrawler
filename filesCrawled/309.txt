@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Naming conventions of ancient Tamil country - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Naming_conventions_of_ancient_Tamil_country","wgTitle":"Naming conventions of ancient Tamil country","wgCurRevisionId":883247732,"wgRevisionId":883247732,"wgArticleId":41273697,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: multiple names: authors list","Names by culture","Tamil history","Naming conventions","Tamilakam"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":
+"Naming_conventions_of_ancient_Tamil_country","wgRelevantArticleId":41273697,"wgRequestId":"XY6@SgpAMFkAAGbu99kAAACI","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q17072177","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready",
+"user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/4e/Thanjavur_temple.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Naming_conventions_of_ancient_Tamil_country"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Naming_conventions_of_ancient_Tamil_country"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Naming_conventions_of_ancient_Tamil_country rootpage-Naming_conventions_of_ancient_Tamil_country skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Naming conventions of ancient Tamil country</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;background:lightyellow; text-align:center"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of a <a href="/wiki/Category:History_of_Tamil_Nadu" title="Category:History of Tamil Nadu">series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;padding:0 5px; background:#fff0a8&#32;; font-size:135%"><b><a href="/wiki/History_of_Tamil_Nadu" title="History of Tamil Nadu">History of Tamil Nadu</a></b></th></tr><tr><td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Thanjavur_temple.jpg" class="image"><img alt="Thanjavur temple.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Thanjavur_temple.jpg/135px-Thanjavur_temple.jpg" decoding="async" width="135" height="205" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Thanjavur_temple.jpg/203px-Thanjavur_temple.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Thanjavur_temple.jpg/270px-Thanjavur_temple.jpg 2x" data-file-width="396" data-file-height="600" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center; font-size: 100%; background-color: #fff0a8">Main</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Tami%E1%B8%BBakam" class="mw-redirect" title="Tamiḻakam">Tamiḻakam</a></li>
+<li><a href="/wiki/Chronology_of_Tamil_history" title="Chronology of Tamil history">Chronology of Tamil history</a></li>
+<li><a href="/wiki/List_of_Tamil_monarchs" title="List of Tamil monarchs">List of Tamil monarchs</a></li>
+<li><a href="/wiki/Wootz_steel" title="Wootz steel">Wootz steel</a></li>
+<li><a href="/wiki/Indian_Ocean_trade" title="Indian Ocean trade">Maritime contacts</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center; font-size: 100%; background-color: #fff0a8"><a href="/wiki/Sangam_period" title="Sangam period">Sangam period</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Sources_of_ancient_Tamil_history" title="Sources of ancient Tamil history">Sources</a></li>
+<li><a href="/wiki/Three_Crowned_Kings" title="Three Crowned Kings">Three Crowned Kings</a></li>
+<li><a href="/wiki/Education_in_ancient_Tamil_country" title="Education in ancient Tamil country">Education</a></li>
+<li><a href="/wiki/Legal_system_of_ancient_Tamil_country" title="Legal system of ancient Tamil country">Legal system</a></li>
+<li><a class="mw-selflink selflink">Naming conventions</a></li>
+<li><a href="/wiki/Early_Pandyan_Government" title="Early Pandyan Government">Government</a></li>
+<li><a href="/wiki/Economy_of_ancient_Tamil_country" title="Economy of ancient Tamil country">Economy</a></li>
+<li><a href="/wiki/Early_Pandyan_Society" title="Early Pandyan Society">Society</a></li>
+<li><a href="/wiki/Ancient_Tamil_religion" class="mw-redirect" title="Ancient Tamil religion">Religion</a></li>
+<li><a href="/wiki/Ancient_Tamil_music" title="Ancient Tamil music">Music</a></li>
+<li><a href="/wiki/Early_Pandyan_Kingdom" title="Early Pandyan Kingdom">Early Pandyas</a></li>
+<li><a href="/wiki/Early_Cheras" class="mw-redirect" title="Early Cheras">Early Cheras</a></li>
+<li><a href="/wiki/Early_Cholas" title="Early Cholas">Early Cholas</a></li>
+<li><a href="/wiki/Velirs" class="mw-redirect" title="Velirs">Velirs</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center; font-size: 100%; background-color: #fff0a8">Medieval history</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Kalabhra_dynasty" title="Kalabhra dynasty">Kalabhra Empire</a></li>
+<li><a href="/wiki/Pallava_Empire" class="mw-redirect" title="Pallava Empire">Pallava Empire</a></li>
+<li><a href="/wiki/Pandyan_Empire" class="mw-redirect" title="Pandyan Empire">Pandyan Empire</a></li>
+<li><a href="/wiki/Chola_Empire" class="mw-redirect" title="Chola Empire">Chola Empire</a></li>
+<li><a href="/wiki/Chera_Kingdom" class="mw-redirect" title="Chera Kingdom">Chera Kingdom</a></li>
+<li><a href="/wiki/Madurai_Sultanate" title="Madurai Sultanate">Madurai Sultanate</a></li>
+<li><a href="/wiki/Vijayanagara_Empire" title="Vijayanagara Empire">Vijayanagara Empire</a></li>
+<li><a href="/wiki/Madurai_Nayaks" class="mw-redirect" title="Madurai Nayaks">Madurai Nayaks</a></li>
+<li><a href="/wiki/Tanjore_Nayaks" class="mw-redirect" title="Tanjore Nayaks">Tanjore Nayaks</a></li>
+<li><a href="/wiki/Nayaks_of_Kalahasti" title="Nayaks of Kalahasti">Kalahasti Nayaks</a></li>
+<li><a href="/wiki/Gingee_Nayaks" class="mw-redirect" title="Gingee Nayaks">Gingee Nayaks</a></li>
+<li><a href="/wiki/Thondaiman" class="mw-redirect" title="Thondaiman">Thondaiman Kingdom</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;text-align: center; font-size: 100%; background-color: #fff0a8">Categories</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><a href="/wiki/Category:Ancient_Tamil_Nadu" title="Category:Ancient Tamil Nadu">Ancient Tamil Nadu</a></li>
+<li><a href="/wiki/Category:Tamil_architecture" title="Category:Tamil architecture">Architecture</a></li>
+<li><a href="/wiki/Category:Cultural_history_of_Tamil_Nadu" title="Category:Cultural history of Tamil Nadu">Culture</a></li>
+<li><a href="/wiki/Category:Economic_history_of_Tamil_Nadu" title="Category:Economic history of Tamil Nadu">Economies</a></li>
+<li><a href="/wiki/Category:Archaeological_monuments_in_Tamil_Nadu" title="Category:Archaeological monuments in Tamil Nadu">Monuments</a></li>
+<li><a href="/wiki/Category:Tamil_inscriptions" title="Category:Tamil inscriptions">Inscriptions</a></li>
+<li><a href="/wiki/Category:Forts_in_Tamil_Nadu" title="Category:Forts in Tamil Nadu">Forts</a></li>
+<li><a href="/wiki/Category:Archaeological_sites_in_Tamil_Nadu" title="Category:Archaeological sites in Tamil Nadu">Ancient sites</a></li></ul>
+</div></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:TNhistory" title="Template:TNhistory"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:TNhistory" title="Template talk:TNhistory"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:TNhistory&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Naming conventions of the <a href="/wiki/Tamilakam" title="Tamilakam">Tamilakam</a></b> in the <a href="/wiki/Sangam_literature" title="Sangam literature">Sangam literature</a> have been one of the foremost concerns of <a href="/wiki/Tamilology" title="Tamilology">Tamilology</a>. <i>The Surnames of the Caṅkam Age: Literary &amp; Tribal</i>, published in 1968 sought to offer one of the earliest treatments in this area.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Tolkappiyam_classifications"><span class="tocnumber">2</span> <span class="toctext"><i>Tolkappiyam</i> classifications</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Wilden_classifications"><span class="tocnumber">3</span> <span class="toctext"><i>Wilden</i> classifications</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Tantaipeyar"><span class="tocnumber">4</span> <span class="toctext"><i>Tantaipeyar</i></span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Fives_parts_of_a_name"><span class="tocnumber">5</span> <span class="toctext">Fives parts of a name</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Dynastic_name"><span class="tocnumber">5.1</span> <span class="toctext">Dynastic name</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Titles"><span class="tocnumber">5.2</span> <span class="toctext">Titles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Bibliography"><span class="tocnumber">7.1</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Cankam literature is thematically divided into <a href="/wiki/Akam_(poetry)" title="Akam (poetry)">akam</a> and <a href="/wiki/Puram" title="Puram">puram</a>. The poets worked under a convention of anonymity, not exposing the names of the heroes, heroines and friends in their poems, particularly in the former, in order to underline the universality of the feelings expressed in their poetry.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Tolkappiyam_classifications"><i>Tolkappiyam</i> classifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;action=edit&amp;section=2" title="Edit section: Tolkappiyam classifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <i><a href="/wiki/Tolk%C4%81ppiyam" title="Tolkāppiyam">Tolkāppiyam</a></i> identifies ten categories of names. An̲n̲i Mirutalakumāri Tāmacu claims to have completely revealed the basis on which the Tamils adopted their names.<sup id="cite_ref-FOOTNOTETāmacu20034_2-0" class="reference"><a href="#cite_note-FOOTNOTETāmacu20034-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Wilden_classifications"><i>Wilden</i> classifications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;action=edit&amp;section=3" title="Edit section: Wilden classifications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Eva Wildern identifies four types of names found in the <a href="/wiki/Sangam_literature" title="Sangam literature">Sangam literature</a>: proper names, proper names connected with a name of a place or a dynasty, proper names with epithets and imagery names.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> This convention was codified in the <i> Tolkāppiyam</i>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Tantaipeyar"><i>Tantaipeyar</i></span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;action=edit&amp;section=4" title="Edit section: Tantaipeyar">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>This tradition involves firstly having the father's name followed by one's own name. This system was carried even into the medieval period.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Examples include <i>cēramān</i>, meaning "son of <a href="/wiki/Chera_dynasty" title="Chera dynasty">Chera</a>" composed of <i>cēra</i> and <i>makan</i>, or <i>vēlmān</i>, meaning "son of Vel" composed of <i>vēl</i> and <i>makan</i>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Fives_parts_of_a_name">Fives parts of a name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;action=edit&amp;section=5" title="Edit section: Fives parts of a name">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The convention is remains that dynastic name is followed by the proper name. However, in the case of distinguished persons, there may be up to five parts to it.
+</p><p><a href="/wiki/Parimelazhagar" class="mw-redirect" title="Parimelazhagar">Parimelazhagar</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> (c. 13th century) codified the Classical-era conventions in his explanation of the correct name of <a href="/wiki/Yanaikatchai_Mantaran_Cheral_Irumporai" title="Yanaikatchai Mantaran Cheral Irumporai">Yanaikatchai Mantaran Cheral Irumporai</a> as <i>Kōccēramān Yāṇaikkaṭcēi Māntarañcēral Irumpoṛai</i>. <i>Kō</i> meaning 'king' signifying his official title; <i>Cēramān</i> is the dynastic name; <i>Yāṇaikkat</i> 'Elephant-eyed' is a distinctive feature; <i>Cēi</i> is the <i>iyatpeyar</i>, or proper name; and <i>Irumporai</i> is an appellate.
+</p><p>Another example is <i>Malayamān Cōzhiya Ēnati Tirukkaṇṇan</i>. <i>Malayamān</i> is the dynastic name; <i>Cōzhiya</i>, "of the <a href="/wiki/Chola_Nadu" title="Chola Nadu">Chola Nadu</a>; 'Ēnati" is the title of conferred by the King to the chief of the army in a ceremony known as <i>Ēnatippatiyam</i>;<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> and <i>Tirukkaṇṇan</i> is his <i>iyatpeyar</i>, or proper name.
+</p>
+<h3><span class="mw-headline" id="Dynastic_name">Dynastic name</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;action=edit&amp;section=6" title="Edit section: Dynastic name">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Poets spoke to kings about the need for children for carrying on the family or dynastic name.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>The dynastic or family name acts as a prefix and occurs before the actual name.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Titles">Titles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;action=edit&amp;section=7" title="Edit section: Titles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Some titles such as 'Kō' meaning 'king' were acquired, while others were conferred by the King. Three titles particularly renowned were known as Etti, Enati and Kaviti.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>  Talaikkoli, Peraiyan and Marayan are a few of the other titles bestowed to eminent personalities in consideration to their talents in particular fields.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Indian_name#Tamil" title="Indian name">Tamil naming conventions</a>, for Tamil naming conventions in modern times</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Chattopadhyaya, Brajadulal (2009). <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=0tX4wzIUY3QC&amp;pg=PA30&amp;dq=akam+cankam+names&amp;hl=en&amp;sa=X&amp;ei=-7ifUqGtB8PS0QWXooDIAg&amp;ved=0CEcQ6AEwAg#v=onepage&amp;q=akam%20cankam%20names&amp;f=false"><i>A Social History of Early India</i></a>. Pearson Education India. p.&#160;30. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9788131719589" title="Special:BookSources/9788131719589"><bdi>9788131719589</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A+Social+History+of+Early+India&amp;rft.pages=30&amp;rft.pub=Pearson+Education+India&amp;rft.date=2009&amp;rft.isbn=9788131719589&amp;rft.aulast=Chattopadhyaya&amp;rft.aufirst=Brajadulal&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3D0tX4wzIUY3QC%26pg%3DPA30%26dq%3Dakam%2Bcankam%2Bnames%26hl%3Den%26sa%3DX%26ei%3D-7ifUqGtB8PS0QWXooDIAg%26ved%3D0CEcQ6AEwAg%23v%3Donepage%26q%3Dakam%2520cankam%2520names%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANaming+conventions+of+ancient+Tamil+country" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-FOOTNOTETāmacu20034-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTETāmacu20034_2-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFTāmacu2003">Tāmacu 2003</a>, p.&#160;4.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Wildern, Eva (2006). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=_f3_3gT_NmcC&amp;pg=PA23"><i>Literary Techniques in Old Tamil Caṅkam Poetry: The Kuruntokai</i></a>. Otto Harrassowitz Verlag. p.&#160;23. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9783447053358" title="Special:BookSources/9783447053358"><bdi>9783447053358</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Literary+Techniques+in+Old+Tamil+Ca%E1%B9%85kam+Poetry%3A+The+Kuruntokai&amp;rft.pages=23&amp;rft.pub=Otto+Harrassowitz+Verlag&amp;rft.date=2006&amp;rft.isbn=9783447053358&amp;rft.aulast=Wildern&amp;rft.aufirst=Eva&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D_f3_3gT_NmcC%26pg%3DPA23&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANaming+conventions+of+ancient+Tamil+country" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.com/books?id=EW5kAAAAMAAJ"><i>Journal of Tamil Studies, Issues 49-50</i></a>. International Institute of Tamil Studies. 1996. p.&#160;82.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Journal+of+Tamil+Studies%2C+Issues+49-50&amp;rft.pages=82&amp;rft.pub=International+Institute+of+Tamil+Studies&amp;rft.date=1996&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DEW5kAAAAMAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANaming+conventions+of+ancient+Tamil+country" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=kWtmAAAAMAAJ&amp;q=sangam+%22names%22&amp;dq=sangam+%22names%22&amp;hl=en&amp;sa=X&amp;ei=CLOfUt6zNoOb0AWVmYD4Dg&amp;ved=0CFoQ6AEwCDgK"><i>Karandai Tamil Sangam Plates of Rajendrachola I, Volume 1</i></a>. Archaeological Survey of India. 1984. p.&#160;59.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Karandai+Tamil+Sangam+Plates+of+Rajendrachola+I%2C+Volume+1&amp;rft.pages=59&amp;rft.pub=Archaeological+Survey+of+India&amp;rft.date=1984&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3DkWtmAAAAMAAJ%26q%3Dsangam%2B%2522names%2522%26dq%3Dsangam%2B%2522names%2522%26hl%3Den%26sa%3DX%26ei%3DCLOfUt6zNoOb0AWVmYD4Dg%26ved%3D0CFoQ6AEwCDgK&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANaming+conventions+of+ancient+Tamil+country" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">N. Subrahmanian, Tamil̲an̲pan̲, S. Jeyapragasam (1976). <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=CbgBAAAAMAAJ&amp;q=family+name+sangam&amp;dq=family+name+sangam&amp;hl=en&amp;sa=X&amp;ei=FcKfUrWBPYWn0AWNmoHoDw&amp;ved=0CGsQ6AEwBzgK"><i>Homage to a Historian: A Festschrift</i></a>. Dr. N. Subrahmanian 60th Birthday Celebration Committee. p.&#160;218.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Homage+to+a+Historian%3A+A+Festschrift&amp;rft.pages=218&amp;rft.pub=Dr.+N.+Subrahmanian+60th+Birthday+Celebration+Committee&amp;rft.date=1976&amp;rft.au=N.+Subrahmanian%2C+Tamil%CC%B2an%CC%B2pan%CC%B2%2C+S.+Jeyapragasam&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3DCbgBAAAAMAAJ%26q%3Dfamily%2Bname%2Bsangam%26dq%3Dfamily%2Bname%2Bsangam%26hl%3Den%26sa%3DX%26ei%3DFcKfUrWBPYWn0AWNmoHoDw%26ved%3D0CGsQ6AEwBzgK&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANaming+conventions+of+ancient+Tamil+country" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: multiple names: authors list (<a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book">E. J. Brill (1975). <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?ei=PVmgUqbdENCR0QXTwoC4Aw&amp;id=IRwgAAAAIAAJ&amp;dq=parimelalakar+five&amp;focus=searchwithinvolume&amp;q=five+components"><i>Literatur und Bühne: Abschnitt. Zvelebil, K. V. Tamil literature</i></a>. p.&#160;83.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Literatur+und+B%C3%BChne%3A+Abschnitt.+Zvelebil%2C+K.+V.+Tamil+literature&amp;rft.pages=83&amp;rft.date=1975&amp;rft.au=E.+J.+Brill&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fei%3DPVmgUqbdENCR0QXTwoC4Aw%26id%3DIRwgAAAAIAAJ%26dq%3Dparimelalakar%2Bfive%26focus%3Dsearchwithinvolume%26q%3Dfive%2Bcomponents&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANaming+conventions+of+ancient+Tamil+country" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Ka. Ta Tirunāvukkaracu (1994). <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=0S1uAAAAMAAJ&amp;q=enati+title&amp;dq=enati+title&amp;hl=en&amp;sa=X&amp;ei=ZcyfUqmiL4Gg0QXP3oGICw&amp;ved=0CDIQ6AEwAA"><i>Chieftains of the Sangam Age</i></a>. International Institute of Tamil Studies. pp.&#160;21, 36.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chieftains+of+the+Sangam+Age&amp;rft.pages=21%2C+36&amp;rft.pub=International+Institute+of+Tamil+Studies&amp;rft.date=1994&amp;rft.au=Ka.+Ta+Tirun%C4%81vukkaracu&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3D0S1uAAAAMAAJ%26q%3Denati%2Btitle%26dq%3Denati%2Btitle%26hl%3Den%26sa%3DX%26ei%3DZcyfUqmiL4Gg0QXP3oGICw%26ved%3D0CDIQ6AEwAA&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANaming+conventions+of+ancient+Tamil+country" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book">Sastri, Nilakanta. <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=_UEfAAAAMAAJ&amp;q=%22dynastic+name%22+sangam&amp;dq=%22dynastic+name%22+sangam&amp;hl=en&amp;sa=X&amp;ei=wFygUp3oMKOJ0AXxsICIAg&amp;ved=0CFIQ6AEwBA"><i>Sangam Literature: Its Cults and Cultures</i></a>. Swathi Publications. p.&#160;98.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Sangam+Literature%3A+Its+Cults+and+Cultures&amp;rft.pages=98&amp;rft.pub=Swathi+Publications&amp;rft.aulast=Sastri&amp;rft.aufirst=Nilakanta&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3D_UEfAAAAMAAJ%26q%3D%2522dynastic%2Bname%2522%2Bsangam%26dq%3D%2522dynastic%2Bname%2522%2Bsangam%26hl%3Den%26sa%3DX%26ei%3DwFygUp3oMKOJ0AXxsICIAg%26ved%3D0CFIQ6AEwBA&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANaming+conventions+of+ancient+Tamil+country" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">G. Ramakrishna; N. Gayathri; Debiprasad Chattopadhyaya (1983). <a rel="nofollow" class="external text" href="https://books.google.co.uk/books?ei=m12gUuiiObL50gWX8YDQDA&amp;id=BIkeAAAAMAAJ&amp;dq=%22dynastic+name%22+sangam&amp;focus=searchwithinvolume&amp;q=%22dynastic+name%22+"><i>An encyclopaedia of South Indian culture</i></a>. K.P. Bagchi. p.&#160;78.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=An+encyclopaedia+of+South+Indian+culture&amp;rft.pages=78&amp;rft.pub=K.P.+Bagchi&amp;rft.date=1983&amp;rft.au=G.+Ramakrishna&amp;rft.au=N.+Gayathri&amp;rft.au=Debiprasad+Chattopadhyaya&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fei%3Dm12gUuiiObL50gWX8YDQDA%26id%3DBIkeAAAAMAAJ%26dq%3D%2522dynastic%2Bname%2522%2Bsangam%26focus%3Dsearchwithinvolume%26q%3D%2522dynastic%2Bname%2522%2B&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANaming+conventions+of+ancient+Tamil+country" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=nfg7AQAAIAAJ&amp;q=enati+etti+kaviti&amp;dq=enati+etti+kaviti&amp;hl=en&amp;sa=X&amp;ei=Fs-fUs3qFcTD0QW1p4HADQ&amp;ved=0CDIQ6AEwAA"><i>Vidyodaya Journal of Arts, Science, and Letters, Volume 4</i></a>. Vidyodaya University of Ceylon. 1971. p.&#160;37.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Vidyodaya+Journal+of+Arts%2C+Science%2C+and+Letters%2C+Volume+4&amp;rft.pages=37&amp;rft.pub=Vidyodaya+University+of+Ceylon&amp;rft.date=1971&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3Dnfg7AQAAIAAJ%26q%3Denati%2Betti%2Bkaviti%26dq%3Denati%2Betti%2Bkaviti%26hl%3Den%26sa%3DX%26ei%3DFs-fUs3qFcTD0QW1p4HADQ%26ved%3D0CDIQ6AEwAA&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANaming+conventions+of+ancient+Tamil+country" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://books.google.co.uk/books?id=LCduAAAAMAAJ&amp;q=enati+etti+kaviti&amp;dq=enati+etti+kaviti&amp;hl=en&amp;sa=X&amp;ei=Fs-fUs3qFcTD0QW1p4HADQ&amp;ved=0CDYQ6AEwAQ"><i>Puratan - Volumes 2-3</i></a>. Department of Archaeology and Museums, Madhya Pradesh. 1984. p.&#160;50.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Puratan+-+Volumes+2-3&amp;rft.pages=50&amp;rft.pub=Department+of+Archaeology+and+Museums%2C+Madhya+Pradesh&amp;rft.date=1984&amp;rft_id=https%3A%2F%2Fbooks.google.co.uk%2Fbooks%3Fid%3DLCduAAAAMAAJ%26q%3Denati%2Betti%2Bkaviti%26dq%3Denati%2Betti%2Bkaviti%26hl%3Den%26sa%3DX%26ei%3DFs-fUs3qFcTD0QW1p4HADQ%26ved%3D0CDYQ6AEwAQ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANaming+conventions+of+ancient+Tamil+country" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;action=edit&amp;section=10" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><cite id="CITEREFTāmacu2003" class="citation book">Tāmacu, An̲n̲i Mirutalakumāri (2003). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=Ae_ZAAAAMAAJ"><i>Social Heritage of the Tamils: Proceedings of the National Seminar on the Social Heritage of the Tamils, 18-12-91 to 20-12-91</i></a>. International Institute of Tamil Studies.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Social+Heritage+of+the+Tamils%3A+Proceedings+of+the+National+Seminar+on+the+Social+Heritage+of+the+Tamils%2C+18-12-91+to+20-12-91&amp;rft.pub=International+Institute+of+Tamil+Studies&amp;rft.date=2003&amp;rft.aulast=T%C4%81macu&amp;rft.aufirst=An%CC%B2n%CC%B2i+Mirutalakum%C4%81ri&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DAe_ZAAAAMAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANaming+conventions+of+ancient+Tamil+country" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite id="CITEREFWilden2006" class="citation book">Wilden, Eva (2006). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=_f3_3gT_NmcC&amp;pg=PA23"><i>Literary Techniques in Old Tamil Caṅkam Poetry: The Kuruntokai</i></a>. Otto Harrassowitz Verlag. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-447-05335-8" title="Special:BookSources/978-3-447-05335-8"><bdi>978-3-447-05335-8</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Literary+Techniques+in+Old+Tamil+Ca%E1%B9%85kam+Poetry%3A+The+Kuruntokai&amp;rft.pub=Otto+Harrassowitz+Verlag&amp;rft.date=2006&amp;rft.isbn=978-3-447-05335-8&amp;rft.aulast=Wilden&amp;rft.aufirst=Eva&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3D_f3_3gT_NmcC%26pg%3DPA23&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANaming+conventions+of+ancient+Tamil+country" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
+<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Surname</a>
+<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
+<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
+<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
+<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
+<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
+<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
+<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
+<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
+<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
+<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
+<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
+<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
+<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
+<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
+<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
+<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
+<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
+<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
+<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
+<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
+<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
+<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
+<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
+<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
+<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
+<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
+<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
+<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
+<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
+<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
+<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
+<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
+<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
+<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
+<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
+<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
+<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
+<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
+<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
+<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
+<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
+<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
+<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
+<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
+<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
+<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
+<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
+<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
+<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
+<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
+<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
+<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
+<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
+<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
+<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
+<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
+<li><a href="/wiki/English_name" title="English name">English</a></li>
+<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
+<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
+<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
+<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
+<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
+<li><a href="/wiki/French_name" title="French name">French</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
+<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
+<li><a href="/wiki/German_name" title="German name">German</a></li>
+<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
+<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
+<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
+<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
+<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
+<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
+<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
+<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
+<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
+<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
+<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
+<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
+<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
+<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
+<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
+<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
+<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
+<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
+<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
+<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
+<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
+<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
+<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
+<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
+<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
+<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
+<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
+<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
+<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
+<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
+<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
+<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
+<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
+<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
+<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
+<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
+<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
+<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
+<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
+<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
+<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
+<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
+<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
+<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
+<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
+<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
+<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
+<ul><li><small><a class="mw-selflink selflink">Ancient Tamil country</a></small></li></ul></li>
+<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
+<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
+<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
+<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
+<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
+<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
+<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
+<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
+<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
+<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
+<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
+<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
+<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
+<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
+<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
+<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
+<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
+<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
+<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award_or_decoration" title="Award or decoration">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
+<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
+<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
+<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
+<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
+<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
+<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
+<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
+<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
+<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
+<li><a href="/wiki/Name_day" title="Name day">Name day</a>
+<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
+<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
+<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
+<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
+<li><a href="/wiki/Family" title="Family">Family</a></li>
+<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
+<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
+<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
+<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
+<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
+<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
+<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
+<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
+<li><a href="/wiki/Signature" title="Signature">Signature</a>
+<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
+<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
+<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
+<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1296
+Cached time: 20190918134114
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.208 seconds
+Real time usage: 0.251 seconds
+Preprocessor visited node count: 759/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 73105/2097152 bytes
+Template argument size: 963/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 38285/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.094/10.000 seconds
+Lua memory usage: 3.75 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  185.816      1 -total
+ 62.64%  116.388      1 Template:Reflist
+ 56.60%  105.167     13 Template:Cite_book
+ 19.57%   36.365      1 Template:TNhistory
+ 17.97%   33.386      1 Template:Sidebar_with_collapsible_lists
+  7.58%   14.090      1 Template:Names_in_world_cultures
+  6.07%   11.288      2 Template:Navbox
+  3.00%    5.578      1 Template:Sfn
+  1.32%    2.450      1 Template:Flatlist
+  1.17%    2.166      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:41273697-0!canonical and timestamp 20190918134114 and revision id 883247732
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;oldid=883247732">https://en.wikipedia.org/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;oldid=883247732</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Names_by_culture" title="Category:Names by culture">Names by culture</a></li><li><a href="/wiki/Category:Tamil_history" title="Category:Tamil history">Tamil history</a></li><li><a href="/wiki/Category:Naming_conventions" title="Category:Naming conventions">Naming conventions</a></li><li><a href="/wiki/Category:Tamilakam" title="Category:Tamilakam">Tamilakam</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_multiple_names:_authors_list" title="Category:CS1 maint: multiple names: authors list">CS1 maint: multiple names: authors list</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Naming+conventions+of+ancient+Tamil+country" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Naming+conventions+of+ancient+Tamil+country" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Naming_conventions_of_ancient_Tamil_country" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Naming_conventions_of_ancient_Tamil_country">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Naming_conventions_of_ancient_Tamil_country" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Naming_conventions_of_ancient_Tamil_country" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;oldid=883247732" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17072177" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Naming_conventions_of_ancient_Tamil_country&amp;id=883247732" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Naming+conventions+of+ancient+Tamil+country">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Naming+conventions+of+ancient+Tamil+country&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q17072177#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 February 2019, at 05:47<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Naming_conventions_of_ancient_Tamil_country&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.208","walltime":"0.251","ppvisitednodes":{"value":759,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":73105,"limit":2097152},"templateargumentsize":{"value":963,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":38285,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  185.816      1 -total"," 62.64%  116.388      1 Template:Reflist"," 56.60%  105.167     13 Template:Cite_book"," 19.57%   36.365      1 Template:TNhistory"," 17.97%   33.386      1 Template:Sidebar_with_collapsible_lists","  7.58%   14.090      1 Template:Names_in_world_cultures","  6.07%   11.288      2 Template:Navbox","  3.00%    5.578      1 Template:Sfn","  1.32%    2.450      1 Template:Flatlist","  1.17%    2.166      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.094","limit":"10.000"},"limitreport-memusage":{"value":3931590,"limit":52428800}},"cachereport":{"origin":"mw1296","timestamp":"20190918134114","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Naming conventions of ancient Tamil country","url":"https:\/\/en.wikipedia.org\/wiki\/Naming_conventions_of_ancient_Tamil_country","sameAs":"http:\/\/www.wikidata.org\/entity\/Q17072177","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q17072177","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-12-05T01:00:19Z","dateModified":"2019-02-14T05:47:00Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4e\/Thanjavur_temple.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1254"});});</script>
+</body>
+</html>
+

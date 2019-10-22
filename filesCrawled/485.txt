@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Colne Valley - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Colne_Valley","wgTitle":"Colne Valley","wgCurRevisionId":863882668,"wgRevisionId":863882668,"wgArticleId":1096413,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Huddersfield","Geography of Kirklees","Colne Valley"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Colne_Valley","wgRelevantArticleId":1096413,"wgRequestId":"XZEHSwpAAEQAAFI5-98AAADF","wgCSPNonce":!1,"wgIsProbablyEditable":!0,
+"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5147770","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready",
+"wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/6e/Longroyd_Bridge_Huddersfield.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Colne_Valley"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Colne_Valley&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Colne_Valley&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Colne_Valley"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Colne_Valley rootpage-Colne_Valley skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Colne Valley</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about the valley in West Yorkshire. For other, see <a href="/wiki/Colne_Valley_(disambiguation)" class="mw-disambig" title="Colne Valley (disambiguation)">Colne Valley (disambiguation)</a>.</div>
+<p>The <b>Colne Valley</b> is a steep sided valley on the east flank of the <a href="/wiki/Pennines" title="Pennines">Pennine Hills</a> in the English county of <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>. It takes its name from the <a href="/wiki/River_Colne,_West_Yorkshire" title="River Colne, West Yorkshire">River Colne</a> which rises above the town of <a href="/wiki/Marsden,_West_Yorkshire" title="Marsden, West Yorkshire">Marsden</a> and flows eastward  towards Huddersfield.
+</p><p>The name is used to describe that section of the valley between its source and <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a> at the point where the <a href="/wiki/River_Holme" title="River Holme">River Holme</a> joins the Colne. The name can describe the whole valley of the Colne, including the section through Huddersfield its confluence with the <a href="/wiki/River_Calder,_West_Yorkshire" title="River Calder, West Yorkshire">River Calder</a> at Cooper Bridge. Using the more common definition, the Colne Valley includes the towns and villages of <a href="/wiki/Marsden,_West_Yorkshire" title="Marsden, West Yorkshire">Marsden</a>, <a href="/wiki/Slaithwaite" title="Slaithwaite">Slaithwaite</a>, <a href="/wiki/Linthwaite" title="Linthwaite">Linthwaite</a>, Milnsbridge and <a href="/wiki/Golcar" title="Golcar">Golcar</a>.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Longroyd_Bridge_Huddersfield.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Longroyd_Bridge_Huddersfield.jpg/300px-Longroyd_Bridge_Huddersfield.jpg" decoding="async" width="300" height="161" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Longroyd_Bridge_Huddersfield.jpg/450px-Longroyd_Bridge_Huddersfield.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Longroyd_Bridge_Huddersfield.jpg/600px-Longroyd_Bridge_Huddersfield.jpg 2x" data-file-width="1200" data-file-height="642" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Longroyd_Bridge_Huddersfield.jpg" class="internal" title="Enlarge"></a></div>Longroyd Bridge showing route of the A62 over the canal and River Colne and into the Colne Valley from Huddersfield town centre</div></div></div>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Industry_and_economy"><span class="tocnumber">1</span> <span class="toctext">Industry and economy</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Government_and_politics"><span class="tocnumber">2</span> <span class="toctext">Government and politics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Industry_and_economy">Industry and economy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Colne_Valley&amp;action=edit&amp;section=1" title="Edit section: Industry and economy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Colne Valley played a significant role in the development of the <a href="/wiki/Industrial_Revolution" title="Industrial Revolution">Industrial Revolution</a>. Most of the population had been hand loom weavers for generations but when water-powered <a href="/wiki/Textile_manufacture_during_the_Industrial_Revolution" class="mw-redirect" title="Textile manufacture during the Industrial Revolution">textile</a> mills were built on the  streams and rivers, the area was set to become a major producer of <a href="/wiki/Textile" title="Textile">textiles</a>. The Colne and the <a href="/wiki/Huddersfield_Narrow_Canal" title="Huddersfield Narrow Canal">Huddersfield Narrow Canal</a> provided transport links which were added to by <a href="/wiki/A62_road" title="A62 road">road</a> and railway links to Huddersfield and <a href="/wiki/Leeds" title="Leeds">Leeds</a> to the east and <a href="/wiki/Manchester" title="Manchester">Manchester</a> and <a href="/wiki/Liverpool" title="Liverpool">Liverpool</a> to the west.
+</p><p>By the end of the <a href="/wiki/World_War_II" title="World War II">Second World War</a>, the importance of the Colne Valley as a centre of textile production had begun to decrease. The area is now primarily residential, its transport links making it ideal for commuters. Tourism is promoted: the Huddersfield Narrow Canal was reopened in 2001 and boat trips into <a href="/wiki/Standedge_Tunnels" title="Standedge Tunnels">Standedge Canal Tunnel</a> are available; the <a href="/wiki/National_Trust_for_Places_of_Historic_Interest_or_Natural_Beauty" title="National Trust for Places of Historic Interest or Natural Beauty">National Trust</a> advertises walks on <a href="/wiki/Marsden_Moor_Estate" title="Marsden Moor Estate">Marsden Moor Estate</a>; and television programmes such as <i><a href="/wiki/Last_of_the_Summer_Wine" title="Last of the Summer Wine">Last of the Summer Wine</a></i> and <i><a href="/wiki/Where_the_Heart_Is_(UK_TV_series)" class="mw-redirect" title="Where the Heart Is (UK TV series)">Where the Heart Is</a></i> have been filmed there.
+</p>
+<h2><span class="mw-headline" id="Government_and_politics">Government and politics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Colne_Valley&amp;action=edit&amp;section=2" title="Edit section: Government and politics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Colne Valley was an <a href="/wiki/Urban_district_(Great_Britain_and_Ireland)" title="Urban district (Great Britain and Ireland)">urban district</a> of the <a href="/wiki/West_Riding_of_Yorkshire" title="West Riding of Yorkshire">West Riding of Yorkshire</a> between 1937 and 1974. It was created by the merger of <a href="/wiki/Golcar" title="Golcar">Golcar</a>, <a href="/wiki/Linthwaite" title="Linthwaite">Linthwaite</a>, <a href="/wiki/Marsden,_West_Yorkshire" title="Marsden, West Yorkshire">Marsden</a>, <a href="/wiki/Scammonden" title="Scammonden">Scammonden</a> and <a href="/wiki/Slaithwaite" title="Slaithwaite">Slaithwaite</a> urban districts, and had a population of about 20,000. The <a href="/wiki/Local_Government_Act_1972" title="Local Government Act 1972">Local Government Act 1972</a> saw it merged into the metropolitan borough of <a href="/wiki/Kirklees" title="Kirklees">Kirklees</a>.<sup id="cite_ref-visbrit_1-0" class="reference"><a href="#cite_note-visbrit-1">&#91;1&#93;</a></sup> At the 2011 Census it was a ward of Kirlees Council. The population at the census was 17,369.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>The <a href="/wiki/Colne_Valley_(UK_Parliament_constituency)" title="Colne Valley (UK Parliament constituency)">Colne Valley parliamentary constituency</a> preserves the Colne Valley name, although the constituency also includes the <a href="/wiki/Holme_Valley" title="Holme Valley">Holme Valley</a>, <a href="/wiki/Meltham" title="Meltham">Meltham</a> and some outskirts of Huddersfield. Notable former <a href="/wiki/Members_of_Parliament" class="mw-redirect" title="Members of Parliament">MPs</a> for the constituency include <a href="/wiki/Victor_Grayson" title="Victor Grayson">Victor Grayson</a> and <a href="/wiki/Richard_Wainwright_(politician)" title="Richard Wainwright (politician)">Richard Wainwright</a>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Colne_Valley&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Colne_Valley_Museum" title="Colne Valley Museum">Colne Valley Museum</a>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Colne_Valley&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-visbrit-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-visbrit_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.visionofbritain.org.uk/relationships.jsp;jsessionid=BF8ECE4312F490777BA12F5E5DAD0503?u_id=10002254">"Colne Valley UD West Yorkshire through time"</a>. A Vision of Britain Through Time<span class="reference-accessdate">. Retrieved <span class="nowrap">March 19,</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Colne+Valley+UD+West+Yorkshire+through+time&amp;rft.pub=A+Vision+of+Britain+Through+Time&amp;rft_id=http%3A%2F%2Fwww.visionofbritain.org.uk%2Frelationships.jsp%3Bjsessionid%3DBF8ECE4312F490777BA12F5E5DAD0503%3Fu_id%3D10002254&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AColne+Valley" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.neighbourhood.statistics.gov.uk/dissemination/LeadKeyFigures.do?a=7&amp;b=13695721&amp;c=Colne+Valley&amp;d=14&amp;e=62&amp;g=6371395&amp;i=1001x1003x1032x1004&amp;m=0&amp;r=1&amp;s=1456396710375&amp;enc=1">"Kirklees Council Ward population 2011"</a>. <i>Neighbourhood Statistics</i>. Office for National Statistics<span class="reference-accessdate">. Retrieved <span class="nowrap">25 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Neighbourhood+Statistics&amp;rft.atitle=Kirklees+Council+Ward+population+2011&amp;rft_id=http%3A%2F%2Fwww.neighbourhood.statistics.gov.uk%2Fdissemination%2FLeadKeyFigures.do%3Fa%3D7%26b%3D13695721%26c%3DColne%2BValley%26d%3D14%26e%3D62%26g%3D6371395%26i%3D1001x1003x1032x1004%26m%3D0%26r%3D1%26s%3D1456396710375%26enc%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AColne+Valley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Colne_Valley&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.standedge.co.uk/">Standedge Visitor Centre</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.nationaltrust.org.uk/marsden-moor-estate">National Trust – Marsden Moor</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070207102005/http://www.kirklees.gov.uk/visitorportal/wheretogo/colnevalley.asp">Visitors to Colne Valley</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1254
+Cached time: 20190907040915
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.140 seconds
+Real time usage: 0.185 seconds
+Preprocessor visited node count: 136/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 3778/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 3/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6198/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.087/10.000 seconds
+Lua memory usage: 1.86 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  149.891      1 -total
+ 63.95%   95.857      2 Template:Cite_web
+ 33.31%   49.935      1 Template:About
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1096413-0!canonical and timestamp 20190907040915 and revision id 863882668
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Colne_Valley&amp;oldid=863882668">https://en.wikipedia.org/w/index.php?title=Colne_Valley&amp;oldid=863882668</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Huddersfield" title="Category:Huddersfield">Huddersfield</a></li><li><a href="/wiki/Category:Geography_of_Kirklees" title="Category:Geography of Kirklees">Geography of Kirklees</a></li><li><a href="/wiki/Category:Colne_Valley" title="Category:Colne Valley">Colne Valley</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Colne+Valley" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Colne+Valley" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Colne_Valley" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Colne_Valley" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Colne_Valley">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Colne_Valley&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Colne_Valley&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Colne_Valley" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Colne_Valley" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Colne_Valley&amp;oldid=863882668" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Colne_Valley&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5147770" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Colne_Valley&amp;id=863882668" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Colne_Valley,_West_Yorkshire" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Colne+Valley">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Colne+Valley&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Colne_Valley&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-bar"><a href="https://bar.wikipedia.org/wiki/Colne_Valley" title="Colne Valley – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target">Boarisch</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5147770#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 October 2018, at 18:03<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Colne_Valley&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.140","walltime":"0.185","ppvisitednodes":{"value":136,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":3778,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":3,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6198,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  149.891      1 -total"," 63.95%   95.857      2 Template:Cite_web"," 33.31%   49.935      1 Template:About"]},"scribunto":{"limitreport-timeusage":{"value":"0.087","limit":"10.000"},"limitreport-memusage":{"value":1954203,"limit":52428800}},"cachereport":{"origin":"mw1254","timestamp":"20190907040915","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Colne Valley","url":"https:\/\/en.wikipedia.org\/wiki\/Colne_Valley","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5147770","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5147770","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-10-23T20:15:07Z","dateModified":"2018-10-13T18:03:26Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6e\/Longroyd_Bridge_Huddersfield.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1273"});});</script>
+</body>
+</html>
+

@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Huddersfield New College - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Huddersfield_New_College","wgTitle":"Huddersfield New College","wgCurRevisionId":915323482,"wgRevisionId":915323482,"wgArticleId":1055775,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from July 2013","Articles with short description","Coordinates on Wikidata","All articles with unsourced statements","Articles with unsourced statements from August 2017","Commons category link is on Wikidata","Schools in Huddersfield","Educational institutions established in 1958","Sixth form colleges in West Yorkshire","Defunct grammar schools in England","Education in Kirklees","1958 establishments in England"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],
+"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Huddersfield_New_College","wgRelevantArticleId":1055775,"wgRequestId":"XY1cWwpAIDAAAK8wMW4AAACH","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":
+53.653,"lon":-1.838},"wgWikibaseItemId":"Q5928264","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice",
+"ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/d/db/Huddersfield_New_College_logo.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Huddersfield_New_College"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Huddersfield_New_College&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Huddersfield_New_College&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Huddersfield_New_College"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Huddersfield_New_College rootpage-Huddersfield_New_College skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Huddersfield New College</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Sixth form college in Huddersfield, West Yorkshire, England</div><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;background-color: lavender">Huddersfield New College</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Huddersfield_New_College_logo.jpg" class="image"><img alt="Huddersfield New College logo.jpg" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Huddersfield_New_College_logo.jpg/220px-Huddersfield_New_College_logo.jpg" decoding="async" width="220" height="205" srcset="//upload.wikimedia.org/wikipedia/en/d/db/Huddersfield_New_College_logo.jpg 1.5x" data-file-width="327" data-file-height="305" /></a></td></tr><tr><th colspan="2" style="text-align:center;background:lavender">Address</th></tr><tr class="adr"><td colspan="2" style="text-align:center"><div style="display:inline;" class="street-address">New Hey Road</div><br /><div style="display:inline;" class="locality"><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></div>, <div style="display:inline;" class="region"><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></div>, <div style="display:inline;" class="postal-code">HD3 4GL</div><br /><div style="display:inline;" class="country-name">England</div></td></tr><tr><th scope="row"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_New_College&amp;params=53.653_N_1.838_W_type:edu_region:GB_dim:100"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°39′11″N</span> <span class="longitude">1°50′17″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.653°N 1.838°W</span><span style="display:none">&#xfeff; / <span class="geo">53.653; -1.838</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_New_College&amp;params=53.653_N_1.838_W_type:edu_region:GB_dim:100"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°39′11″N</span> <span class="longitude">1°50′17″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.653°N 1.838°W</span><span style="display:none">&#xfeff; / <span class="geo">53.653; -1.838</span></span></span></a></span></span></span></td></tr><tr><th colspan="2" style="text-align:center;background:lavender">Information</th></tr><tr><th scope="row">Type</th><td>Sixth Form College</td></tr><tr><th scope="row">Motto</th><td>Success For All</td></tr><tr><th scope="row">Established</th><td>1958</td></tr><tr><th scope="row">Local authority</th><td><a href="/wiki/Kirklees" title="Kirklees">Kirklees</a></td></tr><tr><th scope="row"><a href="/wiki/Department_for_Education" title="Department for Education">Department for Education</a> URN</th><td><a rel="nofollow" class="external text" href="https://get-information-schools.service.gov.uk/Establishments/Establishment/Details/130539">130539</a> <a rel="nofollow" class="external text" href="https://www.compare-school-performance.service.gov.uk/school/130539">Tables</a></td></tr><tr><th scope="row"><a href="/wiki/Ofsted" title="Ofsted">Ofsted</a></th><td><a rel="nofollow" class="external text" href="https://reports.ofsted.gov.uk/inspection-reports/find-inspection-report/provider/ELS/130539">Reports</a></td></tr><tr><th scope="row">Chairman of Governors</th><td>Linda Summers</td></tr><tr><th scope="row">Principal</th><td>Angela Williams</td></tr><tr><th scope="row">Gender</th><td>Coeducational</td></tr><tr><th scope="row">Age</th><td>16&#32;to 18</td></tr><tr><th scope="row">Enrolment</th><td>c. 2,350</td></tr><tr><th scope="row">Colour(s)</th><td><span style="background-color:purple; color:white; border:1px solid #000000; text-align:center;">&#160;&#160;&#160;&#160;</span> <span style="background-color:green; color:white; border:1px solid #000000; text-align:center;">&#160;&#160;&#160;&#160;</span></td></tr><tr><th scope="row">Website</th><td class="plainlinks"><a rel="nofollow" class="external free" href="http://www.huddnewcoll.ac.uk">http://www.huddnewcoll.ac.uk</a></td></tr></tbody></table>
+<p><b>Huddersfield New College</b> is a former <a href="/wiki/Grammar_school" title="Grammar school">grammar school</a> and current <a href="/wiki/Sixth_form_college" title="Sixth form college">sixth form college</a> located in <a href="/wiki/Salendine_Nook" title="Salendine Nook">Salendine Nook</a> on the outskirts of <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, in the county of <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, England. The current Principal is Angela Williams.
+On 17 May 2016 the college was assessed as 'Outstanding' in all 6 inspection domains following an <a href="/wiki/OFSTED" class="mw-redirect" title="OFSTED">OFSTED</a> review.  They are the first <a href="/wiki/Sixth_Form_College" class="mw-redirect" title="Sixth Form College">Sixth Form College</a> to receive such an accolade under the new (September 2016) inspection framework.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Admissions"><span class="tocnumber">1</span> <span class="toctext">Admissions</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Grammar_school"><span class="tocnumber">2.1</span> <span class="toctext">Grammar school</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Sixth_form_college"><span class="tocnumber">2.2</span> <span class="toctext">Sixth form college</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Buildings"><span class="tocnumber">3</span> <span class="toctext">Buildings</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Academic_performance"><span class="tocnumber">4</span> <span class="toctext">Academic performance</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notable_alumni"><span class="tocnumber">5</span> <span class="toctext">Notable alumni</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Huddersfield_New_College"><span class="tocnumber">5.1</span> <span class="toctext">Huddersfield New College</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Huddersfield_College"><span class="tocnumber">5.2</span> <span class="toctext">Huddersfield College</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Hillhouse_Technical_School"><span class="tocnumber">5.3</span> <span class="toctext">Hillhouse Technical School</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Admissions">Admissions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_New_College&amp;action=edit&amp;section=1" title="Edit section: Admissions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It should not be confused with Huddersfield Technical College, which became <a href="/wiki/Kirklees_College" title="Kirklees College">Kirklees College</a> in 2008. Like most sixth form colleges, good performance at GCSE is required to attend. It is situated to the west of the town, on <i> New Hey Road</i> (<a href="/wiki/A640_road" title="A640 road">A640</a>) less than a mile from junction 23 of the <a href="/wiki/M62_motorway" title="M62 motorway">M62</a>.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_New_College&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Grammar_school">Grammar school</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_New_College&amp;action=edit&amp;section=3" title="Edit section: Grammar school">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Huddersfield_New_College_2005.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Huddersfield_New_College_2005.JPG/220px-Huddersfield_New_College_2005.JPG" decoding="async" width="220" height="147" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Huddersfield_New_College_2005.JPG/330px-Huddersfield_New_College_2005.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/15/Huddersfield_New_College_2005.JPG/440px-Huddersfield_New_College_2005.JPG 2x" data-file-width="2160" data-file-height="1440" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Huddersfield_New_College_2005.JPG" class="internal" title="Enlarge"></a></div>Huddersfield New College in 2005, as viewed from New Hey Road. Both the original brick construction, and the more modern partial replacement can be seen</div></div></div>
+<p>The college was founded in 1958 when the existing Huddersfield College (founded in 1839) was merged with Hillhouse Technical School to form a new boys' grammar school at a new campus at Salendine Nook with 950 boys. <a href="/wiki/Henry_Ernest_Atkins" title="Henry Ernest Atkins">Henry Ernest Atkins</a>, the chess master, had been Principal from 1909-36. In 1959, the girls-only Longley Technical High School moved to the campus, with a new school called Huddersfield High School also on New Hey Road with 700 girls run by Huddersfield Education Committee. Princess Margaret opened the girls' school on the campus on 14 November 1958.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> The whole site, including Salendine Nook High School, had cost £1 million. Sir <a href="/wiki/Edward_Boyle,_Baron_Boyle_of_Handsworth" title="Edward Boyle, Baron Boyle of Handsworth">Edward Boyle</a> opened Huddersfield New College on 26 March 1958.
+</p><p>The last admission of 11-year-olds was in 1972, and the college then began a gradual transition from a boys only grammar school to a co-educational sixth form college. During the dissolution of the grammar schools under Harold Wilson's watch, (an old boy of the nearby Royds Hall Grammar School), he infamously said that <i>grammar schools would be dismantled over his dead body</i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> However the sixth form college has retained much of the academic-minded ethos of his former school.
+</p>
+<h3><span class="mw-headline" id="Sixth_form_college">Sixth form college</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_New_College&amp;action=edit&amp;section=4" title="Edit section: Sixth form college">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>It became a sixth form college when the two grammar schools, Huddersfield New College and Huddersfield High School, gradually merged from 1973. In 1974 it was administered by Kirklees Metropolitan Council until 1993 when funded by the <a href="/wiki/Further_Education_Funding_Council_for_England" title="Further Education Funding Council for England">FEFC</a>. In 2001 it was administered by West Yorkshire LSC, whose executive director was Margaret Coleman, a former Principal of the College.
+</p>
+<h2><span class="mw-headline" id="Buildings">Buildings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_New_College&amp;action=edit&amp;section=5" title="Edit section: Buildings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Huddersfield_New_College_Entrance.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Huddersfield_New_College_Entrance.jpg/220px-Huddersfield_New_College_Entrance.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Huddersfield_New_College_Entrance.jpg/330px-Huddersfield_New_College_Entrance.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Huddersfield_New_College_Entrance.jpg/440px-Huddersfield_New_College_Entrance.jpg 2x" data-file-width="2816" data-file-height="2112" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Huddersfield_New_College_Entrance.jpg" class="internal" title="Enlarge"></a></div>Huddersfield New College, showing the entrance and English rooms</div></div></div>
+<p>More recently, the eastern half of the original 1958 built building has been demolished, and replaced with a modern construction grafted onto the remaining half of the original building.
+</p><p>In January 2007 building works commenced to expand the current school to increase capacity. New buildings will house additional classrooms for Geography, Art, Psychology, Textiles, Modern Languages, IT, Media Studies and a new student dining area (known as the IT Café by students). Additional expansion to 'The Boiler House' -  the current performing arts area is also commencing, yielding increased classrooms a recording studio and a new theatre. There has also been expansion to the sports centre, which now houses: Sports Studies, Travel and Tourism, Sociology, Health and Social Care, Children's Learning, Care and Development. Also a large gym with state-of-the-art equipment, and a large sports hall.
+</p><p>In September 2012 the college completed the construction of a £100,000 3G AstroTurf pitch which is also used by the neighbouring Salendine Nook High School.
+</p>
+<h2><span class="mw-headline" id="Academic_performance">Academic performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_New_College&amp;action=edit&amp;section=6" title="Edit section: Academic performance">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In October 2011 the college was formally inspected by <a href="/wiki/Ofsted" title="Ofsted">Ofsted</a>, who praised the college and rated it as "a good college with outstanding features". Ofsted said that the college was showing a lot of improvement year-on-year and that the quality of teaching across all areas was good. All courses have high success rates, and students enjoy their time at the college.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>On 17 May 2016 the college was assessed as 'Outstanding' in all 6 inspection domains following an <a href="/wiki/OFSTED" class="mw-redirect" title="OFSTED">OFSTED</a> review.  They are the first <a href="/wiki/Sixth_Form_College" class="mw-redirect" title="Sixth Form College">Sixth Form College</a> to receive such an accolade under the new (September 2016) inspection framework.
+</p><p><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Notable_alumni">Notable alumni</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_New_College&amp;action=edit&amp;section=7" title="Edit section: Notable alumni">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Category:People_educated_at_Huddersfield_New_College" title="Category:People educated at Huddersfield New College">Category:People educated at Huddersfield New College</a></div>
+<h3><span class="mw-headline" id="Huddersfield_New_College">Huddersfield New College</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_New_College&amp;action=edit&amp;section=8" title="Edit section: Huddersfield New College">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Roger_Berry" title="Roger Berry">Roger Berry</a>, Labour MP from 1992-2010 for <a href="/wiki/Kingswood_(UK_Parliament_constituency)" title="Kingswood (UK Parliament constituency)">Kingswood</a></li>
+<li>Professor <a href="/wiki/Bob_Cryan" title="Bob Cryan">Bob Cryan</a>, vice-chancellor of the <a href="/wiki/University_of_Huddersfield" title="University of Huddersfield">University of Huddersfield</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="for presence at Huddersfield New College (August 2017)">citation needed</span></a></i>&#93;</sup></li>
+<li><a href="/wiki/James_Duddridge" title="James Duddridge">James Duddridge</a>, Conservative MP since 2005 for <a href="/wiki/Rochford_and_Southend_East_(UK_Parliament_constituency)" title="Rochford and Southend East (UK Parliament constituency)">Rochford and Southend East</a></li>
+<li><a href="/wiki/Ian_Jagger" title="Ian Jagger">Ian Jagger</a>, clergyman and <a href="/wiki/Archdeacon_of_Durham" title="Archdeacon of Durham">Archdeacon of Durham</a></li>
+<li><a href="/wiki/Z%C3%B6e_Lucker" title="Zöe Lucker">Zöe Lucker</a>, actress<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></li>
+<li><a href="/wiki/Michael_Moore_(physicist)" title="Michael Moore (physicist)">Michael Moore</a>, <a href="/wiki/Fellow_of_the_Royal_Society" title="Fellow of the Royal Society">Fellow of the Royal Society</a> and professor of theoretical physics at the <a href="/wiki/University_of_Manchester" title="University of Manchester">University of Manchester</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup></li>
+<li><a href="/wiki/Gary_Ramsden" title="Gary Ramsden">Gary Ramsden</a>, cricketer<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="for presence at Huddersfield New College (August 2017)">citation needed</span></a></i>&#93;</sup></li>
+<li><a href="/wiki/George_M._Sheldrick" title="George M. Sheldrick">George Sheldrick</a>, Professor of Structural Chemistry since 1978 at the <a href="/wiki/University_of_G%C3%B6ttingen" title="University of Göttingen">University of Göttingen</a></li></ul>
+<h3><span class="mw-headline" id="Huddersfield_College">Huddersfield College</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_New_College&amp;action=edit&amp;section=9" title="Edit section: Huddersfield College">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Peter_Armitage" title="Peter Armitage">Peter Armitage</a> CBE, statistician and President of the <a href="/wiki/Royal_Statistical_Society" title="Royal Statistical Society">Royal Statistical Society</a> from 1982-4, and Professor of Applied Statistics from 1976–90 at the <a href="/wiki/University_of_Oxford" title="University of Oxford">University of Oxford</a></li>
+<li>Sir <a href="/wiki/William_Broadbent" title="William Broadbent">William Broadbent</a>, President from 1895-6 of the Neurological Society and from 1887-8 of the Clinical Society, and father of <a href="/wiki/Walter_Broadbent" title="Walter Broadbent">Walter Broadbent</a></li>
+<li><a href="/wiki/Joseph_Coates" title="Joseph Coates">Joseph Coates</a>, Australian schoolmaster and cricketer.</li>
+<li><a href="/wiki/Roger_Fletcher_(mathematician)" title="Roger Fletcher (mathematician)">Roger Fletcher</a>, Professor of Mathematics from 1993-2005 at the <a href="/wiki/University_of_Dundee" title="University of Dundee">University of Dundee</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="for presence at Huddersfield College (August 2017)">citation needed</span></a></i>&#93;</sup></li>
+<li><a href="/wiki/Geoffrey_Fryer" title="Geoffrey Fryer">Geoffrey Fryer</a> FRS, freshwater biologist<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="for presence at Huddersfield College (August 2017)">citation needed</span></a></i>&#93;</sup></li>
+<li>Sir <a href="/wiki/Amos_Brook_Hirst" title="Amos Brook Hirst">Amos Brook Hirst</a> OBE, Chairman from 1941-55 of <a href="/wiki/The_Football_Association" title="The Football Association">The Football Association</a>, and president of <a href="/wiki/Huddersfield_Town_F.C." class="mw-redirect" title="Huddersfield Town F.C.">Huddersfield Town F.C.</a>.<sup id="cite_ref-Times_Obituary_7-0" class="reference"><a href="#cite_note-Times_Obituary-7">&#91;7&#93;</a></sup></li>
+<li><a href="/wiki/David_Liddiment" title="David Liddiment">David Liddiment</a>, Director of Programmes at <a href="/wiki/ITV_Network" class="mw-redirect" title="ITV Network">ITV</a> from 1997–2002, and member of the <a href="/wiki/BBC_Trust" title="BBC Trust">BBC Trust</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="for presence at Huddersfield College (August 2017)">citation needed</span></a></i>&#93;</sup></li>
+<li><a href="/wiki/Frederick_Mallalieu" title="Frederick Mallalieu">Frederick Mallalieu</a>, Liberal MP for <a href="/wiki/Colne_Valley_(UK_Parliament_constituency)" title="Colne Valley (UK Parliament constituency)">Colne Valley</a> from 1916–22<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="for presence at Huddersfield College (August 2017)">citation needed</span></a></i>&#93;</sup></li>
+<li><a href="/wiki/Ali_Mazrui" title="Ali Mazrui">Ali Mazrui</a>, Kenyan historian and political scientist<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li>
+<li><a href="/wiki/Sir_William_Middlebrook,_1st_Baronet" class="mw-redirect" title="Sir William Middlebrook, 1st Baronet">Sir William Middlebrook</a>, Liberal MP from 1908–22 for <a href="/wiki/Leeds_South_(UK_Parliament_constituency)" title="Leeds South (UK Parliament constituency)">Leeds South</a></li>
+<li><a href="/wiki/Walter_Parratt" title="Walter Parratt">Walter Parratt</a>, organist<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="for presence at Huddersfield College (August 2017)">citation needed</span></a></i>&#93;</sup></li>
+<li><a href="/wiki/Nicholas_Tate" title="Nicholas Tate">Nicholas Tate</a> CBE, Chief Executive from 1997–2000 of the <a href="/wiki/Qualifications_and_Curriculum_Authority" class="mw-redirect" title="Qualifications and Curriculum Authority">Qualifications and Curriculum Authority</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="for presence at Huddersfield College (August 2017)">citation needed</span></a></i>&#93;</sup></li>
+<li>Sir <a href="/wiki/Thomas_Palmer_Whittaker" class="mw-redirect" title="Thomas Palmer Whittaker">Thomas Palmer Whittaker</a>, Liberal MP from 1882–1919 for <a href="/wiki/Spen_Valley_(UK_Parliament_constituency)" title="Spen Valley (UK Parliament constituency)">Spen Valley</a></li>
+<li><a href="/wiki/William_Willis_(British_politician)" title="William Willis (British politician)">William Willis</a>, Liberal MP from 1880-5 for <a href="/wiki/Colchester_(UK_Parliament_constituency)" title="Colchester (UK Parliament constituency)">Colchester</a></li>
+<li>Sir <a href="/wiki/German_Sims_Woodhead" title="German Sims Woodhead">German Sims Woodhead</a>, President of the <a href="/wiki/Royal_Medical_Society" title="Royal Medical Society">Royal Medical Society</a> in 1878 and the <a href="/wiki/Royal_Microscopical_Society" title="Royal Microscopical Society">Royal Microscopical Society</a> from 1890-9</li></ul>
+<h3><span class="mw-headline" id="Hillhouse_Technical_School">Hillhouse Technical School</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_New_College&amp;action=edit&amp;section=10" title="Edit section: Hillhouse Technical School">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Rt Rev <a href="/wiki/David_Bonser" title="David Bonser">David Bonser</a>, <a href="/wiki/Bishop_of_Bolton" title="Bishop of Bolton">Bishop of Bolton</a> from 1991-9<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="for presence at Hillhouse Technical School (August 2017)">citation needed</span></a></i>&#93;</sup></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_New_College&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_schools_in_Kirklees" title="List of schools in Kirklees">List of schools in Kirklees</a></li></ul>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:College_and_Apartments_-_geograph.org.uk_-_37171.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/College_and_Apartments_-_geograph.org.uk_-_37171.jpg/220px-College_and_Apartments_-_geograph.org.uk_-_37171.jpg" decoding="async" width="220" height="76" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/College_and_Apartments_-_geograph.org.uk_-_37171.jpg/330px-College_and_Apartments_-_geograph.org.uk_-_37171.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/College_and_Apartments_-_geograph.org.uk_-_37171.jpg/440px-College_and_Apartments_-_geograph.org.uk_-_37171.jpg 2x" data-file-width="640" data-file-height="221" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:College_and_Apartments_-_geograph.org.uk_-_37171.jpg" class="internal" title="Enlarge"></a></div>Former site of Huddersfield College, further near the town centre on the A640</div></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_New_College&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://huddersfield1.co.uk/huddersfield/huddsmemory.htm">Huddersfield One</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news">Stewart, Graham (26 May 2007). <a rel="nofollow" class="external text" href="http://www.timesonline.co.uk/tol/comment/columnists/graham_stewart/article1842690.ece">"The grammar schools slow death since 1963"</a>. <i>The Times</i>. London.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Times&amp;rft.atitle=The+grammar+schools+slow+death+since+1963&amp;rft.date=2007-05-26&amp;rft.aulast=Stewart&amp;rft.aufirst=Graham&amp;rft_id=http%3A%2F%2Fwww.timesonline.co.uk%2Ftol%2Fcomment%2Fcolumnists%2Fgraham_stewart%2Farticle1842690.ece&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+New+College" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://www.ofsted.gov.uk/provider/files/1996651/urn/130539.pdf">[1]</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external autonumber" href="http://reports.OFSTED.gov.uk/provider/files/2568243/urn/130539.pdf">[2]</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/news/local-west-yorkshire-news/2010/03/22/huddersfield-s-zoe-lucker-set-for-eastenders-role-86081-26080366/">Huddersfield Examiner</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://www.ukwhoswho.com/view/article/oupww/whoswho/U27958">"MOORE, Prof. Michael Arthur"</a>. <i><a href="/wiki/Who%27s_Who_(UK)" title="Who&#39;s Who (UK)">Who's Who</a></i>. <i>ukwhoswho.com</i>. <b>2015</b> (online <a href="/wiki/Oxford_University_Press" title="Oxford University Press">Oxford University Press</a> ed.). A &amp; C Black, an imprint of Bloomsbury Publishing plc.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=MOORE%2C+Prof.+Michael+Arthur&amp;rft.btitle=Who%27s+Who&amp;rft.edition=online+Oxford+University+Press&amp;rft.pub=A+%26+C+Black%2C+an+imprint+of+Bloomsbury+Publishing+plc&amp;rft_id=https%3A%2F%2Fwww.ukwhoswho.com%2Fview%2Farticle%2Foupww%2Fwhoswho%2FU27958&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+New+College" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> <span style="font-size:0.95em; font-size:90%; color:#555">(subscription or <a rel="nofollow" class="external text" href="https://www.ukwhoswho.com/page/subscribe#public">UK public library membership</a> required)</span>
+
+</span>
+</li>
+<li id="cite_note-Times_Obituary-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Times_Obituary_7-0">^</a></b></span> <span class="reference-text">"Sir Amos Hirst." <i><a href="/wiki/The_Times" title="The Times">The Times</a></i>, London, 28 November 1955, pg. 13</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170108211735/http://www.nation.co.ke/news/The-life-of-Prof-Ali-Mazrui/1056-2484826-kfg2t7z/index.html">"The life of Prof Ali Mazrui: 13 things you should know"</a>. <i>Daily Nation</i>. 13 October 2014. Archived from <a rel="nofollow" class="external text" href="http://www.nation.co.ke/news/The-life-of-Prof-Ali-Mazrui/1056-2484826-kfg2t7z/index.html">the original</a> on 8 January 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">21 August</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Daily+Nation&amp;rft.atitle=The+life+of+Prof+Ali+Mazrui%3A+13+things+you+should+know&amp;rft.date=2014-10-13&amp;rft_id=http%3A%2F%2Fwww.nation.co.ke%2Fnews%2FThe-life-of-Prof-Ali-Mazrui%2F1056-2484826-kfg2t7z%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+New+College" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_New_College&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Huddersfield_New_College" class="extiw" title="commons:Category:Huddersfield New College">Huddersfield New College</a> at Wikimedia Commons</li>
+<li><a rel="nofollow" class="external text" href="http://www.huddnewcoll.ac.uk">Huddersfield New College website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.edubase.gov.uk/establishment/summary.xhtml?urn=130539">EduBase</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Universities_and_colleges_in_Yorkshire_and_the_Humber" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Universities_and_colleges_in_Yorkshire_and_the_Humber" title="Template:Universities and colleges in Yorkshire and the Humber"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Universities_and_colleges_in_Yorkshire_and_the_Humber" title="Template talk:Universities and colleges in Yorkshire and the Humber"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Universities_and_colleges_in_Yorkshire_and_the_Humber&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Universities_and_colleges_in_Yorkshire_and_the_Humber" style="font-size:114%;margin:0 4em">Universities and colleges in <a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire and the Humber</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Universities</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/BPP_University" title="BPP University">BPP</a></li>
+<li><a href="/wiki/University_of_Bradford" title="University of Bradford">Bradford</a></li>
+<li><a href="/wiki/University_of_Huddersfield" title="University of Huddersfield">Huddersfield</a></li>
+<li><a href="/wiki/University_of_Hull" title="University of Hull">Hull</a></li>
+<li><a href="/wiki/University_of_Law" title="University of Law">Law</a></li>
+<li><a href="/wiki/University_of_Leeds" title="University of Leeds">Leeds</a></li>
+<li><a href="/wiki/Leeds_Arts_University" title="Leeds Arts University">Leeds Arts</a></li>
+<li><a href="/wiki/Leeds_Beckett_University" title="Leeds Beckett University">Leeds Beckett</a></li>
+<li><a href="/wiki/Leeds_College_of_Music" title="Leeds College of Music">Leeds Music</a></li>
+<li><a href="/wiki/Leeds_Trinity_University" title="Leeds Trinity University">Leeds Trinity</a></li>
+<li><a href="/wiki/University_of_Sheffield" title="University of Sheffield">Sheffield</a></li>
+<li><a href="/wiki/Sheffield_Hallam_University" title="Sheffield Hallam University">Sheffield Hallam</a></li>
+<li><a href="/wiki/University_of_York" title="University of York">York</a></li>
+<li><a href="/wiki/York_St_John_University" title="York St John University">York St John</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Further Education colleges</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Askham_Bryan_College" title="Askham Bryan College">Askham Bryan</a></li>
+<li><a href="/wiki/Barnsley_College" title="Barnsley College">Barnsley</a></li>
+<li><a href="/wiki/Bishop_Burton_College" title="Bishop Burton College">Bishop Burton</a></li>
+<li><a href="/wiki/Bradford_College_(England)" class="mw-redirect" title="Bradford College (England)">Bradford</a></li>
+<li><a href="/wiki/Calderdale_College" title="Calderdale College">Calderdale</a></li>
+<li><a href="/wiki/Craven_College" title="Craven College">Craven</a></li>
+<li><a href="/wiki/Dearne_Valley_College" title="Dearne Valley College">Dearne Valley</a></li>
+<li><a href="/wiki/Doncaster_College" title="Doncaster College">Doncaster</a></li>
+<li><a href="/wiki/East_Riding_College" title="East Riding College">East Riding</a></li>
+<li><a href="/wiki/Endeavour_Learning_and_Skills_Centre" title="Endeavour Learning and Skills Centre">Endeavour</a></li>
+<li><a href="/wiki/Grimsby_Institute_of_Further_%26_Higher_Education" title="Grimsby Institute of Further &amp; Higher Education">Grimsby</a></li>
+<li><a href="/wiki/Hull_College" title="Hull College">Hull</a></li>
+<li><a href="/wiki/Kirklees_College" title="Kirklees College">Kirklees</a></li>
+<li><a href="/wiki/Leeds_College_of_Building" title="Leeds College of Building">Leeds Building</a></li>
+<li><a href="/wiki/Leeds_City_College" title="Leeds City College">Leeds City</a></li>
+<li><a href="/wiki/Northern_College_for_Residential_and_Non-Residential_Adult_Education" class="mw-redirect" title="Northern College for Residential and Non-Residential Adult Education">Northern</a></li>
+<li><a href="/wiki/North_Lindsey_College" title="North Lindsey College">North Lindsey</a></li>
+<li><a href="/wiki/Rotherham_College" title="Rotherham College">Rotherham</a></li>
+<li><a href="/wiki/Scarborough_TEC" title="Scarborough TEC">Scarborough</a></li>
+<li><a href="/wiki/Selby_College" title="Selby College">Selby</a></li>
+<li><a href="/wiki/Sheffield_College" class="mw-redirect" title="Sheffield College">Sheffield</a></li>
+<li><a href="/wiki/Shipley_College" title="Shipley College">Shipley</a></li>
+<li><a href="/wiki/Wakefield_College" title="Wakefield College">Wakefield</a></li>
+<li><a href="/wiki/York_College_(York)" title="York College (York)">York</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Sixth form colleges</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chapeltown_Academy" title="Chapeltown Academy">Chapeltown</a></li>
+<li><a href="/wiki/Doncaster_Collegiate_Sixth_Form" title="Doncaster Collegiate Sixth Form">Doncaster Collegiate</a></li>
+<li><a href="/wiki/Elliott_Hudson_College" title="Elliott Hudson College">Elliott Hudson</a></li>
+<li><a href="/wiki/Franklin_College,_Grimsby" title="Franklin College, Grimsby">Franklin</a></li>
+<li><a href="/wiki/Greenhead_College" title="Greenhead College">Greenhead</a></li>
+<li><a class="mw-selflink selflink">Huddersfield New</a></li>
+<li><a href="/wiki/John_Leggott_College" title="John Leggott College">John Leggott</a></li>
+<li><a href="/wiki/Longley_Park_Sixth_Form_College" title="Longley Park Sixth Form College">Longley Park</a></li>
+<li><a href="/wiki/The_Maltings_College" title="The Maltings College">Maltings</a></li>
+<li><a href="/wiki/NEW_College,_Pontefract" title="NEW College, Pontefract">NEW</a></li>
+<li><a href="/wiki/Notre_Dame_Catholic_Sixth_Form_College" title="Notre Dame Catholic Sixth Form College">Notre Dame</a></li>
+<li><a href="/wiki/Scarborough_Sixth_Form_College" title="Scarborough Sixth Form College">Scarborough</a></li>
+<li><a href="/wiki/Thomas_Rotherham_College" title="Thomas Rotherham College">Thomas Rotherham</a></li>
+<li><a href="/wiki/Wilberforce_College" title="Wilberforce College">Wilberforce</a></li>
+<li><a href="/wiki/Wyke_College" title="Wyke College">Wyke</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Schools_in_Kirklees" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Schools_in_Kirklees" title="Template:Schools in Kirklees"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Schools_in_Kirklees" title="Template talk:Schools in Kirklees"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Schools_in_Kirklees&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Schools_in_Kirklees" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_schools_in_Kirklees" title="List of schools in Kirklees">Schools in Kirklees</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Primary schools</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Almondbury_Community_School" title="Almondbury Community School">Almondbury Community School</a></li>
+<li><a href="/wiki/Batley_Grammar_School" title="Batley Grammar School">Batley Grammar School</a></li>
+<li><a href="/wiki/Crowlees_Junior_and_Infant_School" title="Crowlees Junior and Infant School">Crowlees Junior &amp; Infant School</a></li>
+<li><a href="/wiki/Netherhall_Learning_Campus" title="Netherhall Learning Campus">Netherhall Learning Campus</a></li>
+<li><a href="/wiki/Royds_Hall_School" title="Royds Hall School">Royds Hall School</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Middle schools</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Scissett_Middle_School" title="Scissett Middle School">Scissett Middle School</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Secondary schools</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/All_Saints_Catholic_College,_Huddersfield" title="All Saints Catholic College, Huddersfield">All Saints RC College</a></li>
+<li><a href="/wiki/Almondbury_Community_School" title="Almondbury Community School">Almondbury Community School</a></li>
+<li><a href="/wiki/Batley_Girls%27_High_School" title="Batley Girls&#39; High School">Batley Girls' High School</a></li>
+<li><a href="/wiki/Batley_Grammar_School" title="Batley Grammar School">Batley Grammar School</a></li>
+<li><a href="/wiki/BBG_Academy" title="BBG Academy">BBG Academy</a></li>
+<li><a href="/wiki/Castle_Hall_Academy" title="Castle Hall Academy">Castle Hall Academy</a></li>
+<li><a href="/wiki/Colne_Valley_High_School" title="Colne Valley High School">Colne Valley High School</a></li>
+<li><a href="/wiki/Creative_and_Media_Studio_School" title="Creative and Media Studio School">Creative &amp; Media Studio School</a></li>
+<li><a href="/wiki/Holmfirth_High_School" title="Holmfirth High School">Holmfirth High School</a></li>
+<li><a href="/wiki/Honley_High_School" title="Honley High School">Honley High School</a></li>
+<li><a href="/wiki/King_James%27s_School,_Almondbury" title="King James&#39;s School, Almondbury">King James's School</a></li>
+<li><a href="/wiki/Manor_Croft_Academy" title="Manor Croft Academy">Manor Croft Academy</a></li>
+<li><a href="/wiki/The_Mirfield_Free_Grammar" title="The Mirfield Free Grammar">The Mirfield Free Grammar</a></li>
+<li><a href="/wiki/Moor_End_Academy" title="Moor End Academy">Moor End Academy</a></li>
+<li><a href="/wiki/Netherhall_Learning_Campus" title="Netherhall Learning Campus">Netherhall Learning Campus</a></li>
+<li><a href="/wiki/North_Huddersfield_Trust_School" title="North Huddersfield Trust School">North Huddersfield Trust School</a></li>
+<li><a href="/wiki/Royds_Hall_School" title="Royds Hall School">Royds Hall School</a></li>
+<li><a href="/wiki/St_John_Fisher_Catholic_Voluntary_Academy" title="St John Fisher Catholic Voluntary Academy">St John Fisher RC Academy</a></li>
+<li><a href="/wiki/Salendine_Nook_High_School" title="Salendine Nook High School">Salendine Nook High School</a></li>
+<li><a href="/wiki/Shelley_College" title="Shelley College">Shelley College</a></li>
+<li><a href="/wiki/Spen_Valley_High_School" title="Spen Valley High School">Spen Valley High School</a></li>
+<li><a href="/wiki/Thornhill_Community_Academy" title="Thornhill Community Academy">Thornhill Community Academy</a></li>
+<li><a href="/wiki/Upper_Batley_High_School" title="Upper Batley High School">Upper Batley High School</a></li>
+<li><a href="/wiki/Westborough_High_School,_Dewsbury" title="Westborough High School, Dewsbury">Westborough High School</a></li>
+<li><a href="/wiki/Whitcliffe_Mount_School" title="Whitcliffe Mount School">Whitcliffe Mount School</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Grammar schools</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Heckmondwike_Grammar_School" title="Heckmondwike Grammar School">Heckmondwike Grammar School</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Independent schools</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Huddersfield_Grammar_School" title="Huddersfield Grammar School">Huddersfield Grammar School</a></li>
+<li><a href="/wiki/Markazi_Masjid" class="mw-redirect" title="Markazi Masjid">Markazi Masjid</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">FE &amp; sixth form colleges</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Greenhead_College" title="Greenhead College">Greenhead College</a></li>
+<li><a class="mw-selflink selflink">Huddersfield New College</a></li>
+<li><a href="/wiki/Kirklees_College" title="Kirklees College">Kirklees College</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct schools</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Birkdale_High_School" title="Birkdale High School">Birkdale High School</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20190925023104
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.644 seconds
+Real time usage: 0.850 seconds
+Preprocessor visited node count: 4329/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 72694/2097152 bytes
+Template argument size: 11493/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 11076/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.335/10.000 seconds
+Lua memory usage: 5.66 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  754.416      1 -total
+ 52.19%  393.706      1 Template:Infobox_school
+ 32.58%  245.794      1 Template:Infobox
+ 16.03%  120.948      1 Template:Reflist
+ 15.75%  118.838      9 Template:Citation_needed
+ 15.55%  117.313      1 Template:Infobox_school/short_description
+ 13.90%  104.867      9 Template:Fix
+ 11.92%   89.962      2 Template:Cite_news
+  7.51%   56.619     46 Template:If_empty
+  7.17%   54.095     18 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1055775-0!canonical and timestamp 20190925023103 and revision id 915323482
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Huddersfield_New_College&amp;oldid=915323482">https://en.wikipedia.org/w/index.php?title=Huddersfield_New_College&amp;oldid=915323482</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Schools_in_Huddersfield" title="Category:Schools in Huddersfield">Schools in Huddersfield</a></li><li><a href="/wiki/Category:Educational_institutions_established_in_1958" title="Category:Educational institutions established in 1958">Educational institutions established in 1958</a></li><li><a href="/wiki/Category:Sixth_form_colleges_in_West_Yorkshire" title="Category:Sixth form colleges in West Yorkshire">Sixth form colleges in West Yorkshire</a></li><li><a href="/wiki/Category:Defunct_grammar_schools_in_England" title="Category:Defunct grammar schools in England">Defunct grammar schools in England</a></li><li><a href="/wiki/Category:Education_in_Kirklees" title="Category:Education in Kirklees">Education in Kirklees</a></li><li><a href="/wiki/Category:1958_establishments_in_England" title="Category:1958 establishments in England">1958 establishments in England</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_July_2013" title="Category:Use dmy dates from July 2013">Use dmy dates from July 2013</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2017" title="Category:Articles with unsourced statements from August 2017">Articles with unsourced statements from August 2017</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Huddersfield+New+College" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Huddersfield+New+College" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Huddersfield_New_College" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Huddersfield_New_College" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Huddersfield_New_College">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Huddersfield_New_College&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Huddersfield_New_College&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Huddersfield_New_College" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Huddersfield_New_College" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Huddersfield_New_College&amp;oldid=915323482" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Huddersfield_New_College&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5928264" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Huddersfield_New_College&amp;id=915323482" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Huddersfield_New_College" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Huddersfield+New+College">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Huddersfield+New+College&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Huddersfield_New_College&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5928264#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 12 September 2019, at 15:10<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Huddersfield_New_College&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.644","walltime":"0.850","ppvisitednodes":{"value":4329,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":72694,"limit":2097152},"templateargumentsize":{"value":11493,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11076,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  754.416      1 -total"," 52.19%  393.706      1 Template:Infobox_school"," 32.58%  245.794      1 Template:Infobox"," 16.03%  120.948      1 Template:Reflist"," 15.75%  118.838      9 Template:Citation_needed"," 15.55%  117.313      1 Template:Infobox_school/short_description"," 13.90%  104.867      9 Template:Fix"," 11.92%   89.962      2 Template:Cite_news","  7.51%   56.619     46 Template:If_empty","  7.17%   54.095     18 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.335","limit":"10.000"},"limitreport-memusage":{"value":5939332,"limit":52428800}},"cachereport":{"origin":"mw1319","timestamp":"20190925023104","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Huddersfield New College","url":"https:\/\/en.wikipedia.org\/wiki\/Huddersfield_New_College","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5928264","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5928264","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-10-10T22:27:05Z","dateModified":"2019-09-12T15:10:17Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/d\/db\/Huddersfield_New_College_logo.jpg","headline":"college in Kirklees, UK"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1327"});});</script>
+</body>
+</html>
+

@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Castle Hill, Huddersfield - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Castle_Hill,_Huddersfield","wgTitle":"Castle Hill, Huddersfield","wgCurRevisionId":915147051,"wgRevisionId":915147051,"wgArticleId":3490804,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use British English from September 2019","Use dmy dates from September 2019","Articles with OS grid coordinates","Coordinates on Wikidata","Buildings and structures in Huddersfield","Tourist attractions in Huddersfield","Hill forts in West Yorkshire","Kirklees"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":[
+"","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Castle_Hill,_Huddersfield","wgRelevantArticleId":3490804,"wgRequestId":"XYrl9QpAIC4AAAlEE1oAAABD","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":53.62232,"lon":-1.77167},"wgWikibaseItemId":"Q5050122","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Castle_Hill,_Huddersfield"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Castle_Hill,_Huddersfield&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Castle_Hill,_Huddersfield&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Castle_Hill,_Huddersfield"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Castle_Hill_Huddersfield rootpage-Castle_Hill_Huddersfield skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Castle Hill, Huddersfield</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>
+
+<b>Castle Hill</b> is a <a href="/wiki/Scheduled_ancient_monument" class="mw-redirect" title="Scheduled ancient monument">scheduled ancient monument</a> in <a href="/wiki/Almondbury" title="Almondbury">Almondbury</a> overlooking <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a> in the Metropolitan Borough of <a href="/wiki/Kirklees" title="Kirklees">Kirklees</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, England. The hilltop has been settled for at least 4,000 years. The  scheduled monument comprises the remains of a late-<a href="/wiki/Bronze_Age" title="Bronze Age">Bronze Age</a> or early <a href="/wiki/Iron_Age" title="Iron Age">Iron Age</a> <a href="/wiki/Univallate_hillfort" class="mw-redirect" title="Univallate hillfort">univallate hillfort</a> with a single raised bank, a later Iron Age multivallate hillfort, a 12th-century <a href="/wiki/Motte_and_bailey" class="mw-redirect" title="Motte and bailey">motte and bailey</a> castle and the site of a <a href="/wiki/Deserted_medieval_village" title="Deserted medieval village">deserted medieval village</a>.<sup id="cite_ref-CH_1-0" class="reference"><a href="#cite_note-CH-1">&#91;1&#93;</a></sup>  The grade II <a href="/wiki/Listed_Building" class="mw-redirect" title="Listed Building">listed</a> <b>Victoria Tower</b> on the summit of Castle Hill is by far the most conspicuous landmark in Huddersfield.<sup id="cite_ref-VT_2-0" class="reference"><a href="#cite_note-VT-2">&#91;2&#93;</a></sup> The hill has been a place of recreation for hundreds of years and the easily discernible remains of past occupation have made it a subject for legend, speculation and scientific study. It is located on UK Maps at <a href="/wiki/Ordnance_Survey_National_Grid" title="Ordnance Survey National Grid">grid reference</a> <span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.622320888251;-1.7716700313014_region:GB_scale:25000?pagename=Castle_Hill,_Huddersfield">SE152140</a></span>.
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:702px;"><a href="/wiki/File:Castle_Hill_2003-11-12_14-04-25_P1210664.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Castle_Hill_2003-11-12_14-04-25_P1210664.jpg/700px-Castle_Hill_2003-11-12_14-04-25_P1210664.jpg" decoding="async" width="700" height="221" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Castle_Hill_2003-11-12_14-04-25_P1210664.jpg/1050px-Castle_Hill_2003-11-12_14-04-25_P1210664.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d8/Castle_Hill_2003-11-12_14-04-25_P1210664.jpg 2x" data-file-width="1400" data-file-height="441" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Castle_Hill_2003-11-12_14-04-25_P1210664.jpg" class="internal" title="Enlarge"></a></div>Castle Hill and the Victoria Tower viewed from <a href="/wiki/Farnley_Tyas" title="Farnley Tyas">Farnley Tyas</a></div></div></div></div>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Geology"><span class="tocnumber">1</span> <span class="toctext">Geology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Early_history"><span class="tocnumber">2.1</span> <span class="toctext">Early history</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Modern_history"><span class="tocnumber">2.2</span> <span class="toctext">Modern history</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Victoria_Tower"><span class="tocnumber">3</span> <span class="toctext">Victoria Tower</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Geology">Geology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Castle_Hill,_Huddersfield&amp;action=edit&amp;section=1" title="Edit section: Geology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The hill owes its shape to an outlying cap of hard <a href="/wiki/Grenoside" title="Grenoside">Grenoside</a> <a href="/wiki/Sandstone" title="Sandstone">sandstone</a> that has protected the softer stone beneath from erosion. The slopes below Castle Hill are formed from alternating deposits of <a href="/wiki/Shale" title="Shale">shale</a> and harder <a href="/wiki/Sandstone" title="Sandstone">sandstones</a> and form a series of slopes and benches.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>  Five coal seams lie within the shales of the lower slopes some of which have been worked along the hillside, by <a href="/wiki/Adit" title="Adit">adits</a> and shafts. Workings are visible in several places and there is also evidence of old quarries that have been infilled.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Castle_Hill,_Huddersfield&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Early_history">Early history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Castle_Hill,_Huddersfield&amp;action=edit&amp;section=3" title="Edit section: Early history">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The first people to visit Castle Hill were probably hunters and gatherers of the <a href="/wiki/Mesolithic" title="Mesolithic">Mesolithic</a> age, camping amongst the forests which at that time covered the land. In the <a href="/wiki/Neolithic" title="Neolithic">Neolithic</a> and <a href="/wiki/Bronze_Age" title="Bronze Age">Bronze Age</a>, there appears to have been widespread travel or trade along the river valleys connecting the <a href="/wiki/Yorkshire_Wolds" title="Yorkshire Wolds">Yorkshire Wolds</a>, the <a href="/wiki/Peak_District" title="Peak District">Peak District</a> and the <a href="/wiki/Mersey" class="mw-redirect" title="Mersey">Mersey</a> and <a href="/wiki/River_Ribble" title="River Ribble">Ribble</a> estuaries. This is shown by various characteristic types of stone and bronze tools in a place far from their points of origin.  The hillfort was constructed in the early Iron Age, around 555&#160;BC taking up the whole hilltop. Modifications were made around 43&#160;AD to improve the defences, probably in response to the threat from the <a href="/wiki/Roman_Britain" title="Roman Britain">Roman invaders</a>.
+</p><p>Excavations on part of the hillfort in 1970 demonstrated that Castle Hill had at some stage suffered from a severe episode of burning. <a href="/wiki/Vitrified_fort" title="Vitrified fort">Vitrified forts</a> such as Castle Hill are rarely found in England, and are more usual in Scotland.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>The banks and ditches that remain are more likely to be the result of recutting and other alterations carried out during the <a href="/wiki/Middle_Ages" title="Middle Ages">Middle Ages</a>, and modified by centuries of erosion. After the <a href="/wiki/Norman_Conquest" class="mw-redirect" title="Norman Conquest">Norman Conquest</a> of 1066, <a href="/wiki/Almondbury" title="Almondbury">Almondbury</a> became part of the Honour of <a href="/wiki/Pontefract" title="Pontefract">Pontefract</a>, which was held by the <a href="/wiki/De_Laci" class="mw-redirect" title="De Laci">de Laci</a> family. They established a small <a href="/wiki/Castle" title="Castle">castle</a> on the hill. It is mentioned in a charter of <a href="/wiki/Stephen_of_England" class="mw-redirect" title="Stephen of England">King Stephen</a> to <a href="/wiki/De_Laci" class="mw-redirect" title="De Laci">Henry de Laci</a> of about 1142 to 1154. Archaeological excavation has provided a wooden stake, radiocarbon-dated to the late 1140s, and a coin of about 1160. It can be assumed that the castle was complete and occupied by the 1140s.
+</p><p>In the early 14th century there was an attempt to found a settlement in the lower bailey, and possibly elsewhere on the hill.  Aerial photography revealed a central roadway flanked by regularly laid-out plots. It was probably abandoned by the 1340s, although memory of it may have lingered, since the map of Almondbury drawn up in 1634 marks the hill as the site of a town. After the end of the Middle Ages, Castle Hill remained uninhabited until the early 19th century. Its prominent position made it an ideal site for a warning beacon, as part of a network of such beacons on other prominent hills all over the country, spreading out in lines from the coast.
+</p>
+<h3><span class="mw-headline" id="Modern_history">Modern history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Castle_Hill,_Huddersfield&amp;action=edit&amp;section=4" title="Edit section: Modern history">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Castle Hill's flat top was a venue for large political, religious and other meetings. <a href="/wiki/Chartism" title="Chartism">Chartist</a> rallies were held at least four times, in 1843 and 1848. During the great weavers’ strike of 1883 a rally of between two and three thousand people braved bitter weather to listen to speeches by union leaders. A tavern to cater for pleasure-seekers was built on the hill in about 1810–11. A bowling green was formerly situated to the south of it. Other pursuits recorded there included bare-knuckled <a href="/wiki/Prize_fight" class="mw-redirect" title="Prize fight">prize fights</a>, <a href="/wiki/Dog_fighting" title="Dog fighting">dogfights</a> and <a href="/wiki/Cockfight" title="Cockfight">cockfights</a>. 
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Castle_Hill,_WW2_AA_Battery_(RLH).JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Castle_Hill%2C_WW2_AA_Battery_%28RLH%29.JPG/300px-Castle_Hill%2C_WW2_AA_Battery_%28RLH%29.JPG" decoding="async" width="300" height="127" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Castle_Hill%2C_WW2_AA_Battery_%28RLH%29.JPG/450px-Castle_Hill%2C_WW2_AA_Battery_%28RLH%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Castle_Hill%2C_WW2_AA_Battery_%28RLH%29.JPG/600px-Castle_Hill%2C_WW2_AA_Battery_%28RLH%29.JPG 2x" data-file-width="1552" data-file-height="658" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Castle_Hill,_WW2_AA_Battery_(RLH).JPG" class="internal" title="Enlarge"></a></div>Remains of a Second World War Anti-Aircraft battery at Castle Hill</div></div></div>
+<p>The Thandi Partnership bought the <a href="/wiki/Public_house" class="mw-redirect" title="Public house">public house</a> on land <a href="/wiki/Leasing" class="mw-redirect" title="Leasing">leased</a> from Kirklees Borough Council and applied for planning permission to renovate it. After breaching planning conditions,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> the pub was demolished. Subsequent plans to rebuild it have been rejected.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>An <a href="/wiki/Anti-aircraft_gun" class="mw-redirect" title="Anti-aircraft gun">anti-aircraft battery</a> was built near the south-east end of the hill and a <a href="/wiki/Rangefinder" title="Rangefinder">range finder</a> is located at the north side of the outer bailey, the remains of which may be seen, and pieces of high-explosive shell casings are occasionally picked up in the adjacent fields.
+</p><p>Today the hill retains the remnants of all its past uses, and is a popular site for local people and tourists.  Overhead electricity cables were relocated below ground in 2006 to enable <a href="/wiki/Kite_flying" class="mw-redirect" title="Kite flying">kite</a> users to make use of the hilltop winds.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Victoria_Tower">Victoria Tower</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Castle_Hill,_Huddersfield&amp;action=edit&amp;section=5" title="Edit section: Victoria Tower">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:162px;"><a href="/wiki/File:Victoria_Tower_Castle_Hill(RLH).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Victoria_Tower_Castle_Hill%28RLH%29.jpg/160px-Victoria_Tower_Castle_Hill%28RLH%29.jpg" decoding="async" width="160" height="239" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Victoria_Tower_Castle_Hill%28RLH%29.jpg/240px-Victoria_Tower_Castle_Hill%28RLH%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Victoria_Tower_Castle_Hill%28RLH%29.jpg/320px-Victoria_Tower_Castle_Hill%28RLH%29.jpg 2x" data-file-width="429" data-file-height="640" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Victoria_Tower_Castle_Hill(RLH).jpg" class="internal" title="Enlarge"></a></div>Victoria Tower at Castle Hill</div></div></div>
+<p>By 1897 <a href="/wiki/Queen_Victoria" title="Queen Victoria">Queen Victoria</a> had reigned over the <a href="/wiki/British_Empire" title="British Empire">British Empire</a> for sixty years, longer than any other monarch. A permanent memorial of this event was planned in the form of a tower perched on the hill overlooking the town of Huddersfield. Despite some difficulty raising the money required, the tower was opened by the <a href="/wiki/Earl_of_Scarbrough" title="Earl of Scarbrough">Earl of Scarborough</a> on 24 June 1899. Although often referred to as the Jubilee Tower, the correct name is the Victoria Tower. Designed by Isaac Jones of London, it was built by the firm of Ben Graham and Sons of Folly Hall, using stone from <a href="/wiki/Crosland_Moor" title="Crosland Moor">Crosland Hill</a>. It cost £3,298, and was 106 feet (32.3 m) high, which, added to the height of the hill itself, made the top 1,000 feet (305 m) above sea level.
+</p><p>During the Second World War it was suggested that the tower should be demolished to prevent it from being used as a navigation aid by German <a href="/wiki/Bomber" title="Bomber">bombers</a>. A few bombs were dropped near the tower in 1940 and 1941, but were probably just randomly jettisoned.
+</p><p>The tower is a Grade II-designated <a href="/wiki/Listed_Building" class="mw-redirect" title="Listed Building">Listed Building</a>.<sup id="cite_ref-VT_2-1" class="reference"><a href="#cite_note-VT-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Castle_Hill,_Huddersfield&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-CH-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-CH_1-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1009846" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1009846">"Castle Hill: slight univallate hillfort, small multivallate hillfort, motte and bailey castle and deserted village (1009846)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Castle+Hill%3A+slight+univallate+hillfort%2C+small+multivallate+hillfort%2C+motte+and+bailey+castle+and+deserted+village+%281009846%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1009846&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACastle+Hill%2C+Huddersfield" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-VT-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-VT_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-VT_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFHistoric_England1210385" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1210385">"Victoria Tower, Castle Hill (1210385)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Victoria+Tower%2C+Castle+Hill+%281210385%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1210385&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACastle+Hill%2C+Huddersfield" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.wyorksgeologytrust.org/castlehill.html">"Castle Hill, Huddersfield"</a>. West Yorkshire Geology Trust<span class="reference-accessdate">. Retrieved <span class="nowrap">1 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Castle+Hill%2C+Huddersfield&amp;rft.pub=West+Yorkshire+Geology+Trust&amp;rft_id=http%3A%2F%2Fwww.wyorksgeologytrust.org%2Fcastlehill.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACastle+Hill%2C+Huddersfield" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Muir, Richard (1997). <i>The Yorkshire countryside&#160;: a landscape history</i>. Edinburgh: Keele Univ. Press. p.&#160;69. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781853311987" title="Special:BookSources/9781853311987"><bdi>9781853311987</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Yorkshire+countryside+%3A+a+landscape+history&amp;rft.place=Edinburgh&amp;rft.pages=69&amp;rft.pub=Keele+Univ.+Press&amp;rft.date=1997&amp;rft.isbn=9781853311987&amp;rft.aulast=Muir&amp;rft.aufirst=Richard&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACastle+Hill%2C+Huddersfield" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Harding, D.W. (2012). <i>Iron age hillforts in Britain and beyond</i> (1st ed.). Oxford: Oxford University Press. p.&#160;67. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780199695249" title="Special:BookSources/9780199695249"><bdi>9780199695249</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Iron+age+hillforts+in+Britain+and+beyond&amp;rft.place=Oxford&amp;rft.pages=67&amp;rft.edition=1st&amp;rft.pub=Oxford+University+Press&amp;rft.date=2012&amp;rft.isbn=9780199695249&amp;rft.aulast=Harding&amp;rft.aufirst=D.W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACastle+Hill%2C+Huddersfield" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20061012102618/http://www.huddersfieldcivicsociety.org.uk/docs/hcs-newsletter-winter-2004.pdf">"Huddersfield Civic Society Newsletter – Winter 2004"</a> <span class="cs1-format">(PDF)</span>. Huddersfield Civic Society. p.&#160;8. Archived from <a rel="nofollow" class="external text" href="http://www.huddersfieldcivicsociety.org.uk/docs/hcs-newsletter-winter-2004.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 12 October 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">1 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Huddersfield+Civic+Society+Newsletter+%E2%80%93+Winter+2004&amp;rft.pages=8&amp;rft.pub=Huddersfield+Civic+Society&amp;rft_id=http%3A%2F%2Fwww.huddersfieldcivicsociety.org.uk%2Fdocs%2Fhcs-newsletter-winter-2004.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACastle+Hill%2C+Huddersfield" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/news/west-yorkshire-news/thandi-brothers-new-attempt-build-4961729">Huddersfield Examiner – Thandi Brothers new attempt to build at Castle Hill (5 December 2011)</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/news/west-yorkshire-news/thandi-brothers-submit-new-castle-4948387">Thandi Brothers Submit new Castle Hill pub application (5 July 2012)</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/news/local-west-yorkshire-news/2006/01/23/most-miserable-day-of-the-year-86081-16618218/">Huddersfield Examiner, See item 13 (23 January 2006)</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Castle_Hill,_Huddersfield&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://archiseek.com/2014/1898-castle-hill-tower-huddersfield-yorkshire/#.VHW8rukqWM8">Architect's drawing</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081121043328/http://www.wyorksgeologytrust.org/kirklees/castlehill.html">West Yorkshire Geology Trust</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081203131644/http://www.huddersfieldgeology.freeola.org/pages/p30c.htm">Hudderfield Geology Group</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100218113929/http://www.kirklees.gov.uk/community/yoursay/castlehill/consultation.shtml">Conservation management plan</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110609181801/http://www.kirklees.gov.uk/events/documents/castle-hill-plans.pdf">Proposed landscape improvement plan</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/multimedia/news/2012/09/12/castle-hill-in-rain-wind-snow-shine-and-more-86081-31821836/#leaf">Gallery of images from and of Castle Hill</a></li>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="https://hillforts.arch.ox.ac.uk/?query=Atlas_of_Hillforts_4166_0,Main_Atlas_Number,161">"Almondbury Castle Hill"</a>. <i><a href="/wiki/Atlas_of_Hillforts_of_Britain_and_Ireland" title="Atlas of Hillforts of Britain and Ireland">Atlas of Hillforts of Britain and Ireland</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">18 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Atlas+of+Hillforts+of+Britain+and+Ireland&amp;rft.atitle=Almondbury+Castle+Hill&amp;rft_id=https%3A%2F%2Fhillforts.arch.ox.ac.uk%2F%3Fquery%3DAtlas_of_Hillforts_4166_0%2CMain_Atlas_Number%2C161&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACastle+Hill%2C+Huddersfield" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Castle_Hill,_Huddersfield&amp;params=53.62232_N_1.77167_W_region:GB_source:enwiki-osgb36(SE152140)"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°37′20″N</span> <span class="longitude">1°46′18″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.62232°N 1.77167°W</span><span style="display:none">&#xfeff; / <span class="geo">53.62232; -1.77167</span></span></span></a></span></span></span>
+</p>
+<div role="navigation" class="navbox" aria-labelledby="West_Yorkshire_museums" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:West_Yorkshire_museums" title="Template:West Yorkshire museums"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:West_Yorkshire_museums" title="Template talk:West Yorkshire museums"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:West_Yorkshire_museums&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="West_Yorkshire_museums" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_museums_in_West_Yorkshire" title="List of museums in West Yorkshire">West Yorkshire museums</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Museums_in_Bradford" title="Category:Museums in Bradford">City of Bradford museums</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Baildon" title="Baildon">Baildon</a></b>: <a href="/wiki/Bracken_Hall_Countryside_Centre_and_Museum" title="Bracken Hall Countryside Centre and Museum">Bracken Hall Countryside Centre and Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Bradford" title="Bradford">Bradford</a></b>: <a href="/wiki/Bolling_Hall,_Bradford" title="Bolling Hall, Bradford">Bolling Hall Museum</a></li>
+<li><a href="/wiki/Bradford_Industrial_Museum" title="Bradford Industrial Museum">Bradford Industrial Museum</a></li>
+<li><a href="/wiki/Cartwright_Hall" title="Cartwright Hall">Cartwright Hall</a></li>
+<li><a href="/wiki/National_Media_Museum" class="mw-redirect" title="National Media Museum">National Media Museum</a></li>
+<li><a href="/wiki/Peace_Museum,_Bradford" title="Peace Museum, Bradford">Peace Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Haworth" title="Haworth">Haworth</a></b>: <a href="/wiki/Bront%C3%AB_Parsonage_Museum" title="Brontë Parsonage Museum">Brontë Parsonage Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Ilkley" title="Ilkley">Ilkley</a></b>: <a href="/wiki/Ilkley_Toy_Museum" title="Ilkley Toy Museum">Ilkley Toy Museum</a></li>
+<li><a href="/wiki/Manor_House_Museum" title="Manor House Museum">Manor House Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Keighley" title="Keighley">Keighley</a></b>: <a href="/wiki/Cliffe_Castle_Museum" title="Cliffe Castle Museum">Cliffe Castle Museum</a></li>
+<li><a href="/wiki/East_Riddlesden_Hall" title="East Riddlesden Hall">East Riddlesden Hall</a></li>
+<li><a href="/wiki/Keighley_and_Worth_Valley_Railway" title="Keighley and Worth Valley Railway">Keighley and Worth Valley Railway</a></li>
+<li><a href="/wiki/Museum_of_Rail_Travel" title="Museum of Rail Travel">Museum of Rail Travel</a></li></ul>
+<ul><li><b><a href="/wiki/Saltaire" title="Saltaire">Saltaire</a></b>: <a href="/wiki/Salts_Mill" title="Salts Mill">Salts Mill</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Calderdale" title="Calderdale">Calderdale</a> museums</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Brighouse" title="Brighouse">Brighouse</a></b>: <a href="/w/index.php?title=Smith_Art_Gallery&amp;action=edit&amp;redlink=1" class="new" title="Smith Art Gallery (page does not exist)">Smith Art Gallery</a></li></ul>
+<ul><li><b><a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a></b>: <a href="/wiki/Bankfield_Museum" title="Bankfield Museum">Bankfield Museum</a></li>
+<li><a href="/wiki/Dean_Clough" title="Dean Clough">Dean Clough</a></li>
+<li><a href="/wiki/Eureka!_(museum)" title="Eureka! (museum)">Eureka! The National Children's Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Hebden_Bridge" title="Hebden Bridge">Hebden Bridge</a></b>: <a href="/wiki/Hardcastle_Crags" title="Hardcastle Crags">Gibson Mill</a></li></ul>
+<ul><li><b><a href="/wiki/Heptonstall" title="Heptonstall">Heptonstall</a></b>: <a href="/w/index.php?title=Heptonstall_Museum&amp;action=edit&amp;redlink=1" class="new" title="Heptonstall Museum (page does not exist)">Heptonstall Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Shibden" title="Shibden">Shibden</a></b>: <a href="/wiki/Shibden_Hall" title="Shibden Hall">Shibden Hall</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Kirklees" title="Kirklees">Kirklees</a> museums</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Batley" title="Batley">Batley</a></b> &amp; <b><a href="/wiki/Birstall,_West_Yorkshire" title="Birstall, West Yorkshire">Birstall</a></b>: <a href="/wiki/Bagshaw_Museum" title="Bagshaw Museum">Bagshaw Museum</a>, <a href="/wiki/Oakwell_Hall" title="Oakwell Hall">Oakwell Hall</a></li></ul>
+<ul><li><b><a href="/wiki/Dewsbury" title="Dewsbury">Dewsbury</a></b>: <a href="/w/index.php?title=Dewsbury_Bus_Museum&amp;action=edit&amp;redlink=1" class="new" title="Dewsbury Bus Museum (page does not exist)">Dewsbury Bus Museum</a></li>
+<li><a href="/w/index.php?title=Dewsbury_Museum&amp;action=edit&amp;redlink=1" class="new" title="Dewsbury Museum (page does not exist)">Dewsbury Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Gomersal" title="Gomersal">Gomersal</a></b>: <a href="/wiki/Red_House_Museum" title="Red House Museum">Red House Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></b>: <a class="mw-selflink selflink">Castle Hill</a></li>
+<li><a href="/wiki/Colne_Valley_Museum" title="Colne Valley Museum">Colne Valley Museum</a></li>
+<li><a href="/wiki/Rugby_League_Heritage_Centre" title="Rugby League Heritage Centre">Rugby League Heritage Centre</a></li>
+<li><a href="/wiki/Tolson_Museum" title="Tolson Museum">Tolson Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Marsden,_West_Yorkshire" title="Marsden, West Yorkshire">Marsden</a></b>: <a href="/wiki/Standedge_Tunnels#Standedge_Tunnel_Visitor_Centre" title="Standedge Tunnels"> Standedge Tunnel Visitor Centre</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Category:Museums_in_Leeds" title="Category:Museums in Leeds">City of Leeds museums</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Aberford" title="Aberford">Aberford</a></b>: <a href="/wiki/Lotherton_Hall" title="Lotherton Hall">Lotherton Hall</a></li></ul>
+<ul><li><b><a href="/wiki/Leeds" title="Leeds">Leeds</a></b>: <a href="/wiki/Abbey_House_Museum" title="Abbey House Museum">Abbey House Museum</a></li>
+<li><a href="/wiki/Armley_Mills_Industrial_Museum" class="mw-redirect" title="Armley Mills Industrial Museum">Armley Mills Industrial Museum</a></li>
+<li><a href="/wiki/Bramham_Park" title="Bramham Park">Bramham Park</a></li>
+<li><a href="/wiki/Harewood_House" title="Harewood House">Harewood House</a></li>
+<li><a href="/wiki/Henry_Moore_Foundation" title="Henry Moore Foundation">Henry Moore Institute in Leeds</a></li>
+<li><a href="/wiki/Kirkstall_Abbey" title="Kirkstall Abbey">Kirkstall Abbey</a></li>
+<li><a href="/wiki/Leeds_Art_Gallery" title="Leeds Art Gallery">Leeds Art Gallery</a></li>
+<li><a href="/wiki/Leeds_City_Museum" title="Leeds City Museum">Leeds City Museum</a></li>
+<li><a href="/wiki/Leeds_College_of_Art" class="mw-redirect" title="Leeds College of Art">Leeds College of Art</a></li>
+<li><a href="/wiki/Middleton_Railway" title="Middleton Railway">Middleton Railway Museum</a></li>
+<li><a href="/wiki/Royal_Armouries_Museum" title="Royal Armouries Museum">Royal Armouries Museum</a></li>
+<li><a href="/wiki/Temple_Newsam" title="Temple Newsam">Temple Newsam</a></li>
+<li><a href="/wiki/Thackray_Museum" class="mw-redirect" title="Thackray Museum">Thackray Museum</a></li>
+<li><a href="/wiki/Thwaite_Mills_Museum" class="mw-redirect" title="Thwaite Mills Museum">Thwaite Mills Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Otley" title="Otley">Otley</a></b>: <a href="/wiki/Otley_Museum" title="Otley Museum">Otley Museum</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/City_of_Wakefield" title="City of Wakefield">City of Wakefield</a> museums</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b><a href="/wiki/Netherton,_Wakefield" title="Netherton, Wakefield">Netherton</a></b>: <a href="/wiki/National_Coal_Mining_Museum_for_England" title="National Coal Mining Museum for England">National Coal Mining Museum for England</a></li></ul>
+<ul><li><b><a href="/wiki/Nostell" title="Nostell">Nostell</a></b>: <a href="/wiki/Nostell_Priory" title="Nostell Priory">Nostell Priory</a></li></ul>
+<ul><li><b><a href="/wiki/Pontefract" title="Pontefract">Pontefract</a></b>: <a href="/wiki/Pontefract_Museum" title="Pontefract Museum">Pontefract Museum</a></li></ul>
+<ul><li><b><a href="/wiki/Wakefield" title="Wakefield">Wakefield</a></b>: <a href="/wiki/The_Hepworth_Wakefield" title="The Hepworth Wakefield">The Hepworth Wakefield</a></li>
+<li><a href="/wiki/Wakefield_Museum" title="Wakefield Museum">Wakefield Museum</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Iron_Age_hillforts_in_England" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Iron_Age_hillforts_in_England" title="Template:Iron Age hillforts in England"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Iron_Age_hillforts_in_England" title="Template talk:Iron Age hillforts in England"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Iron_Age_hillforts_in_England&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Iron_Age_hillforts_in_England" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_hillforts_in_England" title="List of hillforts in England">Iron Age hillforts in England</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Bedfordshire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mowsbury_Hill" title="Mowsbury Hill">Mowsbury Hill</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Berkshire</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bussock_Camp" title="Bussock Camp">Bussock Camp</a></li>
+<li><a href="/wiki/Caesar%27s_Camp,_Bracknell_Forest" title="Caesar&#39;s Camp, Bracknell Forest">Caesar's Camp</a></li>
+<li><a href="/wiki/Grimsbury_Castle" title="Grimsbury Castle">Grimsbury Castle</a></li>
+<li><a href="/wiki/Membury_Camp" title="Membury Camp">Membury Camp</a></li>
+<li><a href="/wiki/Perborough_Castle" title="Perborough Castle">Perborough Castle</a></li>
+<li><a href="/wiki/Walbury_Hill" title="Walbury Hill">Walbury Camp</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Bristol</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Clifton_Down" title="Clifton Down">Clifton Camp</a></li>
+<li><a href="/wiki/Kings_Weston_Hill" title="Kings Weston Hill">Kings Weston Hill</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Buckinghamshire</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cholesbury_Camp" title="Cholesbury Camp">Cholesbury Camp</a></li>
+<li><a href="/wiki/Desborough_Castle" title="Desborough Castle">Desborough Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Cambridgeshire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Stonea_Camp" title="Stonea Camp">Stonea Camp</a></li>
+<li><a href="/wiki/Wandlebury_Hill_Fort" title="Wandlebury Hill Fort">Wandlebury Ring</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Cheshire</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bradley_hill_fort" title="Bradley hill fort">Bradley</a></li>
+<li><a href="/wiki/Eddisbury_hill_fort" title="Eddisbury hill fort">Eddisbury</a></li>
+<li><a href="/wiki/Helsby_hill_fort" title="Helsby hill fort">Helsby Hill</a></li>
+<li><a href="/wiki/Kelsborrow_Castle" title="Kelsborrow Castle">Kelsborrow Castle</a></li>
+<li><a href="/wiki/Maiden_Castle,_Cheshire" title="Maiden Castle, Cheshire">Maiden Castle</a></li>
+<li><a href="/wiki/Oakmere_hill_fort" title="Oakmere hill fort">Oakmere</a></li>
+<li><a href="/wiki/Woodhouses_hill_fort" title="Woodhouses hill fort">Woodhouse Hill</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Cornwall</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cadson_Bury" title="Cadson Bury">Cadson Bury</a></li>
+<li><a href="/wiki/Caer_Bran" title="Caer Bran">Caer Bran</a></li>
+<li><a href="/wiki/Castle_an_Dinas,_St_Columb_Major" title="Castle an Dinas, St Columb Major">Castle an Dinas</a></li>
+<li><a href="/wiki/Castle_Dore" title="Castle Dore">Castle Dore</a></li>
+<li><a href="/wiki/Castle_Goff" title="Castle Goff">Castle Goff</a></li>
+<li><a href="/wiki/Ch%C3%BBn_Castle" title="Chûn Castle">Chûn Castle</a></li>
+<li><a href="/wiki/Dodman_Point" title="Dodman Point">Dodman Point</a></li>
+<li><a href="/wiki/Kelly_Rounds" title="Kelly Rounds">Kelly Rounds</a></li>
+<li><a href="/wiki/Kelsey_Head" title="Kelsey Head">Kelsey Head</a></li>
+<li><a href="/wiki/Lescudjack_Hill_Fort" title="Lescudjack Hill Fort">Lescudjack</a></li>
+<li><a href="/wiki/Lesingey_Round" title="Lesingey Round">Lesingey Round</a></li>
+<li><a href="/wiki/Maen_Castle" title="Maen Castle">Maen Castle</a></li>
+<li><a href="/wiki/Padderbury_Top" title="Padderbury Top">Padderbury Top</a></li>
+<li><a href="/wiki/Prideaux_Castle" title="Prideaux Castle">Prideaux Castle</a></li>
+<li><a href="/wiki/Rame_Head" title="Rame Head">Rame Head</a></li>
+<li><a href="/wiki/The_Rumps" title="The Rumps">The Rumps</a></li>
+<li><a href="/wiki/Trencrom_Hill" title="Trencrom Hill">Trencrom Hill</a></li>
+<li><a href="/wiki/Gurnard%27s_Head" title="Gurnard&#39;s Head">Trereen Dinas</a></li>
+<li><a href="/wiki/Treryn_Dinas" title="Treryn Dinas">Treryn Dinas</a></li>
+<li><a href="/wiki/Trevelgue_Head" title="Trevelgue Head">Trevelgue Head</a></li>
+<li><a href="/wiki/Warbstow_Bury" title="Warbstow Bury">Warbstow Bury</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Cumbria</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carrock_Fell" title="Carrock Fell">Carrock Fell</a></li>
+<li><a href="/wiki/Castle_Crag" title="Castle Crag">Castle Crag</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Derbyshire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Fin_Cop" title="Fin Cop">Fin Cop</a></li>
+<li><a href="/wiki/Mam_Tor" title="Mam Tor">Mam Tor</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Dorset</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Abbotsbury_Castle" title="Abbotsbury Castle">Abbotsbury Castle</a></li>
+<li><a href="/wiki/Badbury_Rings" title="Badbury Rings">Badbury Rings</a></li>
+<li><a href="/wiki/Chalbury_Hillfort" title="Chalbury Hillfort">Chalbury Hillfort</a></li>
+<li><a href="/wiki/Coney%27s_Castle" title="Coney&#39;s Castle">Coney's Castle</a></li>
+<li><a href="/wiki/Dudsbury_Camp" title="Dudsbury Camp">Dudsbury Camp</a></li>
+<li><a href="/wiki/Eggardon_Hill" title="Eggardon Hill">Eggardon Hill</a></li>
+<li><a href="/wiki/Flower%27s_Barrow" title="Flower&#39;s Barrow">Flower's Barrow</a></li>
+<li><a href="/wiki/Hambledon_Hill" title="Hambledon Hill">Hambledon Hill</a></li>
+<li><a href="/wiki/Hod_Hill" title="Hod Hill">Hod Hill</a></li>
+<li><a href="/wiki/Lambert%27s_Castle" title="Lambert&#39;s Castle">Lambert's Castle</a></li>
+<li><a href="/wiki/Lewesdon_Hill" title="Lewesdon Hill">Lewesdon Hill</a></li>
+<li><a href="/wiki/Maiden_Castle,_Dorset" title="Maiden Castle, Dorset">Maiden Castle</a></li>
+<li><a href="/wiki/Pilsdon_Pen" title="Pilsdon Pen">Pilsdon Pen</a></li>
+<li><a href="/wiki/Poundbury_Hill" title="Poundbury Hill">Poundbury Hill</a></li>
+<li><a href="/wiki/Woolsbarrow_Hillfort" title="Woolsbarrow Hillfort">Woolsbarrow</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">East Sussex</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hollingbury_Castle" title="Hollingbury Castle">Hollingbury Castle</a></li>
+<li><a href="/wiki/Mount_Caburn" title="Mount Caburn">Mount Caburn</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Essex</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ambresbury_Banks" title="Ambresbury Banks">Ambresbury Banks</a></li>
+<li><a href="/wiki/Danish_Camp" title="Danish Camp">Danish Camp</a></li>
+<li><a href="/wiki/Loughton_Camp" title="Loughton Camp">Loughton Camp</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Gloucestershire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Cleeve_Hill" title="Cleeve Hill">Cleeve Hill</a></li>
+<li><a href="/wiki/Kimsbury_hill_fort" title="Kimsbury hill fort">Kimsbury Camp</a></li>
+<li><a href="/wiki/Uley_Bury" title="Uley Bury">Uley Bury</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Greater Manchester</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mellor_hill_fort" title="Mellor hill fort">Mellor hill fort</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Hampshire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ashleys_Copse" title="Ashleys Copse">Ashleys Copse</a></li>
+<li><a href="/wiki/Buckland_Rings" title="Buckland Rings">Buckland Rings</a></li>
+<li><a href="/wiki/Bury_Hill" title="Bury Hill">Bury Hill</a></li>
+<li><a href="/wiki/Caesar%27s_Camp,_Rushmoor_and_Waverley" title="Caesar&#39;s Camp, Rushmoor and Waverley">Caesar's Camp</a></li>
+<li><a href="/wiki/Castle_Hill,_Hampshire" title="Castle Hill, Hampshire">Castle Hill</a></li>
+<li><a href="/wiki/Chilworth_Ring" title="Chilworth Ring">Chilworth Ring</a></li>
+<li><a href="/wiki/Danebury" title="Danebury">Danebury</a></li>
+<li><a href="/wiki/Dunwood_Camp" title="Dunwood Camp">Dunwood Camp</a></li>
+<li><a href="/wiki/Frankenbury_Camp" title="Frankenbury Camp">Frankenbury Camp</a></li>
+<li><a href="/wiki/The_Frith" title="The Frith">The Frith</a></li>
+<li><a href="/wiki/Gorley_Hill" title="Gorley Hill">Gorley Hill</a></li>
+<li><a href="/wiki/Hamble_Common_Camp" title="Hamble Common Camp">Hamble Common Camp</a></li>
+<li><a href="/wiki/King_John%27s_Hill" title="King John&#39;s Hill">King John's Hill</a></li>
+<li><a href="/wiki/Knoll_Camp" title="Knoll Camp">Knoll Camp</a></li>
+<li><a href="/wiki/Ladle_Hill" title="Ladle Hill">Ladle Hill</a></li>
+<li><a href="/wiki/Lockerley_Camp" title="Lockerley Camp">Lockerley Camp</a></li>
+<li><a href="/wiki/Norsebury_Ring" title="Norsebury Ring">Norsebury Ring</a></li>
+<li><a href="/wiki/Old_Winchester_Hill" title="Old Winchester Hill">Old Winchester Hill</a></li>
+<li><a href="/wiki/Oram%27s_Arbour" title="Oram&#39;s Arbour">Oram's Arbour</a></li>
+<li><a href="/wiki/Quarley_Hill" title="Quarley Hill">Quarley Hill</a></li>
+<li><a href="/wiki/St._Catherine%27s_Hill,_Hampshire" title="St. Catherine&#39;s Hill, Hampshire">St. Catherine's Hill</a></li>
+<li><a href="/wiki/Tidbury_Ring" title="Tidbury Ring">Tidbury Ring</a></li>
+<li><a href="/wiki/Toothill_Fort" title="Toothill Fort">Toothill Fort</a></li>
+<li><a href="/wiki/Whitsbury_Castle" title="Whitsbury Castle">Whitsbury Castle</a></li>
+<li><a href="/wiki/Woolbury" title="Woolbury">Woolbury</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Herefordshire</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aconbury_Camp" title="Aconbury Camp">Aconbury Camp</a></li>
+<li><a href="/wiki/British_Camp" title="British Camp">British Camp</a></li>
+<li><a href="/wiki/Capler_Camp" title="Capler Camp">Capler Camp</a></li>
+<li><a href="/wiki/Croft_Ambrey" title="Croft Ambrey">Croft Ambrey</a></li>
+<li><a href="/wiki/Dinedor_Camp" title="Dinedor Camp">Dinedor Camp</a></li>
+<li><a href="/wiki/Thornbury,_Herefordshire#Garmsley_Camp" title="Thornbury, Herefordshire">Garmsley Camp</a></li>
+<li><a href="/wiki/Ivington_Camp" title="Ivington Camp">Ivington Camp</a></li>
+<li><a href="/wiki/Poston_Camp" title="Poston Camp">Poston Camp</a></li>
+<li><a href="/wiki/Sutton_Walls_Hill_Fort" title="Sutton Walls Hill Fort">Sutton Walls</a></li>
+<li><a href="/wiki/Wapley_Hill" title="Wapley Hill">Wapley Hill</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Hertfordshire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Arbury_Banks,_Hertfordshire" title="Arbury Banks, Hertfordshire">Arbury Banks</a></li>
+<li><a href="/wiki/Wilbury_Hill_Camp" title="Wilbury Hill Camp">Wilbury Hill Camp</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Kent</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bigbury_Camp" title="Bigbury Camp">Bigbury Camp</a></li>
+<li><a href="/wiki/Oldbury_Camp" title="Oldbury Camp">Oldbury Camp</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Lancashire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Castercliff" title="Castercliff">Castercliff</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Leicestershire</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Burrough_Hill" title="Burrough Hill">Burrough Hill</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Norfolk</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bloodgate_Hill_Iron_Age_Fort" title="Bloodgate Hill Iron Age Fort">Bloodgate Hill</a></li>
+<li><a href="/wiki/Holkham_Camp" title="Holkham Camp">Holkham Camp</a></li>
+<li><a href="/wiki/Warham_Camp" title="Warham Camp">Warham Camp</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">North Yorkshire</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Eston_Nab" title="Eston Nab">Eston Nab</a></li>
+<li><a href="/wiki/Maiden_Castle,_North_Yorkshire" title="Maiden Castle, North Yorkshire">Maiden Castle</a></li>
+<li><a href="/wiki/Stanwick_Iron_Age_Fortifications" title="Stanwick Iron Age Fortifications">Stanwick Camp</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Northamptonshire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Borough_Hill" title="Borough Hill">Borough Hill</a></li>
+<li><a href="/wiki/Hunsbury_Hill" title="Hunsbury Hill">Hunsbury Hill</a></li>
+<li><a href="/wiki/Rainsborough_Camp" title="Rainsborough Camp">Rainsborough Camp</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Northumberland</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Yeavering_Bell" title="Yeavering Bell">Yeavering Bell</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Oxfordshire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blewburton_Hill" title="Blewburton Hill">Blewburton Hill</a></li>
+<li><a href="/wiki/Cherbury_Camp" title="Cherbury Camp">Cherbury Camp</a></li>
+<li><a href="/wiki/Hardwell_Castle" title="Hardwell Castle">Hardwell Castle</a></li>
+<li><a href="/wiki/Uffington_Castle" title="Uffington Castle">Uffington Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Shropshire</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bayston_Hill#History" title="Bayston Hill">Bayston Hill</a></li>
+<li><a href="/wiki/Bury_Ditches" title="Bury Ditches">Bury Ditches</a></li>
+<li><a href="/wiki/Bury_Walls" title="Bury Walls">Bury Walls</a></li>
+<li><a href="/wiki/Caer_Caradoc" title="Caer Caradoc">Caer Caradoc, Church Stretton</a></li>
+<li><a href="/wiki/Caer_Caradoc_(Chapel_Lawn)" title="Caer Caradoc (Chapel Lawn)">Caer Caradog, Chapel Lawn</a></li>
+<li><a href="/wiki/Caus_Castle" title="Caus Castle">Caus Castle</a></li>
+<li><a href="/wiki/Coxall_Knoll" title="Coxall Knoll">Coxall Knoll</a></li>
+<li><a href="/wiki/Nordy_Bank" title="Nordy Bank">Nordy Bank</a></li>
+<li><a href="/wiki/Old_Oswestry" title="Old Oswestry">Old Oswestry</a></li>
+<li><a href="/wiki/The_Wrekin" title="The Wrekin">The Wrekin</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">South Yorkshire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carl_Wark" title="Carl Wark">Carl Wark</a></li>
+<li><a href="/wiki/Wincobank_(hill_fort)" title="Wincobank (hill fort)">Wincobank</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Staffordshire</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Berry_Ring" title="Berry Ring">Berry Ring</a></li>
+<li><a href="/wiki/Berth_Hill" title="Berth Hill">Berth Hill</a></li>
+<li><a href="/wiki/Bury_Bank" title="Bury Bank">Bury Bank</a></li>
+<li><a href="/wiki/Castle_Ring" title="Castle Ring">Castle Ring</a></li>
+<li><a href="/wiki/Kinver_Edge_Hillfort" title="Kinver Edge Hillfort">Kinver Edge Hillfort</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Surrey</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Caesar%27s_Camp,_Rushmoor_and_Waverley" title="Caesar&#39;s Camp, Rushmoor and Waverley">Caesar's Camp</a></li>
+<li><a href="/wiki/Hascombe_Hill" title="Hascombe Hill">Hascombe Hill</a></li>
+<li><a href="/wiki/Holmbury_Hill" title="Holmbury Hill">Holmbury Hill</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">West Sussex</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chanctonbury_Ring" title="Chanctonbury Ring">Chanctonbury Ring</a></li>
+<li><a href="/wiki/Cissbury_Ring" title="Cissbury Ring">Cissbury Ring</a></li>
+<li><a href="/wiki/Goosehill_Camp" title="Goosehill Camp">Goosehill Camp</a></li>
+<li><a href="/wiki/Beacon_Hill,_West_Sussex" title="Beacon Hill, West Sussex">Harting Beacon</a></li>
+<li><a href="/wiki/Highdown_Hill" title="Highdown Hill">Highdown Hill</a></li>
+<li><a href="/wiki/Trundle_(hill_fort)" title="Trundle (hill fort)">The Trundle</a></li>
+<li><a href="/wiki/Torberry_Hill" title="Torberry Hill">Torberry Hill</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">West Yorkshire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Castle Hill</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Wiltshire</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ashleys_Copse" title="Ashleys Copse">Ashleys Copse</a></li>
+<li><a href="/wiki/Barbury_Castle" title="Barbury Castle">Barbury Castle</a></li>
+<li><a href="/wiki/Battlesbury_Camp" title="Battlesbury Camp">Battlesbury Camp</a></li>
+<li><a href="/wiki/Bratton_Castle" title="Bratton Castle">Bratton Castle</a></li>
+<li><a href="/wiki/Bury_Camp" title="Bury Camp">Bury Camp</a></li>
+<li><a href="/wiki/Castle_Ditches" title="Castle Ditches">Castle Ditches</a></li>
+<li><a href="/wiki/Casterley_Camp" title="Casterley Camp">Casterley Camp</a></li>
+<li><a href="/wiki/Castle_Rings,_Wiltshire" title="Castle Rings, Wiltshire">Castle Rings</a></li>
+<li><a href="/wiki/Chisbury" title="Chisbury">Chisbury</a></li>
+<li><a href="/wiki/Chiselbury" title="Chiselbury">Chiselbury</a></li>
+<li><a href="/wiki/Chisenbury_Camp" title="Chisenbury Camp">Chisenbury Camp</a></li>
+<li><a href="/wiki/Clearbury_Ring" title="Clearbury Ring">Clearbury Ring</a></li>
+<li><a href="/wiki/Cley_Hill" title="Cley Hill">Cley Hill</a></li>
+<li><a href="/wiki/Fosbury_Camp" title="Fosbury Camp">Fosbury Camp</a></li>
+<li><a href="/wiki/Grovely_Castle" title="Grovely Castle">Grovely Castle</a></li>
+<li><a href="/wiki/Knook_Castle" title="Knook Castle">Knook Castle</a></li>
+<li><a href="/wiki/Liddington_Castle" title="Liddington Castle">Liddington Castle</a></li>
+<li><a href="/wiki/Membury_Camp" title="Membury Camp">Membury Camp</a></li>
+<li><a href="/wiki/Old_Sarum" title="Old Sarum">Old Sarum</a></li>
+<li><a href="/wiki/Ringsbury_Camp" title="Ringsbury Camp">Ringsbury Camp</a></li>
+<li><a href="/wiki/Scratchbury_Camp" title="Scratchbury Camp">Scratchbury Camp</a></li>
+<li><a href="/wiki/Sidbury_Hill,_Wiltshire" title="Sidbury Hill, Wiltshire">Sidbury Hill</a></li>
+<li><a href="/wiki/Vespasian%27s_Camp" title="Vespasian&#39;s Camp">Vespasian's Camp</a></li>
+<li><a href="/wiki/Yarnbury_Castle" title="Yarnbury Castle">Yarnbury Castle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Worcestershire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Berrow_Green#Berrow_Hill_Camp" title="Berrow Green">Berrow Hill Camp</a></li>
+<li><a href="/wiki/Berry_Mound" title="Berry Mound">Berry Mound</a></li>
+<li><a href="/wiki/Bredon_Hill" title="Bredon Hill">Bredon Hill</a></li>
+<li><a href="/wiki/British_Camp" title="British Camp">British Camp</a></li>
+<li><a href="/wiki/Overbury#Conderton_Camp" title="Overbury">Conderton Camp</a></li>
+<li><a href="/wiki/Drakelow_Hillfort" title="Drakelow Hillfort">Drakelow</a></li>
+<li><a href="/wiki/Eldersfield#Gadbury_Bank" title="Eldersfield">Gadbury Bank</a></li>
+<li><a href="/wiki/Hanbury,_Worcestershire#Pre-history" title="Hanbury, Worcestershire">Hanbury Hill</a></li>
+<li><a href="/wiki/Districts_of_Redditch#Headless_Cross" title="Districts of Redditch">Headless Cross</a></li>
+<li><a href="/wiki/Midsummer_Hill" title="Midsummer Hill">Midsummer Hill</a></li>
+<li><a href="/wiki/Woodbury_Hill" title="Woodbury Hill">Woodbury Hill</a></li>
+<li><a href="/wiki/Wychbury_Ring" title="Wychbury Ring">Wychbury Ring</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20190925014539
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.292 seconds
+Real time usage: 0.387 seconds
+Preprocessor visited node count: 1148/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 76596/2097152 bytes
+Template argument size: 763/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 21242/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.139/10.000 seconds
+Lua memory usage: 3.67 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  296.512      1 -total
+ 56.61%  167.861      1 Template:Reflist
+ 38.92%  115.397      2 Template:NHLE
+ 10.87%   32.234      1 Template:Use_British_English
+  9.59%   28.435      1 Template:Coord
+  7.35%   21.801      2 Template:Navbox
+  6.84%   20.295      2 Template:DMCA
+  6.43%   19.053      3 Template:Cite_web
+  5.92%   17.554      1 Template:West_Yorkshire_museums
+  5.72%   16.960      2 Template:Dated_maintenance_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3490804-0!canonical and timestamp 20190925014538 and revision id 915147051
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Castle_Hill,_Huddersfield&amp;oldid=915147051">https://en.wikipedia.org/w/index.php?title=Castle_Hill,_Huddersfield&amp;oldid=915147051</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Buildings_and_structures_in_Huddersfield" title="Category:Buildings and structures in Huddersfield">Buildings and structures in Huddersfield</a></li><li><a href="/wiki/Category:Tourist_attractions_in_Huddersfield" title="Category:Tourist attractions in Huddersfield">Tourist attractions in Huddersfield</a></li><li><a href="/wiki/Category:Hill_forts_in_West_Yorkshire" title="Category:Hill forts in West Yorkshire">Hill forts in West Yorkshire</a></li><li><a href="/wiki/Category:Kirklees" title="Category:Kirklees">Kirklees</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_British_English_from_September_2019" title="Category:Use British English from September 2019">Use British English from September 2019</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2019" title="Category:Use dmy dates from September 2019">Use dmy dates from September 2019</a></li><li><a href="/wiki/Category:Articles_with_OS_grid_coordinates" title="Category:Articles with OS grid coordinates">Articles with OS grid coordinates</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Castle+Hill%2C+Huddersfield" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Castle+Hill%2C+Huddersfield" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Castle_Hill,_Huddersfield" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Castle_Hill,_Huddersfield" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Castle_Hill,_Huddersfield">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Castle_Hill,_Huddersfield&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Castle_Hill,_Huddersfield&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Castle_Hill,_Huddersfield" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Castle_Hill,_Huddersfield" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Castle_Hill,_Huddersfield&amp;oldid=915147051" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Castle_Hill,_Huddersfield&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5050122" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Castle_Hill%2C_Huddersfield&amp;id=915147051" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Castle+Hill%2C+Huddersfield">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Castle+Hill%2C+Huddersfield&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Castle_Hill,_Huddersfield&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Castle_Hill_(Huddersfield)" title="Castle Hill (Huddersfield) – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5050122#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 11 September 2019, at 14:01<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Castle_Hill,_Huddersfield&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.387","ppvisitednodes":{"value":1148,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":76596,"limit":2097152},"templateargumentsize":{"value":763,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":21242,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  296.512      1 -total"," 56.61%  167.861      1 Template:Reflist"," 38.92%  115.397      2 Template:NHLE"," 10.87%   32.234      1 Template:Use_British_English","  9.59%   28.435      1 Template:Coord","  7.35%   21.801      2 Template:Navbox","  6.84%   20.295      2 Template:DMCA","  6.43%   19.053      3 Template:Cite_web","  5.92%   17.554      1 Template:West_Yorkshire_museums","  5.72%   16.960      2 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.139","limit":"10.000"},"limitreport-memusage":{"value":3843546,"limit":52428800}},"cachereport":{"origin":"mw1270","timestamp":"20190925014539","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Castle Hill, Huddersfield","url":"https:\/\/en.wikipedia.org\/wiki\/Castle_Hill,_Huddersfield","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5050122","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5050122","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-12-21T14:57:10Z","dateModified":"2019-09-11T14:01:26Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":119,"wgHostname":"mw1325"});});</script>
+</body>
+</html>
+

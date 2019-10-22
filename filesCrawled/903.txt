@@ -1,0 +1,995 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>List of settlements in West Yorkshire by population - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"List_of_settlements_in_West_Yorkshire_by_population","wgTitle":"List of settlements in West Yorkshire by population","wgCurRevisionId":799195036,"wgRevisionId":799195036,"wgArticleId":52256199,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use British English from November 2016","Use dmy dates from November 2016","West Yorkshire","Geography of West Yorkshire","Metropolitan areas of England","Metropolitan counties","NUTS 2 statistical regions of the United Kingdom"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],
+"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_settlements_in_West_Yorkshire_by_population","wgRelevantArticleId":52256199,"wgRequestId":"XZHIRApAAEQAACRrZEgAAABK","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q28405127","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons",
+"ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/1200px-West_Yorkshire_UK_location_map.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_settlements_in_West_Yorkshire_by_population"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_settlements_in_West_Yorkshire_by_population&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_settlements_in_West_Yorkshire_by_population&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_settlements_in_West_Yorkshire_by_population"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-List_of_settlements_in_West_Yorkshire_by_population rootpage-List_of_settlements_in_West_Yorkshire_by_population skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">List of settlements in West Yorkshire by population</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<div class="noviewer thumb tright"><div class="thumbinner" style="width:502px"><div style="position:relative;width:500px;border:1px solid lightgray"><a href="/wiki/File:West_Yorkshire_UK_location_map.svg" class="image" title="List of settlements in West Yorkshire by population is located in West Yorkshire"><img alt="List of settlements in West Yorkshire by population is located in West Yorkshire" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/500px-West_Yorkshire_UK_location_map.svg.png" decoding="async" width="500" height="365" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/750px-West_Yorkshire_UK_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/1000px-West_Yorkshire_UK_location_map.svg.png 2x" data-file-width="1425" data-file-height="1039" /></a><div style="position:absolute;top:37.558%;left:67.039%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Leeds" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Leeds" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:102%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><div style="display:inline;padding:1px;float:left;background-color:yellow"><b><a href="/wiki/Leeds" title="Leeds">Leeds</a></b></div></div></div><div style="position:absolute;top:39.167%;left:48.75%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Bradford" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Bradford" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:102%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:5px;text-align:right"><div style="display:inline;padding:1px;float:right;background-color:yellow"><b><a href="/wiki/Bradford" title="Bradford">Bradford</a></b></div></div></div><div style="position:absolute;top:69.792%;left:46.446%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Huddersfield" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Huddersfield" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:5px;left:-3em;text-align:center"><div style="display:inline;padding:1px;background-color:yellow"><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></div></div></div><div style="position:absolute;top:64.583%;left:72.143%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Wakefield" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Wakefield" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:102%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><div style="display:inline;padding:1px;float:left;background-color:yellow"><b><a href="/wiki/Wakefield" title="Wakefield">Wakefield</a></b></div></div></div><div style="position:absolute;top:53.125%;left:39.018%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Halifax" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Halifax" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:5px;text-align:right"><div style="display:inline;padding:1px;float:right;background-color:yellow"><a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a></div></div></div><div style="position:absolute;top:53.542%;left:60.089%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Batley" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Batley" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:80%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><div style="display:inline;padding:1px;float:left;background-color:white"><a href="/wiki/Batley" title="Batley">Batley</a></div></div></div><div style="position:absolute;top:60.208%;left:59.554%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="-Dewsbury" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="-Dewsbury" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:80%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><div style="display:inline;padding:1px;float:left;background-color:white">-<a href="/wiki/Dewsbury" title="Dewsbury">Dewsbury</a></div></div></div><div style="position:absolute;top:23.542%;left:34.732%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Keighley" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Keighley" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;bottom:5px;left:-3em;text-align:center"><div style="display:inline;padding:1px;background-color:white"><a href="/wiki/Keighley" title="Keighley">Keighley</a></div></div></div><div style="position:absolute;top:52.083%;left:84.286%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Castleford" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Castleford" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><div style="display:inline;padding:1px;float:left;background-color:white"><a href="/wiki/Castleford" title="Castleford">Castleford</a></div></div></div><div style="position:absolute;top:56.875%;left:45.179%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Brighouse" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Brighouse" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:5px;text-align:right"><div style="display:inline;padding:1px;float:right;background-color:white"><a href="/wiki/Brighouse" title="Brighouse">Brighouse</a></div></div></div><div style="position:absolute;top:38.125%;left:56.875%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Pudsey" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Pudsey" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:80%;line-height:110%;position:absolute;width:6em;bottom:5px;left:-3em;text-align:center"><div style="display:inline;padding:1px;background-color:white"><a href="/wiki/Pudsey" title="Pudsey">Pudsey</a></div></div></div><div style="position:absolute;top:48.09%;left:62.298%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Morley" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Morley" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:80%;line-height:110%;position:absolute;width:6em;bottom:5px;left:-3em;text-align:center"><div style="display:inline;padding:1px;background-color:white"><a href="/wiki/Morley,_West_Yorkshire" title="Morley, West Yorkshire">Morley</a></div></div></div><div style="position:absolute;top:60.208%;left:87.321%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Pontefract" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Pontefract" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><div style="display:inline;padding:1px;float:left;background-color:white"><a href="/wiki/Pontefract" title="Pontefract">Pontefract</a></div></div></div><div style="position:absolute;top:30.625%;left:46.696%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Shipley" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Shipley" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:5px;left:-3em;text-align:center"><div style="display:inline;padding:1px;background-color:white"><a href="/wiki/Shipley,_West_Yorkshire" title="Shipley, West Yorkshire">Shipley</a></div></div></div><div style="position:absolute;top:27.917%;left:41.429%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Bingley" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Bingley" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:80%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:5px;text-align:right"><div style="display:inline;padding:1px;float:right;background-color:white"><a href="/wiki/Bingley" title="Bingley">Bingley</a></div></div></div><div style="position:absolute;top:85.417%;left:45.804%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Holmfirth" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Holmfirth" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:5px;text-align:right"><div style="display:inline;padding:1px;float:right;background-color:white"><a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a></div></div></div><div style="position:absolute;top:58.958%;left:78.929%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Normanton" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Normanton" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;bottom:5px;left:-3em;text-align:center"><div style="display:inline;padding:1px;background-color:white"><a href="/wiki/Normanton,_West_Yorkshire" title="Normanton, West Yorkshire">Normanton</a></div></div></div><div style="position:absolute;top:63.542%;left:64.286%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Ossett" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Ossett" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:5px;left:-3em;text-align:center"><div style="display:inline;padding:1px;background-color:white"><a href="/wiki/Ossett" title="Ossett">Ossett</a></div></div></div><div style="position:absolute;top:23.125%;left:54.643%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Yeadon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Yeadon" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;bottom:5px;left:-3em;text-align:center"><div style="display:inline;padding:1px;background-color:white"><a href="/wiki/Yeadon,_West_Yorkshire" title="Yeadon, West Yorkshire">Yeadon</a></div></div></div><div style="position:absolute;top:46.82%;left:73.782%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Rothwell" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Rothwell" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><div style="display:inline;padding:1px;float:left;background-color:white"><a href="/wiki/Rothwell,_West_Yorkshire" title="Rothwell, West Yorkshire">Rothwell</a></div></div></div><div style="position:absolute;top:62.354%;left:54.571%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Mirfield" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Mirfield" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:5px;text-align:right"><div style="display:inline;padding:1px;float:right;background-color:white"><a href="/wiki/Mirfield" title="Mirfield">Mirfield</a></div></div></div><div style="position:absolute;top:30.39%;left:58.671%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Horsforth" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Horsforth" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><div style="display:inline;padding:1px;float:left;background-color:white"><a href="/wiki/Horsforth" title="Horsforth">Horsforth</a></div></div></div><div style="position:absolute;top:56.944%;left:54.464%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Liversedge" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Liversedge" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:80%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><div style="display:inline;padding:1px;float:left;background-color:white"><a href="/wiki/Liversedge" title="Liversedge">Liversedge</a></div></div></div><div style="position:absolute;top:26.875%;left:47.946%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Baildon" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Baildon" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:80%;line-height:110%;position:absolute;width:6em;bottom:5px;left:-3em;text-align:center"><div style="display:inline;padding:1px;background-color:white"><a href="/wiki/Baildon" title="Baildon">Baildon</a></div></div></div><div style="position:absolute;top:61.875%;left:41.071%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Elland" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Elland" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;right:5px;text-align:right"><div style="display:inline;padding:1px;float:right;background-color:white"><a href="/wiki/Elland" title="Elland">Elland</a></div></div></div></div><div class="thumbcaption"><div class="magnify"><a href="/wiki/File:West_Yorkshire_UK_location_map.svg" title="File:West Yorkshire UK location map.svg"> </a></div>The 25 largest settlements of the county of West Yorkshire, with cities in bold, district centres in yellow, and key towns and areas in white.</div></div></div>
+<p>This is a <b>list of settlements in West Yorkshire by population</b> based on the results of the <a href="/wiki/United_Kingdom_Census_2011" class="mw-redirect" title="United Kingdom Census 2011">2011 census</a>. The next United Kingdom <a href="/wiki/Census_in_the_United_Kingdom" title="Census in the United Kingdom">census</a> will take place in <a href="/wiki/United_Kingdom_Census_2021" class="mw-redirect" title="United Kingdom Census 2021">2021</a>. In 2011, there were 50 <a href="/wiki/List_of_urban_areas_in_the_United_Kingdom" title="List of urban areas in the United Kingdom">built-up area</a> subdivisions with 5,000 or more inhabitants in <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, shown in the table below.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Administrative_boundaries"><span class="tocnumber">1</span> <span class="toctext">Administrative boundaries</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Population_ranking"><span class="tocnumber">2</span> <span class="toctext">Population ranking</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Administrative_boundaries">Administrative boundaries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_settlements_in_West_Yorkshire_by_population&amp;action=edit&amp;section=1" title="Edit section: Administrative boundaries">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/File:West_Yorkshire_numbered_districts.svg" class="image"><img alt="West Yorkshire numbered districts.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/West_Yorkshire_numbered_districts.svg/400px-West_Yorkshire_numbered_districts.svg.png" decoding="async" width="400" height="292" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/West_Yorkshire_numbered_districts.svg/600px-West_Yorkshire_numbered_districts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/West_Yorkshire_numbered_districts.svg/800px-West_Yorkshire_numbered_districts.svg.png 2x" data-file-width="1425" data-file-height="1039" /></a>
+</p><p>Table taken from the <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a> article - this outlines many of the county's settlements, and is formatted according to their metropolitan borough.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Metropolitan county
+</th>
+<th colspan="3">Metropolitan borough
+</th>
+<th>Centre of administration
+</th>
+<th>Other places
+</th></tr>
+<tr>
+<td rowspan="5"><b>West Yorkshire</b>
+</td>
+<td>1
+</td>
+<td><a href="/wiki/City_of_Leeds" title="City of Leeds">City of Leeds</a>
+</td>
+<td><a href="/wiki/File:WYorks-Leeds.png" class="image"><img alt="WYorks-Leeds.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/WYorks-Leeds.png/50px-WYorks-Leeds.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/WYorks-Leeds.png/75px-WYorks-Leeds.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/WYorks-Leeds.png/100px-WYorks-Leeds.png 2x" data-file-width="200" data-file-height="157" /></a>
+</td>
+<td><a href="/wiki/Leeds" title="Leeds">Leeds</a>
+</td>
+<td><a href="/wiki/Allerton_Bywater" title="Allerton Bywater">Allerton Bywater</a>, <a href="/wiki/Beeston,_West_Yorkshire" class="mw-redirect" title="Beeston, West Yorkshire">Beeston</a>, <a href="/wiki/Boston_Spa" title="Boston Spa">Boston Spa</a>, <a href="/wiki/Collingham,_West_Yorkshire" title="Collingham, West Yorkshire">Collingham</a>, <a href="/wiki/Garforth" title="Garforth">Garforth</a>, <a href="/wiki/Guiseley" title="Guiseley">Guiseley</a>, <a href="/wiki/Harewood" title="Harewood">Harewood</a>, <a href="/wiki/Headingley" title="Headingley">Headingley</a>, <a href="/wiki/Holbeck" title="Holbeck">Holbeck</a>, <a href="/wiki/Horsforth" title="Horsforth">Horsforth</a>, <a href="/wiki/Kippax,_West_Yorkshire" title="Kippax, West Yorkshire">Kippax</a>, <a href="/wiki/Kirkstall" title="Kirkstall">Kirkstall</a>, <a href="/wiki/Ledsham,_West_Yorkshire" title="Ledsham, West Yorkshire">Ledsham</a>, <a href="/wiki/Ledston" title="Ledston">Ledston</a>, <a href="/wiki/Methley" title="Methley">Methley</a>, <a href="/wiki/Middleton,_Leeds" title="Middleton, Leeds">Middleton</a>, <a href="/wiki/Morley,_West_Yorkshire" title="Morley, West Yorkshire">Morley</a>, <a href="/wiki/New_Farnley" class="mw-redirect" title="New Farnley">New Farnley</a>, <a href="/wiki/Otley" title="Otley">Otley</a>, <a href="/wiki/Oulton,_West_Yorkshire" title="Oulton, West Yorkshire">Oulton</a>, <a href="/wiki/Pool-in-Wharfedale" title="Pool-in-Wharfedale">Pool-in-Wharfedale</a>, <a href="/wiki/Pudsey" title="Pudsey">Pudsey</a>, <a href="/wiki/Rothwell,_West_Yorkshire" title="Rothwell, West Yorkshire">Rothwell</a>, <a href="/wiki/Rawdon,_West_Yorkshire" title="Rawdon, West Yorkshire">Rawdon</a>, <a href="/wiki/Scarcroft" title="Scarcroft">Scarcroft</a>, <a href="/wiki/Scholes,_Leeds" title="Scholes, Leeds">Scholes</a>, <a href="/wiki/Stourton,_Leeds" title="Stourton, Leeds">Stourton</a>, <a href="/wiki/Swillington" title="Swillington">Swillington</a>, <a href="/wiki/Walton,_Leeds" title="Walton, Leeds">Walton (Leeds)</a>, <a href="/wiki/Wetherby" title="Wetherby">Wetherby</a>, <a href="/wiki/Yeadon,_West_Yorkshire" title="Yeadon, West Yorkshire">Yeadon</a>
+</td></tr>
+<tr>
+<td>2
+</td>
+<td><a href="/wiki/City_of_Wakefield" title="City of Wakefield">City of Wakefield</a>
+</td>
+<td><a href="/wiki/File:WYorks-Wakefield.png" class="image"><img alt="WYorks-Wakefield.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WYorks-Wakefield.png/50px-WYorks-Wakefield.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WYorks-Wakefield.png/75px-WYorks-Wakefield.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/WYorks-Wakefield.png/100px-WYorks-Wakefield.png 2x" data-file-width="200" data-file-height="157" /></a>
+</td>
+<td><a href="/wiki/Wakefield" title="Wakefield">Wakefield</a>
+</td>
+<td><a href="/wiki/Ackworth,_West_Yorkshire" title="Ackworth, West Yorkshire">Ackworth</a>, <a href="/wiki/Alverthorpe" title="Alverthorpe">Alverthorpe</a>, <a href="/wiki/Castleford" title="Castleford">Castleford</a>, <a href="/wiki/Crigglestone" title="Crigglestone">Crigglestone</a>, <a href="/wiki/Crofton,_West_Yorkshire" title="Crofton, West Yorkshire">Crofton</a>, <a href="/wiki/Durkar" title="Durkar">Durkar</a>, <a href="/wiki/Fairburn_Ings" class="mw-redirect" title="Fairburn Ings">Fairburn Ings</a>, <a href="/wiki/Featherstone" title="Featherstone">Featherstone</a>, <a href="/wiki/Ferrybridge" title="Ferrybridge">Ferrybridge</a>, <a href="/wiki/Fitzwilliam,_West_Yorkshire" title="Fitzwilliam, West Yorkshire">Fitzwilliam</a>, <a href="/wiki/Hemsworth" title="Hemsworth">Hemsworth</a>, <a href="/wiki/Horbury" title="Horbury">Horbury</a>, <a href="/wiki/Knottingley" title="Knottingley">Knottingley</a>, <a href="/wiki/Newmillerdam" title="Newmillerdam">Newmillerdam</a>, <a href="/wiki/Normanton,_West_Yorkshire" title="Normanton, West Yorkshire">Normanton</a>, <a href="/wiki/Nostell" title="Nostell">Nostell</a>, <a href="/wiki/Ossett" title="Ossett">Ossett</a>, <a href="/wiki/Outwood,_West_Yorkshire" class="mw-redirect" title="Outwood, West Yorkshire">Outwood</a>, <a href="/wiki/Pontefract" title="Pontefract">Pontefract</a>, <a href="/wiki/Ryhill" title="Ryhill">Ryhill</a>, <a href="/wiki/Sandal,_Wakefield" class="mw-redirect" title="Sandal, Wakefield">Sandal</a>, <a href="/wiki/Sharlston" title="Sharlston">Sharlston</a>, <a href="/wiki/Stanley,_West_Yorkshire" title="Stanley, West Yorkshire">Stanley</a>, <a href="/wiki/Walton,_Wakefield" title="Walton, Wakefield">Walton (Wakefield)</a>, <a href="/wiki/West_Bretton" title="West Bretton">West Bretton</a>
+</td></tr>
+<tr>
+<td>3
+</td>
+<td><a href="/wiki/Kirklees" title="Kirklees">Kirklees</a>
+</td>
+<td><a href="/wiki/File:WYorks-Kirklees.png" class="image"><img alt="WYorks-Kirklees.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WYorks-Kirklees.png/50px-WYorks-Kirklees.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WYorks-Kirklees.png/75px-WYorks-Kirklees.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WYorks-Kirklees.png/100px-WYorks-Kirklees.png 2x" data-file-width="200" data-file-height="157" /></a>
+</td>
+<td><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>
+</td>
+<td><a href="/wiki/Almondbury" title="Almondbury">Almondbury</a>, <a href="/wiki/Batley" title="Batley">Batley</a>, <a href="/wiki/Birkby,_West_Yorkshire" class="mw-redirect" title="Birkby, West Yorkshire">Birkby</a>, <a href="/wiki/Birkenshaw,_West_Yorkshire" title="Birkenshaw, West Yorkshire">Birkenshaw</a>, <a href="/wiki/Birstall,_West_Yorkshire" title="Birstall, West Yorkshire">Birstall</a>, <a href="/wiki/Cleckheaton" title="Cleckheaton">Cleckheaton</a>, <a href="/wiki/Dalton,_West_Yorkshire" class="mw-redirect" title="Dalton, West Yorkshire">Dalton</a>, <a href="/wiki/Denby_Dale" title="Denby Dale">Denby Dale</a>, <a href="/wiki/Dewsbury" title="Dewsbury">Dewsbury</a>, <a href="/wiki/Emley,_West_Yorkshire" title="Emley, West Yorkshire">Emley</a>, <a href="/wiki/Golcar" title="Golcar">Golcar</a>, <a href="/wiki/Gomersal" title="Gomersal">Gomersal</a>, <a href="/wiki/Hartshead" title="Hartshead">Hartshead</a>, <a href="/wiki/Hartshead_Moor" class="mw-redirect" title="Hartshead Moor">Hartshead Moor</a>, <a href="/wiki/Heckmondwike" title="Heckmondwike">Heckmondwike</a>, <a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a>, <a href="/wiki/Honley" title="Honley">Honley</a>, <a href="/wiki/Kirkburton" title="Kirkburton">Kirkburton</a>, <a href="/wiki/Kirkheaton" title="Kirkheaton">Kirkheaton</a>, <a href="/wiki/Linthwaite" title="Linthwaite">Linthwaite</a>, <a href="/wiki/Liversedge" title="Liversedge">Liversedge</a>, <a href="/wiki/Marsden,_West_Yorkshire" title="Marsden, West Yorkshire">Marsden</a>, <a href="/wiki/Meltham" title="Meltham">Meltham</a>, <a href="/wiki/Mirfield" title="Mirfield">Mirfield</a>, <a href="/wiki/New_Mill,_West_Yorkshire" title="New Mill, West Yorkshire">New Mill</a>, <a href="/wiki/Norristhorpe" title="Norristhorpe">Norristhorpe</a>, <a href="/wiki/Roberttown" title="Roberttown">Roberttown</a>, <a href="/wiki/Scammonden" title="Scammonden">Scammonden</a>, <a href="/wiki/Shelley,_West_Yorkshire" title="Shelley, West Yorkshire">Shelley</a>, <a href="/wiki/Shepley" title="Shepley">Shepley</a>, <a href="/wiki/Skelmanthorpe" title="Skelmanthorpe">Skelmanthorpe</a>, <a href="/wiki/Slaithwaite" title="Slaithwaite">Slaithwaite</a>, <a href="/wiki/Thornhill,_West_Yorkshire" title="Thornhill, West Yorkshire">Thornhill</a>
+</td></tr>
+<tr>
+<td>4
+</td>
+<td><a href="/wiki/Calderdale" title="Calderdale">Calderdale</a>
+</td>
+<td><a href="/wiki/File:WYorks-Calderdale.png" class="image"><img alt="WYorks-Calderdale.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/WYorks-Calderdale.png/50px-WYorks-Calderdale.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/WYorks-Calderdale.png/75px-WYorks-Calderdale.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/WYorks-Calderdale.png/100px-WYorks-Calderdale.png 2x" data-file-width="200" data-file-height="157" /></a>
+</td>
+<td><a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a>
+</td>
+<td><a href="/wiki/Bailiff_Bridge" title="Bailiff Bridge">Bailiff Bridge</a>, <a href="/wiki/Boothtown" title="Boothtown">Boothtown</a>, <a href="/wiki/Brighouse" title="Brighouse">Brighouse</a>, <a href="/wiki/Copley,_West_Yorkshire" title="Copley, West Yorkshire">Copley</a>, <a href="/wiki/Cragg_Vale" title="Cragg Vale">Cragg Vale</a>, <a href="/wiki/Elland" title="Elland">Elland</a>, <a href="/wiki/Greetland" title="Greetland">Greetland</a>, <a href="/wiki/Hebden_Bridge" title="Hebden Bridge">Hebden Bridge</a>, <a href="/wiki/Heptonstall" title="Heptonstall">Heptonstall</a>, <a href="/wiki/Hipperholme" title="Hipperholme">Hipperholme</a>, <a href="/wiki/Holywell_Green" title="Holywell Green">Holywell Green</a>, <a href="/wiki/Luddendenfoot" title="Luddendenfoot">Luddendenfoot</a>, <a href="/wiki/Mytholmroyd" title="Mytholmroyd">Mytholmroyd</a>, <a href="/wiki/Norwood_Green,_West_Yorkshire" title="Norwood Green, West Yorkshire">Norwood Green</a>, <a href="/wiki/Rastrick" title="Rastrick">Rastrick</a>, <a href="/wiki/Ripponden" title="Ripponden">Ripponden</a>, <a href="/wiki/Shelf,_West_Yorkshire" title="Shelf, West Yorkshire">Shelf</a>, <a href="/wiki/Shibden" title="Shibden">Shibden</a>, <a href="/wiki/Sowerby_Bridge" title="Sowerby Bridge">Sowerby Bridge</a>, <a href="/wiki/Todmorden" title="Todmorden">Todmorden</a>
+</td></tr>
+<tr>
+<td>5
+</td>
+<td><a href="/wiki/City_of_Bradford" title="City of Bradford">City of Bradford</a>
+</td>
+<td><a href="/wiki/File:WYorks-Bradford.png" class="image"><img alt="WYorks-Bradford.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/WYorks-Bradford.png/50px-WYorks-Bradford.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/WYorks-Bradford.png/75px-WYorks-Bradford.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/WYorks-Bradford.png/100px-WYorks-Bradford.png 2x" data-file-width="200" data-file-height="157" /></a>
+</td>
+<td><a href="/wiki/Bradford" title="Bradford">Bradford</a>
+</td>
+<td><a href="/wiki/Addingham" title="Addingham">Addingham</a>, <a href="/wiki/Baildon" title="Baildon">Baildon</a>, <a href="/wiki/Bingley" title="Bingley">Bingley</a>, <a href="/wiki/Burley-in-Wharfedale" class="mw-redirect" title="Burley-in-Wharfedale">Burley-in-Wharfedale</a>, <a href="/wiki/Cottingley,_Bradford" title="Cottingley, Bradford">Cottingley</a>, <a href="/wiki/Crossflatts" title="Crossflatts">Crossflatts</a>, <a href="/wiki/Cullingworth" title="Cullingworth">Cullingworth</a>, <a href="/wiki/Denholme" title="Denholme">Denholme</a>, <a href="/wiki/East_and_West_Morton" class="mw-redirect" title="East and West Morton">East and West Morton</a>, <a href="/wiki/Eccleshill,_West_Yorkshire" title="Eccleshill, West Yorkshire">Eccleshill</a>, <a href="/wiki/Eldwick" title="Eldwick">Eldwick</a>, <a href="/wiki/Esholt" title="Esholt">Esholt</a>, <a href="/wiki/Gilstead" title="Gilstead">Gilstead</a>, <a href="/wiki/Harden,_West_Yorkshire" title="Harden, West Yorkshire">Harden</a>, <a href="/wiki/Haworth" title="Haworth">Haworth</a>, <a href="/wiki/Ilkley" title="Ilkley">Ilkley</a>, <a href="/wiki/Keighley" title="Keighley">Keighley</a>, <a href="/wiki/Menston" title="Menston">Menston</a>, <a href="/wiki/Oakworth" title="Oakworth">Oakworth</a>, <a href="/wiki/Oxenhope" title="Oxenhope">Oxenhope</a>, <a href="/wiki/Queensbury,_West_Yorkshire" title="Queensbury, West Yorkshire">Queensbury</a>, <a href="/wiki/Riddlesden" title="Riddlesden">Riddlesden</a>, <a href="/wiki/Saltaire" title="Saltaire">Saltaire</a>, <a href="/wiki/Sandy_Lane,_West_Yorkshire" title="Sandy Lane, West Yorkshire">Sandy Lane</a>, <a href="/wiki/Shipley,_West_Yorkshire" title="Shipley, West Yorkshire">Shipley</a>, <a href="/wiki/Silsden" title="Silsden">Silsden</a>, <a href="/wiki/Stanbury" title="Stanbury">Stanbury</a>, <a href="/wiki/Steeton_with_Eastburn" title="Steeton with Eastburn">Steeton</a>, <a href="/wiki/Thornbury,_West_Yorkshire" title="Thornbury, West Yorkshire">Thornbury</a>, <a href="/wiki/Thornton,_West_Yorkshire" title="Thornton, West Yorkshire">Thornton</a>, <a href="/wiki/Tong,_West_Yorkshire" title="Tong, West Yorkshire">Tong</a>, <a href="/wiki/Bolton_and_Undercliffe" title="Bolton and Undercliffe">Undercliffe</a>, <a href="/wiki/Wilsden" title="Wilsden">Wilsden</a>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Population_ranking">Population ranking</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_settlements_in_West_Yorkshire_by_population&amp;action=edit&amp;section=2" title="Edit section: Population ranking">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable sortable">
+<tbody><tr>
+<th>#
+</th>
+<th>Settlement
+</th>
+<th>Population (2001)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</th>
+<th><b>Population (2011)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></b>
+</th></tr>
+<tr>
+<td>1
+</td>
+<td><b><a href="/wiki/Leeds" title="Leeds">Leeds</a></b>
+</td>
+<td>445,260
+</td>
+<td>474,632
+</td></tr>
+<tr>
+<td>2
+</td>
+<td><b><a href="/wiki/Bradford" title="Bradford">Bradford</a></b>
+</td>
+<td>309,020
+</td>
+<td>349,561
+</td></tr>
+<tr>
+<td>3
+</td>
+<td><b><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></b>
+</td>
+<td>147,280
+</td>
+<td>162,949
+</td></tr>
+<tr>
+<td>4
+</td>
+<td><b><a href="/wiki/Wakefield" title="Wakefield">Wakefield</a></b>
+</td>
+<td>96,290
+</td>
+<td>99,251
+</td></tr>
+<tr>
+<td>5
+</td>
+<td><a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire"><b>Halifax</b></a>
+</td>
+<td>83,440
+</td>
+<td>88,134
+</td></tr>
+<tr>
+<td>6
+</td>
+<td><b><a href="/wiki/Batley" title="Batley">Batley</a></b>
+</td>
+<td>76,270
+</td>
+<td>80,485
+</td></tr>
+<tr>
+<td>7
+</td>
+<td><b><a href="/wiki/Dewsbury" title="Dewsbury">Dewsbury</a></b>
+</td>
+<td>57,780
+</td>
+<td>62,945
+</td></tr>
+<tr>
+<td>8
+</td>
+<td><b><a href="/wiki/Keighley" title="Keighley">Keighley</a></b>
+</td>
+<td>48,920
+</td>
+<td>53,331
+</td></tr>
+<tr>
+<td>9
+</td>
+<td><b><a href="/wiki/Castleford" title="Castleford">Castleford</a></b>
+</td>
+<td>36,300
+</td>
+<td>39,192
+</td></tr>
+<tr>
+<td>10
+</td>
+<td><b><a href="/wiki/Brighouse" title="Brighouse">Brighouse</a></b>
+</td>
+<td>31,870
+</td>
+<td>33,286
+</td></tr>
+<tr>
+<td>11
+</td>
+<td><b><a href="/wiki/Pudsey" title="Pudsey">Pudsey</a></b>
+</td>
+<td>31,850
+</td>
+<td>32,216
+</td></tr>
+<tr>
+<td>12
+</td>
+<td><a href="/wiki/Morley,_West_Yorkshire" title="Morley, West Yorkshire"><b>Morley</b></a>
+</td>
+<td>27,480
+</td>
+<td>29,673
+</td></tr>
+<tr>
+<td>13
+</td>
+<td><b><a href="/wiki/Pontefract" title="Pontefract">Pontefract</a></b>
+</td>
+<td>28,250
+</td>
+<td>29,305
+</td></tr>
+<tr>
+<td>14
+</td>
+<td><a href="/wiki/Shipley,_West_Yorkshire" title="Shipley, West Yorkshire"><b>Shipley</b></a>
+</td>
+<td>26,040
+</td>
+<td>28,694
+</td></tr>
+<tr>
+<td>15
+</td>
+<td><b><a href="/wiki/Bingley" title="Bingley">Bingley</a></b>
+</td>
+<td>19,890
+</td>
+<td>22,493
+</td></tr>
+<tr>
+<td>16
+</td>
+<td><b><a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a></b>
+</td>
+<td>20,138
+</td>
+<td>21,706
+</td></tr>
+<tr>
+<td>17
+</td>
+<td><a href="/wiki/Normanton,_West_Yorkshire" title="Normanton, West Yorkshire"><b>Normanton</b></a>
+</td>
+<td>20,280
+</td>
+<td>21,317
+</td></tr>
+<tr>
+<td>18
+</td>
+<td><b><a href="/wiki/Ossett" title="Ossett">Ossett</a></b>
+</td>
+<td>21,076
+</td>
+<td>21,231
+</td></tr>
+<tr>
+<td>19
+</td>
+<td><a href="/wiki/Yeadon,_West_Yorkshire" title="Yeadon, West Yorkshire"><b>Yeadon</b></a>
+</td>
+<td>20,270
+</td>
+<td>19,668
+</td></tr>
+<tr>
+<td>20
+</td>
+<td><a href="/wiki/Rothwell,_West_Yorkshire" title="Rothwell, West Yorkshire"><b>Rothwell</b></a>
+</td>
+<td>19,400
+</td>
+<td>19,512
+</td></tr>
+<tr>
+<td>21
+</td>
+<td><b><a href="/wiki/Mirfield" title="Mirfield">Mirfield</a></b>
+</td>
+<td>18,390
+</td>
+<td>19,330
+</td></tr>
+<tr>
+<td>22
+</td>
+<td><b><a href="/wiki/Horsforth" title="Horsforth">Horsforth</a></b>
+</td>
+<td>18,930
+</td>
+<td>18,895
+</td></tr>
+<tr>
+<td>23
+</td>
+<td><b><a href="/wiki/Liversedge" title="Liversedge">Liversedge</a></b>
+</td>
+<td>16,930
+</td>
+<td>17,697
+</td></tr>
+<tr>
+<td>24
+</td>
+<td><b><a href="/wiki/Baildon" title="Baildon">Baildon</a></b>
+</td>
+<td>15,569
+</td>
+<td>15,944
+</td></tr>
+<tr>
+<td>25
+</td>
+<td><b><a href="/wiki/Elland" title="Elland">Elland</a></b>
+</td>
+<td>14,560
+</td>
+<td>15,625
+</td></tr>
+<tr>
+<td>26
+</td>
+<td><b><a href="/wiki/Garforth" title="Garforth">Garforth</a></b>
+</td>
+<td>15,394
+</td>
+<td>14,838
+</td></tr>
+<tr>
+<td>27
+</td>
+<td><b><a href="/wiki/Ilkley" title="Ilkley">Ilkley</a></b>
+</td>
+<td>13,828
+</td>
+<td>14,809
+</td></tr>
+<tr>
+<td>28
+</td>
+<td><b><a href="/wiki/Otley" title="Otley">Otley</a></b>
+</td>
+<td>14,641
+</td>
+<td>14,215
+</td></tr>
+<tr>
+<td>29
+</td>
+<td><b><a href="/wiki/Knottingley" title="Knottingley">Knottingley</a></b>
+</td>
+<td>13,797
+</td>
+<td>13,971
+</td></tr>
+<tr>
+<td>30
+</td>
+<td><b><a href="/wiki/Heckmondwike" title="Heckmondwike">Heckmondwike</a></b>
+</td>
+<td>10,717
+</td>
+<td>12,085
+</td></tr>
+<tr>
+<td>31
+</td>
+<td><b><a href="/wiki/Guiseley" title="Guiseley">Guiseley</a></b>
+</td>
+<td>11,130
+</td>
+<td>11,960
+</td></tr>
+<tr>
+<td>32
+</td>
+<td><b><a href="/wiki/Todmorden" title="Todmorden">Todmorden</a></b>
+</td>
+<td>11,555
+</td>
+<td>11,690
+</td></tr>
+<tr>
+<td>33
+</td>
+<td><b><a href="/wiki/Cleckheaton" title="Cleckheaton">Cleckheaton</a></b>
+</td>
+<td>10,480
+</td>
+<td>11,648
+</td></tr>
+<tr>
+<td>34
+</td>
+<td><b><a href="/wiki/Wetherby" title="Wetherby">Wetherby</a></b>
+</td>
+<td>11,710
+</td>
+<td>11,242
+</td></tr>
+<tr>
+<td>35
+</td>
+<td><b><a href="/wiki/Featherstone" title="Featherstone">Featherstone</a></b>
+</td>
+<td>11,660
+</td>
+<td>11,060
+</td></tr>
+<tr>
+<td>36
+</td>
+<td><b><a href="/wiki/South_Elmsall" title="South Elmsall">South Elmsall</a></b>
+</td>
+<td>10,211
+</td>
+<td>10,366
+</td></tr>
+<tr>
+<td>37
+</td>
+<td><b><a href="/wiki/Horbury" title="Horbury">Horbury</a></b>
+</td>
+<td>10,002
+</td>
+<td>10,361
+</td></tr>
+<tr>
+<td>38
+</td>
+<td><a href="/wiki/Kippax,_West_Yorkshire" title="Kippax, West Yorkshire"><b>Kippax</b></a>
+</td>
+<td>10,422
+</td>
+<td>10,083
+</td></tr>
+<tr>
+<td>39
+</td>
+<td><b><a href="/wiki/Hemsworth" title="Hemsworth">Hemsworth</a></b>
+</td>
+<td>9,145
+</td>
+<td>9,246
+</td></tr>
+<tr>
+<td>40
+</td>
+<td><b><a href="/wiki/South_Kirkby" title="South Kirkby">South Kirkby</a></b>
+</td>
+<td>8,220
+</td>
+<td>8,533
+</td></tr>
+<tr>
+<td>41
+</td>
+<td><b><a href="/wiki/Silsden" title="Silsden">Silsden</a></b>
+</td>
+<td>7,681
+</td>
+<td>7,912
+</td></tr>
+<tr>
+<td>42
+</td>
+<td><b><a href="/wiki/Meltham" title="Meltham">Meltham</a></b>
+</td>
+<td>7,382
+</td>
+<td>7,836
+</td></tr>
+<tr>
+<td>43
+</td>
+<td><b><a href="/wiki/Burley-in-Wharfedale" class="mw-redirect" title="Burley-in-Wharfedale">Burley-in-Wharfedale</a></b>
+</td>
+<td>6,400
+</td>
+<td>7,041
+</td></tr>
+<tr>
+<td>44
+</td>
+<td><b><a href="/wiki/Haworth" title="Haworth">Haworth</a></b>
+</td>
+<td>6,078
+</td>
+<td>6,379
+</td></tr>
+<tr>
+<td>45
+</td>
+<td><a href="/wiki/Upton,_West_Yorkshire" title="Upton, West Yorkshire"><b>Upton</b></a>
+</td>
+<td>6,070
+</td>
+<td>5,874
+</td></tr>
+<tr>
+<td>46
+</td>
+<td><b><a href="/wiki/Shepley" title="Shepley">Shepley</a></b>
+</td>
+<td>5,242
+</td>
+<td>5,444
+</td></tr>
+<tr>
+<td>47
+</td>
+<td><a href="/wiki/Thornton,_West_Yorkshire" title="Thornton, West Yorkshire"><b>Thornton</b></a>
+</td>
+<td>4,998
+</td>
+<td>5,289
+</td></tr>
+<tr>
+<td>48
+</td>
+<td><a href="/wiki/Ackworth,_West_Yorkshire" title="Ackworth, West Yorkshire"><b>Ackworth Moor Top</b></a>
+</td>
+<td>4,784
+</td>
+<td>5,281
+</td></tr>
+<tr>
+<td>49
+</td>
+<td><a href="/wiki/Crofton,_West_Yorkshire" title="Crofton, West Yorkshire"><b>Crofton</b></a>
+</td>
+<td>5,414
+</td>
+<td>5,258
+</td></tr>
+<tr>
+<td>50
+</td>
+<td><b><a href="/wiki/Ryhill" title="Ryhill">Ryhill</a></b>
+</td>
+<td>4,731
+</td>
+<td>5,150
+</td></tr>
+<tr>
+<td>51
+</td>
+<td><a href="/wiki/Wood_End,_West_Yorkshire" class="mw-redirect" title="Wood End, West Yorkshire"><b>Woodend</b></a>
+</td>
+<td>3,950
+</td>
+<td>4,717
+</td></tr>
+<tr>
+<td>52
+</td>
+<td><b><a href="/wiki/Ripponden" title="Ripponden">Ripponden</a></b>
+</td>
+<td>3,780
+</td>
+<td>4,665
+</td></tr>
+<tr>
+<td>53
+</td>
+<td><b><a href="/wiki/Boston_Spa" title="Boston Spa">Boston Spa</a></b>
+</td>
+<td>4,628
+</td>
+<td>4,662
+</td></tr>
+<tr>
+<td>54
+</td>
+<td><b><a href="/wiki/Sowerby_Bridge" title="Sowerby Bridge">Sowerby Bridge</a></b>
+</td>
+<td>4,420
+</td>
+<td>4,601
+</td></tr>
+<tr>
+<td>55
+</td>
+<td><b><a href="/wiki/Skelmanthorpe" title="Skelmanthorpe">Skelmanthorpe</a></b>
+</td>
+<td>4,141
+</td>
+<td>4,549
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_settlements_in_West_Yorkshire_by_population&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></li>
+<li><a href="/wiki/West_Yorkshire_Urban_Area" title="West Yorkshire Urban Area">West Yorkshire Urban Area</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_settlements_in_West_Yorkshire_by_population&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.citypopulation.de/php/uk-england-yorkshireandthehumber.php?adm2id=E11000006">"West Yorkshire (Metropolitan County, Yorkshire and the Humber, United Kingdom) - Population Statistics and Location in Maps and Charts"</a>. <i>www.citypopulation.de</i><span class="reference-accessdate">. Retrieved <span class="nowrap">12 November</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.citypopulation.de&amp;rft.atitle=West+Yorkshire+%28Metropolitan+County%2C+Yorkshire+and+the+Humber%2C+United+Kingdom%29+-+Population+Statistics+and+Location+in+Maps+and+Charts&amp;rft_id=https%3A%2F%2Fwww.citypopulation.de%2Fphp%2Fuk-england-yorkshireandthehumber.php%3Fadm2id%3DE11000006&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+settlements+in+West+Yorkshire+by+population" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nomisweb.co.uk/articles/747.aspx">2011 census table: ONS</a></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Ceremonial_county_of_West_Yorkshire" style="padding:3px"><table class="nowraplinks hlist vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:West_Yorkshire" title="Template:West Yorkshire"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:West_Yorkshire" title="Template talk:West Yorkshire"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:West_Yorkshire&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Ceremonial_county_of_West_Yorkshire" class="adr" style="font-size:114%;margin:0 4em"><span class="category"><a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">Ceremonial county</a></span> of <span class="fn org region"><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></span></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="Yorkshire_Portal"><i><a href="/wiki/Portal:Yorkshire" title="Portal:Yorkshire">Yorkshire Portal</a></i></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Metropolitan districts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/City_of_Bradford" title="City of Bradford">City of Bradford</a></li>
+<li><a href="/wiki/City_of_Leeds" title="City of Leeds">City of Leeds</a></li>
+<li><a href="/wiki/City_of_Wakefield" title="City of Wakefield">City of Wakefield</a></li>
+<li><a href="/wiki/Calderdale" title="Calderdale">Metropolitan Borough of Calderdale</a></li>
+<li><a href="/wiki/Kirklees" title="Kirklees">Metropolitan Borough of Kirklees</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Major settlements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baildon" title="Baildon">Baildon</a></li>
+<li><a href="/wiki/Batley" title="Batley">Batley</a></li>
+<li><a href="/wiki/Bingley" title="Bingley">Bingley</a></li>
+<li><a href="/wiki/Bradford" title="Bradford">Bradford</a></li>
+<li><a href="/wiki/Brighouse" title="Brighouse">Brighouse</a></li>
+<li><a href="/wiki/Castleford" title="Castleford">Castleford</a></li>
+<li><a href="/wiki/Cleckheaton" title="Cleckheaton">Cleckheaton</a></li>
+<li><a href="/wiki/Denholme" title="Denholme">Denholme</a></li>
+<li><a href="/wiki/Dewsbury" title="Dewsbury">Dewsbury</a></li>
+<li><a href="/wiki/Elland" title="Elland">Elland</a></li>
+<li><a href="/wiki/Farsley" title="Farsley">Farsley</a></li>
+<li><a href="/wiki/Featherstone" title="Featherstone">Featherstone</a></li>
+<li><a href="/wiki/Guiseley" title="Guiseley">Guiseley</a></li>
+<li><a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a></li>
+<li><a href="/wiki/Hebden_Bridge" title="Hebden Bridge">Hebden Bridge</a></li>
+<li><a href="/wiki/Heckmondwike" title="Heckmondwike">Heckmondwike</a></li>
+<li><a href="/wiki/Hemsworth" title="Hemsworth">Hemsworth</a></li>
+<li><a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a></li>
+<li><a href="/wiki/Horbury" title="Horbury">Horbury</a></li>
+<li><a href="/wiki/Horsforth" title="Horsforth">Horsforth</a></li>
+<li><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></li>
+<li><a href="/wiki/Ilkley" title="Ilkley">Ilkley</a></li>
+<li><a href="/wiki/Keighley" title="Keighley">Keighley</a></li>
+<li><a href="/wiki/Knottingley" title="Knottingley">Knottingley</a></li>
+<li><a href="/wiki/Leeds" title="Leeds">Leeds</a></li>
+<li><a href="/wiki/Meltham" title="Meltham">Meltham</a></li>
+<li><a href="/wiki/Mirfield" title="Mirfield">Mirfield</a></li>
+<li><a href="/wiki/Morley,_West_Yorkshire" title="Morley, West Yorkshire">Morley</a></li>
+<li><a href="/wiki/Normanton,_West_Yorkshire" title="Normanton, West Yorkshire">Normanton</a></li>
+<li><a href="/wiki/Ossett" title="Ossett">Ossett</a></li>
+<li><a href="/wiki/Otley" title="Otley">Otley</a></li>
+<li><a href="/wiki/Pontefract" title="Pontefract">Pontefract</a></li>
+<li><a href="/wiki/Pudsey" title="Pudsey">Pudsey</a></li>
+<li><a href="/wiki/Rothwell,_West_Yorkshire" title="Rothwell, West Yorkshire">Rothwell</a></li>
+<li><a href="/wiki/Shipley,_West_Yorkshire" title="Shipley, West Yorkshire">Shipley</a></li>
+<li><a href="/wiki/Silsden" title="Silsden">Silsden</a></li>
+<li><a href="/wiki/South_Elmsall" title="South Elmsall">South Elmsall</a></li>
+<li><a href="/wiki/Sowerby_Bridge" title="Sowerby Bridge">Sowerby Bridge</a></li>
+<li><a href="/wiki/Todmorden" title="Todmorden">Todmorden</a></li>
+<li><a href="/wiki/Wakefield" title="Wakefield">Wakefield</a></li>
+<li><a href="/wiki/Warley_Town" title="Warley Town">Warley Town</a></li>
+<li><a href="/wiki/Wetherby" title="Wetherby">Wetherby</a></li>
+<li><a href="/wiki/Yeadon,_West_Yorkshire" title="Yeadon, West Yorkshire">Yeadon</a><br /><i>See also:</i> <b><a href="/wiki/List_of_civil_parishes_in_West_Yorkshire" class="mw-redirect" title="List of civil parishes in West Yorkshire">List of civil parishes in West Yorkshire</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Topics</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Parliamentary_constituencies_in_West_Yorkshire" title="List of Parliamentary constituencies in West Yorkshire">Parliamentary constituencies</a></li>
+<li><a href="/wiki/West_Yorkshire_Joint_Services" title="West Yorkshire Joint Services">West Yorkshire Joint Services</a></li>
+<li><a href="/wiki/List_of_places_in_West_Yorkshire" class="mw-redirect" title="List of places in West Yorkshire">Places</a></li>
+<li><a class="mw-selflink selflink">Population of major settlements</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire" title="List of Sites of Special Scientific Interest in West Yorkshire">SSSIs</a></li>
+<li><a href="/wiki/Category:Country_houses_in_West_Yorkshire" title="Category:Country houses in West Yorkshire">Country houses</a></li>
+<li><a href="/wiki/Grade_I_listed_buildings_in_West_Yorkshire" title="Grade I listed buildings in West Yorkshire">Grade I listed buildings</a></li>
+<li><a href="/wiki/Grade_II*_listed_buildings_in_West_Yorkshire" title="Grade II* listed buildings in West Yorkshire">Grade II* listed buildings</a></li>
+<li><a href="/wiki/List_of_windmills_in_West_Yorkshire" title="List of windmills in West Yorkshire">Windmills</a></li>
+<li><a href="/wiki/History_of_West_Yorkshire" class="mw-redirect" title="History of West Yorkshire">History</a></li>
+<li><a href="/wiki/Lord_Lieutenant_of_West_Yorkshire" title="Lord Lieutenant of West Yorkshire">Lord Lieutenants</a></li>
+<li><a href="/wiki/High_Sheriff_of_West_Yorkshire" title="High Sheriff of West Yorkshire">High Sheriffs</a></li>
+<li><a href="/wiki/List_of_monastic_houses_in_West_Yorkshire" title="List of monastic houses in West Yorkshire">Monastic houses</a></li>
+<li><a href="/wiki/List_of_museums_in_West_Yorkshire" title="List of museums in West Yorkshire">Museums</a></li>
+<li><a href="/wiki/List_of_rivers_of_Yorkshire" title="List of rivers of Yorkshire">Rivers</a></li></ul>
+</div></td></tr></tbody></table></div><div role="navigation" class="navbox" aria-labelledby="Metropolitan_counties" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Metropolitan_counties" title="Template:Metropolitan counties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Metropolitan_counties" title="Template talk:Metropolitan counties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Metropolitan_counties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Metropolitan_counties" style="font-size:114%;margin:0 4em"><a href="/wiki/Metropolitan_county" title="Metropolitan county">Metropolitan counties</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Greater_Manchester" title="Greater Manchester">Greater Manchester</a></li>
+<li><a href="/wiki/Merseyside" title="Merseyside">Merseyside</a></li>
+<li><a href="/wiki/South_Yorkshire" title="South Yorkshire">South Yorkshire</a></li>
+<li><a href="/wiki/Tyne_and_Wear" title="Tyne and Wear">Tyne and Wear</a></li>
+<li><a href="/wiki/West_Midlands_(county)" title="West Midlands (county)">West Midlands</a></li>
+<li><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="1974–1996_←_Ceremonial_counties_of_England_→_current" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:England_counties" title="Template:England counties"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:England_counties" title="Template talk:England counties"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:England_counties&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="1974–1996_←_Ceremonial_counties_of_England_→_current" style="font-size:114%;margin:0 4em"><small><a href="/wiki/Template:England_counties/1974" title="Template:England counties/1974">1974–1996</a></small> ←&#160;&#160;&#160;<a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">Ceremonial counties of England</a>&#160;&#160;&#160;→ <small>current</small></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bedfordshire" title="Bedfordshire">Bedfordshire</a></li>
+<li><a href="/wiki/Berkshire" title="Berkshire">Berkshire</a></li>
+<li><a href="/wiki/Bristol" title="Bristol">Bristol</a></li>
+<li><a href="/wiki/Buckinghamshire" title="Buckinghamshire">Buckinghamshire</a></li>
+<li><a href="/wiki/Cambridgeshire" title="Cambridgeshire">Cambridgeshire</a></li>
+<li><a href="/wiki/Cheshire" title="Cheshire">Cheshire</a></li>
+<li><a href="/wiki/Cornwall" title="Cornwall">Cornwall</a></li>
+<li><a href="/wiki/Cumbria" title="Cumbria">Cumbria</a></li>
+<li><a href="/wiki/Derbyshire" title="Derbyshire">Derbyshire</a></li>
+<li><a href="/wiki/Devon" title="Devon">Devon</a></li>
+<li><a href="/wiki/Dorset" title="Dorset">Dorset</a></li>
+<li><a href="/wiki/County_Durham" title="County Durham">Durham</a></li>
+<li><a href="/wiki/East_Riding_of_Yorkshire" title="East Riding of Yorkshire">East Riding of Yorkshire</a></li>
+<li><a href="/wiki/East_Sussex" title="East Sussex">East Sussex</a></li>
+<li><a href="/wiki/Essex" title="Essex">Essex</a></li>
+<li><a href="/wiki/Gloucestershire" title="Gloucestershire">Gloucestershire</a></li>
+<li><a href="/wiki/Greater_London" title="Greater London">Greater London</a></li>
+<li><a href="/wiki/Greater_Manchester" title="Greater Manchester">Greater Manchester</a></li>
+<li><a href="/wiki/Hampshire" title="Hampshire">Hampshire</a></li>
+<li><a href="/wiki/Herefordshire" title="Herefordshire">Herefordshire</a></li>
+<li><a href="/wiki/Hertfordshire" title="Hertfordshire">Hertfordshire</a></li>
+<li><a href="/wiki/Isle_of_Wight" title="Isle of Wight">Isle of Wight</a></li>
+<li><a href="/wiki/Kent" title="Kent">Kent</a></li>
+<li><a href="/wiki/Lancashire" title="Lancashire">Lancashire</a></li>
+<li><a href="/wiki/Leicestershire" title="Leicestershire">Leicestershire</a></li>
+<li><a href="/wiki/Lincolnshire" title="Lincolnshire">Lincolnshire</a></li>
+<li><a href="/wiki/City_of_London" title="City of London">City of London</a></li>
+<li><a href="/wiki/Merseyside" title="Merseyside">Merseyside</a></li>
+<li><a href="/wiki/Norfolk" title="Norfolk">Norfolk</a></li>
+<li><a href="/wiki/Northamptonshire" title="Northamptonshire">Northamptonshire</a></li>
+<li><a href="/wiki/Northumberland" title="Northumberland">Northumberland</a></li>
+<li><a href="/wiki/North_Yorkshire" title="North Yorkshire">North Yorkshire</a></li>
+<li><a href="/wiki/Nottinghamshire" title="Nottinghamshire">Nottinghamshire</a></li>
+<li><a href="/wiki/Oxfordshire" title="Oxfordshire">Oxfordshire</a></li>
+<li><a href="/wiki/Rutland" title="Rutland">Rutland</a></li>
+<li><a href="/wiki/Shropshire" title="Shropshire">Shropshire</a></li>
+<li><a href="/wiki/Somerset" title="Somerset">Somerset</a></li>
+<li><a href="/wiki/South_Yorkshire" title="South Yorkshire">South Yorkshire</a></li>
+<li><a href="/wiki/Staffordshire" title="Staffordshire">Staffordshire</a></li>
+<li><a href="/wiki/Suffolk" title="Suffolk">Suffolk</a></li>
+<li><a href="/wiki/Surrey" title="Surrey">Surrey</a></li>
+<li><a href="/wiki/Tyne_and_Wear" title="Tyne and Wear">Tyne and Wear</a></li>
+<li><a href="/wiki/Warwickshire" title="Warwickshire">Warwickshire</a></li>
+<li><a href="/wiki/West_Midlands_(county)" title="West Midlands (county)">West Midlands</a></li>
+<li><a href="/wiki/West_Sussex" title="West Sussex">West Sussex</a></li>
+<li><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></li>
+<li><a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a></li>
+<li><a href="/wiki/Worcestershire" title="Worcestershire">Worcestershire</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Settlements_in_English_counties_by_population" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Settlements_in_English_counties_by_population" title="Template:Settlements in English counties by population"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Settlements_in_English_counties_by_population" title="Template talk:Settlements in English counties by population"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Settlements_in_English_counties_by_population&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Settlements_in_English_counties_by_population" style="font-size:114%;margin:0 4em"><a href="/wiki/Settlements_in_English_counties_by_population" title="Settlements in English counties by population">Settlements in English counties by population</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_localities_in_England_by_population" title="List of localities in England by population">List of localities in England by population</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Bedfordshire_settlements_by_population" title="List of Bedfordshire settlements by population">Bedfordshire</a></li>
+<li><a href="/wiki/List_of_settlements_in_Berkshire_by_population" title="List of settlements in Berkshire by population">Berkshire</a></li>
+<li><a href="/wiki/List_of_settlements_in_Bristol_by_population" class="mw-redirect" title="List of settlements in Bristol by population">Bristol</a></li>
+<li><a href="/wiki/List_of_settlements_in_Buckinghamshire_by_population" class="mw-redirect" title="List of settlements in Buckinghamshire by population">Buckinghamshire</a></li>
+<li><a href="/wiki/List_of_Cambridgeshire_settlements_by_population" title="List of Cambridgeshire settlements by population">Cambridgeshire</a></li>
+<li><a href="/wiki/List_of_Cheshire_settlements_by_population" title="List of Cheshire settlements by population">Cheshire</a></li>
+<li><a href="/wiki/List_of_settlements_in_Cornwall_by_population" title="List of settlements in Cornwall by population">Cornwall</a></li>
+<li><a href="/wiki/List_of_settlements_in_Cumbria_by_population" class="mw-redirect" title="List of settlements in Cumbria by population">Cumbria</a></li>
+<li><a href="/wiki/List_of_settlements_in_Derbyshire_by_population" title="List of settlements in Derbyshire by population">Derbyshire</a></li>
+<li><a href="/wiki/List_of_towns_and_cities_in_Devon_by_population" title="List of towns and cities in Devon by population">Devon</a></li>
+<li><a href="/wiki/List_of_settlements_in_Dorset_by_population" title="List of settlements in Dorset by population">Dorset</a></li>
+<li><a href="/wiki/List_of_settlements_in_County_Durham_by_population" title="List of settlements in County Durham by population">Durham</a></li>
+<li><a href="/wiki/List_of_settlements_in_the_East_Riding_of_Yorkshire_by_population" class="mw-redirect" title="List of settlements in the East Riding of Yorkshire by population">East Riding of Yorkshire</a></li>
+<li><a href="/wiki/List_of_settlements_in_East_Sussex_by_population" title="List of settlements in East Sussex by population">East Sussex</a></li>
+<li><a href="/wiki/List_of_settlements_in_Essex_by_population" title="List of settlements in Essex by population">Essex</a></li>
+<li><a href="/wiki/List_of_settlements_in_Gloucestershire_by_population" title="List of settlements in Gloucestershire by population">Gloucestershire</a></li>
+<li><a href="/wiki/List_of_Greater_Manchester_settlements_by_population" title="List of Greater Manchester settlements by population">Greater Manchester</a></li>
+<li><a href="/wiki/List_of_settlements_in_Hampshire_by_population" title="List of settlements in Hampshire by population">Hampshire</a></li>
+<li><a href="/wiki/List_of_settlements_in_Herefordshire_by_population" title="List of settlements in Herefordshire by population">Herefordshire</a></li>
+<li><a href="/wiki/List_of_settlements_in_Hertfordshire_by_population" title="List of settlements in Hertfordshire by population"> Hertfordshire</a></li>
+<li><a href="/wiki/List_of_settlements_on_the_Isle_of_Wight_by_population" class="mw-redirect" title="List of settlements on the Isle of Wight by population">Isle of Wight</a></li>
+<li><a href="/wiki/List_of_settlements_in_Kent_by_population" title="List of settlements in Kent by population">Kent</a></li>
+<li><a href="/wiki/List_of_settlements_in_Lancashire_by_population" title="List of settlements in Lancashire by population">Lancashire</a></li>
+<li><a href="/wiki/List_of_settlements_in_Leicestershire_by_population" title="List of settlements in Leicestershire by population">Leicestershire</a></li>
+<li><a href="/wiki/List_of_settlements_in_Lincolnshire_by_population" title="List of settlements in Lincolnshire by population">Lincolnshire</a></li>
+<li><a href="/wiki/List_of_settlements_in_Merseyside_by_population" title="List of settlements in Merseyside by population">Merseyside</a></li>
+<li><a href="/wiki/List_of_settlements_in_Norfolk_by_population" title="List of settlements in Norfolk by population">Norfolk</a></li>
+<li><a href="/wiki/List_of_Northamptonshire_settlements_by_population" title="List of Northamptonshire settlements by population">Northamptonshire</a></li>
+<li><a href="/wiki/List_of_settlements_in_Northumberland_by_population" title="List of settlements in Northumberland by population">Northumberland</a></li>
+<li><a href="/wiki/List_of_settlements_in_North_Yorkshire_by_population" class="mw-redirect" title="List of settlements in North Yorkshire by population">North Yorkshire</a></li>
+<li><a href="/wiki/List_of_settlements_in_Nottinghamshire_by_population" title="List of settlements in Nottinghamshire by population">Nottinghamshire</a></li>
+<li><a href="/wiki/List_of_settlements_in_Oxfordshire_by_population" class="mw-redirect" title="List of settlements in Oxfordshire by population">Oxfordshire</a></li>
+<li><a href="/wiki/List_of_settlements_in_Rutland_by_population" title="List of settlements in Rutland by population">Rutland</a></li>
+<li><a href="/wiki/List_of_settlements_in_Shropshire_by_population" class="mw-redirect" title="List of settlements in Shropshire by population">Shropshire</a></li>
+<li><a href="/wiki/List_of_settlements_in_Somerset_by_population" title="List of settlements in Somerset by population">Somerset</a></li>
+<li><a href="/wiki/List_of_Settlements_in_South_Yorkshire_by_population" class="mw-redirect" title="List of Settlements in South Yorkshire by population">South Yorkshire</a></li>
+<li><a href="/wiki/List_of_Staffordshire_settlements_by_population" title="List of Staffordshire settlements by population">Staffordshire</a></li>
+<li><a href="/wiki/List_of_settlements_in_Suffolk_by_population" title="List of settlements in Suffolk by population">Suffolk</a></li>
+<li><a href="/wiki/List_of_settlements_in_Surrey_by_population" title="List of settlements in Surrey by population">Surrey</a></li>
+<li><a href="/wiki/List_of_Tyne_and_Wear_settlements_by_population" title="List of Tyne and Wear settlements by population">Tyne and Wear</a></li>
+<li><a href="/wiki/List_of_Warwickshire_towns_by_population" title="List of Warwickshire towns by population">Warwickshire</a></li>
+<li><a href="/wiki/List_of_settlements_in_West_Midlands_(county)_by_population" title="List of settlements in West Midlands (county) by population">West Midlands</a></li>
+<li><a href="/wiki/List_of_settlements_in_West_Sussex_by_population" title="List of settlements in West Sussex by population">West Sussex</a></li>
+<li><a class="mw-selflink selflink">West Yorkshire</a></li>
+<li><a href="/wiki/List_of_settlements_in_Wiltshire_by_population" title="List of settlements in Wiltshire by population">Wiltshire</a></li>
+<li><a href="/wiki/List_of_settlements_in_Worcestershire_by_population" title="List of settlements in Worcestershire by population">Worcestershire</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1326
+Cached time: 20190907072609
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.312 seconds
+Real time usage: 0.390 seconds
+Preprocessor visited node count: 1314/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 87802/2097152 bytes
+Template argument size: 3199/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3511/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.124/10.000 seconds
+Lua memory usage: 2.64 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  258.529      1 -total
+ 32.68%   84.494      1 Template:Reflist
+ 31.26%   80.827      1 Template:Location_map+
+ 27.08%   70.018      1 Template:Cite_web
+ 21.28%   55.019     25 Template:Location_map~
+ 13.76%   35.583      1 Template:Use_British_English
+ 12.77%   33.005      4 Template:Navbox
+ 11.94%   30.871      1 Template:West_Yorkshire
+ 10.67%   27.576      1 Template:County
+  7.11%   18.391      2 Template:DMCA
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:52256199-0!canonical and timestamp 20190907072608 and revision id 799195036
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_settlements_in_West_Yorkshire_by_population&amp;oldid=799195036">https://en.wikipedia.org/w/index.php?title=List_of_settlements_in_West_Yorkshire_by_population&amp;oldid=799195036</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:West_Yorkshire" title="Category:West Yorkshire">West Yorkshire</a></li><li><a href="/wiki/Category:Geography_of_West_Yorkshire" title="Category:Geography of West Yorkshire">Geography of West Yorkshire</a></li><li><a href="/wiki/Category:Metropolitan_areas_of_England" title="Category:Metropolitan areas of England">Metropolitan areas of England</a></li><li><a href="/wiki/Category:Metropolitan_counties" title="Category:Metropolitan counties">Metropolitan counties</a></li><li><a href="/wiki/Category:NUTS_2_statistical_regions_of_the_United_Kingdom" title="Category:NUTS 2 statistical regions of the United Kingdom">NUTS 2 statistical regions of the United Kingdom</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_British_English_from_November_2016" title="Category:Use British English from November 2016">Use British English from November 2016</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_November_2016" title="Category:Use dmy dates from November 2016">Use dmy dates from November 2016</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=List+of+settlements+in+West+Yorkshire+by+population" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+settlements+in+West+Yorkshire+by+population" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/List_of_settlements_in_West_Yorkshire_by_population" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:List_of_settlements_in_West_Yorkshire_by_population" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/List_of_settlements_in_West_Yorkshire_by_population">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=List_of_settlements_in_West_Yorkshire_by_population&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=List_of_settlements_in_West_Yorkshire_by_population&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_settlements_in_West_Yorkshire_by_population" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_settlements_in_West_Yorkshire_by_population" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_settlements_in_West_Yorkshire_by_population&amp;oldid=799195036" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_settlements_in_West_Yorkshire_by_population&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q28405127" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_settlements_in_West_Yorkshire_by_population&amp;id=799195036" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+settlements+in+West+Yorkshire+by+population">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=List+of+settlements+in+West+Yorkshire+by+population&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_settlements_in_West_Yorkshire_by_population&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q28405127#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 6 September 2017, at 06:39<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_settlements_in_West_Yorkshire_by_population&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.312","walltime":"0.390","ppvisitednodes":{"value":1314,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":87802,"limit":2097152},"templateargumentsize":{"value":3199,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3511,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  258.529      1 -total"," 32.68%   84.494      1 Template:Reflist"," 31.26%   80.827      1 Template:Location_map+"," 27.08%   70.018      1 Template:Cite_web"," 21.28%   55.019     25 Template:Location_map~"," 13.76%   35.583      1 Template:Use_British_English"," 12.77%   33.005      4 Template:Navbox"," 11.94%   30.871      1 Template:West_Yorkshire"," 10.67%   27.576      1 Template:County","  7.11%   18.391      2 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.124","limit":"10.000"},"limitreport-memusage":{"value":2772653,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20190907072609","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"List of settlements in West Yorkshire by population","url":"https:\/\/en.wikipedia.org\/wiki\/List_of_settlements_in_West_Yorkshire_by_population","sameAs":"http:\/\/www.wikidata.org\/entity\/Q28405127","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q28405127","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-11-12T10:26:17Z","dateModified":"2017-09-06T06:39:44Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5b\/West_Yorkshire_UK_location_map.svg","headline":"Wikimedia list article"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":96,"wgHostname":"mw1273"});});</script>
+</body>
+</html>
+

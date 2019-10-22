@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Topman - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Topman","wgTitle":"Topman","wgCurRevisionId":918276695,"wgRevisionId":918276695,"wgArticleId":8435558,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia references cleanup from February 2015","All articles needing references cleanup","Articles covered by WikiProject Wikify from February 2015","All articles covered by WikiProject Wikify","Articles lacking in-text citations from February 2015","All articles lacking in-text citations","Articles lacking reliable references from March 2018","All articles lacking reliable references","Articles with multiple maintenance issues","Use dmy dates from November 2010","Use British English from November 2010","All articles with unsourced statements","Articles with unsourced statements from November 2015",
+"Retail companies of the United Kingdom","Clothing retailers of the United Kingdom"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Topman","wgRelevantArticleId":8435558,"wgRequestId":"XY6CBApAMFIAACFt2k0AAAAB","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{
+"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q1090880","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup",
+"mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Topman"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Topman&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Topman&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Topman"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Topman rootpage-Topman skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Topman</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the <a href="/wiki/Mega_Man" title="Mega Man">Mega Man</a> enemy, see <a href="/wiki/Robot_Master" class="mw-redirect" title="Robot Master">Robot Master</a>.</div>
+<table class="box-Multiple_issues plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span"><div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Topman&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Topman" title="Talk:Topman">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+      <table class="box-Citation_style plainlinks metadata ambox ambox-style ambox-citation_style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>has an unclear citation style</b>.<span class="hide-when-compact"> The references used may be made clearer with a different or consistent style of <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citation</a> and <a href="/wiki/Help:Footnotes" title="Help:Footnotes">footnoting</a>.</span>  <small class="date-container"><i>(<span class="date">February 2015</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="box-More_footnotes plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>.<span class="hide-when-compact"> Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" class="mw-redirect" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span>  <small class="date-container"><i>(<span class="date">February 2015</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="box-Primary_sources plainlinks metadata ambox ambox-content ambox-Primary_sources" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>relies too much on <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references</a> to <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">primary sources</a></b>.<span class="hide-when-compact"> Please improve this  by adding <a href="/wiki/Wikipedia:No_original_research#Primary,_secondary_and_tertiary_sources" title="Wikipedia:No original research">secondary or tertiary sources</a>.</span>  <small class="date-container"><i>(<span class="date">March 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="box-Unreliable_sources plainlinks metadata ambox ambox-content ambox-unreliable_sources" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Text_document_with_red_question_mark.svg" class="image"><img alt="Text document with red question mark.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">Some of this article's <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">listed sources</a> <b>may not be <a href="/wiki/Wikipedia:Reliable_sources" title="Wikipedia:Reliable sources">reliable</a></b>.<span class="hide-when-compact"> Please help this article by looking for better, more reliable sources. Unreliable citations may be challenged or deleted.</span>  <small class="date-container"><i>(<span class="date">March 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p class="mw-empty-elt">
+
+</p>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Topman</caption><tbody><tr><td colspan="2" class="logo" style="text-align:center"><a href="/wiki/File:TOPMAN2018.svg" class="image"><img alt="TOPMAN2018.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/TOPMAN2018.svg/300px-TOPMAN2018.svg.png" decoding="async" width="300" height="29" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/TOPMAN2018.svg/450px-TOPMAN2018.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/TOPMAN2018.svg/600px-TOPMAN2018.svg.png 2x" data-file-width="1779" data-file-height="171" /></a></td></tr><tr><th scope="row" style="padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/List_of_legal_entity_types_by_country" title="List of legal entity types by country">Type</a></div></th><td class="category" style="line-height:1.35em;">Subsidiary business</td></tr><tr><th scope="row" style="padding-right:0.5em;">Industry</th><td class="category" style="line-height:1.35em;">Fashion<br />Clothing<br />Textiles</td></tr><tr><th scope="row" style="padding-right:0.5em;">Genre</th><td class="category" style="line-height:1.35em;">Retail</td></tr><tr><th scope="row" style="padding-right:0.5em;">Founded</th><td style="line-height:1.35em;">1978<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="padding-right:0.5em;">Headquarters</th><td class="label" style="line-height:1.35em;">London, United Kingdom</td></tr><tr><th scope="row" style="padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Number of locations</div></th><td style="line-height:1.35em;">Over 400 Stores</td></tr><tr><th scope="row" style="padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Area served</div></th><td style="line-height:1.35em;">France<br />South Africa<br />United Kingdom<br />Ireland<br /><a href="/wiki/Turkey" title="Turkey">Turkey</a><br /><a href="/wiki/Malaysia" title="Malaysia">Malaysia</a><br />Russia<br />Australia<br /><a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a><br />Singapore<br /><a href="/wiki/Thailand" title="Thailand">Thailand</a><br /><a href="/wiki/Philippines" title="Philippines">Philippines</a><br /><a href="/wiki/Chile" title="Chile">Chile</a><br />United States<br /><a href="/wiki/United_Arab_Emirates" title="United Arab Emirates">United Arab Emirates</a><br /><a href="/wiki/Indonesia" title="Indonesia">Indonesia</a><br /><a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a><br /><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a><br />Spain<br /><a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a><br /><a href="/wiki/Malta" title="Malta">Malta</a><br />Canada<br /><a href="/wiki/Brazil" title="Brazil">Brazil</a><br /><a href="/wiki/Vietnam" title="Vietnam">Vietnam</a><br /><a href="/wiki/Qatar" title="Qatar">Qatar</a><br /><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></td></tr><tr><th scope="row" style="padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;">Key people</div></th><td class="agent" style="line-height:1.35em;">Sir <a href="/wiki/Philip_Green" title="Philip Green">Philip Green</a><br />(chairman)<br />Paul Brand<br />(CEO)</td></tr><tr><th scope="row" style="padding-right:0.5em;">Products</th><td style="line-height:1.35em;">Men's fashion</td></tr><tr><th scope="row" style="padding-right:0.5em;">Revenue</th><td style="line-height:1.35em;"><img alt="Increase" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/11px-Increase2.svg.png" decoding="async" title="Increase" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/17px-Increase2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/22px-Increase2.svg.png 2x" data-file-width="300" data-file-height="300" /> <a href="/wiki/Great_British_Pound" class="mw-redirect" title="Great British Pound">£</a>1.8 billion</td></tr><tr><th scope="row" style="padding-right:0.5em;"><div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Net_income" title="Net income">Net income</a></div></th><td style="line-height:1.35em;"><img alt="Decrease" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/11px-Decrease2.svg.png" decoding="async" title="Decrease" width="11" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/17px-Decrease2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Decrease2.svg/22px-Decrease2.svg.png 2x" data-file-width="300" data-file-height="300" /> £357.5 million</td></tr><tr><th scope="row" style="padding-right:0.5em;">Owner</th><td style="line-height:1.35em;">Sir Philip Green and family</td></tr><tr><th scope="row" style="padding-right:0.5em;"><a href="/wiki/Parent_company" title="Parent company">Parent</a></th><td style="line-height:1.35em;"><a href="/wiki/Arcadia_Group" title="Arcadia Group">Arcadia Group</a></td></tr><tr><th scope="row" style="padding-right:0.5em;">Website</th><td style="line-height:1.35em;"><span class="url"><a rel="nofollow" class="external text" href="http://www.topman.com">www<wbr />.topman<wbr />.com</a></span></td></tr></tbody></table>
+<p><b>Topman</b> is a British <a href="/wiki/Multinational_corporation" title="Multinational corporation">multinational</a> men's fashion retailer. Along with its women's clothing counterpart <a href="/wiki/Topshop" title="Topshop">Topshop</a>, Topman is a subsidiary of the <a href="/wiki/Arcadia_Group" title="Arcadia Group">Arcadia Group</a>, which also owns <a href="/wiki/Burton_(clothes_retailer)" class="mw-redirect" title="Burton (clothes retailer)">Burton</a>, <a href="/wiki/Miss_Selfridge" title="Miss Selfridge">Miss Selfridge</a>, <a href="/wiki/Wallis_(retailer)" title="Wallis (retailer)">Wallis</a>, <a href="/wiki/Evans_(clothing)" class="mw-redirect" title="Evans (clothing)">Evans</a> and <a href="/wiki/Dorothy_Perkins" title="Dorothy Perkins">Dorothy Perkins</a>. Topman has a chain of <a href="/wiki/High-street" class="mw-redirect" title="High-street">high-street</a> men's clothing stores located throughout the United Kingdom and has a presence on just almost every UK High Street, and in Ireland main street outlets in six cities and towns. Topman stores almost always share their premises with Topshop. Topman was created in the UK towards the end of the 1970s to provide a new approach to menswear retailing. Since its creation, Topman has also built an international presence, as it continues to expand throughout the US, Europe, and Asia. The chain occupies two entire floors at the ‘world’s largest fashion shop’<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2015)">citation needed</span></a></i>&#93;</sup>, in <a href="/wiki/Oxford_Circus" class="mw-redirect" title="Oxford Circus">Oxford Circus</a>, London.
+</p><p>In the past, Topman has collaborated with other well known companies such as Hypebeast and Vouchercloud.
+Topman sales through the distribution channel range, including their own stores, either individually or with Topshop. Topman also uses franchising stores in department stores, such as Debenhams and Selfridges &amp; Co. Topman, which can also be passed through the international website on the Internet. Some of the products in the stock range of this website are exclusive websites. The Arcadia group has expanded to other parts of the world and is now available in many international countries, including the United States, Australia and the whole of Europe.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Products"><span class="tocnumber">1</span> <span class="toctext">Products</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Stores"><span class="tocnumber">2</span> <span class="toctext">Stores</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Sponsorship"><span class="tocnumber">3</span> <span class="toctext">Sponsorship</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Products">Products</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Topman&amp;action=edit&amp;section=1" title="Edit section: Products">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Topshop_and_Topman_(17th_December_2012).JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Topshop_and_Topman_%2817th_December_2012%29.JPG/220px-Topshop_and_Topman_%2817th_December_2012%29.JPG" decoding="async" width="220" height="124" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Topshop_and_Topman_%2817th_December_2012%29.JPG/330px-Topshop_and_Topman_%2817th_December_2012%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Topshop_and_Topman_%2817th_December_2012%29.JPG/440px-Topshop_and_Topman_%2817th_December_2012%29.JPG 2x" data-file-width="3872" data-file-height="2176" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Topshop_and_Topman_(17th_December_2012).JPG" class="internal" title="Enlarge"></a></div>A flagship Topshop and Topman in <a href="/wiki/Leeds" title="Leeds">Leeds</a> seen shortly after opening in December 2012.</div></div></div>
+<p>Topman's main product offerings are fashionable men's clothing, covering everything from men's formal suits to informal indie-rock-influenced casual-styling ranges, along with footwear and fashion accessories. Topman also sells a specially-designed range of clothing at their flagship London store in an area nicknamed 'Lens'.
+</p><p>Topman has collaborated with designers such as <a href="/wiki/Kim_Jones_(designer)" title="Kim Jones (designer)">Kim Jones</a>, <a href="/wiki/Markus_Lupfer" title="Markus Lupfer">Markus Lupfer</a>, and <a href="/wiki/Peter_Jensen_(fashion_designer)" title="Peter Jensen (fashion designer)">Peter Jensen</a>, as well as launching its own premium label ‘Topman Design’. After showing seasonally to the menswear press arena, Topman joined forces with Fashion East to produce 'MAN', a menswear event that takes place on schedule at the <a href="/wiki/London_Fashion_Week" title="London Fashion Week">London Fashion Week</a>, showcasing new menswear design as well as the Topman Design collection.
+</p><p>In 2008, Topman collaborated with new label <a href="/wiki/The_Look_Presents" title="The Look Presents">The Look Presents</a>, the creation of rock-fashion author <a href="/wiki/Paul_Gorman" title="Paul Gorman">Paul Gorman</a> and Soho boutique owner, Max Karie, to launch 'the Look Presents'.<sup id="cite_ref-retailappointment.co.uk_3-0" class="reference"><a href="#cite_note-retailappointment.co.uk-3">&#91;3&#93;</a></sup>
+</p><p>This comprised four collections:
+</p>
+<ul><li>A range of T-shirts by the 70s label Wonder Workshop which was launched in June 2008.</li>
+<li>A T-shirt collection by <a href="/wiki/Nigel_Waymouth" title="Nigel Waymouth">Nigel Waymouth</a>, founder of the King's Road store <a href="/wiki/Granny_Takes_a_Trip" title="Granny Takes a Trip">Granny Takes a Trip</a>, which was launched in August 2008.</li>
+<li>Priceless, the ready-to-wear <a href="/wiki/Capsule_collection" class="mw-redirect" title="Capsule collection">capsule collection</a> by <a href="/wiki/Antony_Price" title="Antony Price">Antony Price</a>, designer for <a href="/wiki/Roxy_Music" title="Roxy Music">Roxy Music</a>, <a href="/wiki/Bryan_Ferry" title="Bryan Ferry">Bryan Ferry</a> and <a href="/wiki/Duran_Duran" title="Duran Duran">Duran Duran</a> which was launched in October 2008.</li>
+<li>Stella McCartney for Topman, the accessory and ready-to-wear collection was launched in November 2009.</li></ul>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Topmanbath.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Topmanbath.jpg/220px-Topmanbath.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Topmanbath.jpg/330px-Topmanbath.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Topmanbath.jpg/440px-Topmanbath.jpg 2x" data-file-width="720" data-file-height="540" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Topmanbath.jpg" class="internal" title="Enlarge"></a></div>Topman <a href="/wiki/SouthGate,_Bath" title="SouthGate, Bath">SouthGate, Bath</a></div></div></div>
+<p>Topman was nominated for the ‘Menswear Design of the Year’ award by the British Fashion Council, winner of ‘Best Fashion Retailer’ at the Maxim Style Awards for 2005 and winner of ‘Best High Street Retailer’ at the 2007 FHM Fashion and Grooming awards.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p><p>In 2011, Topman worked closely with <a href="/wiki/Teenage_Cancer_Trust" title="Teenage Cancer Trust">Teenage Cancer Trust</a>. The company worked in collaboration with children from the charity to produce a range of sunglasses designed by them whilst supporting the 'Rock your Shades' campaign in May 2011.<sup id="cite_ref-retailappointment.co.uk_3-1" class="reference"><a href="#cite_note-retailappointment.co.uk-3">&#91;3&#93;</a></sup>
+</p><p>In late 2011, Topman also debuted its line of male grooming products, featuring two men's fragrances, hair and body wash, anti-perspirant, <a href="/wiki/Hair_products" class="mw-redirect" title="Hair products">hair putty</a> and body spray.
+</p><p>Towards the end of 2011, Topman began to release issues of its online magazine Topman Generation centering art, music and fashion. Its collections are often influenced by film or music, <a href="/wiki/Northern_soul" title="Northern soul">Northern soul</a> being one of the themes presented at <a href="/wiki/London_Fashion_Week" title="London Fashion Week">London Fashion Week</a> Men.
+</p>
+<h2><span class="mw-headline" id="Stores">Stores</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Topman&amp;action=edit&amp;section=2" title="Edit section: Stores">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Number Topman stores on 10 August 2019
+</p>
+<table>
+
+<tbody><tr>
+<td style="width:15%; vertical-align:top; text-align:left;">
+<p><b>Africa</b>
+</p>
+<ul><li><small><span class="datasortkey" data-sort-value="Egypt"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/35px-Flag_of_Egypt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/45px-Flag_of_Egypt.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Egypt" title="Egypt">Egypt</a></span> 1</small></li></ul>
+</td>
+<td style="width:15%; vertical-align:top; text-align:left;">
+<p><b>Americas</b>
+</p>
+<ul><li><small><span class="datasortkey" data-sort-value="Canada"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Canada" title="Canada">Canada</a></span> 79</small></li>
+<li><small><span class="datasortkey" data-sort-value="United States"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="/wiki/United_States" title="United States">United States</a></span> 78</small></li>
+<li><small><span class="datasortkey" data-sort-value="Chile"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/35px-Flag_of_Chile.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/45px-Flag_of_Chile.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Chile" title="Chile">Chile</a></span> 10</small></li></ul>
+</td>
+<td style="width:15%; vertical-align:top; text-align:left;">
+<p><b>Asia</b>
+</p>
+<ul><li><small><span class="datasortkey" data-sort-value="Malaysia"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/35px-Flag_of_Malaysia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/46px-Flag_of_Malaysia.svg.png 2x" data-file-width="2800" data-file-height="1400" />&#160;</span><a href="/wiki/Malaysia" title="Malaysia">Malaysia</a></span> 9</small></li>
+<li><small><span class="datasortkey" data-sort-value="Saudi Arabia"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/35px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/45px-Flag_of_Saudi_Arabia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a></span> 9</small></li>
+<li><small><span class="datasortkey" data-sort-value="United Arab Emirates"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/23px-Flag_of_the_United_Arab_Emirates.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/35px-Flag_of_the_United_Arab_Emirates.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/46px-Flag_of_the_United_Arab_Emirates.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/United_Arab_Emirates" title="United Arab Emirates">United Arab Emirates</a></span> 8</small></li>
+<li><small><span class="datasortkey" data-sort-value="Indonesia"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/35px-Flag_of_Indonesia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/45px-Flag_of_Indonesia.svg.png 2x" data-file-width="450" data-file-height="300" />&#160;</span><a href="/wiki/Indonesia" title="Indonesia">Indonesia</a></span> 7</small></li>
+<li><small><span class="datasortkey" data-sort-value="Philippines"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/35px-Flag_of_the_Philippines.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/46px-Flag_of_the_Philippines.svg.png 2x" data-file-width="1000" data-file-height="500" />&#160;</span><a href="/wiki/Philippines" title="Philippines">Philippines</a></span> 6</small></li>
+<li><small><span class="datasortkey" data-sort-value="Singapore"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/35px-Flag_of_Singapore.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/45px-Flag_of_Singapore.svg.png 2x" data-file-width="4320" data-file-height="2880" />&#160;</span><a href="/wiki/Singapore" title="Singapore">Singapore</a></span> 4</small></li>
+<li><small><span class="datasortkey" data-sort-value="Hong Kong"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/23px-Flag_of_Hong_Kong.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/35px-Flag_of_Hong_Kong.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/45px-Flag_of_Hong_Kong.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a></span> 3</small></li>
+<li><small><span class="datasortkey" data-sort-value="Thailand"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/35px-Flag_of_Thailand.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/45px-Flag_of_Thailand.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Thailand" title="Thailand">Thailand</a></span> 3</small></li>
+<li><small><span class="datasortkey" data-sort-value="Vietnam"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/35px-Flag_of_Vietnam.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/45px-Flag_of_Vietnam.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Vietnam" title="Vietnam">Vietnam</a></span> 3</small></li>
+<li><small><span class="datasortkey" data-sort-value="China"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/China" title="China">China</a></span> 2</small></li>
+<li><small><span class="datasortkey" data-sort-value="Qatar"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/23px-Flag_of_Qatar.svg.png" decoding="async" width="23" height="9" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/35px-Flag_of_Qatar.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/46px-Flag_of_Qatar.svg.png 2x" data-file-width="1400" data-file-height="550" />&#160;</span><a href="/wiki/Qatar" title="Qatar">Qatar</a></span> 2</small></li>
+<li><small><span class="datasortkey" data-sort-value="Bahrain"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/23px-Flag_of_Bahrain.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/35px-Flag_of_Bahrain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/46px-Flag_of_Bahrain.svg.png 2x" data-file-width="1500" data-file-height="900" />&#160;</span><a href="/wiki/Bahrain" title="Bahrain">Bahrain</a></span> 1</small></li></ul>
+</td>
+<td style="width:15%; vertical-align:top; text-align:left;">
+<p><b>Europe</b>
+</p>
+<ul><li><small><span class="datasortkey" data-sort-value="United Kingdom"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></span> Over 250</small></li>
+<li><small><span class="datasortkey" data-sort-value="Germany"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Germany" title="Germany">Germany</a></span> 8</small></li>
+<li><small><span class="datasortkey" data-sort-value="Ireland"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a></span> 6</small></li>
+<li><small></small></li><small>
+<li><small><span class="datasortkey" data-sort-value="Cyprus"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/35px-Flag_of_Cyprus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/45px-Flag_of_Cyprus.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Cyprus" title="Cyprus">Cyprus</a></span> 3</small></li>
+<li><small><span class="datasortkey" data-sort-value="Netherlands"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></span> 3</small></li>
+<li><small><span class="datasortkey" data-sort-value="Russia"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Russia" title="Russia">Russia</a></span> 2</small></li>
+<li><small><span class="datasortkey" data-sort-value="Isle of Man"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/23px-Flag_of_the_Isle_of_Man.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/35px-Flag_of_the_Isle_of_Man.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/46px-Flag_of_the_Isle_of_Man.svg.png 2x" data-file-width="600" data-file-height="300" />&#160;</span><a href="/wiki/Isle_of_Man" title="Isle of Man">Isle of Man</a></span> 1</small></li>
+<li><small><span class="datasortkey" data-sort-value="Jersey"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/23px-Flag_of_Jersey.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/35px-Flag_of_Jersey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/46px-Flag_of_Jersey.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Jersey" title="Jersey">Jersey</a></span> 1</small></li>
+<li><small><span class="datasortkey" data-sort-value="Malta"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/35px-Flag_of_Malta.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/45px-Flag_of_Malta.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Malta" title="Malta">Malta</a></span> 1</small></li>
+<li><small><span class="datasortkey" data-sort-value="Romania"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/35px-Flag_of_Romania.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/45px-Flag_of_Romania.svg.png 2x" data-file-width="600" data-file-height="400" />&#160;</span><a href="/wiki/Romania" title="Romania">Romania</a></span> 1</small></li>
+<li><small><span class="datasortkey" data-sort-value="Slovenia"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/35px-Flag_of_Slovenia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/46px-Flag_of_Slovenia.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Slovenia" title="Slovenia">Slovenia</a></span> 1</small></li>
+<li><small><span class="datasortkey" data-sort-value="Ukraine"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" data-file-width="1200" data-file-height="800" />&#160;</span><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a></span> 1</small></li></small></ul><small>
+</small></td>
+<td style="width:15%; vertical-align:top; text-align:left;">
+<p><b>Oceania</b>
+</p>
+<ul><li><small><span class="datasortkey" data-sort-value="Australia"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" />&#160;</span><a href="/wiki/Australia" title="Australia">Australia</a></span> 2</small></li></ul>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Sponsorship">Sponsorship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Topman&amp;action=edit&amp;section=3" title="Edit section: Sponsorship">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Sponsor
+</th>
+<th>Date
+</th>
+<th>Event
+</th></tr>
+<tr>
+<td><a href="/wiki/Leeds_United_A.F.C." class="mw-redirect" title="Leeds United A.F.C.">Leeds United</a>
+</td>
+<td>1989 - 1990 &amp; 1990 - 1991
+</td>
+<td>1989&#8211;90 season &amp; 1990&#8211;91 season
+</td></tr>
+<tr>
+<td><a href="/wiki/NME" title="NME">NME</a>
+</td>
+<td>2005–2007
+</td>
+<td>NME Student Guide
+</td></tr>
+<tr>
+<td>Shockwaves <a href="/wiki/NME_Awards" title="NME Awards">NME Awards</a>
+</td>
+<td>2005–2007
+</td>
+<td>Best Dressed Category
+</td></tr>
+<tr>
+<td>Bestival with Dazed
+</td>
+<td>2005–2006
+</td>
+<td>'Ones to Watch' Campaign
+</td></tr>
+<tr>
+<td><a href="/wiki/XFM" class="mw-redirect" title="XFM">XFM</a> Manchester
+</td>
+<td>April 2006
+</td>
+<td>Access All April
+</td></tr>
+<tr>
+<td>Carling Weekend <a href="/wiki/Leeds_Festival" class="mw-redirect" title="Leeds Festival">Leeds Festival</a>
+</td>
+<td>2006–2007
+</td>
+<td>Unsigned Stage
+</td></tr>
+<tr>
+<td><a href="/wiki/TDK_Cross_Central" title="TDK Cross Central">TDK Cross Central</a>
+</td>
+<td>2006–2007
+</td>
+<td>London Live
+</td></tr>
+<tr>
+<td><a href="/wiki/Institute_of_Contemporary_Arts" title="Institute of Contemporary Arts">ICA</a>
+</td>
+<td>October 2006
+</td>
+<td>ICA Presents C86&#160;: Still Doing it For Fun
+</td></tr>
+<tr>
+<td>Q!
+</td>
+<td>October 2006
+</td>
+<td>Q! Idols presented by TOPMAN
+</td></tr>
+<tr>
+<td><a href="/wiki/MTV2" title="MTV2">MTV2</a> Gonzo
+</td>
+<td>2006–2007
+</td>
+<td>'On Tour'
+</td></tr>
+<tr>
+<td><a href="/wiki/NME" title="NME">NME</a>
+</td>
+<td>2007
+</td>
+<td>NME New Music Tour
+</td></tr>
+<tr>
+<td><a href="/wiki/The_Great_Escape_Festival" title="The Great Escape Festival">The Great Escape Festival</a>
+</td>
+<td>2007
+</td>
+<td>New Talent Stage
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Louis_Harris_Ltd.&amp;action=edit&amp;redlink=1" class="new" title="Louis Harris Ltd. (page does not exist)">Louis Harris Ltd.</a>
+</td>
+<td>2009
+</td>
+<td>Down The Rec
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Topman&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140630131512/http://www.arcadiagroup.co.uk/about-us/our-history">"Topman "Our History<span class="cs1-kern-right">"</span>"</a>. Arcadia Group. Archived from <a rel="nofollow" class="external text" href="http://www.arcadiagroup.co.uk/about-us/our-history">the original</a> on 30 June 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">11 June</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Topman+%22Our+History%22&amp;rft.pub=Arcadia+Group&amp;rft_id=http%3A%2F%2Fwww.arcadiagroup.co.uk%2Fabout-us%2Four-history&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATopman" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.studymode.com/essays/Topman-Marketing-Mix-45173458.html">"Topman"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Topman&amp;rft_id=http%3A%2F%2Fwww.studymode.com%2Fessays%2FTopman-Marketing-Mix-45173458.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATopman" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-retailappointment.co.uk-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-retailappointment.co.uk_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-retailappointment.co.uk_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.retailappointment.co.uk/career-advice/company-a-z/companies-p-t/topman">"Topman"</a>. <i>The Retail Appointment</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Retail+Appointment&amp;rft.atitle=Topman&amp;rft_id=https%3A%2F%2Fwww.retailappointment.co.uk%2Fcareer-advice%2Fcompany-a-z%2Fcompanies-p-t%2Ftopman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATopman" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://heartintelligence.be/hikashop-menu-for-brands-listing/category/21-topman">"Topman"</a>. <i>heartintelligence.be</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=heartintelligence.be&amp;rft.atitle=Topman&amp;rft_id=https%3A%2F%2Fheartintelligence.be%2Fhikashop-menu-for-brands-listing%2Fcategory%2F21-topman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATopman" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Topman&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.topman.com">Official UK website</a></li>
+<li><a rel="nofollow" class="external text" href="http://us.topman.com">Official US website</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080915131635/http://www.arcadiagroup.co.uk/about/topman.html">Arcadia Group Ltd - History of TOPMAN</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100315045830/http://www.fashionfastforward.com.sg/">Topman - Singapore Fashion Fast Forward</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fashionfastforward.com.my/">Topman - Malaysia Official Website</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Arcadia_Group" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Arcadia_Group" title="Template:Arcadia Group"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Arcadia_Group" title="Template talk:Arcadia Group"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Arcadia_Group&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Arcadia_Group" style="font-size:114%;margin:0 4em"><a href="/wiki/Arcadia_Group" title="Arcadia Group">Arcadia Group</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Chains and brands</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background-color: #eee;">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Burton_(retailer)" title="Burton (retailer)">Burton</a></li>
+<li><a href="/wiki/Dorothy_Perkins" title="Dorothy Perkins">Dorothy Perkins</a></li>
+<li><a href="/wiki/Evans_(retailer)" title="Evans (retailer)">Evans</a></li>
+<li><a href="/wiki/Miss_Selfridge" title="Miss Selfridge">Miss Selfridge</a></li>
+<li><a href="/wiki/Outfit_(retailer)" class="mw-redirect" title="Outfit (retailer)">Outfit</a></li>
+<li><a class="mw-selflink selflink">Topman</a></li>
+<li><a href="/wiki/Topshop" title="Topshop">Topshop</a></li>
+<li><a href="/wiki/Wallis_(retailer)" title="Wallis (retailer)">Wallis</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background-color: #eee;">Former</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/British_Home_Stores" title="British Home Stores">British Home Stores</a></li>
+<li><a href="/wiki/Debenhams" title="Debenhams">Debenhams</a></li>
+<li><a href="/wiki/Principles_(retailer)" title="Principles (retailer)">Principles</a></li>
+<li><a href="/wiki/Principles_(retailer)" title="Principles (retailer)">Principles for Men</a></li>
+<li><a href="/wiki/Richard_Shops" title="Richard Shops">Richards</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Karren_Brady" title="Karren Brady">Karren Brady</a></li>
+<li><a href="/wiki/Montague_Burton" title="Montague Burton">Montague Burton</a></li>
+<li><a href="/wiki/Anthony_Grabiner,_Baron_Grabiner" title="Anthony Grabiner, Baron Grabiner">Anthony Grabiner</a></li>
+<li><a href="/wiki/Philip_Green" title="Philip Green">Philip Green</a></li>
+<li><a href="/wiki/Tina_Green" title="Tina Green">Tina Green</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1287
+Cached time: 20190927214112
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.392 seconds
+Real time usage: 0.593 seconds
+Preprocessor visited node count: 3951/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 88294/2097152 bytes
+Template argument size: 16749/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 11301/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.125/10.000 seconds
+Lua memory usage: 3.9 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  471.490      1 -total
+ 23.91%  112.752     29 Template:Flagcountry
+ 23.81%  112.256      5 Template:Ambox
+ 23.02%  108.560      1 Template:Reflist
+ 20.98%   98.922      4 Template:Cite_web
+ 18.92%   89.189      1 Template:Multiple_issues
+ 11.80%   55.658      1 Template:Infobox_company
+ 10.52%   49.613      1 Template:Infobox
+  7.44%   35.064      1 Template:For
+  5.90%   27.841      1 Template:Citation_needed
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8435558-0!canonical and timestamp 20190927214111 and revision id 918276695
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Topman&amp;oldid=918276695">https://en.wikipedia.org/w/index.php?title=Topman&amp;oldid=918276695</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Retail_companies_of_the_United_Kingdom" title="Category:Retail companies of the United Kingdom">Retail companies of the United Kingdom</a></li><li><a href="/wiki/Category:Clothing_retailers_of_the_United_Kingdom" title="Category:Clothing retailers of the United Kingdom">Clothing retailers of the United Kingdom</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_references_cleanup_from_February_2015" title="Category:Wikipedia references cleanup from February 2015">Wikipedia references cleanup from February 2015</a></li><li><a href="/wiki/Category:All_articles_needing_references_cleanup" title="Category:All articles needing references cleanup">All articles needing references cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_February_2015" title="Category:Articles covered by WikiProject Wikify from February 2015">Articles covered by WikiProject Wikify from February 2015</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_February_2015" title="Category:Articles lacking in-text citations from February 2015">Articles lacking in-text citations from February 2015</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_March_2018" title="Category:Articles lacking reliable references from March 2018">Articles lacking reliable references from March 2018</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_with_multiple_maintenance_issues" title="Category:Articles with multiple maintenance issues">Articles with multiple maintenance issues</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_November_2010" title="Category:Use dmy dates from November 2010">Use dmy dates from November 2010</a></li><li><a href="/wiki/Category:Use_British_English_from_November_2010" title="Category:Use British English from November 2010">Use British English from November 2010</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2015" title="Category:Articles with unsourced statements from November 2015">Articles with unsourced statements from November 2015</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Topman" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Topman" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Topman" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Topman" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Topman">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Topman&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Topman&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Topman" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Topman" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Topman&amp;oldid=918276695" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Topman&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1090880" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Topman&amp;id=918276695" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Topman" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Topman">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Topman&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Topman&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Topman" title="Topman – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Topman" title="Topman – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Topman" title="Topman – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/TOPMAN" title="TOPMAN – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1090880#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 September 2019, at 21:41<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Topman&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.392","walltime":"0.593","ppvisitednodes":{"value":3951,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":88294,"limit":2097152},"templateargumentsize":{"value":16749,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":11301,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  471.490      1 -total"," 23.91%  112.752     29 Template:Flagcountry"," 23.81%  112.256      5 Template:Ambox"," 23.02%  108.560      1 Template:Reflist"," 20.98%   98.922      4 Template:Cite_web"," 18.92%   89.189      1 Template:Multiple_issues"," 11.80%   55.658      1 Template:Infobox_company"," 10.52%   49.613      1 Template:Infobox","  7.44%   35.064      1 Template:For","  5.90%   27.841      1 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.125","limit":"10.000"},"limitreport-memusage":{"value":4087453,"limit":52428800}},"cachereport":{"origin":"mw1287","timestamp":"20190927214112","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Topman","url":"https:\/\/en.wikipedia.org\/wiki\/Topman","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1090880","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1090880","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-12-14T14:33:19Z","dateModified":"2019-09-27T21:41:06Z","headline":"company"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1247"});});</script>
+</body>
+</html>
+

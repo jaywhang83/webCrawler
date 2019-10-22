@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Holme Valley - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Holme_Valley","wgTitle":"Holme Valley","wgCurRevisionId":875558568,"wgRevisionId":875558568,"wgArticleId":3118044,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from July 2012","Use British English from July 2012","Commons category link from Wikidata","Coordinates on Wikidata","All stub articles","Geography of Kirklees","Holme Valley","Civil parishes in West Yorkshire","West Yorkshire geography stubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr",
+"May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Holme_Valley","wgRelevantArticleId":3118044,"wgRequestId":"XYrRgApAIEIAAHonHlcAAAAU","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":53.583333333333336,"lon":-1.8},"wgWikibaseItemId":"Q3636852","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
+"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/8/87/Holme_Valley_PC.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Holme_Valley"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Holme_Valley&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Holme_Valley&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Holme_Valley"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Holme_Valley rootpage-Holme_Valley skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Holme Valley</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Holme_Valley_PC.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/8/87/Holme_Valley_PC.jpg/220px-Holme_Valley_PC.jpg" decoding="async" width="220" height="206" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/87/Holme_Valley_PC.jpg/330px-Holme_Valley_PC.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/87/Holme_Valley_PC.jpg/440px-Holme_Valley_PC.jpg 2x" data-file-width="532" data-file-height="499" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Holme_Valley_PC.jpg" class="internal" title="Enlarge"></a></div>Location of Holme Valley within Kirklees</div></div></div>
+<p><b>Holme Valley</b> is a large <a href="/wiki/Civil_parish" title="Civil parish">civil parish</a> in the <a href="/wiki/Kirklees" title="Kirklees">Metropolitan Borough of Kirklees</a> in <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, England.  It has a population of 25,049 (2001 census), increasing to 34,680 for the two wards in the 2011 Census.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>   Its administrative centre is in <a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a>. Other sizeable settlements in the parish include, <a href="/wiki/Brockholes" title="Brockholes">Brockholes</a>, <a href="/wiki/Honley" title="Honley">Honley</a> and <a href="/wiki/New_Mill,_West_Yorkshire" title="New Mill, West Yorkshire">New Mill</a>.  It is named from the <a href="/wiki/River_Holme" title="River Holme">River Holme</a> that runs through the parish.
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:402px;"><a href="/wiki/File:Upper_Holme_Valley.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Upper_Holme_Valley.JPG/400px-Upper_Holme_Valley.JPG" decoding="async" width="400" height="157" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Upper_Holme_Valley.JPG/600px-Upper_Holme_Valley.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Upper_Holme_Valley.JPG/800px-Upper_Holme_Valley.JPG 2x" data-file-width="2281" data-file-height="894" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Upper_Holme_Valley.JPG" class="internal" title="Enlarge"></a></div>Upper Holme Valley, looking north and westerly, from Mount at <a href="/wiki/Jackson_Bridge" title="Jackson Bridge">Jackson Bridge</a> over <a href="/wiki/Totties" title="Totties">Totties</a> &amp; New Mill to Honley &amp; <a href="/wiki/Crosland_Moor" title="Crosland Moor">Crosland Moor</a></div></div></div></div><p>.
+</p><p>The parish is the <a href="/wiki/Successor_parish" title="Successor parish">successor</a> to the Holmfirth <a href="/wiki/Urban_district_(Great_Britain_and_Ireland)" title="Urban district (Great Britain and Ireland)">urban district</a>.  An urban district covering Holmfirth was created in 1894 by the <a href="/wiki/Local_Government_Act_1894" title="Local Government Act 1894">Local Government Act 1894</a> and then in 1938, under a <a href="/wiki/Local_Government_Act_1929" title="Local Government Act 1929">County Review Order</a>, absorbed parts of the <a href="/wiki/Holme,_West_Yorkshire" title="Holme, West Yorkshire">Holme</a>, Honley, New Mill, <a href="/wiki/South_Crosland" title="South Crosland">South Crosland</a> and <a href="/wiki/Thurstonland_and_Farnley_Tyas" class="mw-redirect" title="Thurstonland and Farnley Tyas">Thurstonland and Farnley Tyas</a> urban districts, keeping the name.  Under the <a href="/wiki/Local_Government_Act_1972" title="Local Government Act 1972">Local Government Act 1972</a>, the Holmfirth urban district was abolished on 1 April 1974, but its area was retained as a single civil parish with a parish council. The council changed its name from Holmfirth Parish Council to its present Holme Valley Parish Council in 1975.
+</p>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:652px;"><a href="/wiki/File:Meltham_%26_Lower_Holme_Valley.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Meltham_%26_Lower_Holme_Valley.JPG/650px-Meltham_%26_Lower_Holme_Valley.JPG" decoding="async" width="650" height="434" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Meltham_%26_Lower_Holme_Valley.JPG/975px-Meltham_%26_Lower_Holme_Valley.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/b/bd/Meltham_%26_Lower_Holme_Valley.JPG 2x" data-file-width="1152" data-file-height="770" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Meltham_%26_Lower_Holme_Valley.JPG" class="internal" title="Enlarge"></a></div>Lower end of the Holme Valley, looking north from <a href="/wiki/Meltham" title="Meltham">Meltham</a> across Netherton and Crosland Moor to <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a> and beyond towards <a href="/wiki/Dewsbury" title="Dewsbury">Dewsbury</a></div></div></div></div><p>.
+</p><h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Holme_Valley&amp;action=edit&amp;section=1" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Holme_Valley_Mountain_Rescue_Team" title="Holme Valley Mountain Rescue Team">Holme Valley Mountain Rescue Team</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Holme_Valley&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.neighbourhood.statistics.gov.uk/dissemination/LeadKeyFigures.do?a=7&amp;b=13695723&amp;c=Holme+Valley&amp;d=14&amp;e=62&amp;g=6371873&amp;i=1001x1003x1032x1004&amp;m=0&amp;r=1&amp;s=1456398998484&amp;enc=1">"Kirklees ward population(Holme Valley North) 2011"</a>. <i>Nighbourhood Statistics</i>. Office for National Statistics<span class="reference-accessdate">. Retrieved <span class="nowrap">25 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Nighbourhood+Statistics&amp;rft.atitle=Kirklees+ward+population%28Holme+Valley+North%29+2011&amp;rft_id=http%3A%2F%2Fwww.neighbourhood.statistics.gov.uk%2Fdissemination%2FLeadKeyFigures.do%3Fa%3D7%26b%3D13695723%26c%3DHolme%2BValley%26d%3D14%26e%3D62%26g%3D6371873%26i%3D1001x1003x1032x1004%26m%3D0%26r%3D1%26s%3D1456398998484%26enc%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHolme+Valley" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.neighbourhood.statistics.gov.uk/dissemination/LeadKeyFigures.do?a=7&amp;b=13689906&amp;c=Holme+Valley&amp;d=14&amp;e=62&amp;g=6371931&amp;i=1001x1003x1032x1004&amp;m=0&amp;r=1&amp;s=1456399284285&amp;enc=1">"Kirklees ward population (Holme Valley South) 2011"</a>. <i>Neighbourhood Statistics</i>. Office for National Statistics<span class="reference-accessdate">. Retrieved <span class="nowrap">25 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Neighbourhood+Statistics&amp;rft.atitle=Kirklees+ward+population+%28Holme+Valley+South%29+2011&amp;rft_id=http%3A%2F%2Fwww.neighbourhood.statistics.gov.uk%2Fdissemination%2FLeadKeyFigures.do%3Fa%3D7%26b%3D13689906%26c%3DHolme%2BValley%26d%3D14%26e%3D62%26g%3D6371931%26i%3D1001x1003x1032x1004%26m%3D0%26r%3D1%26s%3D1456399284285%26enc%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHolme+Valley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<ul><li><a rel="nofollow" class="external free" href="https://web.archive.org/web/20070930230157/http://www.visionofbritain.org.uk/relationships.jsp?u_id=10097502&amp;c_id=10001043">https://web.archive.org/web/20070930230157/http://www.visionofbritain.org.uk/relationships.jsp?u_id=10097502&amp;c_id=10001043</a></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Holme_Valley&amp;action=edit&amp;section=3" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Holme_Valley" class="extiw" title="commons:Category:Holme Valley">Holme Valley</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.holmevalleyparishcouncil.gov.uk/">Holme Valley Official parish council website</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.holmevalleyparishcouncil.gov.uk/councilarea.htm">Map of Parish Wards and Polling districts</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.kirklees.gov.uk/you-kmc/parishcouncil/holmevalley.shtml#top">Kirklees Council website - Holme Valley Parish Council</a></li></ul>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Holme_Valley&amp;params=53_35_N_01_48_W_source:itwiki_region:GB"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°35′N</span> <span class="longitude">01°48′W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.583°N 1.800°W</span><span style="display:none">&#xfeff; / <span class="geo">53.583; -1.800</span></span></span></a></span></span></span>
+</p><p><br />
+</p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:West_Yorkshire_UK_locator_map_2010.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/West_Yorkshire_UK_locator_map_2010.svg/32px-West_Yorkshire_UK_locator_map_2010.svg.png" decoding="async" width="32" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/West_Yorkshire_UK_locator_map_2010.svg/48px-West_Yorkshire_UK_locator_map_2010.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/West_Yorkshire_UK_locator_map_2010.svg/64px-West_Yorkshire_UK_locator_map_2010.svg.png 2x" data-file-width="1108" data-file-height="1345" /></a></td><td><i>This <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a> location article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Holme_Valley&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:WestYorkshire-geo-stub" title="Template:WestYorkshire-geo-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:WestYorkshire-geo-stub" title="Template talk:WestYorkshire-geo-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:WestYorkshire-geo-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1329
+Cached time: 20190925023128
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.228 seconds
+Real time usage: 0.347 seconds
+Preprocessor visited node count: 530/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12011/2097152 bytes
+Template argument size: 498/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6451/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.124/10.000 seconds
+Lua memory usage: 2.61 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  305.173      1 -total
+ 35.34%  107.850      1 Template:Reflist
+ 30.49%   93.053      2 Template:Cite_web
+ 25.25%   77.048      1 Template:Commons_category
+ 20.18%   61.598      1 Template:Commons
+ 19.28%   58.839      1 Template:Sister_project
+ 17.80%   54.327      1 Template:Side_box
+ 15.73%   48.009      1 Template:Use_dmy_dates
+ 13.32%   40.661      2 Template:If_then_show
+ 12.26%   37.411      1 Template:Coord
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3118044-0!canonical and timestamp 20190925023128 and revision id 875558568
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Holme_Valley&amp;oldid=875558568">https://en.wikipedia.org/w/index.php?title=Holme_Valley&amp;oldid=875558568</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Geography_of_Kirklees" title="Category:Geography of Kirklees">Geography of Kirklees</a></li><li><a href="/wiki/Category:Holme_Valley" title="Category:Holme Valley">Holme Valley</a></li><li><a href="/wiki/Category:Civil_parishes_in_West_Yorkshire" title="Category:Civil parishes in West Yorkshire">Civil parishes in West Yorkshire</a></li><li><a href="/wiki/Category:West_Yorkshire_geography_stubs" title="Category:West Yorkshire geography stubs">West Yorkshire geography stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_July_2012" title="Category:Use dmy dates from July 2012">Use dmy dates from July 2012</a></li><li><a href="/wiki/Category:Use_British_English_from_July_2012" title="Category:Use British English from July 2012">Use British English from July 2012</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Holme+Valley" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Holme+Valley" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Holme_Valley" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Holme_Valley" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Holme_Valley">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Holme_Valley&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Holme_Valley&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Holme_Valley" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Holme_Valley" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Holme_Valley&amp;oldid=875558568" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Holme_Valley&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3636852" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Holme_Valley&amp;id=875558568" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Holme_Valley" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Holme+Valley">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Holme+Valley&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Holme_Valley&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Holme_Valley" title="Holme Valley – Cebuano" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Holme_Valley" title="Holme Valley – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Holme_Valley" title="Holme Valley – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Holme_Valley" title="Holme Valley – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Holme_Valley" title="Holme Valley – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3636852#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 December 2018, at 12:25<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Holme_Valley&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.228","walltime":"0.347","ppvisitednodes":{"value":530,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12011,"limit":2097152},"templateargumentsize":{"value":498,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6451,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  305.173      1 -total"," 35.34%  107.850      1 Template:Reflist"," 30.49%   93.053      2 Template:Cite_web"," 25.25%   77.048      1 Template:Commons_category"," 20.18%   61.598      1 Template:Commons"," 19.28%   58.839      1 Template:Sister_project"," 17.80%   54.327      1 Template:Side_box"," 15.73%   48.009      1 Template:Use_dmy_dates"," 13.32%   40.661      2 Template:If_then_show"," 12.26%   37.411      1 Template:Coord"]},"scribunto":{"limitreport-timeusage":{"value":"0.124","limit":"10.000"},"limitreport-memusage":{"value":2734297,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20190925023128","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Holme Valley","url":"https:\/\/en.wikipedia.org\/wiki\/Holme_Valley","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3636852","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3636852","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-11-09T16:55:31Z","dateModified":"2018-12-27T12:25:49Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/8\/87\/Holme_Valley_PC.jpg","headline":"civil parish in West Yorkshire, UK"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":500,"wgHostname":"mw1329"});});</script>
+</body>
+</html>
+

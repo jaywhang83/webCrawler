@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>County court - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"County_court","wgTitle":"County court","wgCurRevisionId":906930994,"wgRevisionId":906930994,"wgArticleId":89776,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with limited geographic scope from December 2010","Articles needing additional references from May 2009","All articles needing additional references","Judiciaries"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"County_court",
+"wgRelevantArticleId":89776,"wgRequestId":"XY71AgpAIDAAAA3-vP0AAABE","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"County_Court","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/County_court","wgWikibaseItemId":"Q1137280","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready",
+"user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging"
+,"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/County_Court_Victoria%2C_William_Street.jpg/1200px-County_Court_Victoria%2C_William_Street.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/County_court"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=County_court&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=County_court&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/County_court"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-County_court rootpage-County_court skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">County court</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=County_Court&amp;redirect=no" class="mw-redirect" title="County Court">County Court</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-Globalize plainlinks metadata ambox ambox-content ambox-globalize" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="Globe icon." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/48px-Ambox_globe_content.svg.png" decoding="async" width="48" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/73px-Ambox_globe_content.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_globe_content.svg/97px-Ambox_globe_content.svg.png 2x" data-file-width="350" data-file-height="290" /></div></td><td class="mbox-text"><div class="mbox-text-span">The examples and perspective in this article <b>may not represent a <a href="/wiki/Wikipedia:WikiProject_Countering_systemic_bias" title="Wikipedia:WikiProject Countering systemic bias">worldwide view</a> of the subject</b>.<span class="hide-when-compact"> You may <a class="external text" href="https://en.wikipedia.org/w/index.php?title=County_court&amp;action=edit">improve this article</a>, discuss the issue on the <a href="/wiki/Talk:County_court" title="Talk:County court">talk page</a>, or <a href="/wiki/Wikipedia:Article_wizard" title="Wikipedia:Article wizard">create a new article</a>, as appropriate.</span>  <small class="date-container"><i>(<span class="date">December 2010</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:County_Court_Victoria,_William_Street.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/County_Court_Victoria%2C_William_Street.jpg/220px-County_Court_Victoria%2C_William_Street.jpg" decoding="async" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/County_Court_Victoria%2C_William_Street.jpg/330px-County_Court_Victoria%2C_William_Street.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/County_Court_Victoria%2C_William_Street.jpg/440px-County_Court_Victoria%2C_William_Street.jpg 2x" data-file-width="3024" data-file-height="4032" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:County_Court_Victoria,_William_Street.jpg" class="internal" title="Enlarge"></a></div>The <a href="/wiki/County_Court_of_Victoria" title="County Court of Victoria">County Court of Victoria</a></div></div></div>
+<p>A <b>county court</b>  is a <a href="/wiki/Court" title="Court">court</a> based in or with a <a href="/wiki/Jurisdiction" title="Jurisdiction">jurisdiction</a> covering one or more <a href="/wiki/County" title="County">counties</a>, which are <a href="/wiki/Administrative_division" title="Administrative division">administrative divisions</a> (subnational entities) within a country, not to be confused with the medieval system of <i>county courts</i> held by the <a href="/wiki/High_sheriff" title="High sheriff">high sheriff</a> of each county.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#England_and_Wales"><span class="tocnumber">1</span> <span class="toctext">England and Wales</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Australia"><span class="tocnumber">2</span> <span class="toctext">Australia</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Northern_Ireland"><span class="tocnumber">3</span> <span class="toctext">Northern Ireland</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#United_States"><span class="tocnumber">4</span> <span class="toctext">United States</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Municipal_blendings"><span class="tocnumber">4.1</span> <span class="toctext">Municipal blendings</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Ireland"><span class="tocnumber">5</span> <span class="toctext">Ireland</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Footnotes"><span class="tocnumber">6</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="England_and_Wales">England and Wales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=County_court&amp;action=edit&amp;section=1" title="Edit section: England and Wales">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/County_Court_(England_and_Wales)" title="County Court (England and Wales)">County Court (England and Wales)</a></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Courts_Oxford_20060325.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Courts_Oxford_20060325.jpg/220px-Courts_Oxford_20060325.jpg" decoding="async" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Courts_Oxford_20060325.jpg/330px-Courts_Oxford_20060325.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Courts_Oxford_20060325.jpg/440px-Courts_Oxford_20060325.jpg 2x" data-file-width="1760" data-file-height="1168" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Courts_Oxford_20060325.jpg" class="internal" title="Enlarge"></a></div>Court building in Oxford used by the <a href="/wiki/Crown_Court" title="Crown Court">Crown Court</a> and County Court.</div></div></div>
+<p>Since 2014,  <a href="/wiki/England_and_Wales" title="England and Wales">England and Wales</a> have had what is officially described as "a single civil court" named the County Court, with unlimited financial jurisdiction. However it should be understood that there are County Court buildings and courtrooms throughout England and Wales, not one single location. It is "a single civil court" in the sense of a single centrally organised and administered court <i>system</i>. Before 2014 there were numerous separate county court systems, each with jurisdiction across England and Wales for enforcement of its orders, but each with a defined "county court district" from which it took claims. County court districts did not have the same boundaries as counties: the name was used because the county courts had evolved from courts which did in fact correspond to a county's territory. Today the court sits in many County Court centres, currently corresponding to the old individual county courts.
+</p><p>County Court matters can be lodged at a court in person, by post or via the Internet in some cases through the <a href="/wiki/County_Court_Bulk_Centre" class="mw-redirect" title="County Court Bulk Centre">County Court Bulk Centre</a>. Cases are normally heard at the court having jurisdiction over the area where the claimant lives. Most matters are decided by a <a href="/wiki/Judiciary_of_England_and_Wales#District_judges" title="Judiciary of England and Wales">district judge</a> or <a href="/wiki/Circuit_judge_(UK)" class="mw-redirect" title="Circuit judge (UK)">circuit judge</a> sitting alone. Civil matters in England (with minor exceptions, e.g. in some actions against the police) do not have juries. Judges in the County Court are either former barristers or former solicitors, whereas in the High Court they are more likely to have formerly been a <a href="/wiki/Barrister" title="Barrister">barrister</a>.
+</p><p>Civil claims with an <a href="/wiki/Amount_in_controversy" title="Amount in controversy">amount in controversy</a> under £10,000 (the Jackson Reforms have increased this from £5,000) are dealt with in the County Court under the <a href="/wiki/Small_claims_court" title="Small claims court">small claims track</a> (sometimes known to the lay public as "small claims court," although it is not a separate court). Claims between £5,000 and £25,000 (£15,000 for cases started before April 2009) that are capable of being tried within one day are allocated to the "fast track" and claims over £25,000 (£15,000 for cases started before April 2009) to the "multi track." These 'tracks' are labels for the use of the court system - the actual cases will be heard in the County Court or the High Court depending on their value. For <a href="/wiki/Personal_injury" title="Personal injury">personal injury</a>, <a href="/wiki/Defamation" title="Defamation">defamation</a>, and some landlord-tenant dispute cases the thresholds for each track have different values.
+</p><p>Appeals are to a higher judge (a circuit judge hears district judge appeals), the <a href="/wiki/High_Court_of_Justice" title="High Court of Justice">High Court of Justice</a> or to the <a href="/wiki/Court_of_Appeal_of_England_and_Wales" class="mw-redirect" title="Court of Appeal of England and Wales">Court of Appeal</a>, as the case may be.
+</p><p>In debt cases, the aim of a claimant taking County Court action against a defendant is to secure a <a href="/wiki/County_Court_judgment" title="County Court judgment">County Court judgment</a>. This is a legal order to pay the full amount of the debt. Judgments can be enforced at the request of the claimant in a number of ways, including requesting the court bailiffs to seize goods, the proceeds of any sale being used to pay the debt, or an Attachment of Earnings Order, where the defendant's employer is ordered to make deductions from the gross wages to pay the claimant.
+</p><p>County Court judgments are recorded in the <a href="/wiki/Register_of_Judgments,_Orders_and_Fines" title="Register of Judgments, Orders and Fines">Register of Judgments, Orders and Fines</a> and in the defendant's credit records held by credit reference agencies. This information is used in consumer <a href="/wiki/Credit_score" title="Credit score">credit scores</a>, making it difficult or more expensive for the defendant to obtain credit. In order to avoid the record being kept for years in the register, the debt must be settled within thirty days after the date the County Court judgment was served (unless the judgment was later set aside). If the debt was not fully paid within the statutory period, the entry will remain for six full years.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Australia">Australia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=County_court&amp;action=edit&amp;section=2" title="Edit section: Australia">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Unreferenced_section plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=County_court&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span>  <small class="date-container"><i>(<span class="date">May 2009</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p><b>County court</b> is the name given to the intermediate court in one <a href="/wiki/States_and_territories_of_Australia" title="States and territories of Australia">Australian state</a>, namely the <a href="/wiki/County_Court_of_Victoria" title="County Court of Victoria">County Court of Victoria</a> (in other states and territories it is called the 'District Court'). They hear indictable (serious) criminal offences except for <a href="/wiki/Treason" title="Treason">treason</a>, <a href="/wiki/Murder" title="Murder">murder</a>, and <a href="/wiki/Manslaughter" title="Manslaughter">manslaughter</a>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Their civil jurisdiction is also intermediate, typically over civil disputes where the amount claimed is greater than a few tens of thousands of dollars but less than a few hundreds of thousands of dollars. The limits vary between states. In some states the same level of court is called a <a href="/wiki/Australian_court_hierarchy#State_and_territory_courts" class="mw-redirect" title="Australian court hierarchy">district court</a>. Below them are the <a href="/wiki/Magistrates%27_court#Australian_courts" title="Magistrates&#39; court">magistrates courts</a>. Above them are the state <a href="/wiki/Australian_court_hierarchy#State_and_territory_courts" class="mw-redirect" title="Australian court hierarchy">supreme courts</a>. Some states adopt the two-tier <a href="/wiki/Appeal" title="Appeal">appellate</a> system, with the magistrates courts below and the state supreme courts above.
+</p>
+<h2><span class="mw-headline" id="Northern_Ireland">Northern Ireland</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=County_court&amp;action=edit&amp;section=3" title="Edit section: Northern Ireland">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Courts_of_Northern_Ireland" title="Courts of Northern Ireland">Courts of Northern Ireland</a></div>
+<p>In <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a> there are seven county courts, following the same model as those of <a href="/wiki/England_and_Wales" title="England and Wales">England and Wales</a> before unification in 2014.  These are the main civil courts. While higher-value cases are heard in the High Court, the county courts hear a wide range of civil actions, consumer claims, and appeals from magistrates' courts. The county courts are called family care centres when hearing proceedings brought under the Children (Northern Ireland) Order 1995 and appeals from the family proceedings courts.
+</p>
+<h2><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=County_court&amp;action=edit&amp;section=4" title="Edit section: United States">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many <a href="/wiki/United_States" title="United States">United States</a> states have a county court system, which (least common) may be purely administrative (such as in <a href="/wiki/List_of_counties_in_Missouri" title="List of counties in Missouri">Missouri</a>) focused primarily on registration of properties and deeds or most often, may have <a href="/wiki/Jurisdiction" title="Jurisdiction">jurisdiction</a> over civil cases such as lawsuits and <a href="/wiki/Criminal_law" title="Criminal law">criminal</a> courts and jails (such as in New York, Massachusetts, Pennsylvania, etcetera) where trials from misdemeanors to <a href="/wiki/Felony" title="Felony">felony cases</a> are centered about a common jail system managed by the county Sheriffs departments.  For example, in Texas, county courts exclusively handle Class A and B misdemeanors (these carry jail time as well as fines), share jurisdiction with justice of the peace and district courts on some mid-size civil cases, and have appellate jurisdiction from municipal and justice of the peace court cases.
+</p><p>With the growth of the largest cities, many large urban centers have subsumed whole or most of counties within the unofficial or official municipal borders, blurring the distinction between the types of government and their jurisdictions in the mind of the common inhabitant, but even television police drama's occasionally point out a county function (coroners, sheriffs, jails, courts, probation departments) different from a metropolis' police agencies, city governments, and district attorney's (prosecutors) offices (politically elected or appointed in most of the United States).
+</p><p>In those states with an administrative county court, the body acts as the executive agency for the local government. For example, <a href="/wiki/Harry_S._Truman" title="Harry S. Truman">Harry S. Truman</a> was county judge of <a href="/wiki/Jackson_County,_Missouri" title="Jackson County, Missouri">Jackson County, Missouri</a> in the 1930s, an executive position rather than a judicial post. The <a href="/wiki/County_Commission" class="mw-redirect" title="County Commission">County Commissioners</a> in Pennsylvania and Massachusetts manage the county government, including funding civil and criminal courts, jails and Sheriffs departments overseeing said jails, as well as recording deeds, maintaining county roads and the like. In point of fact, each state has adjusted local governments powers and interactions to suit their own needs, so no one model is uniform even within the same state when the county is interfacing with a major city.
+</p><p>In counties of <a href="/wiki/Tennessee" title="Tennessee">Tennessee</a>, the primary legislative body was called a county court until the ratification by the voters of the state of the constitutional amendments of 1978, which change the term for this body in all but <a href="/wiki/Consolidated_city-county" title="Consolidated city-county">consolidated city-counties</a> to <a href="/wiki/County_commission" title="County commission">county commission</a>.  Colloquially, the county commission is still frequently referred to as the "county court", particularly in rural areas.  (The analogous body in consolidated city-counties is the metropolitan county council, usually shortened to "Metro council".) Likewise, five counties in Oregon are governed by a county court.
+</p><p>In <a href="/wiki/Florida" title="Florida">Florida</a>'s four-tiered court system, the lower two tiers split <a href="/wiki/Original_jurisdiction" title="Original jurisdiction">original jurisdiction</a> for both criminal and civil matters. broadly speaking, the jurisdiction of "county courts" is limited to misdemeanors and civil actions involving amounts in controversy less than $15,000.00, while the "circuit courts" handle felonies and larger civil cases.
+</p>
+<h3><span class="mw-headline" id="Municipal_blendings">Municipal blendings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=County_court&amp;action=edit&amp;section=5" title="Edit section: Municipal blendings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the states that have a judicial county court, such as New York, it generally handles trials for felonies, as well as appeals of <a href="/wiki/Misdemeanor" title="Misdemeanor">misdemeanors</a> from local courts and some <a href="/wiki/Small_claims" class="mw-redirect" title="Small claims">small claims</a> cases. It is a court of <a href="/wiki/Original_jurisdiction" title="Original jurisdiction">original jurisdiction</a>, and thus handles mostly trials of accused felons. The New York County Court "is established in each county outside New York City. It is authorized to handle the prosecution of all crimes committed within the County. The County Court also has limited jurisdiction in civil cases ...."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>  More specifically, the New York County Court is:
+</p>
+<table class="cquote pullquote" role="presentation" style="margin:auto; border-collapse: collapse; border: none; background-color: transparent; width: auto;">
+<tbody><tr>
+<td style="width: 20px; vertical-align: top; border: none; color: #B2B7F2; font-size: 40px; font-family: &#39;Times New Roman&#39;, Times, serif; font-weight: bold; line-height: .6em; text-align: left; padding: 10px 10px;">“
+</td>
+<td style="vertical-align: top; border: none; padding: 4px 10px;">authorized to handle the <a href="/wiki/Prosecution" class="mw-redirect" title="Prosecution">prosecution</a> of all crimes committed within the <a href="/wiki/County_(United_States)" title="County (United States)">county</a>. It has <i><a href="/wiki/Exclusive_jurisdiction" title="Exclusive jurisdiction">exclusive</a></i> authority to handle trials in felony matters and <i><a href="/wiki/Concurrent_jurisdiction" title="Concurrent jurisdiction">shares</a></i> authority with the local city, town and village courts to handle trials in misdemeanor cases (offenses punishable by less than one year in prison) and other minor offenses and violations. The County Court also has limited authority to hear civil cases involving monetary awards of $25,000 or less. Although the County Court is primarily a trial court, in the <a href="/wiki/New_York_Supreme_Court,_Appellate_Division" title="New York Supreme Court, Appellate Division">Third and Fourth Departments</a> it also has <a href="/wiki/Appellate_jurisdiction" title="Appellate jurisdiction">appellate jurisdiction</a> over cases originating in City, Town and Village Courts.
+</td>
+<td style="width: 20px; vertical-align: bottom; border: none; color: #B2B7F2; font-size: 40px; font-family: &#39;Times New Roman&#39;, Times, serif; font-weight: bold; line-height: .6em; text-align: right; padding: 10px 10px;">”
+</td></tr>
+
+</tbody></table>
+<p>In New York City, the <a href="/wiki/New_York_City_Criminal_Court" title="New York City Criminal Court">New York City Criminal Court</a> handles such jurisdiction.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Otherwise in the United States, the courts of original jurisdiction in most states have jurisdiction over a particular county, parish, shire, or borough (comparable area entities in the various states of the USA); in other cases, instead of being called "county court" they are called "district courts" or "circuit courts" with a hierarchy of state "superior court" districts up to that state's 'supreme court'.  Multiple courts of typically limited original jurisdiction within a county are usually called "district courts" or, if located in and serving a particular municipality, "municipal courts"; and are subordinate to the county superior or circuit court.  In New York, 'superior'/'circuit' courts are called "supreme court".  The court that in other US jurisdictions is called "supreme court" is called "court of appeal" in New York, Maryland and the District of Columbia.
+</p>
+<h2><span class="mw-headline" id="Ireland">Ireland</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=County_court&amp;action=edit&amp;section=6" title="Edit section: Ireland">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Courts_of_Northern_Ireland" title="Courts of Northern Ireland">Courts of Northern Ireland</a></div>
+<p>Prior to 1924, the county courts were the main civil courts in <a href="/wiki/Ireland" title="Ireland">Ireland</a>, having jurisdiction over most civil matters, except for the larger actions which were heard by the <a href="/wiki/High_Court_of_Justice_in_Ireland" title="High Court of Justice in Ireland">High Court of Justice in Ireland</a> or the <a href="/wiki/Assizes_(Ireland)" title="Assizes (Ireland)">assizes</a>. Its jurisdiction was similar to that of the county courts in England and Wales. However, they differed from those court in their procedures. Claims were initiated by way of <i>civil bill</i>. Most matters were tried by a county court judge, and where necessary, a jury. The main administrative officer of the county court in each county was the Clerk of the Crown and Peace.
+</p><p>The <a href="/wiki/Courts_of_Justice_Act_1924" title="Courts of Justice Act 1924">Courts of Justice Act 1924</a> abolished the county courts in the <a href="/wiki/Irish_Free_State" title="Irish Free State">Irish Free State</a> and transferred their jurisdiction (together with that of the quarter sessions) to the <a href="/wiki/Circuit_Court_(Ireland)" title="Circuit Court (Ireland)">Circuit Court</a>. The Circuit Court is still based on the organisational structure established for the county courts and the main administrative officer of each circuit is now called the County Registrar.
+</p><p>County courts continue to exist in <a href="/wiki/Northern_Ireland" title="Northern Ireland">Northern Ireland</a>. Civil bills are still used as the initiation document for Circuit Court/county court claims in both Irish jurisdictions, unlike in England and Wales.
+</p>
+<h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=County_court&amp;action=edit&amp;section=7" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hmcourts-service.gov.uk/courtfinder/forms/ex320_0406.pdf">EX320 Registered judgments - What does it mean</a> Access date 2010-09-25.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.victorialawfoundation.org.au/sites/default/files/resources/About_the_county_court.pdf">Victoria Law Foundation:  About the County Court</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nycourts.gov/courts/cts-outside-nyc-COUNTY.shtml">"Courts Outside New York City &#8211; County Court"</a>. <i>nycourts.gov</i>. Office of Court Administration, the <a href="/wiki/New_York_State_Unified_Court_System" class="mw-redirect" title="New York State Unified Court System">New York State Unified Court System</a>. October 8, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">November 30,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=nycourts.gov&amp;rft.atitle=Courts+Outside+New+York+City+%26ndash%3B+County+Court&amp;rft.date=2013-10-08&amp;rft_id=http%3A%2F%2Fwww.nycourts.gov%2Fcourts%2Fcts-outside-nyc-COUNTY.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACounty+court" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nycourts.gov/courts/3jd/county/index.shtml">New York State Court System official website 3d Judicial District County Courts web page</a>. Accessed May 26, 2009.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nycourts.gov/courts/nyc/criminal/index.shtml">New York State Court System official website New York City Criminal Courts web pages</a>. Accessed May 26, 2009.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=County_court&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" decoding="async" width="38" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" /></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the <a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">1911 <i>Encyclopædia Britannica</i></a> article  <i><b><a href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/County_Court" class="extiw" title="wikisource:1911 Encyclopædia Britannica/County Court">County Court</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a href="/wiki/List_of_County_Court_venues_in_England_and_Wales" title="List of County Court venues in England and Wales">List of County Court venues in England and Wales</a></li>
+<li><a href="/wiki/County_court_bailiff" class="mw-redirect" title="County court bailiff">County court bailiff</a></li>
+<li><a href="/wiki/Judiciary_of_England_and_Wales" title="Judiciary of England and Wales">Judiciary of England and Wales</a></li>
+<li><a href="/wiki/Judiciary_of_New_York" class="mw-redirect" title="Judiciary of New York">Judiciary of New York</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20190927160008
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.208 seconds
+Real time usage: 0.317 seconds
+Preprocessor visited node count: 597/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18489/2097152 bytes
+Template argument size: 2154/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 4594/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.100/10.000 seconds
+Lua memory usage: 2.17 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  256.731      1 -total
+ 41.66%  106.966      1 Template:Reflist
+ 35.57%   91.313      1 Template:Cite_web
+ 32.40%   83.175      1 Template:Globalize
+ 24.62%   63.201      2 Template:Ambox
+  7.27%   18.673      1 Template:Cquote
+  6.49%   16.651      3 Template:Main
+  5.70%   14.627      1 Template:EB1911_poster
+  4.83%   12.413      1 Template:Unreferenced_section
+  4.58%   11.750      1 Template:Sister_project
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:89776-0!canonical and timestamp 20190927160008 and revision id 906930994
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=County_court&amp;oldid=906930994">https://en.wikipedia.org/w/index.php?title=County_court&amp;oldid=906930994</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Judiciaries" title="Category:Judiciaries">Judiciaries</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_limited_geographic_scope_from_December_2010" title="Category:Articles with limited geographic scope from December 2010">Articles with limited geographic scope from December 2010</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2009" title="Category:Articles needing additional references from May 2009">Articles needing additional references from May 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=County+court" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=County+court" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/County_court" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:County_court" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/County_court">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=County_court&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=County_court&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/County_court" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/County_court" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=County_court&amp;oldid=906930994" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=County_court&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1137280" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=County_court&amp;id=906930994" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=County+court">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=County+court&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=County_court&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/County_Court_(England_und_Wales)" title="County Court (England und Wales) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%86%E3%82%A3%E8%A3%81%E5%88%A4%E6%89%80" title="カウンティ裁判所 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%83%A1%E6%B3%95%E9%99%A2" title="郡法院 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1137280#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 19 July 2019, at 08:46<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=County_court&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.208","walltime":"0.317","ppvisitednodes":{"value":597,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18489,"limit":2097152},"templateargumentsize":{"value":2154,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":4594,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  256.731      1 -total"," 41.66%  106.966      1 Template:Reflist"," 35.57%   91.313      1 Template:Cite_web"," 32.40%   83.175      1 Template:Globalize"," 24.62%   63.201      2 Template:Ambox","  7.27%   18.673      1 Template:Cquote","  6.49%   16.651      3 Template:Main","  5.70%   14.627      1 Template:EB1911_poster","  4.83%   12.413      1 Template:Unreferenced_section","  4.58%   11.750      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.100","limit":"10.000"},"limitreport-memusage":{"value":2273139,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20190927160008","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"County court","url":"https:\/\/en.wikipedia.org\/wiki\/County_court","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1137280","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1137280","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-09-23T09:40:00Z","dateModified":"2019-07-19T08:46:48Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f9\/County_Court_Victoria%2C_William_Street.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":105,"wgHostname":"mw1327"});});</script>
+</body>
+</html>
+

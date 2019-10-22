@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>-onym - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"-onym","wgTitle":"-onym","wgCurRevisionId":878573144,"wgRevisionId":878573144,"wgArticleId":306150,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from November 2009","All articles needing additional references","Articles containing Ancient Greek-language text","Greek suffixes","Types of words"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"-onym",
+"wgRelevantArticleId":306150,"wgRequestId":"XY0-RQpAMEoAAGqFXbQAAABF","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q3274360","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready"
+,"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/-onym"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=-onym&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=-onym&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/-onym"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page--onym rootpage--onym skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">-onym</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=-onym&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22-onym%22">"-onym"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22-onym%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22-onym%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22-onym%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22-onym%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22-onym%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">November 2009</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>The <a href="/wiki/Suffix" title="Suffix">suffix</a> <i><b>-onym</b></i>, in <a href="/wiki/English_language" title="English language">English</a> and other languages, means "word, name", and <a href="/wiki/Word" title="Word">words</a> ending in <i>-onym</i> refer to a specified kind of name or word, most of which are <a href="/wiki/Classical_compound" title="Classical compound">classical compounds</a>. For example, an <a href="/wiki/Acronym" title="Acronym">acronym</a> is a word formed from the initial letter or letters of each of the successive parts or major parts of a compound term (as <a href="/wiki/Radar" title="Radar">radar</a>). The use of <i>-onym</i> words provides a means of classifying, often to a fine degree of resolution, sets of nouns with common attributes.
+</p><p>In some words, the <i>-onym</i> form has been modified by replacing (or dropping) the "o". In the examples <i><a href="/wiki/Ananym" title="Ananym">ananym</a></i> and <i><a href="/w/index.php?title=Metanym&amp;action=edit&amp;redlink=1" class="new" title="Metanym (page does not exist)">metanym</a></i>, the correct forms (<i><a href="/wiki/Anonym" class="mw-redirect" title="Anonym">anonym</a></i> and <i><a href="/wiki/Metonym" class="mw-redirect" title="Metonym">metonym</a></i>) were pre-occupied by other meanings. Other, late 20th century examples, such as <i><a href="/wiki/Hypernym" class="mw-redirect" title="Hypernym">hypernym</a></i> and <i><a href="/w/index.php?title=Characternym&amp;action=edit&amp;redlink=1" class="new" title="Characternym (page does not exist)">characternym</a></i>, are typically incorrectly formed <a href="/wiki/Neologism" title="Neologism">neologisms</a> for which there are more traditional words formed in <i>-onym</i> (<i><a href="/wiki/Hyperonym" class="mw-redirect" title="Hyperonym">hyperonym</a></i> and <i><a href="/wiki/Charactonym" class="mw-redirect" title="Charactonym">charactonym</a></i>).
+</p><p>The English suffix <i>-onym</i> is from the <a href="/wiki/Ancient_Greek" title="Ancient Greek">Ancient Greek</a> suffix <span lang="grc" title="Ancient Greek language text">-ώνυμον</span> (<i>ōnymon</i>), neuter of the suffix <span lang="grc" title="Ancient Greek language text">ώνυμος</span> (<i>ōnymos</i>), having a specified kind of name, from the Greek <span lang="grc" title="Ancient Greek language text">ὄνομα</span> (<i>ónoma</i>), <a href="/wiki/Aeolic_Greek" title="Aeolic Greek">Aeolic Greek</a> ὄνυμα (<i>ónyma</i>), "name". The form <i>-ōnymos</i> is that taken by <i>ónoma</i> when it is the end component of a <a href="/wiki/Bahuvrihi" title="Bahuvrihi">bahuvrihi</a> compound, but in English its use is extended to <a href="/wiki/Tatpurusa" class="mw-redirect" title="Tatpurusa">tatpurusa</a> compounds.
+</p><p>The suffix is found in many modern languages with various spellings. Examples are: <a href="/wiki/Dutch_language" title="Dutch language">Dutch</a> <i>synoniem</i>, <a href="/wiki/German_language" title="German language">German</a> <i>Synonym</i>, <a href="/wiki/Portuguese_language" title="Portuguese language">Portuguese</a> <i>sinónimo</i>, <a href="/wiki/Russian_language" title="Russian language">Russian</a> синоним (<i>sinonim</i>), <a href="/wiki/Polish_language" title="Polish language">Polish</a> <i>synonim</i>, <a href="/wiki/Finnish_language" title="Finnish language">Finnish</a> <i>synonyymi</i>, <a href="/wiki/Indonesian_language" title="Indonesian language">Indonesian</a> <i>sinonim</i>.
+</p><p>According to a 1988 study<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> of words ending in <i>-onym</i>, there are four discernible classes of <i>-onym</i> words: (1) historic, classic, or, for want of better terms, naturally occurring or common words; (2) scientific terminology, occurring in particular in linguistics, onomastics, etc.; (3) language games; and (4) <a href="/wiki/Nonce_word" title="Nonce word">nonce words</a>. Older terms are known to gain new, sometimes contradictory, meanings (e.g., <i>eponym</i> and <i>cryptonym</i>). In many cases, two or more words describe the same phenomenon, but no precedence is discernible (e.g., <i>necronym</i> and <i>penthonym</i>). New words are sometimes created, the meaning of which duplicating existing terms. On occasion, new words are formed with little regard to historical principles.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Words_that_end_in_-onym"><span class="tocnumber">1</span> <span class="toctext">Words that end in -onym</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Notes"><span class="tocnumber">2</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Further_reading"><span class="tocnumber">4</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Words_that_end_in_-onym">Words that end in -onym</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=-onym&amp;action=edit&amp;section=1" title="Edit section: Words that end in -onym">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main articles: <a href="/wiki/Onomastics" title="Onomastics">Onomastics</a> and <a href="/wiki/Nomenclature" title="Nomenclature">Nomenclature</a></div>
+<ul><li><b><a href="/wiki/Acronym" title="Acronym">acronym</a></b>: considered to be a "word" in its original sense formed from the initials of one or more words that is pronounceable like a normal word, such as <a href="/wiki/NATO" title="NATO">NATO</a>, sometimes in distinction to <a href="/wiki/Initialism" class="mw-redirect" title="Initialism">initialism</a>; reflecting a historical development from its component word initials</li>
+<li><b><a href="/wiki/Allonym" class="mw-redirect" title="Allonym">allonym</a></b>: an author's name of another person's, often a well-known person's, name; an alternative term for a <b>pseudonym</b></li>
+<li><b><a href="/wiki/Anacronym" class="mw-redirect" title="Anacronym">anacronym</a></b>: an acronym so well-established that its origin as an abbreviation is no longer widely known and its component initials are in danger of no longer being recognized (a blend of <a href="/wiki/Anachronism" title="Anachronism">anachronism</a> and acronym)</li>
+<li><b>andronym</b>: a man's name or a word derived from a man's name; the name of the husband, taken on by the wife; a male name adopted by a woman</li>
+<li><b><a href="/wiki/Anonym" class="mw-redirect" title="Anonym">anonym</a></b>: something created anonymously, or its creator; an unknown author; this term now generally replaced by pseudonym</li>
+<li><b><a href="/wiki/Genericized_trademark" class="mw-redirect" title="Genericized trademark">anepronym</a></b>: a portmanteau of anacronym and <a href="/wiki/Eponym" title="Eponym">eponym</a>; an original eponym of a trademark term that becomes so well established that it is used to define other objects that share its own definition (e.g., <a href="/wiki/Aspirin" title="Aspirin">aspirin</a>)</li>
+<li><b><a href="/wiki/Anthroponym" class="mw-redirect" title="Anthroponym">anthroponym</a></b>: a name of a human being; as reflected in surnames or proper names of people</li>
+<li><b><a href="/wiki/Antonym" class="mw-redirect" title="Antonym">antonym</a></b>: a word with the exact opposite meaning of another word; an <a href="/wiki/Antithesis" title="Antithesis">antithesis</a>: often shown in opposite word pairs such as "high" and "low" (compare with "synonym")</li>
+<li><b>apronym</b>: a word which, as an acronym or backronym, has a meaning related to the meaning of the words constituting the acronym or backronym; such as <a href="/wiki/PLATO_(computer_system)" title="PLATO (computer system)">PLATO</a> for "Programmed Logic for Automated Teaching" alluding to <a href="/wiki/Plato" title="Plato">Plato</a>, the philosopher and teacher</li>
+<li><b><a href="/wiki/Aptronym" title="Aptronym">aptronym</a></b>: a name appropriate to its owner's <a href="/wiki/Profession" title="Profession">occupation</a> or physical properties, such as "Goldsmith" or "Longman" (compare with "charactonym") — coined by Franklin P. Adams</li>
+<li><b>astronym</b>: a name of a star (or more loosely of a constellation or other heavenly body)</li>
+<li><b><a href="/wiki/Autonym_(botany)" title="Autonym (botany)">autonym</a></b>: Botanical nomenclature for an automatically created name</li>
+<li><b><a href="/wiki/Backronym" title="Backronym">backronym</a></b>: an ordinary word understood as an (usually amusing or ironic) acronym (a portmanteau of back + acronym), such as <a href="/wiki/Fiat" class="mw-redirect" title="Fiat">Fiat</a> understood as "Fix It Again Tomorrow"</li>
+<li><b><a href="/wiki/Basionym" title="Basionym">basionym</a></b>: the first name published for a biological taxon (species, genus, etc.), which remains the defining name for the taxon even when the taxon has been transferred to a new name</li>
+<li><b>caconym</b>: a bad name, either from poor formation (as through mixing Greek and Latin) or unpleasantness (as through lengthiness or cacophony)<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></li>
+<li><b><a href="/wiki/Capitonym" title="Capitonym">capitonym</a></b>: a word that changes its meaning (and sometimes pronunciation) when it is capitalized, such as March and march or Polish and polish.</li>
+<li><b><a href="/wiki/Charactonym" class="mw-redirect" title="Charactonym">charactonym</a></b>: a name of a fictional character reflected in his personality traits, such as Shakespeare's <a href="/wiki/Ancient_Pistol" title="Ancient Pistol">Pistol</a> or <a href="/wiki/Nick_Bottom" title="Nick Bottom">Bottom</a> (compare with "aptronym")</li>
+<li><b>chrematonym</b>: a name of a politico-economic or commercial or cultural institution or thing; a catch-all category</li>
+<li><b><a href="/wiki/Chresonym" title="Chresonym">chresonym</a></b>: Biol. use of a taxonomic name; historically sometimes referred to as a synonym. Sometimes divided into orthochresonyms (correct usages) and heterochresonyms (names incorrectly applied).</li>
+<li><b><a href="/wiki/Contronym" class="mw-redirect" title="Contronym">contronym</a></b> or <b>antagonym</b> or <b>autoantonym</b>: a word that may have opposite meanings in different contexts, such as <i>cleave</i> meaning <i>"stick together"</i> or <i>"split apart"</i></li>
+<li><b><a href="/wiki/Cryptonym" class="mw-redirect" title="Cryptonym">cryptonym</a></b>: a <a href="/wiki/Code_name" title="Code name">code name</a>; a word or name used clandestinely to refer to another name or word</li>
+<li><b><a href="/wiki/Demonym" title="Demonym">demonym</a></b>: a name, derived from a place name, for residents of that place (e.g., <i>Utahn</i>, from Utah, or <i>Sioux Cityan</i>, from Sioux City) — coined by George H. Scheetz, according to Paul Dickson in <i>What Do You Call a Person From...? A Dictionary of Resident Names</i>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> The term first appeared in print in 1988 in <i>Names' Names: A Descriptive and Prescriptive Onymicon</i> by George H. Scheetz.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> See also <a href="/wiki/Taxonym" class="mw-redirect" title="Taxonym">taxonym</a>.</li>
+<li><b><a href="/wiki/Endonym" class="mw-redirect" title="Endonym">endonym</a></b>: A self-assigned name by locals of a place. Also known as an <b>autonym</b> (not to be confused with the autonym in botany).</li>
+<li><b><a href="/wiki/Eponym" title="Eponym">eponym</a></b>: a botanical, zoological, artwork, or place name that derives from a real or legendary person; a name for a real or hypothetical person from whom a botanical, geographical, artwork or zoological name is derived; a person after whom a <a href="/wiki/Medical" class="mw-redirect" title="Medical">medical</a> condition is named, or the condition so named. A type of taxonym.</li>
+<li><b>ergonym</b>: sometimes used for the name of an institution or commercial firm</li>
+<li><b><a href="/wiki/Ethnonym" title="Ethnonym">ethnonym</a></b>: a name of an ethnic group. A type of taxonym.</li>
+<li><b><a href="/wiki/Exonym" class="mw-redirect" title="Exonym">exonym</a></b>: a name used by one group of people for another group, but who call themselves by a different name, such as "Germans" for "Deutsche"; a place name used by one group that differs from the name used by the people who live there, such as "<a href="/wiki/Cologne" title="Cologne">Cologne</a>" for "<i>Köln</i>"</li>
+<li><b>gamonym</b>: a name bestowed as a consequence of marriage. Judy Jones married Count Stephen Smith: her gamonyms include Mrs. Stephen Smith, Judy Smith, and Countess Smith.</li>
+<li><b><a href="/wiki/Geonym" title="Geonym">geonym</a></b>: a name of a geographic feature</li>
+<li><span id="glottonym"></span><b>glossonym</b> <i>or</i> <b>glottonym</b>: a name of a language</li>
+<li><b>heterochresonym</b>: (biological taxonomy) see chresonym.</li>
+<li><b><a href="/wiki/Heteronym_(linguistics)" title="Heteronym (linguistics)">heteronym</a></b>: a word that is spelled in the same way as another but that has a different sound and meaning, for example "bow" as in "bow of a ship" or "bow and arrow" (compare "homonym")</li>
+<li><b>hodonym</b>: a name of a street or road (also <a href="/wiki/Odonym" class="mw-redirect" title="Odonym">odonym</a>)</li>
+<li><b><a href="/wiki/Holonymy" title="Holonymy">holonym</a></b>: a word for the whole of which other words are part, in the way <i>house</i> contains <i>roof</i>, <i>door</i> and <i>window</i>; or <i>car</i> contains <i>steering-wheel</i> and <i>engine</i> (compare "meronym")</li>
+<li><b><a href="/wiki/Homonym" title="Homonym">homonym</a></b>: 1: a: a word pronounced like another, but differing in meaning or derivation or spelling—also known as homophone (to, too, two). b: a word spelled like another, but differing in derivation or meaning or pronunciation—also known as homograph or heteronym (lead, to conduct, and lead, the metal). Compare autantonym, contronym, and heteronym. c: a word spelled and pronounced like another, but differing in meaning (pool of water, and pool, the game). 2: a namesake. 3: Biol. a taxonomic designation that is identical to another one of the same rank, but based on a different type; only one of the homonyms is considered a valid designation (see <a href="/wiki/Homonym_(biology)" title="Homonym (biology)">homonym (biology)</a>). Compare to synonym.</li>
+<li><b><a href="/wiki/Hydronym" title="Hydronym">hydronym</a></b>: a name of river, lake, or other body of water</li>
+<li><b><a href="/wiki/Hypernym" class="mw-redirect" title="Hypernym">hypernym</a></b>: sometimes spelled hyperonym, a generic word that stands for a class or group of equally ranked items, such as "tree" for "beech" or "elm," or "house" for "chalet" or "bungalow." A hypernym is said to be "superordinate" to a hyponym.</li>
+<li><b>hypocoronym</b>, <b><a href="/wiki/Hypocorism" title="Hypocorism">hypocorism</a></b>, or <b>hypocoristic</b>: a colloquial, usually unofficial, name of an entity; a pet-name or "nickname"</li>
+<li><b><a href="/wiki/Hyponym" class="mw-redirect" title="Hyponym">hyponym</a></b>: an item that belongs to and is equally ranked in a generic class or group, for example "lily" or "violet" in the class of "flowers"; or "limousine" or "hatchback" in the class of "automobiles." A hyponym is said to be "subordinate" to a hyperonym.</li>
+<li><b><a href="/wiki/Isonym" title="Isonym">isonym</a></b>: 1: a word having the same root or stem as another — also known as paronym. Compare exonym, heteronym, paronym, and synonym. 2: one person's surname that is the same as another person's surname.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> 3: Biol. a taxonomic designation that is identical to another designation, and based on the same type, but published at a different time by the same or other authors (see <a href="/wiki/Isonym_(taxonomy)" class="mw-redirect" title="Isonym (taxonomy)">isonym (taxonomy)</a>).</li>
+<li><b><a href="https://en.wiktionary.org/wiki/linguonym" class="extiw" title="wikt:linguonym">linguonym</a></b>: a name of a language</li>
+<li><b><a href="/wiki/Meronymy" title="Meronymy">meronym</a></b>: a word that names a part that belongs to and is therefore subordinate to a larger entity; a part-whole relationship, such as "door" or "window" in "house", or "engine" or "steering-wheel" in "car" (compare "holonym")</li>
+<li><b><a href="/wiki/Metonym" class="mw-redirect" title="Metonym">metonym</a></b>: a word that substitutes a part for the whole it is associated with, for example "crown" for "monarch"; <a href="/wiki/Metonymy" title="Metonymy">metonymy</a> is the <a href="/wiki/Figure_of_speech" title="Figure of speech">figure of speech</a> incorporating a metonym</li>
+<li><b>matronym</b> or <b><a href="/wiki/Matronymic" title="Matronymic">matronymic</a></b>: a name of a human being making reference to that person's mother (contrast "patronym")</li>
+<li><b><a href="/wiki/Mononymous_person" title="Mononymous person">mononym</a></b>: a word indicating the "single name" as generally applied to people e.g. Madonna or Plato.</li>
+<li><b>microtoponym</b>: a word indicating an uninhabited place cf. <a href="/wiki/Toponym" class="mw-redirect" title="Toponym">toponym</a>.</li>
+<li><b><a href="/wiki/Necronym" title="Necronym">necronym</a></b>: a reference to or name of a person who has died.</li>
+<li><b><a href="/wiki/Numeronym" title="Numeronym">numeronym</a></b>: is a number-based word.</li>
+<li><b><a href="/wiki/Odonym" class="mw-redirect" title="Odonym">odonym</a></b>: a name of a street or road (also <a href="/w/index.php?title=Hodonym&amp;action=edit&amp;redlink=1" class="new" title="Hodonym (page does not exist)">hodonym</a>).</li>
+<li><b><a href="/wiki/Oeconym" title="Oeconym">oikonym</a></b> or (Latinized) <b><a href="/wiki/Oeconym" title="Oeconym">oeconym</a></b>: a name of a house or other building</li>
+<li><b><a href="/wiki/Oronym_(disambiguation)" class="mw-redirect mw-disambig" title="Oronym (disambiguation)">oronym</a></b>: 1: a name of a hill, mountain, or mountain-range; 2: a neologism for homophonic words or phrases.</li>
+<li><b>orthochresonym</b>: (biological taxonomy) see chresonym.</li>
+<li><b><a href="/wiki/Paedonymic" class="mw-redirect" title="Paedonymic">paedonymic</a></b>: a name adopted from one's child's name, as in the <a href="/wiki/Kunya_(Arabic)" title="Kunya (Arabic)">kunya</a> of <a href="/wiki/Islamic_name" class="mw-redirect" title="Islamic name">Islamic names</a> or when one is identified by means of one's child's name ("Tim's dad").<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></li>
+<li><b><a href="/wiki/Paronym" title="Paronym">paronym</a></b>: a word that is related to another word and derives from the same root; a <a href="/wiki/Cognate" title="Cognate">cognate</a> word, such as <i>dubious</i> and <i>doubtful</i></li>
+<li><b><a href="/wiki/Patronym" class="mw-redirect" title="Patronym">patronym</a></b> or <b><a href="/wiki/Patronymic" title="Patronymic">patronymic</a></b>: a name adopted from the father's or ancestor's name, for example "Johnson" from "John," "MacDonald" from "Donald," "O'Brien" from "Brien," or "Ivanovich" from "Ivan"</li>
+<li><b><a href="/wiki/Phantonym" title="Phantonym">Phantonym</a></b>: a word that looks like it would mean one thing, when in reality it means something completely different. Such as "noisome" meaning "smelly" or "unhealthy" and not "noisy".</li>
+<li><b><a href="https://en.wiktionary.org/wiki/phytonym" class="extiw" title="wikt:phytonym">phytonym</a></b>: a name of a <a href="/wiki/Plant" title="Plant">plant</a></li>
+<li><a href="/w/index.php?title=Plesionyms&amp;action=edit&amp;redlink=1" class="new" title="Plesionyms (page does not exist)"><b>plesionym</b></a> or <b><a href="/w/index.php?title=Near-synonyms&amp;action=edit&amp;redlink=1" class="new" title="Near-synonyms (page does not exist)">near-synonym</a></b>: word that is almost synonymous with another word, but not quite</li>
+<li><b><a href="/wiki/Pseudonym" title="Pseudonym">pseudonym</a></b>: a false and fictitious name, especially one adopted by an author; a <a href="/wiki/Pen_name" title="Pen name">pen name</a></li>
+<li><b><a href="/wiki/Retronym" title="Retronym">retronym</a></b>: a compound or modified noun that replaces an original simple noun, for example "analog watch" now means what "watch" used to mean before the invention of the digital watch; and motorcycles became "solo motorcycles" when others were built with sidecars</li>
+<li><b><a href="/wiki/Synonym" title="Synonym">synonym</a></b>: 1: a word equivalent in meaning or nearly so to another word; a word that may be substituted for another word that has the same or a similar meaning, such as <i>near</i> and <i>close</i> (compare "antonym"). 2: In Biology, one or more names given to the same taxon, and so considered equivalent. Usually only one of them in considered as correct (senior synonym in animal taxonomy, accepted name in plant taxonomy), while the other are considered deprecated (see <a href="/wiki/Synonym_(taxonomy)" title="Synonym (taxonomy)">synonym (taxonomy)</a>.</li>
+<li><b><a href="/wiki/Tautonym" title="Tautonym">tautonym</a></b>: a <a href="/wiki/Binomial_nomenclature" title="Binomial nomenclature">binomial</a> or <a href="/wiki/Scientific_name" class="mw-redirect" title="Scientific name">scientific name</a> in the <a href="/wiki/Taxonomy_(biology)" title="Taxonomy (biology)">taxonomy</a> of living things in which the <a href="/wiki/Genus" title="Genus">generic</a> and <a href="/wiki/Species" title="Species">specific</a> names are the same, such as <i><a href="/wiki/Gorilla" title="Gorilla">Gorilla</a> gorilla</i>; a scientific name in which the specific name is repeated, such as <i><a href="/wiki/Homo_sapiens" title="Homo sapiens">Homo sapiens sapiens</a></i> as distinct from <i><a href="/wiki/Homo_sapiens_neanderthalensis" class="mw-redirect" title="Homo sapiens neanderthalensis">Homo sapiens neanderthalensis</a></i>; a noun component that is repeated, such as <i><a href="/wiki/Aye-aye" title="Aye-aye">aye-aye</a></i> or <i>tom-tom</i>; a <a href="/wiki/Personal_name" title="Personal name">personal name</a> where both <a href="/wiki/First_name" class="mw-redirect" title="First name">forename</a> and <a href="/wiki/Surname" title="Surname">surname</a> are identical, such as <i>Francis Francis</i></li>
+<li><b>taxonym</b>: a name used for classification or identification purposes, usually signifying a relationship to something. Taxonyms include <a href="/wiki/Binomial_name" class="mw-redirect" title="Binomial name">binomens</a>, names of <a href="/wiki/Clade" title="Clade">clades</a> or <a href="/wiki/Taxon" title="Taxon">taxons</a>, <a href="/wiki/Demonyms" class="mw-redirect" title="Demonyms">demonyms</a>, ethnonyms, and <a href="/wiki/Eponyms" class="mw-redirect" title="Eponyms">eponyms</a>. Examples include <i><a href="/wiki/Canidae" title="Canidae">canine</a></i>, <i><a href="/wiki/Hominidae" title="Hominidae">hominid</a></i>, and <i><a href="/wiki/Dryad" title="Dryad">Dryad</a></i>.</li>
+<li><b><a href="/wiki/Textonym" class="mw-redirect" title="Textonym">textonym</a></b>: a word that is generated by a single sequence of numerals keyed in to a mobile telephone; for example, <i>726</i> produces <i>pam</i>, <i>ram</i>, <i>sam</i>, and <i>ran</i>. Also called homonumeric words.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li>
+<li><b><a href="/wiki/Theonym" class="mw-redirect" title="Theonym">theonym</a></b>: a name of a god. The names societies give their gods at times is useful in understanding the origin of their language as well as their view of a particular deity. Analysis of theonyms has been useful in understanding the connections of <a href="/wiki/Indo-European_languages" title="Indo-European languages">Indo-European languages</a>, and possibly their religions, in particular. In <a href="/wiki/Abrahamic_faiths" class="mw-redirect" title="Abrahamic faiths">Abrahamic faiths</a> the origin and meaning of the <a href="/wiki/Tetragrammaton" title="Tetragrammaton">Tetragrammaton</a> is sometimes deemed to have important historical or even metaphysical meaning.</li>
+<li><b>theronym</b>: a name — especially a product name — that has been derived from the name of an animal.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup></li>
+<li><b><a href="/wiki/Toponym" class="mw-redirect" title="Toponym">toponym</a></b>: a <a href="/wiki/Place_name" class="mw-redirect" title="Place name">place</a> or <a href="/wiki/Geography" title="Geography">geographical</a> name; the name of an area of the <a href="/wiki/Human_body" title="Human body">body</a>, as distinguished from the name of an <a href="/wiki/Organ_(anatomy)" title="Organ (anatomy)">organ</a></li>
+<li><b><a href="/wiki/Troponym" class="mw-redirect" title="Troponym">troponym</a></b>: a verb conveying a meaning that is a particular case of the meaning of another verb. For example, <i>to duel</i> is a troponym of <i>to fight</i>; <i>to write</i> is a troponym of <i>to communicate</i>; etc.  The concept of <i>troponym</i> is to verbs as that of <i>hyponym</i> is to nouns.</li>
+<li><b>zoonym</b>: a name of an animal</li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=-onym&amp;action=edit&amp;section=2" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Scheetz, <i>Names' Names,</i> p. 1</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><i>Oxford English Dictionary</i> (1972), "<a rel="nofollow" class="external text" href="http://www.oed.com/view/Entry/25869">caconym, <i>n.</i></a>"</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><i>What Do You Call a Person From...? A Dictionary of Resident Names</i> by Paul Dickson (Facts on File, February 1990). <style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8160-1983-0" title="Special:BookSources/978-0-8160-1983-0">978-0-8160-1983-0</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><i>Names' Names: A Descriptive and Prescriptive Onymicon</i> by George H. Scheetz (Sioux City: Schütz Verlag, 1988) No ISBN</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Crow, James F., and Arthur P. Mange. "Measurement of Inbreeding from the Frequency of Persons of the Same Surname." <i>Eugenics Quarterly</i>, 12 (1965): 199-203.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Lasker, Gabriel W. <i>Surnames and Genetic Structure</i>. Cambridge: Cambridge University Press, 1985.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><i>Oxford English Dictionary</i> (2005), "<a rel="nofollow" class="external text" href="http://www.oed.com/view/Entry/260076">paedonymic, <i>n.</i></a>"</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><i>Txting: The Gr8 Db8</i> by David Crystal (Oxford: Oxford University Press, 2008, pp. 68, 187). <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-954490-5" title="Special:BookSources/978-0-19-954490-5">978-0-19-954490-5</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">The Online Dictionary of Language Terminology - <a rel="nofollow" class="external text" href="http://www.odlt.org/ballast/theronym.html">Theronym</a>. Accessed 2009-06-08. <a rel="nofollow" class="external text" href="https://www.webcitation.org/5hPyuNz5R">Archived</a> 2009-06-09.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=-onym&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/w/index.php?title=George_H._Scheetz&amp;action=edit&amp;redlink=1" class="new" title="George H. Scheetz (page does not exist)">Scheetz, George H.</a> "Onomasticon I." <i><a href="/wiki/Word_Ways" title="Word Ways">Word Ways</a></i>, 10 (August 1977): 165–67. Enlarged as "An Onomastic Onomasticon."</li>
+<li>&#160;<span style="letter-spacing:-.25em;">———</span>&#160;. "An Onomastic Onomasticon." <i>ANS Bulletin,</i> No. 65 (28 October 1981), pp.&#160;4–7. Revised and enlarged as <i>Names' Names: A Descriptive and Prescriptive Onymicon.</i></li>
+<li>&#160;<span style="letter-spacing:-.25em;">———</span>&#160;. <i>Names' Names: A Descriptive and Prescriptive Onymicon.</i> (“What’s In a Name?” Chapbook Series; 2.) Sioux City, Ia.: Schütz Verlag, August 1988. The first separately published, comprehensive historical overview of words ending in <i>-onym,</i> including an annotated list of 137 such words.</li></ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=-onym&amp;action=edit&amp;section=4" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation book">Brown, A. F. (1963). <i>Normal and Reverse English Word List</i>. <b>1–8</b>. Philadelphia: University of Pennsylvania.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Normal+and+Reverse+English+Word+List&amp;rft.place=Philadelphia&amp;rft.pub=University+of+Pennsylvania&amp;rft.date=1963&amp;rft.aulast=Brown&amp;rft.aufirst=A.+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A-onym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book"><a href="/w/index.php?title=Richard_C._Herbst&amp;action=edit&amp;redlink=1" class="new" title="Richard C. Herbst (page does not exist)">Herbst, Richard C.</a> (1979). <i>Herbst's Backword Dictionary for Puzzled People</i>. New York: Alamo Publishing Company.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Herbst%27s+Backword+Dictionary+for+Puzzled+People&amp;rft.place=New+York&amp;rft.pub=Alamo+Publishing+Company&amp;rft.date=1979&amp;rft.aulast=Herbst&amp;rft.aufirst=Richard+C.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A-onym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book"><a href="/w/index.php?title=Martin_Lehnert&amp;action=edit&amp;redlink=1" class="new" title="Martin Lehnert (page does not exist)">Lehnert, Martin</a> (1971). <i>Reverse Dictionary of Present-Day English</i>. Leipzig: Verlag Enzyklopädie.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Reverse+Dictionary+of+Present-Day+English&amp;rft.place=Leipzig&amp;rft.pub=Verlag+Enzyklop%C3%A4die&amp;rft.date=1971&amp;rft.aulast=Lehnert&amp;rft.aufirst=Martin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A-onym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li>
+<li><cite class="citation book">Laurence Urdang, ed. (1981). <i>-Ologies &amp; -Isms: A Thematic Dictionary</i> (2nd ed.). Detroit: Gale Research Company.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=-Ologies+%26+-Isms%3A+A+Thematic+Dictionary&amp;rft.place=Detroit&amp;rft.edition=2nd&amp;rft.pub=Gale+Research+Company&amp;rft.date=1981&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A-onym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=-onym&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/-onym" class="extiw" title="wiktionary:-onym">-onym</a></b></i> in Wiktionary, the free dictionary.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://words-that-end-in-nym.wordover.com/e/">Words That End In nym&#160;: Words That End With nym</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.fun-with-words.com/nym_words.html">Nym Words</a></li>
+<li><a rel="nofollow" class="external text" href="http://users.tinyonline.co.uk/gswithenbank/onyms.htm">Onyms</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
+<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Surname</a>
+<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
+<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
+<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
+<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
+<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
+<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
+<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
+<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
+<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
+<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
+<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
+<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
+<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
+<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
+<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
+<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
+<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
+<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
+<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
+<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
+<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
+<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
+<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
+<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
+<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
+<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
+<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
+<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
+<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
+<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
+<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
+<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
+<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
+<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
+<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
+<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
+<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
+<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
+<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
+<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
+<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
+<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
+<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
+<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
+<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
+<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
+<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
+<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
+<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
+<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
+<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
+<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
+<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
+<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
+<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
+<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
+<li><a href="/wiki/English_name" title="English name">English</a></li>
+<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
+<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
+<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
+<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
+<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
+<li><a href="/wiki/French_name" title="French name">French</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
+<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
+<li><a href="/wiki/German_name" title="German name">German</a></li>
+<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
+<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
+<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
+<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
+<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
+<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
+<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
+<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
+<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
+<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
+<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
+<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
+<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
+<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
+<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
+<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
+<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
+<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
+<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
+<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
+<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
+<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
+<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
+<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
+<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
+<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
+<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
+<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
+<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
+<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
+<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
+<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
+<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
+<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
+<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
+<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
+<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
+<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
+<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
+<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
+<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
+<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
+<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
+<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
+<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
+<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
+<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
+<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
+<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
+<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
+<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
+<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
+<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
+<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
+<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
+<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
+<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
+<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
+<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
+<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
+<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
+<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
+<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
+<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
+<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
+<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
+<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award_or_decoration" title="Award or decoration">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
+<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
+<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
+<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
+<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
+<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
+<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
+<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
+<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
+<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
+<li><a href="/wiki/Name_day" title="Name day">Name day</a>
+<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
+<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
+<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
+<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
+<li><a href="/wiki/Family" title="Family">Family</a></li>
+<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
+<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
+<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
+<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
+<li><i><a class="mw-selflink selflink">-onym</a></i></li>
+<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
+<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
+<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
+<li><a href="/wiki/Signature" title="Signature">Signature</a>
+<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
+<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
+<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
+<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Lexicography" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Lexicography" title="Template:Lexicography"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Lexicography" title="Template talk:Lexicography"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Lexicography&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Lexicography" style="font-size:114%;margin:0 4em"><a href="/wiki/Lexicography" title="Lexicography">Lexicography</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Types of <a href="/wiki/Reference_work" title="Reference work">reference works</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dictionary" title="Dictionary">Dictionary</a></li>
+<li><a href="/wiki/Glossary" title="Glossary">Glossary</a></li>
+<li><a href="/wiki/Lexicon" title="Lexicon">Lexicon</a></li>
+<li><a href="/wiki/Phrase_book" title="Phrase book">Phrase book</a></li>
+<li><a href="/wiki/Thesaurus" title="Thesaurus">Thesaurus</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Types of <a href="/wiki/Dictionary" title="Dictionary">dictionaries</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Advanced_learner%27s_dictionary" title="Advanced learner&#39;s dictionary">Advanced learner's</a></li>
+<li><a href="/wiki/Anagram_dictionary" title="Anagram dictionary">Anagram</a></li>
+<li><a href="/wiki/Bilingual_dictionary" title="Bilingual dictionary">Bilingual</a></li>
+<li><a href="/wiki/Biographical_dictionary" title="Biographical dictionary">Biographical</a></li>
+<li><a href="/wiki/Conceptual_dictionary" title="Conceptual dictionary">Conceptual</a></li>
+<li><a href="/wiki/Anagram_dictionary" title="Anagram dictionary">Crossword</a></li>
+<li><a href="/wiki/Defining_vocabulary" title="Defining vocabulary">Defining</a></li>
+<li><a href="/wiki/Electronic_dictionary" title="Electronic dictionary">Electronic</a></li>
+<li><a href="/wiki/Encyclopedic_dictionary" title="Encyclopedic dictionary">Encyclopedic</a></li>
+<li><a href="/wiki/Etymological_dictionary" title="Etymological dictionary">Etymological</a></li>
+<li><a href="/wiki/Explanatory_dictionary" title="Explanatory dictionary">Explanatory</a></li>
+<li><a href="/wiki/Historical_dictionary" title="Historical dictionary">Historical</a></li>
+<li><a href="/wiki/Idiom_dictionary" title="Idiom dictionary">Idiom</a></li>
+<li><a href="/wiki/Language-for-specific-purposes_dictionary" title="Language-for-specific-purposes dictionary">Language-for-specific-purposes</a></li>
+<li><a href="/wiki/Machine-readable_dictionary" title="Machine-readable dictionary">Machine-readable</a></li>
+<li><a href="/wiki/Medical_dictionary" title="Medical dictionary">Medical</a></li>
+<li><a href="/wiki/Monolingual_learner%27s_dictionary" title="Monolingual learner&#39;s dictionary">Monolingual learner's</a></li>
+<li><a href="/wiki/Multi-field_dictionary" title="Multi-field dictionary">Multi-field</a></li>
+<li><a href="/wiki/Picture_dictionary" title="Picture dictionary">Picture</a></li>
+<li><a href="/wiki/Reverse_dictionary" title="Reverse dictionary">Reverse</a></li>
+<li><a href="/wiki/Rhyming_dictionary" title="Rhyming dictionary">Rhyming</a></li>
+<li><a href="/wiki/Rime_dictionary" title="Rime dictionary">Rime</a></li>
+<li><a href="/wiki/Single-field_dictionary" title="Single-field dictionary">Single-field</a></li>
+<li><a href="/wiki/Specialized_dictionary" title="Specialized dictionary">Specialized</a></li>
+<li><a href="/wiki/Spelling" title="Spelling">Spelling dictionary</a></li>
+<li><a href="/wiki/Sub-field_dictionary" title="Sub-field dictionary">Sub-field</a></li>
+<li><a href="/wiki/Visual_dictionary" title="Visual dictionary">Visual</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_lexicographers" title="List of lexicographers">List of lexicographers</a></li>
+<li><a href="/wiki/List_of_online_dictionaries" title="List of online dictionaries">List of online dictionaries</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" decoding="async" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Linguistics" title="Portal:Linguistics">Linguistics portal</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1301
+Cached time: 20190918134110
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.504 seconds
+Real time usage: 0.663 seconds
+Preprocessor visited node count: 1173/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 63312/2097152 bytes
+Template argument size: 1098/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 14873/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.271/10.000 seconds
+Lua memory usage: 12.98 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  550.082      1 -total
+ 31.16%  171.416      3 Template:Lang
+ 23.28%  128.044      1 Template:Refimprove
+ 16.82%   92.519      1 Template:Ambox
+ 16.09%   88.508      4 Template:Cite_book
+ 15.27%   83.975      1 Template:Reflist
+ 12.97%   71.333      2 Template:ISBN
+  8.04%   44.254      2 Template:Catalog_lookup_link
+  7.73%   42.531      1 Template:Find_sources_mainspace
+  5.76%   31.660      3 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:306150-0!canonical and timestamp 20190918134110 and revision id 878573144
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=-onym&amp;oldid=878573144">https://en.wikipedia.org/w/index.php?title=-onym&amp;oldid=878573144</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Greek_suffixes" title="Category:Greek suffixes">Greek suffixes</a></li><li><a href="/wiki/Category:Types_of_words" title="Category:Types of words">Types of words</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_November_2009" title="Category:Articles needing additional references from November 2009">Articles needing additional references from November 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">Articles containing Ancient Greek-language text</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=-onym" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=-onym" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/-onym" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:-onym" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/-onym">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=-onym&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=-onym&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/-onym" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/-onym" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=-onym&amp;oldid=878573144" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=-onym&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3274360" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=-onym&amp;id=878573144" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=-onym">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=-onym&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=-onym&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%88%D9%86%D9%8A%D9%85" title="أونيم – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/-%C3%B2nim" title="-ònim – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/-%C3%B3nimo" title="-ónimo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/-onym" title="-onym – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/-onym" title="-onym – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3274360#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 15 January 2019, at 16:54<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=-onym&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.504","walltime":"0.663","ppvisitednodes":{"value":1173,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":63312,"limit":2097152},"templateargumentsize":{"value":1098,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":14873,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  550.082      1 -total"," 31.16%  171.416      3 Template:Lang"," 23.28%  128.044      1 Template:Refimprove"," 16.82%   92.519      1 Template:Ambox"," 16.09%   88.508      4 Template:Cite_book"," 15.27%   83.975      1 Template:Reflist"," 12.97%   71.333      2 Template:ISBN","  8.04%   44.254      2 Template:Catalog_lookup_link","  7.73%   42.531      1 Template:Find_sources_mainspace","  5.76%   31.660      3 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.271","limit":"10.000"},"limitreport-memusage":{"value":13614016,"limit":52428800}},"cachereport":{"origin":"mw1301","timestamp":"20190918134110","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"-onym","url":"https:\/\/en.wikipedia.org\/wiki\/-onym","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3274360","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3274360","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-08-27T22:11:23Z","dateModified":"2019-01-15T16:54:11Z","headline":"suffix"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":92,"wgHostname":"mw1239"});});</script>
+</body>
+</html>
+

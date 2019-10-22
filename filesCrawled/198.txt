@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Eponym - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Eponym","wgTitle":"Eponym","wgCurRevisionId":916975947,"wgRevisionId":916975947,"wgArticleId":45811,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: uses authors parameter","CS1 maint: extra text: authors list","Articles with short description","All articles with unsourced statements","Articles with unsourced statements from August 2012","Commons category link is on Wikidata","Wikipedia articles with GND identifiers","Eponyms","Figures of speech"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September",
+"October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Eponym","wgRelevantArticleId":45811,"wgRequestId":"XZAWUApAICgAAFzPJ4MAAACU","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q204335","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready",
+"noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart",
+"ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Orion_Head_to_Toe.jpg/1200px-Orion_Head_to_Toe.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Eponym"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Eponym&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Eponym&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Eponym"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Eponym rootpage-Eponym skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Eponym</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Someone or something after which something is named</div>
+<div role="note" class="hatnote navigation-not-searchable">"Eponymous" redirects here. For the R.E.M. album, see <a href="/wiki/Eponymous_(album)" title="Eponymous (album)">Eponymous (album)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">"S/T" redirects here. For the albums, see <a href="/wiki/S/T_(Electric_President_album)" title="S/T (Electric President album)">S/T (Electric President album)</a> and <a href="/wiki/S/T_(Rainer_Maria_album)" title="S/T (Rainer Maria album)">S/T (Rainer Maria album)</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">Not to be confused with <a href="/wiki/Namesake" title="Namesake">Namesake</a>.</div>
+<p>An <b>eponym</b> is a person, place, or thing after whom or after which something is named, or believed to be named. The adjectives derived from eponym include <i>eponymous</i> and <i>eponymic</i>. For example, <a href="/wiki/Elizabeth_I_of_England" title="Elizabeth I of England">Elizabeth I of England</a> is the eponym of the <a href="/wiki/Elizabethan_era" title="Elizabethan era">Elizabethan era</a>, and "the <i>eponymous</i> founder of the <a href="/wiki/Ford_Motor_Company" title="Ford Motor Company">Ford Motor Company</a>" refers to <a href="/wiki/Henry_Ford" title="Henry Ford">Henry Ford</a>.  Recently, especially in the recorded-music industry, <i>eponymous</i> has been used to mean "named after its <a href="/wiki/Central_character" class="mw-redirect" title="Central character">central character</a> or creator".<sup id="cite_ref-dictionary_com_eponym_1-0" class="reference"><a href="#cite_note-dictionary_com_eponym-1">&#91;1&#93;</a></sup><sup id="cite_ref-m-w_eponym_2-0" class="reference"><a href="#cite_note-m-w_eponym-2">&#91;2&#93;</a></sup><sup id="cite_ref-dictionary_com_eponymous_3-0" class="reference"><a href="#cite_note-dictionary_com_eponymous-3">&#91;3&#93;</a></sup><sup id="cite_ref-m-w_eponymous_4-0" class="reference"><a href="#cite_note-m-w_eponymous-4">&#91;4&#93;</a></sup>
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Orion_Head_to_Toe.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Orion_Head_to_Toe.jpg/220px-Orion_Head_to_Toe.jpg" decoding="async" width="220" height="339" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Orion_Head_to_Toe.jpg/330px-Orion_Head_to_Toe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/47/Orion_Head_to_Toe.jpg/440px-Orion_Head_to_Toe.jpg 2x" data-file-width="2657" data-file-height="4096" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Orion_Head_to_Toe.jpg" class="internal" title="Enlarge"></a></div>The mythological Greek hero <a href="/wiki/Orion_(mythology)" title="Orion (mythology)">Orion</a> is the eponym of the <a href="/wiki/Orion_(constellation)" title="Orion (constellation)">constellation Orion</a>, shown here, and thus indirectly of the <a href="/wiki/Orion_(spacecraft)" title="Orion (spacecraft)">Orion spacecraft</a>.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup></div></div></div>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Other_eponyms"><span class="tocnumber">2</span> <span class="toctext">Other eponyms</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Orthographic_conventions"><span class="tocnumber">3</span> <span class="toctext">Orthographic conventions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Capitalized_versus_lowercase"><span class="tocnumber">3.1</span> <span class="toctext">Capitalized versus lowercase</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Genitive_versus_attributive"><span class="tocnumber">3.2</span> <span class="toctext">Genitive versus attributive</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#National_varieties_of_English"><span class="tocnumber">3.3</span> <span class="toctext">National varieties of English</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Comparison_table_of_eponym_orthographic_styling"><span class="tocnumber">3.4</span> <span class="toctext">Comparison table of eponym orthographic styling</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Lists_of_eponyms"><span class="tocnumber">4</span> <span class="toctext">Lists of eponyms</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eponym&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Periods have often been named after a ruler or other influential figure:
+</p>
+<ul><li>One of the first recorded cases of eponymy occurred in the second millennium BC, when the <a href="/wiki/Assyrian_people" title="Assyrian people">Assyrians</a> named each year after a high official (<i>limmu</i>).</li>
+<li>In <a href="/wiki/Ancient_Greece" title="Ancient Greece">ancient Greece</a>, the <a href="/wiki/Eponymous_archon" title="Eponymous archon">eponymous archon</a> was the highest magistrate in <a href="/wiki/Classical_Athens" title="Classical Athens">classical Athens</a>. Eponymous archons served a term of one year which took the name of that particular archon (e.g., 594 BC was named for <a href="/wiki/Solon" title="Solon">Solon</a>). Later historians provided yet another case of eponymy by referring to the period of <a href="/wiki/Fifth-century_Athens" title="Fifth-century Athens">fifth-century Athens</a> as The Age of Pericles after its most influential statesman <a href="/wiki/Pericles" title="Pericles">Pericles</a>.</li>
+<li>In <a href="/wiki/Ptolemaic_Egypt" class="mw-redirect" title="Ptolemaic Egypt">Ptolemaic Egypt</a>, the head priest of the <a href="/wiki/Ptolemaic_cult_of_Alexander_the_Great" title="Ptolemaic cult of Alexander the Great">Cult of Alexander and the Ptolemies</a> was the eponymous priest after whom years were named.</li>
+<li>The <a href="/wiki/Hebrew_Bible" title="Hebrew Bible">Hebrew Bible</a> explains the origins of peoples through individuals who bear their name. Jacob is renamed "Israel" (Gen 35:9) and his sons (or grandsons) name the original <a href="/wiki/Israelites" title="Israelites">12 tribes of Israel</a>, while Edomites (Gen. 25:30), Moabites and Ammonites (Gen. 19:30-38), Canaanites (Gen. 9:20-27) and other tribes (the Kenites named after Cain Gen. 4:1-16) are said to be named for other primal ancestors bearing their name.  In most cases, the experiences and behavior of the ancestor is meant to indicate the characteristics of the people who take their name.</li>
+<li>In <a href="/wiki/Ancient_Rome" title="Ancient Rome">ancient Rome</a>, one of the two formal ways of indicating a year was to cite the two annual <a href="/wiki/Consul" title="Consul">consuls</a> who served in that year. For example, the year we know as 59 BC would have been described as "the consulship of <a href="/wiki/Bibulus" class="mw-redirect" title="Bibulus">Marcus Calpurnius Bibulus</a> and <a href="/wiki/Julius_Caesar" title="Julius Caesar">Gaius Julius Caesar</a>" (although that specific year was known jocularly as "the consulship of Julius and Caesar" because of the insignificance of Caesar's counterpart). Under the empire, the consuls would change as often as every two months, but only the two consuls at the beginning of the year would lend their names to that year.</li>
+<li>During the <a href="/wiki/Christian_era" class="mw-redirect" title="Christian era">Christian era</a>, itself eponymous, many royal households used eponymous dating by <a href="/wiki/Regnal_year" title="Regnal year">regnal years</a>. The Roman Catholic Church, however, eventually used the <i><a href="/wiki/Anno_Domini" title="Anno Domini">Anno Domini</a></i> dating scheme based on the birth of Christ on both the general public and royalty. The regnal year standard is still used with respect to statutes and law reports published in some parts of the United Kingdom and in some Commonwealth countries (England abandoned this practice in 1963): a statute signed into law in Canada between February 6, 1994 and February 5, 1995 would be dated 43 Elizabeth II, for instance.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2012)">citation needed</span></a></i>&#93;</sup></li>
+<li>Government administrations may become referred to eponymously, such as <i><a href="/wiki/Camelot_era" class="mw-redirect" title="Camelot era">Kennedy's Camelot</a></i> and <i>the Nixon Era</i>.</li>
+<li>British monarchs have become eponymous throughout the English-speaking world for time periods, fashions, etc. <i><a href="/wiki/Elizabethan_era" title="Elizabethan era">Elizabethan</a></i>, <i><a href="/wiki/Georgian_period_in_British_history" class="mw-redirect" title="Georgian period in British history">Georgian</a></i>, <i><a href="/wiki/Victorian_era" title="Victorian era">Victorian</a></i>, and <i><a href="/wiki/Edwardian_period" class="mw-redirect" title="Edwardian period">Edwardian</a></i> are examples of these.</li></ul>
+<p><b>Trends</b>
+</p>
+<ul><li>Political trends or movements often become eponymous with a government leader. Examples include <i><a href="/wiki/Jacksonian_democracy" title="Jacksonian democracy">Jacksonian democracy</a></i>, <i><a href="/wiki/Stalinism" title="Stalinism">Stalinism</a></i>, <i><a href="/wiki/Maoism" title="Maoism">Maoism</a></i>, <i><a href="/wiki/Obamacare" class="mw-redirect" title="Obamacare">Obamacare</a></i>, and <i><a href="/wiki/Thatcherism" title="Thatcherism">Thatcherism</a></i>.</li></ul>
+<h2><span class="mw-headline" id="Other_eponyms">Other eponyms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eponym&amp;action=edit&amp;section=2" title="Edit section: Other eponyms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In <a href="/wiki/Intellectual_property_law" class="mw-redirect" title="Intellectual property law">intellectual property law</a>, an eponym can refer to a <a href="/wiki/Generic_trademark" title="Generic trademark">generic trademark</a> or brand name, a form of <a href="/wiki/Metonymy" title="Metonymy">metonymy</a>, such as <a href="/wiki/Aspirin" title="Aspirin">aspirin</a>,<sup id="cite_ref-bayer_6-0" class="reference"><a href="#cite_note-bayer-6">&#91;6&#93;</a></sup> <a href="/wiki/Heroin" title="Heroin">heroin</a><sup id="cite_ref-etymon_7-0" class="reference"><a href="#cite_note-etymon-7">&#91;7&#93;</a></sup> and <a href="/wiki/Thermos" class="mw-redirect" title="Thermos">thermos</a><sup id="cite_ref-fed_8-0" class="reference"><a href="#cite_note-fed-8">&#91;8&#93;</a></sup> in the United States.</li>
+<li>In geography, places and towns can also be given an eponymous name through a relationship to an important figure. <a href="/wiki/Peloponnesus" class="mw-redirect" title="Peloponnesus">Peloponnesus</a>, for instance, was said to derive its name from the Greek hero <a href="/wiki/Pelops" title="Pelops">Pelops</a>. In historical times, new towns have often been named (and older communities renamed) after their founders, discoverers, or notable individuals. Examples include <a href="/wiki/Vancouver,_British_Columbia" class="mw-redirect" title="Vancouver, British Columbia">Vancouver, British Columbia</a>, named for explorer <a href="/wiki/George_Vancouver" title="George Vancouver">George Vancouver</a>; and <a href="/wiki/Prince_Albert,_Saskatchewan" title="Prince Albert, Saskatchewan">Prince Albert, Saskatchewan</a>, originally called <a href="/wiki/Isbister%27s_Settlement" class="mw-redirect" title="Isbister&#39;s Settlement">Isbister's Settlement</a> but renamed after <a href="/wiki/Queen_Victoria" title="Queen Victoria">Queen Victoria</a>'s <a href="/wiki/Albert,_Prince_Consort" title="Albert, Prince Consort">husband and consort</a> in 1866.</li>
+<li><span id="Scitech2014-09-30"></span>In science and technology, discoveries and innovations are often named after the discoverer or a figure influential in their advance. Examples are <a href="/wiki/Avogadro%27s_number" class="mw-redirect" title="Avogadro&#39;s number">Avogadro's number</a>, the <a href="/wiki/Diesel_engine" title="Diesel engine">Diesel engine</a>, <a href="/wiki/Meitnerium" title="Meitnerium">meitnerium</a>, <a href="/wiki/Alzheimer%27s_disease" title="Alzheimer&#39;s disease">Alzheimer's disease</a>, and the <a href="/wiki/Apgar_score" title="Apgar score">Apgar score</a>. For a different view of the process see <a href="/wiki/Stigler%27s_law_of_eponymy" title="Stigler&#39;s law of eponymy">Stigler's law of eponymy</a>.</li>
+<li>In art:
+<ul><li>Plays, books, and other forms of entertainment may have eponymous names, such as the ancient Greek epic <i><a href="/wiki/The_Odyssey" class="mw-redirect" title="The Odyssey">The Odyssey</a></i>, derived from its principal character, <a href="/wiki/Odysseus" title="Odysseus">Odysseus</a>, and the novel <i><a href="/wiki/Robinson_Crusoe" title="Robinson Crusoe">Robinson Crusoe</a></i>.</li>
+<li>The term is also applied to <a href="/wiki/Music" title="Music">music</a>, usually with regard to record titles, where it is prevalent and leads to confusion. For example, <a href="/wiki/Bad_Company_(band)" class="mw-redirect" title="Bad Company (band)">Bad Company</a>'s first album was entitled <i><a href="/wiki/Bad_Company_(album)" title="Bad Company (album)">Bad Company</a></i> and contained a popular song named "<a href="/wiki/Bad_Company_(song)" title="Bad Company (song)">Bad Company</a>". Parodying this, the band <a href="/wiki/R.E.M." title="R.E.M.">R.E.M.</a> titled a 1988 compilation album <i><a href="/wiki/Eponymous_(album)" title="Eponymous (album)">Eponymous</a></i>.</li></ul></li>
+<li>In tribal antiquity, both in ancient Greece and independently among the Hebrews, tribes often took the name of a legendary leader (as <a href="/wiki/Achaeus,_son_of_Xuthus" class="mw-redirect" title="Achaeus, son of Xuthus">Achaeus</a> for <a href="/wiki/Achaeans_(tribe)" title="Achaeans (tribe)">Achaeans</a>, or <a href="/wiki/Dorus" class="mw-redirect" title="Dorus">Dorus</a> for <a href="/wiki/Dorians" title="Dorians">Dorians</a>). The eponym gave apparent meaning to the mysterious names of tribes, and sometimes, as in the <a href="/wiki/Sons_of_Noah" class="mw-redirect" title="Sons of Noah">Sons of Noah</a>, provided a primitive attempt at <a href="/wiki/Ethnology" title="Ethnology">ethnology</a> as well, in the genealogical relationships of eponymous originators.</li>
+<li>In <a href="/wiki/Zoology" title="Zoology">zoology</a>, an animal name that includes the name of a person is properly called an eponym.<sup id="cite_ref-beo_9-0" class="reference"><a href="#cite_note-beo-9">&#91;9&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Orthographic_conventions">Orthographic conventions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eponym&amp;action=edit&amp;section=3" title="Edit section: Orthographic conventions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Capitalized_versus_lowercase">Capitalized versus lowercase</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eponym&amp;action=edit&amp;section=4" title="Edit section: Capitalized versus lowercase">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Because <a href="/wiki/Proper_nouns" class="mw-redirect" title="Proper nouns">proper nouns</a> are capitalized in English, the usual default for eponyms is to capitalize the eponymous part of a term. When used as <a href="/wiki/Proper_adjective" title="Proper adjective">proper adjectives</a> they are normally capitalized, for example <a href="/wiki/Victorian_era" title="Victorian era">Victorian</a>, <a href="/wiki/Shakespearean" class="mw-redirect" title="Shakespearean">Shakespearean</a>, and <a href="/wiki/Kafkaesque" class="mw-redirect" title="Kafkaesque">Kafkaesque</a>.<sup id="cite_ref-oxford_10-0" class="reference"><a href="#cite_note-oxford-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></li>
+<li>However, some eponymous adjectives and <a href="/wiki/Noun_adjunct" title="Noun adjunct">noun adjuncts</a> are nowadays entered in many dictionaries as lowercase when they have evolved a common status, no longer deriving their meaning from the proper-noun origin.<sup id="cite_ref-M-W_C_10_12-0" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup> For example, <i>Herculean</i> when referring to Hercules himself, but often <i>herculean</i> when referring to the figurative, generalized extension sense;<sup id="cite_ref-M-W_C_10_12-1" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup> and <i>quixotic</i> and <i>diesel engine</i> [lowercase only].<sup id="cite_ref-M-W_C_10_12-2" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><sup id="cite_ref-AHD4_13-0" class="reference"><a href="#cite_note-AHD4-13">&#91;13&#93;</a></sup> For any given term, one dictionary may enter only lowercase or only cap, whereas other dictionaries may recognize the capitalized version as a variant, either equally common as, or less common than, the first-listed styling (marked with labels such as "or", "also", "often", or "sometimes"). <i><a href="/wiki/The_Chicago_Manual_of_Style" title="The Chicago Manual of Style">The Chicago Manual of Style</a></i>, in its section "Words derived from proper names",<sup id="cite_ref-CMOS_14e_pp253-254_14-0" class="reference"><a href="#cite_note-CMOS_14e_pp253-254-14">&#91;14&#93;</a></sup> gives some examples of both lowercase and capitalized stylings, including a few terms styled both ways, and says, "Authors and editors must decide for themselves, but whatever choice is made should be followed consistently throughout a work."</li>
+<li>When the eponym is used together with a noun, the common-noun part is not capitalized (unless it is part of a title or it is the first word in a sentence). For example, in <i>Parkinson disease</i> (named after <a href="/wiki/James_Parkinson" title="James Parkinson">James Parkinson</a>), <i>Parkinson</i> is capitalized, but <i>disease</i> is not. In addition, the adjectival form, where one exists, is usually lowercased for medical terms (thus <i><a href="/wiki/Parkinsonian" class="mw-redirect" title="Parkinsonian">parkinsonian</a></i> although <i>Parkinson disease</i>),<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> and <a href="/wiki/Gram-negative_bacteria" title="Gram-negative bacteria">gram-negative</a>, <a href="/wiki/Gram-positive_bacteria" title="Gram-positive bacteria">gram-positive</a> although <a href="/wiki/Gram_stain" title="Gram stain">Gram stain</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> Uppercase Gram-positive or Gram-negative however are also commonly used in <a href="/wiki/Scientific_journal" title="Scientific journal">scientific journal</a> articles and publications.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>  In other fields, the eponym derivative is commonly capitalized, for example, <i>Newtonian</i> in physics,<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> and <i><a href="/wiki/Platonism" title="Platonism">Platonic</a></i> in philosophy (however, use lowercase <i>platonic</i> when describing love).<sup id="cite_ref-oxford_10-1" class="reference"><a href="#cite_note-oxford-10">&#91;10&#93;</a></sup> The capitalization is retained after a prefix and hyphen, e.g. <i>non-Newtonian</i>.<sup id="cite_ref-oxford_10-2" class="reference"><a href="#cite_note-oxford-10">&#91;10&#93;</a></sup></li></ul>
+<p>For examples, see the <a href="#Comparison_table_of_eponym_orthographic_styling">comparison table</a> below.
+</p>
+<h3><span class="mw-headline" id="Genitive_versus_attributive">Genitive versus attributive</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eponym&amp;action=edit&amp;section=5" title="Edit section: Genitive versus attributive">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>English can use either <a href="/wiki/Genitive" class="mw-redirect" title="Genitive">genitive</a> case or attributive position to indicate the adjectival nature of the eponymous part of the term. (In other words, that part may be either possessive or non-possessive.) Thus <i>Parkinson's disease</i> and <i>Parkinson disease</i> are both acceptable. Medical dictionaries have been shifting toward nonpossessive styling in recent decades.<sup id="cite_ref-AMAMOS2007ch16_22-0" class="reference"><a href="#cite_note-AMAMOS2007ch16-22">&#91;22&#93;</a></sup> Thus <i>Parkinson disease</i> is more likely to be used in the latest medical literature (especially in <a href="/wiki/Postprint" title="Postprint">postprints</a>) than is <i>Parkinson's disease</i>.</li></ul>
+<h3><span class="mw-headline" id="National_varieties_of_English">National varieties of English</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eponym&amp;action=edit&amp;section=6" title="Edit section: National varieties of English">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/American_and_British_English_spelling_differences" title="American and British English spelling differences">American and British English spelling differences</a> may apply to eponyms. For example, British style would typically be <i><a href="/wiki/Caesarean_section" title="Caesarean section">caesarean section</a></i>, which is also found in American medical publications, but <i>cæsarean section</i> (with a digraph) is sometimes seen in (mostly older) British writing, and <i>cesarean</i> is preferred by American dictionaries and some American medical works.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="Comparison_table_of_eponym_orthographic_styling">Comparison table of eponym orthographic styling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eponym&amp;action=edit&amp;section=7" title="Edit section: Comparison table of eponym orthographic styling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Prevalent dictionary styling today</th>
+<th>Stylings that defy prevalent dictionary styling</th>
+<th>Comments
+</th></tr>
+<tr>
+<td>Addison disease<sup id="cite_ref-Dorlands31_24-0" class="reference"><a href="#cite_note-Dorlands31-24">&#91;24&#93;</a></sup></td>
+<td>*Addison <b>D</b>isease<br />*<b>a</b>ddison disease</td>
+<td>&#160;
+</td></tr>
+<tr>
+<td>Allemann syndrome<sup id="cite_ref-Dorlands31_24-1" class="reference"><a href="#cite_note-Dorlands31-24">&#91;24&#93;</a></sup></td>
+<td>*Allemann <b>S</b>yndrome<br />*<b>a</b>llemann syndrome</td>
+<td>&#160;
+</td></tr>
+<tr>
+<td>cesarean [only]<sup id="cite_ref-Dorlands31_24-2" class="reference"><a href="#cite_note-Dorlands31-24">&#91;24&#93;</a></sup><br />cesarean&#160;<i>also</i>&#160;cesarian&#160;[but&#160;no&#160;cap&#160;variant]<sup id="cite_ref-M-W_C_10_12-3" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><br />cesarean, "often capitalized" <i>or</i> caesarean <i>also</i> cesarian <i>or</i> caesarian<sup id="cite_ref-M-W_C_11_25-0" class="reference"><a href="#cite_note-M-W_C_11-25">&#91;25&#93;</a></sup></td>
+<td>&#160;</td>
+<td>More information on this word's orthographic variants is at Wiktionary: <a href="https://en.wiktionary.org/wiki/caesarean_section" class="extiw" title="wikt:caesarean section">caesarean section</a>.
+</td></tr>
+<tr>
+<td>darwinian [only]<sup id="cite_ref-Dorlands31_24-3" class="reference"><a href="#cite_note-Dorlands31-24">&#91;24&#93;</a></sup><br />darwinism [only]<sup id="cite_ref-Dorlands31_24-4" class="reference"><a href="#cite_note-Dorlands31-24">&#91;24&#93;</a></sup><br />Darwinian [only]<sup id="cite_ref-M-W_C_10_12-4" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><sup id="cite_ref-AHD4_13-1" class="reference"><a href="#cite_note-AHD4-13">&#91;13&#93;</a></sup><br />Darwinism [only]<sup id="cite_ref-M-W_C_10_12-5" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><sup id="cite_ref-AHD4_13-2" class="reference"><a href="#cite_note-AHD4-13">&#91;13&#93;</a></sup><br />Darwinist [only]<sup id="cite_ref-M-W_C_10_12-6" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><sup id="cite_ref-AHD4_13-3" class="reference"><a href="#cite_note-AHD4-13">&#91;13&#93;</a></sup></td>
+<td>&#160;</td>
+<td>&#160;
+</td></tr>
+<tr>
+<td>diesel (n/adj/vi) [no cap variant]<sup id="cite_ref-M-W_C_10_12-7" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><sup id="cite_ref-AHD4_13-4" class="reference"><a href="#cite_note-AHD4-13">&#91;13&#93;</a></sup><br /><b>and also</b><br />diesel-electric<sup id="cite_ref-M-W_C_10_12-8" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><br />diesel&#160;engine<sup id="cite_ref-M-W_C_10_12-9" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><sup id="cite_ref-AHD4_13-5" class="reference"><a href="#cite_note-AHD4-13">&#91;13&#93;</a></sup><br />dieseling<sup id="cite_ref-M-W_C_10_12-10" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><sup id="cite_ref-AHD4_13-6" class="reference"><a href="#cite_note-AHD4-13">&#91;13&#93;</a></sup><br />dieselize,&#160;dieselization<sup id="cite_ref-M-W_C_10_12-11" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup></td>
+<td>*<b>D</b>iesel&#160;engine<br />*<b>D</b>ieseling<br />*<b>D</b>ieselize,&#160;<b>D</b>ieselization</td>
+<td>&#160;
+</td></tr>
+<tr>
+<td>draconian<sup id="cite_ref-AHD4_13-7" class="reference"><a href="#cite_note-AHD4-13">&#91;13&#93;</a></sup><br />draconian <i>often</i> Draconian<sup id="cite_ref-M-W_C_10_12-12" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup></td>
+<td>&#160;</td>
+<td>&#160;
+</td></tr>
+<tr>
+<td>eustachian [only]<sup id="cite_ref-Dorlands31_24-5" class="reference"><a href="#cite_note-Dorlands31-24">&#91;24&#93;</a></sup><br />eustachian <i>often</i> Eustachian<sup id="cite_ref-M-W_C_10_12-13" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><br />eustachian tube [only]<sup id="cite_ref-Dorlands31_24-6" class="reference"><a href="#cite_note-Dorlands31-24">&#91;24&#93;</a></sup><br />eustachian tube <i>often</i> Eustachian tube<sup id="cite_ref-M-W_C_10_12-14" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><br />eustachian tube <i>or</i> Eustachian tube<sup id="cite_ref-AHD4_13-8" class="reference"><a href="#cite_note-AHD4-13">&#91;13&#93;</a></sup></td>
+<td>*Eustachian <b>T</b>ube</td>
+<td>&#160;
+</td></tr>
+<tr>
+<td>fallopian [only]<sup id="cite_ref-Dorlands31_24-7" class="reference"><a href="#cite_note-Dorlands31-24">&#91;24&#93;</a></sup><br />fallopian <i>often</i> Fallopian<sup id="cite_ref-M-W_C_10_12-15" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><br />fallopian tube [only]<sup id="cite_ref-Dorlands31_24-8" class="reference"><a href="#cite_note-Dorlands31-24">&#91;24&#93;</a></sup><br />fallopian tube <i>often</i> Fallopian tube<sup id="cite_ref-M-W_C_10_12-16" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><br />fallopian tube <i>also</i> Fallopian tube<sup id="cite_ref-AHD4_13-9" class="reference"><a href="#cite_note-AHD4-13">&#91;13&#93;</a></sup></td>
+<td>*Fallopian <b>T</b>ube</td>
+<td>&#160;
+</td></tr>
+<tr>
+<td>Marxism [only]<sup id="cite_ref-M-W_C_10_12-17" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><sup id="cite_ref-AHD4_13-10" class="reference"><a href="#cite_note-AHD4-13">&#91;13&#93;</a></sup><br />Marxist [only]<sup id="cite_ref-M-W_C_10_12-18" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><sup id="cite_ref-AHD4_13-11" class="reference"><a href="#cite_note-AHD4-13">&#91;13&#93;</a></sup></td>
+<td>*<b>m</b>arxism<br />*<b>m</b>arxist</td>
+<td>&#160;
+</td></tr>
+<tr>
+<td>mendelian [only]<sup id="cite_ref-Dorlands31_24-9" class="reference"><a href="#cite_note-Dorlands31-24">&#91;24&#93;</a></sup>&#160;<b>or</b>&#160;Mendelian [only]<sup id="cite_ref-M-W_C_10_12-19" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><br />mendelian&#160;inheritance&#160;[only]<sup id="cite_ref-Dorlands31_24-10" class="reference"><a href="#cite_note-Dorlands31-24">&#91;24&#93;</a></sup>&#160;<b>or</b> Mendelian&#160;inheritance&#160;[only]<sup id="cite_ref-M-W_C_10_12-20" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup>&#160;<br />&#160;<b>but</b><br />Mendel's laws<sup id="cite_ref-M-W_C_10_12-21" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><sup id="cite_ref-Dorlands31_24-11" class="reference"><a href="#cite_note-Dorlands31-24">&#91;24&#93;</a></sup></td>
+<td>*<b>M</b>endelian <b>I</b>nheritance</td>
+<td>&#160;
+</td></tr>
+<tr>
+<td>Newtonian [only]<sup id="cite_ref-M-W_C_10_12-22" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><sup id="cite_ref-AHD4_13-12" class="reference"><a href="#cite_note-AHD4-13">&#91;13&#93;</a></sup></td>
+<td>*<b>n</b>ewtonian</td>
+<td>&#160;
+</td></tr>
+<tr>
+<td>parkinsonism [only]<sup id="cite_ref-M-W_C_10_12-23" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><sup id="cite_ref-Dorlands31_24-12" class="reference"><a href="#cite_note-Dorlands31-24">&#91;24&#93;</a></sup><br />parkinsonian [only]<sup id="cite_ref-M-W_C_10_12-24" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><sup id="cite_ref-Dorlands31_24-13" class="reference"><a href="#cite_note-Dorlands31-24">&#91;24&#93;</a></sup><br />parkinsonian tremor<sup id="cite_ref-Dorlands31_24-14" class="reference"><a href="#cite_note-Dorlands31-24">&#91;24&#93;</a></sup><br />Parkinson disease [only]<sup id="cite_ref-Dorlands31_24-15" class="reference"><a href="#cite_note-Dorlands31-24">&#91;24&#93;</a></sup><br />Parkinson's disease [only]<sup id="cite_ref-M-W_C_10_12-25" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup></td>
+<td>*<b>P</b>arkinsonism<br />*<b>P</b>arkinsonian<br />*<b>P</b>arkinsonian tremor<br />*<b>P</b>arkinsonian <b>T</b>remor<br />*Parkinson <b>D</b>isease<br />*Parkinson's <b>D</b>isease</td>
+<td>&#160;
+</td></tr>
+<tr>
+<td>quixotic [only]<sup id="cite_ref-M-W_C_10_12-26" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup><sup id="cite_ref-AHD4_13-13" class="reference"><a href="#cite_note-AHD4-13">&#91;13&#93;</a></sup></td>
+<td>*<b>Q</b>uixotic</td>
+<td>&#160;
+</td></tr>
+<tr>
+<td>Roman numerals<sup id="cite_ref-AHD4_13-14" class="reference"><a href="#cite_note-AHD4-13">&#91;13&#93;</a></sup><br />roman numerals<sup id="cite_ref-M-W_C_10_12-27" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup></td>
+<td>&#160;</td>
+<td>AMA Manual of Style lowercases the terms <i>roman numerals</i> and <i>arabic numerals</i>. MWCD enters the numeral sense under the headword <i>Roman</i> but with the note "not cap" on the numeral sense.<sup id="cite_ref-M-W_C_10_12-28" class="reference"><a href="#cite_note-M-W_C_10-12">&#91;12&#93;</a></sup>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Lists_of_eponyms">Lists of eponyms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eponym&amp;action=edit&amp;section=8" title="Edit section: Lists of eponyms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>By person's name</b>
+</p>
+<ul><li><a href="/wiki/List_of_eponyms_(A-K)" class="mw-redirect" title="List of eponyms (A-K)">List of eponyms (A-K)</a></li>
+<li><a href="/wiki/List_of_eponyms_(L-Z)" class="mw-redirect" title="List of eponyms (L-Z)">List of eponyms (L-Z)</a></li></ul>
+<p><b>By category</b>
+</p>
+<div class="div-col columns column-width" style="-moz-column-width: 20em; -webkit-column-width: 20em; column-width: 20em;">
+<ul><li><a href="/wiki/Adages_named_after_people" class="mw-redirect" title="Adages named after people">Adages</a></li>
+<li><a href="/wiki/List_of_eponymous_adjectives_in_English" title="List of eponymous adjectives in English">Adjectives</a></li>
+<li><a href="/wiki/List_of_minor_planets_named_after_people" title="List of minor planets named after people">Asteroids</a></li>
+<li><a href="/wiki/Astronomical_objects_named_after_people" class="mw-redirect" title="Astronomical objects named after people">Astronomical objects</a></li>
+<li><a href="/wiki/Cartoon_characters_named_after_people" class="mw-redirect" title="Cartoon characters named after people">Cartoon characters</a></li>
+<li><a href="/wiki/Chemical_elements_named_after_people" class="mw-redirect" title="Chemical elements named after people">Chemical elements</a></li>
+<li><a href="/wiki/List_of_colleges_and_universities_named_after_people" title="List of colleges and universities named after people">Colleges and universities</a></li>
+<li><a href="/wiki/List_of_companies_named_after_people" title="List of companies named after people">Companies</a></li>
+<li><a href="/wiki/List_of_eponymous_diseases" class="mw-redirect" title="List of eponymous diseases">Diseases</a></li>
+<li><a href="/wiki/List_of_foods_named_after_people" title="List of foods named after people">Foods</a></li>
+<li><a href="/wiki/Human_anatomical_parts_named_after_people" class="mw-redirect" title="Human anatomical parts named after people">Human anatomical parts</a></li>
+<li><a href="/wiki/List_of_ideologies_named_after_people" title="List of ideologies named after people">Ideologies</a></li>
+<li><a href="/wiki/List_of_inventions_named_after_people" title="List of inventions named after people">Inventions</a></li>
+<li><a href="/wiki/List_of_theorems" title="List of theorems">Mathematical theorems</a></li>
+<li><a href="/wiki/List_of_eponymous_medical_signs" class="mw-redirect" title="List of eponymous medical signs">Medical signs</a></li>
+<li><a href="/wiki/List_of_eponymous_medical_treatments" title="List of eponymous medical treatments">Medical treatments</a></li>
+<li><a href="/wiki/List_of_minerals_named_after_people" title="List of minerals named after people">Minerals</a></li>
+<li><a href="/wiki/Observations_named_after_people" class="mw-redirect" title="Observations named after people">Observations</a></li>
+<li><a href="/wiki/List_of_places_named_after_people" title="List of places named after people">Places and political entities</a></li>
+<li><a href="/wiki/Prizes_named_after_people" class="mw-redirect" title="Prizes named after people">Prizes, awards and medals</a></li>
+<li><a href="/wiki/Scientific_constants_named_after_people" class="mw-redirect" title="Scientific constants named after people">Scientific constants</a></li>
+<li><a href="/wiki/Scientific_equations_named_after_people" class="mw-redirect" title="Scientific equations named after people">Scientific equations</a></li>
+<li><a href="/wiki/Scientific_laws_named_after_people" class="mw-redirect" title="Scientific laws named after people">Scientific laws</a></li>
+<li><a href="/wiki/Scientific_phenomena_named_after_people" title="Scientific phenomena named after people">Scientific phenomena</a></li>
+<li><a href="/wiki/Scientific_units_named_after_people" class="mw-redirect" title="Scientific units named after people">Scientific units</a></li>
+<li><a href="/wiki/Sports_terms_named_after_people" class="mw-redirect" title="Sports terms named after people">Sports terms</a></li>
+<li><a href="/wiki/List_of_eponymous_surgical_procedures" title="List of eponymous surgical procedures">Surgical procedures</a></li>
+<li><a href="/wiki/List_of_eponymous_tests" title="List of eponymous tests">Tests</a></li>
+<li><a href="/wiki/List_of_generic_and_genericized_trademarks" title="List of generic and genericized trademarks">Trademarks or brand names</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eponym&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Antonomasia" title="Antonomasia">Antonomasia</a></li>
+<li><a href="/wiki/Archetypal_name" title="Archetypal name">Archetypal name</a></li>
+<li><a href="/wiki/Eponymous_hairstyles" class="mw-redirect" title="Eponymous hairstyles">Eponymous hairstyles</a></li>
+<li><a href="/wiki/Ethnonym" title="Ethnonym">Ethnonym</a></li>
+<li><a href="/wiki/Etymology" title="Etymology">Etymology</a>
+<ul><li><a href="/wiki/Lists_of_etymologies" title="Lists of etymologies">Lists of etymologies</a></li></ul></li>
+<li><a href="/wiki/False_etymology" title="False etymology">False etymology</a></li>
+<li><a href="/wiki/Genericized_trademark" class="mw-redirect" title="Genericized trademark">Genericized trademark</a></li>
+<li><a href="/wiki/Medical_eponyms" title="Medical eponyms">Medical eponyms</a></li>
+<li><a href="/wiki/Metonym" class="mw-redirect" title="Metonym">Metonym</a></li>
+<li><a href="/wiki/Name_reaction" title="Name reaction">Name reaction</a></li>
+<li><a href="/wiki/Stigler%27s_law_of_eponymy" title="Stigler&#39;s law of eponymy">Stigler's law of eponymy</a></li>
+<li><a href="/wiki/Territorial_designation" title="Territorial designation">Territorial designation</a></li>
+<li><a href="/wiki/Toponym" class="mw-redirect" title="Toponym">Toponym</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eponym&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-dictionary_com_eponym-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-dictionary_com_eponym_1-0">^</a></b></span> <span class="reference-text"><cite id="dictionary_com_eponym" class="citation web"><a rel="nofollow" class="external text" href="http://dictionary.reference.com/browse/eponym">"eponym"</a>. <i>Dictionary.com</i>. Dictionary.com LLC<span class="reference-accessdate">. Retrieved <span class="nowrap">30 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dictionary.com&amp;rft.atitle=eponym&amp;rft_id=http%3A%2F%2Fdictionary.reference.com%2Fbrowse%2Feponym&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-m-w_eponym-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-m-w_eponym_2-0">^</a></b></span> <span class="reference-text"><cite id="m-w_eponym" class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/eponym">"eponym"</a>. <i>Merriam-Webster Online Dictionary</i>. Merriam-Webster<span class="reference-accessdate">. Retrieved <span class="nowrap">30 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Merriam-Webster+Online+Dictionary&amp;rft.atitle=eponym&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Feponym&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-dictionary_com_eponymous-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-dictionary_com_eponymous_3-0">^</a></b></span> <span class="reference-text"><cite id="dictionary_com_eponymous" class="citation web"><a rel="nofollow" class="external text" href="http://dictionary.reference.com/browse/eponymous?s=t">"eponymous"</a>. <i>Dictionary.com</i>. Dictionary.com LLC<span class="reference-accessdate">. Retrieved <span class="nowrap">30 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dictionary.com&amp;rft.atitle=eponymous&amp;rft_id=http%3A%2F%2Fdictionary.reference.com%2Fbrowse%2Feponymous%3Fs%3Dt&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-m-w_eponymous-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-m-w_eponymous_4-0">^</a></b></span> <span class="reference-text"><cite id="m-w_eponymous" class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/eponymous">"eponymous"</a>. <i>Merriam-Webster Online Dictionary</i>. Merriam-Webster<span class="reference-accessdate">. Retrieved <span class="nowrap">30 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Merriam-Webster+Online+Dictionary&amp;rft.atitle=eponymous&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Feponymous&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.aerospaceguide.net/spaceexploration/orion.html">"Orion Spacecraft - Nasa Orion Spacecraft"</a>. <i>aerospaceguide.net</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=aerospaceguide.net&amp;rft.atitle=Orion+Spacecraft+-+Nasa+Orion+Spacecraft&amp;rft_id=http%3A%2F%2Fwww.aerospaceguide.net%2Fspaceexploration%2Forion.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-bayer-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-bayer_6-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://cyber.law.harvard.edu/metaschool/fisher/domain/tmcases/bayer.htm">Bayer Co. v. United Drug Co., 272 F. 505 (S.D.N.Y. 1921)</a>, Berkman Center for Internet &amp; Society at Harvard University, accessed March 25th, 2011</span>
+</li>
+<li id="cite_note-etymon-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-etymon_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Harper, Douglas. <a rel="nofollow" class="external text" href="http://www.etymonline.com/?term=heroin">"heroin"</a>. <i><a href="/wiki/Online_Etymology_Dictionary" title="Online Etymology Dictionary">Online Etymology Dictionary</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Online+Etymology+Dictionary&amp;rft.atitle=heroin&amp;rft.aulast=Harper&amp;rft.aufirst=Douglas&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2F%3Fterm%3Dheroin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-fed-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-fed_8-0">^</a></b></span> <span class="reference-text"><i>King-Seeley Thermos Co. v. Aladdin Indus., Inc.</i>, 321 <a href="/wiki/Federal_Reporter" title="Federal Reporter">F.2d</a> 577 (<a href="/wiki/United_States_Court_of_Appeals_for_the_Second_Circuit" title="United States Court of Appeals for the Second Circuit">2d Cir.</a> 1963); see also <a rel="nofollow" class="external text" href="http://www.core.org.cn/NR/rdonlyres/Sloan-School-of-Management/15-628Patents--Copyrights--and-the-Law-of-Intellectual-PropertySpring2003/88A3CE91-A80C-4B1A-A08C-AD975FB54DFA/0/kingseeleythermosvAladdin.pdf">this PDF</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060209110437/http://www.core.org.cn/NR/rdonlyres/Sloan-School-of-Management/15-628Patents--Copyrights--and-the-Law-of-Intellectual-PropertySpring2003/88A3CE91-A80C-4B1A-A08C-AD975FB54DFA/0/kingseeleythermosvAladdin.pdf">Archived</a> 2006-02-09 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-beo-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-beo_9-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Beolens, Bo; Watkins, Michael; Grayson, Michael (2014). <i>The Eponym Dictionary of Birds</i>. Bloomsbury Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1472905741" title="Special:BookSources/1472905741"><bdi>1472905741</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Eponym+Dictionary+of+Birds&amp;rft.pub=Bloomsbury+Publishing&amp;rft.date=2014&amp;rft.isbn=1472905741&amp;rft.aulast=Beolens&amp;rft.aufirst=Bo&amp;rft.au=Watkins%2C+Michael&amp;rft.au=Grayson%2C+Michael&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-oxford-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-oxford_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-oxford_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-oxford_10-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Waddingham, Anne (28 August 2014). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=btb1AwAAQBAJ&amp;pg=PA105#v=onepage&amp;q&amp;f=false"><i>New Hart's Rules: The Oxford Style Guide</i></a>. OUP Oxford. p.&#160;105. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0199570027" title="Special:BookSources/978-0199570027"><bdi>978-0199570027</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=New+Hart%27s+Rules%3A+The+Oxford+Style+Guide&amp;rft.pages=105&amp;rft.pub=OUP+Oxford&amp;rft.date=2014-08-28&amp;rft.isbn=978-0199570027&amp;rft.aulast=Waddingham&amp;rft.aufirst=Anne&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dbtb1AwAAQBAJ%26pg%3DPA105%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Marthus-Adden Zimboiant. <a rel="nofollow" class="external text" href="https://books.google.com/books?id=zbmXAAAAQBAJ&amp;pg=PA256#v=onepage&amp;q&amp;f=false"><i>No Grammar Tears 1</i></a>. pp.&#160;256–257. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781491800751" title="Special:BookSources/9781491800751"><bdi>9781491800751</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=No+Grammar+Tears+1&amp;rft.pages=256-257&amp;rft.isbn=9781491800751&amp;rft.au=Marthus-Adden+Zimboiant&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DzbmXAAAAQBAJ%26pg%3DPA256%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-M-W_C_10-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-M-W_C_10_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-15"><sup><i><b>p</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-16"><sup><i><b>q</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-17"><sup><i><b>r</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-18"><sup><i><b>s</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-19"><sup><i><b>t</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-20"><sup><i><b>u</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-21"><sup><i><b>v</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-22"><sup><i><b>w</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-23"><sup><i><b>x</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-24"><sup><i><b>y</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-25"><sup><i><b>z</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-26"><sup><i><b>aa</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-27"><sup><i><b>ab</b></i></sup></a> <a href="#cite_ref-M-W_C_10_12-28"><sup><i><b>ac</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFMerriam-Webster1993" class="citation"><a href="/wiki/Merriam-Webster" title="Merriam-Webster">Merriam-Webster</a> (1993), <a rel="nofollow" class="external text" href="https://archive.org/details/merriamwebstersc00merr_3"><i>Merriam-Webster's Collegiate Dictionary</i></a> (10th ed.), Springfield, Massachusetts, USA: Merriam-Webster, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-87779-707-4" title="Special:BookSources/978-0-87779-707-4"><bdi>978-0-87779-707-4</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Merriam-Webster%27s+Collegiate+Dictionary&amp;rft.place=Springfield%2C+Massachusetts%2C+USA&amp;rft.edition=10th&amp;rft.pub=Merriam-Webster&amp;rft.date=1993&amp;rft.isbn=978-0-87779-707-4&amp;rft.au=Merriam-Webster&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fmerriamwebstersc00merr_3&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-AHD4-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-AHD4_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AHD4_13-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-AHD4_13-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-AHD4_13-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-AHD4_13-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-AHD4_13-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-AHD4_13-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-AHD4_13-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-AHD4_13-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-AHD4_13-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-AHD4_13-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-AHD4_13-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-AHD4_13-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-AHD4_13-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-AHD4_13-14"><sup><i><b>o</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFHoughton_Mifflin2000" class="citation"><a href="/wiki/Houghton_Mifflin" class="mw-redirect" title="Houghton Mifflin">Houghton Mifflin</a> (2000), <i><a href="/wiki/The_American_Heritage_Dictionary_of_the_English_Language" title="The American Heritage Dictionary of the English Language">The American Heritage Dictionary of the English Language</a></i> (4th ed.), Boston and New York: Houghton Mifflin, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-395-82517-4" title="Special:BookSources/978-0-395-82517-4"><bdi>978-0-395-82517-4</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+American+Heritage+Dictionary+of+the+English+Language&amp;rft.place=Boston+and+New+York&amp;rft.edition=4th&amp;rft.pub=Houghton+Mifflin&amp;rft.date=2000&amp;rft.isbn=978-0-395-82517-4&amp;rft.au=Houghton+Mifflin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-CMOS_14e_pp253-254-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-CMOS_14e_pp253-254_14-0">^</a></b></span> <span class="reference-text"><cite class="citation book">University of Chicago (1993). <i><a href="/wiki/The_Chicago_Manual_of_Style" title="The Chicago Manual of Style">The Chicago Manual of Style</a></i> (14th ed.). Chicago: University of Chicago Press. § 7.49, pp. 253–254. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-226-10389-7" title="Special:BookSources/0-226-10389-7"><bdi>0-226-10389-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Chicago+Manual+of+Style&amp;rft.place=Chicago&amp;rft.pages=%C2%A7+7.49%2C+pp.+253-254&amp;rft.edition=14th&amp;rft.pub=University+of+Chicago+Press&amp;rft.date=1993&amp;rft.isbn=0-226-10389-7&amp;rft.au=University+of+Chicago&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation book">Lorraine Villemaire, Doreen Oberg (29 December 2005). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=nEW6CAAAQBAJ&amp;pg=PA167#v=onepage&amp;q&amp;f=false"><i>Grammar and Writing Skills for the Health Professional</i></a> (2nd Revised ed.). Delmar Cengage Learning. p.&#160;167. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1401873745" title="Special:BookSources/978-1401873745"><bdi>978-1401873745</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Grammar+and+Writing+Skills+for+the+Health+Professional&amp;rft.pages=167&amp;rft.edition=2nd+Revised&amp;rft.pub=Delmar+Cengage+Learning&amp;rft.date=2005-12-29&amp;rft.isbn=978-1401873745&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DnEW6CAAAQBAJ%26pg%3DPA167%23v%3Donepage%26q%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: uses authors parameter (<a href="/wiki/Category:CS1_maint:_uses_authors_parameter" title="Category:CS1 maint: uses authors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Centers for Disease Control and Prevention. Emerging Infectious Diseases Journal Style Guide.  <a rel="nofollow" class="external text" href="http://wwwnc.cdc.gov/eid/pages/preferred-usage.htm">Preferred Usage</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lisa Brown, Julie M. Wolf, Rafael Prados-Rosales &amp; Arturo Casadevall (2015). <a rel="nofollow" class="external text" href="http://www.nature.com/nrmicro/journal/v13/n10/full/nrmicro3480.html">"Through the wall: extracellular vesicles in Gram-positive bacteria, mycobacteria and fungi"</a>. <i>Nature Reviews Microbiology</i>. <b>13</b>: 620–630. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1038%2Fnrmicro3480">10.1038/nrmicro3480</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4860279">4860279</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/26324094">26324094</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature+Reviews+Microbiology&amp;rft.atitle=Through+the+wall%3A+extracellular+vesicles+in+Gram-positive+bacteria%2C+mycobacteria+and+fungi&amp;rft.volume=13&amp;rft.pages=620-630&amp;rft.date=2015&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4860279&amp;rft_id=info%3Apmid%2F26324094&amp;rft_id=info%3Adoi%2F10.1038%2Fnrmicro3480&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnrmicro%2Fjournal%2Fv13%2Fn10%2Ffull%2Fnrmicro3480.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: uses authors parameter (<a href="/wiki/Category:CS1_maint:_uses_authors_parameter" title="Category:CS1 maint: uses authors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kristen L. Mueller (12 June 2015). <a rel="nofollow" class="external text" href="http://science.sciencemag.org/content/348/6240/1218.15">"Detecting Gram-negative bacteria"</a>. <i>Science</i>. <b>348</b> (6240): 1218. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1126%2Fscience.348.6240.1218-o">10.1126/science.348.6240.1218-o</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.atitle=Detecting+Gram-negative+bacteria&amp;rft.volume=348&amp;rft.issue=6240&amp;rft.pages=1218&amp;rft.date=2015-06-12&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.348.6240.1218-o&amp;rft.au=Kristen+L.+Mueller&amp;rft_id=http%3A%2F%2Fscience.sciencemag.org%2Fcontent%2F348%2F6240%2F1218.15&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dictionary.com/browse/gram-positive">"Gram-positive"</a>. <i>Dictionary.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Dictionary.com&amp;rft.atitle=Gram-positive&amp;rft_id=http%3A%2F%2Fwww.dictionary.com%2Fbrowse%2Fgram-positive&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/Newtonian">"Newtonian"</a>. <i>Merriam-Wester</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Merriam-Wester&amp;rft.atitle=Newtonian&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2FNewtonian&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://ahdictionary.com/word/search.html?q=Newtonian&amp;submit.x=19&amp;submit.y=19">"New·ton"</a>. <i>The American Heritage Dictionary</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+American+Heritage+Dictionary&amp;rft.atitle=New%C2%B7ton&amp;rft_id=https%3A%2F%2Fahdictionary.com%2Fword%2Fsearch.html%3Fq%3DNewtonian%26submit.x%3D19%26submit.y%3D19&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-AMAMOS2007ch16-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-AMAMOS2007ch16_22-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFIverson2007" class="citation">Iverson, Cheryl (editor) (2007), <i><a href="/wiki/AMA_Manual_of_Style" title="AMA Manual of Style">AMA Manual of Style</a></i> (10 ed.), Oxford, England: Oxford University Press, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-517633-9" title="Special:BookSources/978-0-19-517633-9"><bdi>978-0-19-517633-9</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=AMA+Manual+of+Style&amp;rft.place=Oxford%2C+England&amp;rft.edition=10&amp;rft.pub=Oxford+University+Press&amp;rft.date=2007&amp;rft.isbn=978-0-19-517633-9&amp;rft.aulast=Iverson&amp;rft.aufirst=Cheryl+%28editor%29&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: extra text: authors list (<a href="/wiki/Category:CS1_maint:_extra_text:_authors_list" title="Category:CS1 maint: extra text: authors list">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/>, chapter 16: Eponyms.</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">Medical Subject Headings (MeSH)</a> of the <a href="/wiki/United_States_National_Library_of_Medicine" title="United States National Library of Medicine">United States National Library of Medicine (NLM)</a> uses <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/mesh/68002585">"cesarean section"</a>, while the also US-published <i>Saunders Comprehensive Veterinary Dictionary</i> uses <a rel="nofollow" class="external text" href="http://medical-dictionary.thefreedictionary.com/caesarean">"caesarean"</a>.  The online versions of the <a rel="nofollow" class="external text" href="https://www.merriam-webster.com/dictionary/cesarean"><i>Merriam-Webster Dictionary</i></a> and <a rel="nofollow" class="external text" href="http://medical-dictionary.thefreedictionary.com/caesarean"><i>American Heritage Dictionary</i></a> list "cesarean" first and other spellings as "variants", an etymologically anhistorical position.</span>
+</li>
+<li id="cite_note-Dorlands31-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-Dorlands31_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dorlands31_24-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Dorlands31_24-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Dorlands31_24-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Dorlands31_24-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Dorlands31_24-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-Dorlands31_24-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-Dorlands31_24-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-Dorlands31_24-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-Dorlands31_24-9"><sup><i><b>j</b></i></sup></a> <a href="#cite_ref-Dorlands31_24-10"><sup><i><b>k</b></i></sup></a> <a href="#cite_ref-Dorlands31_24-11"><sup><i><b>l</b></i></sup></a> <a href="#cite_ref-Dorlands31_24-12"><sup><i><b>m</b></i></sup></a> <a href="#cite_ref-Dorlands31_24-13"><sup><i><b>n</b></i></sup></a> <a href="#cite_ref-Dorlands31_24-14"><sup><i><b>o</b></i></sup></a> <a href="#cite_ref-Dorlands31_24-15"><sup><i><b>p</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFElsevier2007" class="citation"><a href="/wiki/Elsevier" title="Elsevier">Elsevier</a> (2007), <i><a href="/wiki/Dorland%27s_Medical_Dictionary" class="mw-redirect" title="Dorland&#39;s Medical Dictionary">Dorland's Illustrated Medical Dictionary</a></i> (31st ed.), <a href="/wiki/Philadelphia" title="Philadelphia">Philadelphia</a>: Elsevier, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4160-2364-7" title="Special:BookSources/978-1-4160-2364-7"><bdi>978-1-4160-2364-7</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Dorland%27s+Illustrated+Medical+Dictionary&amp;rft.place=Philadelphia&amp;rft.edition=31st&amp;rft.pub=Elsevier&amp;rft.date=2007&amp;rft.isbn=978-1-4160-2364-7&amp;rft.au=Elsevier&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-M-W_C_11-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-M-W_C_11_25-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFMerriam-Webster2003" class="citation"><a href="/wiki/Merriam-Webster" title="Merriam-Webster">Merriam-Webster</a> (2003), <a rel="nofollow" class="external text" href="https://archive.org/details/merriamwebstersc00merr_6"><i>Merriam-Webster's Collegiate Dictionary</i></a> (11th ed.), Springfield, Massachusetts, USA: Merriam-Webster, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-87779-809-5" title="Special:BookSources/978-0-87779-809-5"><bdi>978-0-87779-809-5</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Merriam-Webster%27s+Collegiate+Dictionary&amp;rft.place=Springfield%2C+Massachusetts%2C+USA&amp;rft.edition=11th&amp;rft.pub=Merriam-Webster&amp;rft.date=2003&amp;rft.isbn=978-0-87779-809-5&amp;rft.au=Merriam-Webster&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fmerriamwebstersc00merr_6&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEponym" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Eponym&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/eponym" class="extiw" title="wiktionary:eponym">eponym</a></b></i> in Wiktionary, the free dictionary.</td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Eponyms" class="extiw" title="commons:Category:Eponyms">Eponyms</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://www.fun-with-words.com/nym_words.html">Definitions of -nym words</a>, at Fun-with-Words.com</li>
+<li><a rel="nofollow" class="external text" href="http://www.whonamedit.com">WhoNamedIt.com</a>, a database of medical eponyms</li>
+<li><a rel="nofollow" class="external text" href="https://www.bbc.com/ideas/playlists/eponyms-explored"><i>Eponyms explored</i>, BBC ideas, 2019</a></li></ul>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q204335&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q204335&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q204335" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4152557-7">4152557-7</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
+<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Surname</a>
+<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
+<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
+<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
+<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
+<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
+<li><a class="mw-selflink selflink">Eponymic</a></li>
+<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
+<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
+<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
+<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
+<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
+<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
+<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
+<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
+<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
+<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
+<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
+<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
+<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
+<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
+<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
+<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
+<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
+<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
+<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
+<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
+<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
+<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
+<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
+<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
+<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
+<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
+<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
+<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
+<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
+<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
+<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
+<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
+<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
+<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
+<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
+<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
+<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
+<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
+<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
+<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
+<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
+<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
+<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
+<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
+<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
+<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
+<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
+<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
+<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
+<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
+<li><a href="/wiki/English_name" title="English name">English</a></li>
+<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
+<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
+<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
+<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
+<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
+<li><a href="/wiki/French_name" title="French name">French</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
+<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
+<li><a href="/wiki/German_name" title="German name">German</a></li>
+<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
+<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
+<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
+<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
+<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
+<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
+<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
+<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
+<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
+<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
+<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
+<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
+<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
+<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
+<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
+<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
+<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
+<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
+<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
+<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
+<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
+<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
+<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
+<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
+<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
+<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
+<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
+<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
+<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
+<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
+<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
+<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
+<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
+<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
+<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
+<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
+<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
+<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
+<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
+<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
+<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
+<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
+<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
+<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
+<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
+<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
+<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
+<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
+<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
+<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
+<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
+<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
+<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
+<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
+<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
+<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
+<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
+<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
+<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
+<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
+<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
+<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
+<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
+<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
+<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
+<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
+<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award_or_decoration" title="Award or decoration">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
+<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
+<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
+<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
+<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
+<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
+<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
+<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
+<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
+<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
+<li><a href="/wiki/Name_day" title="Name day">Name day</a>
+<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
+<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
+<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
+<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
+<li><a href="/wiki/Family" title="Family">Family</a></li>
+<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
+<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
+<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
+<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
+<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
+<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
+<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
+<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
+<li><a href="/wiki/Signature" title="Signature">Signature</a>
+<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
+<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
+<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
+<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1293
+Cached time: 20190928120329
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.564 seconds
+Real time usage: 0.747 seconds
+Preprocessor visited node count: 2118/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 78480/2097152 bytes
+Template argument size: 1140/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 74686/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.241/10.000 seconds
+Lua memory usage: 5.9 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  612.538      1 -total
+ 42.32%  259.196      1 Template:Reflist
+ 16.94%  103.786      9 Template:Cite_web
+  8.46%   51.792      1 Template:Short_description
+  8.15%   49.947      1 Template:Citation_needed
+  8.06%   49.348      2 Template:Cite_journal
+  7.79%   47.743      1 Template:Pagetype
+  6.85%   41.934      1 Template:Fix
+  6.80%   41.666      1 Template:Authority_control
+  6.57%   40.264      1 Template:Commons_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:45811-0!canonical and timestamp 20190928120329 and revision id 916975947
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Eponym&amp;oldid=916975947">https://en.wikipedia.org/w/index.php?title=Eponym&amp;oldid=916975947</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Eponyms" title="Category:Eponyms">Eponyms</a></li><li><a href="/wiki/Category:Figures_of_speech" title="Category:Figures of speech">Figures of speech</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_maint:_uses_authors_parameter" title="Category:CS1 maint: uses authors parameter">CS1 maint: uses authors parameter</a></li><li><a href="/wiki/Category:CS1_maint:_extra_text:_authors_list" title="Category:CS1 maint: extra text: authors list">CS1 maint: extra text: authors list</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2012" title="Category:Articles with unsourced statements from August 2012">Articles with unsourced statements from August 2012</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Eponym" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Eponym" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Eponym" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Eponym" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Eponym">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Eponym&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Eponym&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Eponym" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Eponym" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Eponym&amp;oldid=916975947" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Eponym&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q204335" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Eponym&amp;id=916975947" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Eponyms" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Eponym">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Eponym&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Eponym&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Eponiem" title="Eponiem – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D9%85%D8%A7%D8%A9" title="مسماة – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Ep%C3%B3nimu" title="Epónimu – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Mi%C3%A2-go%C3%A2n" title="Miâ-goân – Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%AD%D0%BF%D0%B0%D0%BD%D1%96%D0%BC" title="Эпанім – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%95%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC" title="Епоним – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Ep%C3%B2nim" title="Epònim – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cv"><a href="https://cv.wikipedia.org/wiki/%D0%AD%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC" title="Эпоним – Chuvash" lang="cv" hreflang="cv" class="interlanguage-link-target">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Eponym" title="Eponym – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Eponym" title="Eponym – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Eponym_(Sprachwissenschaft)" title="Eponym (Sprachwissenschaft) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Epon%C3%BC%C3%BCm" title="Eponüüm – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ep%C3%B3nimo" title="Epónimo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Eponimo" title="Eponimo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Eponimo" title="Eponimo – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%D8%A7%D9%85%E2%80%8C%D8%A8%D8%AE%D8%B4" title="نام‌بخش – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/%C3%89ponymie" title="Éponymie – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Ep%C3%B3nimo" title="Epónimo – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Eponim" title="Eponim – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Eponimo" title="Eponimo – Ido" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Eponim" title="Eponim – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Eponimo" title="Eponimo – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%A4%D7%95%D7%A0%D7%99%D7%9D" title="אפונים – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Eponymus" title="Eponymus – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Epon%C4%ABms" title="Eponīms – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%95%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC" title="Епоним – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Eponim" title="Eponim – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Eponiem" title="Eponiem – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9D%E3%83%8B%E3%83%A0" title="エポニム – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Eponym" title="Eponym – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Eponym" title="Eponym – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Eponim" title="Eponim – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ep%C3%B3nimo" title="Epónimo – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Eponim" title="Eponim – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%AD%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC" title="Эпоним – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Eponym" title="Eponym – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Eponym" title="Eponym – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Eponim" title="Eponim – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%95%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC" title="Епоним – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Eponim" title="Eponim – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Eponyymi" title="Eponyymi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Eponym" title="Eponym – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Eponim" title="Eponim – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%95%D0%BF%D0%BE%D0%BD%D1%96%D0%BC" title="Епонім – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Eponym" title="Eponym – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q204335#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 21 September 2019, at 17:12<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Eponym&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.564","walltime":"0.747","ppvisitednodes":{"value":2118,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":78480,"limit":2097152},"templateargumentsize":{"value":1140,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":74686,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  612.538      1 -total"," 42.32%  259.196      1 Template:Reflist"," 16.94%  103.786      9 Template:Cite_web","  8.46%   51.792      1 Template:Short_description","  8.15%   49.947      1 Template:Citation_needed","  8.06%   49.348      2 Template:Cite_journal","  7.79%   47.743      1 Template:Pagetype","  6.85%   41.934      1 Template:Fix","  6.80%   41.666      1 Template:Authority_control","  6.57%   40.264      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.241","limit":"10.000"},"limitreport-memusage":{"value":6184057,"limit":52428800}},"cachereport":{"origin":"mw1293","timestamp":"20190928120329","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Eponym","url":"https:\/\/en.wikipedia.org\/wiki\/Eponym","sameAs":"http:\/\/www.wikidata.org\/entity\/Q204335","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q204335","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-03-24T15:34:39Z","dateModified":"2019-09-21T17:12:17Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/47\/Orion_Head_to_Toe.jpg","headline":"either an item which provides a name-source, or an item which acts as a name-recipient"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1319"});});</script>
+</body>
+</html>
+

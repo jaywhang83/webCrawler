@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Nickname - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Nickname","wgTitle":"Nickname","wgCurRevisionId":915438216,"wgRevisionId":915438216,"wgArticleId":53430,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles needing additional references from February 2009","All articles needing additional references","Articles needing additional references from June 2017","All articles with unsourced statements","Articles with unsourced statements from October 2009","Commons category link is on Wikidata","Nicknames","Student culture"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August",
+"September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nickname","wgRelevantArticleId":53430,"wgRequestId":"XYrQpwpAMEwAAGMHLGAAAADA","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q49614","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready",
+"site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Nickname"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nickname&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Nickname&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Nickname"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Nickname rootpage-Nickname skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Nickname</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">"Short name" redirects here. For the term as it applies to legislation, see <a href="/wiki/Short_title" class="mw-redirect" title="Short title">short title</a>.</div>
+<div role="note" class="hatnote navigation-not-searchable">"Moniker" redirects here. For the hobo graffiti, see <a href="/wiki/Moniker_(graffiti)" title="Moniker (graffiti)">Moniker (graffiti)</a>. For the board game, see <a href="/wiki/Celebrity_(game)" title="Celebrity (game)">Celebrity (game)</a>.</div>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Nickname&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Nickname%22">"Nickname"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Nickname%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Nickname%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Nickname%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Nickname%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Nickname%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">February 2009</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="box-Refexample plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Ambox_important.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>gives <a href="/wiki/Template:Refexample#Self-sourcing_examples" title="Template:Refexample">self-sourcing popular culture examples</a> without describing their significance in the context of the article.</b><span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Nickname&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a> that describe the examples' significance, and by removing less pertinent examples. <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">Unsourced</a> or poorly sourced material may be challenged or removed.</span>  <small class="date-container"><i>(<span class="date">June 2017</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table><p>A <b>nickname</b> is a substitute for the proper name of a familiar person, place or thing. Commonly used to express affection, it is a form of endearment and amusement. As a concept, it is distinct from both <a href="/wiki/Pseudonym" title="Pseudonym">pseudonym</a> and <a href="/wiki/Stage_name" title="Stage name">stage name</a>, and also from a title (for example, City of Fountains), although there may be overlap in these concepts. The term '<a href="/wiki/Hypocoristic" class="mw-redirect" title="Hypocoristic">hypocoristic</a>' refers to a nickname of affection between those in love or with a close emotional bond.
+</p><p>"<b>Moniker</b>" also means a nickname or personal name.<sup id="cite_ref-merriam-webster_1-0" class="reference"><a href="#cite_note-merriam-webster-1">&#91;1&#93;</a></sup>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Conventions_in_various_languages"><span class="tocnumber">2</span> <span class="toctext">Conventions in various languages</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Uses_in_various_societies"><span class="tocnumber">3</span> <span class="toctext">Uses in various societies</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Performing_arts_and_literature"><span class="tocnumber">4</span> <span class="toctext">Performing arts and literature</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Sports"><span class="tocnumber">5</span> <span class="toctext">Sports</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Computing"><span class="tocnumber">6</span> <span class="toctext">Computing</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#People"><span class="tocnumber">7</span> <span class="toctext">People</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Title"><span class="tocnumber">7.1</span> <span class="toctext">Title</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Physical_characteristics,_personality,_or_lifestyle"><span class="tocnumber">7.2</span> <span class="toctext">Physical characteristics, personality, or lifestyle</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Physical_characteristics"><span class="tocnumber">7.2.1</span> <span class="toctext">Physical characteristics</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Personality"><span class="tocnumber">7.2.2</span> <span class="toctext">Personality</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Mental_characteristics"><span class="tocnumber">7.2.3</span> <span class="toctext">Mental characteristics</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Lifestyle"><span class="tocnumber">7.2.4</span> <span class="toctext">Lifestyle</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#Other_quirks"><span class="tocnumber">7.2.5</span> <span class="toctext">Other quirks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-15"><a href="#Abbreviation_or_modification"><span class="tocnumber">7.3</span> <span class="toctext">Abbreviation or modification</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Name_portions"><span class="tocnumber">7.4</span> <span class="toctext">Name portions</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Relationship"><span class="tocnumber">7.5</span> <span class="toctext">Relationship</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Surname"><span class="tocnumber">7.6</span> <span class="toctext">Surname</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Action/incident"><span class="tocnumber">7.7</span> <span class="toctext">Action/incident</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Notable/fictional_character"><span class="tocnumber">7.8</span> <span class="toctext">Notable/fictional character</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Place_of_origin/residence"><span class="tocnumber">7.9</span> <span class="toctext">Place of origin/residence</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Reputation"><span class="tocnumber">7.10</span> <span class="toctext">Reputation</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Affiliation"><span class="tocnumber">7.11</span> <span class="toctext">Affiliation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#Titles_of_geographical_places"><span class="tocnumber">8</span> <span class="toctext">Titles of geographical places</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#Collective_nicknames_of_inhabitants_of_a_geographical_place"><span class="tocnumber">9</span> <span class="toctext">Collective nicknames of inhabitants of a geographical place</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#See_also"><span class="tocnumber">10</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-27"><a href="#References"><span class="tocnumber">11</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-28"><a href="#External_links"><span class="tocnumber">12</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The compound word <i>ekename</i>, literally meaning "additional name", was attested as early as 1303.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> This word was derived from the <a href="/wiki/Old_English" title="Old English">Old English</a> phrase <i>eaca</i> "an increase", related to <i>eacian</i> "to increase".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> By the 15th century, the <a href="/wiki/Rebracketing" title="Rebracketing">misdivision of the syllables</a> of the phrase "an ekename" led to its rephrasing as "a nekename".<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Though the spelling has changed, the pronunciation and meaning of the word have remained relatively stable ever since.
+</p>
+<h2><span class="mw-headline" id="Conventions_in_various_languages">Conventions in various languages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=2" title="Edit section: Conventions in various languages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>To inform an audience or readership of a person's nickname without actually calling them by their nickname, English nicknames are generally represented in quotes between the bearer's first and last names (e.g., <i><a href="/wiki/Dwight_D._Eisenhower" title="Dwight D. Eisenhower">Dwight David "Ike" Eisenhower</a></i>, <i><a href="/wiki/Bubba_Franks" title="Bubba Franks">Daniel Lamont "Bubba" Franks</a></i>, etc.). However, it is also common for the nickname to be identified after a comma following the full real name or later in the body of the text, such as in an obituary (e.g., <i><a href="/wiki/Frankie_Frisch" title="Frankie Frisch">Frankie Frisch, "The Fordham Flash"</a></i>). The middle name is generally eliminated (if there is one), especially in speech. Like English, German uses (German-style) quotation marks between the first and last names (e.g., <i><a href="/wiki/Niki_Lauda" title="Niki Lauda">Andreas Nikolaus „Niki“ Lauda</a></i>). Other languages may use other conventions; for example, Italian writes the nickname after the full name followed by <i>detto</i> 'called' (e.g., <i><a href="/wiki/Salvatore_Schillaci" title="Salvatore Schillaci">Salvatore Schillaci detto Totò</a></i>), in Spanish the nickname is written in formal contexts at the end in quotes following <i>alias</i> (e.g. <i>Alfonso Tostado, alias «el Abulense»</i>), and Slovenian represents nicknames after a dash or hyphen (e.g., <i><a href="/wiki/Franc_Rozman_%E2%80%93_Stane" class="mw-redirect" title="Franc Rozman – Stane">Franc Rozman – Stane</a></i>). The latter may cause confusion because it resembles an English convention sometimes used for <a href="/wiki/Married_and_maiden_names" class="mw-redirect" title="Married and maiden names">married and maiden names</a>.
+</p>
+<h2><span class="mw-headline" id="Uses_in_various_societies">Uses in various societies</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=3" title="Edit section: Uses in various societies">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Viking" class="mw-redirect" title="Viking">Viking</a> societies, many people had <i>heiti</i>, <i>viðrnefni</i>, or <i>kenningarnöfn</i> (Old Norse terms for nicknames) which were used in addition to, or instead of the first name. In some circumstances, the giving of a nickname had a special status in Viking society in that it created a relationship between the name maker and the recipient of the nickname, to the extent that the creation of a nickname also often entailed a formal <a href="/wiki/Ceremony" title="Ceremony">ceremony</a> and an <a href="/wiki/Gift_exchange" class="mw-redirect" title="Gift exchange">exchange of gifts</a> known in Old Norse as <i>nafnfestr</i> ('fastening a name').
+</p><p>Slaves have often used nicknames, so that the master who heard about someone doing something could not identify the slave. In <a href="/wiki/Capoeira" title="Capoeira">capoeira</a>, a Brazilian martial art, the slaves had nicknames to protect them from being caught, as practising capoeira was illegal for decades.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2009)">citation needed</span></a></i>&#93;</sup>
+</p><p>In Anglo-American culture, a nickname is often based on a shortening of a person's proper name. However, in other societies, this may not necessarily be the case. For example: "my nickname is farmer Phil"
+</p><p>In <a href="/wiki/Indian_culture" class="mw-redirect" title="Indian culture">Indian</a> society, for example, generally people have at least one nickname (<i><a href="/wiki/Call_name" class="mw-redirect" title="Call name">call name</a></i> or <i>affection name</i>) and these affection names are generally not related to the person's proper name. Indian nicknames very often are a trivial word or a <i>diminutive</i> (such as <i>Bablu</i>, <i>Dabbu</i>, <i>Banti</i>, <i>Babli</i>, <i>Gudiya</i>, <i>Golu</i>, <i>Sonu</i>, <i>Chhotu</i>, <i>Raju</i>, <i>Adi</i>, <i>Ritu</i>, etc.).
+</p><p>In Hispanic culture, a nickname is used for a term of endearment and family love, for example: "Papi". It is a colloquial term for “daddy” in Spanish, but in many Spanish-speaking cultures, particularly in the Caribbean, it is often used as a general term of affection for any man, whether it's a relative, friend, or love.
+</p><p>In Australian society, Australian men will often give ironic nicknames. For example, a man with <a href="/wiki/Red_hair" title="Red hair">red hair</a> will be given the nickname 'Blue' or 'Bluey'. A tall man will be called 'Shorty', an obese person 'Slim' and so on.
+</p><p>In England, some nicknames are traditionally associated with a person's surname. A man with the surname 'Clark' will be nicknamed 'Nobby': the surname 'Miller' will have the nickname 'Dusty' (alluding to the flour dust of a miller at work): the surname 'Adams' has the nickname 'Nabby'. There are several other nicknames linked traditionally with a person's surname, including Chalky White, Bunny Warren, Tug Wilson, and Spud Baker. Other English nicknames allude to a person's origins. A Scotsman may be nicknamed 'Jock', an Irishman 'Paddy' (alluding to St Patrick, the patron saint of Ireland) or 'Mick' (alluding to the preponderance of Roman Catholicism in Ireland), and a Welshman may be nicknamed 'Taffy'. Some nicknames referred ironically to a person's physical characteristics, such as 'Lofty' for a short person, or 'Curly' for a bald man. Traditional English nicknaming - usually for men rather than women - was common through the first half of the 20th century, and was frequently used in the armed services during World War I and World War II, but has become less common since then.
+</p><p>In Chinese culture, nicknames are frequently used within a community among relatives, friends and neighbors. A typical southern Chinese nickname often begins with a "阿" followed by another character, usually the last character of the person's given name. For example, Taiwanese politician <a href="/wiki/Chen_Shui-bian" title="Chen Shui-bian">Chen Shui-bian</a> (陈水扁) is sometimes referred as "阿扁" (A-Bian). In many Chinese communities of Southeast Asia, nicknames may also connote one's occupation or status. For example, the landlord might be known simply as <i>Towkay</i> (<a href="/wiki/Hokkien" title="Hokkien">Hokkien</a> for "boss") to his tenants or workers while a bread seller would be called "Mianbao Shu" 面包叔 (literally, Uncle Bread). Among <a href="/wiki/Cantonese_language" class="mw-redirect" title="Cantonese language">Cantonese</a>-speaking communities, the character "仔" (pronounced "zai") may be used in a similar context of "Junior" in Western naming practices.
+</p>
+<h2><span class="mw-headline" id="Performing_arts_and_literature">Performing arts and literature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=4" title="Edit section: Performing arts and literature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many writers, performing artists, and actors have nicknames, which may develop into a <a href="/wiki/Stage_name" title="Stage name">stage name</a> or <a href="/wiki/Pseudonym" title="Pseudonym">pseudonym</a>. A <a href="/wiki/Bardic_name" title="Bardic name">bardic name</a> may also result from a nickname. Many writers have pen names which they use instead of their real names. Famous writers with a <a href="/wiki/Pen_name" title="Pen name">pen name</a> go as far back as <a href="/wiki/Plato#Name" title="Plato">Plato</a> (according to a late tradition) and <a href="/wiki/Paul_the_Apostle#Names" title="Paul the Apostle">Paul</a>, and see also this <a href="/wiki/List_of_pen_names" title="List of pen names">List of pen names</a>.
+</p>
+<h2><span class="mw-headline" id="Sports">Sports</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=5" title="Edit section: Sports">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Athletic_nickname" title="Athletic nickname">Athletic nickname</a> and <a href="/wiki/List_of_sportspeople_by_nickname" title="List of sportspeople by nickname">List of sportspeople by nickname</a></div>
+<p>It is not uncommon for sportspeople or a sports team to have nicknames. Some, such as those of sports clubs or athletic teams, are official while others are adopted over time.
+</p>
+<h2><span class="mw-headline" id="Computing">Computing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=6" title="Edit section: Computing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/User_(computing)" title="User (computing)">User (computing)</a></div>
+<p>In the context of information technology, a nickname (usually called a <b>nick</b>) is a common synonym for the <i>screen name</i> or <i>handle</i> of a <a href="/wiki/User_(computing)" title="User (computing)">user</a>. In <a href="/wiki/Computer_network_programming" title="Computer network programming"><b>computer networks</b></a> it has become a common practice for every person to also have one or more nicknames for the purposes of <a href="/wiki/Pseudonymity" title="Pseudonymity">pseudonymity</a>, to avoid <a href="/wiki/Ambiguity" title="Ambiguity">ambiguity</a>, or simply because the natural name or technical <a href="/wiki/IP_address" title="IP address">address</a> would be too long to type or take too much space on the <a href="/wiki/Computer_display" class="mw-redirect" title="Computer display">screen</a>.
+</p>
+<h2><span class="mw-headline" id="People">People</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=7" title="Edit section: People">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:289px;"><a href="/wiki/File:Inauguration_of_Jimmy_Carter.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Inauguration_of_Jimmy_Carter.jpg/287px-Inauguration_of_Jimmy_Carter.jpg" decoding="async" width="287" height="152" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Inauguration_of_Jimmy_Carter.jpg/431px-Inauguration_of_Jimmy_Carter.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Inauguration_of_Jimmy_Carter.jpg/574px-Inauguration_of_Jimmy_Carter.jpg 2x" data-file-width="800" data-file-height="424" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Inauguration_of_Jimmy_Carter.jpg" class="internal" title="Enlarge"></a></div>"I, Jimmy Carter..." <a href="/wiki/Jimmy_Carter" title="Jimmy Carter">James Earl Carter</a> is sworn in as President of the United States using his nickname "Jimmy" in January 1977.</div></div></div>
+<p>Nicknames are usually awarded to a person and they are not always chosen by the recipient themselves. Some nicknames are derogatory <a href="/wiki/Name_calling" title="Name calling">name calls</a>. Note: the majority of the following examples are <a href="/wiki/American_English" title="American English">American English</a> usage. Please see <a href="/wiki/Bullying" title="Bullying">bullying</a> definition.
+Nicknames may be based on a person's name or various attributes. Attributes upon which a nickname may be based include:
+</p>
+<h3><span class="mw-headline" id="Title">Title</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=8" title="Edit section: Title">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Nicknames may refer to a person's occupation, social standing, or title. They may also refer to characteristics of a person.
+</p>
+<ul><li>"<a href="/wiki/Bones_(disambiguation)#Fictional_characters" class="mw-disambig" title="Bones (disambiguation)">Bones</a>" or "Sawbones" for a <a href="/wiki/Temperance_Brennan_(Bones)" class="mw-redirect" title="Temperance Brennan (Bones)">forensic scientist</a>, <a href="/wiki/Leonard_McCoy" title="Leonard McCoy">surgeon</a>, or <a href="/wiki/Mortician" class="mw-redirect" title="Mortician">mortician</a></li>
+<li>"<a href="/wiki/DOC_(disambiguation)#People" class="mw-redirect mw-disambig" title="DOC (disambiguation)">Doc</a>" for a doctor or, in the military, medic.</li>
+<li>"Sparky" for an <a href="/wiki/Electrician" title="Electrician">electrician</a> or <a href="/wiki/Radio_operator" title="Radio operator">radio operator</a></li>
+<li><a href="/wiki/Geek" title="Geek">Geek</a> for a computer technician</li>
+<li>"<a href="/wiki/Sarge_(disambiguation)" class="mw-redirect mw-disambig" title="Sarge (disambiguation)">Sarge</a>" for a military <a href="/wiki/Sergeant" title="Sergeant">Sergeant</a> as in the comic strip <i><a href="/wiki/Beetle_Bailey" title="Beetle Bailey">Beetle Bailey</a></i></li>
+<li>"Lou" for a Lieutenant (for example, a police lieutenant)</li>
+<li>Similarly, "Chief" for a police or fire chief or <a href="/wiki/Chief_petty_officer" title="Chief petty officer">chief petty officer</a></li>
+<li><a href="/wiki/Moneybags" class="mw-redirect" title="Moneybags">Moneybags</a> for a wealthy person.</li></ul>
+<h3><span id="Physical_characteristics.2C_personality.2C_or_lifestyle"></span><span class="mw-headline" id="Physical_characteristics,_personality,_or_lifestyle">Physical characteristics, personality, or lifestyle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=9" title="Edit section: Physical characteristics, personality, or lifestyle">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Physical_characteristics">Physical characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=10" title="Edit section: Physical characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:277px;"><a href="/wiki/File:Weimaraner_wb.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Weimaraner_wb.jpg/275px-Weimaraner_wb.jpg" decoding="async" width="275" height="207" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Weimaraner_wb.jpg/413px-Weimaraner_wb.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/3/32/Weimaraner_wb.jpg 2x" data-file-width="500" data-file-height="376" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Weimaraner_wb.jpg" class="internal" title="Enlarge"></a></div>The <a href="/wiki/Weimaraner" title="Weimaraner">Weimaraner</a>'s coat color led to its nickname of the "Silver Ghost".</div></div></div>
+<p>Nicknames can be a descriptor of a physical characteristic or the opposite of a physical characteristic. In English, such nicknames are often considered offensive or <a href="/wiki/Derogatory" class="mw-redirect" title="Derogatory">derogatory</a>, unless the nickname is based on a trait that is viewed positively.
+Some examples of nicknames related to physical characteristics include:
+</p>
+<ul><li>Weight: "Fatso" or "Slim" for a person who is <a href="/wiki/Overweight" title="Overweight">overweight</a> or thin, respectively.</li>
+<li>Height: "Beanpole" or "Long John" (or other name) for a person who is tall, "Shortie" or "small-fry" for a <a href="/wiki/Short_stature" title="Short stature">short person</a>.</li>
+<li>Hair colour: "Red", "Ginger", "Ranga", or "Bluey" for a person with red hair. "Blondie" a girl with blonde hair.</li>
+<li>Type of hair: "Curley" or "Cue Ball" for a person without hair as in "Curley" from "<a href="/wiki/The_Three_Stooges" title="The Three Stooges">The Three Stooges</a>"</li>
+<li>Baldness: "Chrome dome" for a person whose scalp reflects the light</li>
+<li>Complexion: "Pinky" for a person with <a href="/wiki/Rosacea" title="Rosacea">Rosacea</a>, "Zit" or "pizza-face" for severe <a href="/wiki/Acne" title="Acne">acne</a>, various <a href="/wiki/Racial_slurs" class="mw-redirect" title="Racial slurs">racial slurs</a> for skin color.</li>
+<li>Hand dominance: "Lefty" for a <a href="/wiki/Left-handed" class="mw-redirect" title="Left-handed">left-handed</a> person.</li></ul>
+<p>Sometimes nicknames are based on things that are not a part of a person's body. Such nicknames can be temporary.
+</p>
+<ul><li>"Four-eyes" for a person with <a href="/wiki/Glasses" title="Glasses">glasses</a></li>
+<li>"<a href="/wiki/Rail_tracks" class="mw-redirect" title="Rail tracks">Train tracks</a>", "tin teeth", "metal mouth", or "braceface" for a person with <a href="/wiki/Dental_braces" title="Dental braces">braces</a>, such as Sharon Spitz on the animated series <i><a href="/wiki/Braceface" title="Braceface">Braceface</a></i></li></ul>
+<p>Occasionally the description can be ironically reversed. Thus in schoolboy or army usage "Lofty" may be applied to somebody very short or "Titch" to an unusually tall person.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>All of the above examples would be offensive in most contexts.
+</p>
+<h4><span class="mw-headline" id="Personality">Personality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=11" title="Edit section: Personality">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Nicknames can be a descriptor of a personality characteristic or the opposite of a personality characteristic. These types of nicknames were often used in fairy tales such as "<a href="/wiki/Snow_White" title="Snow White">Snow White</a>". Sometimes such nicknames may be indicative of a physical disorder.
+</p>
+<ul><li>Talkative: "Motormouth", "Chatterbox", "Ratchet-Jaw", "<a href="/wiki/Chatty_Kathy" class="mw-redirect" title="Chatty Kathy">Chatty Kathy</a>"</li>
+<li>Cautious: "Nervous Nellie"</li>
+<li>Tired Demeanor: "Sleepy" as in a dwarf from <a href="/wiki/Snow_White" title="Snow White">Snow White</a></li>
+<li>Pessimistic: "Sad Sack"</li>
+<li>Negative: "Debbie Downer"</li>
+<li>Glamorous: "Stunning Sign"</li>
+<li>Boring: "Plain Jane"</li>
+<li>Typical: "Average Joe"</li>
+<li>Strong-willed: "<a href="/wiki/The_Iron_Lady" class="mw-redirect" title="The Iron Lady">The Iron Lady</a>"</li>
+<li>Successful: "<a href="/wiki/Superstar" title="Superstar">Superstar</a>"</li></ul>
+<h4><span class="mw-headline" id="Mental_characteristics">Mental characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=12" title="Edit section: Mental characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A nickname may allude to a person's apparent <a href="/wiki/Intelligence" title="Intelligence">intelligence</a> (though often used sarcastically):
+</p>
+<ul><li>Encyclopedia, as in <a href="/wiki/Donald_Sobol" class="mw-redirect" title="Donald Sobol">Donald Sobol</a>'s fictional child detective <a href="/wiki/Encyclopedia_Brown" title="Encyclopedia Brown">Leroy "Encyclopedia" Brown</a></li>
+<li><a href="/wiki/Einstein" class="mw-redirect" title="Einstein">Einstein</a>, referring to the famous physicist.</li>
+<li>Sherlock, in reference to <a href="/wiki/Arthur_Conan_Doyle" title="Arthur Conan Doyle">A. C. Doyle</a>'s <a href="/wiki/Sherlock_Holmes" title="Sherlock Holmes">Sherlock Holmes</a>.</li>
+<li><a href="/wiki/Brainiac_(character)" title="Brainiac (character)">Brainiac</a>, as in the fictional <a href="/wiki/DC_Comics" title="DC Comics">DC Comics</a> character.</li></ul>
+<h4><span class="mw-headline" id="Lifestyle">Lifestyle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=13" title="Edit section: Lifestyle">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>Promiscuity: "Hot Lips" as in the character "<a href="/wiki/Margaret_Houlihan" class="mw-redirect" title="Margaret Houlihan">Margaret Houlihan</a>" from the <i><a href="/wiki/M*A*S*H" title="M*A*S*H">M*A*S*H</a></i> media franchise.</li></ul>
+<div class="thumb tright"><div class="thumbinner" style="width:277px;"><a href="/wiki/File:Mallon-Mary_01.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mallon-Mary_01.jpg/275px-Mallon-Mary_01.jpg" decoding="async" width="275" height="217" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mallon-Mary_01.jpg/413px-Mallon-Mary_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mallon-Mary_01.jpg/550px-Mallon-Mary_01.jpg 2x" data-file-width="2843" data-file-height="2248" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Mallon-Mary_01.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Mary_Mallon" title="Mary Mallon">Mary Mallon</a> (1870–1938) was nicknamed "Typhoid Mary"</div></div></div>
+<h4><span class="mw-headline" id="Other_quirks">Other quirks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=14" title="Edit section: Other quirks">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>"<a href="/wiki/Nerd" title="Nerd">Nerd</a>" for a person who is smart</li>
+<li>"<a href="/wiki/Geek" title="Geek">Geek</a>" for a person who is internet and online savvy</li></ul>
+<h3><span class="mw-headline" id="Abbreviation_or_modification">Abbreviation or modification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=15" title="Edit section: Abbreviation or modification">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A nickname can be a <a href="/wiki/Abbreviation" title="Abbreviation">shortened</a> or modified variation on a person's real name.
+</p>
+<ul><li><a href="/wiki/Contraction_(grammar)" title="Contraction (grammar)">Contractions</a> of longer names: Margaret to <a href="/wiki/Greta_(disambiguation)" class="mw-redirect mw-disambig" title="Greta (disambiguation)">Greta</a>.</li>
+<li><a href="/wiki/Initials" class="mw-redirect" title="Initials">Initials</a>: Using the first letters of a person's first and middle/last name, e.g. "DJ" for Daniel James</li>
+<li>Dropping letters: With many nicknames, one or more letters, usually R, are dropped: <a href="/wiki/Fanny_(given_name)" class="mw-redirect" title="Fanny (given name)">Fanny</a> from Frances, <a href="/wiki/Walt" title="Walt">Walt</a> from Walter.</li>
+<li>Phonetic spelling&#160;: Sometimes a nickname is created through the phonetic spelling of a name: Len from Leonard.</li>
+<li>Letter swapping: During the <a href="/wiki/Middle_ages" class="mw-redirect" title="Middle ages">middle ages</a>, the letter R would often be swapped for either L or D: <a href="/wiki/Hal_(disambiguation)" class="mw-redirect mw-disambig" title="Hal (disambiguation)">Hal</a> from Harry, <a href="/wiki/Molly_(name)" title="Molly (name)">Molly</a> from Mary, <a href="/wiki/Sadie_(disambiguation)" class="mw-redirect mw-disambig" title="Sadie (disambiguation)">Sadie</a> from Sarah, from <a href="/wiki/Robert" title="Robert">Robert</a>: Hob, Dob, Rob, Bob and Nob, from <a href="/wiki/Richard" title="Richard">Richard</a>: Rick, Dick, and Hick; Bill from <a href="/wiki/William_(name)" class="mw-redirect" title="William (name)">Will</a> (which in turn comes from William), and Margaret: Peg, and Meg.</li>
+<li>In 19th-century frontier America, Mary and Molly were often given the nickname <a href="/wiki/Polly" title="Polly">Polly</a>.</li></ul>
+<h3><span class="mw-headline" id="Name_portions">Name portions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=16" title="Edit section: Name portions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Front of name: Sometimes a nickname can come from the beginning of a given name: <a href="/wiki/Chris" title="Chris">Chris</a> from Christopher/Christina; <a href="/wiki/Ed_(disambiguation)#Ed_(or_ED)_as_a_name" class="mw-redirect mw-disambig" title="Ed (disambiguation)">Ed</a> from Edward, Edmond, Edgar or Edwin, <a href="/wiki/IZ_(disambiguation)" class="mw-redirect mw-disambig" title="IZ (disambiguation)">Iz</a> or Izzy from Isaac, Isaiah, Isidore, Isabel, or Isabella; <a href="/wiki/Joe_(disambiguation)" class="mw-redirect mw-disambig" title="Joe (disambiguation)">Joe</a> or Jo from Joseph, Josephine, or Joanna.</li>
+<li>End of name: Drew from Andrew, Xander from Alexander, Enzo or Renzo from Lorenzo, Beth from Elizabeth, Bel, Bell, Bella or Belle from Isabelle/Isabella</li>
+<li>Middle of name: Liz from Elizabeth, Tori from Victoria or Del or Della from Adelaide</li>
+<li>Addition of diminutives: Before the 17th century, most nicknames had the diminutive ending "-in" or "-kin", where the ending was attached to the first syllable: Watkin for Walter via Wat-kin;  Hobkin from Robert via Hob-kin; or Thompkin from Thomas via Thom-Kin. While most of these have died away, a few remain, such as <a href="/wiki/Robin_(name)" title="Robin (name)">Robin</a> (Rob-in, from Robert), Hank (Hen-Kin from <a href="/wiki/Henry_(given_name)" title="Henry (given name)">Henry</a>), <a href="/wiki/Jack_(disambiguation)" class="mw-redirect mw-disambig" title="Jack (disambiguation)">Jack</a> (Jan-kin from John), and <a href="/wiki/Colin_(given_name)" title="Colin (given name)">Colin</a> (Col-in from Nicolas).</li>
+<li>Many nicknames drop the final one or two letters and add ether ie/ee/y as a diminutive ending: Davy from David, Charlie from Charles, Mikey from Michael, Jimmy from James and Marty from Martin.</li>
+<li><a href="/wiki/Acronym_and_initialism" class="mw-redirect" title="Acronym and initialism">Initialization</a>, which forms a nickname from a person's initials: <a href="/wiki/A.C._Slater" class="mw-redirect" title="A.C. Slater">A.C. Slater</a> from Albert Clifford Slater, or Dubya for <a href="/wiki/George_W._Bush" title="George W. Bush">George W. Bush</a>, a Texan pronunciation of the name of the letter 'W', President Bush's middle initial.</li>
+<li>Nicknames are sometimes based on a person's last name ("Tommo" for Bill Thompson, "Campo" for <a href="/wiki/David_Campese" title="David Campese">David Campese</a>) or a combination of first and last name such as "A-Rod" for <a href="/wiki/Alex_Rodriguez" title="Alex Rodriguez">Alex Rodriguez</a>)</li>
+<li>Loose ties to a person's name with an attached suffix: Gazza for English footballer <a href="/wiki/Paul_Gascoigne" title="Paul Gascoigne">Paul Gascoigne</a> (though used more widely in Australia for <a href="/wiki/Gary_(given_name)" title="Gary (given name)">Gary</a>) and similar "zza" forms (<a href="/wiki/Michael_Heseltine" title="Michael Heseltine">Hezza</a>, <a href="/wiki/John_Prescott" title="John Prescott">Prezza</a>, etc.) for other prominent personalities whose activities are frequently reported in the British press. (See also <a href="/wiki/Oxford_%22-er%22" title="Oxford &quot;-er&quot;">Oxford "-er"</a> for a similar but wider phenomenon.)</li>
+<li>Use of the <a href="/wiki/Second_name" class="mw-redirect" title="Second name">second name</a>.</li>
+<li>Combination of first and middle name, or variations of a person's first and middle name. For example, a person may have the name Mary Elizabeth but has the nickname "Maz" or "Miz" by combining Mary and Liz.</li></ul>
+<h3><span class="mw-headline" id="Relationship">Relationship</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=17" title="Edit section: Relationship">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A nickname may refer to the relationship with the person. This is a <a href="/wiki/Term_of_endearment" title="Term of endearment">term of endearment</a>.
+</p>
+<ul><li>In <a href="/wiki/Japanese_culture" class="mw-redirect" title="Japanese culture">Japanese culture</a>, <a href="/wiki/Japanese_honorifics" title="Japanese honorifics">Japanese honorifics</a> are designed so that a term of endearment conveys the exact status of the relationship between two people. However, the recipient of the honorific is allowed to restrict the use when used by a certain person.</li></ul>
+<h3><span class="mw-headline" id="Surname">Surname</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=18" title="Edit section: Surname">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A few surnames have a generic and traditional nickname, at least in England. Examples of this are:
+</p>
+<ul><li><a href="/wiki/Nobby" title="Nobby">Nobby</a>  for Clark or Clarke</li>
+<li>Dusty for Miller</li>
+<li>Chalkie for White</li>
+<li>Bunny for Reed</li>
+<li>Yosser for Hughes</li>
+<li>Smudger for Smith</li></ul>
+<p>To avoid confusion between peer groups with the same given names, surnames may be used as a nickname. Also common prefixes for names can be used as a nickname:
+</p>
+<ul><li>Mac for someone with the name Macmillan, MacIntyre, McCarthy, M'Clure, etc.</li>
+<li>Fitz for someone with the name Fitzgerald, FitzPatrick, etc.</li></ul>
+<p>And other variations on the surname, such as:
+</p>
+<ul><li>Brownie for someone with the name Brown</li>
+<li>Jeff for someone with the name Geoffrey, Jeffry, Jeffrys, etc.</li>
+<li>Klu (or Ski) for someone with the name Kluszewski</li>
+<li>Smittie (or Smitty) for someone with the name Smith, Smythe, Goldsmith, etc.</li></ul>
+<h3><span id="Action.2Fincident"></span><span class="mw-headline" id="Action/incident">Action/incident</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=19" title="Edit section: Action/incident">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A specific incident or action can sometimes generate a nickname:
+</p>
+<ul><li><a href="/wiki/Capability_Brown" title="Capability Brown">Capability Brown</a> because he would frequently say to a client that his landscape was "capable of improvement".</li>
+<li><a href="/wiki/Ali_Hassan_al-Majid" title="Ali Hassan al-Majid">Chemical Ali</a> and <a href="/wiki/Muhammad_Saeed_al-Sahhaf" title="Muhammad Saeed al-Sahhaf">Comical Ali</a>.</li>
+<li><a href="/wiki/Thirteen_(House)" title="Thirteen (House)">Thirteen</a> for Dr. Remy Hadley from TV's <i><a href="/wiki/House_(TV_series)" title="House (TV series)">House M.D.</a></i>, because she was assigned the number 13 in her job interview process and continued to be called by her number even after she was hired.</li>
+<li>"Opa" for the Dutch lifesaving <a href="/wiki/Koninklijke_Nederlandse_Redding_Maatschappij" class="mw-redirect" title="Koninklijke Nederlandse Redding Maatschappij">KNRM</a>-<a href="/wiki/Folk_hero" title="Folk hero">hero</a> <a href="/wiki/Dorus_Rijkers" title="Dorus Rijkers">Dorus Rijkers</a>. Dorus became a <a href="/wiki/Grandfather" class="mw-redirect" title="Grandfather">Grandpa</a> (Dutch:<i>Opa</i>), at the age of 23 (by marriage to a widow with eight children), and soon everybody called him <i>Opa</i>.</li>
+<li>"<a href="/wiki/The_Falling_Man" title="The Falling Man">The Falling Man</a>" for one of the jumpers during the September 11, 2001 World Trade Center terrorist attacks.</li></ul>
+<h3><span id="Notable.2Ffictional_character"></span><span class="mw-headline" id="Notable/fictional_character">Notable/fictional character</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=20" title="Edit section: Notable/fictional character">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A nickname may compare the person with a famous or fictional character.
+</p>
+<ul><li><a href="/wiki/Napoleon" title="Napoleon">Napoleon</a> or <a href="/wiki/Adolf_Hitler" title="Adolf Hitler">Hitler</a> for someone with a <a href="/wiki/Dictatorial" class="mw-redirect" title="Dictatorial">dictatorial</a> manner.</li>
+<li><a href="/wiki/Pollyanna" title="Pollyanna">Pollyanna</a> for someone with a very <a href="/wiki/Optimistic" class="mw-redirect" title="Optimistic">optimistic</a> view of things.</li>
+<li>Hawkeye from the novel <i><a href="/wiki/The_Last_of_the_Mohicans" title="The Last of the Mohicans">The Last of the Mohicans</a></i>, as in <a href="/wiki/Hawkeye_Pierce" class="mw-redirect" title="Hawkeye Pierce">Hawkeye Pierce</a>, from <i><a href="/wiki/M*A*S*H" title="M*A*S*H">M*A*S*H</a></i>, the media franchise</li></ul>
+<h3><span id="Place_of_origin.2Fresidence"></span><span class="mw-headline" id="Place_of_origin/residence">Place of origin/residence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=21" title="Edit section: Place of origin/residence">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Sometimes, a nickname may be related to their <a href="/wiki/Place_of_origin" title="Place of origin">place of origin</a> or <a href="/wiki/Home" title="Home">residence</a>.
+</p>
+<ul><li>Gloucester, Paul from Gloucester or PFG for someone named Paul who comes from <a href="/wiki/Gloucester" title="Gloucester">Gloucester</a>.</li>
+<li>Newf or Newfie a person from <a href="/wiki/Newfoundland,_Canada" class="mw-redirect" title="Newfoundland, Canada">Newfoundland</a>, Canada</li></ul>
+<h3><span class="mw-headline" id="Reputation">Reputation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=22" title="Edit section: Reputation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Nicknames may be derived from or related to what the person is well known for.
+</p>
+<ul><li>The Duke for <a href="/wiki/John_Wayne" title="John Wayne">John Wayne</a></li>
+<li>The Angel of Death for <a href="/wiki/Josef_Mengele" title="Josef Mengele">Josef Mengele</a></li>
+<li>The Hangman, The Blonde Beast for <a href="/wiki/Reinhard_Heydrich" title="Reinhard Heydrich">Reinhard Heydrich</a></li>
+<li>Tippecanoe for <a href="/wiki/William_Henry_Harrison" title="William Henry Harrison">William Henry Harrison</a> referring to the <a href="/wiki/Battle_of_Tippecanoe" title="Battle of Tippecanoe">Battle of Tippecanoe</a></li></ul>
+<h3><span class="mw-headline" id="Affiliation">Affiliation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=23" title="Edit section: Affiliation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A person's <a href="/wiki/Political_affiliation" class="mw-redirect" title="Political affiliation">political affiliation</a> may be the basis for a nickname:
+</p>
+<ul><li>Dipper for a member of Canada's <a href="/wiki/New_Democratic_Party_(Canada)" class="mw-redirect" title="New Democratic Party (Canada)">New Democratic Party</a></li>
+<li><a href="/wiki/Tory" title="Tory">Tory</a> for a person affiliated with the <a href="/wiki/Conservative_Party_(UK)" title="Conservative Party (UK)">United Kingdom</a>'s or Canada's <a href="/wiki/Canadian_conservatism" class="mw-redirect" title="Canadian conservatism">Conservative</a> Party</li>
+<li>Grit for a member of Canada's <a href="/wiki/Liberal_Party_of_Canada" title="Liberal Party of Canada">Liberal Party</a></li>
+<li>Greenie for a member of the <a href="/wiki/Australian_Greens" title="Australian Greens">Australian Greens</a> Party</li></ul>
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/wiki/File:Hirakata_Nickname_road_Ginkgo_street.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hirakata_Nickname_road_Ginkgo_street.jpg/300px-Hirakata_Nickname_road_Ginkgo_street.jpg" decoding="async" width="300" height="225" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hirakata_Nickname_road_Ginkgo_street.jpg/450px-Hirakata_Nickname_road_Ginkgo_street.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Hirakata_Nickname_road_Ginkgo_street.jpg/600px-Hirakata_Nickname_road_Ginkgo_street.jpg 2x" data-file-width="2272" data-file-height="1704" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Hirakata_Nickname_road_Ginkgo_street.jpg" class="internal" title="Enlarge"></a></div>Hirakata-shi, Osaka, Japan. Nickname road "<a href="/wiki/Ginkgo" title="Ginkgo">Ginkgo</a> street"</div></div></div>
+<h2><span class="mw-headline" id="Titles_of_geographical_places">Titles of geographical places</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=24" title="Edit section: Titles of geographical places">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many geographical places have titles, or alternative names, which have positive implications. Paris, for example, is the "City of Light", Venice is "La Serenissima", and New Jersey is the "Garden State". It is not correct to call these titles nicknames; these alternative names are often used to boost the status of such places, contrary to the usual role of a nickname.
+Many places or communities, particularly in the USA, adopt titles because they can help in establishing a civic identity, help outsiders recognize a community or attract people to a community, promote civic pride, and build community unity.<sup id="cite_ref-Wisconsin_6-0" class="reference"><a href="#cite_note-Wisconsin-6">&#91;6&#93;</a></sup> Titles and slogans that successfully create a new community "ideology or myth"<sup id="cite_ref-Branding_7-0" class="reference"><a href="#cite_note-Branding-7">&#91;7&#93;</a></sup> are also believed to have economic value.<sup id="cite_ref-Wisconsin_6-1" class="reference"><a href="#cite_note-Wisconsin-6">&#91;6&#93;</a></sup> Their economic value is difficult to measure,<sup id="cite_ref-Wisconsin_6-2" class="reference"><a href="#cite_note-Wisconsin-6">&#91;6&#93;</a></sup> but there are anecdotal reports of cities that have achieved substantial economic benefits by "branding" themselves by adopting new slogans.<sup id="cite_ref-Branding_7-1" class="reference"><a href="#cite_note-Branding-7">&#91;7&#93;</a></sup>
+</p><p>By contrast, older city nicknames may be critical: <a href="/wiki/London" title="London">London</a> is still occasionally referred to as "The Smoke" in memory of its notorious "pea-souper" <a href="/wiki/Smog" title="Smog">smogs</a> (smoke-filled fogs) of the 19th and early 20th centuries, and <a href="/wiki/Edinburgh" title="Edinburgh">Edinburgh</a> was "Auld Reekie" for the same reason, as countless coal fires polluted its atmosphere.
+</p>
+<h2><span class="mw-headline" id="Collective_nicknames_of_inhabitants_of_a_geographical_place">Collective nicknames of inhabitants of a geographical place</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=25" title="Edit section: Collective nicknames of inhabitants of a geographical place">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Besides or replacing the <a href="/wiki/Demonym" title="Demonym">demonym</a>, some places have collective nicknames for their inhabitants. Many examples of this practice are found in <a href="/wiki/Wallonia" title="Wallonia">Wallonia</a> and in Belgium in general, where such a nickname is referred to in French as "<a href="/wiki/Blason_populaire" title="Blason populaire">Blason populaire</a>".
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=26" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em;">
+<ul><li><a href="/wiki/Antonomasia" title="Antonomasia">Antonomasia</a></li>
+<li><a href="/wiki/Athletic_nickname" title="Athletic nickname">Athletic nickname</a></li>
+<li><a href="/wiki/Australian_national_sports_team_nicknames" title="Australian national sports team nicknames">Australian national sports team nicknames</a></li>
+<li><a href="https://en.wiktionary.org/wiki/calling_name" class="extiw" title="wikt:calling name">Calling name</a></li>
+<li><a href="/wiki/Category:Nicknames" title="Category:Nicknames">Category:Nicknames</a></li>
+<li><a href="/wiki/Epithet" title="Epithet">Epithet</a></li>
+<li><a href="/wiki/Honorific_nicknames_in_popular_music" title="Honorific nicknames in popular music">Honorific nicknames in popular music</a></li>
+<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a></li>
+<li><a href="/wiki/List_of_basketball_nicknames" class="mw-redirect" title="List of basketball nicknames">List of basketball nicknames</a></li>
+<li><a href="/wiki/List_of_ethnic_slurs_by_ethnicity" title="List of ethnic slurs by ethnicity">List of ethnic slurs by ethnicity</a></li>
+<li><a href="/wiki/List_of_monarchs_by_nickname" title="List of monarchs by nickname">List of monarchs by nickname</a></li>
+<li><a href="/wiki/List_of_nicknames_of_European_Royalty_and_Nobility" class="mw-redirect" title="List of nicknames of European Royalty and Nobility">List of nicknames of European Royalty and Nobility</a></li>
+<li><a href="/wiki/List_of_nicknames_of_jazz_musicians" title="List of nicknames of jazz musicians">List of nicknames of jazz musicians</a></li>
+<li><a href="/wiki/Category:Lists_of_people_by_nickname" title="Category:Lists of people by nickname">Category:Lists of people by nickname</a></li>
+<li><a href="/wiki/List_of_nicknames_of_United_States_presidents" class="mw-redirect" title="List of nicknames of United States presidents">List of nicknames of United States presidents</a></li>
+<li><a href="/wiki/List_of_North_American_football_nicknames" title="List of North American football nicknames">List of North American football nicknames</a></li>
+<li><a href="/wiki/List_of_sportspeople_by_nickname" title="List of sportspeople by nickname">List of sportspeople by nickname</a></li>
+<li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">Lists of nicknames</a> – nickname list articles on Wikipedia</li>
+<li><a href="/wiki/Lists_of_nicknames_in_association_football" title="Lists of nicknames in association football">Lists of nicknames in association football</a></li>
+<li><a href="/wiki/Pet_name" class="mw-redirect" title="Pet name">Pet name</a></li>
+<li><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonym</a></li>
+<li><a href="/wiki/Regimental_nicknames_of_the_Canadian_Forces" title="Regimental nicknames of the Canadian Forces">Regimental nicknames of the Canadian Forces</a></li>
+<li><a href="/wiki/Category:Regional_nicknames" title="Category:Regional nicknames">Category:Regional nicknames</a></li>
+<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
+<li><a href="/wiki/Synecdoche" title="Synecdoche">Synecdoche</a></li>
+<li><a href="/wiki/Terms_of_endearment" class="mw-redirect" title="Terms of endearment">Terms of endearment</a></li>
+<li><a href="/wiki/Victory_titles" class="mw-redirect" title="Victory titles">Victory titles</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=27" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-merriam-webster-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-merriam-webster_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.merriam-webster.com/dictionary/moniker">"dictionary"</a>. <i>merriam-webster</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=merriam-webster&amp;rft.atitle=dictionary&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fmoniker&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANickname" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.oed.com/view/Entry/60061">"eke-name, n."</a>, <i>OED Online</i>, Oxford University Press, June 2017<span class="reference-accessdate">, retrieved <span class="nowrap">1 September</span> 2017</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=OED+Online&amp;rft.atitle=eke-name%2C+n.&amp;rft.date=2017-06&amp;rft_id=http%3A%2F%2Fwww.oed.com%2Fview%2FEntry%2F60061&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANickname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFHarper" class="citation">Harper, Douglas, <a rel="nofollow" class="external text" href="http://www.etymonline.com/index.php?term=nickname"><i>Online Etymology Dictionary</i></a><span class="reference-accessdate">, retrieved <span class="nowrap">2007-08-31</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Online+Etymology+Dictionary&amp;rft.aulast=Harper&amp;rft.aufirst=Douglas&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2Findex.php%3Fterm%3Dnickname&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANickname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://dictionary.reference.com/browse/nickname">"Nickname"</a>, <i>Profiles in healthcare communications</i>, <b>22</b> (4): 1, 4–9, 2, July 2006, <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1931-9592">1931-9592</a>, <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16922251">16922251</a><span class="reference-accessdate">, retrieved <span class="nowrap">2008-10-25</span></span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Profiles+in+healthcare+communications&amp;rft.atitle=Nickname&amp;rft.volume=22&amp;rft.issue=4&amp;rft.pages=1%2C+4-9%2C+2&amp;rft.date=2006-07&amp;rft_id=info%3Apmid%2F16922251&amp;rft.issn=1931-9592&amp;rft_id=http%3A%2F%2Fdictionary.reference.com%2Fbrowse%2Fnickname&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANickname" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Sutherland, Douglas. <i>The English Gentleman's Child</i>. Penguin. 1981.</span>
+</li>
+<li id="cite_note-Wisconsin-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wisconsin_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wisconsin_6-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Wisconsin_6-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Muench, David (December 1993) <a rel="nofollow" class="external text" href="http://www.uwex.edu/ces/cced/economies/communityindicators/communityslogans.pdf">"Wisconsin Community Slogans: Their Use and Local Impacts"</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130309175857/http://www.uwex.edu/ces/cced/economies/communityindicators/communityslogans.pdf">Archived</a> 2013-03-09 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> <a href="/wiki/University_of_Wisconsin" class="mw-redirect" title="University of Wisconsin">University of Wisconsin - Extension</a> Retrieved April 10, 2007.</span>
+</li>
+<li id="cite_note-Branding-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Branding_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Branding_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Andia, Alfredo (September 10, 2007) <a rel="nofollow" class="external text" href="http://www.monu.org/monu7/Branding.pdf">"Branding the Generic City"</a>, MU.DOT magazine</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nickname&amp;action=edit&amp;section=28" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/File:Wiktionary-logo-en-v2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/16px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="16" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/24px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/32px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></a> The dictionary definition of <a href="https://en.wiktionary.org/wiki/Special:Search/nickname" class="extiw" title="wiktionary:Special:Search/nickname"><i>nickname</i></a> at Wiktionary</li>
+<li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Nicknames" class="extiw" title="commons:Category:Nicknames">Nicknames</a> at Wikimedia Commons</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
+<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Surname</a>
+<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
+<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
+<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
+<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
+<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
+<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
+<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
+<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
+<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
+<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
+<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
+<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
+<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
+<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
+<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
+<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
+<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
+<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
+<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
+<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
+<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
+<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
+<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
+<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
+<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
+<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Nicknames</a>
+<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
+<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
+<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
+<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
+<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
+<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
+<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
+<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
+<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
+<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
+<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
+<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
+<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
+<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
+<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
+<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
+<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
+<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
+<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
+<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
+<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
+<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
+<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
+<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
+<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
+<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
+<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
+<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
+<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
+<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
+<li><a href="/wiki/English_name" title="English name">English</a></li>
+<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
+<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
+<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
+<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
+<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
+<li><a href="/wiki/French_name" title="French name">French</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
+<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
+<li><a href="/wiki/German_name" title="German name">German</a></li>
+<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
+<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
+<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
+<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
+<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
+<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
+<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
+<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
+<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
+<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
+<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
+<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
+<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
+<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
+<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
+<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
+<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
+<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
+<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
+<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
+<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
+<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
+<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
+<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
+<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
+<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
+<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
+<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
+<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
+<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
+<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
+<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
+<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
+<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
+<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
+<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
+<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
+<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
+<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
+<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
+<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
+<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
+<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
+<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
+<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
+<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
+<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
+<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
+<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
+<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
+<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
+<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
+<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
+<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
+<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
+<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
+<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
+<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
+<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
+<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
+<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
+<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
+<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
+<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
+<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
+<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
+<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award_or_decoration" title="Award or decoration">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
+<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
+<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
+<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
+<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
+<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
+<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
+<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
+<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
+<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
+<li><a href="/wiki/Name_day" title="Name day">Name day</a>
+<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
+<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
+<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
+<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
+<li><a href="/wiki/Family" title="Family">Family</a></li>
+<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
+<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
+<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
+<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
+<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
+<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
+<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
+<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
+<li><a href="/wiki/Signature" title="Signature">Signature</a>
+<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
+<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
+<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
+<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20190925022513
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.416 seconds
+Real time usage: 0.642 seconds
+Preprocessor visited node count: 1238/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 59342/2097152 bytes
+Template argument size: 868/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 6/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 13436/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.178/10.000 seconds
+Lua memory usage: 5.12 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  483.057      1 -total
+ 40.14%  193.921      1 Template:Reflist
+ 25.63%  123.822      1 Template:Cite_web
+ 19.46%   94.015      1 Template:Refimprove
+ 17.36%   83.855      2 Template:Ambox
+  9.52%   45.989      1 Template:Commons_category-inline
+  8.35%   40.340      2 Template:Redirect
+  7.49%   36.176      1 Template:Find_sources_mainspace
+  7.47%   36.068      2 Template:Citation
+  5.58%   26.964      1 Template:Personal_names
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:53430-0!canonical and timestamp 20190925022512 and revision id 915438216
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nickname&amp;oldid=915438216">https://en.wikipedia.org/w/index.php?title=Nickname&amp;oldid=915438216</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Nicknames" title="Category:Nicknames">Nicknames</a></li><li><a href="/wiki/Category:Student_culture" title="Category:Student culture">Student culture</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2009" title="Category:Articles needing additional references from February 2009">Articles needing additional references from February 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2017" title="Category:Articles needing additional references from June 2017">Articles needing additional references from June 2017</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2009" title="Category:Articles with unsourced statements from October 2009">Articles with unsourced statements from October 2009</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nickname" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nickname" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Nickname" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Nickname" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Nickname">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Nickname&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Nickname&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Nickname" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Nickname" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Nickname&amp;oldid=915438216" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Nickname&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q49614" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nickname&amp;id=915438216" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Nicknames" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Nickname">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Nickname&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Nickname&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Bynaam" title="Bynaam – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%84%D9%82%D8%A8" title="لقب – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/L%C9%99q%C9%99b" title="Ləqəb – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%A1%E0%A6%BE%E0%A6%95%E0%A6%A8%E0%A6%BE%E0%A6%AE" title="ডাকনাম – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%9C%D1%8F%D0%BD%D1%83%D1%88%D0%BA%D0%B0" title="Мянушка – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9F%D1%80%D1%8F%D0%BA%D0%BE%D1%80" title="Прякор – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%98%E0%BD%B2%E0%BD%84%E0%BC%8B%E0%BD%A3%E0%BE%A1%E0%BD%BC%E0%BD%82" title="མིང་ལྡོག – Tibetan" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Nadimak" title="Nadimak – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Lesanv" title="Lesanv – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/%C3%80lies" title="Àlies – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/P%C5%99ezd%C3%ADvka" title="Přezdívka – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Llysenw" title="Llysenw – Welsh" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/%C3%98genavn" title="Øgenavn – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Spitzname" title="Spitzname – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/H%C3%BC%C3%BCdnimi" title="Hüüdnimi – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Apodo" title="Apodo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Kromnomo" title="Kromnomo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Ezizen" title="Ezizen – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%86%D8%A7%D9%85_%D8%AE%D9%88%D8%AF%D9%85%D8%A7%D9%86%DB%8C" title="نام خودمانی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Surnom" title="Surnom – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Bynamme" title="Bynamme – Western Frisian" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Alcume" title="Alcume – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B3%84%EB%AA%85" title="별명 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Nadimak" title="Nadimak – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Nama_julukan" title="Nama julukan – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Nomignolo" title="Nomignolo – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A9%D7%9D_%D7%97%D7%99%D7%91%D7%94" title="שם חיבה – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-kn"><a href="https://kn.wikipedia.org/wiki/%E0%B2%85%E0%B2%A1%E0%B3%8D%E0%B2%A1%E0%B2%B9%E0%B3%86%E0%B2%B8%E0%B2%B0%E0%B3%81" title="ಅಡ್ಡಹೆಸರು – Kannada" lang="kn" hreflang="kn" class="interlanguage-link-target">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Iesauka" title="Iesauka – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Pravard%C4%97" title="Pravardė – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Becen%C3%A9v" title="Becenév – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%BA%D0%B0%D1%80" title="Прекар – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%A5%D0%BE%D1%87_%D0%BD%D1%8D%D1%80" title="Хоч нэр – Mongolian" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Ontetocaitl" title="Ontetocaitl – Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bijnaam" title="Bijnaam – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nds-nl badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://nds-nl.wikipedia.org/wiki/Tweantse_skeeldnaamns" title="Tweantse skeeldnaamns – Low Saxon" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E6%84%9B%E7%A7%B0" title="愛称 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Kallenavn" title="Kallenavn – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Kallenamn" title="Kallenamn – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Laqab" title="Laqab – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-nds"><a href="https://nds.wikipedia.org/wiki/%C3%96kelnaam" title="Ökelnaam – Low German" lang="nds" hreflang="nds" class="interlanguage-link-target">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Nick" title="Nick – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Alcunha" title="Alcunha – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ksh"><a href="https://ksh.wikipedia.org/wiki/Shpeznaame" title="Shpeznaame – Colognian" lang="ksh" hreflang="ksh" class="interlanguage-link-target">Ripoarisch</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA" title="Ник – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Nickname" title="Nickname – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Nci%C3%B9ria" title="Nciùria – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Nickname" title="Nickname – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D9%84%D9%82%D8%A8" title="لقب – Sindhi" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Vzdevek" title="Vzdevek – Slovenian" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B4%D0%B8%D0%BC%D0%B0%D0%BA" title="Надимак – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Nadimak" title="Nadimak – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Lempinimi" title="Lempinimi – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Smeknamn" title="Smeknamn – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Palayaw" title="Palayaw – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%BF%E0%AE%B1%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%86%E0%AE%AF%E0%AE%B0%E0%AF%8D" title="சிறப்புப்பெயர் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%9A%D1%83%D1%88%D0%B0%D0%BC%D0%B0%D1%82" title="Кушамат – Tatar" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%AE%E0%B0%BE%E0%B0%B0%E0%B1%81%E0%B0%AA%E0%B1%87%E0%B0%B0%E0%B1%81" title="మారుపేరు – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99" title="ชื่อเล่น – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Rumuz" title="Rumuz – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%9D%D1%96%D0%BA" title="Нік – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D9%84%D9%82%D8%A8" title="لقب – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vep"><a href="https://vep.wikipedia.org/wiki/Nik" title="Nik – Veps" lang="vep" hreflang="vep" class="interlanguage-link-target">Vepsän kel’</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/S%C3%A5vadje_no" title="Såvadje no – Walloon" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Agnay" title="Agnay – Waray" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%88%AB%E5%90%8D" title="别名 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q49614#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 September 2019, at 08:19<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nickname&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.416","walltime":"0.642","ppvisitednodes":{"value":1238,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":59342,"limit":2097152},"templateargumentsize":{"value":868,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":13436,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  483.057      1 -total"," 40.14%  193.921      1 Template:Reflist"," 25.63%  123.822      1 Template:Cite_web"," 19.46%   94.015      1 Template:Refimprove"," 17.36%   83.855      2 Template:Ambox","  9.52%   45.989      1 Template:Commons_category-inline","  8.35%   40.340      2 Template:Redirect","  7.49%   36.176      1 Template:Find_sources_mainspace","  7.47%   36.068      2 Template:Citation","  5.58%   26.964      1 Template:Personal_names"]},"scribunto":{"limitreport-timeusage":{"value":"0.178","limit":"10.000"},"limitreport-memusage":{"value":5372733,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20190925022513","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Nickname","url":"https:\/\/en.wikipedia.org\/wiki\/Nickname","sameAs":"http:\/\/www.wikidata.org\/entity\/Q49614","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q49614","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-05-25T14:24:52Z","dateModified":"2019-09-13T08:19:34Z","headline":"informal name of a person, place, or thing"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":163,"wgHostname":"mw1241"});});</script>
+</body>
+</html>
+

@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>HD postcode area - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"HD_postcode_area","wgTitle":"HD postcode area","wgCurRevisionId":898418342,"wgRevisionId":898418342,"wgArticleId":10060175,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Articles using KML from Wikidata","Kirklees","Calderdale","Postcode areas covering Yorkshire and the Humber"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"HD_postcode_area","wgRelevantArticleId"
+:10060175,"wgRequestId":"XZENhApAADsAAE3LnEYAAABE","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q5629397","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready",
+"mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader",
+"ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/United_Kingdom_adm_location_map.svg/1200px-United_Kingdom_adm_location_map.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/HD_postcode_area"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=HD_postcode_area&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=HD_postcode_area&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/HD_postcode_area"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-HD_postcode_area rootpage-HD_postcode_area skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">HD postcode area</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Postcode area within the United Kingdom</div>
+<p><span style="font-size: small;"><span id="coordinates"><b>Postcode district boundaries</b>: </span></span></p><div class="kmldata" data-server="en.wikipedia.org" title="Template:Attached KML/HD postcode area" style="display:none;"><a href="/wiki/Template:Attached_KML/HD_postcode_area" title="Template:Attached KML/HD postcode area">Template:Attached KML/HD postcode area</a></div><div title="KML &amp; Wikidata" style="display:none;">KML is from Wikidata</div><table class="infobox geography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Huddersfield postcode area</th></tr><tr><td colspan="2" style="text-align:center"><div class="center"><div style="width:250px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:250px;padding:0"><div style="position:relative;width:250px"><a href="/wiki/File:United_Kingdom_adm_location_map.svg" class="image" title="HD is located in the United Kingdom"><img alt="HD is located in the United Kingdom" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/United_Kingdom_adm_location_map.svg/250px-United_Kingdom_adm_location_map.svg.png" decoding="async" width="250" height="386" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/United_Kingdom_adm_location_map.svg/375px-United_Kingdom_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/United_Kingdom_adm_location_map.svg/500px-United_Kingdom_adm_location_map.svg.png 2x" data-file-width="886" data-file-height="1369" /></a><div style="position:absolute;top:61.383%;left:69.833%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="HD" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="HD" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:5px;text-align:left"><div style="display:inline;padding:1px;float:left">HD</div></div></div></div><div></div></div></div></div></td></tr><tr class="mergedtoprow adr"><th scope="row"><a href="/wiki/List_of_postcode_areas_in_the_United_Kingdom" title="List of postcode areas in the United Kingdom">Postcode area</a></th><td class="postal-code">HD</td></tr><tr class="mergedbottomrow"><th scope="row">Postcode area name</th><td class="fn org">Huddersfield</td></tr><tr class="mergedtoprow"><th scope="row"><a href="/wiki/Post_town" title="Post town">Post towns</a></th><td>3</td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/List_of_postcode_districts_in_the_United_Kingdom" title="List of postcode districts in the United Kingdom">Postcode districts</a></th><td>9</td></tr><tr class="mergedbottomrow"><th scope="row">Postcode sectors</th><td>42</td></tr><tr class="mergedtoprow"><th scope="row">Postcodes (live)</th><td>7,124</td></tr><tr class="mergedbottomrow"><th scope="row">Postcodes (total)</th><td>10,457</td></tr><tr><td colspan="2" style="text-align:center">Statistics as at February 2012<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr></tbody></table>
+<p>The <b>HD postcode area</b>, also known as the <b>Huddersfield postcode area</b>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> is a group of postcode districts around <a href="/wiki/Brighouse" title="Brighouse">Brighouse</a>, <a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a> and <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a> in the <a href="/wiki/Kirklees" title="Kirklees">Kirklees</a>, and <a href="/wiki/Calderdale" title="Calderdale">Calderdale</a> <a href="/wiki/Metropolitan_borough" title="Metropolitan borough">boroughs</a> of <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, <a href="/wiki/England" title="England">England</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Coverage"><span class="tocnumber">1</span> <span class="toctext">Coverage</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Map"><span class="tocnumber">2</span> <span class="toctext">Map</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Coverage">Coverage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HD_postcode_area&amp;action=edit&amp;section=1" title="Edit section: Coverage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The approximate coverage of the postcode districts:
+</p>
+<table class="wikitable sortable" style="font-size:95%">
+
+<tbody><tr style="white-space:nowrap">
+<th>Postcode district
+</th>
+<th><a href="/wiki/Post_town" title="Post town">Post town</a>
+</th>
+<th>Coverage
+</th>
+<th>Local authority area
+</th></tr>
+
+<tr>
+<th>HD1
+</th>
+<td>HUDDERSFIELD
+</td>
+<td><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield Town Centre</a>, Hillhouse, <a href="/wiki/Lockwood,_West_Yorkshire" class="mw-redirect" title="Lockwood, West Yorkshire">Lockwood</a>, <a href="/wiki/Marsh,_Huddersfield" title="Marsh, Huddersfield">Marsh</a>, <a href="/wiki/Paddock,_Huddersfield" title="Paddock, Huddersfield">Paddock</a>.
+</td>
+<td><a href="/wiki/Kirklees" title="Kirklees">Kirklees</a>
+</td></tr>
+<tr>
+<th>HD2
+</th>
+<td>HUDDERSFIELD
+</td>
+<td><a href="/wiki/Birkby,_West_Yorkshire" class="mw-redirect" title="Birkby, West Yorkshire">Birkby</a>, <a href="/wiki/Brackenhall" title="Brackenhall">Brackenhall</a>, <a href="/wiki/Bradley,_West_Yorkshire" class="mw-redirect" title="Bradley, West Yorkshire">Bradley</a>, <a href="/wiki/Deighton,_West_Yorkshire" class="mw-redirect" title="Deighton, West Yorkshire">Deighton</a>, <a href="/wiki/Fartown,_Huddersfield" title="Fartown, Huddersfield">Fartown</a>, <a href="/wiki/Fixby" title="Fixby">Fixby</a>, <a href="/wiki/Sheepridge,_Huddersfield" title="Sheepridge, Huddersfield">Sheepridge</a>.
+</td>
+<td>Kirklees
+</td></tr>
+<tr>
+<th>HD3
+</th>
+<td>HUDDERSFIELD
+</td>
+<td><a href="/wiki/Lindley,_West_Yorkshire" class="mw-redirect" title="Lindley, West Yorkshire">Lindley</a>, <a href="/wiki/Longwood,_West_Yorkshire" class="mw-redirect" title="Longwood, West Yorkshire">Longwood</a>, <a href="/wiki/Marsh,_Huddersfield" title="Marsh, Huddersfield">Marsh</a>, <a href="/wiki/Milnsbridge" title="Milnsbridge">Milnsbridge</a>, <a href="/wiki/Oakes,_Huddersfield" title="Oakes, Huddersfield">Oakes</a>, <a href="/wiki/Outlane" title="Outlane">Outlane</a>, <a href="/wiki/Quarmby" title="Quarmby">Quarmby</a>, <a href="/wiki/Paddock,_Huddersfield" title="Paddock, Huddersfield">Paddock</a>, <a href="/wiki/Salendine_Nook" title="Salendine Nook">Salendine Nook</a>, <a href="/wiki/Scammonden" title="Scammonden">Scammonden</a>, .
+</td>
+<td>Kirklees
+</td></tr>
+<tr>
+<th>HD4
+</th>
+<td>HUDDERSFIELD
+</td>
+<td><a href="/wiki/Berry_Brow" title="Berry Brow">Berry Brow</a>, <a href="/wiki/Cowlersley" title="Cowlersley">Cowlersley</a>, <a href="/wiki/Crosland_Moor" title="Crosland Moor">Crosland Moor</a>, <a href="/wiki/Farnley_Tyas" title="Farnley Tyas">Farnley Tyas</a>, <a href="/wiki/Netherton,_Kirklees" title="Netherton, Kirklees">Netherton</a>, <a href="/wiki/Newsome" title="Newsome">Newsome</a>, <a href="/wiki/Lowerhouses" title="Lowerhouses">Lowerhouses</a>, <a href="/wiki/Stocksmoor" title="Stocksmoor">Stocksmoor</a>.
+</td>
+<td>Kirklees
+</td></tr>
+<tr>
+<th>HD5
+</th>
+<td>HUDDERSFIELD
+</td>
+<td><a href="/wiki/Almondbury" title="Almondbury">Almondbury</a>, <a href="/wiki/Dalton,_Huddersfield" title="Dalton, Huddersfield">Dalton</a>, <a href="/wiki/Kirkheaton" title="Kirkheaton">Kirkheaton</a>, <a href="/wiki/Moldgreen" title="Moldgreen">Moldgreen</a>, <a href="/wiki/Rawthorpe" title="Rawthorpe">Rawthorpe</a>, <a href="/wiki/Waterloo,_Huddersfield" title="Waterloo, Huddersfield">Waterloo</a>.
+</td>
+<td>Kirklees
+</td></tr>
+<tr>
+<th>HD6
+</th>
+<td>BRIGHOUSE
+</td>
+<td><a href="/wiki/Bailiff_Bridge" title="Bailiff Bridge">Bailiff Bridge</a>, <a href="/wiki/Brighouse" title="Brighouse">Brighouse</a>, <a href="/wiki/Clifton,_West_Yorkshire" title="Clifton, West Yorkshire">Clifton</a>, <a href="/wiki/Rastrick" title="Rastrick">Rastrick</a>, .
+</td>
+<td><a href="/wiki/Calderdale" title="Calderdale">Calderdale</a>
+</td></tr>
+<tr>
+<th>HD7
+</th>
+<td>HUDDERSFIELD
+</td>
+<td><a href="/wiki/Golcar" title="Golcar">Golcar</a>, <a href="/wiki/Linthwaite" title="Linthwaite">Linthwaite</a>, <a href="/wiki/Marsden,_West_Yorkshire" title="Marsden, West Yorkshire">Marsden</a>, <a href="/wiki/Scapegoat_Hill" title="Scapegoat Hill">Scapegoat Hill</a>, <a href="/wiki/Slaithwaite" title="Slaithwaite">Slaithwaite</a>.
+</td>
+<td>Kirklees
+</td></tr>
+<tr>
+<th>HD8
+</th>
+<td>HUDDERSFIELD
+</td>
+<td><a href="/wiki/Clayton_West" title="Clayton West">Clayton West</a>, <a href="/wiki/Denby_Dale" title="Denby Dale">Denby Dale</a>, <a href="/wiki/Emley,_West_Yorkshire" title="Emley, West Yorkshire">Emley</a>, <a href="/w/index.php?title=Fenay_Bridge&amp;action=edit&amp;redlink=1" class="new" title="Fenay Bridge (page does not exist)">Fenay Bridge</a>, <a href="/wiki/Kirkburton" title="Kirkburton">Kirkburton</a>, <a href="/wiki/Lepton,_West_Yorkshire" title="Lepton, West Yorkshire">Lepton</a>, <a href="/wiki/Scissett" title="Scissett">Scissett</a>, <a href="/wiki/Shelley,_West_Yorkshire" title="Shelley, West Yorkshire">Shelley</a>, <a href="/wiki/Shepley" title="Shepley">Shepley</a>, <a href="/wiki/Skelmanthorpe" title="Skelmanthorpe">Skelmanthorpe</a>, <a href="/wiki/Birdsedge" title="Birdsedge">Birdsedge</a>
+</td>
+<td>Kirklees
+</td></tr>
+<tr>
+<th>HD9
+</th>
+<td>HOLMFIRTH
+</td>
+<td><a href="/wiki/Brockholes" title="Brockholes">Brockholes</a>, <a href="/wiki/Hepworth,_West_Yorkshire" title="Hepworth, West Yorkshire">Hepworth</a>, <a href="/wiki/Holme,_West_Yorkshire" title="Holme, West Yorkshire">Holme</a>, <a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a>, <a href="/wiki/Honley" title="Honley">Honley</a>, <a href="/wiki/Meltham" title="Meltham">Meltham</a>, <a href="/wiki/Scholes,_Holme_Valley" title="Scholes, Holme Valley">Scholes</a>, <a href="/wiki/Upperthong" title="Upperthong">Upperthong</a>, <a href="/wiki/Wooldale" title="Wooldale">Wooldale</a>.
+</td>
+<td>Kirklees
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Map">Map</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HD_postcode_area&amp;action=edit&amp;section=2" title="Edit section: Map">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata mbox-small" style="border:1px solid #aaa;background-color:#f9f9f9;font-size: 88%; line-height: 1.5em"><tbody><tr><td style="width:1px"></td><td class="mbox-text plainlist"><span class="plainlinks"><b><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Attached_KML/HD_postcode_area&amp;action=raw">KML file</a></b> (<a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Attached_KML/HD_postcode_area&amp;action=edit">edit</a> • <a href="/wiki/Help:Attached_KML" title="Help:Attached KML">help</a>)</span>
+<ul><li class="mw-empty-elt"></li></ul></td></tr></tbody></table><div class="kmldata" data-server="en.wikipedia.org" title="Template:Attached KML/HD postcode area" style="display:none;"><a href="/wiki/Template:Attached_KML/HD_postcode_area" title="Template:Attached KML/HD postcode area">Template:Attached KML/HD postcode area</a></div><div title="KML &amp; Wikidata" style="display:none;">KML is from Wikidata</div>
+<div class="thumb tnone"><div class="thumbinner" style="width:352px;"><div class="noresize"><a href="/wiki/File:HD_postcode_area_map.svg" title="HD postcode area map"><img alt="HD postcode area map, showing postcode districts, post towns and neighbouring postcode areas." src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/HD_postcode_area_map.svg/350px-HD_postcode_area_map.svg.png" decoding="async" width="350" height="350" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/HD_postcode_area_map.svg/525px-HD_postcode_area_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/HD_postcode_area_map.svg/700px-HD_postcode_area_map.svg.png 2x" data-file-width="1000" data-file-height="1000" usemap="#ImageMap_10cacf8748b8b8c7" /></a><map name="ImageMap_10cacf8748b8b8c7"><area href="/wiki/BD_postcode_area" shape="poly" coords="287,0,289,13,260,21,267,40,261,44,256,52,211,57,200,59,194,41,179,39,171,11,161,0" alt="BD postcode area" title="BD postcode area" /><area href="/wiki/BD_postcode_area" shape="poly" coords="141,0,123,10,117,0" alt="BD postcode area" title="BD postcode area" /><area href="/wiki/HX_postcode_area" shape="poly" coords="117,0,123,10,141,0,161,0,171,11,179,39,181,53,156,55,167,67,156,70,158,99,142,107,141,108,127,113,90,142,83,128,77,156,58,159,48,173,12,174,3,166,0,131,0,0" alt="HX postcode area" title="HX postcode area" /><area href="/wiki/LS_postcode_area" shape="poly" coords="350,21,346,19,319,40,313,45,297,43,289,13,287,0,350,0" alt="LS postcode area" title="LS postcode area" /><area href="/wiki/OL_postcode_area" shape="poly" coords="0,131,3,166,12,174,15,194,82,279,78,304,38,333,9,310,0,316" alt="OL postcode area" title="OL postcode area" /><area href="/wiki/S_postcode_area" shape="poly" coords="182,350,159,311,242,279,298,256,338,198,350,190,350,350" alt="S postcode area" title="S postcode area" /><area href="/wiki/SK_postcode_area" shape="poly" coords="0,316,9,310,38,333,78,304,159,311,182,350,0,350" alt="SK postcode area" title="SK postcode area" /><area href="/wiki/WF_postcode_area" shape="poly" coords="350,190,338,198,313,176,260,180,256,145,245,143,228,120,238,109,212,93,208,88,218,82,211,57,256,52,261,44,267,40,260,21,289,13,297,43,313,45,319,40,346,19,350,21" alt="WF postcode area" title="WF postcode area" /></map></div>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:HD_postcode_area_map.svg" class="internal" title="Enlarge"></a></div>HD postcode area map, showing postcode districts in red and post towns in grey text, with links to nearby <a href="/wiki/BD_postcode_area" title="BD postcode area">BD</a>, <a href="/wiki/HX_postcode_area" title="HX postcode area">HX</a>, <a href="/wiki/OL_postcode_area" title="OL postcode area">OL</a>, <a href="/wiki/S_postcode_area" title="S postcode area">S</a>, <a href="/wiki/SK_postcode_area" title="SK postcode area">SK</a> and <a href="/wiki/WF_postcode_area" title="WF postcode area">WF</a> postcode areas.</div></div></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HD_postcode_area&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Postcode_Address_File" title="Postcode Address File">Postcode Address File</a></li>
+<li><a href="/wiki/List_of_postcode_areas_in_the_United_Kingdom" title="List of postcode areas in the United Kingdom">List of postcode areas in the United Kingdom</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HD_postcode_area&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ons.gov.uk/ons/guide-method/geography/products/postcode-directories/-nspp-/onspd-user-guide-and-version-notes.zip">"ONS Postcode Directory Version Notes"</a> <span class="cs1-format">(ZIP)</span>. <i>National Statistics Postcode Products</i>. <a href="/wiki/Office_for_National_Statistics" title="Office for National Statistics">Office for National Statistics</a>. February 2012. Table 2<span class="reference-accessdate">. Retrieved <span class="nowrap">21 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Statistics+Postcode+Products&amp;rft.atitle=ONS+Postcode+Directory+Version+Notes&amp;rft.pages=Table+2&amp;rft.date=2012-02&amp;rft_id=http%3A%2F%2Fwww.ons.gov.uk%2Fons%2Fguide-method%2Fgeography%2Fproducts%2Fpostcode-directories%2F-nspp-%2Fonspd-user-guide-and-version-notes.zip&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHD+postcode+area" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style> Coordinates from mean of unit postcode points, <cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ordnancesurvey.co.uk/oswebsite/products/code-point-open/">"Code-Point Open"</a>. <i>OS OpenData</i>. <a href="/wiki/Ordnance_Survey" title="Ordnance Survey">Ordnance Survey</a>. February 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">21 April</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=OS+OpenData&amp;rft.atitle=Code-Point+Open&amp;rft.date=2012-02&amp;rft_id=http%3A%2F%2Fwww.ordnancesurvey.co.uk%2Foswebsite%2Fproducts%2Fcode-point-open%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHD+postcode+area" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Royal Mail, <i>Address Management Guide</i>, (2004)</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=HD_postcode_area&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.poweredbypaf.com/">Royal Mail's Postcode Address File</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.poweredbypaf.com/how-the-royal-mail-postcode-address-file-paf-helps-organisations-verify-their-customers-identities/">A quick introduction to Royal Mail's Postcode Address File (PAF)</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Postcode_areas_in_the_United_Kingdom_and_its_dependencies" style="padding:3px"><table class="nowraplinks hlist mw-collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Postcode_areas_in_the_United_Kingdom" title="Template:Postcode areas in the United Kingdom"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Postcode_areas_in_the_United_Kingdom" title="Template talk:Postcode areas in the United Kingdom"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Postcode_areas_in_the_United_Kingdom&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Postcode_areas_in_the_United_Kingdom_and_its_dependencies" style="font-size:114%;margin:0 4em"><a href="/wiki/List_of_postcode_areas_in_the_United_Kingdom" title="List of postcode areas in the United Kingdom">Postcode areas in the United Kingdom and its dependencies</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AB_postcode_area" title="AB postcode area">AB</a></li>
+<li><a href="/wiki/AL_postcode_area" title="AL postcode area">AL</a></li>
+<li><a href="/wiki/B_postcode_area" title="B postcode area">B</a></li>
+<li><a href="/wiki/BA_postcode_area" title="BA postcode area">BA</a></li>
+<li><a href="/wiki/BB_postcode_area" title="BB postcode area">BB</a></li>
+<li><a href="/wiki/BD_postcode_area" title="BD postcode area">BD</a></li>
+<li><a href="/wiki/BH_postcode_area" title="BH postcode area">BH</a></li>
+<li><a href="/wiki/BL_postcode_area" title="BL postcode area">BL</a></li>
+<li><a href="/wiki/BN_postcode_area" title="BN postcode area">BN</a></li>
+<li><a href="/wiki/BR_postcode_area" title="BR postcode area">BR</a></li>
+<li><a href="/wiki/BS_postcode_area" title="BS postcode area">BS</a></li>
+<li><a href="/wiki/BT_postcode_area" title="BT postcode area">BT</a></li>
+<li><a href="/wiki/CA_postcode_area" title="CA postcode area">CA</a></li>
+<li><a href="/wiki/CB_postcode_area" title="CB postcode area">CB</a></li>
+<li><a href="/wiki/CF_postcode_area" title="CF postcode area">CF</a></li>
+<li><a href="/wiki/CH_postcode_area" title="CH postcode area">CH</a></li>
+<li><a href="/wiki/CM_postcode_area" title="CM postcode area">CM</a></li>
+<li><a href="/wiki/CO_postcode_area" title="CO postcode area">CO</a></li>
+<li><a href="/wiki/CR_postcode_area" title="CR postcode area">CR</a></li>
+<li><a href="/wiki/CT_postcode_area" title="CT postcode area">CT</a></li>
+<li><a href="/wiki/CV_postcode_area" title="CV postcode area">CV</a></li>
+<li><a href="/wiki/CW_postcode_area" title="CW postcode area">CW</a></li>
+<li><a href="/wiki/DA_postcode_area" title="DA postcode area">DA</a></li>
+<li><a href="/wiki/DD_postcode_area" title="DD postcode area">DD</a></li>
+<li><a href="/wiki/DE_postcode_area" title="DE postcode area">DE</a></li>
+<li><a href="/wiki/DG_postcode_area" title="DG postcode area">DG</a></li>
+<li><a href="/wiki/DH_postcode_area" title="DH postcode area">DH</a></li>
+<li><a href="/wiki/DL_postcode_area" title="DL postcode area">DL</a></li>
+<li><a href="/wiki/DN_postcode_area" title="DN postcode area">DN</a></li>
+<li><a href="/wiki/DT_postcode_area" title="DT postcode area">DT</a></li>
+<li><a href="/wiki/DY_postcode_area" title="DY postcode area">DY</a></li>
+<li><a href="/wiki/E_postcode_area" title="E postcode area">E</a></li>
+<li><a href="/wiki/EC_postcode_area" title="EC postcode area">EC</a></li>
+<li><a href="/wiki/EH_postcode_area" title="EH postcode area">EH</a></li>
+<li><a href="/wiki/EN_postcode_area" title="EN postcode area">EN</a></li>
+<li><a href="/wiki/EX_postcode_area" title="EX postcode area">EX</a></li>
+<li><a href="/wiki/FK_postcode_area" title="FK postcode area">FK</a></li>
+<li><a href="/wiki/FY_postcode_area" title="FY postcode area">FY</a></li>
+<li><a href="/wiki/G_postcode_area" title="G postcode area">G</a></li>
+<li><a href="/wiki/GL_postcode_area" title="GL postcode area">GL</a></li>
+<li><a href="/wiki/GU_postcode_area" title="GU postcode area">GU</a></li>
+<li><a href="/wiki/HA_postcode_area" title="HA postcode area">HA</a></li>
+<li><a class="mw-selflink selflink">HD</a></li>
+<li><a href="/wiki/HG_postcode_area" title="HG postcode area">HG</a></li>
+<li><a href="/wiki/HP_postcode_area" title="HP postcode area">HP</a></li>
+<li><a href="/wiki/HR_postcode_area" title="HR postcode area">HR</a></li>
+<li><a href="/wiki/HS_postcode_area" title="HS postcode area">HS</a></li>
+<li><a href="/wiki/HU_postcode_area" title="HU postcode area">HU</a></li>
+<li><a href="/wiki/HX_postcode_area" title="HX postcode area">HX</a></li>
+<li><a href="/wiki/IG_postcode_area" title="IG postcode area">IG</a></li>
+<li><a href="/wiki/IP_postcode_area" title="IP postcode area">IP</a></li>
+<li><a href="/wiki/IV_postcode_area" title="IV postcode area">IV</a></li>
+<li><a href="/wiki/KA_postcode_area" title="KA postcode area">KA</a></li>
+<li><a href="/wiki/KT_postcode_area" title="KT postcode area">KT</a></li>
+<li><a href="/wiki/KW_postcode_area" title="KW postcode area">KW</a></li>
+<li><a href="/wiki/KY_postcode_area" title="KY postcode area">KY</a></li>
+<li><a href="/wiki/L_postcode_area" title="L postcode area">L</a></li>
+<li><a href="/wiki/LA_postcode_area" title="LA postcode area">LA</a></li>
+<li><a href="/wiki/LD_postcode_area" title="LD postcode area">LD</a></li>
+<li><a href="/wiki/LE_postcode_area" title="LE postcode area">LE</a></li>
+<li><a href="/wiki/LL_postcode_area" title="LL postcode area">LL</a></li>
+<li><a href="/wiki/LN_postcode_area" title="LN postcode area">LN</a></li>
+<li><a href="/wiki/LS_postcode_area" title="LS postcode area">LS</a></li>
+<li><a href="/wiki/LU_postcode_area" title="LU postcode area">LU</a></li>
+<li><a href="/wiki/M_postcode_area" title="M postcode area">M</a></li>
+<li><a href="/wiki/ME_postcode_area" title="ME postcode area">ME</a></li>
+<li><a href="/wiki/MK_postcode_area" title="MK postcode area">MK</a></li>
+<li><a href="/wiki/ML_postcode_area" title="ML postcode area">ML</a></li>
+<li><a href="/wiki/N_postcode_area" title="N postcode area">N</a></li>
+<li><a href="/wiki/NE_postcode_area" title="NE postcode area">NE</a></li>
+<li><a href="/wiki/NG_postcode_area" title="NG postcode area">NG</a></li>
+<li><a href="/wiki/NN_postcode_area" title="NN postcode area">NN</a></li>
+<li><a href="/wiki/NP_postcode_area" title="NP postcode area">NP</a></li>
+<li><a href="/wiki/NR_postcode_area" title="NR postcode area">NR</a></li>
+<li><a href="/wiki/NW_postcode_area" title="NW postcode area">NW</a></li>
+<li><a href="/wiki/OL_postcode_area" title="OL postcode area">OL</a></li>
+<li><a href="/wiki/OX_postcode_area" title="OX postcode area">OX</a></li>
+<li><a href="/wiki/PA_postcode_area" title="PA postcode area">PA</a></li>
+<li><a href="/wiki/PE_postcode_area" title="PE postcode area">PE</a></li>
+<li><a href="/wiki/PH_postcode_area" title="PH postcode area">PH</a></li>
+<li><a href="/wiki/PL_postcode_area" title="PL postcode area">PL</a></li>
+<li><a href="/wiki/PO_postcode_area" title="PO postcode area">PO</a></li>
+<li><a href="/wiki/PR_postcode_area" title="PR postcode area">PR</a></li>
+<li><a href="/wiki/RG_postcode_area" title="RG postcode area">RG</a></li>
+<li><a href="/wiki/RH_postcode_area" title="RH postcode area">RH</a></li>
+<li><a href="/wiki/RM_postcode_area" title="RM postcode area">RM</a></li>
+<li><a href="/wiki/S_postcode_area" title="S postcode area">S</a></li>
+<li><a href="/wiki/SA_postcode_area" title="SA postcode area">SA</a></li>
+<li><a href="/wiki/SE_postcode_area" title="SE postcode area">SE</a></li>
+<li><a href="/wiki/SG_postcode_area" title="SG postcode area">SG</a></li>
+<li><a href="/wiki/SK_postcode_area" title="SK postcode area">SK</a></li>
+<li><a href="/wiki/SL_postcode_area" title="SL postcode area">SL</a></li>
+<li><a href="/wiki/SM_postcode_area" title="SM postcode area">SM</a></li>
+<li><a href="/wiki/SN_postcode_area" title="SN postcode area">SN</a></li>
+<li><a href="/wiki/SO_postcode_area" title="SO postcode area">SO</a></li>
+<li><a href="/wiki/SP_postcode_area" title="SP postcode area">SP</a></li>
+<li><a href="/wiki/SR_postcode_area" title="SR postcode area">SR</a></li>
+<li><a href="/wiki/SS_postcode_area" title="SS postcode area">SS</a></li>
+<li><a href="/wiki/ST_postcode_area" title="ST postcode area">ST</a></li>
+<li><a href="/wiki/SW_postcode_area" title="SW postcode area">SW</a></li>
+<li><a href="/wiki/SY_postcode_area" title="SY postcode area">SY</a></li>
+<li><a href="/wiki/TA_postcode_area" title="TA postcode area">TA</a></li>
+<li><a href="/wiki/TD_postcode_area" title="TD postcode area">TD</a></li>
+<li><a href="/wiki/TF_postcode_area" title="TF postcode area">TF</a></li>
+<li><a href="/wiki/TN_postcode_area" title="TN postcode area">TN</a></li>
+<li><a href="/wiki/TQ_postcode_area" title="TQ postcode area">TQ</a></li>
+<li><a href="/wiki/TR_postcode_area" title="TR postcode area">TR</a></li>
+<li><a href="/wiki/TS_postcode_area" title="TS postcode area">TS</a></li>
+<li><a href="/wiki/TW_postcode_area" title="TW postcode area">TW</a></li>
+<li><a href="/wiki/UB_postcode_area" title="UB postcode area">UB</a></li>
+<li><a href="/wiki/W_postcode_area" title="W postcode area">W</a></li>
+<li><a href="/wiki/WA_postcode_area" title="WA postcode area">WA</a></li>
+<li><a href="/wiki/WC_postcode_area" title="WC postcode area">WC</a></li>
+<li><a href="/wiki/WD_postcode_area" title="WD postcode area">WD</a></li>
+<li><a href="/wiki/WF_postcode_area" title="WF postcode area">WF</a></li>
+<li><a href="/wiki/WN_postcode_area" title="WN postcode area">WN</a></li>
+<li><a href="/wiki/WR_postcode_area" title="WR postcode area">WR</a></li>
+<li><a href="/wiki/WS_postcode_area" title="WS postcode area">WS</a></li>
+<li><a href="/wiki/WV_postcode_area" title="WV postcode area">WV</a></li>
+<li><a href="/wiki/YO_postcode_area" title="YO postcode area">YO</a></li>
+<li><a href="/wiki/ZE_postcode_area" title="ZE postcode area">ZE</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Crown dependencies</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/GY_postcode_area" title="GY postcode area">GY</a></li>
+<li><a href="/wiki/IM_postcode_area" title="IM postcode area">IM</a></li>
+<li><a href="/wiki/JE_postcode_area" title="JE postcode area">JE</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Overseas territories</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Postcodes_in_the_United_Kingdom#British_Overseas_Territories" title="Postcodes in the United Kingdom">AI</a></li>
+<li><a href="/wiki/Postcodes_in_the_United_Kingdom#British_Overseas_Territories" title="Postcodes in the United Kingdom">ASCN</a></li>
+<li><a href="/wiki/Postcodes_in_the_United_Kingdom#British_Overseas_Territories" title="Postcodes in the United Kingdom">BBND</a></li>
+<li><a href="/wiki/Postcodes_in_the_United_Kingdom#British_Overseas_Territories" title="Postcodes in the United Kingdom">BIQQ</a></li>
+<li><a href="/wiki/Postcodes_in_the_United_Kingdom#British_Overseas_Territories" title="Postcodes in the United Kingdom">FIQQ</a></li>
+<li><a href="/wiki/Postal_addresses_in_Gibraltar" title="Postal addresses in Gibraltar">GX</a></li>
+<li><a href="/wiki/Postcodes_in_the_United_Kingdom#British_Overseas_Territories" title="Postcodes in the United Kingdom">KY</a></li>
+<li><a href="/wiki/Postcodes_in_the_United_Kingdom#British_Overseas_Territories" title="Postcodes in the United Kingdom">MSR</a></li>
+<li><a href="/wiki/Postcodes_in_the_United_Kingdom#British_Overseas_Territories" title="Postcodes in the United Kingdom">PCRN</a></li>
+<li><a href="/wiki/Postcodes_in_the_United_Kingdom#British_Overseas_Territories" title="Postcodes in the United Kingdom">SIQQ</a></li>
+<li><a href="/wiki/Postcodes_in_the_United_Kingdom#British_Overseas_Territories" title="Postcodes in the United Kingdom">STHL</a></li>
+<li><a href="/wiki/Postcodes_in_the_United_Kingdom#British_Overseas_Territories" title="Postcodes in the United Kingdom">TDCU</a></li>
+<li><a href="/wiki/Postcodes_in_the_United_Kingdom#British_Overseas_Territories" title="Postcodes in the United Kingdom">TKCA</a></li>
+<li><a href="/wiki/Postcodes_in_the_United_Kingdom#British_Overseas_Territories" title="Postcodes in the United Kingdom">VG</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Non-geographic</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/British_Forces_Post_Office" title="British Forces Post Office">BF</a></li>
+<li><a href="/wiki/List_of_postcode_areas_in_the_United_Kingdom#BX" title="List of postcode areas in the United Kingdom">BX</a></li>
+<li><a href="/wiki/List_of_postcode_areas_in_the_United_Kingdom#GIR" title="List of postcode areas in the United Kingdom">GIR</a></li>
+<li><a href="/wiki/List_of_postcode_areas_in_the_United_Kingdom#XX" title="List of postcode areas in the United Kingdom">XX</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li>Related UK lists: <a href="/wiki/List_of_postcode_districts_in_the_United_Kingdom" title="List of postcode districts in the United Kingdom">Postcode districts</a></li>
+<li><a href="/wiki/List_of_post_towns_in_the_United_Kingdom" title="List of post towns in the United Kingdom">Post towns</a></li>
+<li><a href="/wiki/Postal_counties_of_the_United_Kingdom" title="Postal counties of the United Kingdom">Postal counties</a></li>
+<li><a href="/wiki/London_postal_district" title="London postal district">London postal district</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1282
+Cached time: 20190907055831
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.276 seconds
+Real time usage: 0.364 seconds
+Preprocessor visited node count: 1123/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37252/2097152 bytes
+Template argument size: 276/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 9130/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.108/10.000 seconds
+Lua memory usage: 2.97 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  295.263      1 -total
+ 55.70%  164.473      1 Template:Infobox_UK_postcode_area
+ 47.60%  140.554      1 Template:Infobox
+ 26.45%   78.091      2 Template:Cite_web
+ 15.65%   46.206      1 Template:Postcode_area_imagemap
+ 13.71%   40.475      1 Template:Short_description
+ 12.50%   36.915      1 Template:Pagetype
+  9.76%   28.832      1 Template:Location_map
+  7.92%   23.385      2 Template:Attached_KML
+  6.45%   19.040      1 Template:Reflist
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10060175-0!canonical and timestamp 20190907055831 and revision id 898418342
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=HD_postcode_area&amp;oldid=898418342">https://en.wikipedia.org/w/index.php?title=HD_postcode_area&amp;oldid=898418342</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Kirklees" title="Category:Kirklees">Kirklees</a></li><li><a href="/wiki/Category:Calderdale" title="Category:Calderdale">Calderdale</a></li><li><a href="/wiki/Category:Postcode_areas_covering_Yorkshire_and_the_Humber" title="Category:Postcode areas covering Yorkshire and the Humber">Postcode areas covering Yorkshire and the Humber</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Articles_using_KML_from_Wikidata" title="Category:Articles using KML from Wikidata">Articles using KML from Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=HD+postcode+area" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=HD+postcode+area" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/HD_postcode_area" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:HD_postcode_area" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/HD_postcode_area">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=HD_postcode_area&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=HD_postcode_area&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/HD_postcode_area" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/HD_postcode_area" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=HD_postcode_area&amp;oldid=898418342" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=HD_postcode_area&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5629397" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=HD_postcode_area&amp;id=898418342" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=HD+postcode+area">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=HD+postcode+area&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=HD_postcode_area&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5629397#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 23 May 2019, at 12:47<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=HD_postcode_area&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.276","walltime":"0.364","ppvisitednodes":{"value":1123,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":37252,"limit":2097152},"templateargumentsize":{"value":276,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":9130,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  295.263      1 -total"," 55.70%  164.473      1 Template:Infobox_UK_postcode_area"," 47.60%  140.554      1 Template:Infobox"," 26.45%   78.091      2 Template:Cite_web"," 15.65%   46.206      1 Template:Postcode_area_imagemap"," 13.71%   40.475      1 Template:Short_description"," 12.50%   36.915      1 Template:Pagetype","  9.76%   28.832      1 Template:Location_map","  7.92%   23.385      2 Template:Attached_KML","  6.45%   19.040      1 Template:Reflist"]},"scribunto":{"limitreport-timeusage":{"value":"0.108","limit":"10.000"},"limitreport-memusage":{"value":3116488,"limit":52428800}},"cachereport":{"origin":"mw1282","timestamp":"20190907055831","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"HD postcode area","url":"https:\/\/en.wikipedia.org\/wiki\/HD_postcode_area","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5629397","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5629397","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2007-03-14T23:55:38Z","dateModified":"2019-05-23T12:47:34Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d9\/United_Kingdom_adm_location_map.svg","headline":"postcode area within the United Kingdom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":115,"wgHostname":"mw1264"});});</script>
+</body>
+</html>
+

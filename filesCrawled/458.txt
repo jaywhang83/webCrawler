@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Golcar - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Golcar","wgTitle":"Golcar","wgCurRevisionId":898433623,"wgRevisionId":898433623,"wgArticleId":149988,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with OS grid coordinates","Coordinates on Wikidata","Geography of Huddersfield","Huddersfield","Kirklees","Colne Valley"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Golcar","wgRelevantArticleId":149988,"wgRequestId":
+"XYvT@wpAMEkAAKNiljYAAADS","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":53.6378,"lon":-1.8457},"wgWikibaseItemId":"Q5578460","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":
+"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks",
+"ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Golcar%28RLH%29.JPG/1200px-Golcar%28RLH%29.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Golcar"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Golcar&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Golcar&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Golcar"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Golcar rootpage-Golcar skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Golcar</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">Golcar</th></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Golcar(RLH).JPG" class="image"><img alt="Golcar(RLH).JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Golcar%28RLH%29.JPG/240px-Golcar%28RLH%29.JPG" decoding="async" width="240" height="194" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Golcar%28RLH%29.JPG/360px-Golcar%28RLH%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Golcar%28RLH%29.JPG/480px-Golcar%28RLH%29.JPG 2x" data-file-width="1596" data-file-height="1289" /></a><br />Golcar Village</td></tr><tr><td colspan="2" style="text-align:center"><div class="center"><div style="width:240px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:240px;padding:0"><div style="position:relative;width:240px"><a href="/wiki/File:West_Yorkshire_UK_location_map.svg" class="image" title="Golcar is located in West Yorkshire"><img alt="Golcar is located in West Yorkshire" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/240px-West_Yorkshire_UK_location_map.svg.png" decoding="async" width="240" height="175" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/360px-West_Yorkshire_UK_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/480px-West_Yorkshire_UK_location_map.svg.png 2x" data-file-width="1425" data-file-height="1039" /></a><div style="position:absolute;top:71.292%;left:40.563%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Golcar" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Golcar" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Golcar</div></div></div></div><div>Location within <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></div></div></div></div></td></tr><tr><th scope="row" style="width: 40%">Population</th><td>17,000&#160;(2001)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/Ordnance_Survey_National_Grid" title="Ordnance Survey National Grid">OS&#160;grid&#160;reference</a></th><td><span class="plainlinks nourlexpansion"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.638035534033;-1.8472068353823_region:GB_scale:25000?pagename=Golcar">SE1020015735</a></span></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Districts_of_England" title="Districts of England">District</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Kirklees" title="Kirklees">Kirklees</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Metropolitan_and_non-metropolitan_counties_of_England" title="Metropolitan and non-metropolitan counties of England">Shire&#160;county</a></th><td><div class="plainlist"><ul><li><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Regions_of_England" title="Regions of England">Region</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire and the Humber</a></li></ul></div></td></tr><tr class="mergedrow adr"><th scope="row" style="width: 40%"><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Country</a></th><td><span class="country-name"><a href="/wiki/England" title="England">England</a></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign&#160;state</a></th><td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/Post_town" title="Post town">Post town</a></th><td><span style="font-size:80%;"><span class="allcaps" style="text-transform:uppercase;">HUDDERSFIELD</span></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Postcodes_in_the_United_Kingdom" title="Postcodes in the United Kingdom">Postcode&#160;district</a></th><td><span style="font-size:100%;"><a href="/wiki/HD_postcode_area" title="HD postcode area">HD7</a></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Telephone_numbers_in_the_United_Kingdom" title="Telephone numbers in the United Kingdom">Dialling&#160;code</a></th><td><span style="font-size:100%;">01484</span></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/List_of_law_enforcement_agencies_in_the_United_Kingdom" class="mw-redirect" title="List of law enforcement agencies in the United Kingdom">Police</a></th><td><a href="/wiki/West_Yorkshire_Police" title="West Yorkshire Police">West Yorkshire</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Fire_services_in_the_United_Kingdom" title="Fire services in the United Kingdom">Fire</a></th><td><a href="/wiki/West_Yorkshire_Fire_and_Rescue_Service" title="West Yorkshire Fire and Rescue Service">West Yorkshire</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Emergency_medical_services_in_the_United_Kingdom" title="Emergency medical services in the United Kingdom">Ambulance</a></th><td><a href="/wiki/Yorkshire_Ambulance_Service" title="Yorkshire Ambulance Service">Yorkshire</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_members_of_the_European_Parliament_for_the_United_Kingdom,_2019%E2%80%9324" title="List of members of the European Parliament for the United Kingdom, 2019–24">EU&#160;Parliament</a></th><td><a href="/wiki/Yorkshire_and_the_Humber_(European_Parliament_constituency)" title="Yorkshire and the Humber (European Parliament constituency)">Yorkshire and the Humber</a></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_United_Kingdom_Parliament_constituencies" class="mw-redirect" title="List of United Kingdom Parliament constituencies">UK&#160;Parliament</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Colne_Valley_(UK_Parliament_constituency)" title="Colne Valley (UK Parliament constituency)">Colne Valley</a></li></ul></div></td></tr><tr><td colspan="2" class="hlist noprint nowrap" style="text-align:center;border-top: 1px solid #aaa; padding-top: 3px; font-size:85%;">
+<dl><dt><span style="font-weight:normal;">List of places</span></dt>
+<dd><a href="/wiki/List_of_United_Kingdom_locations" title="List of United Kingdom locations">UK</a></dd>
+<dd><a href="/wiki/List_of_places_in_England" title="List of places in England">England</a></dd>
+<dd><a href="/wiki/List_of_places_in_Yorkshire" title="List of places in Yorkshire">Yorkshire</a></dd></dl>
+<span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Golcar&amp;params=53.6378_N_1.8457_W_region:GB_type:city(17000)"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°38′16″N</span> <span class="longitude">1°50′45″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6378°N 1.8457°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6378; -1.8457</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Golcar&amp;params=53.6378_N_1.8457_W_region:GB_type:city(17000)"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°38′16″N</span> <span class="longitude">1°50′45″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6378°N 1.8457°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6378; -1.8457</span></span></span></a></span></span></span></td></tr></tbody></table>
+<p><b>Golcar</b> (pronounced 'Goker' or 'Golker': the 'L' is silent in local pronunciation) is a village on a hillside crest above the <a href="/wiki/Colne_Valley" title="Colne Valley">Colne Valley</a> in <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, England, 2.5 miles (4&#160;km) west of <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, and just north of the <a href="/wiki/River_Colne,_West_Yorkshire" title="River Colne, West Yorkshire">River Colne</a> and the <a href="/wiki/Huddersfield_Narrow_Canal" title="Huddersfield Narrow Canal">Huddersfield Narrow Canal</a>. At the time of the 2011 Census the population had increased to 18,033.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The main transport access is from the <a href="/wiki/A62_road" title="A62 road">A62</a> (Manchester Road), through <a href="/wiki/Milnsbridge" title="Milnsbridge">Milnsbridge</a> in the valley bottom or via <a href="/wiki/Scapegoat_Hill" title="Scapegoat Hill">Scapegoat Hill</a> from the <a href="/wiki/A640_road" title="A640 road">A640</a> (New Hey Road) at the top of the hill.
+</p><p>The <a href="/wiki/Township_(England)" title="Township (England)">township</a> of Golcar consisted of Bolster Moor, Golcar, Leymoor, <a href="/wiki/Pole_Moor" title="Pole Moor">Pole Moor</a>, <a href="/wiki/Scapegoat_Hill" title="Scapegoat Hill">Scapegoat Hill</a> and Town End.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Colne_Valley_Museum"><span class="tocnumber">2</span> <span class="toctext">Colne Valley Museum</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Community_facilities"><span class="tocnumber">3</span> <span class="toctext">Community facilities</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Schools"><span class="tocnumber">4</span> <span class="toctext">Schools</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Image_gallery"><span class="tocnumber">6</span> <span class="toctext">Image gallery</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Golcar&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Named after <a href="/wiki/Guthlac" class="mw-redirect" title="Guthlac">St Guthlac</a>, who preached in the area during the 8th century, its name is recorded in the <i><a href="/wiki/Domesday_Book" title="Domesday Book">Domesday Book</a></i> as <i>Goullakarres</i>. During the <a href="/wiki/Industrial_Revolution" title="Industrial Revolution">Industrial Revolution</a> Golcar became an important centre for <a href="/wiki/Weaving" title="Weaving">weaving</a>.  Pharmacologist James Burrows grew up in the area.
+</p>
+<h2><span class="mw-headline" id="Colne_Valley_Museum">Colne Valley Museum</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Golcar&amp;action=edit&amp;section=2" title="Edit section: Colne Valley Museum">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Colne_Valley_Museum" title="Colne Valley Museum">Colne Valley Museum</a></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:ColneValleyMuseum(RLH).JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ColneValleyMuseum%28RLH%29.JPG/170px-ColneValleyMuseum%28RLH%29.JPG" decoding="async" width="170" height="145" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ColneValleyMuseum%28RLH%29.JPG/255px-ColneValleyMuseum%28RLH%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ColneValleyMuseum%28RLH%29.JPG/340px-ColneValleyMuseum%28RLH%29.JPG 2x" data-file-width="3203" data-file-height="2728" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:ColneValleyMuseum(RLH).JPG" class="internal" title="Enlarge"></a></div>Colne Valley Museum</div></div></div>
+<p>Three 1840s <a href="/wiki/Weavers%27_cottage" title="Weavers&#39; cottage">weavers' cottages</a> were converted into the <a href="/wiki/Colne_Valley_Museum" title="Colne Valley Museum">Colne Valley Museum</a> in 1970. The museum has several restored period rooms which are used to show temporary exhibitions. The museum was extended in 2008 following the purchase of the adjoining former fish and chip shop.
+</p><p>Exhibits include a handloom and a <a href="/wiki/Spinning_jenny" title="Spinning jenny">spinning jenny</a>, invented by <a href="/wiki/James_Hargreaves" title="James Hargreaves">James Hargreaves</a>. In the loom chamber, spinning room, weavers sitting room and 'gas-lit' cloggers shop, the volunteer helpers give demonstrations of the type of crafts that would have existed during the 19th century.
+</p><p>The museum is run by volunteers and opens at weekends and bank holidays. Various craft and working weekends are held through the year.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Community_facilities">Community facilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Golcar&amp;action=edit&amp;section=3" title="Edit section: Community facilities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Golcar supports two <a href="/wiki/The_Scout_Association" title="The Scout Association">scout groups</a>: the 4th Golcar Scout Group, which was founded in 1951<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> and the 39th Parkwood Scout Group, founded in 1908.
+</p><p>The village has several sporting teams including football and cricket teams.
+</p><p>The vllage has three churches, the Anglican Parish Church of St John the Evangelist opened in 1829 <sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> and is a good example of a <a href="/wiki/Waterloo_church" class="mw-redirect" title="Waterloo church">Waterloo church</a>,  Golcar Baptist Church (<a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20120317164606/http://www.golcarbc.co.uk/">[1]</a>), founded in 1835 and Golcar Providence Methodist Church founded in 1876.
+</p><p>Each year in early May the village hosts the <a href="/w/index.php?title=Golcar_Lily_Day&amp;action=edit&amp;redlink=1" class="new" title="Golcar Lily Day (page does not exist)">Golcar Lily Day</a>.
+</p><p>Golcar Brass Band (<a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20170917124720/http://golcarband.co.uk/">[2]</a>) was reformed in 1977 and practises at the Baptist Church on a Monday night.
+</p>
+<h2><span class="mw-headline" id="Schools">Schools</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Golcar&amp;action=edit&amp;section=4" title="Edit section: Schools">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Golcar Junior, Infant &amp; Nursery School, Manor Road, Golcar, Huddersfield HD7 4QE</li>
+<li>St. John's C of E Junior &amp; Infant School, Leymoor Road, Golcar, Huddersfield HD7 4QQ</li>
+<li>Beech Primary, Beech Avenue, Golcar, Huddersfield HD7 4BE</li>
+<li>Wellhouse Junior &amp; Infant School, Lower Wellhouse, Golcar, Huddersfield HD7 4ES</li>
+<li>Clough Head Junior &amp; Infant School, Bolster Moor Road, Golcar, Huddersfield HD7 4JU</li>
+<li><a href="/wiki/Scapegoat_Hill" title="Scapegoat Hill">Scapegoat Hill</a> Junior &amp; Infant School, School Road, Scapegoat Hill, Golcar, Huddersfield HD7 4NU</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Golcar&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110929231035/http://www.kirklees.gov.uk/community/statistics/census2001profilesNewWards/Golcar04.pdf">www.kirklees.gov.uk</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.neighbourhood.statistics.gov.uk/dissemination/LeadKeyFigures.do?a=7&amp;b=13689903&amp;c=Golcar&amp;d=14&amp;e=62&amp;g=6371759&amp;i=1001x1003x1032x1004&amp;m=0&amp;r=1&amp;s=1456397175500&amp;enc=1">"Kirkless Ward population 2011"</a>. <i>Neighbourhood Statistics</i>. Office for National Statistics<span class="reference-accessdate">. Retrieved <span class="nowrap">25 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Neighbourhood+Statistics&amp;rft.atitle=Kirkless+Ward+population+2011&amp;rft_id=http%3A%2F%2Fwww.neighbourhood.statistics.gov.uk%2Fdissemination%2FLeadKeyFigures.do%3Fa%3D7%26b%3D13689903%26c%3DGolcar%26d%3D14%26e%3D62%26g%3D6371759%26i%3D1001x1003x1032x1004%26m%3D0%26r%3D1%26s%3D1456397175500%26enc%3D1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGolcar" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.culture24.org.uk/yh000050">Colne Valley Museum</a> entry on Culture24. Retrieved 7 December 2009.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.4thgolcarscoutgroup.org.uk/">4th Golcar Scout Group</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><i>The History of the Colne Valley</i>, D.F.E. Sykes,1906. p187</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Image_gallery">Image gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Golcar&amp;action=edit&amp;section=6" title="Edit section: Image gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:45.5px auto;"><a href="/wiki/File:Golcar,_Huddersfield(RLH).JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Golcar%2C_Huddersfield%28RLH%29.JPG/120px-Golcar%2C_Huddersfield%28RLH%29.JPG" decoding="async" width="120" height="59" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Golcar%2C_Huddersfield%28RLH%29.JPG/180px-Golcar%2C_Huddersfield%28RLH%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Golcar%2C_Huddersfield%28RLH%29.JPG/240px-Golcar%2C_Huddersfield%28RLH%29.JPG 2x" data-file-width="2284" data-file-height="1132" /></a></div></div>
+			<div class="gallerytext">
+<p>View of Golcar from Pike Law Road
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:56.5px auto;"><a href="/wiki/File:Bolster_Moor,_Golcar,Huddersfield(RLH).JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bolster_Moor%2C_Golcar%2CHuddersfield%28RLH%29.JPG/120px-Bolster_Moor%2C_Golcar%2CHuddersfield%28RLH%29.JPG" decoding="async" width="120" height="37" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bolster_Moor%2C_Golcar%2CHuddersfield%28RLH%29.JPG/180px-Bolster_Moor%2C_Golcar%2CHuddersfield%28RLH%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bolster_Moor%2C_Golcar%2CHuddersfield%28RLH%29.JPG/240px-Bolster_Moor%2C_Golcar%2CHuddersfield%28RLH%29.JPG 2x" data-file-width="1937" data-file-height="600" /></a></div></div>
+			<div class="gallerytext">
+<p>View of Bolster Moor from Pike Law Road
+</p>
+			</div>
+		</div></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1330
+Cached time: 20190925014214
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.392 seconds
+Real time usage: 0.551 seconds
+Preprocessor visited node count: 2188/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 35601/2097152 bytes
+Template argument size: 8710/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 6432/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.208/10.000 seconds
+Lua memory usage: 3.86 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  475.164      1 -total
+ 62.68%  297.822      1 Template:Infobox_UK_place
+ 62.44%  296.671      2 Template:Infobox
+ 25.29%  120.159      1 Template:Reflist
+ 23.18%  110.153      1 Template:Cite_web
+ 18.48%   87.815      1 Template:Coord
+ 11.14%   52.928     26 Template:Ubl
+  8.49%   40.319      1 Template:Convert
+  6.30%   29.938      1 Template:Location_map
+  3.46%   16.427      8 Template:Infobox_UK_place/local
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:149988-0!canonical and timestamp 20190925014214 and revision id 898433623
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Golcar&amp;oldid=898433623">https://en.wikipedia.org/w/index.php?title=Golcar&amp;oldid=898433623</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Geography_of_Huddersfield" title="Category:Geography of Huddersfield">Geography of Huddersfield</a></li><li><a href="/wiki/Category:Huddersfield" title="Category:Huddersfield">Huddersfield</a></li><li><a href="/wiki/Category:Kirklees" title="Category:Kirklees">Kirklees</a></li><li><a href="/wiki/Category:Colne_Valley" title="Category:Colne Valley">Colne Valley</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_OS_grid_coordinates" title="Category:Articles with OS grid coordinates">Articles with OS grid coordinates</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Golcar" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Golcar" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Golcar" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Golcar" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Golcar">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Golcar&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Golcar&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Golcar" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Golcar" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Golcar&amp;oldid=898433623" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Golcar&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5578460" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Golcar&amp;id=898433623" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Golcar" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Golcar">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Golcar&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Golcar&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Golcar" title="Golcar – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5578460#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 23 May 2019, at 14:56<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Golcar&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.392","walltime":"0.551","ppvisitednodes":{"value":2188,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":35601,"limit":2097152},"templateargumentsize":{"value":8710,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":6432,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  475.164      1 -total"," 62.68%  297.822      1 Template:Infobox_UK_place"," 62.44%  296.671      2 Template:Infobox"," 25.29%  120.159      1 Template:Reflist"," 23.18%  110.153      1 Template:Cite_web"," 18.48%   87.815      1 Template:Coord"," 11.14%   52.928     26 Template:Ubl","  8.49%   40.319      1 Template:Convert","  6.30%   29.938      1 Template:Location_map","  3.46%   16.427      8 Template:Infobox_UK_place/local"]},"scribunto":{"limitreport-timeusage":{"value":"0.208","limit":"10.000"},"limitreport-memusage":{"value":4043987,"limit":52428800}},"cachereport":{"origin":"mw1330","timestamp":"20190925014214","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Golcar","url":"https:\/\/en.wikipedia.org\/wiki\/Golcar","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5578460","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5578460","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-11-22T21:51:51Z","dateModified":"2019-05-23T14:56:36Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/18\/Golcar%28RLH%29.JPG","headline":"human settlement in United Kingdom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":156,"wgHostname":"mw1238"});});</script>
+</body>
+</html>
+

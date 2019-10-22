@@ -1,0 +1,606 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ultravox - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ultravox","wgTitle":"Ultravox","wgCurRevisionId":918353890,"wgRevisionId":918353890,"wgArticleId":295416,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using Timeline","Articles with hCards","Commons category link from Wikidata","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with LNB identifiers","Wikipedia articles with MusicBrainz identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with NLA-person identifiers","Wikipedia articles with SELIBR identifiers",
+"Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","Use dmy dates from May 2015","EngvarB from May 2015","Articles which contain graphical timelines","Musical groups established in 1973","Musical groups disestablished in 1988","Musical groups reestablished in 1992","Musical groups disestablished in 1996","Musical groups reestablished in 2008","Ultravox","Art rock musical groups","English electronic music groups","English new wave musical groups","Musical groups from London","British synthpop new wave groups","Island Records artists","Chrysalis Records artists"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb"
+,"Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ultravox","wgRelevantArticleId":295416,"wgRequestId":"XY8PVwpAAD0AAHXZ8UYAAACX","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q316485","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":
+"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.timeline.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.timeline.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ultravox_Brilliant_Tour_London_2012.jpg/1200px-Ultravox_Brilliant_Tour_London_2012.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ultravox"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ultravox&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ultravox&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ultravox"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ultravox rootpage-Ultravox skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Ultravox</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For other uses, see <a href="/wiki/Ultravox_(disambiguation)" class="mw-disambig" title="Ultravox (disambiguation)">Ultravox (disambiguation)</a>.</div>
+<table class="infobox vcard plainlist" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: #b0c4de"><div style="display:inline;" class="fn org">Ultravox</div></th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Ultravox_Brilliant_Tour_London_2012.jpg" class="image"><img alt="Ultravox Brilliant Tour London 2012.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ultravox_Brilliant_Tour_London_2012.jpg/267px-Ultravox_Brilliant_Tour_London_2012.jpg" decoding="async" width="267" height="200" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ultravox_Brilliant_Tour_London_2012.jpg/400px-Ultravox_Brilliant_Tour_London_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Ultravox_Brilliant_Tour_London_2012.jpg/533px-Ultravox_Brilliant_Tour_London_2012.jpg 2x" data-file-width="3330" data-file-height="2499" /></a><div>Ultravox in 2012, playing a date from their "Brill!ant" tour at the <a href="/wiki/Hammersmith_Apollo" title="Hammersmith Apollo">Hammersmith Apollo</a> in London</div></td></tr><tr><th colspan="2" style="text-align:center;background-color: #b0c4de">Background information</th></tr><tr><th scope="row"><span class="nowrap">Also known as</span></th><td class="nickname"><div class="hlist hlist-separated"><ul><li>Tiger Lily <small>(1973–1975)</small></li><li>various other names <small>(1975–1976)</small></li><li>Ultravox! <small>(1976–1978)</small></li></ul></div></td></tr><tr><th scope="row">Origin</th><td>London, England, United Kingdom</td></tr><tr><th scope="row">Genres</th><td><div class="hlist hlist-separated"><ul><li><a href="/wiki/Synthpop" class="mw-redirect" title="Synthpop">Synthpop</a></li><li><a href="/wiki/New_wave_music" title="New wave music">new wave</a></li><li><span class="nowrap"><a href="/wiki/Post-punk" title="Post-punk">post-punk</a></span> <span style="font-size:85%;">(early)</span></li></ul></div></td></tr><tr><th scope="row"><span class="nowrap">Years active</span></th><td><div class="hlist hlist-separated"><ul><li>1973–1988</li><li>1992–1996</li><li>2008–2018</li></ul></div></td></tr><tr><th scope="row">Labels</th><td><div class="hlist hlist-separated"><ul><li><a href="/wiki/Island_Records" title="Island Records">Island</a></li><li><a href="/wiki/Chrysalis_Records" title="Chrysalis Records">Chrysalis</a></li><li><a href="/wiki/EMI_Records" title="EMI Records">EMI</a></li><li><a href="/wiki/PolyGram" title="PolyGram">PolyGram</a></li></ul></div></td></tr><tr><th scope="row"><span class="nowrap">Associated acts</span></th><td><a href="/wiki/Visage_(band)" title="Visage (band)">Visage</a></td></tr><tr><th scope="row">Website</th><td><span class="url"><a rel="nofollow" class="external text" href="http://www.ultravox.org.uk">www<wbr />.ultravox<wbr />.org<wbr />.uk</a></span></td></tr><tr><th colspan="2" style="text-align:center;background-color: #b0c4de"></th></tr><tr><th scope="row">Members</th><td><a href="/wiki/Chris_Cross" title="Chris Cross">Chris Cross</a><br /><a href="/wiki/Warren_Cann" title="Warren Cann">Warren Cann</a><br /><a href="/wiki/Midge_Ure" title="Midge Ure">Midge Ure</a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #b0c4de"></th></tr><tr><th scope="row"><span class="nowrap">Past members</span></th><td><a href="/wiki/John_Foxx" title="John Foxx">John Foxx</a><br /><a href="/wiki/Stevie_Shears" title="Stevie Shears">Stevie Shears</a><br /><a href="/wiki/Robin_Simon" title="Robin Simon">Robin Simon</a><br /><a href="/wiki/Billy_Currie" title="Billy Currie">Billy Currie</a><br /><a href="/wiki/Mark_Brzezicki" title="Mark Brzezicki">Mark Brzezicki</a><br /><a href="/wiki/Tony_Fenelle" title="Tony Fenelle">Tony Fenelle</a><br />Gerry Laffy<br />Neal Wilkinson<br />Jackie Williams<br /><a href="/wiki/Sam_Blue" title="Sam Blue">Sam Blue</a><br /><a href="/wiki/Vinny_Burns" title="Vinny Burns">Vinny Burns</a><br />Tony Holmes<br />Gary Williams</td></tr></tbody></table>
+<p><b>Ultravox</b> (earlier stylized as <b>Ultravox!</b>) were a British <a href="/wiki/New_wave_music" title="New wave music">new wave</a> band, formed in London in 1973 as <b>Tiger Lily</b>. Between 1980–86, they scored seven Top Ten albums and seventeen Top 40 singles in the UK, the most successful of which was their 1981 hit "<a href="/wiki/Vienna_(Ultravox_song)" title="Vienna (Ultravox song)">Vienna</a>".
+</p><p>From 1974 until 1979, singer <a href="/wiki/John_Foxx" title="John Foxx">John Foxx</a> was frontman and the main driving force behind Ultravox. Foxx left the band in March 1979 to embark on a solo career and, following his departure, <a href="/wiki/Midge_Ure" title="Midge Ure">Midge Ure</a> took over as lead singer, guitarist and frontman in October 1979 after he and keyboardist <a href="/wiki/Billy_Currie" title="Billy Currie">Billy Currie</a> worked in the studio project <a href="/wiki/Visage_(band)" title="Visage (band)">Visage</a>. Ure revitalised the band and steered it to commercial chart success lasting until 1988, at which time the group disbanded.
+</p><p>A new line-up, led by Currie, was formed in 1992, but achieved limited success, with two albums failing to chart and one solitary single reaching 90 in the UK Singles Chart.
+</p><p>The band's best-known line-up of Currie, Ure, bassist Chris Cross and drummer Warren Cann reformed in 2008 and performed a series of reunion shows in 2009 and 2010 before releasing a new studio album, <i><a href="/wiki/Brilliant_(album)" title="Brilliant (album)">Brill!ant</a></i>, in May 2012 which reached 21 in the British Album Charts. In November 2013, Ultravox performed as special guests on a four date UK arena tour with <a href="/wiki/Simple_Minds" title="Simple Minds">Simple Minds</a>. These shows proved to be Ultravox's last, as in 2017 both Currie and Ure indicated that Ultravox had run its course.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Early_years_–_Tiger_Lily:_1973–1976"><span class="tocnumber">1.1</span> <span class="toctext">Early years – Tiger Lily: 1973–1976</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Experimental_years:_1976–1979"><span class="tocnumber">1.2</span> <span class="toctext">Experimental years: 1976–1979</span></a>
+<ul>
+<li class="toclevel-3 tocsection-4"><a href="#Ultravox!"><span class="tocnumber">1.2.1</span> <span class="toctext">Ultravox!</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#Becoming_Ultravox"><span class="tocnumber">1.2.2</span> <span class="toctext">Becoming Ultravox</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#The_Midge_Ure_years:_1979–1988"><span class="tocnumber">1.3</span> <span class="toctext">The Midge Ure years: 1979–1988</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Post-Midge_Ure_years:_1992–1996"><span class="tocnumber">1.4</span> <span class="toctext">Post-Midge Ure years: 1992–1996</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Classic_line-up_reunion:_2008–present"><span class="tocnumber">1.5</span> <span class="toctext">Classic line-up reunion: 2008–present</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Legacy"><span class="tocnumber">1.6</span> <span class="toctext">Legacy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Discography"><span class="tocnumber">2</span> <span class="toctext">Discography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Studio_albums"><span class="tocnumber">2.1</span> <span class="toctext">Studio albums</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Band_members"><span class="tocnumber">3</span> <span class="toctext">Band members</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Lineups"><span class="tocnumber">3.1</span> <span class="toctext">Lineups</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Timeline"><span class="tocnumber">3.2</span> <span class="toctext">Timeline</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ultravox&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Early_years_.E2.80.93_Tiger_Lily:_1973.E2.80.931976"></span><span class="mw-headline" id="Early_years_–_Tiger_Lily:_1973–1976">Early years – Tiger Lily: 1973–1976</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ultravox&amp;action=edit&amp;section=2" title="Edit section: Early years – Tiger Lily: 1973–1976">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Tiger_Lily_(UK_band)" title="Tiger Lily (UK band)">Tiger Lily (UK band)</a></div>
+<p>The band was formed in 1973 on the initiative of vocalist and songwriter <a href="/wiki/John_Foxx" title="John Foxx">Dennis Leigh</a>, a then <a href="/wiki/Royal_College_of_Art" title="Royal College of Art">Royal College of Art</a> student, and was originally known as <a href="/wiki/Tiger_Lily_(UK_band)" title="Tiger Lily (UK band)">Tiger Lily</a>. An initial but incomplete line-up comprised Leigh plus <a href="/wiki/Chris_Cross" title="Chris Cross">Chris Allen</a> (bass guitar) and <a href="/wiki/Stevie_Shears" title="Stevie Shears">Stevie Shears</a> (guitar),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> with <a href="/wiki/Warren_Cann" title="Warren Cann">Warren Cann</a> (drums) and <a href="/wiki/Billy_Currie" title="Billy Currie">Billy Currie</a> (violin) joining in May and October 1974 respectively.<sup id="cite_ref-Discog_2-0" class="reference"><a href="#cite_note-Discog-2">&#91;2&#93;</a></sup> The group released one single in 1975, "<a href="/wiki/Ain%27t_Misbehavin%27_(song)#Tiger_Lily_version" title="Ain&#39;t Misbehavin&#39; (song)">Ain't Misbehavin'</a>", a cover of the <a href="/wiki/Fats_Waller" title="Fats Waller">Fats Waller</a> song which featured in a soft porn film. Later, the band went through a series of name changes including The Zips, Fire of London, London Soundtrack, and The Damned, using this last name for a few weeks before discovering that <a href="/wiki/The_Damned_(band)" title="The Damned (band)">another band</a> had already taken it.<sup id="cite_ref-Discog_2-1" class="reference"><a href="#cite_note-Discog-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span id="Experimental_years:_1976.E2.80.931979"></span><span class="mw-headline" id="Experimental_years:_1976–1979">Experimental years: 1976–1979</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ultravox&amp;action=edit&amp;section=3" title="Edit section: Experimental years: 1976–1979">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="Ultravox.21"></span><span class="mw-headline" id="Ultravox!">Ultravox!</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ultravox&amp;action=edit&amp;section=4" title="Edit section: Ultravox!">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>On the strength of their live act, the band signed to <a href="/wiki/Island_Records" title="Island Records">Island Records</a> in 1976. The group had still not finalised their band name, wanting to make a good and lasting choice. In July 1976, while working on the late stages of their debut album, the band conceived the name Ultravox! (the exclamation mark was a reference to <a href="/wiki/Krautrock" title="Krautrock">krautrock</a> band <a href="/wiki/Neu!" title="Neu!">Neu!</a>, produced by <a href="/wiki/Conny_Plank" title="Conny Plank">Conny Plank</a>, who later produced three Ultravox albums). At the same time, Leigh chose <a href="/wiki/John_Foxx" title="John Foxx">John Foxx</a> and Allen chose <a href="/wiki/Chris_Cross" title="Chris Cross">Chris Cross</a> as their respective stage names.<sup id="cite_ref-Discog_2-2" class="reference"><a href="#cite_note-Discog-2">&#91;2&#93;</a></sup> In February 1977, Island released their eponymous debut album, <i><a href="/wiki/Ultravox!_(album)" title="Ultravox! (album)">Ultravox!</a></i>.
+</p><p>Like many other bands that formed Britain's <a href="/wiki/Punk_rock" title="Punk rock">punk</a> and <a href="/wiki/New_wave_music" title="New wave music">new wave</a> movements, Ultravox! drew inspiration from the art-school side of <a href="/wiki/Glam_rock" title="Glam rock">glam rock</a>. Musically, Ultravox were heavily influenced by <a href="/wiki/Roxy_Music" title="Roxy Music">Roxy Music</a>, the <a href="/wiki/New_York_Dolls" title="New York Dolls">New York Dolls</a>, <a href="/wiki/David_Bowie" title="David Bowie">David Bowie</a> and <a href="/wiki/Kraftwerk" title="Kraftwerk">Kraftwerk</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> Their debut was co-produced by <a href="/wiki/Steve_Lillywhite" title="Steve Lillywhite">Steve Lillywhite</a> and <a href="/wiki/Brian_Eno" title="Brian Eno">Brian Eno</a> (who next co-wrote and performed with Bowie on <i><a href="/wiki/Low_(David_Bowie_album)" title="Low (David Bowie album)">Low</a></i>). <i><a href="/wiki/Ultravox!_(album)" title="Ultravox! (album)">Ultravox!</a></i>'s sales were disappointing, and neither the album nor the associated single "Dangerous Rhythm" managed to enter the UK charts. Relations within the band were on an occasionally tenuous footing during this time as Foxx declared that he intended to live without emotions, a sentiment he wrote into the début album track "I Want to Be a Machine".
+</p><p>Ultravox returned later in 1977 with the punkier <i><a href="/wiki/Ha!-Ha!-Ha!" title="Ha!-Ha!-Ha!">Ha!-Ha!-Ha!</a></i>. Sales of both the album and its lead single, "<a href="/wiki/ROckWrok" title="ROckWrok">ROckWrok</a>", were poor, both failing to register on the UK charts. "ROckWrok" had a punk-lyric chorus, with the words "Come on, let's tangle in the dark/Fuck like a dog, bite like a shark". (Despite this, it got airplay on <a href="/wiki/BBC_Radio_1" title="BBC Radio 1">BBC Radio 1</a>.) Although <i>Ha!-Ha!-Ha!</i> was dominated by guitars and <a href="/wiki/Electric_violin" title="Electric violin">electric violin</a>, the final track, "Hiroshima Mon Amour", was a prototypical <a href="/wiki/Synthpop" class="mw-redirect" title="Synthpop">synthpop</a> song. One of the first tracks by a British band to feature a drum machine (a <a href="/wiki/Roland_Rhythm_77" class="mw-redirect" title="Roland Rhythm 77">Roland Rhythm 77</a> with preset patterns), the song signalled a new direction for Ultravox. The energy, anger and popular appeal of punk was fading in 1978,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> and the more creative UK punk genre talent sought new directions—calling themselves <a href="/wiki/New_wave_music" title="New wave music">British new wave</a> instead of <a href="/wiki/Punk_rock" title="Punk rock">punk rock</a> artists. "Hiroshima Mon Amour" remains a critics' and fans' favourite from the group's initial period. Ultravox! also performed it on <i><a href="/wiki/The_Old_Grey_Whistle_Test" title="The Old Grey Whistle Test">The Old Grey Whistle Test</a></i> later in 1978.
+</p>
+<h4><span class="mw-headline" id="Becoming_Ultravox">Becoming Ultravox</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ultravox&amp;action=edit&amp;section=5" title="Edit section: Becoming Ultravox">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In early March 1978, Stevie Shears, whose style of guitar playing was considered a limiting factor, was sacked from the band after they toured England<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> and joined <a href="/wiki/Cowboys_International" title="Cowboys International">Cowboys International</a> in 1980. He was replaced by <a href="/wiki/Robin_Simon" title="Robin Simon">Robert Simon</a> (ex-member of <a href="/wiki/Ian_North" title="Ian North">Ian North</a>'s <a href="/wiki/Neo_(UK_band)" class="mw-redirect" title="Neo (UK band)">Neo</a>), who during his first days with the band changed his performance-name to Robin Simon.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Some time in 1978, the group also dropped the exclamation mark, becoming simply "Ultravox". The new line-up performed live at the <a href="/wiki/Reading_and_Leeds_Festivals" title="Reading and Leeds Festivals">Reading Festival</a> along with <a href="/wiki/Radio_Stars" title="Radio Stars">Radio Stars</a>, <a href="/wiki/Penetration_(band)" title="Penetration (band)">Penetration</a>, <a href="/wiki/Sham_69" title="Sham 69">Sham 69</a>, The Pirates and <a href="/wiki/The_Jam" title="The Jam">The Jam</a>, playing early versions of "Slow Motion" and "Quiet Men" on 27 August 1978.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>Their third album, 1978's <i><a href="/wiki/Systems_of_Romance" title="Systems of Romance">Systems of Romance</a></i>, was recorded with producer <a href="/wiki/Conny_Plank" title="Conny Plank">Conny Plank</a> (the producer of German electronic outfit <a href="/wiki/Kraftwerk" title="Kraftwerk">Kraftwerk</a>) and engineer Dave Hutchins at Plank's Studio in rural Germany. Musically, the album was markedly different from Ultravox's earlier work, bringing synthesisers to the forefront of the group's sound. Despite praise from some critics, the album was a commercial failure. Since none of the albums to date had generated much income, tensions within the band—particularly between Currie and Foxx—threatened the band's viability.
+</p><p>Island dropped the band on 31 December 1978 after an attempt to market the album in the United States failed to generate sales. That appeared to be the final nail in their coffin, but Ultravox undertook a self-financed US tour in early 1979. Splitting after their final gig near San Francisco in March 1979, Foxx declared his intention to go solo. Simon remained in the US and briefly joined The Futants, an American punk band from New York. He later returned to England and teamed up with <a href="/wiki/Howard_Devoto" title="Howard Devoto">Howard Devoto</a> to replace guitarist <a href="/wiki/John_McGeoch" title="John McGeoch">John McGeoch</a> in the band <a href="/wiki/Magazine_(band)" title="Magazine (band)">Magazine</a>. The remaining members made their way back to a Britain in the midst of a "winter of discontent". <a href="/wiki/Island_Records" title="Island Records">Island</a> dropped the three Ultravox albums from its catalogue, and released a compilation of highlights from the group's first three albums in 1980, called <i><a href="/wiki/Three_into_One" title="Three into One">Three into One</a></i>.
+</p><p>Foxx subsequently signed to Virgin Records and released his album <i><a href="/wiki/Metamatic" title="Metamatic">Metamatic</a></i> in January 1980. By this time, Billy Currie had been recruited by the rising star <a href="/wiki/Gary_Numan" title="Gary Numan">Gary Numan</a> in 1979 to do a performance at the <i>Old Grey Whistle Test</i> show with his band <a href="/wiki/Tubeway_Army" title="Tubeway Army">Tubeway Army</a>. Numan had been a fan of Ultravox and Currie was also asked to play on Numan's début solo album, <i><a href="/wiki/The_Pleasure_Principle_(Gary_Numan_album)" title="The Pleasure Principle (Gary Numan album)">The Pleasure Principle</a></i>, and its subsequent tour. Warren Cann went to work for <a href="/wiki/Zaine_Griff" title="Zaine Griff">Zaine Griff</a>, while Chris Cross did some shows with <a href="/wiki/James_Honeyman-Scott" title="James Honeyman-Scott">James Honeyman-Scott</a> (of <a href="/wiki/The_Pretenders" title="The Pretenders">The Pretenders</a>) and Barrie Masters (from <a href="/wiki/Eddie_and_the_Hot_Rods" title="Eddie and the Hot Rods">Eddie and the Hot Rods</a>).
+</p>
+<h3><span id="The_Midge_Ure_years:_1979.E2.80.931988"></span><span class="mw-headline" id="The_Midge_Ure_years:_1979–1988">The Midge Ure years: 1979–1988</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ultravox&amp;action=edit&amp;section=6" title="Edit section: The Midge Ure years: 1979–1988">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>With the band seemingly over, Ultravox were then revitalised by <a href="/wiki/Midge_Ure" title="Midge Ure">Midge Ure</a>, who joined the band as vocalist, guitarist and keyboardist. He had already achieved minor success with semi-glam outfit <a href="/wiki/Slik" title="Slik">Slik</a> and <a href="/wiki/Glen_Matlock" title="Glen Matlock">Glen Matlock</a>'s <a href="/wiki/The_Rich_Kids" class="mw-redirect" title="The Rich Kids">The Rich Kids</a>, and in 1979 he was temporarily playing with hard rock band <a href="/wiki/Thin_Lizzy" title="Thin Lizzy">Thin Lizzy</a>. Ure and Billy Currie had met while collaborating on <a href="/wiki/Visage_(band)" title="Visage (band)">Visage</a>, a studio-based band fronted by <a href="/wiki/New_Romantic" title="New Romantic">New Romantic</a> icon and nightclub impresario <a href="/wiki/Steve_Strange" title="Steve Strange">Steve Strange</a>.
+</p><p>Encouraged by Visage drummer and mutual friend <a href="/wiki/Rusty_Egan" title="Rusty Egan">Rusty Egan</a>, Currie asked Ure to join Ultravox. Ure filled both John Foxx's and Robin Simon's posts for Ultravox's next album, <i><a href="/wiki/Vienna_(album)" title="Vienna (album)">Vienna</a></i>, which heralded a major change of direction and would become their most successful to date, far surpassing any of the previous Ultravox (or Foxx's) albums. As with <i>Systems of Romance</i>, it was produced in Germany by Conny Plank. Ure knew of Ultravox's past, being a fan of <i>Systems</i> to the point where the new four-piece outfit (Ultravox mk. III) played songs from that album on tours with Ure singing Foxx's lyrics. Released on <a href="/wiki/Chrysalis_Records" title="Chrysalis Records">Chrysalis Records</a> in June 1980, the <i>Vienna</i> album produced the band's first UK Top 40 hit with "<a href="/wiki/Sleepwalk_(song)" title="Sleepwalk (song)">Sleepwalk</a>" reaching No. 29, while the album itself initially peaked at No.&#160;14. A second single, "<a href="/wiki/Passing_Strangers" title="Passing Strangers">Passing Strangers</a>", failed to reach the Top 40, only reaching No. 57, but the band achieved a substantial hit with the third single, the album's <a href="/wiki/Vienna_(Ultravox_song)" title="Vienna (Ultravox song)">title track</a> (inspired by <a href="/wiki/Carol_Reed" title="Carol Reed">Carol Reed</a>'s 1949 film <i><a href="/wiki/The_Third_Man" title="The Third Man">The Third Man</a></i>). Accompanied by a highly distinctive video, the single became Ultravox's biggest ever hit, released in January 1981 and peaking at Number 2 (kept off the top spot by John Lennon's "Woman" and then <a href="/wiki/Joe_Dolce" title="Joe Dolce">Joe Dolce</a>'s "<a href="/wiki/Shaddap_You_Face" title="Shaddap You Face">Shaddap You Face</a>"). On the strength of the single, the album then re-entered the chart and reached No. 3 in early 1981. A fourth single from the album, "<a href="/wiki/All_Stood_Still" title="All Stood Still">All Stood Still</a>", peaked at No. 8. in 1981, and "<a href="/wiki/Systems_of_Romance" title="Systems of Romance">Slow Motion</a>" from <i>Systems of Romance</i> was also re-issued, reaching No. 33 the same year.
+</p><p>This was soon followed by <i><a href="/wiki/Rage_in_Eden" title="Rage in Eden">Rage in Eden</a></i> (1981), with the band returning to Conny Plank's studio for what turned out to be a difficult recording session. Whereas the <i>Vienna</i> material had been performed live a great deal prior to a three-week recording process, <i>Rage in Eden</i> took over three months. The album featured a long track in three parts on the second side. The album peaked at No.&#160;4 in the UK, while two singles from the album, "<a href="/wiki/The_Thin_Wall" title="The Thin Wall">The Thin Wall</a>" and "<a href="/wiki/The_Voice_(Ultravox_song)" title="The Voice (Ultravox song)">The Voice</a>", both made the UK Top 20, reaching No.&#160;14 and No.&#160;16 respectively.
+</p><p>Ultravox teamed up with producer <a href="/wiki/George_Martin" title="George Martin">George Martin</a> for 1982's <i><a href="/wiki/Quartet_(Ultravox_album)" title="Quartet (Ultravox album)">Quartet</a></i>, which peaked at No.&#160;6 in the UK and contained four Top 20 hit singles; "<a href="/wiki/Reap_the_Wild_Wind_(song)" title="Reap the Wild Wind (song)">Reap the Wild Wind</a>" reaching No.&#160;12 and "<a href="/wiki/Hymn_(Ultravox_song)" title="Hymn (Ultravox song)">Hymn</a>" No.&#160;11 both in 1982, and "<a href="/wiki/Visions_in_Blue" title="Visions in Blue">Visions in Blue</a>" and in 1983 "<a href="/wiki/We_Came_to_Dance" title="We Came to Dance">We Came to Dance</a>" charting at No. 15 and No.&#160;18 respectively. It was their most successful album in the US, peaking at No.&#160;61.
+</p><p>The band undertook a major world tour known as the Monument Tour, which was recorded and released as <a href="/wiki/Monument_(Ultravox_album)" title="Monument (Ultravox album)">a live LP and video</a> in 1983, which also reached the UK top ten.
+</p><p>1984's <i><a href="/wiki/Lament_(Ultravox_album)" title="Lament (Ultravox album)">Lament</a></i> continued the band's run of top ten albums and produced three top 40 hit singles, including the international hit "<a href="/wiki/Dancing_with_Tears_in_My_Eyes" title="Dancing with Tears in My Eyes">Dancing with Tears in My Eyes</a>" (UK No.&#160;3), "<a href="/wiki/Lament" title="Lament">Lament</a>" (No.&#160;22) and "<a href="/wiki/One_Small_Day" title="One Small Day">One Small Day</a>" peaking at No.&#160;27.
+</p><p>Towards the end of 1984, a "greatest hits" compilation spanning the band's 1980s output was released entitled <i><a href="/wiki/The_Collection_(Ultravox_album)" title="The Collection (Ultravox album)">The Collection</a></i>. It was preceded by a new single, "<a href="/wiki/Love%27s_Great_Adventure" title="Love&#39;s Great Adventure">Love's Great Adventure</a>", which enjoyed massive radio airplay that autumn and eventually peaked at No.&#160;12 in the UK, accompanied by a popular <a href="/wiki/Indiana_Jones" title="Indiana Jones">Indiana Jones</a>-style spoof video. <i>The Collection</i> went triple Platinum and reached No.&#160;2 in the UK album chart, the band's highest ever peak.
+</p><p>At this time, Ure also co-wrote and helped produce the 1984 <a href="/wiki/Band_Aid_(band)" title="Band Aid (band)">Band Aid</a> single "<a href="/wiki/Do_They_Know_It%27s_Christmas%3F" title="Do They Know It&#39;s Christmas?">Do They Know It's Christmas?</a>". The group also appeared at <a href="/wiki/Live_Aid" title="Live Aid">Live Aid</a> the following year and played four of their hit singles ("Vienna", "Reap the Wild Wind", "Dancing with Tears in My Eyes" and "<a href="/wiki/One_Small_Day" title="One Small Day">One Small Day</a>"). Later in 1985, Ure scored a No.&#160;1 solo hit with "If I Was" and his solo album <i>The Gift</i> reached No. 2 in the UK.
+</p><p>Ultravox reconvened in 1986, but <a href="/wiki/Warren_Cann" title="Warren Cann">Warren Cann</a> was sacked from the band at the beginning of sessions for their <i><a href="/wiki/U-Vox" title="U-Vox">U-Vox</a></i> album. Cann emigrated to the US and retired from music to become an actor. <a href="/wiki/Big_Country" title="Big Country">Big Country</a>'s <a href="/wiki/Mark_Brzezicki" title="Mark Brzezicki">Mark Brzezicki</a> took his place. <i>U-Vox</i> was later described by Currie and Ure as "unfocused". Although it continued their string of top ten albums in the UK, the declining performance of its singles prompted both Ure and Cross to leave the band, "<a href="/wiki/Same_Old_Story" class="mw-redirect" title="Same Old Story">Same Old Story</a>" peaking at No.&#160;31, and "All Fall Down" at No.&#160;30 in 1986, with "<a href="/wiki/All_in_One_Day" title="All in One Day">All in One Day</a>" reaching only No. 88 in 1987. In 1987 Ultravox decided not to continue after the <i>U-Vox</i> tour early that year, and split up in 1988.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> Ure subsequently concentrated on his solo career with varying levels of success, and Cross retired from music altogether and returned to his former career as a psychotherapist. Billy Currie and Robin Simon reunited in 1989 as the short-lived Humania, performing live shows but never making a release until 2006, the album <i>Sinews of the Soul</i>.
+</p><p>Since 1979, Ure and Currie had also been part of the <a href="/wiki/Visage_(band)" title="Visage (band)">Visage</a> ensemble on a part-time basis while simultaneously being in Ultravox. During Ure and Currie's tenure, Visage had released two successful albums and had a string of hit singles (the most notable being "<a href="/wiki/Fade_to_Grey_(Visage_song)" title="Fade to Grey (Visage song)">Fade to Grey</a>"), but Ure decided to leave in 1982 to concentrate solely on Ultravox. Currie remained with Visage for a while longer, but he too had left them by 1984.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Midge_April84.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Midge_April84.JPG/220px-Midge_April84.JPG" decoding="async" width="220" height="231" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/5/55/Midge_April84.JPG 1.5x" data-file-width="250" data-file-height="263" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Midge_April84.JPG" class="internal" title="Enlarge"></a></div>Ultravox vocalist Midge Ure in concert, April 1984</div></div></div>
+<h3><span id="Post-Midge_Ure_years:_1992.E2.80.931996"></span><span class="mw-headline" id="Post-Midge_Ure_years:_1992–1996">Post-Midge Ure years: 1992–1996</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ultravox&amp;action=edit&amp;section=7" title="Edit section: Post-Midge Ure years: 1992–1996">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Without any other original members, Currie reformed Ultravox again in 1992 with vocalist <a href="/wiki/Tony_Fenelle" title="Tony Fenelle">Tony Fenelle</a> to record <i><a href="/wiki/Revelation_(Ultravox_album)" title="Revelation (Ultravox album)">Revelation</a></i>, and later <a href="/wiki/Sam_Blue" title="Sam Blue">Sam Blue</a> replaced Fenelle in a new five-piece Ultravox line-up, lending his voice to another release, <i><a href="/wiki/Ingenuity_(album)" title="Ingenuity (album)">Ingenuity</a></i> (1994). These line-ups had little commercial success and the band dissolved again in 1996.
+</p>
+<h3><span id="Classic_line-up_reunion:_2008.E2.80.93present"></span><span class="mw-headline" id="Classic_line-up_reunion:_2008–present">Classic line-up reunion: 2008–present</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ultravox&amp;action=edit&amp;section=8" title="Edit section: Classic line-up reunion: 2008–present">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Warren Cann, Chris Cross, Billy Currie and Midge Ure reformed Ultravox again in 2008 for a UK tour in April 2009, entitled "Return to Eden".<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> This would be the first time the classic line-up of the band have performed together since <a href="/wiki/Live_Aid" title="Live Aid">Live Aid</a> in 1985. The tour played at venues across the UK. Since success from touring the UK they have extended the tour to Germany and Belgium.
+</p><p>In September 2008, both <i>Vienna</i> and <i>Rage in Eden</i> were released in digitally remastered two-disc format with the second disc containing previously unreleased material. <i>Quartet</i> and <i>Monument</i> were released in February 2009, also in two-disc editions. The second disc in the <i>Monument</i> package is a DVD containing the concert video that was previously only available on VHS tape. The other Chrysalis-era releases were planned for similar future releases. A live CD and DVD of Ultravox's sell-out Roundhouse show was released on 5 April 2010. The DVD features a documentary filmed on the buildup to and during the reunion tour, much of it filmed by Midge Ure.
+</p><p>An anthology of unreleased Ultravox material was planned in mid-2008, but has not been scheduled for release.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>Speaking to the <i>Sunday Mail</i>, Midge Ure stated that the reunion was only a one-off, and there would be no new material from the group. He said: "We're not trying to recapture our youth and won't be writing new songs or recording another album. This is about celebrating our music and our anniversary."<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>On <a href="/wiki/Jonathan_Ross" title="Jonathan Ross">Jonathan Ross</a>'s show on BBC's Radio 2 on 21 February 2009, Ure discussed the tour, with all four members of the most successful incarnation of the band on board. He mentioned that this reunion was not planned in light of the previously mentioned events, but rather was spontaneous and happened very quickly with the band members talking and communicating online (using email and Skype). The interview did not reveal whether or not new material would be recorded as a result of the reunion tour.  Ultravox returned to performing live with their Return to Eden II tour during 2010.
+</p><p>On 20 January 2011, via their official website, Ultravox.org.uk, the band announced that a new studio album was nearing completion.<sup id="cite_ref-Ultravox_News_12-0" class="reference"><a href="#cite_note-Ultravox_News-12">&#91;12&#93;</a></sup> The band were to release a fan store exclusive superdeluxe EP on CD and 10&#160;inch single via Townsend Records on 14 March. The EP, called <i>Moments from Eden</i>, featured four new live tracks and was finally released in May 2012.<sup id="cite_ref-Ultravox_News_12-1" class="reference"><a href="#cite_note-Ultravox_News-12">&#91;12&#93;</a></sup>
+</p><p>Ultravox's 11th studio album, <i><a href="/wiki/Brilliant_(album)" title="Brilliant (album)">Brill!ant</a></i>, was released on 28 May 2012.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> Following this release the band embarked on the 'Brilliant Tour' performing shows across the UK and Europe in late 2012. In November 2013 Ultravox performed their last shows as special guests on a four date UK arena tour with <a href="/wiki/Simple_Minds" title="Simple Minds">Simple Minds</a>.
+</p><p>On 4 January 2017 Billy Currie announced on his official website that he had decided that his time as a member of Ultravox had come to an end after 43 years.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> In December 2017 Midge Ure revealed in an interview with the <a href="/wiki/Daily_Express" title="Daily Express">Daily Express</a> that a further reformation by the band was unlikely.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Legacy">Legacy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ultravox&amp;action=edit&amp;section=9" title="Edit section: Legacy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Along with acts like <a href="/wiki/Visage_(band)" title="Visage (band)">Visage</a> and <a href="/wiki/Gary_Numan" title="Gary Numan">Gary Numan</a>, Ultravox was one of the early influences on <a href="/wiki/Techno" title="Techno">techno</a>. In his book <i>Energy Flash</i>, <a href="/wiki/Simon_Reynolds" title="Simon Reynolds">Simon Reynolds</a> quotes Adam Lee Miller of <a href="/wiki/Adult_(band)" title="Adult (band)">Adult</a>: "I always get a kick when people say the first 'techno' record was <a href="/wiki/Cybotron_(American_band)" title="Cybotron (American band)">Cybotron</a>'s 'Alleys of Your Mind'... To me, it was just a <a href="/wiki/New_wave_music" title="New wave music">new wave</a> record. It sounds particularly close to 'Mr X' by Ultravox."<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ultravox&amp;action=edit&amp;section=10" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Ultravox_discography" title="Ultravox discography">Ultravox discography</a></div>
+<h3><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ultravox&amp;action=edit&amp;section=11" title="Edit section: Studio albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i><a href="/wiki/Ultravox!_(album)" title="Ultravox! (album)">Ultravox!</a></i> (1977)</li>
+<li><i><a href="/wiki/Ha!-Ha!-Ha!" title="Ha!-Ha!-Ha!">Ha!-Ha!-Ha!</a></i> (1977)</li>
+<li><i><a href="/wiki/Systems_of_Romance" title="Systems of Romance">Systems of Romance</a></i> (1978)</li>
+<li><i><a href="/wiki/Vienna_(album)" title="Vienna (album)">Vienna</a></i> (1980)</li>
+<li><i><a href="/wiki/Rage_in_Eden" title="Rage in Eden">Rage in Eden</a></i> (1981)</li>
+<li><i><a href="/wiki/Quartet_(Ultravox_album)" title="Quartet (Ultravox album)">Quartet</a></i> (1982)</li>
+<li><i><a href="/wiki/Lament_(Ultravox_album)" title="Lament (Ultravox album)">Lament</a></i> (1984)</li>
+<li><i><a href="/wiki/U-Vox" title="U-Vox">U-Vox</a></i> (1986)</li>
+<li><i><a href="/wiki/Revelation_(Ultravox_album)" title="Revelation (Ultravox album)">Revelation</a></i> (1993)</li>
+<li><i><a href="/wiki/Ingenuity_(album)" title="Ingenuity (album)">Ingenuity</a></i> (1994)</li>
+<li><i><a href="/wiki/Brilliant_(album)" title="Brilliant (album)">Brill!ant</a></i> (2012)</li></ul>
+<h2><span class="mw-headline" id="Band_members">Band members</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ultravox&amp;action=edit&amp;section=12" title="Edit section: Band members">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Final lineup</dt></dl>
+<ul><li><a href="/wiki/Chris_Cross" title="Chris Cross">Chris Cross</a> – bass, synthesisers, backing vocals <small>(1973–1988, 2008–2018)</small></li>
+<li><a href="/wiki/Warren_Cann" title="Warren Cann">Warren Cann</a> – drums, percussion, backing vocals, occasional lead vocals <small>(1974–1986, 2008–2018)</small></li>
+<li><a href="/wiki/Midge_Ure" title="Midge Ure">Midge Ure</a> – lead vocals, guitar, synthesisers <small>(1979–1988, 2008–2018)</small></li></ul>
+<p>&#32;
+</p>
+</td>
+<td style="width: 50%;text-align: left; vertical-align: top;">
+<dl><dt>Former members</dt></dl>
+<ul><li><a href="/wiki/John_Foxx" title="John Foxx">John Foxx</a> – lead vocals <small>(1973–1979)</small></li>
+<li><a href="/wiki/Stevie_Shears" title="Stevie Shears">Stevie Shears</a> – guitar <small>(1973–1978)</small></li>
+<li><a href="/wiki/Billy_Currie" title="Billy Currie">Billy Currie</a> – keyboards, viola, violin, synthesisers <small>(1974–1988, 1992–1996, 2008–2017)</small></li>
+<li><a href="/wiki/Robin_Simon" title="Robin Simon">Robin Simon</a> – guitar, backing vocals <small>(1978–1979)</small></li>
+<li><a href="/wiki/Mark_Brzezicki" title="Mark Brzezicki">Mark Brzezicki</a> – drums, percussion <small>(1986–1988)</small></li>
+<li><a href="/wiki/Tony_Fenelle" title="Tony Fenelle">Tony Fenelle</a> – lead vocals, guitar <small>(1992–1994)</small></li>
+<li>Gerry Laffy – guitar <small>(1992–1994)</small></li>
+<li>Neal Wilkinson – drums, percussion <small>(1992–1994)</small></li>
+<li>Jackie Williams – backing vocals <small>(1992–1994)</small></li>
+<li><a href="/wiki/Sam_Blue" title="Sam Blue">Sam Blue</a> – lead vocals <small>(1994–1996)</small></li>
+<li><a href="/wiki/Vinny_Burns" title="Vinny Burns">Vinny Burns</a> – guitar <small>(1994–1996)</small></li>
+<li>Tony Holmes – drums, percussion <small>(1994–1996)</small></li>
+<li>Gary Williams – bass <small>(1994–1996)</small></li></ul>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<h3><span class="mw-headline" id="Lineups">Lineups</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ultravox&amp;action=edit&amp;section=13" title="Edit section: Lineups">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="toccolours" border="1" cellpadding="2" cellspacing="0" style="float: width: 375px; margin: 0 0 1em 1em; border-collapse: collapse; border: 1px solid #E2E2E2;" width="99%">
+
+<tbody><tr>
+<th bgcolor="#E7EBEE" valign="top" width="25%">1973–1974
+</th>
+<th bgcolor="#E7EBEE" valign="top" width="25%">1974
+</th>
+<th bgcolor="#E7EBEE" valign="top" width="25%">1974–1978
+</th>
+<th bgcolor="#E7EBEE" valign="top" width="25%">1978–1979
+</th></tr>
+<tr>
+<td valign="top">
+<ul><li><b><a href="/wiki/Chris_Cross" title="Chris Cross">Chris Cross</a></b> – bass, synthesisers, backing vocals</li>
+<li><b><a href="/wiki/John_Foxx" title="John Foxx">John Foxx</a></b> – lead vocals</li>
+<li><b><a href="/wiki/Stevie_Shears" title="Stevie Shears">Stevie Shears</a></b> – guitar</li></ul>
+</td>
+<td valign="top">
+<ul><li><b>Chris Cross</b> – bass, synthesisers, backing vocals</li>
+<li><b>John Foxx</b> – lead vocals</li>
+<li><b>Stevie Shears</b> – guitar</li>
+<li><b><a href="/wiki/Warren_Cann" title="Warren Cann">Warren Cann</a></b> – drums, percussion, backing vocals</li></ul>
+</td>
+<td valign="top">
+<ul><li><b>Chris Cross</b> – bass, synthesisers, backing vocals</li>
+<li><b>John Foxx</b> – lead vocals</li>
+<li><b>Stevie Shears</b> – guitar</li>
+<li><b>Warren Cann</b> – drums, percussion, backing vocals</li>
+<li><b><a href="/wiki/Billy_Currie" title="Billy Currie">Billy Currie</a></b> – keyboards, viola, violin, synthesisers</li></ul>
+</td>
+<td valign="top">
+<ul><li><b>Chris Cross</b> – bass, synthesisers, backing vocals</li>
+<li><b>John Foxx</b> – lead vocals</li>
+<li><b>Warren Cann</b> – drums, percussion, backing vocals</li>
+<li><b>Billy Currie</b> – keyboards, viola, violin, synthesisers</li>
+<li><b><a href="/wiki/Robin_Simon" title="Robin Simon">Robin Simon</a></b> – guitar, backing vocals</li></ul>
+</td></tr>
+<tr>
+<th bgcolor="#E7EBEE" valign="top" width="25%">1979–1986<br />Classic line-up
+</th>
+<th bgcolor="#E7EBEE" valign="top" width="25%">1986–1988
+</th>
+<th bgcolor="#E7EBEE" valign="top" width="25%">1988–1992
+</th>
+<th bgcolor="#E7EBEE" valign="top" width="25%">1992–1994
+</th></tr>
+<tr>
+<td valign="top">
+<ul><li><b>Chris Cross</b> – bass, synthesisers, backing vocals</li>
+<li><b>Warren Cann</b> – drums, percussion, backing vocals</li>
+<li><b>Billy Currie</b> – keyboards, viola, violin, synthesisers</li>
+<li><b><a href="/wiki/Midge_Ure" title="Midge Ure">Midge Ure</a></b> – lead vocals, guitar, synthesisers</li></ul>
+</td>
+<td valign="top">
+<ul><li><b>Chris Cross</b> – bass, synthesisers, backing vocals</li>
+<li><b>Billy Currie</b> – keyboards, viola, violin, synthesisers</li>
+<li><b>Midge Ure</b> – lead vocals, guitar, synthesisers</li>
+<li><b><a href="/wiki/Mark_Brzezicki" title="Mark Brzezicki">Mark Brzezicki</a></b> – drums, percussion</li></ul>
+</td>
+<td valign="top">
+<p><b>Disbanded</b>
+</p>
+</td>
+<td valign="top">
+<ul><li><b>Billy Currie</b> – keyboards, viola, violin, synthesisers</li>
+<li><b><a href="/wiki/Tony_Fenelle" title="Tony Fenelle">Tony Fenelle</a></b> – lead vocals, guitar</li>
+<li><b>Gerry Laffy</b> – guitar</li>
+<li><b>Neal Wilkinson</b> – drums, percussion</li>
+<li><b>Jackie Williams</b> – backing vocals</li></ul>
+</td></tr>
+<tr>
+<th bgcolor="#E7EBEE" valign="top" width="25%">1994–1996
+</th>
+<th bgcolor="#E7EBEE" valign="top" width="25%">1996–2008
+</th>
+<th bgcolor="#E7EBEE" valign="top" width="25%">2008–2017<br />Classic line-up
+</th>
+<th bgcolor="#E7EBEE" valign="top" width="25%">2017–2018
+</th></tr>
+<tr>
+<td valign="top">
+<ul><li><b>Billy Currie</b> – keyboards, viola, violin, synthesisers</li>
+<li><b><a href="/wiki/Sam_Blue" title="Sam Blue">Sam Blue</a></b> – lead vocals</li>
+<li><b>Vinny Burns</b> – guitar</li>
+<li><b>Tony Holmes</b> – drums, percussion</li>
+<li><b>Gary Williams</b> – bass</li></ul>
+</td>
+<td valign="top">
+<p><b>Disbanded</b>
+</p>
+</td>
+<td valign="top">
+<ul><li><b>Billy Currie</b> – keyboards, viola, violin, synthesisers</li>
+<li><b>Warren Cann</b> – drums, percussion, backing vocals</li>
+<li><b>Chris Cross</b> – bass, synthesisers, backing vocals</li>
+<li><b>Midge Ure</b> – lead vocals, guitar, synthesisers</li></ul>
+</td>
+<td valign="top">
+<ul><li><b>Warren Cann</b> – drums, percussion, backing vocals</li>
+<li><b>Chris Cross</b> – bass, synthesisers, backing vocals</li>
+<li><b>Midge Ure</b> – lead vocals, guitar, synthesisers</li></ul>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Timeline">Timeline</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ultravox&amp;action=edit&amp;section=14" title="Edit section: Timeline">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="left">
+<div class="timeline-wrapper"><map name="timeline_403352b47b5c45877319175485647a81"></map><img usemap="#timeline_403352b47b5c45877319175485647a81" src="//upload.wikimedia.org/wikipedia/en/timeline/403352b47b5c45877319175485647a81.png" /></div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ultravox&amp;action=edit&amp;section=15" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141015100826/http://www.astradyne.org/e/ultravox_music_magazine.htm">"John Foxx and Ultravox!"</a>. <i><a href="/wiki/Mojo_(magazine)" title="Mojo (magazine)">Mojo</a></i>. September 2006. Archived from <a rel="nofollow" class="external text" href="http://www.astradyne.org/e/ultravox_music_magazine.htm">the original</a> on 15 October 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">25 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mojo&amp;rft.atitle=John+Foxx+and+Ultravox%21&amp;rft.date=2006-09&amp;rft_id=http%3A%2F%2Fwww.astradyne.org%2Fe%2Fultravox_music_magazine.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-Discog-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Discog_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Discog_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Discog_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.discog.info/ultravox-interview.html">"Warren Cann/Ultravox Interview"</a>. <i>Discog.info</i>. 10 December 1997<span class="reference-accessdate">. Retrieved <span class="nowrap">25 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Discog.info&amp;rft.atitle=Warren+Cann%2FUltravox+Interview&amp;rft.date=1997-12-10&amp;rft_id=http%3A%2F%2Fwww.discog.info%2Fultravox-interview.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Ankeny, Jason. <a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/ultravox-mn0000809266">"Ultravox | Music Biography, Streaming Radio and Discography | AllMusic"</a>. <i><a href="/wiki/AllMusic" title="AllMusic">AllMusic</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">25 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=AllMusic&amp;rft.atitle=Ultravox+%7C+Music+Biography%2C+Streaming+Radio+and+Discography+%7C+AllMusic&amp;rft.aulast=Ankeny&amp;rft.aufirst=Jason&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Fartist%2Fultravox-mn0000809266&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Simon_Reynolds" title="Simon Reynolds">Reynolds, Simon</a> (2004). <i><a href="/wiki/Rip_It_Up_and_Start_Again:_Postpunk_1978%E2%80%931984" class="mw-redirect" title="Rip It Up and Start Again: Postpunk 1978–1984">Rip It Up and Start Again: Postpunk 1978–1984</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Rip+It+Up+and+Start+Again%3A+Postpunk+1978%E2%80%931984&amp;rft.date=2004&amp;rft.aulast=Reynolds&amp;rft.aufirst=Simon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Wårstad, Jonas (27 November 1998). <a rel="nofollow" class="external text" href="http://www.discog.info/ultravox-interview2.html">"Warren Cann/Ultravox Interview"</a>. <i>Discog.info</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Discog.info&amp;rft.atitle=Warren+Cann%2FUltravox+Interview&amp;rft.date=1998-11-27&amp;rft.aulast=W%C3%A5rstad&amp;rft.aufirst=Jonas&amp;rft_id=http%3A%2F%2Fwww.discog.info%2Fultravox-interview2.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.punk77.co.uk/groups/neo.htm">"Neo – A Punk History with Pictures"</a>. <i>Punk77.co.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Punk77.co.uk&amp;rft.atitle=Neo+%E2%80%93+A+Punk+History+with+Pictures.&amp;rft_id=http%3A%2F%2Fwww.punk77.co.uk%2Fgroups%2Fneo.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ukrockfestivals.com/reading-78.html">"Reading Rock Festival.Reading 1978"</a>. <i>Ukrockfestivals.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ukrockfestivals.com&amp;rft.atitle=Reading+Rock+Festival.Reading+1978&amp;rft_id=http%3A%2F%2Fwww.ukrockfestivals.com%2Freading-78.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation AV-media-notes"><a href="/wiki/Billy_Currie" title="Billy Currie">Currie, Billy</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20061201211827/http://www.billycurrie.com/linernotes.html"><i>Sinews of the Soul</i></a> (Media notes). Archived from <a rel="nofollow" class="external text" href="http://www.billycurrie.com/linernotes.html">the original</a> on 1 December 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sinews+of+the+Soul&amp;rft.aulast=Currie&amp;rft.aufirst=Billy&amp;rft_id=http%3A%2F%2Fwww.billycurrie.com%2Flinernotes.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081225215018/http://www.ultravox.org.uk/cgi-bin/dada/mail.cgi/archive/evnews/20081106200935/">"Ultravox.org.uk – News"</a>. <i>Ultravox.org.uk</i>. Archived from <a rel="nofollow" class="external text" href="http://www.ultravox.org.uk/cgi-bin/dada/mail.cgi/archive/evnews/20081106200935/">the original</a> on 25 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ultravox.org.uk&amp;rft.atitle=Ultravox.org.uk+%E2%80%93+News&amp;rft_id=http%3A%2F%2Fwww.ultravox.org.uk%2Fcgi-bin%2Fdada%2Fmail.cgi%2Farchive%2Fevnews%2F20081106200935%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090129195517/http://www.ultravox.org.uk/cgi-bin/dada/mail.cgi?flavor=archive;list=evnews;id=20080720233908">"Ultravox.org.uk – News"</a>. <i>Ultravox.org.uk</i>. Archived from <a rel="nofollow" class="external text" href="http://www.ultravox.org.uk/cgi-bin/dada/mail.cgi?flavor=archive;list=evnews;id=20080720233908">the original</a> on 29 January 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">30 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ultravox.org.uk&amp;rft.atitle=Ultravox.org.uk+%E2%80%93+News&amp;rft_id=http%3A%2F%2Fwww.ultravox.org.uk%2Fcgi-bin%2Fdada%2Fmail.cgi%3Fflavor%3Darchive%3Blist%3Devnews%3Bid%3D20080720233908&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Sloan, Billy (18 January 2009). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090131070620/http://www.sundaymail.co.uk/opinion/columnists/billy-sloan/2009/01/18/the-big-ticket-ure-dead-brilliant-78057-21050773/">"The Big Ticket: Ure Dead Brilliant – The Sunday Mail"</a>. <i><a href="/wiki/Sunday_Mail_(Scotland)" title="Sunday Mail (Scotland)">The Sunday Mail</a></i>. Archived from <a rel="nofollow" class="external text" href="http://www.sundaymail.co.uk/opinion/columnists/billy-sloan/2009/01/18/the-big-ticket-ure-dead-brilliant-78057-21050773/">the original</a> on 31 January 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Sunday+Mail&amp;rft.atitle=The+Big+Ticket%3A+Ure+Dead+Brilliant+%E2%80%93+The+Sunday+Mail&amp;rft.date=2009-01-18&amp;rft.aulast=Sloan&amp;rft.aufirst=Billy&amp;rft_id=http%3A%2F%2Fwww.sundaymail.co.uk%2Fopinion%2Fcolumnists%2Fbilly-sloan%2F2009%2F01%2F18%2Fthe-big-ticket-ure-dead-brilliant-78057-21050773%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-Ultravox_News-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ultravox_News_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ultravox_News_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://us1.campaign-archive2.com/?u=017e8bf3ce11a136b4e3e6abb&amp;id=55e445e4a5">"Ultravox News"</a>. <i>Ultravox.org.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ultravox.org.uk&amp;rft.atitle=Ultravox+News&amp;rft_id=http%3A%2F%2Fus1.campaign-archive2.com%2F%3Fu%3D017e8bf3ce11a136b4e3e6abb%26id%3D55e445e4a5&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Eames, Tom (31 May 2012). <a rel="nofollow" class="external text" href="http://www.digitalspy.co.uk/music/news/a384644/ultravox-release-first-new-album-with-midge-ure-in-26-years.html#~oZPUoXWQR4qllB">"Ultravox Release First New Album with Midge Ure in 26 Years – Music News – Digital Spy"</a>. <i><a href="/wiki/Digital_Spy" title="Digital Spy">Digital Spy</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">29 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Digital+Spy&amp;rft.atitle=Ultravox+Release+First+New+Album+with+Midge+Ure+in+26+Years+%E2%80%93+Music+News+%E2%80%93+Digital+Spy&amp;rft.date=2012-05-31&amp;rft.aulast=Eames&amp;rft.aufirst=Tom&amp;rft_id=http%3A%2F%2Fwww.digitalspy.co.uk%2Fmusic%2Fnews%2Fa384644%2Fultravox-release-first-new-album-with-midge-ure-in-26-years.html%23~oZPUoXWQR4qllB&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.billycurrie.com/#b">"Home"</a>. <i>Billycurrie.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 September</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Billycurrie.com&amp;rft.atitle=Home&amp;rft_id=http%3A%2F%2Fwww.billycurrie.com%2F%23b&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.gforcesoftware.com/artists/interviews/billy-currie">"Billy Currie  - GFORCE SOFTWARE"</a>. <i>Gforcesoftware.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 September</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gforcesoftware.com&amp;rft.atitle=Billy+Currie++-+GFORCE+SOFTWARE&amp;rft_id=https%3A%2F%2Fwww.gforcesoftware.com%2Fartists%2Finterviews%2Fbilly-currie&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Simpson, George (12 December 2017). <a rel="nofollow" class="external text" href="https://www.express.co.uk/entertainment/music/891307/Midge-Ure-new-album-Orchestrated-Ultravox-reunion">"Midge Ure SPEAKS OUT on Ultravox's future and new album Orchestrated (EXCLUSIVE)"</a>. <i>Express.co.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2 September</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Express.co.uk&amp;rft.atitle=Midge+Ure+SPEAKS+OUT+on+Ultravox%E2%80%99s+future+and+new+album+Orchestrated+%28EXCLUSIVE%29&amp;rft.date=2017-12-12&amp;rft.aulast=Simpson&amp;rft.aufirst=George&amp;rft_id=https%3A%2F%2Fwww.express.co.uk%2Fentertainment%2Fmusic%2F891307%2FMidge-Ure-new-album-Orchestrated-Ultravox-reunion&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation book">Reynolds, Simon (2011). <i>Energy Flash</i>. Picador. p.&#160;481.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Energy+Flash&amp;rft.pages=481&amp;rft.pub=Picador&amp;rft.date=2011&amp;rft.aulast=Reynolds&amp;rft.aufirst=Simon&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AUltravox" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ultravox&amp;action=edit&amp;section=16" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="metadata mbox-small wikipedia-books" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Office-book.svg/30px-Office-book.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Office-book.svg/45px-Office-book.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Office-book.svg/60px-Office-book.svg.png 2x" data-file-width="48" data-file-height="48" /></td>
+<td class="mbox-text plainlist"><ul style="font-weight: bold">
+<li><a href="/wiki/Book:Ultravox" title="Book:Ultravox">Book: Ultravox</a></li>
+</ul></td></tr>
+</tbody></table>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Ultravox" class="extiw" title="commons:Category:Ultravox">Ultravox</a></b></i>.</td></tr>
+</tbody></table>
+<ul><li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="http://www.ultravox.org.uk/">Official website</a></span></span></li>
+<li>"<a rel="nofollow" class="external text" href="http://www.ultravox.org.uk/images-history/Ultravox-History_Screen_v1.0.pdf">The Story</a>. " Warren Cann interviewed by Jonas Wårstad. Gives a detailed history of the band. (<a rel="nofollow" class="external text" href="http://www.discog.info/ultravox-interview.html">text</a>)</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Ultravox" style="padding:3px"><table class="nowraplinks vcard hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Ultravox" title="Template:Ultravox"><abbr title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Ultravox" title="Template talk:Ultravox"><abbr title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Ultravox&amp;action=edit"><abbr title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Ultravox" class="fn org" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Ultravox</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div id="*_Chris_Cross&amp;#10;*_Warren_Cann&amp;#10;*_Billy_Currie&amp;#10;*_Midge_Ure&amp;#10;&amp;#10;*_John_Foxx&amp;#10;*_Stevie_Shears&amp;#10;*_Robin_Simon&amp;#10;*_Mark_Brzezicki&amp;#10;*_Tony_Fenelle&amp;#10;*_Sam_Blue&amp;#10;*_Vinny_Burns">
+<ul><li><b><a href="/wiki/Chris_Cross" title="Chris Cross">Chris Cross</a></b></li>
+<li><b><a href="/wiki/Warren_Cann" title="Warren Cann">Warren Cann</a></b></li>
+<li><b><a href="/wiki/Billy_Currie" title="Billy Currie">Billy Currie</a></b></li>
+<li><b><a href="/wiki/Midge_Ure" title="Midge Ure">Midge Ure</a></b></li></ul>
+<ul><li><a href="/wiki/John_Foxx" title="John Foxx">John Foxx</a></li>
+<li><a href="/wiki/Stevie_Shears" title="Stevie Shears">Stevie Shears</a></li>
+<li><a href="/wiki/Robin_Simon" title="Robin Simon">Robin Simon</a></li>
+<li><a href="/wiki/Mark_Brzezicki" title="Mark Brzezicki">Mark Brzezicki</a></li>
+<li><a href="/wiki/Tony_Fenelle" title="Tony Fenelle">Tony Fenelle</a></li>
+<li><a href="/wiki/Sam_Blue" title="Sam Blue">Sam Blue</a></li>
+<li><a href="/wiki/Vinny_Burns" title="Vinny Burns">Vinny Burns</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Studio albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Ultravox!_(album)" title="Ultravox! (album)">Ultravox!</a></i></li>
+<li><i><a href="/wiki/Ha!-Ha!-Ha!" title="Ha!-Ha!-Ha!">Ha!-Ha!-Ha!</a></i></li>
+<li><i><a href="/wiki/Systems_of_Romance" title="Systems of Romance">Systems of Romance</a></i></li>
+<li><i><a href="/wiki/Vienna_(album)" title="Vienna (album)">Vienna</a></i></li>
+<li><i><a href="/wiki/Rage_in_Eden" title="Rage in Eden">Rage in Eden</a></i></li>
+<li><i><a href="/wiki/Quartet_(Ultravox_album)" title="Quartet (Ultravox album)">Quartet</a></i></li>
+<li><i><a href="/wiki/Lament_(Ultravox_album)" title="Lament (Ultravox album)">Lament</a></i></li>
+<li><i><a href="/wiki/U-Vox" title="U-Vox">U-Vox</a></i></li>
+<li><i><a href="/wiki/Revelation_(Ultravox_album)" title="Revelation (Ultravox album)">Revelation</a></i></li>
+<li><i><a href="/wiki/Ingenuity_(album)" title="Ingenuity (album)">Ingenuity</a></i></li>
+<li><i><a href="/wiki/Brilliant_(album)" title="Brilliant (album)">Brilliant</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Live albums</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Monument_(Ultravox_album)" title="Monument (Ultravox album)">Monument</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Compilation albums</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Three_into_One" title="Three into One">Three into One</a></i></li>
+<li><i><a href="/wiki/The_Collection_(Ultravox_album)" title="The Collection (Ultravox album)">The Collection</a></i></li>
+<li><i><a href="/wiki/If_I_Was:_The_Very_Best_of_Midge_Ure_%26_Ultravox" title="If I Was: The Very Best of Midge Ure &amp; Ultravox">If I Was: The Very Best of Midge Ure &amp; Ultravox</a></i></li>
+<li><i><a href="/wiki/Rare,_Vol._1" title="Rare, Vol. 1">Rare, Vol. 1</a></i></li>
+<li><i><a href="/wiki/Rare,_Vol._2" title="Rare, Vol. 2">Rare, Vol. 2</a></i></li>
+<li><i><a href="/wiki/Dancing_with_Tears_in_My_Eyes_(album)" title="Dancing with Tears in My Eyes (album)">Dancing with Tears in My Eyes</a></i></li>
+<li><i><a href="/wiki/Extended_Ultravox" title="Extended Ultravox">Extended Ultravox</a></i></li>
+<li><i><a href="/wiki/The_Island_Years_(Ultravox_album)" title="The Island Years (Ultravox album)">The Island Years</a></i></li>
+<li><i><a href="/wiki/The_Best_of_Ultravox" title="The Best of Ultravox">The Best of Ultravox</a></i></li>
+<li><i><a href="/wiki/Finest_(Midge_Ure_and_Ultravox_album)" title="Finest (Midge Ure and Ultravox album)">Finest</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Extended plays</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Retro_(EP)" title="Retro (EP)">Retro</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Singles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>"<a href="/wiki/Young_Savage" title="Young Savage">Young Savage</a>"</li>
+<li>"<a href="/wiki/ROckWrok" title="ROckWrok">ROckWrok</a>"</li>
+<li>"<a href="/wiki/Frozen_Ones" title="Frozen Ones">Frozen Ones</a>"</li>
+<li>"<a href="/wiki/Quiet_Men" title="Quiet Men">Quiet Men</a>"</li>
+<li>"<a href="/wiki/Sleepwalk_(song)" title="Sleepwalk (song)">Sleepwalk</a>"</li>
+<li>"<a href="/wiki/Passing_Strangers" title="Passing Strangers">Passing Strangers</a>"</li>
+<li>"<a href="/wiki/Vienna_(Ultravox_song)" title="Vienna (Ultravox song)">Vienna</a>"</li>
+<li>"<a href="/wiki/All_Stood_Still" title="All Stood Still">All Stood Still</a>"</li>
+<li>"<a href="/wiki/The_Thin_Wall" title="The Thin Wall">The Thin Wall</a>"</li>
+<li>"<a href="/wiki/The_Voice_(Ultravox_song)" title="The Voice (Ultravox song)">The Voice</a>"</li>
+<li>"<a href="/wiki/Reap_the_Wild_Wind_(song)" title="Reap the Wild Wind (song)">Reap the Wild Wind</a>"</li>
+<li>"<a href="/wiki/Hymn_(Ultravox_song)" title="Hymn (Ultravox song)">Hymn</a>"</li>
+<li>"<a href="/wiki/Visions_in_Blue" title="Visions in Blue">Visions in Blue</a>"</li>
+<li>"<a href="/wiki/We_Came_to_Dance" title="We Came to Dance">We Came to Dance</a>"</li>
+<li>"<a href="/wiki/One_Small_Day" title="One Small Day">One Small Day</a>"</li>
+<li>"<a href="/wiki/Dancing_with_Tears_in_My_Eyes" title="Dancing with Tears in My Eyes">Dancing with Tears in My Eyes</a>"</li>
+<li>"<a href="/wiki/Lament_(Ultravox_song)" title="Lament (Ultravox song)">Lament</a>"</li>
+<li>"<a href="/wiki/Love%27s_Great_Adventure" title="Love&#39;s Great Adventure">Love's Great Adventure</a>"</li>
+<li>"<a href="/wiki/All_Fall_Down_(Ultravox_song)" title="All Fall Down (Ultravox song)">All Fall Down</a>"</li>
+<li>"<a href="/wiki/All_in_One_Day" title="All in One Day">All in One Day</a>"</li>
+<li>"<a href="/wiki/Vienna_(Ultravox_song)#Vienna_92" title="Vienna (Ultravox song)">Vienna 92</a>"</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background: #EEEEEE;">Related</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ultravox_discography" title="Ultravox discography">Discography</a></li>
+<li><a href="/wiki/Tiger_Lily_(UK_band)" title="Tiger Lily (UK band)">Tiger Lily</a></li>
+<li><a href="/wiki/Visage_(band)" title="Visage (band)">Visage</a></li>
+<li><a href="/wiki/Messengers_(Scottish_band)" title="Messengers (Scottish band)">Messengers</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;"><div><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Ultravox" title="Book:Ultravox">Book</a></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q316485&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q316485&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q316485" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Bibsys" title="Bibsys">BIBSYS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/9057451">9057451</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX140701">XX140701</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb13907225q">cb13907225q</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb13907225q">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/5550323-8">5550323-8</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000119453307">0000 0001 1945 3307</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n92120905">n92120905</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_Latvia" title="National Library of Latvia">LNB</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://kopkatalogs.lv/F?func=direct&amp;local_base=lnc10&amp;doc_number=000097119&amp;P_CON_LNG=ENG">000097119</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/MusicBrainz" title="MusicBrainz">MusicBrainz</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/7e786a4c-c743-4713-9340-a6f12d8515d4">7e786a4c-c743-4713-9340-a6f12d8515d4</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=mzk2004218188&amp;CON_LNG=ENG">mzk2004218188</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_Australia" title="National Library of Australia">NLA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an35366129">35366129</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_Australia" title="National Library of Australia">NLA-person</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://trove.nla.gov.au/people/508277">508277</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LIBRIS" title="LIBRIS">SELIBR</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://libris.kb.se/auth/362496">362496</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/087888661">087888661</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/130257853">130257853</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/130257853">130257853</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<p class="mw-empty-elt">
+
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1317
+Cached time: 20190928074355
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.492 seconds
+Real time usage: 0.776 seconds
+Preprocessor visited node count: 2223/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 70728/2097152 bytes
+Template argument size: 4603/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 17/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 49995/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.230/10.000 seconds
+Lua memory usage: 5.07 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  677.454      1 -total
+ 25.58%  173.317      1 Template:Reflist
+ 15.26%  103.395      1 Template:Infobox_musical_artist
+ 12.55%   85.053      1 Template:Infobox
+ 11.35%   76.867      1 Template:Cite_journal
+  9.35%   63.313      1 Template:Authority_control
+  8.42%   57.065     13 Template:Cite_web
+  7.97%   53.983      1 Template:Commons_category
+  7.39%   50.069      1 Template:Official_website
+  6.73%   45.596      2 Template:Side_box
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:295416-0!canonical and timestamp 20190928074354 and revision id 918353890
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ultravox&amp;oldid=918353890">https://en.wikipedia.org/w/index.php?title=Ultravox&amp;oldid=918353890</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Musical_groups_established_in_1973" title="Category:Musical groups established in 1973">Musical groups established in 1973</a></li><li><a href="/wiki/Category:Musical_groups_disestablished_in_1988" title="Category:Musical groups disestablished in 1988">Musical groups disestablished in 1988</a></li><li><a href="/wiki/Category:Musical_groups_reestablished_in_1992" title="Category:Musical groups reestablished in 1992">Musical groups reestablished in 1992</a></li><li><a href="/wiki/Category:Musical_groups_disestablished_in_1996" title="Category:Musical groups disestablished in 1996">Musical groups disestablished in 1996</a></li><li><a href="/wiki/Category:Musical_groups_reestablished_in_2008" title="Category:Musical groups reestablished in 2008">Musical groups reestablished in 2008</a></li><li><a href="/wiki/Category:Ultravox" title="Category:Ultravox">Ultravox</a></li><li><a href="/wiki/Category:Art_rock_musical_groups" title="Category:Art rock musical groups">Art rock musical groups</a></li><li><a href="/wiki/Category:English_electronic_music_groups" title="Category:English electronic music groups">English electronic music groups</a></li><li><a href="/wiki/Category:English_new_wave_musical_groups" title="Category:English new wave musical groups">English new wave musical groups</a></li><li><a href="/wiki/Category:Musical_groups_from_London" title="Category:Musical groups from London">Musical groups from London</a></li><li><a href="/wiki/Category:British_synthpop_new_wave_groups" title="Category:British synthpop new wave groups">British synthpop new wave groups</a></li><li><a href="/wiki/Category:Island_Records_artists" title="Category:Island Records artists">Island Records artists</a></li><li><a href="/wiki/Category:Chrysalis_Records_artists" title="Category:Chrysalis Records artists">Chrysalis Records artists</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_Timeline" title="Category:Pages using Timeline">Pages using Timeline</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LNB_identifiers" title="Category:Wikipedia articles with LNB identifiers">Wikipedia articles with LNB identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_MusicBrainz_identifiers" title="Category:Wikipedia articles with MusicBrainz identifiers">Wikipedia articles with MusicBrainz identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLA_identifiers" title="Category:Wikipedia articles with NLA identifiers">Wikipedia articles with NLA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLA-person_identifiers" title="Category:Wikipedia articles with NLA-person identifiers">Wikipedia articles with NLA-person identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SELIBR_identifiers" title="Category:Wikipedia articles with SELIBR identifiers">Wikipedia articles with SELIBR identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_May_2015" title="Category:Use dmy dates from May 2015">Use dmy dates from May 2015</a></li><li><a href="/wiki/Category:EngvarB_from_May_2015" title="Category:EngvarB from May 2015">EngvarB from May 2015</a></li><li><a href="/wiki/Category:Articles_which_contain_graphical_timelines" title="Category:Articles which contain graphical timelines">Articles which contain graphical timelines</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ultravox" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ultravox" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ultravox" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Ultravox" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ultravox">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ultravox&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ultravox&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ultravox" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ultravox" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ultravox&amp;oldid=918353890" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ultravox&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q316485" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ultravox&amp;id=918353890" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ultravox" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ultravox">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ultravox&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ultravox&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A7%D9%88%D9%84%D8%AA%D8%B1%D8%A7%D9%88%DA%A9%D8%B3" title="اولتراوکس – South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Ultravox" title="Ultravox – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Ultravox" title="Ultravox – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Ultravox" title="Ultravox – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ultravox" title="Ultravox – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ultravox" title="Ultravox – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%88%D9%84%D8%AA%D8%B1%D8%A7%D9%88%DA%A9%D8%B3" title="اولتراوکس – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ultravox" title="Ultravox – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Ultravox" title="Ultravox – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9A%B8%ED%8A%B8%EB%9D%BC%EB%B3%B5%EC%8A%A4" title="울트라복스 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Ultravox" title="Ultravox – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ultravox" title="Ultravox – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/Ultravox" title="Ultravox – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Ultravox" title="Ultravox – Latvian" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Ultravox" title="Ultravox – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Ultravox" title="Ultravox – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%B4%E3%82%A9%E3%83%83%E3%82%AF%E3%82%B9" title="ウルトラヴォックス – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Ultravox" title="Ultravox – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Ultravox" title="Ultravox – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ultravox" title="Ultravox – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/Ultravox" title="Ultravox – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Ultravox" title="Ultravox – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ultravox" title="Ultravox – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Ultravox" title="Ultravox – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/Ultravox" title="Ultravox – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q316485#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 28 September 2019, at 07:43<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ultravox&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.492","walltime":"0.776","ppvisitednodes":{"value":2223,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":70728,"limit":2097152},"templateargumentsize":{"value":4603,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":49995,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  677.454      1 -total"," 25.58%  173.317      1 Template:Reflist"," 15.26%  103.395      1 Template:Infobox_musical_artist"," 12.55%   85.053      1 Template:Infobox"," 11.35%   76.867      1 Template:Cite_journal","  9.35%   63.313      1 Template:Authority_control","  8.42%   57.065     13 Template:Cite_web","  7.97%   53.983      1 Template:Commons_category","  7.39%   50.069      1 Template:Official_website","  6.73%   45.596      2 Template:Side_box"]},"scribunto":{"limitreport-timeusage":{"value":"0.230","limit":"10.000"},"limitreport-memusage":{"value":5319115,"limit":52428800}},"cachereport":{"origin":"mw1317","timestamp":"20190928074355","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ultravox","url":"https:\/\/en.wikipedia.org\/wiki\/Ultravox","sameAs":"http:\/\/www.wikidata.org\/entity\/Q316485","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q316485","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-08-13T04:55:32Z","dateModified":"2019-09-28T07:43:49Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/26\/Ultravox_Brilliant_Tour_London_2012.jpg","headline":"British new wave band"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1266"});});</script>
+</body>
+</html>
+

@@ -1,0 +1,872 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Hebrew name - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Hebrew_name","wgTitle":"Hebrew name","wgCurRevisionId":915747882,"wgRevisionId":915747882,"wgArticleId":636105,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from July 2013","All articles needing additional references","Use mdy dates from March 2013","Articles incorporating a citation from the 1913 Catholic Encyclopedia with Wikisource reference","Hebrew-language names","Names by culture","Jewish life cycle"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":
+["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hebrew_name","wgRelevantArticleId":636105,"wgRequestId":"XYPtuQpAICwAABoiIDYAAABM","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!0,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q2916264","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready",
+"noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hebrew_name"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hebrew_name&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Hebrew_name&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hebrew_name"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hebrew_name rootpage-Hebrew_name skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Hebrew name</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">This article is about names of Hebrew-language origin. For Jewish names, see <a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a>. For Hebrew surnames, see <a href="/wiki/Hebraization_of_surnames" title="Hebraization of surnames">Hebraization of surnames</a>.</div>
+<table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Hebrew_name&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Hebrew+name%22">"Hebrew name"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Hebrew+name%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Hebrew+name%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Hebrew+name%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Hebrew+name%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Hebrew+name%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">July 2013</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p class="mw-empty-elt">
+</p>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Outline_of_Judaism" title="Outline of Judaism">a series</a> on</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:175%;"><a href="/wiki/Judaism" title="Judaism">Judaism</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Star_of_David.svg" class="image" title="Star of David"><img alt="Star of David" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/60px-Star_of_David.svg.png" decoding="async" width="60" height="69" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/90px-Star_of_David.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/120px-Star_of_David.svg.png 2x" data-file-width="260" data-file-height="300" /></a> <a href="/wiki/File:Lukhot_Habrit.svg" class="image" title="Ten Commandments"><img alt="Ten Commandments" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Lukhot_Habrit.svg/60px-Lukhot_Habrit.svg.png" decoding="async" width="60" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Lukhot_Habrit.svg/90px-Lukhot_Habrit.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Lukhot_Habrit.svg/120px-Lukhot_Habrit.svg.png 2x" data-file-width="205" data-file-height="243" /></a> <a href="/wiki/File:Menora.svg" class="image" title="Menorah"><img alt="Menorah" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Menora.svg/60px-Menora.svg.png" decoding="async" width="60" height="51" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Menora.svg/90px-Menora.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Menora.svg/120px-Menora.svg.png 2x" data-file-width="732" data-file-height="621" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Jewish_religious_movements" title="Jewish religious movements">Movements</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Orthodox_Judaism" title="Orthodox Judaism">Orthodox</a><br />
+<ul><li><a href="/wiki/Haredi_Judaism" title="Haredi Judaism">Haredi</a>
+<ul><li><a href="/wiki/Hasidic_Judaism" title="Hasidic Judaism">Hasidic</a></li></ul></li>
+<li><a href="/wiki/Modern_Orthodox_Judaism" title="Modern Orthodox Judaism">Modern</a></li></ul></li></ul>
+<ul><li><a href="/wiki/Conservative_Judaism" title="Conservative Judaism">Conservative</a></li>
+<li><a href="/wiki/Reform_Judaism" title="Reform Judaism">Reform</a></li></ul>
+<div class="paragraphbreak" style="margin-top:0.5em"></div>
+<ul><li><a href="/wiki/Karaite_Judaism" title="Karaite Judaism">Karaite</a></li>
+<li><a href="/wiki/Reconstructionist_Judaism" title="Reconstructionist Judaism">Reconstructionist</a></li>
+<li><a href="/wiki/Jewish_Renewal" title="Jewish Renewal">Renewal</a></li>
+<li><a href="/wiki/Humanistic_Judaism" title="Humanistic Judaism">Humanistic</a></li>
+<li><a href="/wiki/Haymanot" title="Haymanot">Haymanot</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Jewish_philosophy" title="Jewish philosophy">Philosophy</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Jewish_principles_of_faith" title="Jewish principles of faith">Principles of faith</a></li>
+<li><a href="/wiki/Kabbalah" title="Kabbalah">Kabbalah</a></li>
+<li><a href="/wiki/Messiah_in_Judaism" title="Messiah in Judaism">Messiah</a></li>
+<li><a href="/wiki/Jewish_ethics" title="Jewish ethics">Ethics</a></li>
+<li><a href="/wiki/Jews_as_the_chosen_people" title="Jews as the chosen people">Chosenness</a></li>
+<li><a href="/wiki/God_in_Judaism" title="God in Judaism">God</a>
+<ul><li><a href="/wiki/Names_of_God_in_Judaism" title="Names of God in Judaism">Names</a></li></ul></li>
+<li><a href="/wiki/Musar_movement" title="Musar movement">Musar movement</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Category:Jewish_texts" title="Category:Jewish texts">Texts</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Tanakh" class="mw-redirect" title="Tanakh">Tanakh</a><br />
+<ul><li><a href="/wiki/Torah" title="Torah">Torah</a></li>
+<li><a href="/wiki/Nevi%27im" title="Nevi&#39;im">Nevi'im</a></li>
+<li><a href="/wiki/Ketuvim" title="Ketuvim">Ketuvim</a></li></ul></li></ul>
+<div class="paragraphbreak" style="margin-top:0.5em"></div>
+<ul><li><a href="/wiki/Chumash_(Judaism)" title="Chumash (Judaism)">Ḥumash</a></li>
+<li><a href="/wiki/Siddur" title="Siddur">Siddur</a></li>
+<li><a href="/wiki/Piyyut" title="Piyyut">Piyutim</a></li>
+<li><a href="/wiki/Zohar" title="Zohar">Zohar</a></li></ul>
+<div class="paragraphbreak" style="margin-top:0.5em"></div>
+<ul><li><a href="/wiki/Rabbinic_literature" title="Rabbinic literature">Rabbinic</a><br />
+<ul><li><a href="/wiki/Mishnah" title="Mishnah">Mishnah</a></li>
+<li><a href="/wiki/Talmud" title="Talmud">Talmud</a></li>
+<li><a href="/wiki/Midrash" title="Midrash">Midrash</a></li>
+<li><a href="/wiki/Tosefta" title="Tosefta">Tosefta</a></li></ul></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Halakha" title="Halakha">Law</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Mishneh_Torah" title="Mishneh Torah">Mishneh Torah</a></li>
+<li><a href="/wiki/Arba%27ah_Turim" title="Arba&#39;ah Turim">Tur</a></li>
+<li><a href="/wiki/Shulchan_Aruch" title="Shulchan Aruch">Shulchan Aruch</a></li>
+<li><a href="/wiki/Mishnah_Berurah" title="Mishnah Berurah">Mishnah Berurah</a></li>
+<li><a href="/wiki/Aruch_HaShulchan" title="Aruch HaShulchan">Aruch HaShulchan</a></li>
+<li><a href="/wiki/Kashrut" title="Kashrut">Kashrut</a></li>
+<li><a href="/wiki/Tzniut" title="Tzniut">Tzniut</a></li>
+<li><a href="/wiki/Tzedakah" title="Tzedakah">Tzedakah</a></li>
+<li><a href="/wiki/Niddah" title="Niddah">Niddah</a></li>
+<li><a href="/wiki/Seven_Laws_of_Noah" title="Seven Laws of Noah">Noahide laws</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Four_Holy_Cities" title="Four Holy Cities">Holy cities</a>&#160;/&#32;<a href="/wiki/Category:Jewish_holy_places" title="Category:Jewish holy places">places</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a></li>
+<li><a href="/wiki/Safed" title="Safed">Safed</a></li>
+<li><a href="/wiki/Hebron" title="Hebron">Hebron</a></li>
+<li><a href="/wiki/Tiberias" title="Tiberias">Tiberias</a></li></ul>
+<hr />
+<ul><li><a href="/wiki/Synagogue" title="Synagogue">Synagogue</a></li>
+<li><a href="/wiki/Beth_midrash" title="Beth midrash">Beth midrash</a></li>
+<li><a href="/wiki/Mikveh" title="Mikveh">Mikveh</a></li>
+<li><a href="/wiki/Sukkah" title="Sukkah">Sukkah</a></li>
+<li><a href="/wiki/Chevra_kadisha" title="Chevra kadisha">Chevra kadisha</a></li>
+<li><a href="/wiki/Temple_in_Jerusalem" title="Temple in Jerusalem">Holy Temple</a></li>
+<li><a href="/wiki/Tabernacle" title="Tabernacle">Tabernacle</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Jewish_leadership" title="Jewish leadership">Important figures</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Abraham" title="Abraham">Abraham</a></li>
+<li><a href="/wiki/Isaac" title="Isaac">Isaac</a></li>
+<li><a href="/wiki/Jacob" title="Jacob">Jacob</a></li></ul>
+<ul><li><a href="/wiki/Moses" title="Moses">Moses</a></li>
+<li><a href="/wiki/Aaron" title="Aaron">Aaron</a></li>
+<li><a href="/wiki/David" title="David">David</a></li>
+<li><a href="/wiki/Solomon" title="Solomon">Solomon</a></li></ul>
+<ul><li><a href="/wiki/Sarah" title="Sarah">Sarah</a></li>
+<li><a href="/wiki/Rebecca" title="Rebecca">Rebecca</a></li>
+<li><a href="/wiki/Rachel" title="Rachel">Rachel</a></li>
+<li><a href="/wiki/Leah" title="Leah">Leah</a></li></ul>
+<div class="paragraphbreak" style="margin-top:0.5em"></div>
+<ul><li><b><a href="/wiki/List_of_rabbis" title="List of rabbis">Rabbinic sages</a></b><br /><a href="/wiki/Chazal" title="Chazal">Chazal</a><br />
+<ul><li><a href="/wiki/Tannaim" title="Tannaim">Tannaim</a></li>
+<li><a href="/wiki/Amoraim" title="Amoraim">Amoraim</a></li>
+<li><a href="/wiki/Savoraim" title="Savoraim">Savoraim</a></li></ul></li></ul>
+<ul><li><a href="/wiki/Geonim" title="Geonim">Geonim</a></li>
+<li><a href="/wiki/Rishonim" title="Rishonim">Rishonim</a></li>
+<li><a href="/wiki/Acharonim" title="Acharonim">Acharonim</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Category:Jewish_religious_occupations" title="Category:Jewish religious occupations">Religious roles</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Rabbi" title="Rabbi">Rabbi</a></li>
+<li><a href="/wiki/Rebbe" title="Rebbe">Rebbe</a></li>
+<li><a href="/wiki/Posek" title="Posek">Posek</a></li>
+<li><a href="/wiki/Hazzan" title="Hazzan">Hazzan</a></li>
+<li><a href="/wiki/Beth_din" title="Beth din">Dayan</a></li>
+<li><a href="/wiki/Rosh_yeshiva" title="Rosh yeshiva">Rosh yeshiva</a></li>
+<li><a href="/wiki/Mohel" title="Mohel">Mohel</a></li>
+<li><a href="/wiki/Kohen" title="Kohen">Kohen</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Jewish_culture" title="Jewish culture">Culture</a> and <a href="/wiki/Jewish_education" title="Jewish education">education</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Brit_milah" title="Brit milah">Brit</a></li>
+<li><a href="/wiki/Pidyon_haben" title="Pidyon haben">Pidyon haben</a></li>
+<li><a href="/wiki/Bar_and_Bat_Mitzvah" class="mw-redirect" title="Bar and Bat Mitzvah">Bar and Bat Mitzvah</a></li>
+<li><a href="/wiki/Jewish_views_on_marriage" title="Jewish views on marriage">Marriage</a></li>
+<li><a href="/wiki/Bereavement_in_Judaism" title="Bereavement in Judaism">Bereavement</a></li></ul>
+<hr />
+<ul><li><a href="/wiki/Yeshiva" title="Yeshiva">Yeshiva</a></li>
+<li><a href="/wiki/Kolel" class="mw-redirect" title="Kolel">Kolel</a></li>
+<li><a href="/wiki/Cheder" title="Cheder">Cheder</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Ritual objects</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Sefer_Torah" title="Sefer Torah">Sefer Torah</a></li>
+<li><a href="/wiki/Tallit" title="Tallit">Tallit</a></li>
+<li><a href="/wiki/Tefillin" title="Tefillin">Tefillin</a></li>
+<li><a href="/wiki/Tzitzit" title="Tzitzit">Tzitzit</a></li>
+<li><a href="/wiki/Kippah" title="Kippah">Kippah</a></li>
+<li><a href="/wiki/Mezuzah" title="Mezuzah">Mezuzah</a></li>
+<li><a href="/wiki/Menorah_(Hanukkah)" title="Menorah (Hanukkah)">Menorah</a></li>
+<li><a href="/wiki/Shofar" title="Shofar">Shofar</a></li>
+<li><a href="/wiki/Four_species" title="Four species">Four species</a><br />
+<ul><li><i><a href="/wiki/Etrog" title="Etrog">Etrog</a></i></li>
+<li><i><a href="/wiki/Lulav" title="Lulav">Lulav</a></i></li>
+<li><i><a href="/wiki/Hadass" title="Hadass">Hadass</a></i></li>
+<li><i><a href="/wiki/Aravah_(Sukkot)" title="Aravah (Sukkot)">Arava</a></i></li></ul></li></ul>
+<ul><li><a href="/wiki/Kittel" title="Kittel">Kittel</a></li>
+<li><a href="/wiki/Gartel" title="Gartel">Gartel</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Jewish_prayer" title="Jewish prayer">Prayers</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Shema_Yisrael" title="Shema Yisrael">Shema (Sh'ma)</a></li>
+<li><a href="/wiki/Amidah" title="Amidah">Amidah</a></li>
+<li><a href="/wiki/Aleinu" title="Aleinu">Aleinu</a></li>
+<li><a href="/wiki/Kaddish" title="Kaddish">Kaddish</a></li>
+<li><a href="/wiki/Minyan" title="Minyan">Minyan</a></li>
+<li><a href="/wiki/Birkat_Hamazon" title="Birkat Hamazon">Birkat Hamazon</a></li>
+<li><a href="/wiki/Shehecheyanu" title="Shehecheyanu">Shehecheyanu</a></li>
+<li><a href="/wiki/Hallel" title="Hallel">Hallel</a></li>
+<li><a href="/wiki/Havdalah" title="Havdalah">Havdalah</a></li>
+<li><a href="/wiki/Tachanun" title="Tachanun">Tachanun</a></li>
+<li><a href="/wiki/Kol_Nidre" title="Kol Nidre">Kol Nidre</a></li>
+<li><a href="/wiki/Selichot" title="Selichot">Selichot (S'lichot)</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Jewish_holidays" title="Jewish holidays">Major holidays</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Rosh_Hashana" class="mw-redirect" title="Rosh Hashana">Rosh Hashana</a></li>
+<li><a href="/wiki/Yom_Kippur" title="Yom Kippur">Yom Kippur</a></li>
+<li><a href="/wiki/Sukkot" title="Sukkot">Sukkot</a></li>
+<li><a href="/wiki/Pesach" class="mw-redirect" title="Pesach">Pesach</a></li>
+<li><a href="/wiki/Shavuot" title="Shavuot">Shavuot</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Category:Judaism_and_other_religions" title="Category:Judaism and other religions">Other religions</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li>Judaism and <a href="/wiki/Christianity_and_Judaism" title="Christianity and Judaism">Christianity</a></li>
+<li><a href="/wiki/Hinduism_and_Judaism" title="Hinduism and Judaism">Hinduism</a></li>
+<li><a href="/wiki/Islamic%E2%80%93Jewish_relations" title="Islamic–Jewish relations">Islam</a></li></ul>
+<ul><li><a href="/wiki/Abrahamic_religions" title="Abrahamic religions">Abrahamic religions</a></li>
+<li><a href="/wiki/Judeo-Christian" title="Judeo-Christian">Judeo-Christian</a></li>
+<li><a href="/wiki/Jewish_views_on_religious_pluralism" title="Jewish views on religious pluralism">Pluralism</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Related topics</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Jews" title="Jews">Jews</a></li>
+<li><a href="/wiki/Zionism" title="Zionism">Zionism</a></li>
+<li><a href="/wiki/Israel" title="Israel">Israel</a></li>
+<li><a href="/wiki/Criticism_of_Judaism" title="Criticism of Judaism">Criticism</a></li>
+<li><a href="/wiki/Antisemitism" title="Antisemitism">Antisemitism</a></li>
+<li><a href="/wiki/Anti-Judaism" title="Anti-Judaism">Anti-Judaism</a></li>
+<li><a href="/wiki/Holocaust_theology" title="Holocaust theology">Holocaust theology</a></li>
+<li><a href="/wiki/Religious_Jewish_music" title="Religious Jewish music">Music</a></li>
+<li><a href="/wiki/Judaism%27s_view_of_Jesus" title="Judaism&#39;s view of Jesus">Jesus</a></li>
+<li><a href="/wiki/Judaism%27s_views_on_Muhammad" title="Judaism&#39;s views on Muhammad">Muhammad</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;font-weight:bold;">
+<ul><li><a href="/wiki/File:Star_of_David.svg" class="image"><img alt="Star of David.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/14px-Star_of_David.svg.png" decoding="async" width="14" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/21px-Star_of_David.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/28px-Star_of_David.svg.png 2x" data-file-width="260" data-file-height="300" /></a> <a href="/wiki/Portal:Judaism" title="Portal:Judaism">Judaism&#32;portal</a></li></ul></td></tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Judaism" title="Template:Judaism"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Judaism" title="Template talk:Judaism"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Judaism&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Hebrew names</b> are <a href="/wiki/Name" title="Name">names</a> that have a <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew language</a> origin, classically from the <a href="/wiki/Hebrew_Bible" title="Hebrew Bible">Hebrew Bible</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> They are mostly used by <a href="/wiki/Jews" title="Jews">Jews</a> and <a href="/wiki/Christians" title="Christians">Christians</a>, but many are also adapted to the <a href="/wiki/Muslim" class="mw-redirect" title="Muslim">Muslim</a> world, particularly if a Hebrew name is mentioned in the <a href="/wiki/Qur%27an" class="mw-redirect" title="Qur&#39;an">Qur'an</a> (example: <i>Ibrahim</i> is a common Arabic name from the Hebrew <i>Avraham</i>).  A typical Hebrew name can have many different forms, having been adapted to the <a href="/wiki/Phonology" title="Phonology">phonologies</a> of many different <a href="/wiki/Language" title="Language">languages</a>. A common Jewish practice worldwide is to give a Hebrew name to a child that is used religiously throughout its lifetime.
+</p><p>Not all Hebrew names are strictly Hebrew in origin; some names may have been borrowed from other ancient languages,  including from <a href="/wiki/Egyptian_language" title="Egyptian language">Egyptian</a>, <a href="/wiki/Aramaic_language" class="mw-redirect" title="Aramaic language">Aramaic</a>, <a href="/wiki/Phoenician_language" title="Phoenician language">Phoenician</a>, or <a href="/wiki/Canaanite_language" class="mw-redirect" title="Canaanite language">Canaanite</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Names_of_Hebrew_origin"><span class="tocnumber">1</span> <span class="toctext">Names of Hebrew origin</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Names_of_Aramaic_origin"><span class="tocnumber">2</span> <span class="toctext">Names of Aramaic origin</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Hebrew-Greek_names"><span class="tocnumber">3</span> <span class="toctext">Hebrew-Greek names</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Hebræo-Latin_names"><span class="tocnumber">4</span> <span class="toctext">Hebræo-Latin names</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Hebræo-Arabic_names"><span class="tocnumber">5</span> <span class="toctext">Hebræo-Arabic names</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Hebræo-English_names"><span class="tocnumber">6</span> <span class="toctext">Hebræo-English names</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Names_of_Hebrew_origin">Names of Hebrew origin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_name&amp;action=edit&amp;section=1" title="Edit section: Names of Hebrew origin">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hebrew names used by <a href="/wiki/Jew" class="mw-redirect" title="Jew">Jews</a> (along with many Hebrew names used in <a href="/wiki/Christendom" title="Christendom">Christendom</a>) often come from the <a href="/wiki/Tanakh" class="mw-redirect" title="Tanakh">Tanakh</a>, also known as the <a href="/wiki/Hebrew_Bible" title="Hebrew Bible">Hebrew Bible</a> or <a href="/wiki/Old_Testament" title="Old Testament">Old Testament</a>.
+</p><p>Many of these names are thought to have been adapted from Hebrew phrases and expressions, bestowing special meaning or the unique circumstances of birth to the one who receives that name. 
+</p><p><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric names</a> are those which include a form of a divine name, such by adding the suffix אל <i>-el</i>, meaning "God", forming names such as מיכאל <i><a href="/wiki/Michael" title="Michael">Michael</a></i> ("who is like God?") and גבריאל <i><a href="/wiki/Gabriel" title="Gabriel">Gabriel</a></i> ("man of God"). Another common form of theophory is the use of the <a href="/wiki/Tetragrammaton" title="Tetragrammaton">Tetragrammaton</a> as the basis for a suffix; the most common abbreviations used by Jews are יה <i>-yāh</i>/<i>-iyyāh</i> and יהו <i>-yāhû</i>/<i>-iyyāhû</i>/<i>-ayhû</i>, forming names such as ישׁעיהו <i><a href="/wiki/Isaiah" title="Isaiah">Yəšaʻªyāhû</a></i> (Isaiah), צדקיהו <i><a href="/wiki/Zedekiah" title="Zedekiah">Ṣiḏqiyyāhû</a></i> (Zedekiah) and שׂריה <i><a href="/wiki/Seraiah" title="Seraiah">Śərāyāh</a></i> (Seraiah). Most Christian usage is of the shorter suffix preferred in <a href="/wiki/Translation" title="Translation">translations</a> of the <a href="/wiki/Septuagint" title="Septuagint">Bible</a> to European languages: Greek -ιας <i>-ias</i> and English <a href="/wiki/Jah" title="Jah">-iah</a>, producing names such as Τωβιας <i><a href="/wiki/Tobias" title="Tobias">Tōbias</a></i> (Tobias, Toby) instead of <i>Tobiyyahu</i> and Ιερεμίας <i><a href="/wiki/Jeremiah" title="Jeremiah">Ieremias</a></i> (Jeremiah, Jeremy) instead of <i>Yirmeyahu</i>.
+</p><p>In addition to devotion to Elohim and YHWH, names could also be sentences of praise in their own right. The name טוביהו 
+<i><a href="/wiki/Tobiah" class="mw-redirect" title="Tobiah">Ṭôḇiyyāhû</a></i> means "Good of/is the LORD".
+</p>
+<h2><span class="mw-headline" id="Names_of_Aramaic_origin">Names of Aramaic origin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_name&amp;action=edit&amp;section=2" title="Edit section: Names of Aramaic origin">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Judæo-Aramaic was the vernacular language at the time of <a href="/wiki/Jesus" title="Jesus">Jesus</a>, and was also the language used to write parts of the <a href="/wiki/Book_of_Daniel" title="Book of Daniel">Book of Daniel</a>, the <a href="/wiki/Book_of_Ezra" title="Book of Ezra">Book of Ezra</a>, and the entire Jewish Babylonian <a href="/wiki/Talmud" title="Talmud">Talmud</a>.  Aramaic remained the <a href="/wiki/Lingua_franca" title="Lingua franca">lingua franca</a> of the Middle East until the time of Islam.
+</p><p>Judæo-Aramaic names include עבד־נגו <i><a href="/wiki/Shadrach,_Meshach,_and_Abednego#Fiery_furnace" title="Shadrach, Meshach, and Abednego">ʻĂḇēḏ-nəḡô</a></i>, בר־תלמי <i><a href="/wiki/Bartholomew" class="mw-redirect" title="Bartholomew">Bar-Talmay</a></i> and תום <i><a href="/wiki/Thomas_(name)" title="Thomas (name)">Tôm</a></i>, as well as <a href="/wiki/Bar_Kochba" class="mw-redirect" title="Bar Kochba">Bar Kochba</a>.
+</p>
+<h2><span class="mw-headline" id="Hebrew-Greek_names">Hebrew-Greek names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_name&amp;action=edit&amp;section=3" title="Edit section: Hebrew-Greek names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Due to the <a href="/wiki/Hellenization" title="Hellenization">Hellenisation</a> of the Eastern Mediterranean and the movement of Jews around the area, many Hebrew names were adapted to Greek, reinforced by the translation of the Tanakh in the <a href="/wiki/Septuagint" title="Septuagint">Septuagint</a> with many Hellenized names.    
+</p><p>Many of the names in the <a href="/wiki/New_Testament" title="New Testament">New Testament</a> are of Hebrew and Aramaic origin, but were adapted to the Greek by Hellenistic Christian writers such as <a href="/wiki/Paul_of_Tarsus" class="mw-redirect" title="Paul of Tarsus">Paul of Tarsus</a>. 
+</p><p>Such Hebræo-Greek names include Ἰησοῦς <i><a href="/wiki/Jesus" title="Jesus">Iēsous</a></i> (originally from ישׁוע <i>Yēšûªʻ</i>), Νῶε <i><a href="/wiki/Noah" title="Noah">Nōē</a></i> (originally from נח <i>Nōªḥ</i>), Ἰσαΐας <i><a href="/wiki/Isaiah" title="Isaiah">Isaias</a></i> (originally from ישׁעיהו <i>Yəšaʻªyāhû</i>), Ἰσραήλ <i><a href="/wiki/Israel" title="Israel">Israēl</a></i> (originally from ישראל <i>Yiśrā’ēl</i>). 
+</p><p>Also, some Jews of the time had Greek <a href="/wiki/Gentile" title="Gentile">Gentile</a> names themselves, such as the Christian <a href="/wiki/Luke_(name)" title="Luke (name)">Luke</a> (Greek Λουκᾶς <i>Loukas</i>).  Though used by some Jews at the time, these names are generally not associated with Jews today, and are considered characteristically Greek and largely confined to use by Christians. Hebrew forms of the names exist, but they are extremely rare.
+</p>
+<h2><span id="Hebr.C3.A6o-Latin_names"></span><span class="mw-headline" id="Hebræo-Latin_names">Hebræo-Latin names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_name&amp;action=edit&amp;section=4" title="Edit section: Hebræo-Latin names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many Hebrew names were adapted into Latin, some via Greek.  Such names include Jesus (from Greek Ιησους <i>Iēsous</i>) and <a href="/wiki/Maria_(given_name)" title="Maria (given name)">Maria</a> (from Greek Μαριαμ <i>Mariam</i>, originally from Hebrew מרים <i><a href="/wiki/Miriam" title="Miriam">Miryām</a></i>).
+</p><p>Also, some Jews during <a href="/wiki/Roman_Empire" title="Roman Empire">Roman</a> times also had Latin names for themselves, such as the Christian evangelist <a href="/wiki/Mark_the_Evangelist" title="Mark the Evangelist">Mark</a> (Latin <a href="/wiki/Marcus_(name)" title="Marcus (name)">Marcus</a>). As was the case with contemporary Jewish names of Greek origin, most of these Latin names are generally not associated with Jews today, and today retain a Roman and Christian character.
+</p>
+<h2><span id="Hebr.C3.A6o-Arabic_names"></span><span class="mw-headline" id="Hebræo-Arabic_names">Hebræo-Arabic names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_name&amp;action=edit&amp;section=5" title="Edit section: Hebræo-Arabic names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>With the rise of Islam and the establishment of an Arab <a href="/wiki/Caliphate" title="Caliphate">Caliphate</a>, the <a href="/wiki/Arabic_language" class="mw-redirect" title="Arabic language">Arabic language</a> became the lingua franca of the Middle East and some parts of <a href="/wiki/Berber_people" class="mw-redirect" title="Berber people">Berber</a> <a href="/wiki/North_Africa" title="North Africa">North Africa</a>. Islamic scripture such as the Qurʼan, however, contains many names of Hebrew origin (often via Aramaic), and there were Jewish and Christian <a href="/wiki/Minority_group" title="Minority group">minorities</a> living under Arab Islamic rule. As such, many Hebrew names had been adapted to Arabic, and could be found in the Arab world. Jews and Christians generally used the Arabic adaptions of these names, just as in the present English-speaking Jews (and sometimes Muslims) often use Anglicized versions (Joshua rather than Yəhôšúªʼ, for instance.)
+</p><p>While most such names are common to traditional Arabic translations of the Bible, a few differ; for instance, Arabic-speaking Christians use <i>Yasūʻ</i> instead of <i><a href="/wiki/Jesus_in_Islam" title="Jesus in Islam">ʻĪsā</a></i> for "<a href="/wiki/Jesus" title="Jesus">Jesus</a>".
+</p><p>Such Hebræo-Arabic names include:
+</p>
+<ul><li><a href="/wiki/Job_in_Islam" title="Job in Islam">ʼAyyūb</a> أيّوب (from Hebrew איוב <i><a href="/wiki/Book_of_Job" title="Book of Job">ʼIyyôḇ</a></i>) (Job)</li>
+<li><a href="/wiki/Joseph_in_Islam" title="Joseph in Islam">Yūsuf</a> يوسف (from Hebrew יוסף <i><a href="/wiki/Joseph_(given_name)" class="mw-redirect" title="Joseph (given name)">Yôsēp̄</a></i>) (Joseph)</li>
+<li><a href="/wiki/David_in_Islam" title="David in Islam">Dāʼūd</a> داۇد (from Hebrew דוד <i><a href="/wiki/David" title="David">Dāwiḏ</a></i>) (David)</li>
+<li><a href="/wiki/Ishmael_in_Islam" title="Ishmael in Islam">ʼIsmāʻīl</a> اسماعيل (from Hebrew ישׁמעאל <i><a href="/wiki/Ishmael" title="Ishmael">Yišmāʻêl</a></i>) (Ishmael)</li>
+<li><a href="/wiki/Isaac_in_Islam" title="Isaac in Islam">ʼIsḥāq</a> إسحاق (from Hebrew יצחק <i><a href="/wiki/Isaac" title="Isaac">Yiṣḥāq</a></i>) (Isaac)</li>
+<li><a href="/wiki/Jacob_in_Islam" title="Jacob in Islam">Yaʻqūb</a> يعقوب (from Hebrew יעקב <i><a href="/wiki/Jacob" title="Jacob">Yaʻªqōḇ</a></i>) (Jacob)</li>
+<li><a href="/wiki/Adam_in_Islam" title="Adam in Islam">ʼĀdam</a> آدم (from Hebrew אדם <i><a href="/wiki/Adam_(name)" class="mw-redirect" title="Adam (name)">ʼĀḏām</a></i>) (Adam)</li>
+<li><a href="/wiki/Hawwa" class="mw-redirect" title="Hawwa">Ḥawwāʼ</a> حواء (from Hebrew חוה <i><a href="/wiki/Adam_and_Eve" title="Adam and Eve">Ḥawwāh</a></i>) (Eve)</li></ul>
+<p>The influence of Aramaic is observable in several names, notably ʼIsḥāq (Isaac), where the <a href="/wiki/Syriac_language" title="Syriac language">Syriac</a> form is simply <i>Îsḥāq</i>, contrasting with more Hebraic forms such as Yaʻqūb (Jacob).
+</p><p>Some of these Arabic names preserve original Hebrew pronunciations that were later changed by regular sound shifts; <i>migdal</i>, recorded in the New Testament as <i>Magdal</i>ene and in Palestinian Arabic as <i>Majdala</i>, which turned <i>a</i> in unstressed closed syllables into <i>i</i>.
+</p><p>Typically, Hebrew אל <i>-ʼēl</i> was adapted as ـايل <i>-īl</i>, and Hebrew יה <i>-yāh</i> as ـيا <i>-yāʼ</i>.
+</p>
+<h2><span id="Hebr.C3.A6o-English_names"></span><span class="mw-headline" id="Hebræo-English_names">Hebræo-English names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_name&amp;action=edit&amp;section=6" title="Edit section: Hebræo-English names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/James_I_of_England" class="mw-redirect" title="James I of England">James I of England</a> commissioned a <a href="/wiki/Translation" title="Translation">translation</a> of the Christian Bible from the original languages, including a translation of the Tanakh or Old Testament from Hebrew into English. This became known as the  <a href="/wiki/King_James_Version_of_the_Bible" class="mw-redirect" title="King James Version of the Bible">King James Version of the Bible</a>, often referred to today by the abbreviation "KJV".
+</p><p>Even so, many KJV Old Testament names were not entirely without New Testament Greek influence. This influence mostly reflected the vowels of names, leaving most of the consonants largely intact, only modestly filtered to consonants of contemporary English phonology. However, all KJV names followed the Greek convention of not distinguishing between soft and <i>dāḡeš</i> forms of ב <i>bêṯ</i>.  These habits resulted in multilingually fused Hebræo-Helleno-English names, such as <a href="/wiki/Judah_(son_of_Jacob)" title="Judah (son of Jacob)">Judah</a>, <a href="/wiki/Isaiah" title="Isaiah">Isaiah</a> and <a href="/wiki/Jeremiah" title="Jeremiah">Jeremiah</a>. Additionally, a handful of names were adapted directly from Greek without even partial translations from Hebrew, including names such as <a href="/wiki/Isaac" title="Isaac">Isaac</a>, <a href="/wiki/Moses" title="Moses">Moses</a> and <a href="/wiki/Jesse" title="Jesse">Jesse</a>.
+</p><p>Along with names from the KJV edition of the New Testament, these names constitute the large part of Hebrew names as they exist in the English-speaking world.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_name&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a></li>
+<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic name</a></li>
+<li><a href="/wiki/List_of_Hebrew_place_names" title="List of Hebrew place names">List of Hebrew place names</a></li>
+<li><a href="/wiki/Pleonasm#Bilingual_tautological_expressions" title="Pleonasm">Bilingual Hebrew-Yiddish tautological names</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_name&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Mordecai Schreiber; Alvin I. Schiff; Leon Klenicki (2003). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=DK5K72JymAEC&amp;pg=PA190"><i>The Shengold Jewish Encyclopedia</i></a>. Schreiber Pub. p.&#160;190. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-887563-77-2" title="Special:BookSources/978-1-887563-77-2"><bdi>978-1-887563-77-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Shengold+Jewish+Encyclopedia&amp;rft.pages=190&amp;rft.pub=Schreiber+Pub.&amp;rft.date=2003&amp;rft.isbn=978-1-887563-77-2&amp;rft.au=Mordecai+Schreiber&amp;rft.au=Alvin+I.+Schiff&amp;rft.au=Leon+Klenicki&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DDK5K72JymAEC%26pg%3DPA190&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHebrew+name" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style>. Archived <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170217052951/https://books.google.com/books?id=DK5K72JymAEC&amp;pg=PA190&amp;dq=%22Hebrew+name%22&amp;hl=en&amp;sa=X&amp;ei=ButHUYbFA7jI4AP164CgBw&amp;ved=0CEwQ6AEwAw">here</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_name&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a class="external text" href="https://en.wiktionary.org/wiki/Appendix:Hebrew_given_names">List of Hebrew names at Wiktionary</a></li>
+<li><a rel="nofollow" class="external text" href="http://blog.judaicawebstore.com/most-popular-american-womens-names-in-hebrew-transliterated-phonetically/">Most Popular American Women’s Names In Hebrew (Phonetic Transliteration)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.chabad.org/library/article.asp?AID=260662">Customs relating to the naming of a child</a> from the Chabad group of Hassidic Judaism</li>
+<li><img alt="Wikisource-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" decoding="async" width="12" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" data-file-width="410" data-file-height="430" />&#160;<cite class="citation encyclopaedia">Herbermann, Charles, ed. (1913). <span class="cs1-ws-icon" title="Wikisource:Catholic Encyclopedia (1913)/Christian Names"><a class="external text" href="https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Christian_Names">"Christian Names"&#160;</a></span>. <i><a href="/wiki/Catholic_Encyclopedia" title="Catholic Encyclopedia">Catholic Encyclopedia</a></i>. New York: Robert Appleton Company.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Christian+Names&amp;rft.btitle=Catholic+Encyclopedia&amp;rft.place=New+York&amp;rft.pub=Robert+Appleton+Company&amp;rft.date=1913&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHebrew+name" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> – article on old testament naming from a Catholic perspective</li>
+<li><a rel="nofollow" class="external text" href="http://www.allhebrewnames.com">List of over 2500 Hebrew names used in Israel with pronunciation</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.shemli.co.il">List of all first names used in Israel with pronunciation and statistics in Hebrew</a></li>
+<li><a rel="nofollow" class="external text" href="http://eteacherhebrew.com/hebrew-names">A list of all modern Hebrew names and their meaning</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.baby-names.co.il/">List of all Hebrew first names used in Israel, all Hebrew Names For Boys &amp; Girls ( 2016 Update ) </a></li>
+<li><a rel="nofollow" class="external text" href="http://www.bebelereisim.com/koken/ibranice">Names from Hebrew to Turkish</a></li></ul>
+<p><br />
+</p>
+<p><br /></p><div role="navigation" class="navbox" aria-labelledby="Hebrew_language" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Hebrew_language" title="Template:Hebrew language"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Hebrew_language" title="Template talk:Hebrew language"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Hebrew_language&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Hebrew_language" style="font-size:114%;margin:0 4em"><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew language</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Overviews</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hebrew_language" title="Hebrew language">Language</a></li>
+<li><a href="/wiki/Hebrew_alphabet" title="Hebrew alphabet">Alphabet</a></li>
+<li><a href="/wiki/History_of_the_Hebrew_alphabet" title="History of the Hebrew alphabet">History</a></li>
+<li><a href="/wiki/Romanization_of_Hebrew" title="Romanization of Hebrew">Transliteration to English</a> / <a href="/wiki/Hebraization_of_English" title="Hebraization of English">from English</a></li>
+<li><a href="/wiki/Gematria" title="Gematria">Gematria</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Eras</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biblical_Hebrew" title="Biblical Hebrew">Biblical</a> <small>(<a href="/wiki/Israelian_Hebrew" title="Israelian Hebrew">northern dialect</a>)</small></li>
+<li><a href="/wiki/Mishnaic_Hebrew" title="Mishnaic Hebrew">Mishnaic</a></li>
+<li><a href="/wiki/Medieval_Hebrew" title="Medieval Hebrew">Medieval</a></li>
+<li><a href="/wiki/Modern_Hebrew" title="Modern Hebrew">Modern</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Reading traditions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ashkenazi_Hebrew" title="Ashkenazi Hebrew">Ashkenazi</a></li>
+<li><a href="/wiki/Sephardi_Hebrew" title="Sephardi Hebrew">Sephardi</a></li>
+<li><a href="/wiki/Italian_Hebrew" title="Italian Hebrew">Italian</a></li>
+<li><a href="/wiki/Mizrahi_Hebrew" title="Mizrahi Hebrew">Mizrahi</a> (<span style="font-size:85%;"><a href="/wiki/Syrian_Jews#Pronunciation_of_Hebrew" title="Syrian Jews">Syrian</a></span>)</li>
+<li><a href="/wiki/Yemenite_Hebrew" title="Yemenite Hebrew">Yemenite</a></li>
+<li><a href="/wiki/Samaritan_Hebrew" title="Samaritan Hebrew">Samaritan</a></li>
+<li><a href="/wiki/Tiberian_Hebrew" title="Tiberian Hebrew">Tiberian</a> <span style="font-size:85%;">(extinct)</span></li>
+<li><a href="/wiki/Palestinian_vocalization" title="Palestinian vocalization">Palestinian</a> <span style="font-size:85%;">(extinct)</span></li>
+<li><a href="/wiki/Babylonian_vocalization" title="Babylonian vocalization">Babylonian</a> <span style="font-size:85%;">(extinct)</span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Orthography</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Eras</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biblical_Hebrew_orthography" title="Biblical Hebrew orthography">Biblical</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Scripts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Rashi_script" title="Rashi script">Rashi</a></li>
+<li><a href="/wiki/Hebrew_Braille" title="Hebrew Braille">Braille</a></li>
+<li><a href="/wiki/Ashuri" title="Ashuri">Ashuri</a></li>
+<li><a href="/wiki/Cursive_Hebrew" title="Cursive Hebrew">Cursive</a></li>
+<li><a href="/wiki/Tag_(Hebrew_writing)" title="Tag (Hebrew writing)">Crowning</a></li>
+<li><a href="/wiki/Paleo-Hebrew_alphabet" title="Paleo-Hebrew alphabet">Paleo-Hebrew</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hebrew_alphabet" title="Hebrew alphabet">Alphabet</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aleph" title="Aleph">Alef</a></li>
+<li><a href="/wiki/Bet_(letter)" title="Bet (letter)">Bet</a></li>
+<li><a href="/wiki/Gimel" title="Gimel">Gimel</a></li>
+<li><a href="/wiki/Dalet" title="Dalet">Dalet</a></li>
+<li><a href="/wiki/He_(letter)" title="He (letter)">Hei</a></li>
+<li><a href="/wiki/Waw_(letter)" title="Waw (letter)">Vav</a></li>
+<li><a href="/wiki/Zayin" title="Zayin">Zayin</a></li>
+<li><a href="/wiki/Heth" title="Heth">Het</a></li>
+<li><a href="/wiki/Teth" title="Teth">Tet</a></li>
+<li><a href="/wiki/Yodh" title="Yodh">Yud</a></li>
+<li><a href="/wiki/Kaph" title="Kaph">Kaf</a></li>
+<li><a href="/wiki/Lamedh" title="Lamedh">Lamed</a></li>
+<li><a href="/wiki/Mem" title="Mem">Mem</a></li>
+<li><a href="/wiki/Nun_(letter)" title="Nun (letter)">Nun</a></li>
+<li><a href="/wiki/Samekh" title="Samekh">Samech</a></li>
+<li><a href="/wiki/Ayin" title="Ayin">Ayin</a></li>
+<li><a href="/wiki/Pe_(Semitic_letter)" title="Pe (Semitic letter)">Pei</a></li>
+<li><a href="/wiki/Tsade" title="Tsade">Tsadi</a></li>
+<li><a href="/wiki/Qoph" title="Qoph">Kuf</a></li>
+<li><a href="/wiki/Resh" title="Resh">Reish</a></li>
+<li><a href="/wiki/Shin_(letter)" title="Shin (letter)">Shin</a></li>
+<li><a href="/wiki/Taw" title="Taw">Taw</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Niqqud" title="Niqqud">Niqqud</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tiberian_vocalization" title="Tiberian vocalization">Tiberian</a></li>
+<li><a href="/wiki/Babylonian_vocalization" title="Babylonian vocalization">Babylonian</a></li>
+<li><a href="/wiki/Palestinian_vocalization" title="Palestinian vocalization">Palestinian</a></li>
+<li><a href="/wiki/Samaritan_vocalization" title="Samaritan vocalization">Samaritan</a></li></ul>
+<ul><li><a href="/wiki/Shva" title="Shva">Shva</a></li>
+<li><a href="/wiki/Hiriq" title="Hiriq">Hiriq</a></li>
+<li><a href="/wiki/Tzere" title="Tzere">Tzere</a></li>
+<li><a href="/wiki/Segol" title="Segol">Segol</a></li>
+<li><a href="/wiki/Patach" title="Patach">Patach</a></li>
+<li><a href="/wiki/Kamatz" title="Kamatz">Kamatz</a></li>
+<li><a href="/wiki/Holam" title="Holam">Holam</a></li>
+<li><a href="/wiki/Kubutz_and_Shuruk" title="Kubutz and Shuruk">Kubutz and Shuruk</a></li>
+<li><a href="/wiki/Dagesh" title="Dagesh">Dagesh</a></li>
+<li><a href="/wiki/Mappiq" title="Mappiq">Mappiq</a></li>
+<li><a href="/wiki/Hebrew_punctuation#Hyphen_and_maqaf" title="Hebrew punctuation">Maqaf</a></li>
+<li><a href="/wiki/Rafe" title="Rafe">Rafe</a></li>
+<li><a href="/wiki/Shin_(letter)#Sin_and_Shin_Dot" title="Shin (letter)">Sin/Shin Dot</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hebrew_spelling" title="Hebrew spelling">Spelling</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ktiv_menuqad" title="Ktiv menuqad">with Niqqud</a> / <a href="/wiki/Ktiv_hasar_niqqud#Ktiv_haser" title="Ktiv hasar niqqud">missing</a> / <a href="/wiki/Ktiv_hasar_niqqud" title="Ktiv hasar niqqud">full</a></li>
+<li><a href="/wiki/Mater_lectionis" title="Mater lectionis">Mater lectionis</a></li>
+<li><a href="/wiki/Hebrew_abbreviations" title="Hebrew abbreviations">Abbreviations</a></li>
+<li><a href="/wiki/Plene_scriptum" title="Plene scriptum">Plene scriptum</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hebrew_punctuation" title="Hebrew punctuation">Punctuation</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hebrew_diacritics" title="Hebrew diacritics">Diacritics</a></li>
+<li><a href="/wiki/Meteg" title="Meteg">Meteg</a></li>
+<li><a href="/wiki/Cantillation" title="Cantillation">Cantillation</a></li>
+<li><a href="/wiki/Geresh" title="Geresh">Geresh</a></li>
+<li><a href="/wiki/Gershayim" title="Gershayim">Gershayim</a></li>
+<li><a href="/wiki/Inverted_nun" title="Inverted nun">Inverted nun</a></li>
+<li><a href="/wiki/Shekel_sign" title="Shekel sign">Shekel sign</a></li>
+<li><a href="/wiki/Hebrew_numerals" title="Hebrew numerals">Numerals</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Phonology" title="Phonology">Phonology</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biblical_Hebrew#Phonology" title="Biblical Hebrew">Biblical Hebrew</a></li>
+<li><a href="/wiki/Modern_Hebrew_phonology" title="Modern Hebrew phonology">Modern Hebrew</a></li>
+<li><a href="/wiki/Philippi%27s_law" title="Philippi&#39;s law">Philippi's law</a></li>
+<li class="mw-empty-elt"></li>
+<li><a href="/wiki/Begadkefat" title="Begadkefat">Law of attenuation</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hebrew_language#Hebrew_grammar" title="Hebrew language">Grammar</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Biblical_Hebrew#Grammar" title="Biblical Hebrew">Biblical</a></li>
+<li><a href="/wiki/Modern_Hebrew_grammar" title="Modern Hebrew grammar">Modern</a></li></ul>
+<ul><li><a href="/wiki/Modern_Hebrew_verb_conjugation" title="Modern Hebrew verb conjugation">Verbal morphology</a></li>
+<li><a href="/wiki/Semitic_root" title="Semitic root">Semitic roots</a></li>
+<li><a href="/wiki/Prefixes_in_Hebrew" title="Prefixes in Hebrew">Prefixes</a></li>
+<li><a href="/wiki/Suffixes_in_Hebrew" title="Suffixes in Hebrew">Suffixes</a></li>
+<li><a href="/wiki/Segolate" title="Segolate">Segolate</a></li>
+<li><a href="/wiki/Vav-consecutive" title="Vav-consecutive">Waw-consecutive</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Academic</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Revival_of_the_Hebrew_language" title="Revival of the Hebrew language">Revival</a></li>
+<li><a href="/wiki/Academy_of_the_Hebrew_Language" title="Academy of the Hebrew Language">Academy</a></li>
+<li><a href="/wiki/Study_of_the_Hebrew_language" title="Study of the Hebrew language">Study</a></li>
+<li><a href="/wiki/Ulpan" title="Ulpan">Ulpan</a></li>
+<li><a href="/wiki/Hebrew_keyboard" title="Hebrew keyboard">Keyboard</a></li>
+<li><a href="/wiki/Hebrew_literature" title="Hebrew literature">Hebrew</a> / <a href="/wiki/Ancient_Hebrew_writings" title="Ancient Hebrew writings">ancient</a> / <a href="/wiki/Israeli_literature" title="Israeli literature">modern Israeli</a> literature</li>
+<li><a class="mw-selflink selflink">Names</a></li>
+<li><a href="/wiki/Hebraization_of_surnames" title="Hebraization of surnames">Surnames</a></li>
+<li><a href="/wiki/Unicode_and_HTML_for_the_Hebrew_alphabet" title="Unicode and HTML for the Hebrew alphabet">Unicode and HTML</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Reference works</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Brown%E2%80%93Driver%E2%80%93Briggs" title="Brown–Driver–Briggs">Brown–Driver–Briggs</a></i></li>
+<li><i><a href="/wiki/Hebrew_and_Aramaic_Lexicon_of_the_Old_Testament" title="Hebrew and Aramaic Lexicon of the Old Testament">Hebrew and Aramaic Lexicon of the Old Testament</a></i></li></ul>
+</div></td></tr></tbody></table></div><div role="navigation" class="navbox" aria-labelledby="Jewish_life" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Jewish_life" title="Template:Jewish life"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Jewish_life" title="Template talk:Jewish life"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Jewish_life&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Jewish_life" style="font-size:114%;margin:0 4em">Jewish life</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Birth and infancy</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Hebrew_birthday" title="Hebrew birthday">Hebrew birthday</a></li>
+<li><a href="/wiki/Shalom_Zachar" title="Shalom Zachar">Shalom Zachar</a></li>
+<li><a href="/wiki/Brit_milah" title="Brit milah">Brit milah</a></li>
+<li><a href="/wiki/Zeved_habat" title="Zeved habat">Zeved habat</a></li>
+<li><a class="mw-selflink selflink">Hebrew name</a></li>
+<li><a href="/wiki/Pidyon_haben" title="Pidyon haben">Pidyon haben</a></li></ul>
+</div></td><td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Star_of_David.svg" class="image"><img alt="Star of David.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/72px-Star_of_David.svg.png" decoding="async" width="72" height="83" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/108px-Star_of_David.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/144px-Star_of_David.svg.png 2x" data-file-width="260" data-file-height="300" /></a><br /><br /><a href="/wiki/File:Menora.svg" class="image"><img alt="Menora.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Menora.svg/64px-Menora.svg.png" decoding="async" width="64" height="54" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Menora.svg/96px-Menora.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Menora.svg/128px-Menora.svg.png 2x" data-file-width="732" data-file-height="621" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Coming of age</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Upsherin" title="Upsherin">Upsherin</a></li>
+<li><a href="/wiki/Wimpel" title="Wimpel">Wimpel</a></li>
+<li><a href="/wiki/Bar_and_Bat_Mitzvah" class="mw-redirect" title="Bar and Bat Mitzvah">Bar and Bat Mitzvah</a></li>
+<li><a href="/wiki/Yeshiva" title="Yeshiva">Yeshiva</a></li>
+<li><a href="/wiki/Kollel" title="Kollel">Kollel</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Daily life</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ritual_washing_in_Judaism" title="Ritual washing in Judaism">Ritual washing</a></li>
+<li><a href="/wiki/List_of_Jewish_prayers_and_blessings" title="List of Jewish prayers and blessings">Prayers and blessings</a></li>
+<li><a href="/wiki/Jewish_prayer" title="Jewish prayer">Prayer services</a></li>
+<li><a href="/wiki/Birkat_Hamazon" title="Birkat Hamazon">Grace after meals</a></li>
+<li><a href="/wiki/Kashrut" title="Kashrut">Kashrut</a></li>
+<li><a href="/wiki/Honorifics_in_Judaism" title="Honorifics in Judaism">Honorifics</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Jewish_views_on_marriage" title="Jewish views on marriage">Marriage</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Marriageable_age_in_Judaism" class="mw-redirect" title="Marriageable age in Judaism">Marriageable age</a></li>
+<li><a href="/wiki/Women_in_Judaism" title="Women in Judaism">Role of women</a></li>
+<li><a href="/wiki/Tzniut" title="Tzniut">Tzniut</a></li>
+<li><a href="/wiki/Yichus" title="Yichus">Yichus</a></li>
+<li><a href="/wiki/Shidduch" title="Shidduch">Matchmaking</a></li>
+<li><a href="/wiki/Erusin" title="Erusin">Engagement</a></li>
+<li><a href="/wiki/Jewish_wedding" title="Jewish wedding">Jewish wedding</a></li>
+<li><a href="/wiki/Ketubah" title="Ketubah">Ketubah</a></li>
+<li><a href="/wiki/Chuppah" title="Chuppah">Chuppah</a></li>
+<li><a href="/wiki/Sheva_Brachot" title="Sheva Brachot">Sheva Brachot</a></li>
+<li><a href="/wiki/Niddah" title="Niddah">Niddah</a></li>
+<li><a href="/wiki/Mikvah" class="mw-redirect" title="Mikvah">Mikvah</a></li>
+<li><a href="/wiki/Get_(divorce_document)" title="Get (divorce document)">Divorce</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Judaism" title="Judaism">Religious practice</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/613_Mitzvot" class="mw-redirect" title="613 Mitzvot">613 commandments</a></li>
+<li><a href="/wiki/Minhag" title="Minhag">Customs</a></li>
+<li><a href="/wiki/Torah_study" title="Torah study">Torah study</a></li>
+<li><a href="/wiki/Weekly_Torah_portion" title="Weekly Torah portion">Weekly Torah reading</a></li>
+<li><a href="/wiki/Daf_Yomi" title="Daf Yomi">Daf Yomi</a></li>
+<li><a href="/wiki/Shiur_(Torah)" title="Shiur (Torah)">Shiur</a></li>
+<li><a href="/wiki/Siyum" title="Siyum">Siyum</a></li>
+<li><a href="/wiki/Chavrusa" title="Chavrusa">Chavrusa</a></li>
+<li><a href="/wiki/Chavurah" title="Chavurah">Chavurah</a></li>
+<li><a href="/wiki/Chidush" title="Chidush">Chidush</a></li>
+<li><a href="/wiki/Jewish_holidays" title="Jewish holidays">Holidays</a></li>
+<li><a href="/wiki/Tzedakah" title="Tzedakah">Tzedakah</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Religious items</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sefer_Torah" title="Sefer Torah">Sefer Torah</a></li>
+<li><a href="/wiki/Siddur" title="Siddur">Siddur</a></li>
+<li><a href="/wiki/Machzor" title="Machzor">Machzor</a></li>
+<li><a href="/wiki/Tzitzit" title="Tzitzit">Tzitzit</a></li>
+<li><a href="/wiki/Tallit" title="Tallit">Tallit</a></li>
+<li><a href="/wiki/Tefillin" title="Tefillin">Tefillin</a></li>
+<li><a href="/wiki/Mezuzah" title="Mezuzah">Mezuzah</a></li>
+<li><a href="/wiki/Kippah" title="Kippah">Kippah</a></li>
+<li><a href="/wiki/Menorah_(Hanukkah)" title="Menorah (Hanukkah)">Menorah</a></li>
+<li><a href="/wiki/Shofar" title="Shofar">Shofar</a></li>
+<li><a href="/wiki/Four_species" title="Four species">Four species</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Bereavement_in_Judaism" title="Bereavement in Judaism">Death</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chevra_kadisha" title="Chevra kadisha">Chevra Kadisha</a></li>
+<li><a href="/wiki/Shiva_(Judaism)" title="Shiva (Judaism)">Shiva</a></li>
+<li><a href="/wiki/Kaddish" title="Kaddish">Kaddish</a></li>
+<li><a href="/wiki/Psalms" title="Psalms">Tehillim</a></li>
+<li><a href="/wiki/Bereavement_in_Judaism#Yahrtzeit" title="Bereavement in Judaism">Yahrzeit</a></li>
+<li><a href="/wiki/Yahrzeit_candle" title="Yahrzeit candle">Yahrzeit candle</a></li>
+<li><a href="/wiki/Bereavement_in_Judaism#Yizkor" title="Bereavement in Judaism">Yizkor</a></li>
+<li><a href="/wiki/Honorifics_for_the_dead_in_Judaism" title="Honorifics for the dead in Judaism">Honorifics</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
+<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Surname</a>
+<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
+<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
+<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
+<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
+<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
+<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
+<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
+<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
+<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
+<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
+<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
+<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
+<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
+<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
+<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
+<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
+<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
+<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
+<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
+<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
+<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
+<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
+<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
+<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
+<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
+<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
+<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
+<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
+<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
+<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
+<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
+<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
+<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
+<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
+<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
+<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
+<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
+<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
+<li><a href="/wiki/Ancient_Greek_personal_names" title="Ancient Greek personal names">Ancient Greek</a></li>
+<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
+<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
+<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
+<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
+<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
+<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
+<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
+<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
+<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
+<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
+<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
+<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
+<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
+<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
+<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
+<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
+<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
+<li><a href="/wiki/English_name" title="English name">English</a></li>
+<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
+<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
+<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
+<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
+<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
+<li><a href="/wiki/French_name" title="French name">French</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
+<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
+<li><a href="/wiki/German_name" title="German name">German</a></li>
+<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
+<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
+<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
+<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
+<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
+<li><a class="mw-selflink selflink">Hebrew</a></li>
+<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
+<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
+<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
+<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
+<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
+<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
+<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
+<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
+<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
+<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
+<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
+<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
+<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
+<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
+<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
+<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
+<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
+<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
+<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
+<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
+<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
+<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
+<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
+<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
+<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
+<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
+<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
+<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
+<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
+<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
+<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
+<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
+<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
+<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
+<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
+<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
+<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
+<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
+<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
+<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
+<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
+<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
+<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
+<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
+<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
+<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
+<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
+<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
+<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
+<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
+<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
+<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
+<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
+<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
+<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
+<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
+<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
+<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
+<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
+<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
+<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award_or_decoration" title="Award or decoration">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
+<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
+<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
+<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
+<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
+<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
+<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
+<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
+<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
+<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
+<li><a href="/wiki/Name_day" title="Name day">Name day</a>
+<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
+<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
+<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
+<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
+<li><a href="/wiki/Family" title="Family">Family</a></li>
+<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
+<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
+<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
+<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
+<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
+<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
+<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
+<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
+<li><a href="/wiki/Signature" title="Signature">Signature</a>
+<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
+<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
+<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
+<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1251
+Cached time: 20190918223011
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.496 seconds
+Real time usage: 0.661 seconds
+Preprocessor visited node count: 1131/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 121042/2097152 bytes
+Template argument size: 424/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 5254/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.174/10.000 seconds
+Lua memory usage: 3.84 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  422.102      1 -total
+ 28.39%  119.820      1 Template:Reflist
+ 22.09%   93.251      1 Template:Cite_book
+ 20.72%   87.443      1 Template:Refimprove
+ 17.88%   75.467      1 Template:Ambox
+ 12.20%   51.492      5 Template:Navbox
+ 12.15%   51.291      1 Template:Judaism
+ 11.68%   49.281      1 Template:About
+ 10.94%   46.190      1 Template:Sidebar_with_collapsible_lists
+  9.48%   40.006      1 Template:Find_sources_mainspace
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:636105-0!canonical and timestamp 20190918223011 and revision id 915747882
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hebrew_name&amp;oldid=915747882">https://en.wikipedia.org/w/index.php?title=Hebrew_name&amp;oldid=915747882</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hebrew-language_names" title="Category:Hebrew-language names">Hebrew-language names</a></li><li><a href="/wiki/Category:Names_by_culture" title="Category:Names by culture">Names by culture</a></li><li><a href="/wiki/Category:Jewish_life_cycle" title="Category:Jewish life cycle">Jewish life cycle</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_July_2013" title="Category:Articles needing additional references from July 2013">Articles needing additional references from July 2013</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_March_2013" title="Category:Use mdy dates from March 2013">Use mdy dates from March 2013</a></li><li><a href="/wiki/Category:Articles_incorporating_a_citation_from_the_1913_Catholic_Encyclopedia_with_Wikisource_reference" title="Category:Articles incorporating a citation from the 1913 Catholic Encyclopedia with Wikisource reference">Articles incorporating a citation from the 1913 Catholic Encyclopedia with Wikisource reference</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hebrew+name" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hebrew+name" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Hebrew_name" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Hebrew_name" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Hebrew_name">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Hebrew_name&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Hebrew_name&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Hebrew_name" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Hebrew_name" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hebrew_name&amp;oldid=915747882" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hebrew_name&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2916264" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hebrew_name&amp;id=915747882" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hebrew+name">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hebrew+name&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Hebrew_name&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Hebrejsk%C3%A9_jm%C3%A9no" title="Hebrejské jméno – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%80%D6%80%D5%A5%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B6%D5%B8%D6%82%D5%B6" title="Հրեական անուն – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Nama_Ibrani" title="Nama Ibrani – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Nome_ebraico" title="Nome ebraico – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Nome_hebraico" title="Nome hebraico – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%95%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D0%BC%D1%8F" title="Еврейское имя – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Hebrew_name" title="Hebrew name – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%B0%D0%BA_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B0_%D1%85%D0%B5%D0%B1%D1%80%D0%B5%D1%98%D1%81%D0%BA%D0%BE%D0%B3_%D0%BF%D0%BE%D1%80%D0%B5%D0%BA%D0%BB%D0%B0" title="Списак имена хебрејског порекла – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2916264#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 15 September 2019, at 03:10<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hebrew_name&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.496","walltime":"0.661","ppvisitednodes":{"value":1131,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":121042,"limit":2097152},"templateargumentsize":{"value":424,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":5254,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  422.102      1 -total"," 28.39%  119.820      1 Template:Reflist"," 22.09%   93.251      1 Template:Cite_book"," 20.72%   87.443      1 Template:Refimprove"," 17.88%   75.467      1 Template:Ambox"," 12.20%   51.492      5 Template:Navbox"," 12.15%   51.291      1 Template:Judaism"," 11.68%   49.281      1 Template:About"," 10.94%   46.190      1 Template:Sidebar_with_collapsible_lists","  9.48%   40.006      1 Template:Find_sources_mainspace"]},"scribunto":{"limitreport-timeusage":{"value":"0.174","limit":"10.000"},"limitreport-memusage":{"value":4027727,"limit":52428800},"limitreport-logs":"table#1 {\n  [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw1251","timestamp":"20190918223011","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hebrew name","url":"https:\/\/en.wikipedia.org\/wiki\/Hebrew_name","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2916264","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2916264","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-05-05T05:49:43Z","dateModified":"2019-09-15T03:10:14Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":117,"wgHostname":"mw1323"});});</script>
+</body>
+</html>
+

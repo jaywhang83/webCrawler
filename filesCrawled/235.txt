@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Ancient Greek personal names - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Ancient_Greek_personal_names","wgTitle":"Ancient Greek personal names","wgCurRevisionId":918129101,"wgRevisionId":918129101,"wgArticleId":43413936,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: missing periodical","CS1 French-language sources (fr)","CS1 German-language sources (de)","Articles containing Ancient Greek-language text","Ancient Greek culture","Names by culture","Greek given names"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun",
+"Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Ancient_Greek_personal_names","wgRelevantArticleId":43413936,"wgRequestId":"XY2YegpAMEkAAA1TuzIAAACW","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q18149192","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":
+"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ancient_Greek_personal_names"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ancient_Greek_personal_names"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ancient_Greek_personal_names rootpage-Ancient_Greek_personal_names skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Ancient Greek personal names</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>The study of <b>ancient Greek personal names</b> is a branch of <a href="/wiki/Onomastics" title="Onomastics">onomastics</a>, the study of names,<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and more specifically of <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponomastics</a>, the study of names of persons.  There are hundreds of thousands and even millions of <a href="/wiki/Greek_name" title="Greek name">Greek names</a> on record, making them an important resource for any general study of naming, as well as for the study of <a href="/wiki/Ancient_Greece" title="Ancient Greece">ancient Greece</a> itself.  The names are found in literary texts, on coins and stamped <a href="/wiki/Amphora" title="Amphora">amphora</a> handles, on potsherds used in <a href="/wiki/Ostracism" title="Ostracism">ostracisms</a>, and, much more abundantly, in inscriptions and (in <a href="/wiki/Ancient_Egypt" title="Ancient Egypt">Egypt</a>) on <a href="/wiki/Papyrus" title="Papyrus">papyri</a>.  This article will concentrate on Greek naming from the 8th century BC, when the evidence begins, to the end of the 6th century AD.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Single_names_and_names_within_families"><span class="tocnumber">1</span> <span class="toctext">Single names and names within families</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Naming_women"><span class="tocnumber">2</span> <span class="toctext">Naming women</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Formation_of_names"><span class="tocnumber">3</span> <span class="toctext">Formation of names</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Compound_names"><span class="tocnumber">3.1</span> <span class="toctext">Compound names</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Shortened_names"><span class="tocnumber">3.2</span> <span class="toctext">Shortened names</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Simple_names"><span class="tocnumber">3.3</span> <span class="toctext">Simple names</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Theophoric_(&quot;god-carrying&quot;)_names"><span class="tocnumber">3.4</span> <span class="toctext">Theophoric ("god-carrying") names</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Lallnamen"><span class="tocnumber">3.5</span> <span class="toctext">Lallnamen</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#A_brief_history_of_Greek_naming"><span class="tocnumber">4</span> <span class="toctext">A brief history of Greek naming</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Suffixes"><span class="tocnumber">5</span> <span class="toctext">Suffixes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Names_as_history"><span class="tocnumber">6</span> <span class="toctext">Names as history</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#The_study_of_Greek_names"><span class="tocnumber">7</span> <span class="toctext">The study of Greek names</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Single_names_and_names_within_families">Single names and names within families</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit&amp;section=1" title="Edit section: Single names and names within families">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:1238_-_Keramikos_Museum,_Athens_-_Ostrakon_against_Aristides,_son_of_Lysimachos_-_Photo_by_Giovanni_Dall_CROPPED.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/1238_-_Keramikos_Museum%2C_Athens_-_Ostrakon_against_Aristides%2C_son_of_Lysimachos_-_Photo_by_Giovanni_Dall_CROPPED.jpg/220px-1238_-_Keramikos_Museum%2C_Athens_-_Ostrakon_against_Aristides%2C_son_of_Lysimachos_-_Photo_by_Giovanni_Dall_CROPPED.jpg" decoding="async" width="220" height="184" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/1238_-_Keramikos_Museum%2C_Athens_-_Ostrakon_against_Aristides%2C_son_of_Lysimachos_-_Photo_by_Giovanni_Dall_CROPPED.jpg/330px-1238_-_Keramikos_Museum%2C_Athens_-_Ostrakon_against_Aristides%2C_son_of_Lysimachos_-_Photo_by_Giovanni_Dall_CROPPED.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/1238_-_Keramikos_Museum%2C_Athens_-_Ostrakon_against_Aristides%2C_son_of_Lysimachos_-_Photo_by_Giovanni_Dall_CROPPED.jpg/440px-1238_-_Keramikos_Museum%2C_Athens_-_Ostrakon_against_Aristides%2C_son_of_Lysimachos_-_Photo_by_Giovanni_Dall_CROPPED.jpg 2x" data-file-width="2048" data-file-height="1713" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:1238_-_Keramikos_Museum,_Athens_-_Ostrakon_against_Aristides,_son_of_Lysimachos_-_Photo_by_Giovanni_Dall_CROPPED.jpg" class="internal" title="Enlarge"></a></div>A 5th century BC <a href="/wiki/Ostracon" title="Ostracon">ostrakon</a>: a pot shard bearing the name of a politician proposed for <a href="/wiki/Ostracism" title="Ostracism">ostracism</a> (exile). The individual name Aristides and <a href="/wiki/Patronym" class="mw-redirect" title="Patronym">patronym</a> Lysimachos together mean "Aristides, son of Lysimachos"</div></div></div>
+<p><a href="/wiki/Ancient_Greeks" class="mw-redirect" title="Ancient Greeks">Ancient Greeks</a> usually had one name, but another element was often added in semi-official contexts or to aid identification: a father's name (<a href="/wiki/Patronym" class="mw-redirect" title="Patronym">patronym</a>) in the <a href="/wiki/Genitive_case" title="Genitive case">genitive case</a>, or in some regions as an adjectival formulation. A third element might be added, indicating the individual's membership in a particular kinship or other grouping, or city of origin (when the person in question was away from that city). Thus the orator <a href="/wiki/Demosthenes" title="Demosthenes">Demosthenes</a>, while proposing decrees in the <a href="/wiki/Athenian_assembly" class="mw-redirect" title="Athenian assembly">Athenian assembly</a>, was known as "Demosthenes, son of Demosthenes of <a href="/wiki/Paiania" title="Paiania">Paiania</a>"; Paiania was the <a href="/wiki/Deme" title="Deme">deme</a> or regional sub-unit of <a href="/wiki/Attica" title="Attica">Attica</a> to which he belonged by birth. If Americans used that system, <a href="/wiki/Abraham_Lincoln#Early_life_and_family_ancestry" title="Abraham Lincoln">Abraham Lincoln</a> would have been called "Abraham, son of Thomas of Kentucky" (where he was born). In some rare occasions, if a person was illegitimate or fathered by a non-citizen, they might use their mother's name (metronym) instead of their father's. Ten days after a birth, relatives on both sides were invited to a sacrifice and feast called <i>dekátē</i> (<span lang="grc" title="Ancient Greek language text">δεκάτη</span>), 'tenth day';  on this occasion the father formally named the child.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Demosthenes was unusual in bearing the same name as his own father; it was more common for names to alternate between generations or between lines of a family. Thus it was common to name a first son after his paternal grandfather, and the second after the maternal grandfather, great-uncle, or great-aunt. A speaker in a Greek court case explained that he had named his four children after, respectively, his own father, the father of his wife, a relative of his wife, and the father of his own mother.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>  Alternatively, family members might adopt variants of the same name, as for instance "Demippos, son of Demotimos". The practice of naming children after their grandparents is still widely practiced in Greece today.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Naming_women">Naming women</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit&amp;section=2" title="Edit section: Naming women">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In many contexts, etiquette required that respectable women be spoken of as the wife or daughter of X rather than by their own names.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> On gravestones or dedications, however, they had to be identified by name. Here, the patronymic formula "son of X" used for men might be replaced by "wife of X", or supplemented as "daughter of X, wife of Y".
+</p><p>Many women bore forms of standard masculine names, with a feminine ending substituted for the masculine. Many standard names related to specific masculine achievements had a common feminine equivalent; the counterpart of <i>Nikomachos</i>, "victorious in battle", would be <i>Nikomachē</i>. The taste mentioned above for giving family members related names was one motive for the creation of such feminine forms. There were also feminine names with no masculine equivalent, such as <i>Glykera</i> "sweet one"; <i>Hedistē</i> "most delightful".
+</p><p>Another distinctive way of forming feminine names was the neuter diminutive suffix <i>-ion</i> (-ιον, while the masculine corresponding suffix was -ιων), suggesting the idea of a "little thing": e.g., <i>Aristion</i> from <i>aristos</i> "best"; <i>Mikrion</i> from <i>mikros</i> "small". Perhaps by extension of this usage, women's names were sometimes formed from men's by a change to a neuter ending without the diminutive sense: <i>Hilaron</i> from <i>hilaros</i>, "cheerful".
+</p>
+<h2><span class="mw-headline" id="Formation_of_names">Formation of names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit&amp;section=3" title="Edit section: Formation of names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There were five main personal name types in Greece:<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Compound_names">Compound names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit&amp;section=4" title="Edit section: Compound names">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><i>Demosthenes</i> is compounded from two ordinary Greek roots (a structure at least as old as <a href="/wiki/Proto-Indo-European" class="mw-redirect" title="Proto-Indo-European">proto-Indo-European</a>):<sup id="cite_ref-Pulgram_8-0" class="reference"><a href="#cite_note-Pulgram-8">&#91;8&#93;</a></sup> <i>demos</i> "people" and <i>sthenos</i> "strength". A vast number of Greek names have this form, being compounded from two clearly recognizable (though sometimes shortened) elements: <i>Nikomachos</i> from <i>nike</i> "victory" and <i>mache</i> "battle", <i>Sophokles</i> from <i>sophos</i> "wise, skilled" and <i>kleos</i> "glory", <i>Polykrates</i> from <i>poly</i> "much" and <i>kratos</i> "power".  The elements used in these compounds are typically positive and of good omen, stressing such ideas as beauty, strength, bravery, victory, glory, and horsemanship. The order of the elements was often reversible: <i>aristos</i> and <i>kleos</i> give both <i>Aristokles</i> and <i>Klearistos</i>. Such compounds have a more or less clear meaning. But as was already noted by Aristotle,<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> two elements could be brought together in illogical ways. Thus the immensely productive <i>hippos</i> "horse" yielded, among hundreds of compounds, not only meaningful ones such as <i>Philippos</i> "lover of horses" and <i>Hippodamas</i> "horse-tamer", but also <i>Xenippos</i> "stranger horse" and <i>Andrippos</i> "man horse".  There were, in turn, numerous other names beginning with <i>Xen-</i> and <i>Andr-</i>. These "irrational" compounds arose through a combination of common elements.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> One motive was a tendency for members of the same family to receive names that echoed one another without being identical. Thus we meet Demippos, son of Demotimos, where the son's name is irrational ("people horse") and the father's name meaningful ("people honour", i.e., honored among the people).
+</p>
+<h3><span class="mw-headline" id="Shortened_names">Shortened names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit&amp;section=5" title="Edit section: Shortened names">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A second major category of names was shortened versions ("<a href="/wiki/Hypocoristic" class="mw-redirect" title="Hypocoristic">hypocoristics</a>," or in German <i>Kosenamen</i>) of the compounded names. Thus alongside the many names beginning with <i>Kall-</i> "beauty" such as <i>Kallinikos</i> "of fair victory", there are shortened <i>Kallias</i> and <i>Kallon</i> (masculine) or <i>Kallis</i> (feminine). Alongside victory names such as <i>Nikostratos</i> "victory army", there are <i>Nikias</i> and <i>Nikon</i> (masculine) or <i>Niko</i> (feminine). Such shortenings were variously formed and very numerous: more than 250 shortenings of names in <i>Phil(l)-</i> ("love") and related roots have been counted.
+</p>
+<h3><span class="mw-headline" id="Simple_names">Simple names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit&amp;section=6" title="Edit section: Simple names">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ordinary nouns and adjectives of the most diverse types were used as names, either unadjusted or with the addition of a wide variety of suffixes. For instance, some twenty different names are formed from <i>aischros</i> "ugly", including that of the poet we know as <a href="/wiki/Aeschylus" title="Aeschylus">Aeschylus</a>, the Latin spelling of <i>Aischylos</i>. Among the many different categories of nouns and adjectives from which the most common names derive are colors (<i>Xanthos</i> "yellow'), animals (<i>Moschos</i> "heifer", and <i>Dorkas</i> "roe deer"), physical characteristics (<i>Simos</i> "snub nose"), parts of the body (<i>Kephalos</i>, from <i>kephale</i> "head", and many from various slang terms for genitalia). Few of these simple names are as common as the most common compound names, but they are extraordinarily numerous and varied. Identifying their origins often taxes the knowledge of the outer reaches of Greek vocabulary.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Here the quest for dignity seen in the compound names largely disappears. Some, to our ears, sound positively disrespectful: <i>Gastron</i> "pot belly", <i>Batrachos</i> "frog", <i>Kopreus</i> "shitty", but these are probably by origin affectionate nicknames, in many cases applied to small children, and subsequently carried on within families.
+</p>
+<h3><span id="Theophoric_.28.22god-carrying.22.29_names"></span><span class="mw-headline" id="Theophoric_(&quot;god-carrying&quot;)_names">Theophoric ("god-carrying") names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit&amp;section=7" title="Edit section: Theophoric (&quot;god-carrying&quot;) names">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Very many Greeks bore names derived from those of gods. Though it was not normal before the Roman period for Greeks to bear exactly the same names as gods, the two most common Greek names (<i>Dionysios</i> and <i>Demetrios</i>; feminine <i>Dionysia</i> and <i>Demetria</i>) were simple adjectival formations from the divine names <i>Dionysos</i> and <i>Demeter</i>. There were also compound theophoric names, formed with a wide variety of suffixes, of which the most common were <i>-doros</i> "gift of" (e.g. <i>Dionysodoros</i> "gift of Dionysos") or <i>-dotos</i> "given by" (<i>Apollodotos</i>). Many names were also based on cult titles of gods: <i>Pythodoros</i>, from <i>Pythios</i> "Apollo".  Also common were names formed from the simple <i>theos</i> "god", such as <i>Theodotos/Theodora</i>. All the major gods except the god of war, <i>Ares</i>, and gods associated with the underworld (<i>Persephone, Hades, Plouton</i> [=&#160;Latin <i>Pluto</i>]) generated theophoric names, as did some lesser gods (rivers in particular) and heroes. When new gods rose to prominence (<i>Asklepios</i>) or entered Greece from outside (<i>Isis, Sarapis</i>), they too generated theophoric names formed in the normal ways (e.g. <i>Asklepiodotos, Isidoros, Sarapias</i>).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Lallnamen">Lallnamen</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit&amp;section=8" title="Edit section: Lallnamen">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This is the German word used for names that derived not from other words but from the sounds made by little children addressing their relatives. Typically, they involve repeated consonants or syllables (like English <i>Dada, Nana</i>)—examples are <i>Nanna</i> and <i>Papas</i>. They grew hugely in frequency from a low base in the Roman period, probably through the influence of other naming traditions such as <a href="/wiki/Phrygia" title="Phrygia">Phrygian</a>, in which such names were very common.
+</p>
+<h2><span class="mw-headline" id="A_brief_history_of_Greek_naming">A brief history of Greek naming</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit&amp;section=9" title="Edit section: A brief history of Greek naming">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The main broad characteristics of Greek name formation listed above are found in other <a href="/wiki/Indo-European_languages" title="Indo-European languages">Indo-European languages</a> (the Indo-Iranian, Germanic, Celtic, Baltic, and Slavic subgroups); they look like an ancient inheritance within Greek.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> The naming practices of the Mycenaeans in the 14th/13th centuries BC, insofar as they can be reconstructed from the early Greek known as <a href="/wiki/Linear_B" title="Linear B">Linear B</a>, seem already to display most of the characteristics of the system visible when literacy resumed in the 8th century BC, though non-Greek names were also present. This is true also of the epic poetry of Homer, where many heroes have compound names of familiar types (<i>Alexandros, Alkinoos, Amphimakhos</i>). But the names of several of the greatest heroes (e.g. <i>Achilleus, Odysseus, Agamemnon, Priamos</i>) cannot be interpreted in those terms and were seldom borne by mortals again until a taste for "heroic" names developed under the Roman empire; they have a different, unexplained origin. The system described above underwent few changes before the Roman period, though the rise of <a href="/wiki/Macedonia_(Greece)" title="Macedonia (Greece)">Macedonia</a> to power earned names of that region such as <i>Ptolemaios, Berenike</i>, and <i>Arsinoe</i> new popularity. Alternative names ("X also known as Y") started to appear in documents in the 2nd century BC but had been occasionally mentioned in literary sources much earlier.
+</p><p>A different phenomenon, that of individuals bearing two names (e.g., <i>Hermogenes Theodotos</i>), emerged among families of high social standing—particularly in Asia Minor in the Roman imperial period, possibly under the influence of Roman naming patterns. The influence of Rome is certainly visible both in the adoption of Roman names by Greeks and in the drastic transformation of names by Greeks who acquired <a href="/wiki/Roman_citizenship" title="Roman citizenship">Roman citizenship</a>, a status marked by possession of not one but <a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">three names</a>. Such Greeks often took the <i><a href="/wiki/Praenomen" title="Praenomen">praenomen</a></i> and <i><a href="/wiki/Roman_naming_conventions#Nomen" title="Roman naming conventions">nomen</a></i> of the authors or sponsors of their citizenship, but retained their Greek name as <i><a href="/wiki/Cognomen" title="Cognomen">cognomen</a></i> to give such forms as Titus Flavius Alkibiades. Various mixed forms also emerged. The Latin suffix <i>–ianus</i>, originally indicating the birth family of a Roman adopted into another family, was taken over to mean initially "son of" (e.g. <i>Asklepiodotianos</i> = son of Asklepiodotos), then later as a source of independent new names.
+</p><p>Another impulse came with the spread of Christianity, which brought new popularity to names from the New Testament, names of saints and martyrs, and existing Greek names such as <i>Theodosios</i> "gift of god", which could be reinterpreted in Christian terms. But non-Christian names, even theophoric names such as <i>Dionysios</i> or <i>Sarapion</i>, continued to be borne by Christians — a reminder that a theophoric name could become a name like any other, its original meaning forgotten. Another phenomenon of late antiquity (5th–6th centuries) was a gradual shift away from the use of the father's name in the genitive as an identifier. A tendency emerged instead to indicate a person's profession or status within the Christian church: carpenter, deacon, etc.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>  Many Greek names have come down by various routes into modern English, some easily recognisable such as Helen or Alexander, some modified such as Denis (from Dionysios).<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Suffixes">Suffixes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit&amp;section=10" title="Edit section: Suffixes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many Greeks names used distinctive suffixes that conveyed additional meaning.  The suffix <i>-ides</i> (<i>idas</i> in Doric areas such as Sparta) indicates patrilineal descent, e.g. <i>Leonidas</i> ("son of the lion").  The diminutive suffix <i>-ion</i> was also common, e.g. <i>Hephaestion</i> ("little Hephaestus").<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Names_as_history">Names as history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit&amp;section=11" title="Edit section: Names as history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The French <a href="/wiki/Epigraphist" class="mw-redirect" title="Epigraphist">epigraphist</a> <a href="/wiki/Louis_Robert_(historian)" title="Louis Robert (historian)">Louis Robert</a> declared that what is needed in the study of names is not "catalogues of names but the history of names and even history by means of names (l'histoire par les noms)."<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> Names are a neglected but in some areas crucial historical source.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> Many names are characteristic of particular cities or regions. It is seldom safe to use an individual's name to assign him to a particular place, as the factors that determine individual choices of name are very various.  But where a good cluster of names are present, it will usually be possible to identify with much plausibility where the group in question derives from. By such means, the origins of, say, bands of mercenaries or groups of colonists named in inscriptions without indication of their homeland can often be determined. Names are particularly important in situations of cultural contact: they may answer the question whether a particular city is Greek or non-Greek, and document the shifts and complexities in ethnic self-identification even within individual families. They also, through theophoric names, provide crucial evidence for the diffusion of new cults, and later of Christianity.
+</p><p>Two other once-popular ways of exploiting names for social history, by contrast, have fallen out of favor. Certain names and classes of name were often borne by slaves, since their names were given or changed at will by their owners, who may not have liked to allow them dignified names.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> But no names or very few were so borne exclusively, and many slaves had names indistinguishable from those of the free; one can never identify a slave by name alone.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>  Similar arguments apply to so-called "<a href="/wiki/Courtesan" title="Courtesan">courtesans</a>’ names".
+</p>
+<h2><span class="mw-headline" id="The_study_of_Greek_names">The study of Greek names</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit&amp;section=12" title="Edit section: The study of Greek names">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Jean_Antoine_Letronne.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jean_Antoine_Letronne.jpg/220px-Jean_Antoine_Letronne.jpg" decoding="async" width="220" height="201" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jean_Antoine_Letronne.jpg/330px-Jean_Antoine_Letronne.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jean_Antoine_Letronne.jpg/440px-Jean_Antoine_Letronne.jpg 2x" data-file-width="902" data-file-height="823" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Jean_Antoine_Letronne.jpg" class="internal" title="Enlarge"></a></div>Jean Antoine Letronne</div></div></div>
+<p><a href="/wiki/Jean_Antoine_Letronne" class="mw-redirect" title="Jean Antoine Letronne">Jean Antoine Letronne</a> (1851)<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> was the pioneer work stressing the importance of the subject. 
+<a href="/wiki/Wilhelm_Pape" title="Wilhelm Pape">Pape</a> and Benseler (1863–1870)<sup id="cite_ref-Pape_22-0" class="reference"><a href="#cite_note-Pape-22">&#91;22&#93;</a></sup> was for long the central work of reference but has now been replaced.
+Bechtel (1917)<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> is still the main work that seeks to explain the formation and meaning of Greek names, although the studies of O. Masson et al. collected in <i>Onomastica Graeca Selecta</i> (1990–2000)<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> have constantly to be consulted.
+</p><p><a href="/wiki/Louis_Robert_(historian)" title="Louis Robert (historian)">L. Robert</a>, <i>Noms indigènes dans l’Asie Mineure gréco-romaine</i> (1963),<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> is, despite its title, largely a successful attempt to show that many names attested in Asia Minor and supposed to be indigenous are in fact Greek; it is a dazzling demonstration of the resources of Greek naming.
+</p><p>The fundamental starting point is now the multi-volume <i>A Lexicon of Greek Personal Names</i>, founded by <a href="/wiki/Peter_Fraser_(academic)" class="mw-redirect" title="Peter Fraser (academic)">P.M. Fraser</a> and still being extended with the collaboration of many scholars.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> This work lists, region by region, not only every name attested in the region but every bearer of that name (thus popularity of the name can be measured). The huge numbers of Greek names attested in Egypt are accessible at Trismegistos People.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+Several volumes of studies have been published that build on the new foundation created by these comprehensive collections: <a href="/wiki/Simon_Hornblower" title="Simon Hornblower">S. Hornblower</a> and <a href="/wiki/Elaine_Matthews" title="Elaine Matthews">E. Matthews</a> (2000);<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> 
+E. Matthews (2007);<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup> 
+R. W. V. Catling and F. Marchand (2010);<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> 
+<a href="/wiki/Robert_Parker_(historian)" title="Robert Parker (historian)">R. Parker</a> (2013).<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">E. Eichler and others, <i>Namenforschung</i>, 3 vols., 1995</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">O. Masson, 'Les noms propres d'homme en grec ancien', in E. Eichler and others, <i>Namenforschung</i>, vol. I (1995), 706-710</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">N. Dunbar, <i>Aristophanes,</i> Birds <a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057:entry=de/katos">(1995), 339.</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Dem.+43+74&amp;fromdoc=Perseus%3Atext%3A1999.01.0078">Speech against Makartatos, ascribed to Demosthenes, sect. 74</a> (translated by A. T. Murray) <i>Perseus Digital Library</i></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.lgpn.ox.ac.uk/names/practices.html">"Naming practices"</a>. <i>Lexicon of Greek Personal Names</i>. Oxford University<span class="reference-accessdate">. Retrieved <span class="nowrap">16 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Lexicon+of+Greek+Personal+Names&amp;rft.atitle=Naming+practices&amp;rft_id=http%3A%2F%2Fwww.lgpn.ox.ac.uk%2Fnames%2Fpractices.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Greek+personal+names" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Schaps, David (1977-12-01). <a rel="nofollow" class="external text" href="https://www.cambridge.org/core/journals/classical-quarterly/article/div-classtitlethe-woman-least-mentioneda-hreffn01-ref-typefnspan-classsup1spana-etiquette-and-womenandaposs-namesdiv/45AC5C10C4FE81EADD44FC4CF10D13CD">"The Woman Least Mentioned1: Etiquette And Women's Names"</a>. <i>The Classical Quarterly</i>. <b>27</b> (2): 323–330. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1017%2FS0009838800035606">10.1017/S0009838800035606</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/1471-6844">1471-6844</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Classical+Quarterly&amp;rft.atitle=The+Woman+Least+Mentioned1%3A+Etiquette+And+Women%27s+Names&amp;rft.volume=27&amp;rft.issue=2&amp;rft.pages=323-330&amp;rft.date=1977-12-01&amp;rft_id=info%3Adoi%2F10.1017%2FS0009838800035606&amp;rft.issn=1471-6844&amp;rft.aulast=Schaps&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fwww.cambridge.org%2Fcore%2Fjournals%2Fclassical-quarterly%2Farticle%2Fdiv-classtitlethe-woman-least-mentioneda-hreffn01-ref-typefnspan-classsup1spana-etiquette-and-womenandaposs-namesdiv%2F45AC5C10C4FE81EADD44FC4CF10D13CD&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Greek+personal+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.lgpn.ox.ac.uk/names/LGPN-Ling.html">For analysis http://www.lgpn.ox.ac.uk/names/LGPN-Ling.html</a></span>
+</li>
+<li id="cite_note-Pulgram-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pulgram_8-0">^</a></b></span> <span class="reference-text"><cite id="Pulgram" class="citation journal"><a href="/wiki/Ernst_Pulgram" title="Ernst Pulgram">Pulgram, Ernst</a> (July–September 1947). "Indo-European Personal Names". <i>Language</i>. Washington: Linguistic Society of America. <b>23</b> (3): 189–206. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.2307%2F409874">10.2307/409874</a>. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="//www.jstor.org/stable/409874">409874</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Language&amp;rft.atitle=Indo-European+Personal+Names&amp;rft.volume=23&amp;rft.issue=3&amp;rft.pages=189-206&amp;rft.date=1947-07%2F1947-09&amp;rft_id=info%3Adoi%2F10.2307%2F409874&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F409874&amp;rft.aulast=Pulgram&amp;rft.aufirst=Ernst&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Greek+personal+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Aristotle, <a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0056%3Asection%3D1457a"><i>Poetics</i> 1457a 12-14</a> (translated by W. H. Fyfe) <i>Perseus Digital Library</i></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">O. Masson, <i>Onomastica Graeca Selecta</i>, ed. C. Dobias and L. Dubois (1990), 88 and 404.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">J. Curbera, 'Simple Names in Ionia', in R. Parker (ed.), <i>Personal Names in Ancient Anatolia</i> (2013), 107-144. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780197265635" title="Special:BookSources/9780197265635">9780197265635</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">R. Parker, <a rel="nofollow" class="external text" href="http://www.britac.ac.uk/pubs/proc/files/104p053.pdf">'Theophoric Names and the History of Greek Religion'</a>, in S. Hornblower and E. Matthews (eds.), <a rel="nofollow" class="external text" href="http://www.britac.ac.uk/pubs/proc/volumes/pba104.html"><i>Greek Personal Names. Their Value as Evidence</i></a> (2000) <i>Proceedings of the British Academy</i>, Volume 104, pp. 53-80</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">R. Schmitt, 'Morphologie der Namen: Vollnamen und Kurznamen bzw Kosenamen im Indogermanischen' and 'Entwicklung der Namen in älteren indogermanischen Sprachen', in E. Eichler and others, <i>Namenforschung</i>, vol. I (1995), 419-427 and 616-636.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">R. Parker, 'Introduction. New trends in Greek naming', in R. Parker (ed.), <i>Personal Names in Ancient Anatolia</i> (2013), 11-14, for all the developments in this paragraph.</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.lgpn.ox.ac.uk/announcements/GreekNamesinEnglish.html">"Greek Names in English"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Greek+Names+in+English&amp;rft_id=http%3A%2F%2Fwww.lgpn.ox.ac.uk%2Fannouncements%2FGreekNamesinEnglish.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Greek+personal+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">MINON, Sophie. <a rel="nofollow" class="external text" href="https://www.academia.edu/15478859/Programme_colloque_Suffixation_anthroponymique_grecque_Lyon_Septembre_2015">"Programme colloque Suffixation anthroponymique grecque Lyon Septembre 2015"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Programme+colloque+Suffixation+anthroponymique+grecque+Lyon+Septembre+2015&amp;rft.aulast=MINON&amp;rft.aufirst=Sophie&amp;rft_id=https%3A%2F%2Fwww.academia.edu%2F15478859%2FProgramme_colloque_Suffixation_anthroponymique_grecque_Lyon_Septembre_2015&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Greek+personal+names" class="Z3988"></span> <span class="cs1-hidden-error error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">L. Robert, <i>Opera Minora Selecta</i>, 2 (1970), 987.</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">R. Parker, 'Introduction', in R. Parker (ed.) <i>Personal Names in Ancient Anatolia</i> (2013), 1-10. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780197265635" title="Special:BookSources/9780197265635">9780197265635</a></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Plato, <a rel="nofollow" class="external text" href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0172%3Atext%3DCrat.%3Asection%3D384d"><i>Cratylus</i>, section 384d</a> (translated by Harold N. Fowler) <i>Perseus Digital Library</i></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">E. Matthews, article 'Names, Personal, Greek', in S. Hornblower and A. Spawforth (eds), <i>The Oxford Classical Dictionary</i> ed. 4 (2012), 996. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/><a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780199545568" title="Special:BookSources/9780199545568">9780199545568</a></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Jean_Antoine_Letronne" class="mw-redirect" title="Jean Antoine Letronne">Letronne, J.A.</a> (1851). "Sur l' utilité qu' on peut retirer de l'étude des propres noms grecs pour l' histoire et l' archéologie" &#91;On the value that can be gained for history and archeology from the study of Greek proper names&#93;. <i>Mémoires de l’Institut National de France. Académie des Inscriptions et Belles Lettres</i> (in French). <b>19</b>: 1–139.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=M%C3%A9moires+de+l%E2%80%99Institut+National+de+France.+Acad%C3%A9mie+des+Inscriptions+et+Belles+Lettres&amp;rft.atitle=Sur+l%E2%80%99+utilit%C3%A9+qu%E2%80%99+on+peut+retirer+de+l%E2%80%99%C3%A9tude+des+propres+noms+grecs+pour+l%E2%80%99+histoire+et+l%E2%80%99+arch%C3%A9ologie&amp;rft.volume=19&amp;rft.pages=1-139&amp;rft.date=1851&amp;rft.aulast=Letronne&amp;rft.aufirst=J.A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Greek+personal+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> Reprinted in his <i>Oeuvres choisies</i> III. 2, 1ff</span>
+</li>
+<li id="cite_note-Pape-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-Pape_22-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Wilhelm_Pape" title="Wilhelm Pape">Pape, W.</a>; Benseler, G. E. (1875). <a rel="nofollow" class="external text" href="https://archive.org/details/drwpapeswrterbu00bensgoog"><i>Wörterbuch der griechischen Eigennamen &#91;Dictionary of Greek Proper Names&#93;</i></a> (in German). F. Vieweg und sohn<span class="reference-accessdate">. Retrieved <span class="nowrap">20 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=W%C3%B6rterbuch+der+griechischen+Eigennamen+%5BDictionary+of+Greek+Proper+Names%5D&amp;rft.pub=F.+Vieweg+und+sohn&amp;rft.date=1875&amp;rft.aulast=Pape&amp;rft.aufirst=W.&amp;rft.au=Benseler%2C+G.+E.&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fdrwpapeswrterbu00bensgoog&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Greek+personal+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> (Third Edition) (<a href="https://de.wikipedia.org/wiki/Gustav_Eduard_Benseler" class="extiw" title="de:Gustav Eduard Benseler">G. E. Benseler</a>: article in German)</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Friedrich_Bechtel" title="Friedrich Bechtel">Bechtel, Friedrich</a> (1917). <a rel="nofollow" class="external text" href="https://archive.org/details/diehistorischenp00bechuoft"><i>Die historischen Personennamen des Griechischen bis zur Kaiserzeit &#91;Historical personal names of the Greeks up to the Imperial period&#93;</i></a> (in German). Halle: S. M. Niemeyer<span class="reference-accessdate">. Retrieved <span class="nowrap">22 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Die+historischen+Personennamen+des+Griechischen+bis+zur+Kaiserzeit+%5BHistorical+personal+names+of+the+Greeks+up+to+the+Imperial+period%5D&amp;rft.place=Halle&amp;rft.pub=S.+M.+Niemeyer&amp;rft.date=1917&amp;rft.aulast=Bechtel&amp;rft.aufirst=Friedrich&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fdiehistorischenp00bechuoft&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Greek+personal+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation book">Masson, Olivier; Dobias-Lalou, Catherine; Dubois, Laurent (1990–2000). <a rel="nofollow" class="external text" href="http://www.worldcat.org/title/onomastica-graeca-selecta/oclc/848612530/editions?referer=di&amp;editionsView=true"><i>Onomastica graeca selecta</i></a> (in French). Geneva: Librairie Droz. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9782600004350" title="Special:BookSources/9782600004350"><bdi>9782600004350</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Onomastica+graeca+selecta&amp;rft.place=Geneva&amp;rft.pub=Librairie+Droz&amp;rft.date=1990%2F2000&amp;rft.isbn=9782600004350&amp;rft.aulast=Masson&amp;rft.aufirst=Olivier&amp;rft.au=Dobias-Lalou%2C+Catherine&amp;rft.au=Dubois%2C+Laurent&amp;rft_id=http%3A%2F%2Fwww.worldcat.org%2Ftitle%2Fonomastica-graeca-selecta%2Foclc%2F848612530%2Feditions%3Freferer%3Ddi%26editionsView%3Dtrue&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Greek+personal+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Louis_Robert_(historian)" title="Louis Robert (historian)">Robert, Louis</a> (1991). <i>Noms indigènes dans l'Asie-Mineure Greco-Romaine [Indigenous names in Greco-Roman Asia Minor]</i> (in French) (reprint of 1963 1st edn. ed.). Amsterdam: Adolf M. Hakkert. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9789025610074" title="Special:BookSources/9789025610074"><bdi>9789025610074</bdi></a>. <a href="/wiki/OCLC" title="OCLC">OCLC</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/oclc/891116371">891116371</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Noms+indig%C3%A8nes+dans+l%27Asie-Mineure+Greco-Romaine+%5BIndigenous+names+in+Greco-Roman+Asia+Minor%5D&amp;rft.place=Amsterdam&amp;rft.edition=reprint+of+1963+1st+edn.&amp;rft.pub=Adolf+M.+Hakkert&amp;rft.date=1991&amp;rft_id=info%3Aoclcnum%2F891116371&amp;rft.isbn=9789025610074&amp;rft.aulast=Robert&amp;rft.aufirst=Louis&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Greek+personal+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.lgpn.ox.ac.uk/">http://www.lgpn.ox.ac.uk/</a></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.trismegistos.org/ref/index.php">"Trismegistos People"</a>. <i>Trismegistos</i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 February</span> 2015</span>. <q>An interdisciplinary portal of papyrological and epigraphical resources dealing with Egypt and the Nile valley between roughly 800 BC and AD 800 currently expanding its geographical scope to the Ancient World in general</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Trismegistos&amp;rft.atitle=Trismegistos+People&amp;rft_id=http%3A%2F%2Fwww.trismegistos.org%2Fref%2Findex.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Greek+personal+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Simon_Hornblower" title="Simon Hornblower">Hornblower, Simon</a>; Matthews, Elaine, eds. (14 December 2000). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/greekpersonalnam0000unse"><i>Greek Personal Names: Their Value as Evidence</i></a></span>. Oxford: Oxford University Press/British Academy Proceedings of the British Academy. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-726216-0" title="Special:BookSources/978-0-19-726216-0"><bdi>978-0-19-726216-0</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Greek+Personal+Names%3A+Their+Value+as+Evidence&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press%2FBritish+Academy+Proceedings+of+the+British+Academy&amp;rft.date=2000-12-14&amp;rft.isbn=978-0-19-726216-0&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fgreekpersonalnam0000unse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Greek+personal+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation book">Matthews, Elaine, ed. (29 November 2007). <a rel="nofollow" class="external text" href="http://ukcatalogue.oup.com/product/9780197264126.do"><i>Old and New Worlds in Greek Onomastics</i></a>. Oxford: Oxford University Press/British Academy Proceedings of the British Academy. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-726412-6" title="Special:BookSources/978-0-19-726412-6"><bdi>978-0-19-726412-6</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 February</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Old+and+New+Worlds+in+Greek+Onomastics&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press%2FBritish+Academy+Proceedings+of+the+British+Academy&amp;rft.date=2007-11-29&amp;rft.isbn=978-0-19-726412-6&amp;rft_id=http%3A%2F%2Fukcatalogue.oup.com%2Fproduct%2F9780197264126.do&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Greek+personal+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation book">Marchand, F.; Sasanow, M. (2010).  Catling, R. W. V. (ed.). <a rel="nofollow" class="external text" href="http://www.oxbowbooks.com/oxbow/onomatologos.html"><i>Onomatologos: Studies in Greek Personal Names presented to Elaine Matthews</i></a>. Oxford: Oxbow Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781842179826" title="Special:BookSources/9781842179826"><bdi>9781842179826</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Onomatologos%3A+Studies+in+Greek+Personal+Names+presented+to+Elaine+Matthews&amp;rft.place=Oxford&amp;rft.pub=Oxbow+Books&amp;rft.date=2010&amp;rft.isbn=9781842179826&amp;rft.aulast=Marchand&amp;rft.aufirst=F.&amp;rft.au=Sasanow%2C+M.&amp;rft_id=http%3A%2F%2Fwww.oxbowbooks.com%2Foxbow%2Fonomatologos.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Greek+personal+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Robert_Parker_(historian)" title="Robert Parker (historian)">Parker, Robert</a>, ed. (28 November 2013). <a rel="nofollow" class="external text" href="http://ukcatalogue.oup.com/product/9780197265635.do"><i>Personal Names in Ancient Anatolia</i></a>. Oxford: Oxford University Press/British Academy | Proceedings of the British Academy. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-726563-5" title="Special:BookSources/978-0-19-726563-5"><bdi>978-0-19-726563-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Personal+Names+in+Ancient+Anatolia&amp;rft.place=Oxford&amp;rft.pub=Oxford+University+Press%2FBritish+Academy+%7C+Proceedings+of+the+British+Academy&amp;rft.date=2013-11-28&amp;rft.isbn=978-0-19-726563-5&amp;rft_id=http%3A%2F%2Fukcatalogue.oup.com%2Fproduct%2F9780197265635.do&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAncient+Greek+personal+names" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.lgpn.ox.ac.uk/index.html">Lexicon of Greek Personal Names, Oxford University</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Personal_names_and_anthroponymy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Personal_names" title="Template:Personal names"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Personal_names" title="Template talk:Personal names"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Personal_names&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Personal_names_and_anthroponymy" style="font-size:114%;margin:0 4em"><a href="/wiki/Personal_name" title="Personal name">Personal names</a> and <a href="/wiki/Anthroponymy" title="Anthroponymy">anthroponymy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="*Personal_identity">
+<ul><li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Personal_name" title="Personal name">Personal name</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">Given name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Surname</a>
+<ul><li><a href="/wiki/Patrilineality" title="Patrilineality">Patrilineal</a>/<a href="/wiki/Matriname" title="Matriname">Matrilineal</a></li>
+<li><a href="/wiki/List_of_family_name_affixes" title="List of family name affixes">Affixes</a>
+<ul><li><a href="/wiki/Nobiliary_particle" title="Nobiliary particle">Nobiliary particle</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By sequence</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Given_name" title="Given name">First name</a></li>
+<li><a href="/wiki/Middle_name" title="Middle name">Middle name</a></li>
+<li><a href="/wiki/Surname" title="Surname">Last name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By trait</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diminutive" title="Diminutive">Diminutive</a></li>
+<li><a href="/wiki/Double-barrelled_name" title="Double-barrelled name">Double-barrelled</a></li>
+<li><a href="/wiki/Eponym" title="Eponym">Eponymic</a></li>
+<li><a href="/wiki/Matronymic" title="Matronymic">Matronymic</a></li>
+<li><a href="/wiki/Metonymy" title="Metonymy">Metonymic</a></li>
+<li><a href="/wiki/Mononymous_person" title="Mononymous person">Mononymic</a></li>
+<li><a href="/wiki/Occupational_name" class="mw-redirect" title="Occupational name">Occupational name</a></li>
+<li><a href="/wiki/Patronymic" title="Patronymic">Patronymic</a></li>
+<li><a href="/wiki/Sobriquet" title="Sobriquet">Sobriquet</a></li>
+<li><a href="/wiki/Teknonymy" title="Teknonymy">Teknonymic</a></li>
+<li><a href="/wiki/Toponymy" title="Toponymy">Toponymic</a></li>
+<li><a href="/wiki/Patrial_name" title="Patrial name">Patrial name</a></li>
+<li><a href="/wiki/Patronymic_surname" title="Patronymic surname">Patronymic</a></li>
+<li><a href="/wiki/Unisex_name" title="Unisex name">Unisex</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By life situation</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aptronym" title="Aptronym">Aptronym</a></li>
+<li><a href="/wiki/Code_name" title="Code name">Code name</a></li>
+<li><a href="/wiki/Maiden_and_married_names" title="Maiden and married names">Maiden and married names</a></li>
+<li><a href="/wiki/Necronym" title="Necronym">Necronym</a>
+<ul><li><a href="/wiki/Posthumous_name" title="Posthumous name">Posthumous name</a></li>
+<li><a href="/wiki/Temple_name" title="Temple name">Temple name</a></li></ul></li>
+<li><a href="/wiki/Placeholder_name" title="Placeholder name">Placeholder name</a>
+<ul><li><a href="/wiki/Notname" title="Notname">Notname</a></li></ul></li>
+<li><a href="/wiki/Regnal_name" title="Regnal name">Regnal name</a></li>
+<li><a href="/wiki/Slave_name" title="Slave name">Slave name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Pseudonym" title="Pseudonym">Pseudonyms</a> (<a href="/wiki/List_of_pseudonyms" title="List of pseudonyms">list</a>)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Nickname" title="Nickname">Nicknames</a>
+<ul><li><a href="/wiki/Lists_of_nicknames" title="Lists of nicknames">list</a></li>
+<li><a href="/wiki/Hypocorism" title="Hypocorism">Hypocorism</a></li></ul></li>
+<li><i><a href="/wiki/Nom_de_guerre" class="mw-redirect" title="Nom de guerre">Nom de guerre</a></i></li>
+<li><a href="/wiki/Stage_name" title="Stage name">Stage name</a>
+<ul><li><a href="/wiki/List_of_stage_names" title="List of stage names">List of stage names</a></li>
+<li><a href="/wiki/List_of_one-word_stage_names" title="List of one-word stage names">List of one-word stage names</a></li></ul></li>
+<li><a href="/wiki/Ring_name" title="Ring name">Ring name</a></li>
+<li><a href="/wiki/Pen_name" title="Pen name">Pen name</a>
+<ul><li><a href="/wiki/Heteronym_(literature)" title="Heteronym (literature)">Heteronym</a></li></ul></li>
+<li><a href="/wiki/Username" class="mw-redirect" title="Username">Username</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">By culture<br /><small><a href="/wiki/Surnames_by_country" title="Surnames by country">Surnames by country</a><br /><a href="/wiki/Courtesy_name" title="Courtesy name">Courtesy names</a></small></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albanian_name" title="Albanian name">Albanian</a></li>
+<li><a href="/wiki/Naming_in_the_United_States" title="Naming in the United States">American</a>
+<ul><li><small><a href="/wiki/African-American_names" title="African-American names">African-American</a></small></li></ul></li>
+<li><a class="mw-selflink selflink">Ancient Greek</a></li>
+<li><a href="/wiki/Arabic_name" title="Arabic name">Arabic</a></li>
+<li><a href="/wiki/Armenian_name" title="Armenian name">Armenian</a></li>
+<li><a href="/wiki/Akan_names" title="Akan names">Ashanti</a></li>
+<li><a href="/wiki/Australian_Aboriginal_kinship" title="Australian Aboriginal kinship">Australian Aboriginal</a></li>
+<li><a href="/wiki/Azerbaijani_name" title="Azerbaijani name">Azerbaijani</a></li>
+<li><a href="/wiki/Bangladeshi_name" class="mw-redirect" title="Bangladeshi name">Bangladeshi</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Basque_names" title="Spanish naming customs">Basque</a></li>
+<li><a href="/wiki/Belarusian_name" title="Belarusian name">Belarusian</a></li>
+<li><a href="/wiki/Bulgarian_name" title="Bulgarian name">Bulgarian</a></li>
+<li><a href="/wiki/Burmese_names" title="Burmese names">Burmese</a></li>
+<li><a href="/wiki/Cambodian_name" title="Cambodian name">Cambodian</a></li>
+<li><a href="/wiki/Canadian_name" title="Canadian name">Canadian</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></li>
+<li><a href="/wiki/Chinese_name" title="Chinese name">Chinese</a>
+<ul><li><small><a href="/wiki/Hong_Kong_name" title="Hong Kong name">Hong Kong</a></small></li>
+<li><small><a href="/wiki/Manchu_name" title="Manchu name">Manchu</a></small></li>
+<li><small><a href="/wiki/Tibetan_name" title="Tibetan name">Tibetan</a></small></li></ul></li>
+<li><a href="/wiki/Cornish_surnames" title="Cornish surnames">Cornish</a></li>
+<li><a href="/wiki/Croatian_name" title="Croatian name">Croatian</a></li>
+<li><a href="/wiki/Czech_name" title="Czech name">Czech</a></li>
+<li><a href="/wiki/Dutch_name" title="Dutch name">Dutch</a></li>
+<li><a href="/wiki/English_name" title="English name">English</a></li>
+<li><a href="/wiki/Naming_conventions_in_Ethiopia_and_Eritrea" title="Naming conventions in Ethiopia and Eritrea">Ethiopian/Eritrean</a></li>
+<li><a href="/wiki/Ewe_language#Naming_system" title="Ewe language">Ewe</a></li>
+<li><a href="/wiki/Fijian_name" title="Fijian name">Fijian</a></li>
+<li><a href="/wiki/Filipino_name" title="Filipino name">Filipino</a></li>
+<li><a href="/wiki/Finnish_name" title="Finnish name">Finnish</a></li>
+<li><a href="/wiki/French_name" title="French name">French</a></li>
+<li><a href="/wiki/Spanish_naming_customs#Galician_names" title="Spanish naming customs">Galician</a></li>
+<li><a href="/wiki/Georgian_name" title="Georgian name">Georgian</a></li>
+<li><a href="/wiki/German_name" title="German name">German</a></li>
+<li><a href="/wiki/Germanic_name" title="Germanic name">Germanic</a></li>
+<li><a href="/wiki/Ghanaian_name" title="Ghanaian name">Ghanaian</a></li>
+<li><a href="/wiki/Greek_name" title="Greek name">Greek</a>
+<ul><li><small><a href="/wiki/Greek_Cypriot_name" title="Greek Cypriot name">Cypriot</a></small></li></ul></li>
+<li><a href="/wiki/Hawaiian_name" title="Hawaiian name">Hawaiian</a></li>
+<li><a href="/wiki/Hebrew_name" title="Hebrew name">Hebrew</a></li>
+<li><a href="/wiki/Hungarian_names" title="Hungarian names">Hungarian</a></li>
+<li><a href="/wiki/Icelandic_name" title="Icelandic name">Icelandic</a></li>
+<li><a href="/wiki/Igbo_name" title="Igbo name">Igbo</a></li>
+<li><a href="/wiki/Indian_name" title="Indian name">Indian</a>
+<ul><li><small><a href="/wiki/Saint_Thomas_Christian_names" title="Saint Thomas Christian names">Saint Thomas Christian names</a></small></li></ul></li>
+<li><a href="/wiki/Indonesian_names" title="Indonesian names">Indonesian</a>
+<ul><li><small><a href="/wiki/Balinese_name" title="Balinese name">Balinese</a></small></li>
+<li><small><a href="/wiki/Chinese_Indonesian_surname" title="Chinese Indonesian surname">Chinese</a></small></li>
+<li><small><a href="/wiki/Javanese_name" title="Javanese name">Javanese</a></small></li></ul></li>
+<li><a href="/wiki/Irish_name" title="Irish name">Irish</a></li>
+<li><a href="/wiki/Italian_name" title="Italian name">Italian</a></li>
+<li><a href="/wiki/Japanese_name" title="Japanese name">Japanese</a>
+<ul><li><small><a href="/wiki/Amami_name" title="Amami name">Amami</a></small></li>
+<li><small><a href="/wiki/Okinawan_name" title="Okinawan name">Okinawan</a></small></li></ul></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish</a></li>
+<li><a href="/wiki/Kalmyk_names" title="Kalmyk names">Kalmyk</a></li>
+<li><a href="/wiki/Korean_name" title="Korean name">Korean</a></li>
+<li><a href="/wiki/Lao_name" title="Lao name">Lao</a></li>
+<li><a href="/wiki/Latvian_name" title="Latvian name">Latvian</a></li>
+<li><a href="/wiki/Lithuanian_name" title="Lithuanian name">Lithuanian</a></li>
+<li><a href="/wiki/Macedonian_onomastics" title="Macedonian onomastics">Macedonian</a></li>
+<li><a href="/wiki/Malaysian_names" title="Malaysian names">Malaysian</a></li>
+<li><a href="/wiki/M%C4%81ori_naming_customs" title="Māori naming customs">Māori</a></li>
+<li><a href="/wiki/Mongolian_name" title="Mongolian name">Mongol</a></li>
+<li><a href="/wiki/Scandinavian_family_name_etymology#Norway" title="Scandinavian family name etymology">Norwegian</a></li>
+<li><a href="/wiki/Pakistani_name" title="Pakistani name">Pakistani</a>
+<ul><li><small><a href="/wiki/Pashtun_name" title="Pashtun name">Pashtun</a></small></li>
+<li><small><a href="/wiki/Sindhi_names" title="Sindhi names">Sindhi</a></small></li></ul></li>
+<li><a href="/wiki/Persian_name" title="Persian name">Persian</a></li>
+<li><a href="/wiki/Polish_name" title="Polish name">Polish</a></li>
+<li><a href="/wiki/Portuguese_name" title="Portuguese name">Portuguese</a></li>
+<li><a href="/wiki/Roman_naming_conventions" title="Roman naming conventions">Roman</a>
+<ul><li><small><a href="/wiki/Praenomen" title="Praenomen">Praenomen</a></small></li>
+<li><small><a href="/wiki/Nomen_(Roman_name)" title="Nomen (Roman name)">Nomen</a></small></li>
+<li><small><a href="/wiki/Cognomen" title="Cognomen">Cognomen</a></small></li></ul></li>
+<li><a href="/wiki/Romanian_name" title="Romanian name">Romanian</a></li>
+<li><a href="/wiki/Eastern_Slavic_naming_customs" title="Eastern Slavic naming customs">Russian</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Sakha</a></li>
+<li><a href="/wiki/Scottish_Gaelic_name" title="Scottish Gaelic name">Scottish Gaelic</a></li>
+<li><a href="/wiki/Serbian_names" title="Serbian names">Serbian</a></li>
+<li><a href="/wiki/Slavic_names" title="Slavic names">Slavic</a></li>
+<li><a href="/wiki/Slovak_name" title="Slovak name">Slovak</a></li>
+<li><a href="/wiki/Somali_name" title="Somali name">Somali</a></li>
+<li><a href="/wiki/Spanish_naming_customs" title="Spanish naming customs">Spanish</a>
+<ul><li><small><a href="/wiki/Naming_customs_of_Hispanic_America" title="Naming customs of Hispanic America">Hispanic America</a></small></li>
+<li><small><a href="/wiki/Spanish_naming_customs#Catalan_names" title="Spanish naming customs">Catalan</a></small></li></ul></li>
+<li><a href="/wiki/Swedish_name" title="Swedish name">Swedish</a></li>
+<li><a href="/wiki/Naming_customs_of_Taiwanese_aborigines" title="Naming customs of Taiwanese aborigines">Taiwanese aboriginal</a></li>
+<li><a href="/wiki/Indian_family_names#Tamil_names" class="mw-redirect" title="Indian family names">Tamil</a>
+<ul><li><small><a href="/wiki/Naming_conventions_of_ancient_Tamil_country" title="Naming conventions of ancient Tamil country">Ancient Tamil country</a></small></li></ul></li>
+<li><a href="/wiki/Tatar_name" title="Tatar name">Tatar</a></li>
+<li><a href="/wiki/Thai_name" title="Thai name">Thai</a></li>
+<li><a href="/wiki/Turkish_name" title="Turkish name">Turkish</a></li>
+<li><a href="/wiki/Ukrainian_name" title="Ukrainian name">Ukrainian</a></li>
+<li><a href="/wiki/Vietnamese_name" title="Vietnamese name">Vietnamese</a></li>
+<li><a href="/wiki/Welsh_surnames" title="Welsh surnames">Welsh</a></li>
+<li><a href="/wiki/Yakut_names" title="Yakut names">Yakut</a></li>
+<li><a href="/wiki/Yoruba_name" title="Yoruba name">Yoruba</a></li>
+<li><a href="/wiki/Zimbabwean_names" title="Zimbabwean names">Zimbabwean</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Religious_name" title="Religious name">Religious names</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Christian_name" title="Christian name">Christian name</a>
+<ul><li><a href="/wiki/List_of_biblical_names" title="List of biblical names">Biblical name</a></li>
+<li><a href="/wiki/Papal_name" title="Papal name">Papal name</a></li>
+<li><a href="/wiki/Saint%27s_name" title="Saint&#39;s name">Saint's name</a></li></ul></li>
+<li><a href="/wiki/Dharma_name" title="Dharma name">Dharma name</a></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Jewish name</a></li>
+<li><a href="/wiki/Theophoric_name" title="Theophoric name">Theophoric name</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Manners of address<br /><small><a href="/wiki/List_of_titles" title="List of titles">List</a></small><br /><small><a href="/wiki/Title_of_authority" title="Title of authority">of authority</a>/<a href="/wiki/Title_of_honor" title="Title of honor">of honour</a></small></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Style_(manner_of_address)" title="Style (manner of address)">Styles</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Honorific" title="Honorific">Honorific</a>
+<ul><li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Imperial,_royal,_and_noble_styles" title="Imperial, royal, and noble styles">Imperial, royal, and noble</a></li>
+<li><a href="/wiki/Judiciary_styles" class="mw-redirect" title="Judiciary styles">Judiciary</a></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul></li>
+<li><a href="/wiki/Pre-nominal_letters" title="Pre-nominal letters">Pre-nominal letters</a></li>
+<li><a href="/wiki/Suffix_(name)" title="Suffix (name)">Suffix</a>
+<ul><li><a href="/wiki/Emeritus" title="Emeritus">Emeritus</a></li>
+<li><a href="/wiki/Post-nominal_letters" title="Post-nominal letters">Post-nominal letters</a>
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Order_(distinction)" title="Order (distinction)">Orders</a>, <a href="/wiki/Award_or_decoration" title="Award or decoration">decorations</a>, and <a href="/wiki/Medal" title="Medal">medals</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Title" title="Title">Titles</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Academic_degree" title="Academic degree">Academic</a></li>
+<li><a href="/wiki/Imperial,_royal_and_noble_ranks" title="Imperial, royal and noble ranks">Imperial, royal and noble</a>
+<ul><li><a href="/wiki/Chivalry" title="Chivalry">Chivalric</a></li>
+<li><a href="/wiki/Court_title" class="mw-redirect" title="Court title">Court</a></li></ul></li>
+<li><a href="/wiki/Military_rank" title="Military rank">Military</a></li>
+<li><a href="/wiki/Professional_titles" class="mw-redirect" title="Professional titles">Professional</a>
+<ul><li><a href="/wiki/Academic_ranks" class="mw-redirect" title="Academic ranks">Academic</a>
+<ul><li><a href="/wiki/Honorary_title_(academic)" title="Honorary title (academic)">Honorary</a></li></ul></li>
+<li><a href="/wiki/Corporate_title" title="Corporate title">Business</a></li>
+<li><a href="/wiki/Diplomatic_rank" title="Diplomatic rank">Diplomatic</a></li>
+<li><a href="/wiki/Professional_degree" title="Professional degree">Educational</a></li>
+<li><a href="/wiki/Judicial_titles" class="mw-redirect" title="Judicial titles">Judicial</a></li></ul></li>
+<li><a href="/wiki/List_of_religious_titles_and_styles" title="List of religious titles and styles">Religious</a>
+<ul><li><a href="/wiki/Ecclesiastical_titles_and_styles" title="Ecclesiastical titles and styles">Ecclesiastical</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related traditions</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baptism" title="Baptism">Baptism</a></li>
+<li><a href="/wiki/Name_day" title="Name day">Name day</a>
+<ul><li><a href="/wiki/Calendar_of_saints" title="Calendar of saints">Calendar of saints</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acronym" title="Acronym">Acronym</a></li>
+<li><a href="/wiki/Anonymity" title="Anonymity">Anonymity</a></li>
+<li><a href="/wiki/Anthropomorphism" title="Anthropomorphism">Anthropomorphism</a>
+<ul><li><a href="/wiki/National_personification" title="National personification">National personification</a></li></ul></li>
+<li><a href="/wiki/Call_sign" title="Call sign">Call sign</a></li>
+<li><a href="/wiki/Family" title="Family">Family</a></li>
+<li><a href="/wiki/Galton%E2%80%93Watson_process" title="Galton–Watson process">Galton–Watson process</a></li>
+<li><a href="/wiki/Legal_name" title="Legal name">Legal name</a>
+<ul><li><a href="/wiki/Name_change" title="Name change">Name change</a></li></ul></li>
+<li><i><a href="/wiki/Nomen_nescio" title="Nomen nescio">Nomen nescio</a></i></li>
+<li><i><a href="/wiki/-onym" title="-onym">-onym</a></i></li>
+<li><a href="/wiki/Personal_identity" title="Personal identity">Personal identity</a>
+<ul><li><a href="/wiki/Identifier" title="Identifier">Identifier</a></li></ul></li>
+<li><a href="/wiki/Proper_name" class="mw-redirect" title="Proper name">Proper name</a></li>
+<li><a href="/wiki/Signature" title="Signature">Signature</a>
+<ul><li><a href="/wiki/Monogram" title="Monogram">Monogram</a></li>
+<li><a href="/wiki/Signum_manus" title="Signum manus">Signum manus</a></li>
+<li><a href="/wiki/Tughra" title="Tughra">Tughra</a></li></ul></li>
+<li><a href="/wiki/Naming_taboo" title="Naming taboo">Naming taboo</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="/wiki/Category:Lists_of_names" title="Category:Lists of names">Category:Lists of names</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1224
+Cached time: 20190927050435
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.596 seconds
+Real time usage: 0.768 seconds
+Preprocessor visited node count: 1621/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 68091/2097152 bytes
+Template argument size: 1437/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 59250/5000000 bytes
+Number of Wikibase entities loaded: 4/400
+Lua time usage: 0.350/10.000 seconds
+Lua memory usage: 12.35 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  626.851      1 -total
+ 67.32%  422.011      1 Template:Reflist
+ 26.52%  166.237      1 Template:Lang
+ 20.77%  130.205      8 Template:Cite_book
+ 15.80%   99.035      4 Template:Cite_journal
+ 14.38%   90.120      3 Template:Cite_web
+  9.93%   62.262      3 Template:ISBN
+  3.61%   22.603      1 Template:Personal_names
+  3.44%   21.567      3 Template:Catalog_lookup_link
+  3.29%   20.631      2 Template:Navbox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:43413936-0!canonical and timestamp 20190927050434 and revision id 918129101
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Ancient_Greek_personal_names&amp;oldid=918129101">https://en.wikipedia.org/w/index.php?title=Ancient_Greek_personal_names&amp;oldid=918129101</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ancient_Greek_culture" title="Category:Ancient Greek culture">Ancient Greek culture</a></li><li><a href="/wiki/Category:Names_by_culture" title="Category:Names by culture">Names by culture</a></li><li><a href="/wiki/Category:Greek_given_names" title="Category:Greek given names">Greek given names</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li><li><a href="/wiki/Category:CS1_French-language_sources_(fr)" title="Category:CS1 French-language sources (fr)">CS1 French-language sources (fr)</a></li><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Articles_containing_Ancient_Greek-language_text" title="Category:Articles containing Ancient Greek-language text">Articles containing Ancient Greek-language text</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ancient+Greek+personal+names" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ancient+Greek+personal+names" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ancient_Greek_personal_names" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Ancient_Greek_personal_names" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ancient_Greek_personal_names">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ancient_Greek_personal_names" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ancient_Greek_personal_names" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;oldid=918129101" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18149192" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ancient_Greek_personal_names&amp;id=918129101" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ancient+Greek+personal+names">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ancient+Greek+personal+names&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ancient_Greek_personal_names&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Onomastica_greca" title="Onomastica greca – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18149192#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 27 September 2019, at 05:04<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ancient_Greek_personal_names&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.596","walltime":"0.768","ppvisitednodes":{"value":1621,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":68091,"limit":2097152},"templateargumentsize":{"value":1437,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":59250,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  626.851      1 -total"," 67.32%  422.011      1 Template:Reflist"," 26.52%  166.237      1 Template:Lang"," 20.77%  130.205      8 Template:Cite_book"," 15.80%   99.035      4 Template:Cite_journal"," 14.38%   90.120      3 Template:Cite_web","  9.93%   62.262      3 Template:ISBN","  3.61%   22.603      1 Template:Personal_names","  3.44%   21.567      3 Template:Catalog_lookup_link","  3.29%   20.631      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.350","limit":"10.000"},"limitreport-memusage":{"value":12952645,"limit":52428800}},"cachereport":{"origin":"mw1224","timestamp":"20190927050435","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ancient Greek personal names","url":"https:\/\/en.wikipedia.org\/wiki\/Ancient_Greek_personal_names","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18149192","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18149192","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2014-07-28T15:35:11Z","dateModified":"2019-09-27T05:04:29Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1238"});});</script>
+</body>
+</html>
+

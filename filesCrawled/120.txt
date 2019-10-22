@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>António Lobo Antunes - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"António_Lobo_Antunes","wgTitle":"António Lobo Antunes","wgCurRevisionId":887704110,"wgRevisionId":887704110,"wgArticleId":654089,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from April 2014","Wikipedia articles with BIBSYS identifiers","Wikipedia articles with BNE identifiers","Wikipedia articles with BNF identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with ISNI identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with LNB identifiers","Wikipedia articles with NKC identifiers","Wikipedia articles with NLA identifiers","Wikipedia articles with NLA-person identifiers","Wikipedia articles with NLI identifiers","Wikipedia articles with NSK identifiers","Wikipedia articles with NTA identifiers",
+"Wikipedia articles with RERO identifiers","Wikipedia articles with SBN identifiers","Wikipedia articles with SELIBR identifiers","Wikipedia articles with SUDOC identifiers","Wikipedia articles with VIAF identifiers","Wikipedia articles with WorldCat-VIAF identifiers","1942 births","Living people","People from Lisbon","Portuguese male novelists","Portuguese male writers","Portuguese medical writers","Camões Prize winners","Jerusalem Prize recipients"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"António_Lobo_Antunes","wgRelevantArticleId":654089,"wgRequestId":"XY1aRgpAAEIAAJSC8ugAAAAA","wgCSPNonce":!1,
+"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q333849","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready",
+"jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP",
+"ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg/1200px-Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Ant%C3%B3nio_Lobo_Antunes&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Ant%C3%B3nio_Lobo_Antunes&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-António_Lobo_Antunes rootpage-António_Lobo_Antunes skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">António Lobo Antunes</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt"> 
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Ant%C3%B3nio_Lobo_Antunes_(2010).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg/220px-Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg" decoding="async" width="220" height="307" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg/330px-Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg/440px-Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg 2x" data-file-width="1440" data-file-height="2010" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Ant%C3%B3nio_Lobo_Antunes_(2010).jpg" class="internal" title="Enlarge"></a></div>António Lobo Antunes in March 2010</div></div></div>
+<p><b>António Lobo Antunes</b>, <a href="/wiki/Order_of_Saint_James_of_the_Sword" class="mw-redirect" title="Order of Saint James of the Sword">GCSE</a>, <a href="/wiki/Medical_Doctor" class="mw-redirect" title="Medical Doctor">MD</a> (<small>Portuguese pronunciation:&#160;</small><span title="Representation in the International Phonetic Alphabet (IPA)" class="IPA"><a href="/wiki/Help:IPA/Portuguese" title="Help:IPA/Portuguese">[ɐ̃ˈtɔniu ˈloβu ɐ̃ˈtunɨʃ]</a></span>; born 1 September 1942) is a <a href="/wiki/Portuguese_people" title="Portuguese people">Portuguese</a> novelist and <a href="/wiki/Medical_doctor" class="mw-redirect" title="Medical doctor">medical doctor</a>. He has been named as a contender for the <a href="/wiki/Nobel_Prize_in_Literature" title="Nobel Prize in Literature">Nobel Prize in Literature</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Life_and_career">Life and career</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ant%C3%B3nio_Lobo_Antunes&amp;action=edit&amp;section=1" title="Edit section: Life and career">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>António Lobo Antunes was born in <a href="/wiki/Lisbon" title="Lisbon">Lisbon</a> as the eldest of six sons of João Alfredo de Figueiredo Lobo Antunes (born 1915), prominent <a href="/wiki/Neurologist" class="mw-redirect" title="Neurologist">Neurologist</a> and professor, close collaborator of <a href="/wiki/Egas_Moniz" class="mw-redirect" title="Egas Moniz">Egas Moniz</a>, Nobel prize of physiology, and wife Maria Margarida Machado de Almeida Lima (born 1917). He is the brother of <a href="/wiki/Jo%C3%A3o_Lobo_Antunes" title="João Lobo Antunes">João Lobo Antunes</a> and <a href="/wiki/Manuel_Lobo_Antunes" title="Manuel Lobo Antunes">Manuel Lobo Antunes</a>. He is Jewish.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>At the age of seven he decided to be a writer, but when he was 16, his father sent him to the medical school of the <a href="/wiki/University_of_Lisbon" title="University of Lisbon">University of Lisbon</a>. He graduated as a <a href="/wiki/Medical_doctor" class="mw-redirect" title="Medical doctor">medical doctor</a>, later specializing in <a href="/wiki/Psychiatry" title="Psychiatry">psychiatry</a>. During this time he never stopped writing.
+</p><p>By the end of his education, Lobo Antunes had to serve with the <a href="/wiki/Portuguese_Army" title="Portuguese Army">Portuguese Army</a> to take part in the <a href="/wiki/Portuguese_Colonial_War" title="Portuguese Colonial War">Portuguese Colonial War</a> (1961–1974). In a military hospital in <a href="/wiki/Angola_(Portugal)" class="mw-redirect" title="Angola (Portugal)">Angola</a> he became interested in the subjects of death and "the other."<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Lobo Antunes came back from Africa in 1973. The <a href="/wiki/Angolan_War_of_Independence" title="Angolan War of Independence">Angolan War of Independence</a> was the subject of many of his novels. He worked many months in <a href="/wiki/Federal_Republic_of_Germany" class="mw-redirect" title="Federal Republic of Germany">Germany</a> and Belgium.
+</p><p>In 1979, Lobo Antunes published his first novel, <i>Memória de Elefante</i> (Elephant's Memory), in which he told the story of his separation. Due to the success of his first novel, Lobo Antunes decided to devote his evenings to writing. He has been practicing psychiatry as well, mainly at the outpatients' unit at the Hospital Miguel Bombarda of Lisbon.
+</p><p>His style is considered to be very dense, heavily influenced by <a href="/wiki/William_Faulkner" title="William Faulkner">William Faulkner</a> and <a href="/wiki/Louis-Ferdinand_C%C3%A9line" title="Louis-Ferdinand Céline">Louis-Ferdinand Céline</a>, and his books also tend to be on the longer side.
+</p><p>He was granted the <a href="/wiki/Grand_Cross" title="Grand Cross">Grand Cross</a> of the <a href="/wiki/Order_of_Saint_James_of_the_Sword" class="mw-redirect" title="Order of Saint James of the Sword">Order of Saint James of the Sword</a>.
+</p>
+<h2><span class="mw-headline" id="Personal_life">Personal life</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ant%C3%B3nio_Lobo_Antunes&amp;action=edit&amp;section=2" title="Edit section: Personal life">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>He married his first wife Maria José Xavier da Fonseca e Costa (1946–1999), the second of three daughters of José Hermano da Costa and wife Clara da Conceição de Barros Xavier da Fonseca e Costa, by whom he has two daughters: Maria José Lobo Antunes in 1971 and Joana Lobo Antunes in 1973. They were divorced.
+</p><p>His second wife (whom he also divorced) was Maria João Espírito Santo Bustorff Silva (born Lisbon, 13 August 1950), daughter of António Sérgio Carneiro Bustorff Silva and wife Ana Maria da Anunciação de Fátima de Morais Sarmento Cohen do Espírito Santo Silva, by whom she has one daughter: Maria Isabel Bustorff Lobo Antunes (born 1983).
+</p><p>He was married for the third time in 2010 to Cristina Ferreira de Almeida, daughter of João Carlos Ferreira de Almeida (Lisbon, 1941 – 2008) and wife Natércia Ribeiro da Silva.
+</p>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ant%C3%B3nio_Lobo_Antunes&amp;action=edit&amp;section=3" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>The following is the chronological list of published works considered canonical by the author himself, the novels and the books of chronicles.</i>
+</p><p>Novels:
+</p>
+<ul><li><i>Memória de Elefante</i> (1979) Elephant's Memory</li>
+<li><i>Os Cus de Judas</i> (1979) <a href="/wiki/The_Land_at_the_End_of_the_World" title="The Land at the End of the World">The Land at the End of the World</a> (available in English)</li>
+<li><i>Conhecimento do Inferno</i> (1980) Knowledge of Hell (available in English)</li>
+<li><i>Explicação dos Pássaros</i> (1981) An Explanation of the Birds (available in English)</li>
+<li><i><a href="/wiki/Fado_Alexandrino" title="Fado Alexandrino">Fado Alexandrino</a></i> (1983) <a href="/wiki/Fado_Alexandrino" title="Fado Alexandrino">Fado Alexandrino</a> (available in English)</li>
+<li><i>Auto dos Danados</i> (1985) Act of the Damned (available in English)</li>
+<li><i>As Naus</i> (1988) <a href="/w/index.php?title=The_Return_of_the_Caravels&amp;action=edit&amp;redlink=1" class="new" title="The Return of the Caravels (page does not exist)">The Return of the Caravels</a> (available in English)</li>
+<li><i>Tratado das Paixões da Alma</i> (1990) Treatise on the Soul's Passions</li>
+<li><i>A Ordem Natural das Coisas</i> (1992) The Natural Order of Things (available in English)</li>
+<li><i>A Morte de Carlos Gardel</i> (1994) The Death of Carlos Gardel</li>
+<li><i>O Manual dos Inquisidores</i> (1996) The Inquisitors' Manual (available in English)</li>
+<li><i>O Esplendor de Portugal</i> (1997) The Splendor of Portugal (available in English)</li>
+<li><i>Exortação aos Crocodilos</i> (1999) Warning to the Crocodiles (available in English May 2017)</li>
+<li><i>Não Entres Tão Depressa Nessa Noite Escura</i> (2000) Don't Enter That Dark Night So Fast</li>
+<li><i>Que Farei Quando Tudo Arde?</i> (2001) What Can I Do When Everything's on Fire? (available in English)</li>
+<li><i>Boa Tarde às Coisas Aqui em Baixo</i> (2003) Good Evening to the Things From Here Below</li>
+<li><i>Eu Hei-de Amar uma Pedra</i> (2004) I Shall Love a Stone</li>
+<li><i>Ontem Não te vi em Babilónia</i> (2006) Didn't See You In Babylon Yesterday</li>
+<li><i>O Meu Nome é Legião</i> (2007) My Name Is Legion</li>
+<li><i>O Arquipélago da Insónia</i> (2008) Archipelago of Insomnia</li>
+<li><i>Que Cavalos São Aqueles Que Fazem Sombra no Mar?</i> (2009) What Horses Are Those That Make Shade On The Sea?</li>
+<li><i>Sôbolos Rios Que Vão</i> (2010)</li>
+<li><i>Comissão das Lágrimas</i> (2011)</li>
+<li><i>Não é Meia-Noite quem quer</i> (2012)</li>
+<li><i>Caminha Como Numa Casa em Chamas</i> (2014)</li>
+<li><i>Da Natureza dos Deuses</i> (2015)</li>
+<li><i>Para Aquela que Está Sentada no Escuro à Minha Espera</i> (2016)</li></ul>
+<p>Books of chronicles:
+</p>
+<dl><dd><i>Lobo Antunes also published five compilation books featuring texts previously published in magazines. They are also canonical according to the author.</i></dd></dl>
+<ul><li><i>Livro de Crónicas</i> (1998)</li>
+<li><i>Segundo Livro de Crónicas</i> (2002)</li>
+<li><i>Terceiro Livro de Crónicas</i> (2006)</li>
+<li><i>Quarto Livro de Crónicas</i> (2011)</li>
+<li><i>Quinto Livro de Crónicas</i> (2013)</li></ul>
+<p><i>The Fat Man and Infinity &amp; Other Writings</i> - A compilation published in English (2009), translated by Margaret Jull Costa.
+</p><p>At the moment Lobo Antunes writes a biweekly newspaper column for <i>Visão</i>, a Portuguese magazine.
+</p>
+<h2><span class="mw-headline" id="Non-canonical_Bibliography">Non-canonical Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ant%C3%B3nio_Lobo_Antunes&amp;action=edit&amp;section=4" title="Edit section: Non-canonical Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>The following is the chronological list of published works but considered non-canonical by the author himself.</i>
+</p>
+<ul><li><i>A História do hidroavião</i> (1994) illustrated by Vitorino</li>
+<li><i>Letrinhas das Cantigas</i> (Limited Edition 2002)</li></ul>
+<h2><span class="mw-headline" id="Related_Bibliography">Related Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ant%C3%B3nio_Lobo_Antunes&amp;action=edit&amp;section=5" title="Edit section: Related Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><i>D'este viver aqui neste papel descripto: cartas da guerra ("Cartas da Guerra")</i> (2005) - This book is the collection of war letters written by Lobo Antunes, while on military duties in Angola, to his then wife. They were reorganized by their daughters, with no intervention whatsoever from the author for this publication. The 2016 film <a href="/wiki/Letters_from_War_(film)" title="Letters from War (film)">Letters from War</a> directed by <a href="/wiki/Ivo_M._Ferreira" class="mw-redirect" title="Ivo M. Ferreira">Ivo M. Ferreira</a> is based on the letter collection.</li></ul>
+<h2><span class="mw-headline" id="Awards">Awards</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ant%C3%B3nio_Lobo_Antunes&amp;action=edit&amp;section=6" title="Edit section: Awards">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/w/index.php?title=Prize_of_Portuguese_Writers%27_Association&amp;action=edit&amp;redlink=1" class="new" title="Prize of Portuguese Writers&#39; Association (page does not exist)">Prize of Portuguese Writers' Association</a> (1985 and 1999)</li>
+<li><a href="/w/index.php?title=France_Culture_Prize&amp;action=edit&amp;redlink=1" class="new" title="France Culture Prize (page does not exist)">France Culture Prize</a> (1996 and 1997)</li>
+<li>Rosalía de Castro Prize (1999)</li>
+<li><a href="/wiki/The_Austrian_State_Prize_for_European_Literature" class="mw-redirect" title="The Austrian State Prize for European Literature">The Austrian State Prize for European Literature</a> (2000)</li>
+<li><a href="/wiki/Ovid_Prize" title="Ovid Prize">Ovid Prize</a>, Romania (2003)</li>
+<li><a href="/w/index.php?title=Latin_Union_International_Prize&amp;action=edit&amp;redlink=1" class="new" title="Latin Union International Prize (page does not exist)">Latin Union International Prize</a> (2003)</li>
+<li><a href="/wiki/Jerusalem_Prize" title="Jerusalem Prize">Jerusalem Prize</a> (2005)</li>
+<li><a href="/wiki/Cam%C3%B5es_Prize" title="Camões Prize">Camões Prize</a> (2007)</li>
+<li><a href="/wiki/Juan_Rulfo_Prize" class="mw-redirect" title="Juan Rulfo Prize">Juan Rulfo Premio de Literatura en Lengua Romances</a> (2008)</li>
+<li><a href="/wiki/Ordre_des_Arts_et_des_Lettres" title="Ordre des Arts et des Lettres">France Commandeur de l'Ordre des Arts et des Lettres</a> (2008)</li>
+<li><a href="/wiki/Nonino" title="Nonino">International Nonino Prize</a> (2014)</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ant%C3%B3nio_Lobo_Antunes&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.dn.se/arkiv/kultur/var-hamnar-pricken-i-ar-litteraturpristagaren-utses-i-dag">http://www.dn.se/arkiv/kultur/var-hamnar-pricken-i-ar-litteraturpristagaren-utses-i-dag</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://brooklynrail.org/2008/11/books/geography-it-doesnt-exist-antonio-lobo-antunes-with-alessandro-cassin">https://brooklynrail.org/2008/11/books/geography-it-doesnt-exist-antonio-lobo-antunes-with-alessandro-cassin</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Conrad, Peter (4 May 2009). <a rel="nofollow" class="external text" href="http://www.newyorker.com/arts/critics/books/2009/05/04/090504crbo_books_conrad">"Doctor and Patient"</a>. The New Yorker.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Doctor+and+Patient&amp;rft.pub=The+New+Yorker&amp;rft.date=2009-05-04&amp;rft.au=Conrad%2C+Peter&amp;rft_id=http%3A%2F%2Fwww.newyorker.com%2Farts%2Fcritics%2Fbooks%2F2009%2F05%2F04%2F090504crbo_books_conrad&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnt%C3%B3nio+Lobo+Antunes" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ant%C3%B3nio_Lobo_Antunes&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160606013806/http://www.antonioloboantunes.pt/">António Lobo Antunes</a>, official site</li>
+<li><a rel="nofollow" class="external text" href="http://www.literaturfestival.com/archive/participants/authors/2007/antonio-lobo-antunes?set_language=en">Biography from the Berlin International Literature Festival</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Recipients_of_the_Austrian_State_Prize_for_European_Literature" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Austrian_State_Prize_for_European_Literature" title="Template:Austrian State Prize for European Literature"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Austrian_State_Prize_for_European_Literature" title="Template talk:Austrian State Prize for European Literature"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Austrian_State_Prize_for_European_Literature&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Recipients_of_the_Austrian_State_Prize_for_European_Literature" style="font-size:114%;margin:0 4em">Recipients of the <a href="/wiki/Austrian_State_Prize_for_European_Literature" title="Austrian State Prize for European Literature">Austrian State Prize for European Literature</a></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Zbigniew_Herbert" title="Zbigniew Herbert">Zbigniew Herbert</a> (1965)</li>
+<li><a href="/wiki/W._H._Auden" title="W. H. Auden">W. H. Auden</a> (1966)</li>
+<li><a href="/wiki/Vasko_Popa" title="Vasko Popa">Vasko Popa</a> (1967)</li>
+<li><a href="/wiki/V%C3%A1clav_Havel" title="Václav Havel">Václav Havel</a> (1968)</li>
+<li><span style="color:gray"><i>Not given</i></span> (1969)</li>
+<li><a href="/wiki/Eug%C3%A8ne_Ionesco" title="Eugène Ionesco">Eugène Ionesco</a> (1970)</li>
+<li><a href="/wiki/Peter_Huchel" title="Peter Huchel">Peter Huchel</a> (1971)</li>
+<li><a href="/wiki/S%C5%82awomir_Mro%C5%BCek" title="Sławomir Mrożek">Sławomir Mrożek</a> (1972)</li>
+<li><a href="/wiki/Harold_Pinter" title="Harold Pinter">Harold Pinter</a> (1973)</li>
+<li><a href="/wiki/S%C3%A1ndor_We%C3%B6res" title="Sándor Weöres">Sándor Weöres</a> (1974)</li>
+<li><a href="/wiki/Miroslav_Krle%C5%BEa" title="Miroslav Krleža">Miroslav Krleža</a> (1975)</li>
+<li><a href="/wiki/Italo_Calvino" title="Italo Calvino">Italo Calvino</a> (1976)</li>
+<li><a href="/wiki/Pavel_Kohout" title="Pavel Kohout">Pavel Kohout</a> (1977)</li>
+<li><a href="/wiki/Fulvio_Tomizza" title="Fulvio Tomizza">Fulvio Tomizza</a> (1977)</li>
+<li><a href="/wiki/Simone_de_Beauvoir" title="Simone de Beauvoir">Simone de Beauvoir</a> (1978)</li>
+<li><a href="/wiki/Fulvio_Tomizza" title="Fulvio Tomizza">Fulvio Tomizza</a> (1979)</li>
+<li><a href="/wiki/Sarah_Kirsch" title="Sarah Kirsch">Sarah Kirsch</a> (1980)</li>
+<li><a href="/wiki/Doris_Lessing" title="Doris Lessing">Doris Lessing</a> (1981)</li>
+<li><a href="/wiki/Tadeusz_R%C3%B3%C5%BCewicz" title="Tadeusz Różewicz">Tadeusz Różewicz</a> (1982)</li>
+<li><a href="/wiki/Friedrich_D%C3%BCrrenmatt" title="Friedrich Dürrenmatt">Friedrich Dürrenmatt</a> (1983)</li>
+<li><a href="/wiki/Christa_Wolf" title="Christa Wolf">Christa Wolf</a> (1984)</li>
+<li><a href="/wiki/Stanis%C5%82aw_Lem" title="Stanisław Lem">Stanisław Lem</a> (1985)</li>
+<li><a href="/wiki/Giorgio_Manganelli" title="Giorgio Manganelli">Giorgio Manganelli</a> (1986)</li>
+<li><a href="/wiki/Milan_Kundera" title="Milan Kundera">Milan Kundera</a> (1987)</li>
+<li><a href="/wiki/Andrzej_Szczypiorski" title="Andrzej Szczypiorski">Andrzej Szczypiorski</a> (1988)</li>
+<li><a href="/wiki/Marguerite_Duras" title="Marguerite Duras">Marguerite Duras</a> (1989)</li>
+<li><a href="/wiki/Helmut_Hei%C3%9Fenb%C3%BCttel" title="Helmut Heißenbüttel">Helmut Heissenbüttel</a> (1990)</li>
+<li><a href="/wiki/P%C3%A9ter_N%C3%A1das" title="Péter Nádas">Péter Nádas</a> (1991)</li>
+<li><a href="/wiki/Salman_Rushdie" title="Salman Rushdie">Salman Rushdie</a> (1992)</li>
+<li><a href="/wiki/Chinghiz_Aitmatov" title="Chinghiz Aitmatov">Chinghiz Aitmatov</a> (1993)</li>
+<li><a href="/wiki/Inger_Christensen" title="Inger Christensen">Inger Christensen</a> (1994)</li>
+<li><a href="/wiki/Aleksandar_Ti%C5%A1ma" title="Aleksandar Tišma">Aleksandar Tišma</a> (1995)</li>
+<li><a href="/wiki/J%C3%BCrg_Laederach" title="Jürg Laederach">Jürg Laederach</a> (1996)</li>
+<li><a href="/wiki/Antonio_Tabucchi" title="Antonio Tabucchi">Antonio Tabucchi</a> (1997)</li>
+<li><a href="/wiki/Dubravka_Ugre%C5%A1i%C4%87" title="Dubravka Ugrešić">Dubravka Ugrešić</a> (1998)</li>
+<li><a href="/wiki/P%C3%A9ter_Esterh%C3%A1zy" title="Péter Esterházy">Péter Esterházy</a> (1999)</li>
+<li><a class="mw-selflink selflink">António Lobo Antunes</a> (2000)</li>
+<li><a href="/wiki/Umberto_Eco" title="Umberto Eco">Umberto Eco</a> (2001)</li>
+<li><a href="/wiki/Christoph_Hein" title="Christoph Hein">Christoph Hein</a> (2002)</li>
+<li><a href="/wiki/Cees_Nooteboom" title="Cees Nooteboom">Cees Nooteboom</a> (2003)</li>
+<li><a href="/wiki/Julian_Barnes" title="Julian Barnes">Julian Barnes</a> (2004)</li>
+<li><a href="/wiki/Claudio_Magris" title="Claudio Magris">Claudio Magris</a> (2005)</li>
+<li><a href="/wiki/Jorge_Sempr%C3%BAn" title="Jorge Semprún">Jorge Semprún</a> (2006)</li>
+<li><a href="/wiki/A._L._Kennedy" title="A. L. Kennedy">A. L. Kennedy</a> (2007)</li>
+<li><a href="/wiki/Agota_Kristof" class="mw-redirect" title="Agota Kristof">Agota Kristof</a> (2008)</li>
+<li><a href="/wiki/Per_Olov_Enquist" title="Per Olov Enquist">Per Olov Enquist</a> (2009)</li>
+<li><a href="/wiki/Paul_Nizon" title="Paul Nizon">Paul Nizon</a> (2010)</li>
+<li><a href="/wiki/Javier_Mar%C3%ADas" title="Javier Marías">Javier Marías</a> (2011)</li>
+<li><a href="/wiki/Patrick_Modiano" title="Patrick Modiano">Patrick Modiano</a> (2012)</li>
+<li><a href="/wiki/John_Banville" title="John Banville">John Banville</a> (2013)</li>
+<li><a href="/wiki/Lyudmila_Ulitskaya" title="Lyudmila Ulitskaya">Lyudmila Ulitskaya</a> (2014)</li>
+<li><a href="/wiki/Mircea_C%C4%83rt%C4%83rescu" title="Mircea Cărtărescu">Mircea Cărtărescu</a> (2015)</li>
+<li><a href="/wiki/Andrzej_Stasiuk" title="Andrzej Stasiuk">Andrzej Stasiuk</a> (2016)</li>
+<li><a href="/wiki/Karl_Ove_Knausg%C3%A5rd" title="Karl Ove Knausgård">Karl Ove Knausgård</a> (2017)</li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Laureates_of_the_Camões_Prize" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Cam%C3%B5es_Prize" title="Template:Camões Prize"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Cam%C3%B5es_Prize" title="Template talk:Camões Prize"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Cam%C3%B5es_Prize&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Laureates_of_the_Camões_Prize" style="font-size:114%;margin:0 4em">Laureates of the <a href="/wiki/Cam%C3%B5es_Prize" title="Camões Prize">Camões Prize</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">1989–2000</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="font-size:85%;">1989</span> <a href="/wiki/Miguel_Torga" title="Miguel Torga">Miguel Torga</a></li>
+<li><span style="font-size:85%;">1990</span> <a href="/wiki/Jo%C3%A3o_Cabral_de_Melo_Neto" title="João Cabral de Melo Neto">João Cabral de Melo Neto</a></li>
+<li><span style="font-size:85%;">1991</span> <a href="/wiki/Jos%C3%A9_Craveirinha" title="José Craveirinha">José Craveirinha</a></li>
+<li><span style="font-size:85%;">1992</span> <a href="/wiki/Verg%C3%ADlio_Ferreira" title="Vergílio Ferreira">Vergílio Ferreira</a></li>
+<li><span style="font-size:85%;">1993</span> <a href="/wiki/Rachel_de_Queiroz" title="Rachel de Queiroz">Rachel de Queiroz</a></li>
+<li><span style="font-size:85%;">1994</span> <a href="/wiki/Jorge_Amado" title="Jorge Amado">Jorge Amado</a></li>
+<li><span style="font-size:85%;">1995</span> <a href="/wiki/Jos%C3%A9_Saramago" title="José Saramago">José Saramago</a></li>
+<li><span style="font-size:85%;">1996</span> <a href="/wiki/Eduardo_Louren%C3%A7o" title="Eduardo Lourenço">Eduardo Lourenço</a></li>
+<li><span style="font-size:85%;">1997</span> <a href="/wiki/Pepetela" title="Pepetela">Pepetela</a></li>
+<li><span style="font-size:85%;">1998</span> <a href="/wiki/Antonio_Candido" title="Antonio Candido">Antonio Candido</a></li>
+<li><span style="font-size:85%;">1999</span> <a href="/wiki/Sophia_de_Mello_Breyner_Andresen" title="Sophia de Mello Breyner Andresen">Sophia de Mello Breyner Andresen</a></li>
+<li><span style="font-size:85%;">2000</span> <a href="/wiki/Autran_Dourado" title="Autran Dourado">Autran Dourado</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2001–2010</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="font-size:85%;">2001</span> <a href="/wiki/Eug%C3%A9nio_de_Andrade" title="Eugénio de Andrade">Eugénio de Andrade</a></li>
+<li><span style="font-size:85%;">2002</span> <a href="/wiki/Maria_Velho_da_Costa" title="Maria Velho da Costa">Maria Velho da Costa</a></li>
+<li><span style="font-size:85%;">2003</span> <a href="/wiki/Rubem_Fonseca" title="Rubem Fonseca">Rubem Fonseca</a></li>
+<li><span style="font-size:85%;">2004</span> <a href="/wiki/Agustina_Bessa-Lu%C3%ADs" title="Agustina Bessa-Luís">Agustina Bessa-Luís</a></li>
+<li><span style="font-size:85%;">2005</span> <a href="/wiki/Lygia_Fagundes_Telles" title="Lygia Fagundes Telles">Lygia Fagundes Telles</a></li>
+<li><span style="font-size:85%;">2006</span> <i><a href="/wiki/Jos%C3%A9_Luandino_Vieira" title="José Luandino Vieira">José Luandino Vieira</a> (declined award)</i></li>
+<li><span style="font-size:85%;">2007</span> <a class="mw-selflink selflink">António Lobo Antunes</a></li>
+<li><span style="font-size:85%;">2008</span> <a href="/wiki/Jo%C3%A3o_Ubaldo_Ribeiro" title="João Ubaldo Ribeiro">João Ubaldo Ribeiro</a></li>
+<li><span style="font-size:85%;">2009</span> <a href="/wiki/Arm%C3%A9nio_Vieira" title="Arménio Vieira">Arménio Vieira</a></li>
+<li><span style="font-size:85%;">2010</span> <a href="/wiki/Ferreira_Gullar" title="Ferreira Gullar">Ferreira Gullar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2011–present</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span style="font-size:85%;">2011</span> <a href="/wiki/Manuel_Ant%C3%B3nio_Pina" title="Manuel António Pina">Manuel António Pina</a></li>
+<li><span style="font-size:85%;">2012</span> <a href="/wiki/Dalton_Trevisan" title="Dalton Trevisan">Dalton Trevisan</a></li>
+<li><span style="font-size:85%;">2013</span> <a href="/wiki/Mia_Couto" title="Mia Couto">Mia Couto</a></li>
+<li><span style="font-size:85%;">2014</span> <a href="/wiki/Alberto_da_Costa_e_Silva" title="Alberto da Costa e Silva">Alberto da Costa e Silva</a></li>
+<li><span style="font-size:85%;">2015</span> <a href="/wiki/H%C3%A9lia_Correia" title="Hélia Correia">Hélia Correia</a></li>
+<li><span style="font-size:85%;">2016</span> <a href="/wiki/Raduan_Nassar" title="Raduan Nassar">Raduan Nassar</a></li>
+<li><span style="font-size:85%;">2017</span> <a href="/wiki/Manuel_Alegre" title="Manuel Alegre">Manuel Alegre</a></li>
+<li><span style="font-size:85%;">2018</span> <a href="/wiki/Germano_Almeida" title="Germano Almeida">Germano Almeida</a></li>
+<li><span style="font-size:85%;">2019</span> <a href="/wiki/Chico_Buarque" title="Chico Buarque">Chico Buarque</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q333849&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q333849&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q333849" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Bibsys" title="Bibsys">BIBSYS</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/98009094">98009094</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">BNE</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX973669">XX973669</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb118856397">cb118856397</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb118856397">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/118845489">118845489</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/International_Standard_Name_Identifier" title="International Standard Name Identifier">ISNI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://isni.org/isni/0000000121028123">0000 0001 2102 8123</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/names/n83063095">n83063095</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_Latvia" title="National Library of Latvia">LNB</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://kopkatalogs.lv/F?func=direct&amp;local_base=lnc10&amp;doc_number=000044237&amp;P_CON_LNG=ENG">000044237</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_the_Czech_Republic" title="National Library of the Czech Republic">NKC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=xx0003512&amp;CON_LNG=ENG">xx0003512</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_Australia" title="National Library of Australia">NLA</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an35524270">35524270</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_Australia" title="National Library of Australia">NLA-person</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://trove.nla.gov.au/people/983978">983978</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Library_of_Israel" title="National Library of Israel">NLI</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://aleph.nli.org.il/F/?func=find-b&amp;local_base=NNL10&amp;find_code=SYS&amp;con_lng=eng&amp;request=000010754">000010754</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_and_University_Library_in_Zagreb" title="National and University Library in Zagreb">NSK</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://katalog.nsk.hr/F/?func=direct&amp;doc_number=000177721&amp;local_base=nsk10">000177721</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Royal_Library_of_the_Netherlands" title="Royal Library of the Netherlands">NTA</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.bibliotheken.nl/id/thes/p069140952">069140952</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/RERO_(Library_Network_of_Western_Switzerland)" title="RERO (Library Network of Western Switzerland)">RERO</a>: <span class="uid"><a rel="nofollow" class="external text" href="http://data.rero.ch/02-A000008237">02-A000008237</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Istituto_Centrale_per_il_Catalogo_Unico" title="Istituto Centrale per il Catalogo Unico">ICCU</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://opac.sbn.it/opacsbn/opac/iccu/scheda_authority.jsp?bid=IT\ICCU\MILV\106670">IT\ICCU\MILV\106670</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LIBRIS" title="LIBRIS">SELIBR</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://libris.kb.se/auth/175373">175373</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Syst%C3%A8me_universitaire_de_documentation" title="Système universitaire de documentation">SUDOC</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/050836196">050836196</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Virtual_International_Authority_File" title="Virtual International Authority File">VIAF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/85327033">85327033</a></span></span></li>
+<li><span class="nowrap"> <a href="/wiki/WorldCat_Identities" class="mw-redirect" title="WorldCat Identities">WorldCat Identities</a> (via VIAF): <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/85327033">85327033</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1250
+Cached time: 20190923223421
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.364 seconds
+Real time usage: 0.529 seconds
+Preprocessor visited node count: 695/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 35724/2097152 bytes
+Template argument size: 544/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 19/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3784/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.193/10.000 seconds
+Lua memory usage: 2.85 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  417.472      1 -total
+ 46.01%  192.066      1 Template:Authority_control
+ 31.22%  130.336      1 Template:Reflist
+ 27.55%  115.022      1 Template:Cite_web
+  9.98%   41.645      1 Template:Use_dmy_dates
+  8.43%   35.177      2 Template:Navbox
+  5.90%   24.616      1 Template:Austrian_State_Prize_for_European_Literature
+  4.67%   19.498      1 Template:Camões_Prize
+  4.22%   17.619      1 Template:DMCA
+  3.50%   14.614      1 Template:Dated_maintenance_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:654089-0!canonical and timestamp 20190923223420 and revision id 887704110
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=António_Lobo_Antunes&amp;oldid=887704110">https://en.wikipedia.org/w/index.php?title=António_Lobo_Antunes&amp;oldid=887704110</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:1942_births" title="Category:1942 births">1942 births</a></li><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:People_from_Lisbon" title="Category:People from Lisbon">People from Lisbon</a></li><li><a href="/wiki/Category:Portuguese_male_novelists" title="Category:Portuguese male novelists">Portuguese male novelists</a></li><li><a href="/wiki/Category:Portuguese_male_writers" title="Category:Portuguese male writers">Portuguese male writers</a></li><li><a href="/wiki/Category:Portuguese_medical_writers" title="Category:Portuguese medical writers">Portuguese medical writers</a></li><li><a href="/wiki/Category:Cam%C3%B5es_Prize_winners" title="Category:Camões Prize winners">Camões Prize winners</a></li><li><a href="/wiki/Category:Jerusalem_Prize_recipients" title="Category:Jerusalem Prize recipients">Jerusalem Prize recipients</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_April_2014" title="Category:Use dmy dates from April 2014">Use dmy dates from April 2014</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BIBSYS_identifiers" title="Category:Wikipedia articles with BIBSYS identifiers">Wikipedia articles with BIBSYS identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNE_identifiers" title="Category:Wikipedia articles with BNE identifiers">Wikipedia articles with BNE identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_ISNI_identifiers" title="Category:Wikipedia articles with ISNI identifiers">Wikipedia articles with ISNI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LNB_identifiers" title="Category:Wikipedia articles with LNB identifiers">Wikipedia articles with LNB identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NKC_identifiers" title="Category:Wikipedia articles with NKC identifiers">Wikipedia articles with NKC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLA_identifiers" title="Category:Wikipedia articles with NLA identifiers">Wikipedia articles with NLA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLA-person_identifiers" title="Category:Wikipedia articles with NLA-person identifiers">Wikipedia articles with NLA-person identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NLI_identifiers" title="Category:Wikipedia articles with NLI identifiers">Wikipedia articles with NLI identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NSK_identifiers" title="Category:Wikipedia articles with NSK identifiers">Wikipedia articles with NSK identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NTA_identifiers" title="Category:Wikipedia articles with NTA identifiers">Wikipedia articles with NTA identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_RERO_identifiers" title="Category:Wikipedia articles with RERO identifiers">Wikipedia articles with RERO identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SBN_identifiers" title="Category:Wikipedia articles with SBN identifiers">Wikipedia articles with SBN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SELIBR_identifiers" title="Category:Wikipedia articles with SELIBR identifiers">Wikipedia articles with SELIBR identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_SUDOC_identifiers" title="Category:Wikipedia articles with SUDOC identifiers">Wikipedia articles with SUDOC identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_VIAF_identifiers" title="Category:Wikipedia articles with VIAF identifiers">Wikipedia articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_WorldCat-VIAF_identifiers" title="Category:Wikipedia articles with WorldCat-VIAF identifiers">Wikipedia articles with WorldCat-VIAF identifiers</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Ant%C3%B3nio+Lobo+Antunes" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Ant%C3%B3nio+Lobo+Antunes" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Ant%C3%B3nio_Lobo_Antunes" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Ant%C3%B3nio_Lobo_Antunes" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Ant%C3%B3nio_Lobo_Antunes">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Ant%C3%B3nio_Lobo_Antunes&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Ant%C3%B3nio_Lobo_Antunes&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Ant%C3%B3nio_Lobo_Antunes" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Ant%C3%B3nio_Lobo_Antunes" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Ant%C3%B3nio_Lobo_Antunes&amp;oldid=887704110" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Ant%C3%B3nio_Lobo_Antunes&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q333849" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Ant%C3%B3nio_Lobo_Antunes&amp;id=887704110" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ant%C3%B3nio_Lobo_Antunes" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Ant%C3%B3nio_Lobo_Antunes" hreflang="en">Wikiquote</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Ant%C3%B3nio+Lobo+Antunes">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Ant%C3%B3nio+Lobo+Antunes&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Ant%C3%B3nio_Lobo_Antunes&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D8%B7%D9%88%D9%86%D9%8A%D9%88_%D9%84%D9%88%D8%A8%D9%88_%D8%A3%D9%86%D8%AA%D9%88%D9%86%D9%8A%D8%B3" title="أنطونيو لوبو أنتونيس – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D1%96%D1%8E_%D0%9B%D0%BE%D0%B1%D1%83_%D0%90%D0%BD%D1%82%D1%83%D0%BD%D1%96%D1%88" title="Антонію Лобу Антуніш – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D1%83_%D0%9B%D0%BE%D0%B1%D1%83_%D0%90%D0%BD%D1%82%D1%83%D0%BD%D0%B5%D1%88" title="Антониу Лобу Антунеш – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – Breton" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%AA%D9%88%D9%86%DB%8C%D9%88_%D9%84%D9%88%D8%A8%D9%88_%D8%A2%D9%86%D8%AA%D9%88%D9%86%D8%B4" title="آنتونیو لوبو آنتونش – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%88%ED%86%A0%EB%8B%88%EC%9A%B0_%EB%A1%9C%EB%B6%80_%EC%95%88%ED%88%AC%EB%8A%90%EC%8A%A4" title="안토니우 로부 안투느스 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%98%D7%95%D7%A0%D7%99%D7%95_%D7%9C%D7%95%D7%91%D7%95_%D7%90%D7%A0%D7%98%D7%95%D7%A0%D7%A9" title="אנטוניו לובו אנטונש – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Antonius_Lobo_Antunes" title="Antonius Lobo Antunes – Latin" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – Mirandese" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA%E3%83%BB%E3%83%AD%E3%83%9C%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%88%E3%82%A5%E3%83%BC%E3%83%8D%E3%82%B9" title="アントニオ・ロボ・アントゥーネス – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B1%D1%83_%D0%90%D0%BD%D1%82%D1%83%D0%BD%D0%B5%D1%88,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D1%83" title="Лобу Антунеш, Антониу – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Ant%C3%B3nio_Lobo_Antunes" title="António Lobo Antunes – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D1%96%D1%83_%D0%9B%D0%BE%D0%B1%D1%83_%D0%90%D0%BD%D1%82%D1%83%D0%BD%D0%B5%D1%88" title="Антоніу Лобу Антунеш – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%C2%B7%E6%B4%9B%E5%8D%9A%C2%B7%E5%AE%89%E5%9B%BE%E5%86%85%E6%96%AF" title="安东尼奥·洛博·安图内斯 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q333849#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 14 March 2019, at 08:56<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Ant%C3%B3nio_Lobo_Antunes&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.364","walltime":"0.529","ppvisitednodes":{"value":695,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":35724,"limit":2097152},"templateargumentsize":{"value":544,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":19,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3784,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  417.472      1 -total"," 46.01%  192.066      1 Template:Authority_control"," 31.22%  130.336      1 Template:Reflist"," 27.55%  115.022      1 Template:Cite_web","  9.98%   41.645      1 Template:Use_dmy_dates","  8.43%   35.177      2 Template:Navbox","  5.90%   24.616      1 Template:Austrian_State_Prize_for_European_Literature","  4.67%   19.498      1 Template:Camões_Prize","  4.22%   17.619      1 Template:DMCA","  3.50%   14.614      1 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.193","limit":"10.000"},"limitreport-memusage":{"value":2988187,"limit":52428800}},"cachereport":{"origin":"mw1250","timestamp":"20190923223421","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ant\u00f3nio Lobo Antunes","url":"https:\/\/en.wikipedia.org\/wiki\/Ant%C3%B3nio_Lobo_Antunes","sameAs":"http:\/\/www.wikidata.org\/entity\/Q333849","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q333849","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-05-14T16:35:00Z","dateModified":"2019-03-14T08:56:24Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/99\/Ant%C3%B3nio_Lobo_Antunes_%282010%29.jpg","headline":"Portuguese writer"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1271"});});</script>
+</body>
+</html>
+

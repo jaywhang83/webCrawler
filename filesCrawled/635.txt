@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Huddersfield R.U.F.C. - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Huddersfield_R.U.F.C.","wgTitle":"Huddersfield R.U.F.C.","wgCurRevisionId":899314731,"wgRevisionId":899314731,"wgArticleId":18596181,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from February 2010","All articles needing additional references","Use British English from June 2014","Use dmy dates from June 2014","Articles with short description","English rugby union teams","Rugby clubs established in 1909","Sport in Huddersfield"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"]
+,"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Huddersfield_R.U.F.C.","wgRelevantArticleId":18596181,"wgRequestId":"XZFDywpAMFQAAD4G@CEAAABL","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Huddersfield_Rugby_Union_Football_Club","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgInternalRedirectTargetUrl":"/wiki/Huddersfield_R.U.F.C.","wgWikibaseItemId":"Q5928274","wgCentralAuthMobileDomain":!1,
+"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons",
+"ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Huddersfield_R.U.F.C."/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Huddersfield_R.U.F.C.&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Huddersfield_R.U.F.C.&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Huddersfield_R.U.F.C."/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Huddersfield_R_U_F_C rootpage-Huddersfield_R_U_F_C skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Huddersfield R.U.F.C.</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Huddersfield_Rugby_Union_Football_Club&amp;redirect=no" class="mw-redirect" title="Huddersfield Rugby Union Football Club">Huddersfield Rugby Union Football Club</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Huddersfield_R.U.F.C.&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Huddersfield+R.U.F.C.%22">"Huddersfield R.U.F.C."</a>&#160;–&#160;<a rel="nofollow" class="external text" href="//www.google.com/search?tbm=nws&amp;q=%22Huddersfield+R.U.F.C.%22+-wikipedia">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?&amp;q=%22Huddersfield+R.U.F.C.%22+site:news.google.com/newspapers&amp;source=newspapers">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//www.google.com/search?tbs=bks:1&amp;q=%22Huddersfield+R.U.F.C.%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="//scholar.google.com/scholar?q=%22Huddersfield+R.U.F.C.%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Huddersfield+R.U.F.C.%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <small class="date-container"><i>(<span class="date">February 2010</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p class="mw-empty-elt">
+
+</p>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Rugby union club in Huddersfield, England</div> 
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Huddersfield R.U.F.C.</caption><tbody><tr><th scope="row"><span class="nowrap">Full name</span></th><td class="nickname">Huddersfield Rugby Union Football Club</td></tr><tr><th scope="row"><span class="nowrap">Nickname(s)</span></th><td class="nickname">The Field</td></tr><tr><th scope="row">Founded</th><td>1909<span class="noprint">&#59;&#32;110&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">1909</span>)</span></td></tr><tr><th scope="row">Location</th><td class="label"><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></td></tr><tr><th scope="row"><span class="nowrap">Ground(s)</span></th><td>Lockwood Park (Capacity: 1,500 (500 seated))</td></tr><tr><th scope="row">Chairman</th><td class="agent">Mark Birch</td></tr><tr><th scope="row"><span class="nowrap">Coach(es)</span></th><td class="agent">Gareth Lewis</td></tr><tr><th scope="row"><span class="nowrap">Captain(s)</span></th><td class="agent">Dickie Piper</td></tr><tr><th scope="row"><span class="nowrap">League(s)</span></th><td><a href="/wiki/National_League_2_North" title="National League 2 North">National League 2 North</a></td></tr><tr><th scope="row"><a href="/wiki/2018%E2%80%9319_National_League_2_North" title="2018–19 National League 2 North">2018−19</a></th><td>4th</td></tr></tbody></table>
+<p><b>Huddersfield Rugby Union Football Club</b> is an English <a href="/wiki/Rugby_union" title="Rugby union">rugby union</a> team situated in <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, England. The club plays in the domestic <a href="/wiki/National_League_2_North" title="National League 2 North">National League 2 North</a> having won promotion from <a href="/wiki/National_League_3_North" class="mw-redirect" title="National League 3 North">National League 3 North</a> as champions at the end of the 2016-17 season. The club also competes in the <a href="/wiki/Yorkshire_Cup_(rugby_union)" title="Yorkshire Cup (rugby union)">Yorkshire Cup</a> competition and play its home matches at Lockwood Park, which has a capacity of 1,500 with seating for 500. HRUFC also has an academy squad, feeding the senior team with new players.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Honours"><span class="tocnumber">2</span> <span class="toctext">Honours</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Notable_players"><span class="tocnumber">3</span> <span class="toctext">Notable players</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Associated_clubs"><span class="tocnumber">4</span> <span class="toctext">Associated clubs</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Lockwood_Park"><span class="tocnumber">5</span> <span class="toctext">Lockwood Park</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Current_standings"><span class="tocnumber">6</span> <span class="toctext">Current standings</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_R.U.F.C.&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Rugby football was first played in Huddersfield in 1869 and the club established in 1870. Matches were initially played at the Rifle Field in Trinity Street and then, with the amalgamation of the St John's Cricket Club, at Fartown from 1879.
+</p><p>Huddersfield was playing in the top ranks of English clubs when, in August 1895, the town hosted a meeting at the <a href="/wiki/George_Hotel,_Huddersfield" title="George Hotel, Huddersfield">George Hotel</a> and was one of the 20 clubs that resigned from the Rugby Union to set up The Northern Rugby Football Union, which allowed players to be compensated for 'Broken Time.'  This meant they could claim for wages lost by playing on Saturdays. They were not allowed to make a living from the game – they were not 'professional.'  A new club was re-formed and named Huddersfield Old Boys in 1909. 
+</p><p>The club's first ground was at the United Cricket Club in Luck Lane with changing facilities at the Croppers Arms.
+</p><p><a href="/wiki/World_War_I" title="World War I">World War I</a> blew the whistle on the sport and games were not restarted until 1919 on a ground at <a href="/wiki/Salendine_Nook" title="Salendine Nook">Salendine Nook</a> initially before the club took a lease on land at <a href="/wiki/Waterloo,_Huddersfield" title="Waterloo, Huddersfield">Waterloo</a>. It was here that the club established their current colours of white, claret and gold. A stand was built and changing rooms completed for exclusive rugby use a luxury in those days. But the ground was plagued with drainage problems and another move was contemplated. In the event it was decided to buy the ground outright for £700 and invest in drainage. In 1935 £370 was invested in a new pavilion and bar and ladies were welcomed to a hitherto male bastion and they themselves began the tradition of aftermatch tea making. By 1964 the original pavilion was falling to bits and a new one, costing £11,000, was officially opened by Huddersfield's then MP J P W Mallalieu, himself a former Oxford Blue.
+</p><p>In 1946 the club changed their name to Huddersfield Rugby Union Football Club. The club sold part of its Waterloo property for £1.4&#160;million to <a href="/wiki/Morrisons" title="Morrisons">W Morrison's</a> to help fund the purchase of the 26-acre (110,000&#160;m<sup>2</sup>) former brewery estate at Lockwood Park from Bass in 1996 to create a major sports complex backed by a £1.84&#160;million Sport Council lottery grant.
+</p><p>The club won the Yorkshire Cup in 2011 for the first time in its history, beating Hull RUFC 25-18 at York RUFC.  The Huddersfield team which won the cup in 1890 was the direct antecedent of the <a href="/wiki/Huddersfield_Giants" title="Huddersfield Giants">Huddersfield Giants</a> and is unconnected to the current Huddersfield RUFC.
+</p>
+<h2><span class="mw-headline" id="Honours">Honours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_R.U.F.C.&amp;action=edit&amp;section=2" title="Edit section: Honours">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/North_1_East#Promotion_play-offs" title="North 1 East">North 2 (east v west)</a> promotion play-off winner (2): 2001–02, 2004–05</li>
+<li><a href="/wiki/National_League_3_North#Promotion_play-offs" class="mw-redirect" title="National League 3 North">North 1 v Midlands 1</a> promotion play-off winner: 2007–08</li>
+<li><a href="/wiki/Yorkshire_Cup_(rugby_union)" title="Yorkshire Cup (rugby union)">Yorkshire Cup</a> winners: 2011</li>
+<li><a href="/wiki/National_League_3_North" class="mw-redirect" title="National League 3 North">National League 3 North</a> champions (2): 2013–14, 2016–17</li></ul>
+<h2><span class="mw-headline" id="Notable_players">Notable players</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_R.U.F.C.&amp;action=edit&amp;section=3" title="Edit section: Notable players">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following players have appeared in a <a href="/wiki/Yorkshire_Cup_(rugby_union)" title="Yorkshire Cup (rugby union)">Yorkshire Cup</a> (T'owd Tin Pot) final, or are county, or international representatives before/during/after their time at Huddersfield RUFC
+</p>
+<ul><li><a href="/wiki/Luther_Burrell" title="Luther Burrell">Luther Burrell</a></li>
+<li><a href="/wiki/Chris_Johnson_(rugby_union)" title="Chris Johnson (rugby union)">Chris Johnson</a> circa-2011</li>
+<li><a href="/wiki/Kearnan_Myall" title="Kearnan Myall">Kearnan Myall</a></li>
+<li><a href="/w/index.php?title=Lee_Paxman&amp;action=edit&amp;redlink=1" class="new" title="Lee Paxman (page does not exist)">Lee Paxman</a> circa-2011</li>
+<li><a href="/wiki/Frank_Sykes" title="Frank Sykes">Frank Sykes</a></li>
+<li><a href="/w/index.php?title=James_Wood_(rugby_union)&amp;action=edit&amp;redlink=1" class="new" title="James Wood (rugby union) (page does not exist)">James Wood</a> circa-2011</li>
+<li><b>James Lockwood</b></li></ul>
+<h2><span class="mw-headline" id="Associated_clubs">Associated clubs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_R.U.F.C.&amp;action=edit&amp;section=4" title="Edit section: Associated clubs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As well as being a rugby club Huddersfield RUFC also has clubs based at Lockwood Park catering for hockey, squash, road running and a bowling club that boasts arguably the finest green in Yorkshire. Tucked away within the huge clubhouse is the Borough Club for the town's serious snooker players.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lockwood1.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Lockwood1.jpg/220px-Lockwood1.jpg" decoding="async" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/Lockwood1.jpg/330px-Lockwood1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/Lockwood1.jpg/440px-Lockwood1.jpg 2x" data-file-width="3120" data-file-height="4160" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lockwood1.jpg" class="internal" title="Enlarge"></a></div>Stand at Lockwood park</div></div></div>
+<h2><span class="mw-headline" id="Lockwood_Park">Lockwood Park</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_R.U.F.C.&amp;action=edit&amp;section=5" title="Edit section: Lockwood Park">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Lockwood Park is the home of Huddersfield RUFC and is a multi-sports complex with a capacity of 1,500 (with seating for 500). It is also the home of Huddersfield Dragons Hockey Club, Huddersfield Road Runners AC, HRUFC Bowling Club, Malcolm Pickup Academy Squash and the Borough Club which offers snooker facilities.
+</p><p>It is also the home ground of the <a href="/wiki/Huddersfield_Giants" title="Huddersfield Giants">Huddersfield Giants</a> Rugby League Academy teams, who have enjoyed relative success whilst at Lockwood park.
+</p><p><br />
+</p><p><br />
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lockwood2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lockwood2.jpg/220px-Lockwood2.jpg" decoding="async" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lockwood2.jpg/330px-Lockwood2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Lockwood2.jpg/440px-Lockwood2.jpg 2x" data-file-width="3120" data-file-height="4160" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lockwood2.jpg" class="internal" title="Enlarge"></a></div>View towards the clubhouse at Lockwood park</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Lockwood3.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lockwood3.jpg/220px-Lockwood3.jpg" decoding="async" width="220" height="293" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lockwood3.jpg/330px-Lockwood3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/95/Lockwood3.jpg/440px-Lockwood3.jpg 2x" data-file-width="3120" data-file-height="4160" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Lockwood3.jpg" class="internal" title="Enlarge"></a></div>The ground sits under the impressive Lockwood viaduct</div></div></div>
+<h2><span class="mw-headline" id="Current_standings">Current standings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_R.U.F.C.&amp;action=edit&amp;section=6" title="Edit section: Current standings">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="text-align: center;">
+
+<tbody><tr>
+<td colspan="15">
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+
+<tbody><tr>
+<td width="20%" style="border:0px">
+</td>
+<td style="border:0px"><b><a href="/wiki/2019%E2%80%9320_National_League_2_North" title="2019–20 National League 2 North">2019–20 National League 2 North Table</a></b>
+</td>
+<td width="20%" style="border:0px;text-align:right;"><small class="editlink noprint plainlinksneverexpand"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:2019%E2%80%9320_National_League_2_North&amp;action=watch">watch</a> &#183; <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:2019%E2%80%9320_National_League_2_North&amp;action=edit">edit</a> &#183; <a href="/w/index.php?title=Template_talk:2019%E2%80%9320_National_League_2_North&amp;action=edit&amp;redlink=1" class="new" title="Template talk:2019–20 National League 2 North (page does not exist)">discuss</a></small>
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td style="background-color:#efefef;" width="20">
+</td>
+<th style="background-color:#efefef" width="195">
+</th>
+<th style="background-color:#efefef" width="20">Played
+</th>
+<th style="background-color:#efefef" width="20">Won
+</th>
+<th style="background-color:#efefef" width="20">Drawn
+</th>
+<th style="background-color:#efefef" width="20">Lost
+</th>
+<th style="background-color:#efefef" width="20">Points for
+</th>
+<th style="background-color:#efefef" width="20">Points against
+</th>
+<th style="background-color:#efefef" width="20">Points diff
+</th>
+<th style="background-color:#efefef" width="20">Try bonus
+</th>
+<th style="background-color:#efefef" width="20">Losing bonus
+</th>
+<th style="background-color:#efefef" width="20">Points
+</th></tr>
+<tr style="background-color:#d8ffeb;text-align:center;">
+<td>1</td>
+<td style="text-align:left;"><a href="/wiki/Caldy_Rugby_Football_Club" title="Caldy Rugby Football Club">Caldy</a></td>
+<td>4</td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>117</td>
+<td>58</td>
+<td>59</td>
+<td>2</td>
+<td>0</td>
+<td><b>18</b>
+</td></tr>
+<tr style="background-color:#ccccff;">
+<td>2</td>
+<td style="text-align:left;"><a href="/wiki/Fylde_Rugby_Club" title="Fylde Rugby Club">Fylde</a></td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
+<td>0</td>
+<td>148</td>
+<td>85</td>
+<td>63</td>
+<td>3</td>
+<td>0</td>
+<td><b>17</b>
+</td></tr>
+<tr>
+<td>3</td>
+<td style="text-align:left;"><a href="/wiki/Stourbridge_R.F.C." title="Stourbridge R.F.C.">Stourbridge</a></td>
+<td>4</td>
+<td>3</td>
+<td>0</td>
+<td>1</td>
+<td>121</td>
+<td>85</td>
+<td>36</td>
+<td>3</td>
+<td>1</td>
+<td><b>16</b>
+</td></tr>
+<tr>
+<td>4</td>
+<td style="text-align:left;"><a href="/wiki/Sedgley_Park_R.U.F.C." title="Sedgley Park R.U.F.C.">Sedgley Park</a></td>
+<td>4</td>
+<td>3</td>
+<td>0</td>
+<td>1</td>
+<td>81</td>
+<td>56</td>
+<td>25</td>
+<td>1</td>
+<td>1</td>
+<td><b>14</b>
+</td></tr>
+<tr>
+<td>5</td>
+<td style="text-align:left;"><a href="/wiki/Preston_Grasshoppers_R.F.C." title="Preston Grasshoppers R.F.C.">Preston Grasshoppers</a></td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>102</td>
+<td>87</td>
+<td>15</td>
+<td>1</td>
+<td>0</td>
+<td><b>11</b>
+</td></tr>
+<tr>
+<td>6</td>
+<td style="text-align:left;"><a href="/wiki/Hull_RUFC" title="Hull RUFC">Hull</a></td>
+<td>4</td>
+<td>2</td>
+<td>1</td>
+<td>1</td>
+<td>95</td>
+<td>101</td>
+<td>-6</td>
+<td>1</td>
+<td>0</td>
+<td><b>11</b>
+</td></tr>
+<tr>
+<td>7</td>
+<td style="text-align:left;"><a href="/wiki/Chester_RUFC" title="Chester RUFC">Chester</a></td>
+<td>4</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>82</td>
+<td>86</td>
+<td>-4</td>
+<td>2</td>
+<td>1</td>
+<td><b>11</b>
+</td></tr>
+<tr>
+<td>8</td>
+<td style="text-align:left;"><a href="/wiki/Sheffield_Tigers_RUFC" title="Sheffield Tigers RUFC">Sheffield Tigers</a></td>
+<td>4</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>72</td>
+<td>93</td>
+<td>-21</td>
+<td>1</td>
+<td>1</td>
+<td><b>10</b>
+</td></tr>
+<tr>
+<td>9</td>
+<td style="text-align:left;"><a href="/wiki/Hinckley_RFC" title="Hinckley RFC">Hinckley</a></td>
+<td>4</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>79</td>
+<td>105</td>
+<td>-26</td>
+<td>2</td>
+<td>0</td>
+<td><b>10</b>
+</td></tr>
+<tr>
+<td>10</td>
+<td style="text-align:left;"><a href="/wiki/Tynedale_R.F.C." class="mw-redirect" title="Tynedale R.F.C.">Tynedale</a></td>
+<td>4</td>
+<td>1</td>
+<td>1</td>
+<td>2</td>
+<td>108</td>
+<td>113</td>
+<td>-5</td>
+<td>2</td>
+<td>2</td>
+<td><b>10</b>
+</td></tr>
+<tr>
+<td>11</td>
+<td style="text-align:left;"><a href="/wiki/Wharfedale_R.U.F.C." title="Wharfedale R.U.F.C.">Wharfedale</a></td>
+<td>4</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>72</td>
+<td>62</td>
+<td>10</td>
+<td>0</td>
+<td>1</td>
+<td><b>9</b>
+</td></tr>
+<tr>
+<td>12</td>
+<td style="text-align:left;"><a href="/wiki/Loughborough_Students_RUFC" title="Loughborough Students RUFC">Loughborough Students</a></td>
+<td>4</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+<td>112</td>
+<td>100</td>
+<td>12</td>
+<td>1</td>
+<td>2</td>
+<td><b>7</b>
+</td></tr>
+<tr>
+<td>13</td>
+<td style="text-align:left;"><a href="/wiki/Luctonians" title="Luctonians">Luctonians</a></td>
+<td>4</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+<td>92</td>
+<td>125</td>
+<td>-33</td>
+<td>1</td>
+<td>2</td>
+<td><b>7</b>
+</td></tr>
+<tr style="background-color:#ffcccc;">
+<td>14</td>
+<td style="text-align:left;"><a href="/wiki/Otley_R.U.F.C." title="Otley R.U.F.C.">Otley</a></td>
+<td>4</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+<td>84</td>
+<td>95</td>
+<td>-11</td>
+<td>1</td>
+<td>2</td>
+<td><b>7</b>
+</td></tr>
+<tr style="background-color:#ffcccc;">
+<td>15</td>
+<td style="text-align:left;"><a class="mw-selflink selflink">Huddersfield</a></td>
+<td>4</td>
+<td>0</td>
+<td>2</td>
+<td>2</td>
+<td>57</td>
+<td>104</td>
+<td>-47</td>
+<td>0</td>
+<td>0</td>
+<td><b>4</b>
+</td></tr>
+<tr style="background-color:#ffcccc;">
+<td>16</td>
+<td style="text-align:left;"><a href="/wiki/Scunthorpe_Rugby_Club" title="Scunthorpe Rugby Club">Scunthorpe</a></td>
+<td>4</td>
+<td>0</td>
+<td>0</td>
+<td>4</td>
+<td>88</td>
+<td>155</td>
+<td>-67</td>
+<td>2</td>
+<td>1</td>
+<td><b>3</b>
+</td></tr>
+<tr>
+<td colspan="15">
+<ul><li>If teams are level at any stage, tiebreakers are applied in the following order:</li></ul>
+<ol><li>Number of matches won</li>
+<li>Difference between points for and against</li>
+<li>Total number of points for</li>
+<li>Aggregate number of points scored in matches between tied teams</li>
+<li>Number of matches won excluding the first match, then the second and so on until the tie is settled</li></ol>
+</td></tr>
+<tr style="text-align:left;">
+<td colspan="15" style="border:0px"><small><span style="background:#d8ffeb">Green background</span> is the promotion place. <span style="background:#ccccff">Blue background</span> is the play-off place. <span style="background:#ffcccc">Pink background</span> are relegation places.<br /><b>Updated: 28 September 2019</b><br />Source: <cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ncarugby.org/index.php?pg=T%20National%20League%202%20North&amp;league=Nat%20League%202%20North">"National League 2 North"</a>. NCA Rugby.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=National+League+2+North&amp;rft.pub=NCA+Rugby&amp;rft_id=http%3A%2F%2Fwww.ncarugby.org%2Findex.php%3Fpg%3DT%2520National%2520League%25202%2520North%26league%3DNat%2520League%25202%2520North&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+R.U.F.C." class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></small>
+</td></tr></tbody></table>
+<dl><dt>Notes</dt></dl>
+<p><br />
+</p>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_R.U.F.C.&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_R.U.F.C.&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.huddersfieldrugby.com">Official website</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070319043744/http://www.kirklees.gov.uk/community/localorgs/orgdetails.asp?OrgID=1275">Kirklees website</a></li>
+<li><a rel="nofollow" class="external text" href="http://wikimapia.org/2310977/THE_HUDDERSFIELD_RUGBY_UNION_FOOTBALL_CLUB">Wikmapia</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="National_League_2_North" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:National_League_2_North" title="Template:National League 2 North"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:National_League_2_North" title="Template talk:National League 2 North"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:National_League_2_North&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="National_League_2_North" style="font-size:114%;margin:0 4em"><a href="/wiki/National_League_2_North" title="National League 2 North">National League 2 North</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">2017–18 teams</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Chester_RUFC" title="Chester RUFC">Chester</a></li>
+<li><a href="/wiki/Fylde_Rugby_Club" title="Fylde Rugby Club">Fylde</a></li>
+<li><a href="/wiki/Hinckley_RFC" title="Hinckley RFC">Hinckley</a></li>
+<li><a class="mw-selflink selflink">Huddersfield</a></li>
+<li><a href="/wiki/Hull_Ionians" title="Hull Ionians">Hull Ionians</a></li>
+<li><a href="/wiki/Leicester_Lions_RFC" title="Leicester Lions RFC">Leicester Lions</a></li>
+<li><a href="/wiki/Macclesfield_R.U.F.C." title="Macclesfield R.U.F.C.">Macclesfield</a></li>
+<li><a href="/wiki/Peterborough_Lions_RFC" title="Peterborough Lions RFC">Peterborough Lions</a></li>
+<li><a href="/wiki/Preston_Grasshoppers_R.F.C." title="Preston Grasshoppers R.F.C.">Preston Grasshoppers</a></li>
+<li><a href="/wiki/Otley_R.U.F.C." title="Otley R.U.F.C.">Otley</a></li>
+<li><a href="/wiki/Sedgley_Park_R.U.F.C." title="Sedgley Park R.U.F.C.">Sedgley Park</a></li>
+<li><a href="/wiki/Sheffield_Tigers_RUFC" title="Sheffield Tigers RUFC">Sheffield Tigers</a></li>
+<li><a href="/wiki/South_Leicester_RFC" title="South Leicester RFC">South Leicester</a></li>
+<li><a href="/wiki/Stourbridge_R.F.C." title="Stourbridge R.F.C.">Stourbridge</a></li>
+<li><a href="/wiki/Tynedale_RFC" title="Tynedale RFC">Tynedale</a></li>
+<li><a href="/wiki/Wharfedale_R.U.F.C." title="Wharfedale R.U.F.C.">Wharfedale</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former clubs<br /><small><i>(incomplete)</i></small></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ampthill_RUFC" title="Ampthill RUFC">Ampthill</a></li>
+<li><a href="/wiki/Aspatria_RUFC" title="Aspatria RUFC">Aspatria</a></li>
+<li><a href="/wiki/Barkers_Butts_RFC" title="Barkers Butts RFC">Barkers Butts</a></li>
+<li><a href="/wiki/Bedford_Athletic" title="Bedford Athletic">Bedford Athletic</a></li>
+<li><a href="/wiki/Birkenhead_Park_FC" title="Birkenhead Park FC">Birkenhead Park</a></li>
+<li><a href="/wiki/Birmingham_%26_Solihull_R.F.C." title="Birmingham &amp; Solihull R.F.C.">Birmingham &amp; Solihull</a></li>
+<li><a href="/wiki/Blaydon_RFC" title="Blaydon RFC">Blaydon</a></li>
+<li><a href="/wiki/Bradford_%26_Bingley_RFC" title="Bradford &amp; Bingley RFC">Bradford &amp; Bingley</a></li>
+<li><a href="/wiki/Broadstreet_Rugby_Club" title="Broadstreet Rugby Club">Broadstreet</a></li>
+<li><a href="/wiki/Bromsgrove_RFC" title="Bromsgrove RFC">Bromsgrove</a></li>
+<li><a href="/wiki/Broughton_Park_RUFC" title="Broughton Park RUFC">Broughton Park</a></li>
+<li><a href="/wiki/Caldy_Rugby_Football_Club" title="Caldy Rugby Football Club">Caldy</a></li>
+<li><a href="/wiki/Cleckheaton_RUFC" title="Cleckheaton RUFC">Cleckheaton</a></li>
+<li><a href="/wiki/Darlington_RFC" title="Darlington RFC">Darlington</a></li>
+<li><a href="/wiki/Darlington_Mowden_Park_R.F.C." title="Darlington Mowden Park R.F.C.">Darlington Mowden Park</a></li>
+<li><a href="/wiki/Derby_RFC" title="Derby RFC">Derby</a></li>
+<li><a href="/wiki/Doncaster_R.F.C." class="mw-redirect" title="Doncaster R.F.C.">Doncaster</a></li>
+<li><a href="/wiki/Dudley_Kingswinford" title="Dudley Kingswinford">Dudley Kingswinford</a></li>
+<li><a href="/w/index.php?title=Durham_City_Rugby_Club&amp;action=edit&amp;redlink=1" class="new" title="Durham City Rugby Club (page does not exist)">Durham City</a></li>
+<li><a href="/wiki/Halifax_RUFC" title="Halifax RUFC">Halifax</a></li>
+<li><a href="/wiki/Harrogate_RUFC" title="Harrogate RUFC">Harrogate</a></li>
+<li><a href="/wiki/Hereford_Rugby_Club" title="Hereford Rugby Club">Hereford</a></li>
+<li><a href="/wiki/Hull_RUFC" title="Hull RUFC">Hull</a></li>
+<li><a href="/wiki/Kendal_Rugby_Union_Football_Club" title="Kendal Rugby Union Football Club">Kendal</a></li>
+<li><a href="/wiki/Lichfield_Rugby_Union_Football_Club" title="Lichfield Rugby Union Football Club">Lichfield</a></li>
+<li><a href="/wiki/Liverpool_St_Helens_F.C." title="Liverpool St Helens F.C.">Liverpool St Helens</a></li>
+<li><a href="/wiki/Longton_Rugby_Club" title="Longton Rugby Club">Longton</a></li>
+<li><a href="/wiki/Loughborough_Students_RUFC" title="Loughborough Students RUFC">Loughborough Students</a></li>
+<li><a href="/wiki/Luctonians" title="Luctonians">Luctonians</a></li>
+<li><a href="/wiki/Manchester_Rugby_Club" title="Manchester Rugby Club">Manchester</a></li>
+<li><a href="/wiki/Morley_R.F.C." title="Morley R.F.C.">Morley</a></li>
+<li><a href="/wiki/New_Brighton_F.C._(rugby_union)" title="New Brighton F.C. (rugby union)">New Brighton</a></li>
+<li><a href="/wiki/Northern_Football_Club" title="Northern Football Club">Northern</a></li>
+<li><a href="/wiki/Nuneaton_R.F.C." title="Nuneaton R.F.C.">Nuneaton</a></li>
+<li><a href="/wiki/Orrell_R.U.F.C." title="Orrell R.U.F.C.">Orrell</a></li>
+<li><a href="/wiki/Rotherham_R.U.F.C." class="mw-redirect" title="Rotherham R.U.F.C.">Rotherham</a></li>
+<li><a href="/wiki/Leeds_Carnegie" class="mw-redirect" title="Leeds Carnegie">Roundhay</a></li>
+<li><a href="/wiki/Rugby_Lions" title="Rugby Lions">Rugby Lions</a></li>
+<li><a href="/wiki/Sale_FC_Rugby_Club" title="Sale FC Rugby Club">Sale FC</a></li>
+<li><a href="/wiki/Sandal_RUFC" title="Sandal RUFC">Sandal</a></li>
+<li><a href="/wiki/Scunthorpe_Rugby_Club" title="Scunthorpe Rugby Club">Scunthorpe</a></li>
+<li><a href="/wiki/Sheffield_RUFC" title="Sheffield RUFC">Sheffield</a></li>
+<li><a href="/wiki/Birmingham_%26_Solihull_R.F.C." title="Birmingham &amp; Solihull R.F.C.">Solihull</a></li>
+<li><a href="/wiki/Stockport_R.U.F.C" class="mw-redirect" title="Stockport R.U.F.C">Stockport</a></li>
+<li><a href="/w/index.php?title=Stoke-on-Trent_Rugby_Club&amp;action=edit&amp;redlink=1" class="new" title="Stoke-on-Trent Rugby Club (page does not exist)">Stoke-on-Trent</a></li>
+<li><a href="/wiki/Towcestrians" class="mw-redirect" title="Towcestrians">Towcestrians</a></li>
+<li><a href="/wiki/Vale_of_Lune_RUFC" title="Vale of Lune RUFC">Vale of Lune</a></li>
+<li><a href="/w/index.php?title=Walsall_RUFC&amp;action=edit&amp;redlink=1" class="new" title="Walsall RUFC (page does not exist)">Walsall</a></li>
+<li><a href="/wiki/Waterloo_R.F.C." class="mw-redirect" title="Waterloo R.F.C.">Waterloo</a></li>
+<li><a href="/wiki/West_Hartlepool_R.F.C." title="West Hartlepool R.F.C.">West Hartlepool</a></li>
+<li><a href="/wiki/Westoe_RFC" class="mw-redirect" title="Westoe RFC">Westoe</a></li>
+<li><a href="/wiki/Whitchurch_Rugby_Club" title="Whitchurch Rugby Club">Whitchurch</a></li>
+<li><a href="/wiki/Winnington_Park" title="Winnington Park">Winnington Park</a></li>
+<li><a href="/wiki/Worcester_Warriors" title="Worcester Warriors">Worcester</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Seasons</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Area League North</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1987%E2%80%9388_Courage_Area_League_North" title="1987–88 Courage Area League North">1987–88</a></li>
+<li><a href="/wiki/1988%E2%80%9389_Courage_Area_League_North" title="1988–89 Courage Area League North">1988–89</a></li>
+<li><a href="/wiki/1989%E2%80%9390_Courage_Area_League_North" title="1989–90 Courage Area League North">1989–90</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National 4 North</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1990%E2%80%9391_Courage_National_4_North" title="1990–91 Courage National 4 North">1990–91</a></li>
+<li><a href="/wiki/1991%E2%80%9392_Courage_National_4_North" title="1991–92 Courage National 4 North">1991–92</a></li>
+<li><a href="/wiki/1992%E2%80%9393_Courage_National_4_North" title="1992–93 Courage National 4 North">1992–93</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National Division 4</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1993%E2%80%9394_Courage_League_Division_4" title="1993–94 Courage League Division 4">1993–94</a></li>
+<li><a href="/wiki/1994%E2%80%9395_Courage_League_Division_4" title="1994–95 Courage League Division 4">1994–95</a></li>
+<li><a href="/wiki/1995%E2%80%9396_Courage_League_Division_4" title="1995–96 Courage League Division 4">1995–96</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National Division 4 North</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1996%E2%80%9397_Courage_League_Division_4_North" title="1996–97 Courage League Division 4 North">1996–97</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National Division 2 North</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1997%E2%80%9398_National_League_2_North" title="1997–98 National League 2 North">1997–98</a></li>
+<li><a href="/wiki/1998%E2%80%9399_National_League_2_North" title="1998–99 National League 2 North">1998–99</a></li>
+<li><a href="/wiki/1999%E2%80%932000_National_League_2_North" title="1999–2000 National League 2 North">1999–00</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National Division 3 North</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2000%E2%80%9301_National_Division_Three_North" title="2000–01 National Division Three North">2000–01</a></li>
+<li><a href="/wiki/2001%E2%80%9302_National_Division_Three_North" title="2001–02 National Division Three North">2001–02</a></li>
+<li><a href="/wiki/2002%E2%80%9303_National_Division_Three_North" title="2002–03 National Division Three North">2002–03</a></li>
+<li><a href="/wiki/2003%E2%80%9304_National_Division_Three_North" title="2003–04 National Division Three North">2003–04</a></li>
+<li><a href="/wiki/2004%E2%80%9305_National_Division_Three_North" title="2004–05 National Division Three North">2004–05</a></li>
+<li><a href="/wiki/2005%E2%80%9306_National_Division_Three_North" title="2005–06 National Division Three North">2005–06</a></li>
+<li><a href="/wiki/2006%E2%80%9307_National_Division_Three_North" title="2006–07 National Division Three North">2006–07</a></li>
+<li><a href="/wiki/2007%E2%80%9308_National_Division_Three_North" title="2007–08 National Division Three North">2007–08</a></li>
+<li><a href="/wiki/2008%E2%80%9309_National_Division_Three_North" title="2008–09 National Division Three North">2008–09</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National League 2 North</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/2009%E2%80%9310_National_League_2_North" title="2009–10 National League 2 North">2009–10</a></li>
+<li><a href="/wiki/2010%E2%80%9311_National_League_2_North" title="2010–11 National League 2 North">2010–11</a></li>
+<li><a href="/wiki/2011%E2%80%9312_National_League_2_North" title="2011–12 National League 2 North">2011–12</a></li>
+<li><a href="/wiki/2012%E2%80%9313_National_League_2_North" title="2012–13 National League 2 North">2012–13</a></li>
+<li><a href="/wiki/2013%E2%80%9314_National_League_2_North" title="2013–14 National League 2 North">2013–14</a></li>
+<li><a href="/wiki/2014%E2%80%9315_National_League_2_North" title="2014–15 National League 2 North">2014–15</a></li>
+<li><a href="/wiki/2015%E2%80%9316_National_League_2_North" title="2015–16 National League 2 North">2015–16</a></li>
+<li><a href="/wiki/2016%E2%80%9317_National_League_2_North" title="2016–17 National League 2 North">2016–17</a></li>
+<li><a href="/wiki/2017%E2%80%9318_National_League_2_North" title="2017–18 National League 2 North">2017–18</a></li>
+<li><a href="/wiki/2018%E2%80%9319_National_League_2_North" title="2018–19 National League 2 North"><i>2018–19</i></a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Rugby_union_in_England" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background:white; color:darkblue; border:1px solid red"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Rugby_union_in_England" title="Template:Rugby union in England"><abbr title="View this template" style="background:white; color:darkblue; border:1px solid red;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Rugby_union_in_England" title="Template talk:Rugby union in England"><abbr title="Discuss this template" style="background:white; color:darkblue; border:1px solid red;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Rugby_union_in_England&amp;action=edit"><abbr title="Edit this template" style="background:white; color:darkblue; border:1px solid red;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Rugby_union_in_England" style="font-size:114%;margin:0 4em"><a href="/wiki/Rugby_union_in_England" title="Rugby union in England"><span style="color:darkblue">Rugby union in England</span></a></div></th></tr><tr><th scope="row" class="navbox-group" style="background:white; color:darkblue; border:1px solid red;width:1%">Governing body</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Rugby_Football_Union" title="Rugby Football Union">Rugby Football Union</a></li>
+<li><a href="/wiki/Rugby_Football_Union_for_Women" title="Rugby Football Union for Women">Rugby Football Union for Women</a> (<i>merged into the RFU</i>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:white; color:darkblue; border:1px solid red;width:1%">National teams</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background:white; color:darkblue; border:1px solid red">Men's</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/England_national_rugby_union_team" title="England national rugby union team">England</a></li>
+<li><a href="/wiki/England_Saxons" title="England Saxons">England Saxons</a></li>
+<li><a href="/wiki/England_national_rugby_sevens_team" title="England national rugby sevens team">7's</a></li>
+<li><a href="/wiki/England_national_under-20_rugby_union_team" title="England national under-20 rugby union team">U-20</a></li>
+<li><a href="/wiki/England_national_under-21_rugby_union_team" class="mw-redirect" title="England national under-21 rugby union team">U-21</a></li>
+<li><a href="/w/index.php?title=England_national_under-19_rugby_union_team&amp;action=edit&amp;redlink=1" class="new" title="England national under-19 rugby union team (page does not exist)">U-19</a></li>
+<li><a href="/wiki/England_national_under-18_rugby_union_team" title="England national under-18 rugby union team">U-18</a></li>
+<li><a href="/w/index.php?title=England_national_schoolboy_rugby_union_team&amp;action=edit&amp;redlink=1" class="new" title="England national schoolboy rugby union team (page does not exist)">Schoolboys</a></li>
+<li><a href="/wiki/British_and_Irish_Lions" title="British and Irish Lions">British and Irish Lions</a></li>
+<li><a href="/wiki/England_Counties_XV" title="England Counties XV">England Counties XV</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:white; color:darkblue; border:1px solid red">Women's</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/England_women%27s_national_rugby_union_team" title="England women&#39;s national rugby union team">Women's</a></li>
+<li><a href="/wiki/England_women%27s_national_rugby_sevens_team" title="England women&#39;s national rugby sevens team">7's</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background:white; color:darkblue; border:1px solid red;width:1%">International competitions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background:white; color:darkblue; border:1px solid red">Men's</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/England_at_the_Rugby_World_Cup" title="England at the Rugby World Cup">World Cup</a></li>
+<li><a href="/wiki/Six_Nations_Championship" title="Six Nations Championship">Six Nations</a></li>
+<li><a href="/wiki/Rugby_World_Cup_Sevens" title="Rugby World Cup Sevens">Rugby World Cup Sevens</a></li>
+<li><a href="/wiki/World_Rugby_Sevens_Series" title="World Rugby Sevens Series">Sevens World Series</a></li>
+<li><a href="/wiki/Sevens_Grand_Prix_Series" title="Sevens Grand Prix Series">Sevens Grand Prix Series</a></li>
+<li><a href="/wiki/Rugby_sevens_at_the_Commonwealth_Games" title="Rugby sevens at the Commonwealth Games">Commonwealth Games</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:white; color:darkblue; border:1px solid red">Women's</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Women%27s_Rugby_World_Cup" title="Women&#39;s Rugby World Cup">World Cup</a></li>
+<li><a href="/wiki/Women%27s_Six_Nations_Championship" title="Women&#39;s Six Nations Championship">Six Nations</a></li>
+<li><a href="/wiki/World_Rugby_Women%27s_Sevens_Series" title="World Rugby Women&#39;s Sevens Series">World Series Sevens</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background:white; color:darkblue; border:1px solid red;width:1%">Competition divisions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background:white; color:darkblue; border:1px solid red">Men's</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Premiership_Rugby" title="Premiership Rugby">Premiership</a></li>
+<li><a href="/wiki/RFU_Championship" title="RFU Championship">Championship</a></li>
+<li><a href="/wiki/English_rugby_union_system#Levels_3-5:_National_Leagues" title="English rugby union system">National Leagues</a></li>
+<li><a href="/wiki/London_and_South_East_Division_Rugby_Football_Union" title="London and South East Division Rugby Football Union">London and SE Division</a></li>
+<li><a href="/wiki/Rugby_Football_Union_Northern_Division" title="Rugby Football Union Northern Division">Northern Division</a></li>
+<li><a href="/wiki/Rugby_Football_Union_Midland_Division" title="Rugby Football Union Midland Division">Midland Division</a></li>
+<li><a href="/wiki/Rugby_Football_Union_South_West_Division" title="Rugby Football Union South West Division">South West Division</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:white; color:darkblue; border:1px solid red">Women's</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Premier_15s" title="Premier 15s">Premier 15s</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background:white; color:darkblue; border:1px solid red;width:1%">European competitions</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Rugby_Champions_Cup" title="European Rugby Champions Cup">European Rugby Champions Cup</a></li>
+<li><a href="/wiki/European_Rugby_Challenge_Cup" title="European Rugby Challenge Cup">European Rugby Challenge Cup</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:white; color:darkblue; border:1px solid red;width:1%">National competitions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Premiership_Rugby" title="Premiership Rugby">Gallagher Premiership</a></li>
+<li><a href="/wiki/Premiership_Rugby_Cup" title="Premiership Rugby Cup">Premiership Cup</a></li>
+<li><a href="/wiki/RFU_Championship" title="RFU Championship">Greene King IPA Championship</a></li>
+<li><a href="/wiki/RFU_Championship_Cup" title="RFU Championship Cup">Championship Cup</a></li>
+<li><a href="/wiki/National_League_1" title="National League 1">National League 1</a></li>
+<li><a href="/wiki/National_League_2_North" title="National League 2 North">National League 2 North</a></li>
+<li><a href="/wiki/National_League_2_South" title="National League 2 South">National League 2 South</a></li>
+<li><a href="/wiki/RFU_Intermediate_Cup" title="RFU Intermediate Cup">RFU Intermediate Cup</a></li>
+<li><a href="/wiki/RFU_Senior_Vase" title="RFU Senior Vase">RFU Senior Vase</a></li>
+<li><a href="/wiki/RFU_Junior_Vase" title="RFU Junior Vase">RFU Junior Vase</a></li>
+<li><a href="/wiki/Premiership_Rugby_Sevens_Series" title="Premiership Rugby Sevens Series">Premiership Rugby Sevens Series</a></li>
+<li><a href="/wiki/Women%27s_Premiership" title="Women&#39;s Premiership">Women's Premiership</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:white; color:darkblue; border:1px solid red;width:1%">London and South East <br /> competitions</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/London_%26_South_East_Premier" title="London &amp; South East Premier">London &amp; South East Premier</a></li>
+<li><a href="/wiki/London_1_North" title="London 1 North">London 1 North</a></li>
+<li><a href="/wiki/London_1_South" title="London 1 South">London 1 South</a></li>
+<li><a href="/wiki/London_2_North_East" title="London 2 North East">London 2 North East</a></li>
+<li><a href="/wiki/London_2_North_West" title="London 2 North West">London 2 North West</a></li>
+<li><a href="/wiki/London_2_South_East" title="London 2 South East">London 2 South East</a></li>
+<li><a href="/wiki/London_2_South_West" title="London 2 South West">London 2 South West</a></li>
+<li><a href="/wiki/London_3_North_West" title="London 3 North West">London 3 North West</a></li>
+<li><a href="/wiki/London_3_South_East" title="London 3 South East">London 3 South East</a></li>
+<li><a href="/wiki/London_3_South_West" title="London 3 South West">London 3 South West</a></li>
+<li><a href="/wiki/London_3_Eastern_Counties" title="London 3 Eastern Counties">London 3 Eastern Counties</a></li>
+<li><a href="/wiki/London_3_Essex" title="London 3 Essex">London 3 Essex</a></li>
+<li><a href="/wiki/Eastern_Counties_1" title="Eastern Counties 1">Eastern Counties 1</a></li>
+<li><a href="/wiki/Eastern_Counties_2" title="Eastern Counties 2">Eastern Counties 2</a></li>
+<li><a href="/wiki/Eastern_Counties_3" title="Eastern Counties 3">Eastern Counties 3</a></li>
+<li><a href="/wiki/Essex_Canterbury_Jack_1" title="Essex Canterbury Jack 1">Essex 1</a></li>
+<li><a href="/wiki/Hampshire_Premier" title="Hampshire Premier">Hampshire Premier</a></li>
+<li><a href="/wiki/Hampshire_1" title="Hampshire 1">Hampshire 1</a></li>
+<li><a href="/wiki/Hampshire_2" title="Hampshire 2">Hampshire 2</a></li>
+<li><a href="/wiki/Hampshire_Rugby_Football_Union#County_club_competitions" title="Hampshire Rugby Football Union">Hampshire Cups</a></li>
+<li><a href="/wiki/Herts/Middlesex_1" title="Herts/Middlesex 1">Herts/Middlesex 1</a></li>
+<li><a href="/wiki/Herts/Middlesex_2" title="Herts/Middlesex 2">Herts/Middlesex 2</a></li>
+<li><a href="/wiki/Hertfordshire_Rugby_Football_Union#County_club_competitions" title="Hertfordshire Rugby Football Union">Hertfordshire Cups</a></li>
+<li><a href="/wiki/Middlesex_Rugby_Football_Union#County_club_competitions" title="Middlesex Rugby Football Union">Middlesex Cups</a></li>
+<li><a href="/wiki/Shepherd_Neame_Kent_1" title="Shepherd Neame Kent 1">Kent 1</a></li>
+<li><a href="/wiki/Shepherd_Neame_Kent_2" title="Shepherd Neame Kent 2">Kent 2</a></li>
+<li><a href="/wiki/Kent_Rugby_Football_Union#County_club_competitions" title="Kent Rugby Football Union">Kent Cups</a></li>
+<li><a href="/wiki/Surrey_1" title="Surrey 1">Surrey 1</a></li>
+<li><a href="/wiki/Surrey_2" title="Surrey 2">Surrey 2</a></li>
+<li><a href="/wiki/Surrey_3" title="Surrey 3">Surrey 3</a></li>
+<li><a href="/wiki/Surrey_4" title="Surrey 4">Surrey 4</a></li>
+<li><a href="/wiki/Surrey_Rugby_Football_Union#County_club_competitions" title="Surrey Rugby Football Union">Surrey Cups</a></li>
+<li><a href="/wiki/Sussex_1" title="Sussex 1">Sussex 1</a></li>
+<li><a href="/wiki/Sussex_Rugby_Football_Union#County_club_competitions" title="Sussex Rugby Football Union">Sussex Cups</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:white; color:darkblue; border:1px solid red;width:1%">Midland competitions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Midlands_Premier" title="Midlands Premier">Midlands Premier</a></li>
+<li><a href="/wiki/Midlands_1_West" title="Midlands 1 West">Midlands 1 West</a></li>
+<li><a href="/wiki/Midlands_1_East" title="Midlands 1 East">Midlands 1 East</a></li>
+<li><a href="/wiki/Midlands_2_West_(North)" title="Midlands 2 West (North)">Midlands 2 West (North)</a></li>
+<li><a href="/wiki/Midlands_2_West_(South)" title="Midlands 2 West (South)">Midlands 2 West (South)</a></li>
+<li><a href="/wiki/Midlands_2_East_(North)" title="Midlands 2 East (North)">Midlands 2 East (North)</a></li>
+<li><a href="/wiki/Midlands_2_East_(South)" title="Midlands 2 East (South)">Midlands 2 East (South)</a></li>
+<li><a href="/wiki/Midlands_3_West_(North)" title="Midlands 3 West (North)">Midlands 3 West (North)</a></li>
+<li><a href="/wiki/Midlands_3_West_(South)" title="Midlands 3 West (South)">Midlands 3 West (South)</a></li>
+<li><a href="/wiki/Midlands_3_East_(North)" title="Midlands 3 East (North)">Midlands 3 East (North)</a></li>
+<li><a href="/wiki/Midlands_3_East_(South)" title="Midlands 3 East (South)">Midlands 3 East (South)</a></li>
+<li><a href="/wiki/Midlands_4_West_(North)" title="Midlands 4 West (North)">Midlands 4 West (North)</a></li>
+<li><a href="/wiki/Midlands_4_West_(South)" title="Midlands 4 West (South)">Midlands 4 West (South)</a></li>
+<li><a href="/wiki/Midlands_4_East_(North)" title="Midlands 4 East (North)">Midlands 4 East (North)</a></li>
+<li><a href="/wiki/Midlands_4_East_(South)" title="Midlands 4 East (South)">Midlands 4 East (South)</a></li>
+<li><a href="/wiki/Midlands_5_West_(North)" title="Midlands 5 West (North)">Midlands 5 West (North)</a></li>
+<li><a href="/wiki/Midlands_5_West_(South)" title="Midlands 5 West (South)">Midlands 5 West (South)</a></li>
+<li><a href="/wiki/Leicestershire_Rugby_Union#County_club_competitions" title="Leicestershire Rugby Union">Leicestershire Cups</a></li>
+<li><a href="/wiki/North_Midlands_Rugby_Football_Union#County_club_competitions" title="North Midlands Rugby Football Union">North Midlands Cups</a></li>
+<li><a href="/wiki/Staffordshire_Rugby_Union#County_club_competitions" title="Staffordshire Rugby Union">Staffordshire Cups</a></li>
+<li><a href="/wiki/Warwickshire_Rugby_Football_Union#County_club_competitions" title="Warwickshire Rugby Football Union">Warwickshire Cups</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:white; color:darkblue; border:1px solid red;width:1%">Northern competitions</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/North_Premier" title="North Premier">North Premier</a></li>
+<li><a href="/wiki/North_1_East" title="North 1 East">North 1 East</a></li>
+<li><a href="/wiki/North_1_West" title="North 1 West">North 1 West</a></li>
+<li><a href="/wiki/Lancs/Cheshire_Division_1" title="Lancs/Cheshire Division 1">Lancs/Cheshire Division 1</a></li>
+<li><a href="/wiki/Lancs/Cheshire_Division_2" title="Lancs/Cheshire Division 2">Lancs/Cheshire Division 2</a></li>
+<li><a href="/wiki/Lancs/Cheshire_Division_3" title="Lancs/Cheshire Division 3">Lancs/Cheshire Division 3</a></li>
+<li><a href="/wiki/Cheshire_Rugby_Football_Union#County_club_competitions" title="Cheshire Rugby Football Union">Cheshire Cups</a></li>
+<li><a href="/wiki/Lancashire_County_Rugby_Football_Union#County_club_competitions" title="Lancashire County Rugby Football Union">Lancashire Cups</a></li>
+<li><a href="/wiki/Cumbria_1" title="Cumbria 1">Cumbria 1</a></li>
+<li><a href="/wiki/Cumbria_2" title="Cumbria 2">Cumbria 2</a></li>
+<li><a href="/wiki/Cumbria_Rugby_Union#County_club_competitions" title="Cumbria Rugby Union">Cumbria Cups</a></li>
+<li><a href="/wiki/Durham/Northumberland_1" title="Durham/Northumberland 1">Durham/Northumberland 1</a></li>
+<li><a href="/wiki/Durham/Northumberland_2" title="Durham/Northumberland 2">Durham/Northumberland 2</a></li>
+<li><a href="/wiki/Durham/Northumberland_3" title="Durham/Northumberland 3">Durham/Northumberland 3</a></li>
+<li><a href="/wiki/Durham_County_Rugby_Football_Union#County_club_competitions" title="Durham County Rugby Football Union">Durham Cups</a></li>
+<li><a href="/wiki/Northumberland_Rugby_Football_Union#County_club_competitions" title="Northumberland Rugby Football Union">Northumberland Cups</a></li>
+<li><a href="/wiki/Yorkshire_1" title="Yorkshire 1">Yorkshire 1</a></li>
+<li><a href="/wiki/Yorkshire_2" title="Yorkshire 2">Yorkshire 2</a></li>
+<li><a href="/wiki/Yorkshire_3" title="Yorkshire 3">Yorkshire 3</a></li>
+<li><a href="/wiki/Yorkshire_4" title="Yorkshire 4">Yorkshire 4</a></li>
+<li><a href="/wiki/Yorkshire_Rugby_Football_Union#County_club_competitions" title="Yorkshire Rugby Football Union">Yorkshire Cups</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:white; color:darkblue; border:1px solid red;width:1%">South West competitions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/South_West_Premier" title="South West Premier">South West Premier</a></li>
+<li><a href="/wiki/South_West_1_East" title="South West 1 East">South West 1 East</a></li>
+<li><a href="/wiki/Tribute_South_West_1_West" title="Tribute South West 1 West">South West 1 West</a></li>
+<li><a href="/wiki/Southern_Counties_North" title="Southern Counties North">Southern Counties North</a></li>
+<li><a href="/wiki/Southern_Counties_South" title="Southern Counties South">Southern Counties South</a></li>
+<li><a href="/wiki/Tribute_Western_Counties_North" title="Tribute Western Counties North">Western Counties North</a></li>
+<li><a href="/wiki/Tribute_Western_Counties_West" title="Tribute Western Counties West">Western Counties West</a></li>
+<li><a href="/wiki/Tribute_Cornwall/Devon" title="Tribute Cornwall/Devon">Cornwall/Devon</a></li>
+<li><a href="/wiki/Cornwall_League_1" title="Cornwall League 1">Cornwall 1</a></li>
+<li><a href="/wiki/Cornwall_League_2" title="Cornwall League 2">Cornwall 2</a></li>
+<li><a href="/wiki/Rugby_union_in_Cornwall#County_club_competitions" title="Rugby union in Cornwall">Cornwall Cups</a></li>
+<li><a href="/wiki/Devon_League_1" title="Devon League 1">Devon 1</a></li>
+<li><a href="/wiki/Devon_Rugby_Football_Union#County_club_competitions" title="Devon Rugby Football Union">Devon Cups</a></li>
+<li><a href="/wiki/Gloucester_Premier" title="Gloucester Premier">Gloucester Premier</a></li>
+<li><a href="/wiki/Gloucester_1" title="Gloucester 1">Gloucester 1</a></li>
+<li><a href="/wiki/Gloucester_2" title="Gloucester 2">Gloucester 2 North</a></li>
+<li><a href="/wiki/Gloucester_2" title="Gloucester 2">Gloucester 2 South</a></li>
+<li><a href="/wiki/Gloucestershire_Rugby_Football_Union#County_club_competitions" title="Gloucestershire Rugby Football Union">Gloucestershire Cups</a></li>
+<li><a href="/wiki/Tribute_Somerset_Premier" title="Tribute Somerset Premier">Somerset Premier</a></li>
+<li>Somerset 1</li>
+<li>Somerset 2 North</li>
+<li>Somerset 2 South</li>
+<li>Somerset 3 North</li>
+<li>Somerset 3 South</li>
+<li><a href="/wiki/Somerset_Rugby_Football_Union#County_club_competitions" title="Somerset Rugby Football Union">Somerset Cups</a></li>
+<li><a href="/wiki/Berks/Bucks_%26_Oxon_Premier" title="Berks/Bucks &amp; Oxon Premier">Berks/Bucks &amp; Oxon Premier</a></li>
+<li><a href="/wiki/Berks/Bucks_%26_Oxon_Championship" title="Berks/Bucks &amp; Oxon Championship">Berks/Bucks &amp; Oxon Championship</a></li>
+<li><a href="/wiki/Oxfordshire_Rugby_Football_Union#County_club_competitions" title="Oxfordshire Rugby Football Union">Oxfordshire Cups</a></li>
+<li><a href="/wiki/Dorset_%26_Wilts_1_North" title="Dorset &amp; Wilts 1 North">Dorset &amp; Wilts 1 North</a></li>
+<li><a href="/wiki/Dorset_%26_Wilts_1_South" title="Dorset &amp; Wilts 1 South">Dorset &amp; Wilts 1 South</a></li>
+<li><a href="/wiki/Dorset_%26_Wilts_2_North" title="Dorset &amp; Wilts 2 North">Dorset &amp; Wilts 2 North</a></li>
+<li><a href="/wiki/Dorset_%26_Wilts_2_South" title="Dorset &amp; Wilts 2 South">Dorset &amp; Wilts 2 South</a></li>
+<li><a href="/wiki/Dorset_%26_Wilts_3_North" title="Dorset &amp; Wilts 3 North">Dorset &amp; Wilts 3 North</a></li>
+<li><a href="/wiki/Dorset_%26_Wilts_3_South" title="Dorset &amp; Wilts 3 South">Dorset &amp; Wilts 3 South</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:white; color:darkblue; border:1px solid red;width:1%">County competitions</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/County_Championship_(rugby_union)" title="County Championship (rugby union)">Division 1</a></li>
+<li><a href="/wiki/Bill_Beaumont_County_Championship_Division_2" title="Bill Beaumont County Championship Division 2">Division 2</a></li>
+<li><a href="/wiki/Bill_Beaumont_County_Championship_Division_3" title="Bill Beaumont County Championship Division 3">Division 3</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:white; color:darkblue; border:1px solid red;width:1%">Related articles</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_England_national_rugby_union_players" title="List of England national rugby union players">International players</a></li>
+<li><a href="/wiki/List_of_English_rugby_union_teams" title="List of English rugby union teams">Clubs</a></li>
+<li><a href="/wiki/Churchill_Cup" title="Churchill Cup">Churchill Cup</a></li>
+<li><a href="/wiki/Calcutta_Cup" title="Calcutta Cup">Calcutta Cup</a></li>
+<li><a href="/wiki/Millennium_Trophy" title="Millennium Trophy">Millennium Trophy</a></li>
+<li><a href="/wiki/Cook_Cup" title="Cook Cup">Cook Cup</a></li>
+<li><a href="/wiki/Hillary_Shield" title="Hillary Shield">Hillary Shield</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1249
+Cached time: 20190929083636
+Cache expiry: 86400
+Dynamic content: true
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.304 seconds
+Real time usage: 0.512 seconds
+Preprocessor visited node count: 1220/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 101226/2097152 bytes
+Template argument size: 934/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1872/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.120/10.000 seconds
+Lua memory usage: 5.03 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  392.381      1 -total
+ 20.91%   82.060      1 Template:More_citations_needed
+ 18.25%   71.629      1 Template:2019–20_National_League_2_North
+ 17.29%   67.830      1 Template:Cite_web
+ 17.22%   67.578      6 Template:Navbox
+ 16.37%   64.240      1 Template:Ambox
+ 16.01%   62.822      1 Template:Infobox_rugby_team
+ 15.07%   59.144      1 Template:National_League_2_North
+ 14.89%   58.407      1 Template:Infobox
+  7.36%   28.877      1 Template:Convert
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18596181-0!canonical and timestamp 20190929083635 and revision id 899314731
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Huddersfield_R.U.F.C.&amp;oldid=899314731">https://en.wikipedia.org/w/index.php?title=Huddersfield_R.U.F.C.&amp;oldid=899314731</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:English_rugby_union_teams" title="Category:English rugby union teams">English rugby union teams</a></li><li><a href="/wiki/Category:Rugby_clubs_established_in_1909" title="Category:Rugby clubs established in 1909">Rugby clubs established in 1909</a></li><li><a href="/wiki/Category:Sport_in_Huddersfield" title="Category:Sport in Huddersfield">Sport in Huddersfield</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2010" title="Category:Articles needing additional references from February 2010">Articles needing additional references from February 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Use_British_English_from_June_2014" title="Category:Use British English from June 2014">Use British English from June 2014</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_June_2014" title="Category:Use dmy dates from June 2014">Use dmy dates from June 2014</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Huddersfield+R.U.F.C." title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Huddersfield+R.U.F.C." title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Huddersfield_R.U.F.C." title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Huddersfield_R.U.F.C." rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Huddersfield_R.U.F.C.">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Huddersfield_R.U.F.C.&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Huddersfield_R.U.F.C.&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Huddersfield_R.U.F.C." title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Huddersfield_R.U.F.C." rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Huddersfield_R.U.F.C.&amp;oldid=899314731" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Huddersfield_R.U.F.C.&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5928274" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Huddersfield_R.U.F.C.&amp;id=899314731" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Huddersfield+R.U.F.C.">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Huddersfield+R.U.F.C.&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Huddersfield_R.U.F.C.&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5928274#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 29 May 2019, at 07:16<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Huddersfield_R.U.F.C.&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.304","walltime":"0.512","ppvisitednodes":{"value":1220,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":101226,"limit":2097152},"templateargumentsize":{"value":934,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1872,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  392.381      1 -total"," 20.91%   82.060      1 Template:More_citations_needed"," 18.25%   71.629      1 Template:2019–20_National_League_2_North"," 17.29%   67.830      1 Template:Cite_web"," 17.22%   67.578      6 Template:Navbox"," 16.37%   64.240      1 Template:Ambox"," 16.01%   62.822      1 Template:Infobox_rugby_team"," 15.07%   59.144      1 Template:National_League_2_North"," 14.89%   58.407      1 Template:Infobox","  7.36%   28.877      1 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"10.000"},"limitreport-memusage":{"value":5276143,"limit":52428800}},"cachereport":{"origin":"mw1249","timestamp":"20190929083636","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Huddersfield R.U.F.C.","url":"https:\/\/en.wikipedia.org\/wiki\/Huddersfield_R.U.F.C.","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5928274","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5928274","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-07-26T19:44:19Z","dateModified":"2019-05-29T07:16:40Z","headline":"rugby union club in Huddersfield, England"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":132,"wgHostname":"mw1249"});});</script>
+</body>
+</html>
+

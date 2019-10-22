@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Honley - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Honley","wgTitle":"Honley","wgCurRevisionId":917110109,"wgRevisionId":917110109,"wgArticleId":929895,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Use dmy dates from July 2013","Use British English from July 2014","Articles with OS grid coordinates","Coordinates on Wikidata","Commons category link is on Wikidata","Kirklees","Holme Valley","Geography of Holmfirth","Villages in West Yorkshire","Towns and villages of the Peak District"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November",
+"December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Honley","wgRelevantArticleId":929895,"wgRequestId":"XYrRIwpAMEsAAL2@9koAAACV","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":53.6027,"lon":-1.7921},"wgWikibaseItemId":"Q11710053","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":
+"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Honley_centre_0307.jpg/1200px-Honley_centre_0307.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Honley"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Honley&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Honley&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Honley"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Honley rootpage-Honley skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Honley</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox geography vcard" style="width:22em;width:23em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold;font-size:1.25em; white-space:nowrap">Honley</th></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"><a href="/wiki/File:Honley_centre_0307.jpg" class="image"><img alt="Honley centre 0307.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Honley_centre_0307.jpg/240px-Honley_centre_0307.jpg" decoding="async" width="240" height="169" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Honley_centre_0307.jpg/360px-Honley_centre_0307.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Honley_centre_0307.jpg/480px-Honley_centre_0307.jpg 2x" data-file-width="3774" data-file-height="2662" /></a><br />Honley village centre</td></tr><tr><td colspan="2" style="text-align:center"><div class="center"><div style="width:240px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:240px;padding:0"><div style="position:relative;width:240px"><a href="/wiki/File:West_Yorkshire_UK_location_map.svg" class="image" title="Honley is located in West Yorkshire"><img alt="Honley is located in West Yorkshire" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/240px-West_Yorkshire_UK_location_map.svg.png" decoding="async" width="240" height="175" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/360px-West_Yorkshire_UK_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/480px-West_Yorkshire_UK_location_map.svg.png 2x" data-file-width="1425" data-file-height="1039" /></a><div style="position:absolute;top:78.604%;left:45.348%"><div style="position:absolute;left:-3px;top:-3px;line-height:0"><img alt="Honley" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/6px-Red_pog.svg.png" decoding="async" title="Honley" width="6" height="6" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/9px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div><div style="font-size:90%;line-height:110%;position:absolute;width:6em;top:-0.75em;left:4px;text-align:left"><div style="display:inline;padding:1px;float:left">Honley</div></div></div></div><div>Location within <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></div></div></div></div></td></tr><tr><th scope="row" style="width: 40%">Population</th><td>5,897&#160;(2001 Census)</td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/Ordnance_Survey_National_Grid" title="Ordnance Survey National Grid">OS&#160;grid&#160;reference</a></th><td><span class="plainlinks nourlexpansion"><span class="plainlinks nourlexpansion" style="white-space: nowrap"><a class="external text" href="https://tools.wmflabs.org/geohack/en/53.602587958258;-1.7944438208935_region:GB_scale:25000?pagename=Honley">SE137118</a></span></span></td></tr><tr class="mergedbottomrow"><th scope="row" style="width: 40%">•&#160;<a href="/wiki/London" title="London">London</a></th><td>160&#160;mi (260&#160;km)&#160;<a href="/wiki/Boxing_the_compass" class="mw-redirect" title="Boxing the compass">SSE</a></td></tr><tr><th scope="row" style="width: 40%"><a href="/wiki/Civil_parishes_in_England" class="mw-redirect" title="Civil parishes in England">Civil parish</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Holme_Valley" title="Holme Valley">Holme Valley</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Districts_of_England" title="Districts of England">Metropolitan&#160;borough</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Kirklees" title="Kirklees">Kirklees</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Metropolitan_and_non-metropolitan_counties_of_England" title="Metropolitan and non-metropolitan counties of England">Metropolitan&#160;county</a></th><td><div class="plainlist"><ul><li><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></li></ul></div></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Regions_of_England" title="Regions of England">Region</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Yorkshire_and_the_Humber" title="Yorkshire and the Humber">Yorkshire and the Humber</a></li></ul></div></td></tr><tr class="mergedrow adr"><th scope="row" style="width: 40%"><a href="/wiki/Countries_of_the_United_Kingdom" title="Countries of the United Kingdom">Country</a></th><td><span class="country-name"><a href="/wiki/England" title="England">England</a></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_sovereign_states" title="List of sovereign states">Sovereign&#160;state</a></th><td><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/Post_town" title="Post town">Post town</a></th><td><span style="font-size:80%;"><span class="allcaps" style="text-transform:uppercase;">HOLMFIRTH</span></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Postcodes_in_the_United_Kingdom" title="Postcodes in the United Kingdom">Postcode&#160;district</a></th><td><span style="font-size:100%;"><a href="/wiki/HD_postcode_area" title="HD postcode area">HD9</a></span></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/Telephone_numbers_in_the_United_Kingdom" title="Telephone numbers in the United Kingdom">Dialling&#160;code</a></th><td><span style="font-size:100%;">01484</span></td></tr><tr class="mergedtoprow"><td colspan="2" style="text-align:center"></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/List_of_law_enforcement_agencies_in_the_United_Kingdom" class="mw-redirect" title="List of law enforcement agencies in the United Kingdom">Police</a></th><td><a href="/wiki/West_Yorkshire_Police" title="West Yorkshire Police">West Yorkshire</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Fire_services_in_the_United_Kingdom" title="Fire services in the United Kingdom">Fire</a></th><td><a href="/wiki/West_Yorkshire_Fire_and_Rescue_Service" title="West Yorkshire Fire and Rescue Service">West Yorkshire</a></td></tr><tr class="mergedrow"><th scope="row"><a href="/wiki/Emergency_medical_services_in_the_United_Kingdom" title="Emergency medical services in the United Kingdom">Ambulance</a></th><td><a href="/wiki/Yorkshire_Ambulance_Service" title="Yorkshire Ambulance Service">Yorkshire</a></td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr class="mergedtoprow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_members_of_the_European_Parliament_for_the_United_Kingdom,_2019%E2%80%9324" title="List of members of the European Parliament for the United Kingdom, 2019–24">EU&#160;Parliament</a></th><td><a href="/wiki/Yorkshire_and_the_Humber_(European_Parliament_constituency)" title="Yorkshire and the Humber (European Parliament constituency)">Yorkshire and the Humber</a></td></tr><tr class="mergedrow"><th scope="row" style="width: 40%"><a href="/wiki/List_of_United_Kingdom_Parliament_constituencies" class="mw-redirect" title="List of United Kingdom Parliament constituencies">UK&#160;Parliament</a></th><td><div class="plainlist"><ul><li><a href="/wiki/Colne_Valley_(UK_Parliament_constituency)" title="Colne Valley (UK Parliament constituency)">Colne Valley</a></li></ul></div></td></tr><tr><td colspan="2" class="hlist noprint nowrap" style="text-align:center;border-top: 1px solid #aaa; padding-top: 3px; font-size:85%;">
+<dl><dt><span style="font-weight:normal;">List of places</span></dt>
+<dd><a href="/wiki/List_of_United_Kingdom_locations" title="List of United Kingdom locations">UK</a></dd>
+<dd><a href="/wiki/List_of_places_in_England" title="List of places in England">England</a></dd>
+<dd><a href="/wiki/List_of_places_in_Yorkshire" title="List of places in Yorkshire">Yorkshire</a></dd></dl>
+<span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Honley&amp;params=53.6027_N_1.7921_W_region:GB_type:city(5897)"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°36′10″N</span> <span class="longitude">1°47′32″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6027°N 1.7921°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6027; -1.7921</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Honley&amp;params=53.6027_N_1.7921_W_region:GB_type:city(5897)"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°36′10″N</span> <span class="longitude">1°47′32″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.6027°N 1.7921°W</span><span style="display:none">&#xfeff; / <span class="geo">53.6027; -1.7921</span></span></span></a></span></span></span></td></tr></tbody></table>
+<p><b>Honley</b> is a large village in <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, England. <a href="/wiki/Historic_counties_of_England" title="Historic counties of England">Historically</a> part of the <a href="/wiki/West_Riding_of_Yorkshire" title="West Riding of Yorkshire">West Riding of Yorkshire</a>, it is situated near to <a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a> and <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, and on the banks of the <a href="/wiki/River_Holme" title="River Holme">River Holme</a> in the <a href="/wiki/Holme_Valley" title="Holme Valley">Holme Valley</a>. According to the <a href="/wiki/United_Kingdom_Census_2011" class="mw-redirect" title="United Kingdom Census 2011">2011 Census</a> it had a population of 6,474, a growth of 577 from the <a href="/wiki/United_Kingdom_Census_2001" class="mw-redirect" title="United Kingdom Census 2001">2001 Census</a> 
+</p>
+<h2><span class="mw-headline" id="Community">Community</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honley&amp;action=edit&amp;section=1" title="Edit section: Community">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The annual Honley Agricultural Show<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> takes place on the second Saturday of June. The show has used farmland between Honley and <a href="/wiki/Meltham" title="Meltham">Meltham</a>, and more recently farmland in <a href="/wiki/Farnley_Tyas" title="Farnley Tyas">Farnley Tyas</a>. Honley has both female and male voice choirs.
+</p><p>There are three schools in the village. Honley Infant and Nursery School for ages 3–7, Honley Junior School for ages 7–11 and <a href="/wiki/Honley_High_School" title="Honley High School">Honley High School</a> which after abolishing its sixth form college is now for ages 11–16.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Transport">Transport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honley&amp;action=edit&amp;section=2" title="Edit section: Transport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Rail">Rail</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honley&amp;action=edit&amp;section=3" title="Edit section: Rail">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Honley_railway_station" title="Honley railway station">Honley railway station</a> opened on 1 July 1850, on the <a href="/wiki/Penistone_Line" title="Penistone Line">Penistone Line</a>. It connects the village to <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a> and <a href="/wiki/Sheffield" title="Sheffield">Sheffield</a> with an hourly service.
+</p>
+<h3><span class="mw-headline" id="Bus">Bus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honley&amp;action=edit&amp;section=4" title="Edit section: Bus">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>There are regular bus services to <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, <a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a> and <a href="/wiki/Meltham" title="Meltham">Meltham</a>. Most bus services are operated by the <a href="/wiki/First_West_Yorkshire" title="First West Yorkshire">First West Yorkshire</a> and <a href="/wiki/Yorkshire_Tiger#Tiger_Blue" title="Yorkshire Tiger">Tiger Blue</a> who are based in the railway station's former goods yard.
+</p>
+<h2><span class="mw-headline" id="Church">Church</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honley&amp;action=edit&amp;section=5" title="Edit section: Church">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Parish_church" title="Parish church">parish church</a> is St Mary's, a Grade II <a href="/wiki/Listed_building" title="Listed building">listed</a> mostly <a href="/wiki/Victorian_architecture" title="Victorian architecture">Victorian</a> church, constructed in 1843 by <a href="/wiki/Robert_Dennis_Chantrell" title="Robert Dennis Chantrell">Robert Dennis Chantrell</a>, with later additions in 1888 and 1909.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> The church was built on the remains of an earlier church, known as 'Old Peg' built in 1759. It is surrounded by a burial ground containing inscribed tombstones<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>  with remnants of a set of village <a href="/wiki/Stocks" title="Stocks">stocks</a>. Though an earlier building was possibly constructed in 1503.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Sport">Sport</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honley&amp;action=edit&amp;section=6" title="Edit section: Sport">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Honley F.C. fields junior teams at under-6 level to under-17 levels. The teams play in the Huddersfield Junior Football League,<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> and play competitive seven-a-side matches from under-7s to under-10s and eleven-a-side matches from under-11s to under-17s.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> An adult side with three teams plays in the <a href="/wiki/Huddersfield_and_District_Association_Football_League" title="Huddersfield and District Association Football League">Huddersfield and District Association Football League</a>. The 'A' team is in the second division, the 'B' team in reserve division one, and the 'C' team in reserve division three.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>On 6 July 2014, Stage 2 of the 2014 <a href="/wiki/Tour_de_France" title="Tour de France">Tour de France</a> from York to Sheffield, passed through the village.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Notable_people">Notable people</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honley&amp;action=edit&amp;section=7" title="Edit section: Notable people">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>General, Sir <a href="/wiki/Clement_Armitage" title="Clement Armitage">Clement Armitage</a>, <a href="/wiki/General_Officer_Commanding" class="mw-redirect" title="General Officer Commanding">General Officer Commanding</a> <a href="/wiki/1st_Infantry_Division_(United_Kingdom)" title="1st Infantry Division (United Kingdom)">1st Infantry Division</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup></li>
+<li><a href="/wiki/Biff_Byford" title="Biff Byford">Biff Byford</a>, <a href="/wiki/Singer" class="mw-redirect" title="Singer">singer</a> with <a href="/wiki/Heavy_metal_music" title="Heavy metal music">heavy metal</a> band <a href="/wiki/Saxon_(band)" title="Saxon (band)">Saxon</a>.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup></li>
+<li><a href="/w/index.php?title=Alonza_Drake_(Yorkshire_County_Cricketer,_born_c.1885_d._14th_Feb_1919)_Buried_in_Honley_Cemetery&amp;action=edit&amp;redlink=1" class="new" title="Alonza Drake (Yorkshire County Cricketer, born c.1885 d. 14th Feb 1919) Buried in Honley Cemetery (page does not exist)">Alonza Drake (Yorkshire County Cricketer, born c.1885 d. 14th Feb 1919) Buried in Honley Cemetery</a>.</li>
+<li><a href="/wiki/John_Dyson_(cricketer,_born_1913)" title="John Dyson (cricketer, born 1913)">John Dyson</a> (1913&#8211;1991), first-class cricketer</li>
+<li><a href="/w/index.php?title=Mary_A_Jagger,_(1849-1936),_Author_of_The_History_of_Honley_published_in_1914._She_was_also_the_first_woman_Postmistress_in_England&amp;action=edit&amp;redlink=1" class="new" title="Mary A Jagger, (1849-1936), Author of The History of Honley published in 1914. She was also the first woman Postmistress in England (page does not exist)">Mary A Jagger, (1849-1936), Author of The History of Honley published in 1914. She was also the first woman Postmistress in England</a>.</li>
+<li><a href="/wiki/France_Littlewood" title="France Littlewood">France Littlewood</a> (1863&#8211;1941), was a <a href="/wiki/Socialist" class="mw-redirect" title="Socialist">socialist</a> activist.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup></li>
+<li>Captain <a href="/wiki/Sydney_Liversedge" title="Sydney Liversedge">Sydney Liversedge</a> (1897&#8211;1979), <a href="/wiki/First_World_War" class="mw-redirect" title="First World War">First World War</a> <a href="/wiki/Flying_ace" title="Flying ace">flying ace</a>, was born in Honley.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup></li>
+<li><a href="/wiki/Dora_Thewlis" title="Dora Thewlis">Dora Thewlis</a> (1880&#8211;1976), suffragette, was born in Honley.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup></li>
+<li><a href="/wiki/David_Bintley" title="David Bintley">David Bintley</a> Director of the Birmingham Royal Ballet and Artistic Director of the National Ballet of Japan. Born in Honley and former head of Maths at <a href="/wiki/Honley_High_School" title="Honley High School">Honley High School</a>.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup></li>
+<li><a href="/wiki/Jon_Stead" title="Jon Stead">Jon Stead</a>, Professional Footballer currently playing for <a href="/wiki/Notts_County" class="mw-redirect" title="Notts County">Notts County</a>.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup></li></ul>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honley&amp;action=edit&amp;section=8" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:52.5px auto;"><a href="/wiki/File:Honley,_Huddersfield.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Honley%2C_Huddersfield.jpg/120px-Honley%2C_Huddersfield.jpg" decoding="async" width="120" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Honley%2C_Huddersfield.jpg/180px-Honley%2C_Huddersfield.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Honley%2C_Huddersfield.jpg/240px-Honley%2C_Huddersfield.jpg 2x" data-file-width="1024" data-file-height="385" /></a></div></div>
+			<div class="gallerytext">
+<p>Village viewed from the railway line to Brockholes
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:52.5px auto;"><a href="/wiki/File:Honley_Viewed_from_Oldfield_Road_(RLH).JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Honley_Viewed_from_Oldfield_Road_%28RLH%29.JPG/120px-Honley_Viewed_from_Oldfield_Road_%28RLH%29.JPG" decoding="async" width="120" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Honley_Viewed_from_Oldfield_Road_%28RLH%29.JPG/180px-Honley_Viewed_from_Oldfield_Road_%28RLH%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Honley_Viewed_from_Oldfield_Road_%28RLH%29.JPG/240px-Honley_Viewed_from_Oldfield_Road_%28RLH%29.JPG 2x" data-file-width="2281" data-file-height="856" /></a></div></div>
+			<div class="gallerytext">
+<p>Honley viewed from Oldfield Road. Castle Hill is seen top right with Huddersfield in the distance. Central to the picture is Berry Brow &amp; Newsome
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:31px auto;"><a href="/wiki/File:Honley_stocks_312.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Honley_stocks_312.jpg/120px-Honley_stocks_312.jpg" decoding="async" width="120" height="88" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Honley_stocks_312.jpg/180px-Honley_stocks_312.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Honley_stocks_312.jpg/240px-Honley_stocks_312.jpg 2x" data-file-width="3380" data-file-height="2492" /></a></div></div>
+			<div class="gallerytext">
+<p>Remains of village stocks in St Mary's Churchyard
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:25.5px auto;"><a href="/wiki/File:Honley_(29214442034).jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Honley_%2829214442034%29.jpg/120px-Honley_%2829214442034%29.jpg" decoding="async" width="120" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Honley_%2829214442034%29.jpg/180px-Honley_%2829214442034%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Honley_%2829214442034%29.jpg/240px-Honley_%2829214442034%29.jpg 2x" data-file-width="2441" data-file-height="2021" /></a></div></div>
+			<div class="gallerytext">
+<p>St Mary's Church, peeping above the houses on Church St, Honley
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honley&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.honleyshow.co.uk/">"Honley Show Society Ltd / Honley Show, West Yorkshire"</a>. Honleyshow.co.uk. 12 June 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">21 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Honley+Show+Society+Ltd+%2F+Honley+Show%2C+West+Yorkshire&amp;rft.pub=Honleyshow.co.uk&amp;rft.date=2010-06-12&amp;rft_id=http%3A%2F%2Fwww.honleyshow.co.uk%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonley" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Tuck, Steven (June 2009). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090205181228/http://www2.kirklees.gov.uk/community/education-learning/education-learning.asp">"Kirklees Council"</a>. Kirklees.gov.uk. Archived from <a rel="nofollow" class="external text" href="http://www.kirklees.gov.uk/community/education-learning/education-learning.asp">the original</a> on 5 February 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">21 September</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Kirklees+Council&amp;rft.pub=Kirklees.gov.uk&amp;rft.date=2009-06&amp;rft.aulast=Tuck&amp;rft.aufirst=Steven&amp;rft_id=http%3A%2F%2Fwww.kirklees.gov.uk%2Fcommunity%2Feducation-learning%2Feducation-learning.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite id="CITEREFHistoric_England1313556" class="citation web"><a href="/wiki/Historic_England" title="Historic England">Historic England</a>. <a rel="nofollow" class="external text" href="https://HistoricEngland.org.uk/listing/the-list/list-entry/1313556">"Church of St Mary the Virgin (1313556)"</a>. <i><a href="/wiki/National_Heritage_List_for_England" title="National Heritage List for England">National Heritage List for England</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Heritage+List+for+England&amp;rft.atitle=Church+of+St+Mary+the+Virgin+%281313556%29&amp;rft.au=Historic+England&amp;rft_id=https%3A%2F%2FHistoricEngland.org.uk%2Flisting%2Fthe-list%2Flist-entry%2F1313556&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.honley.ukf.net/cemetery.htm">Honley cemetery inscriptions</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20110108101221/http://www.honley.ukf.net/cemetery.htm">Archived</a> 8 January 2011 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.honleystmary.btik.com/Guide%7CSt">Mary's Church guide</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.huddersfieldjfl.co.uk/">Huddersfield RCD Junior Football League</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hjfc.net/">Honley Junior Football club</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hdafl.org.uk/">Huddersfield &amp; District Association Football League</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140725103415/http://www.letour.com/le-tour/2014/us/stage-2.html">"Tour de France Stage 1"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.letour.com/le-tour/2014/us/stage-2.html">the original</a> on 25 July 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">15 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Tour+de+France+Stage+1&amp;rft_id=http%3A%2F%2Fwww.letour.com%2Fle-tour%2F2014%2Fus%2Fstage-2.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book"><a rel="nofollow" class="external text" href="https://www.ukwhoswho.com/view/article/oupww/whoswho/U151801">"Armitage, Charles Clement"</a>. <i><a href="/wiki/Who%27s_Who_(UK)" title="Who&#39;s Who (UK)">Who's Who</a></i>. <i>ukwhoswho.com</i> (online December 2017 ed.). A &amp; C Black, an imprint of Bloomsbury Publishing plc. 2017. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//doi.org/10.1093%2Fww%2F9780199540884.013.U151801">10.1093/ww/9780199540884.013.U151801</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Armitage%2C+Charles+Clement&amp;rft.btitle=Who%27s+Who&amp;rft.edition=online+December+2017&amp;rft.pub=A+%26+C+Black%2C+an+imprint+of+Bloomsbury+Publishing+plc&amp;rft.date=2017&amp;rft_id=info%3Adoi%2F10.1093%2Fww%2F9780199540884.013.U151801&amp;rft_id=https%3A%2F%2Fwww.ukwhoswho.com%2Fview%2Farticle%2Foupww%2Fwhoswho%2FU151801&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/> <span style="font-size:0.95em; font-size:90%; color:#555">(subscription or <a rel="nofollow" class="external text" href="https://www.ukwhoswho.com/page/subscribe#public">UK public library membership</a> required)</span>
+
+</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation news">Glover, Chloe (30 August 2014). <a rel="nofollow" class="external text" href="https://www.examinerlive.co.uk/news/west-yorkshire-news/saxons-biff-byford-hes-sold-7688558">"Saxon's Biff Byford: He's sold 15 million albums, influenced Metallica and toured the world - but did you know he was from Huddersfield?"</a>. <i>Huddersfield Examiner</i><span class="reference-accessdate">. Retrieved <span class="nowrap">8 December</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Huddersfield+Examiner&amp;rft.atitle=Saxon%27s+Biff+Byford%3A+He%27s+sold+15+million+albums%2C+influenced+Metallica+and+toured+the+world+-+but+did+you+know+he+was+from+Huddersfield%3F&amp;rft.date=2014-08-30&amp;rft.aulast=Glover&amp;rft.aufirst=Chloe&amp;rft_id=https%3A%2F%2Fwww.examinerlive.co.uk%2Fnews%2Fwest-yorkshire-news%2Fsaxons-biff-byford-hes-sold-7688558&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Howell, David (1983). <i>British workers and the Independent Labour Party, 1888-1906</i>. Manchester: Manchester University Press. p.&#160;309. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7190-1791-2" title="Special:BookSources/0-7190-1791-2"><bdi>0-7190-1791-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=British+workers+and+the+Independent+Labour+Party%2C+1888-1906&amp;rft.place=Manchester&amp;rft.pages=309&amp;rft.pub=Manchester+University+Press&amp;rft.date=1983&amp;rft.isbn=0-7190-1791-2&amp;rft.aulast=Howell&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news">Atkinson, Neil (25 June 2014). <a rel="nofollow" class="external text" href="https://www.examinerlive.co.uk/news/west-yorkshire-news/new-tributes-honleys-brave-war-7316093">"New tributes to Honley's brave war heroes"</a>. <i>Huddersfield Examiner</i><span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Huddersfield+Examiner&amp;rft.atitle=New+tributes+to+Honley%27s+brave+war+heroes&amp;rft.date=2014-06-25&amp;rft.aulast=Atkinson&amp;rft.aufirst=Neil&amp;rft_id=https%3A%2F%2Fwww.examinerlive.co.uk%2Fnews%2Fwest-yorkshire-news%2Fnew-tributes-honleys-brave-war-7316093&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation news">Bellamy, Alison (8 December 2018). "Jewel of the Valley". <i>The Yorkshire Post</i>. Country Week. p.&#160;13. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//www.worldcat.org/issn/0963-1496">0963-1496</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Yorkshire+Post&amp;rft.atitle=Jewel+of+the+Valley&amp;rft.pages=13&amp;rft.date=2018-12-08&amp;rft.issn=0963-1496&amp;rft.aulast=Bellamy&amp;rft.aufirst=Alison&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/lifestyle/lifestyle-opinion/denis-kilcommons-david-bintley-6529810">"Lifestyle, Denis Kilcommons about David Bintley"</a>. <i>Huddersfield Examiner</i>. 20 January 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">6 August</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Huddersfield+Examiner&amp;rft.atitle=Lifestyle%2C+Denis+Kilcommons+about+David+Bintley&amp;rft.date=2014-01-20&amp;rft_id=http%3A%2F%2Fwww.examiner.co.uk%2Flifestyle%2Flifestyle-opinion%2Fdenis-kilcommons-david-bintley-6529810&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://www.yorkshirepost.co.uk/sport/football/huddersfield-town/huddersfield-town-3-leeds-united-2-stead-bags-terriers-winner-1-6188652">"Huddersfield Town 3 Leeds United 2: Stead bags Terriers winner"</a>. <i>The Yorkshire Post</i>. 26 October 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">9 December</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Yorkshire+Post&amp;rft.atitle=Huddersfield+Town+3+Leeds+United+2%3A+Stead+bags+Terriers+winner&amp;rft.date=2013-10-26&amp;rft_id=https%3A%2F%2Fwww.yorkshirepost.co.uk%2Fsport%2Ffootball%2Fhuddersfield-town%2Fhuddersfield-town-3-leeds-united-2-stead-bags-terriers-winner-1-6188652&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHonley" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Honley&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Honley" class="extiw" title="commons:Category:Honley">Honley</a> at Wikimedia Commons</li>
+<li><a rel="nofollow" class="external text" href="http://freepages.rootsweb.com/~honleycemetery/genealogy/index.htm">Honley Cemetery</a></li>
+<li><a rel="nofollow" class="external text" href="http://honleyfc.wordpress.com/">Honley Football Club</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.honleymvc.co.uk/">Honley Male Voice Choir</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.honleyladies.co.uk/">Honley Ladies Choir</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.friendsofhonleylibrary.org.uk/">Honley Library</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.honleyshow.co.uk/">Honley Agricultural Show</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.honleyvillagetrust.org.uk/">Honley Village Community Trust</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.trinitychurchinhonley.org.uk/">Trinity Church -  Methodist/URC</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.honleystmary.btik.com/Home">St Mary's Church</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.28dayslater.co.uk/reins-mill-honley-feb-2016.t102764">Reins Mill, Honley</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.derelictplaces.co.uk/main/industrial-sites/32623-reins-mill-honley-feb-2016-a.html">Reins Mill, Honley</a></li></ul>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Yorkshire_rose.svg" class="image"><img alt="Yorkshire rose.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Yorkshire_rose.svg/22px-Yorkshire_rose.svg.png" decoding="async" width="22" height="21" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Yorkshire_rose.svg/33px-Yorkshire_rose.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Yorkshire_rose.svg/44px-Yorkshire_rose.svg.png 2x" data-file-width="276" data-file-height="264" /></a></span><a href="/wiki/Portal:Yorkshire" title="Portal:Yorkshire">Yorkshire portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Flag_of_England.svg" class="image"><img alt="Flag of England.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/24px-Flag_of_England.svg.png" decoding="async" width="24" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/36px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/48px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></a></span><a href="/wiki/Portal:England" title="Portal:England">England portal</a></span></li><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Flag_of_the_United_Kingdom.svg" class="image"><img alt="Flag of the United Kingdom.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/24px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="24" height="12" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/36px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/48px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" /></a></span><a href="/wiki/Portal:United_Kingdom" title="Portal:United Kingdom">United Kingdom portal</a></span></li></ul></div>
+<div role="navigation" class="navbox" aria-labelledby="Ceremonial_county_of_West_Yorkshire" style="padding:3px"><table class="nowraplinks hlist vcard mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:West_Yorkshire" title="Template:West Yorkshire"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:West_Yorkshire" title="Template talk:West Yorkshire"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:West_Yorkshire&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Ceremonial_county_of_West_Yorkshire" class="adr" style="font-size:114%;margin:0 4em"><span class="category"><a href="/wiki/Ceremonial_counties_of_England" title="Ceremonial counties of England">Ceremonial county</a></span> of <span class="fn org region"><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></span></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="Yorkshire_Portal"><i><a href="/wiki/Portal:Yorkshire" title="Portal:Yorkshire">Yorkshire Portal</a></i></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Metropolitan districts</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/City_of_Bradford" title="City of Bradford">City of Bradford</a></li>
+<li><a href="/wiki/City_of_Leeds" title="City of Leeds">City of Leeds</a></li>
+<li><a href="/wiki/City_of_Wakefield" title="City of Wakefield">City of Wakefield</a></li>
+<li><a href="/wiki/Calderdale" title="Calderdale">Metropolitan Borough of Calderdale</a></li>
+<li><a href="/wiki/Kirklees" title="Kirklees">Metropolitan Borough of Kirklees</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Major settlements</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Baildon" title="Baildon">Baildon</a></li>
+<li><a href="/wiki/Batley" title="Batley">Batley</a></li>
+<li><a href="/wiki/Bingley" title="Bingley">Bingley</a></li>
+<li><a href="/wiki/Bradford" title="Bradford">Bradford</a></li>
+<li><a href="/wiki/Brighouse" title="Brighouse">Brighouse</a></li>
+<li><a href="/wiki/Castleford" title="Castleford">Castleford</a></li>
+<li><a href="/wiki/Cleckheaton" title="Cleckheaton">Cleckheaton</a></li>
+<li><a href="/wiki/Denholme" title="Denholme">Denholme</a></li>
+<li><a href="/wiki/Dewsbury" title="Dewsbury">Dewsbury</a></li>
+<li><a href="/wiki/Elland" title="Elland">Elland</a></li>
+<li><a href="/wiki/Farsley" title="Farsley">Farsley</a></li>
+<li><a href="/wiki/Featherstone" title="Featherstone">Featherstone</a></li>
+<li><a href="/wiki/Guiseley" title="Guiseley">Guiseley</a></li>
+<li><a href="/wiki/Halifax,_West_Yorkshire" title="Halifax, West Yorkshire">Halifax</a></li>
+<li><a href="/wiki/Hebden_Bridge" title="Hebden Bridge">Hebden Bridge</a></li>
+<li><a href="/wiki/Heckmondwike" title="Heckmondwike">Heckmondwike</a></li>
+<li><a href="/wiki/Hemsworth" title="Hemsworth">Hemsworth</a></li>
+<li><a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a></li>
+<li><a href="/wiki/Horbury" title="Horbury">Horbury</a></li>
+<li><a href="/wiki/Horsforth" title="Horsforth">Horsforth</a></li>
+<li><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></li>
+<li><a href="/wiki/Ilkley" title="Ilkley">Ilkley</a></li>
+<li><a href="/wiki/Keighley" title="Keighley">Keighley</a></li>
+<li><a href="/wiki/Knottingley" title="Knottingley">Knottingley</a></li>
+<li><a href="/wiki/Leeds" title="Leeds">Leeds</a></li>
+<li><a href="/wiki/Meltham" title="Meltham">Meltham</a></li>
+<li><a href="/wiki/Mirfield" title="Mirfield">Mirfield</a></li>
+<li><a href="/wiki/Morley,_West_Yorkshire" title="Morley, West Yorkshire">Morley</a></li>
+<li><a href="/wiki/Normanton,_West_Yorkshire" title="Normanton, West Yorkshire">Normanton</a></li>
+<li><a href="/wiki/Ossett" title="Ossett">Ossett</a></li>
+<li><a href="/wiki/Otley" title="Otley">Otley</a></li>
+<li><a href="/wiki/Pontefract" title="Pontefract">Pontefract</a></li>
+<li><a href="/wiki/Pudsey" title="Pudsey">Pudsey</a></li>
+<li><a href="/wiki/Rothwell,_West_Yorkshire" title="Rothwell, West Yorkshire">Rothwell</a></li>
+<li><a href="/wiki/Shipley,_West_Yorkshire" title="Shipley, West Yorkshire">Shipley</a></li>
+<li><a href="/wiki/Silsden" title="Silsden">Silsden</a></li>
+<li><a href="/wiki/South_Elmsall" title="South Elmsall">South Elmsall</a></li>
+<li><a href="/wiki/Sowerby_Bridge" title="Sowerby Bridge">Sowerby Bridge</a></li>
+<li><a href="/wiki/Todmorden" title="Todmorden">Todmorden</a></li>
+<li><a href="/wiki/Wakefield" title="Wakefield">Wakefield</a></li>
+<li><a href="/wiki/Warley_Town" title="Warley Town">Warley Town</a></li>
+<li><a href="/wiki/Wetherby" title="Wetherby">Wetherby</a></li>
+<li><a href="/wiki/Yeadon,_West_Yorkshire" title="Yeadon, West Yorkshire">Yeadon</a><br /><i>See also:</i> <b><a href="/wiki/List_of_civil_parishes_in_West_Yorkshire" class="mw-redirect" title="List of civil parishes in West Yorkshire">List of civil parishes in West Yorkshire</a></b></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Topics</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_Parliamentary_constituencies_in_West_Yorkshire" title="List of Parliamentary constituencies in West Yorkshire">Parliamentary constituencies</a></li>
+<li><a href="/wiki/West_Yorkshire_Joint_Services" title="West Yorkshire Joint Services">West Yorkshire Joint Services</a></li>
+<li><a href="/wiki/List_of_places_in_West_Yorkshire" class="mw-redirect" title="List of places in West Yorkshire">Places</a></li>
+<li><a href="/wiki/List_of_settlements_in_West_Yorkshire_by_population" title="List of settlements in West Yorkshire by population">Population of major settlements</a></li>
+<li><a href="/wiki/List_of_Sites_of_Special_Scientific_Interest_in_West_Yorkshire" title="List of Sites of Special Scientific Interest in West Yorkshire">SSSIs</a></li>
+<li><a href="/wiki/Category:Country_houses_in_West_Yorkshire" title="Category:Country houses in West Yorkshire">Country houses</a></li>
+<li><a href="/wiki/Grade_I_listed_buildings_in_West_Yorkshire" title="Grade I listed buildings in West Yorkshire">Grade I listed buildings</a></li>
+<li><a href="/wiki/Grade_II*_listed_buildings_in_West_Yorkshire" title="Grade II* listed buildings in West Yorkshire">Grade II* listed buildings</a></li>
+<li><a href="/wiki/List_of_windmills_in_West_Yorkshire" title="List of windmills in West Yorkshire">Windmills</a></li>
+<li><a href="/wiki/History_of_West_Yorkshire" class="mw-redirect" title="History of West Yorkshire">History</a></li>
+<li><a href="/wiki/Lord_Lieutenant_of_West_Yorkshire" title="Lord Lieutenant of West Yorkshire">Lord Lieutenants</a></li>
+<li><a href="/wiki/High_Sheriff_of_West_Yorkshire" title="High Sheriff of West Yorkshire">High Sheriffs</a></li>
+<li><a href="/wiki/List_of_monastic_houses_in_West_Yorkshire" title="List of monastic houses in West Yorkshire">Monastic houses</a></li>
+<li><a href="/wiki/List_of_museums_in_West_Yorkshire" title="List of museums in West Yorkshire">Museums</a></li>
+<li><a href="/wiki/List_of_rivers_of_Yorkshire" title="List of rivers of Yorkshire">Rivers</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1295
+Cached time: 20190925022941
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.548 seconds
+Real time usage: 0.883 seconds
+Preprocessor visited node count: 3259/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 76220/2097152 bytes
+Template argument size: 12135/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 38207/5000000 bytes
+Number of Wikibase entities loaded: 3/400
+Lua time usage: 0.257/10.000 seconds
+Lua memory usage: 6.81 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  813.620      1 -total
+ 40.15%  326.664      1 Template:Infobox_UK_place
+ 38.31%  311.737      2 Template:Infobox
+ 29.82%  242.637      1 Template:Reflist
+ 13.33%  108.431      3 Template:Cite_web
+ 11.37%   92.514      1 Template:Commons_category-inline
+ 10.29%   83.745      1 Template:Infobox_UK_place/dist
+  7.11%   57.829      1 Template:Convert
+  6.07%   49.410      1 Template:Location_map
+  5.55%   45.187      5 Template:Cite_news
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:929895-0!canonical and timestamp 20190925022941 and revision id 917110109
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Honley&amp;oldid=917110109">https://en.wikipedia.org/w/index.php?title=Honley&amp;oldid=917110109</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Kirklees" title="Category:Kirklees">Kirklees</a></li><li><a href="/wiki/Category:Holme_Valley" title="Category:Holme Valley">Holme Valley</a></li><li><a href="/wiki/Category:Geography_of_Holmfirth" title="Category:Geography of Holmfirth">Geography of Holmfirth</a></li><li><a href="/wiki/Category:Villages_in_West_Yorkshire" title="Category:Villages in West Yorkshire">Villages in West Yorkshire</a></li><li><a href="/wiki/Category:Towns_and_villages_of_the_Peak_District" title="Category:Towns and villages of the Peak District">Towns and villages of the Peak District</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2013" title="Category:Use dmy dates from July 2013">Use dmy dates from July 2013</a></li><li><a href="/wiki/Category:Use_British_English_from_July_2014" title="Category:Use British English from July 2014">Use British English from July 2014</a></li><li><a href="/wiki/Category:Articles_with_OS_grid_coordinates" title="Category:Articles with OS grid coordinates">Articles with OS grid coordinates</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Commons_category_link_is_on_Wikidata" title="Category:Commons category link is on Wikidata">Commons category link is on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Honley" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Honley" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Honley" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Honley" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Honley">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Honley&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Honley&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Honley" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Honley" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Honley&amp;oldid=917110109" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Honley&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11710053" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Honley&amp;id=917110109" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Honley" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Honley">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Honley&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Honley&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Honley" title="Honley – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11710053#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 22 September 2019, at 09:22<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Honley&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.548","walltime":"0.883","ppvisitednodes":{"value":3259,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":76220,"limit":2097152},"templateargumentsize":{"value":12135,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":38207,"limit":5000000},"entityaccesscount":{"value":3,"limit":400},"timingprofile":["100.00%  813.620      1 -total"," 40.15%  326.664      1 Template:Infobox_UK_place"," 38.31%  311.737      2 Template:Infobox"," 29.82%  242.637      1 Template:Reflist"," 13.33%  108.431      3 Template:Cite_web"," 11.37%   92.514      1 Template:Commons_category-inline"," 10.29%   83.745      1 Template:Infobox_UK_place/dist","  7.11%   57.829      1 Template:Convert","  6.07%   49.410      1 Template:Location_map","  5.55%   45.187      5 Template:Cite_news"]},"scribunto":{"limitreport-timeusage":{"value":"0.257","limit":"10.000"},"limitreport-memusage":{"value":7143735,"limit":52428800}},"cachereport":{"origin":"mw1295","timestamp":"20190925022941","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Honley","url":"https:\/\/en.wikipedia.org\/wiki\/Honley","sameAs":"http:\/\/www.wikidata.org\/entity\/Q11710053","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q11710053","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-08-25T18:32:30Z","dateModified":"2019-09-22T09:22:03Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/35\/Honley_centre_0307.jpg","headline":"village in the metropolitan borough of Kirklees in West Yorkshire, England"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":177,"wgHostname":"mw1240"});});</script>
+</body>
+</html>
+

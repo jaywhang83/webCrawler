@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Huddersfield Royal Infirmary - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Huddersfield_Royal_Infirmary","wgTitle":"Huddersfield Royal Infirmary","wgCurRevisionId":838273434,"wgRevisionId":838273434,"wgArticleId":5272794,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from March 2018","Use British English from March 2018","Articles with short description","Infobox mapframe without OSM relation ID on Wikidata","Pages using infobox hospital with unknown parameters","Coordinates on Wikidata","Pages using the Kartographer extension","Hospitals established in 1965","Hospitals in West Yorkshire","Buildings and structures in Huddersfield","NHS hospitals in England"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":
+"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Huddersfield_Royal_Infirmary","wgRelevantArticleId":5272794,"wgRequestId":"XZD63gpAMFcAAJZ0uysAAADB","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgKartographerLiveData":{
+"_5fafafd5a25729c99ef2d11b89c56f24605db821":[{"type":"ExternalData","service":"geoshape","url":"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q5928271","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Huddersfield Royal Infirmary","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q5928271","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Huddersfield Royal Infirmary"}},{"type":"Feature","geometry":{"coordinates":[-1.816,53.655],"type":"Point"},"properties":{"marker-color":"#5E74F3","title":"Huddersfield Royal Infirmary","marker-symbol":"hospital"}}]},"wgCoordinates":{"lat":53.655,"lon":-1.816},"wgWikibaseItemId":"Q5928271","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready",
+"user.tokens":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.kartographer.staticframe","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming",
+"ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/1200px-West_Yorkshire_UK_location_map.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Huddersfield_Royal_Infirmary"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Huddersfield_Royal_Infirmary&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Huddersfield_Royal_Infirmary&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Huddersfield_Royal_Infirmary"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Huddersfield_Royal_Infirmary rootpage-Huddersfield_Royal_Infirmary skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Huddersfield Royal Infirmary</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Hospital in  England, UK</div><table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold">Huddersfield Royal Infirmary</th></tr><tr><td colspan="2" class="category" style="text-align:center"><a href="/wiki/Calderdale_and_Huddersfield_NHS_Foundation_Trust" title="Calderdale and Huddersfield NHS Foundation Trust">Calderdale and Huddersfield NHS Foundation Trust</a></td></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:HuddersfieldRoyalInfirmary.jpg" class="image"><img alt="HuddersfieldRoyalInfirmary.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/HuddersfieldRoyalInfirmary.jpg/220px-HuddersfieldRoyalInfirmary.jpg" decoding="async" width="220" height="99" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/HuddersfieldRoyalInfirmary.jpg/330px-HuddersfieldRoyalInfirmary.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/HuddersfieldRoyalInfirmary.jpg/440px-HuddersfieldRoyalInfirmary.jpg 2x" data-file-width="639" data-file-height="288" /></a><div>Huddersfield Royal Infirmary, Lindley.</div></td></tr><tr><td colspan="2" style="text-align:center"><a class="mw-kartographer-map mw-kartographer-container center" data-mw="interface" data-style="osm-intl" data-width="270" data-height="200" data-zoom="10" data-overlays="[&quot;_5fafafd5a25729c99ef2d11b89c56f24605db821&quot;]" style="background-image: url(https://maps.wikimedia.org/img/osm-intl,10,a,a,270x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Huddersfield+Royal+Infirmary&amp;groups=_5fafafd5a25729c99ef2d11b89c56f24605db821); width: 270px; height: 200px;" href="/wiki/Special:Map/10/a/a/en"></a></td></tr><tr><td colspan="2" style="text-align:center"><div class="center"><div style="width:225px;float:none;clear:both;margin-left:auto;margin-right:auto"><div style="width:225px;padding:0"><div style="position:relative;width:225px"><a href="/wiki/File:West_Yorkshire_UK_location_map.svg" class="image" title="Huddersfield Royal Infirmary is located in West Yorkshire"><img alt="Huddersfield Royal Infirmary is located in West Yorkshire" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/225px-West_Yorkshire_UK_location_map.svg.png" decoding="async" width="225" height="164" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/338px-West_Yorkshire_UK_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/West_Yorkshire_UK_location_map.svg/450px-West_Yorkshire_UK_location_map.svg.png 2x" data-file-width="1425" data-file-height="1039" /></a><div style="position:absolute;top:67.708%;left:43.214%"><div style="position:absolute;left:-4px;top:-4px;line-height:0"><img alt="Huddersfield Royal Infirmary" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/8px-Red_pog.svg.png" decoding="async" title="Huddersfield Royal Infirmary" width="8" height="8" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/12px-Red_pog.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/16px-Red_pog.svg.png 2x" data-file-width="64" data-file-height="64" /></div></div></div><div>Location in West Yorkshire</div></div></div></div></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Geography</th></tr><tr><th scope="row">Location</th><td><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, <a href="/wiki/England" title="England">England</a>, <a href="/wiki/UK" class="mw-redirect" title="UK">UK</a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Organisation</th></tr><tr><th scope="row"><a href="/wiki/Health_system" title="Health system">Care system</a></th><td><a href="/wiki/NHS_England" title="NHS England">NHS England</a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Services</th></tr><tr><th scope="row"><a href="/wiki/Emergency_department" title="Emergency department">Emergency department</a></th><td>Yes</td></tr><tr><th scope="row">Beds</th><td>810</td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">History</th></tr><tr><th scope="row">Founded</th><td>1965</td></tr><tr><th colspan="2" style="text-align:center;background-color: #efefef">Links</th></tr><tr><th scope="row">Website</th><td><a rel="nofollow" class="external free" href="http://www.cht.nhs.uk/index.php?id=53">http://www.cht.nhs.uk/index.php?id=53</a></td></tr></tbody></table>
+<p>The <b>Huddersfield Royal Infirmary</b> is a <a href="/wiki/Hospital" title="Hospital">hospital</a> situated in the <a href="/wiki/England" title="England">English</a> town of <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, part of <a href="/wiki/Calderdale_and_Huddersfield_NHS_Foundation_Trust" title="Calderdale and Huddersfield NHS Foundation Trust">Calderdale and Huddersfield NHS Foundation Trust</a>. It is situated in the suburb of <a href="/wiki/Lindley,_Huddersfield" title="Lindley, Huddersfield">Lindley</a> and provides general services, emergency services and some specialist services.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_Royal_Infirmary&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:The_Old_Royal_Infirmary_-_geograph.org.uk_-_359164.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_Old_Royal_Infirmary_-_geograph.org.uk_-_359164.jpg/220px-The_Old_Royal_Infirmary_-_geograph.org.uk_-_359164.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_Old_Royal_Infirmary_-_geograph.org.uk_-_359164.jpg/330px-The_Old_Royal_Infirmary_-_geograph.org.uk_-_359164.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_Old_Royal_Infirmary_-_geograph.org.uk_-_359164.jpg/440px-The_Old_Royal_Infirmary_-_geograph.org.uk_-_359164.jpg 2x" data-file-width="640" data-file-height="480" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:The_Old_Royal_Infirmary_-_geograph.org.uk_-_359164.jpg" class="internal" title="Enlarge"></a></div>The old Infirmary in New North Road</div></div></div>
+<p>The original hospital in <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a>, which was designed by <a href="/wiki/Joseph_Kay_(architect)" title="Joseph Kay (architect)">Joseph Kay</a> and which was located at New North Road, opened in 1831.<sup id="cite_ref-he_1-0" class="reference"><a href="#cite_note-he-1">&#91;1&#93;</a></sup> Additions included the south wing in 1861, the north wing in 1874 and the Carlisle Wing, financed by a gift from <a href="/wiki/Hildred_Carlile" title="Hildred Carlile">Sir Hildred Carlile</a>, in 1898.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The foundation stone for a further extension was laid by the <a href="/wiki/George_VI" title="George VI">Duke of York</a> in 1932; it was opened by <a href="/wiki/Berkeley_Moynihan,_1st_Baron_Moynihan" title="Berkeley Moynihan, 1st Baron Moynihan">Lord Moynihan</a> in 1934.<sup id="cite_ref-he_1-1" class="reference"><a href="#cite_note-he-1">&#91;1&#93;</a></sup>
+</p><p>The infirmary moved to new facilities at Lindley which were completed in 1965 and formally opened by <a href="/wiki/Prime_Minister_of_the_United_Kingdom" title="Prime Minister of the United Kingdom">Prime Minister</a> <a href="/wiki/Harold_Wilson" title="Harold Wilson">Harold Wilson</a> in January 1967.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> It became the base for Huddersfield Pharmacy Specials, a business which had been established several years earlier and which produces mainly unlicensed medicines and bespoke creams and ointments, oral liquids, eye drops and injectables.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>In April 2006, <a href="/wiki/Photovoltaic_array" class="mw-redirect" title="Photovoltaic array">photovoltaic array</a> panels were installed on the roof of the hospital building, providing it with a <a href="/wiki/Renewable_source" class="mw-redirect" title="Renewable source">renewable source</a> of <a href="/wiki/Electricity" title="Electricity">electricity</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_Royal_Infirmary&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/List_of_hospitals_in_England" title="List of hospitals in England">List of hospitals in England</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Huddersfield_Royal_Infirmary&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-he-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-he_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-he_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://huddersfield.exposed/wiki/1937_Directory:A_Tour_Round_Huddersfield">"A Tour Round Huddersfield"</a>. Huddersfield Exposed<span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Tour+Round+Huddersfield&amp;rft.pub=Huddersfield+Exposed&amp;rft_id=https%3A%2F%2Fhuddersfield.exposed%2Fwiki%2F1937_Directory%3AA_Tour_Round_Huddersfield&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Royal+Infirmary" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://huddersfield.exposed/wiki/Sir_Edward_Hildred_Carlile_(1852-1942)">"Sir Edward Hildred Carlile (1852-1942)"</a>. Huddersfield Exposed<span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Sir+Edward+Hildred+Carlile+%281852-1942%29&amp;rft.pub=Huddersfield+Exposed&amp;rft_id=https%3A%2F%2Fhuddersfield.exposed%2Fwiki%2FSir_Edward_Hildred_Carlile_%281852-1942%29&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Royal+Infirmary" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.examiner.co.uk/news/west-yorkshire-news/huddersfield-royal-infirmary-celebrates-birthday-4986191">"Huddersfield Royal Infirmary celebrates birthday landmark"</a>. <i>Huddersfield Daily Examiner</i>. 4 September 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Huddersfield+Daily+Examiner&amp;rft.atitle=Huddersfield+Royal+Infirmary+celebrates+birthday+landmark&amp;rft.date=2010-09-04&amp;rft_id=https%3A%2F%2Fwww.examiner.co.uk%2Fnews%2Fwest-yorkshire-news%2Fhuddersfield-royal-infirmary-celebrates-birthday-4986191&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Royal+Infirmary" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.examiner.co.uk/news/west-yorkshire-news/hri-50-today-town-one-11916410">"HRI is 50 today: 'Town has one of the finest hospitals in the country,' Examiner said in 1966"</a>. <i>Huddersfield Daily Examiner</i>. 22 September 2016<span class="reference-accessdate">. Retrieved <span class="nowrap">25 April</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Huddersfield+Daily+Examiner&amp;rft.atitle=HRI+is+50+today%3A+%27Town+has+one+of+the+finest+hospitals+in+the+country%2C%27+Examiner+said+in+1966&amp;rft.date=2016-09-22&amp;rft_id=https%3A%2F%2Fwww.examiner.co.uk%2Fnews%2Fwest-yorkshire-news%2Fhri-50-today-town-one-11916410&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Royal+Infirmary" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://www.examiner.co.uk/news/health/gallery-take-tour-round-hris-8335933">"Inside the Huddersfield medicine factory that you may not know even existed"</a>. <i>Huddersfield Examiner</i>. 23 December 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">27 December</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Huddersfield+Examiner&amp;rft.atitle=Inside+the+Huddersfield+medicine+factory+that+you+may+not+know+even+existed&amp;rft.date=2014-12-23&amp;rft_id=http%3A%2F%2Fwww.examiner.co.uk%2Fnews%2Fhealth%2Fgallery-take-tour-round-hris-8335933&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Royal+Infirmary" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.batchelor-electrical.co.uk/casestudies/nhshuddersfields.html">"NHS Huddersfield solar PV array case study"</a>. Batchelor Electrical<span class="reference-accessdate">. Retrieved <span class="nowrap">14 December</span> 2006</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=NHS+Huddersfield+solar+PV+array+case+study&amp;rft.pub=Batchelor+Electrical&amp;rft_id=http%3A%2F%2Fwww.batchelor-electrical.co.uk%2Fcasestudies%2Fnhshuddersfields.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHuddersfield+Royal+Infirmary" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<p><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Huddersfield_Royal_Infirmary&amp;params=53.655_N_1.816_W_type:landmark"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°39′18″N</span> <span class="longitude">1°48′58″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.655°N 1.816°W</span><span style="display:none">&#xfeff; / <span class="geo">53.655; -1.816</span></span></span></a></span></span></span>
+</p>
+<!-- 
+NewPP limit report
+Parsed by mw1323
+Cached time: 20190914031817
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.264 seconds
+Real time usage: 0.387 seconds
+Preprocessor visited node count: 1454/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 22013/2097152 bytes
+Template argument size: 1335/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18288/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.145/10.000 seconds
+Lua memory usage: 4.13 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  345.789      1 -total
+ 51.86%  179.336      1 Template:Infobox_hospital
+ 31.77%  109.867      1 Template:Infobox
+ 31.28%  108.162      1 Template:Reflist
+ 25.23%   87.236      5 Template:Cite_web
+ 11.31%   39.124      1 Template:Location_map
+  9.52%   32.906      1 Template:Use_dmy_dates
+  9.50%   32.864      2 Template:If_declined
+  8.73%   30.180      1 Template:Infobox_mapframe
+  5.79%   20.007      2 Template:DMCA
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5272794-0!canonical and timestamp 20190914031816 and revision id 838273434
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Huddersfield_Royal_Infirmary&amp;oldid=838273434">https://en.wikipedia.org/w/index.php?title=Huddersfield_Royal_Infirmary&amp;oldid=838273434</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hospitals_established_in_1965" title="Category:Hospitals established in 1965">Hospitals established in 1965</a></li><li><a href="/wiki/Category:Hospitals_in_West_Yorkshire" title="Category:Hospitals in West Yorkshire">Hospitals in West Yorkshire</a></li><li><a href="/wiki/Category:Buildings_and_structures_in_Huddersfield" title="Category:Buildings and structures in Huddersfield">Buildings and structures in Huddersfield</a></li><li><a href="/wiki/Category:NHS_hospitals_in_England" title="Category:NHS hospitals in England">NHS hospitals in England</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_March_2018" title="Category:Use dmy dates from March 2018">Use dmy dates from March 2018</a></li><li><a href="/wiki/Category:Use_British_English_from_March_2018" title="Category:Use British English from March 2018">Use British English from March 2018</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Infobox_mapframe_without_OSM_relation_ID_on_Wikidata" title="Category:Infobox mapframe without OSM relation ID on Wikidata">Infobox mapframe without OSM relation ID on Wikidata</a></li><li><a href="/wiki/Category:Pages_using_infobox_hospital_with_unknown_parameters" title="Category:Pages using infobox hospital with unknown parameters">Pages using infobox hospital with unknown parameters</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Pages_using_the_Kartographer_extension" title="Category:Pages using the Kartographer extension">Pages using the Kartographer extension</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Huddersfield+Royal+Infirmary" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Huddersfield+Royal+Infirmary" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Huddersfield_Royal_Infirmary" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Huddersfield_Royal_Infirmary" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Huddersfield_Royal_Infirmary">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Huddersfield_Royal_Infirmary&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Huddersfield_Royal_Infirmary&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Huddersfield_Royal_Infirmary" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Huddersfield_Royal_Infirmary" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Huddersfield_Royal_Infirmary&amp;oldid=838273434" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Huddersfield_Royal_Infirmary&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5928271" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Huddersfield_Royal_Infirmary&amp;id=838273434" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Huddersfield+Royal+Infirmary">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Huddersfield+Royal+Infirmary&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Huddersfield_Royal_Infirmary&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5928271#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 26 April 2018, at 00:38<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Huddersfield_Royal_Infirmary&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.264","walltime":"0.387","ppvisitednodes":{"value":1454,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":22013,"limit":2097152},"templateargumentsize":{"value":1335,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18288,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  345.789      1 -total"," 51.86%  179.336      1 Template:Infobox_hospital"," 31.77%  109.867      1 Template:Infobox"," 31.28%  108.162      1 Template:Reflist"," 25.23%   87.236      5 Template:Cite_web"," 11.31%   39.124      1 Template:Location_map","  9.52%   32.906      1 Template:Use_dmy_dates","  9.50%   32.864      2 Template:If_declined","  8.73%   30.180      1 Template:Infobox_mapframe","  5.79%   20.007      2 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.145","limit":"10.000"},"limitreport-memusage":{"value":4332660,"limit":52428800}},"cachereport":{"origin":"mw1323","timestamp":"20190914031817","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Huddersfield Royal Infirmary","url":"https:\/\/en.wikipedia.org\/wiki\/Huddersfield_Royal_Infirmary","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5928271","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5928271","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-05-24T13:00:44Z","dateModified":"2018-04-26T00:38:25Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/5\/5b\/West_Yorkshire_UK_location_map.svg","headline":"hospital in England"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1252"});});</script>
+</body>
+</html>
+

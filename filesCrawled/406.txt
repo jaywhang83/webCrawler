@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>River Holme - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"River_Holme","wgTitle":"River Holme","wgCurRevisionId":917796422,"wgRevisionId":917796422,"wgArticleId":3118085,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use British English from October 2017","Use dmy dates from October 2017","Coordinates on Wikidata","Rivers of Kirklees","Rivers of Huddersfield","Rivers and valleys of the Peak District","Holme Valley","Rivers of West Yorkshire","Aire catchment"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul",
+"Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"River_Holme","wgRelevantArticleId":3118085,"wgRequestId":"XYt@aQpAMFsAALsjr1QAAACW","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":53.63916666666667,"lon":-1.7844444444444443},"wgWikibaseItemId":"Q7337506","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready",
+"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head",
+"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG/1200px-River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/River_Holme"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=River_Holme&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=River_Holme&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/River_Holme"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-River_Holme rootpage-River_Holme skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">River Holme</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: #CEDEFF;">River Holme</th></tr><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:River_Holme_(left)_joining_River_Colne_at_Huddersfield,_West_Yorkshire,_UK_(RLH).JPG" class="image"><img alt="River Holme (left) joining River Colne at Huddersfield, West Yorkshire, UK (RLH).JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG/250px-River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG" decoding="async" width="250" height="188" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG/375px-River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG/500px-River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG 2x" data-file-width="2592" data-file-height="1944" /></a><div>River Holme (left) joining the River Colne at Huddersfield</div></td></tr><tr><th colspan="2" style="text-align:center;background-color: #CEDEFF;">Location</th></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row">Country</th><td><a href="/wiki/England" title="England">England</a></td></tr><tr><th colspan="2" style="text-align:center;background-color: #CEDEFF;">Physical characteristics</th></tr><tr style="display:none;"><td colspan="2" style="text-align:center"></td></tr><tr><th scope="row">Source</th><td>&#160;</td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row"><span style="font-weight:normal">&#160;&#8259;&#160;location</span></th><td>Holmbridge</td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row"><span style="font-weight:normal">&#160;&#8259;&#160;coordinates</span></th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=River_Holme&amp;params=53_13_15_N_1_49_27_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°13′15″N</span> <span class="longitude">1°49′27″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.22083°N 1.82417°W</span><span style="display:none">&#xfeff; / <span class="geo">53.22083; -1.82417</span></span></span></a></span></td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row"><span style="font-weight:normal">&#160;&#8259;&#160;elevation</span></th><td>188 metres (617&#160;ft)</td></tr><tr style="display:none"><td colspan="2">
+</td></tr><tr><th scope="row"><a href="/wiki/River_mouth" title="River mouth">Mouth</a></th><td>&#160;</td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row"><div style="display:inline;font-weight:normal">&#160;&#8259;&#160;location</div></th><td>River Colne at Huddersfield</td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row"><div style="display:inline;font-weight:normal">&#160;&#8259;&#160;coordinates</div></th><td><span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=River_Holme&amp;params=53_38_21_N_1_47_4_W_type:river"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°38′21″N</span> <span class="longitude">1°47′4″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.63917°N 1.78444°W</span><span style="display:none">&#xfeff; / <span class="geo">53.63917; -1.78444</span></span></span></a></span><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=River_Holme&amp;params=53_38_21_N_1_47_4_W_type:river"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">53°38′21″N</span> <span class="longitude">1°47′4″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">53.63917°N 1.78444°W</span><span style="display:none">&#xfeff; / <span class="geo">53.63917; -1.78444</span></span></span></a></span></span></span></td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row"><div style="display:inline;font-weight:normal">&#160;&#8259;&#160;elevation</div></th><td>72 metres (236&#160;ft)</td></tr><tr style="padding: 0 0.6em 0.2em 0.6em;line-height: 1.2em;"><th scope="row">Length</th><td>13.86 kilometres (8.61&#160;mi)</td></tr><tr><th scope="row">Basin size</th><td>97.4 square kilometres (37.6&#160;sq&#160;mi)</td></tr><tr><th colspan="2" style="text-align:center;background-color: #CEDEFF;">Basin features</th></tr><tr><th scope="row">Progression</th><td><a href="/wiki/River_Colne,_West_Yorkshire" title="River Colne, West Yorkshire">Colne</a>–<a href="/wiki/River_Calder,_West_Yorkshire" title="River Calder, West Yorkshire">Calder</a>–<a href="/wiki/River_Aire" title="River Aire">Aire</a>–<a href="/wiki/River_Ouse,_Yorkshire" title="River Ouse, Yorkshire">Ouse</a>–<a href="/wiki/Humber" title="Humber">Humber</a>–<a href="/wiki/North_Sea" title="North Sea">North Sea</a></td></tr></tbody></table>
+<p>The <b>River Holme</b> is a <a href="/wiki/River" title="River">river</a> in the <a href="/wiki/Holme_Valley" title="Holme Valley">Holme Valley</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>, <a href="/wiki/England" title="England">England</a> and is a tributary of the <a href="/wiki/River_Colne,_West_Yorkshire" title="River Colne, West Yorkshire">River Colne</a>.  It starts from Digley reservoir and is then fed firstly by the run-off stream from Brownhill Reservoir, then by Dobbs Dike. Most of the banks of the upper part of the river are urbanised and are part of the Holme Valley <a href="/wiki/Civil_parishes_in_West_Yorkshire" title="Civil parishes in West Yorkshire">civil parish</a>.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Course"><span class="tocnumber">1</span> <span class="toctext">Course</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Flooding"><span class="tocnumber">1.1</span> <span class="toctext">Flooding</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Geography"><span class="tocnumber">2</span> <span class="toctext">Geography</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Lists"><span class="tocnumber">3</span> <span class="toctext">Lists</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Tributaries"><span class="tocnumber">3.1</span> <span class="toctext">Tributaries</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Settlements"><span class="tocnumber">3.2</span> <span class="toctext">Settlements</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Road_crossings"><span class="tocnumber">3.3</span> <span class="toctext">Road crossings</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Course">Course</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=1" title="Edit section: Course">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>From Digley reservoir, the river flows north east through <a href="/wiki/Holmbridge" title="Holmbridge">Holmbridge</a> and <a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a>. It flows north-north-east to <a href="/wiki/Thongsbridge" title="Thongsbridge">Thongsbridge</a> and <a href="/wiki/Brockholes" title="Brockholes">Brockholes</a> before turning north and reaching <a href="/wiki/Honley" title="Honley">Honley</a>, <a href="/wiki/Berry_Brow" title="Berry Brow">Berry Brow</a> and <a href="/wiki/Lockwood,_West_Yorkshire" class="mw-redirect" title="Lockwood, West Yorkshire">Lockwood</a>. It then proceeds northwards and joins the <a href="/wiki/River_Colne,_West_Yorkshire" title="River Colne, West Yorkshire">River Colne</a> just south of <a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a> town centre at Folly Hall.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>The <a href="/wiki/Environment_Agency" title="Environment Agency">Environment Agency</a> have a gauging station at Queen's Mill in Huddersfield where the recorded average low river level is 0.25 metres (0.82&#160;ft) and the high river level is 1.2 metres (3.9&#160;ft). The record highest level recorded was 2.5 metres (8.2&#160;ft).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Flooding">Flooding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=2" title="Edit section: Flooding">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Holmfirth_floods" title="Holmfirth floods">Holmfirth floods</a></div>
+<p>The river was prone to flooding with the earliest recorded in 1738. In 1840 Bilberry Reservoir was built over an existing stream, but the work had not been carried out properly and the stream not correctly redirected. The result was that, in February 1852, the reservoir broke its confines and flooded the Holme Valley as far as Holmfirth. It resulted in 81 fatalities and the destruction of many homes and businesses.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Geography">Geography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=3" title="Edit section: Geography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The start of the river valley is surrounded by the high hills of <a href="/wiki/Holme_Moss" title="Holme Moss">Holme Moss</a>, Harden Moss and Cartworth Moor. The underlying bedrock was laid down in the <a href="/wiki/Carboniferous" title="Carboniferous">Upper Carboniferous</a> period and consists primarily of <a href="/wiki/Millstone_Grit" title="Millstone Grit">Millstone Grit</a> with some <a href="/wiki/Sandstone" title="Sandstone">sandstone</a> interspersed with thin <a href="/wiki/Coal" title="Coal">coal</a> seams.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Lists">Lists</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=4" title="Edit section: Lists">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div>
+
+&#32;
+<table class="multicol" role="presentation" style="border-collapse: collapse; padding: 0; border: 0; background:transparent; width:100%;"><tbody><tr>
+<td style="text-align: left; vertical-align: top;">
+<h3><span class="mw-headline" id="Tributaries">Tributaries</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=5" title="Edit section: Tributaries">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Dobb Dike</li>
+<li>Black Sike Dike</li>
+<li><a href="/wiki/River_Ribble,_West_Yorkshire" title="River Ribble, West Yorkshire">River Ribble</a></li>
+<li>Hebble Dike/Mark Bottoms Dike</li>
+<li>New Mills Dike</li>
+<li>Mag Brook</li>
+<li>Dean Clough</li></ul>
+<p>&#32;
+</p>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<h3><span class="mw-headline" id="Settlements">Settlements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=6" title="Edit section: Settlements">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Holmbridge" title="Holmbridge">Holmbridge</a></li>
+<li><a href="/wiki/Holmfirth" title="Holmfirth">Holmfirth</a></li>
+<li><a href="/wiki/Wooldale" title="Wooldale">Wooldale</a></li>
+<li><a href="/wiki/Netherthong" title="Netherthong">Netherthong</a></li>
+<li><a href="/wiki/Thongsbridge" title="Thongsbridge">Thongsbridge</a></li>
+<li><a href="/wiki/Brockholes" title="Brockholes">Brockholes</a></li>
+<li><a href="/wiki/Honley" title="Honley">Honley</a></li>
+<li><a href="/wiki/Netherton,_Kirklees" title="Netherton, Kirklees">Netherton</a></li>
+<li><a href="/wiki/Huddersfield" title="Huddersfield">Huddersfield</a></li></ul>
+<p>&#32;
+</p>
+</td>
+<td style="text-align: left; vertical-align: top;">
+<h3><span class="mw-headline" id="Road_crossings">Road crossings</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=7" title="Edit section: Road crossings">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/A6024_road" class="mw-redirect" title="A6024 road">A6024 Woodhead Road</a>, Holmbridge</li>
+<li>Dobb Lane, Holmbridge</li>
+<li>Hollowgate, Holmfirth</li>
+<li><a href="/wiki/A635_road" title="A635 road">A635</a>, Victoria Road, Holmfirth</li>
+<li>Bridge Lane, Holmfirth</li>
+<li>Miry Lane, Thongsbridge</li>
+<li>Smithy Place Lane, Brockholes</li>
+<li>A6024, Honley</li>
+<li>Northgate, Honley</li>
+<li>Magdale road, Honley</li>
+<li>B6110, Armitage Road, <a href="/wiki/Armitage_Bridge" title="Armitage Bridge">Armitage Bridge</a>, Huddersfield</li>
+<li><a href="/wiki/A616_road" title="A616 road">A616</a>, Bridge Street, Huddesfield</li>
+<li>Queens Mill Road, Huddersfield</li></ul>
+<p>&#32;
+</p>
+</td></tr></tbody></table></div>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=8" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:River_Holme,_Thongsbridge_-_geograph.org.uk_-_102745.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102745.jpg/120px-River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102745.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102745.jpg/180px-River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102745.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102745.jpg/240px-River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102745.jpg 2x" data-file-width="640" data-file-height="480" /></a></div></div>
+			<div class="gallerytext">
+<p>River Holme, Thongsbridge
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:River_Holme,_Thongsbridge_-_geograph.org.uk_-_102743.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102743.jpg/90px-River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102743.jpg" decoding="async" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102743.jpg/135px-River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102743.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102743.jpg/180px-River_Holme%2C_Thongsbridge_-_geograph.org.uk_-_102743.jpg 2x" data-file-width="480" data-file-height="640" /></a></div></div>
+			<div class="gallerytext">
+<p>River Holme, Thongsbridge
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:River_Holme_-_Towngate_-_geograph.org.uk_-_500187.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/River_Holme_-_Towngate_-_geograph.org.uk_-_500187.jpg/117px-River_Holme_-_Towngate_-_geograph.org.uk_-_500187.jpg" decoding="async" width="117" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/River_Holme_-_Towngate_-_geograph.org.uk_-_500187.jpg/175px-River_Holme_-_Towngate_-_geograph.org.uk_-_500187.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/River_Holme_-_Towngate_-_geograph.org.uk_-_500187.jpg/233px-River_Holme_-_Towngate_-_geograph.org.uk_-_500187.jpg 2x" data-file-width="622" data-file-height="640" /></a></div></div>
+			<div class="gallerytext">
+<p>River Holme - Towngate
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:River_Holme_at_Holmfirth_-_geograph.org.uk_-_95382.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/River_Holme_at_Holmfirth_-_geograph.org.uk_-_95382.jpg/90px-River_Holme_at_Holmfirth_-_geograph.org.uk_-_95382.jpg" decoding="async" width="90" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/River_Holme_at_Holmfirth_-_geograph.org.uk_-_95382.jpg/135px-River_Holme_at_Holmfirth_-_geograph.org.uk_-_95382.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/River_Holme_at_Holmfirth_-_geograph.org.uk_-_95382.jpg/180px-River_Holme_at_Holmfirth_-_geograph.org.uk_-_95382.jpg 2x" data-file-width="480" data-file-height="640" /></a></div></div>
+			<div class="gallerytext">
+<p>River Holme at Holmfirth
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:River_Holme_in_Lockwood_Huddersfield_-_geograph.org.uk_-_489437.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/River_Holme_in_Lockwood_Huddersfield_-_geograph.org.uk_-_489437.jpg/120px-River_Holme_in_Lockwood_Huddersfield_-_geograph.org.uk_-_489437.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/70/River_Holme_in_Lockwood_Huddersfield_-_geograph.org.uk_-_489437.jpg/180px-River_Holme_in_Lockwood_Huddersfield_-_geograph.org.uk_-_489437.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/70/River_Holme_in_Lockwood_Huddersfield_-_geograph.org.uk_-_489437.jpg/240px-River_Holme_in_Lockwood_Huddersfield_-_geograph.org.uk_-_489437.jpg 2x" data-file-width="640" data-file-height="480" /></a></div></div>
+			<div class="gallerytext">
+<p>River Holme in Lockwood Huddersfield
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:15px auto;"><a href="/wiki/File:The_River_Holme_in_Holmfirth_-_geograph.org.uk_-_1252423.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/The_River_Holme_in_Holmfirth_-_geograph.org.uk_-_1252423.jpg/80px-The_River_Holme_in_Holmfirth_-_geograph.org.uk_-_1252423.jpg" decoding="async" width="80" height="120" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/The_River_Holme_in_Holmfirth_-_geograph.org.uk_-_1252423.jpg/120px-The_River_Holme_in_Holmfirth_-_geograph.org.uk_-_1252423.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/The_River_Holme_in_Holmfirth_-_geograph.org.uk_-_1252423.jpg/160px-The_River_Holme_in_Holmfirth_-_geograph.org.uk_-_1252423.jpg 2x" data-file-width="427" data-file-height="640" /></a></div></div>
+			<div class="gallerytext">
+<p>The River Holme in Holmfirth
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 155px"><div style="width: 155px">
+			<div class="thumb" style="width: 150px;"><div style="margin:30px auto;"><a href="/wiki/File:Old_bridge_over_the_River_Holme,_off_Woodhead_Road,_Holmfirth_-_geograph.org.uk_-_1112640.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Old_bridge_over_the_River_Holme%2C_off_Woodhead_Road%2C_Holmfirth_-_geograph.org.uk_-_1112640.jpg/120px-Old_bridge_over_the_River_Holme%2C_off_Woodhead_Road%2C_Holmfirth_-_geograph.org.uk_-_1112640.jpg" decoding="async" width="120" height="90" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Old_bridge_over_the_River_Holme%2C_off_Woodhead_Road%2C_Holmfirth_-_geograph.org.uk_-_1112640.jpg/180px-Old_bridge_over_the_River_Holme%2C_off_Woodhead_Road%2C_Holmfirth_-_geograph.org.uk_-_1112640.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Old_bridge_over_the_River_Holme%2C_off_Woodhead_Road%2C_Holmfirth_-_geograph.org.uk_-_1112640.jpg/240px-Old_bridge_over_the_River_Holme%2C_off_Woodhead_Road%2C_Holmfirth_-_geograph.org.uk_-_1112640.jpg 2x" data-file-width="640" data-file-height="480" /></a></div></div>
+			<div class="gallerytext">
+<p>Old bridge over the River Holme, off Woodhead Road, Holmfirth
+</p>
+			</div>
+		</div></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Holmfirth_Floods" class="mw-redirect" title="Holmfirth Floods">Holmfirth Floods</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=River_Holme&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.huddersfield1.co.uk/huddersfield/holmfirthflood/holmfirth1852.htm">Huddersfield One</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.environment-agency.gov.uk/homeandleisure/floods/riverlevels/120699.aspx?stationId=8165">"River Levels"</a>. <i>Environment Agency River and Sea Levels</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 August</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Environment+Agency+River+and+Sea+Levels&amp;rft.atitle=River+Levels&amp;rft_id=http%3A%2F%2Fwww.environment-agency.gov.uk%2Fhomeandleisure%2Ffloods%2Friverlevels%2F120699.aspx%3FstationId%3D8165&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARiver+Holme" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.holmfirth.org/holmfirth-floods/">"Floods"</a>. <i>Holmfirth Floods</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 August</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Holmfirth+Floods&amp;rft.atitle=Floods&amp;rft_id=http%3A%2F%2Fwww.holmfirth.org%2Fholmfirth-floods%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARiver+Holme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.huddersfield1.co.uk/huddersfield/holmfirthflood/holmfirth1852.htm">Huddersfield One</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20030903151850/http://www.huddersfield1.co.uk/huddersfield/tolson/water_supplies/geology.htm">"River Valley Geology"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.huddersfield1.co.uk/huddersfield/tolson/water_supplies/geology.htm">the original</a> on 3 September 2003<span class="reference-accessdate">. Retrieved <span class="nowrap">28 August</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=River+Valley+Geology&amp;rft_id=http%3A%2F%2Fwww.huddersfield1.co.uk%2Fhuddersfield%2Ftolson%2Fwater_supplies%2Fgeology.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARiver+Holme" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886058088"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Rivers_of_Yorkshire" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Rivers_of_Yorkshire" title="Template:Rivers of Yorkshire"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Rivers_of_Yorkshire" title="Template talk:Rivers of Yorkshire"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Rivers_of_Yorkshire&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Rivers_of_Yorkshire" style="font-size:114%;margin:0 4em">Rivers of Yorkshire</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">North Yorkshire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/River_Aire" title="River Aire">Aire</a></li>
+<li><a href="/wiki/Arkle_Beck" title="Arkle Beck">Arkle Beck</a></li>
+<li><a href="/wiki/River_Bain,_North_Yorkshire" title="River Bain, North Yorkshire">Bain</a></li>
+<li><a href="/wiki/Bedale_Beck" title="Bedale Beck">Bedale Beck</a></li>
+<li><a href="/wiki/River_Burn,_North_Yorkshire" title="River Burn, North Yorkshire">Burn</a></li>
+<li><a href="/wiki/Cock_Beck" title="Cock Beck">Cock Beck</a></li>
+<li><a href="/wiki/Cod_Beck,_North_Yorkshire" title="Cod Beck, North Yorkshire">Cod Beck</a></li>
+<li><a href="/wiki/Costa_Beck" title="Costa Beck">Costa Beck</a></li>
+<li><a href="/wiki/River_Cover" title="River Cover">Cover</a></li>
+<li><a href="/wiki/River_Derwent,_Yorkshire" title="River Derwent, Yorkshire">Derwent</a></li>
+<li><a href="/wiki/River_Dibb" title="River Dibb">Dibb</a></li>
+<li><a href="/wiki/River_Doe" title="River Doe">Doe</a></li>
+<li><a href="/wiki/River_Dove,_North_Yorkshire" title="River Dove, North Yorkshire">Dove</a></li>
+<li><a href="/wiki/Eller_Beck" title="Eller Beck">Eller Beck</a></li>
+<li><a href="/wiki/River_Esk,_North_Yorkshire" title="River Esk, North Yorkshire">Esk</a></li>
+<li><a href="/wiki/River_Foss" title="River Foss">Foss</a></li>
+<li><a href="/wiki/River_Greta_(Lune)" title="River Greta (Lune)">Greta (Lune)</a></li>
+<li><a href="/wiki/Gypsey_Race" title="Gypsey Race">Gypsey Race</a></li>
+<li><a href="/wiki/River_Kyle" title="River Kyle">Kyle</a></li>
+<li><a href="/wiki/River_Leven,_North_Yorkshire" title="River Leven, North Yorkshire">Leven</a></li>
+<li><a href="/wiki/Malham_Beck" title="Malham Beck">Malham Beck</a></li>
+<li><a href="/wiki/River_Nidd" title="River Nidd">Nidd</a></li>
+<li><a href="/wiki/River_Ouse,_Yorkshire" title="River Ouse, Yorkshire">Ouse</a></li>
+<li><a href="/wiki/Pickering_Beck" title="Pickering Beck">Pickering Beck</a></li>
+<li><a href="/wiki/River_Ribble" title="River Ribble">Ribble</a></li>
+<li><a href="/wiki/River_Riccal" title="River Riccal">Riccall</a></li>
+<li><a href="/wiki/Risedale_Beck" title="Risedale Beck">Risedale Beck</a></li>
+<li><a href="/wiki/River_Rye,_Yorkshire" title="River Rye, Yorkshire">Rye</a></li>
+<li><a href="/wiki/Sea_Cut_(Scalby_Beck)" title="Sea Cut (Scalby Beck)">Sea Cut</a></li>
+<li><a href="/wiki/River_Seph" title="River Seph">Seph</a></li>
+<li><a href="/wiki/River_Seven" title="River Seven">Seven</a></li>
+<li><a href="/wiki/River_Skell" title="River Skell">Skell</a></li>
+<li><a href="/wiki/River_Skirfare" title="River Skirfare">Skirfare</a></li>
+<li><a href="/wiki/River_Swale" title="River Swale">Swale</a></li>
+<li><a href="/wiki/River_Tees" title="River Tees">Tees</a></li>
+<li><a href="/wiki/River_Tutt" title="River Tutt">Tutt</a></li>
+<li><a href="/wiki/River_Twiss" title="River Twiss">Twiss</a></li>
+<li><a href="/wiki/River_Ure" title="River Ure">Ure</a></li>
+<li><a href="/wiki/River_Washburn" title="River Washburn">Washburn</a></li>
+<li><a href="/wiki/River_Wharfe" title="River Wharfe">Wharfe</a></li>
+<li><a href="/wiki/River_Wiske" title="River Wiske">Wiske</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">West Yorkshire</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/River_Aire" title="River Aire">Aire</a></li>
+<li><a href="/wiki/Bradford_Beck" title="Bradford Beck">Bradford Beck</a></li>
+<li><a href="/wiki/Black_Brook,_West_Yorkshire" title="Black Brook, West Yorkshire">Black Brook</a></li>
+<li><a href="/wiki/River_Calder,_West_Yorkshire" title="River Calder, West Yorkshire">Calder</a></li>
+<li><a href="/wiki/Cock_Beck" title="Cock Beck">Cock Beck</a></li>
+<li><a href="/wiki/River_Colne,_West_Yorkshire" title="River Colne, West Yorkshire">Colne</a></li>
+<li><a href="/wiki/River_Dearne" title="River Dearne">Dearne</a></li>
+<li><a href="/wiki/Harden_Beck" title="Harden Beck">Harden Beck</a></li>
+<li><a href="/wiki/Hebble_Brook" title="Hebble Brook">Hebble Brook</a></li>
+<li><a class="mw-selflink selflink">Holme</a></li>
+<li><a href="/wiki/Holme_Beck" title="Holme Beck">Holme Beck</a></li>
+<li><a href="/wiki/River_Laneshaw" title="River Laneshaw">Laneshaw</a></li>
+<li><a href="/wiki/Meanwood_Beck" title="Meanwood Beck">Meanwood Beck</a></li>
+<li><a href="/wiki/Pudsey_Beck" title="Pudsey Beck">Pudsey Beck</a></li>
+<li><a href="/wiki/River_Ribble,_West_Yorkshire" title="River Ribble, West Yorkshire">Ribble</a></li>
+<li><a href="/wiki/River_Ryburn" title="River Ryburn">Ryburn</a></li>
+<li><a href="/wiki/River_Spen" title="River Spen">Spen</a></li>
+<li><a href="/wiki/Tyersal_Beck" title="Tyersal Beck">Tyersal Beck</a></li>
+<li><a href="/wiki/River_Wharfe" title="River Wharfe">Wharfe</a></li>
+<li><a href="/wiki/River_Worth" title="River Worth">Worth</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">East Riding of Yorkshire</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aike_Beck" title="Aike Beck">Aike Beck</a></li>
+<li><a href="/wiki/River_Aire" title="River Aire">Aire</a></li>
+<li><a href="/wiki/Arram_Beck" title="Arram Beck">Arram Beck</a></li>
+<li><a href="/wiki/River_Derwent,_Yorkshire" title="River Derwent, Yorkshire">Derwent</a></li>
+<li><a href="/wiki/Driffield_Beck" class="mw-redirect" title="Driffield Beck">Driffield Beck</a></li>
+<li><a href="/wiki/River_Foulness" title="River Foulness">Foulness</a></li>
+<li><a href="/wiki/Gypsey_Race" title="Gypsey Race">Gypsey Race</a></li>
+<li><a href="/wiki/River_Hull" title="River Hull">Hull</a></li>
+<li><a href="/wiki/Humber" title="Humber">Humber</a></li>
+<li><a href="/wiki/River_Ouse,_Yorkshire" title="River Ouse, Yorkshire">Ouse</a></li>
+<li><a href="/wiki/Trent_Falls" title="Trent Falls">Trent Falls</a></li>
+<li><a href="/wiki/West_Beck" title="West Beck">West Beck</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">South Yorkshire</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blackburn_Brook" title="Blackburn Brook">Blackburn Brook</a></li>
+<li><a href="/wiki/River_Dearne" title="River Dearne">Dearne</a></li>
+<li><a href="/wiki/River_Don,_Yorkshire" title="River Don, Yorkshire">Don</a></li>
+<li><a href="/wiki/River_Dove,_Barnsley" title="River Dove, Barnsley">Dove</a></li>
+<li><a href="/wiki/Limb_Brook" title="Limb Brook">Limb Brook</a></li>
+<li><a href="/wiki/Little_Don_River" title="Little Don River">Little Don</a></li>
+<li><a href="/wiki/River_Loxley" title="River Loxley">Loxley</a></li>
+<li><a href="/wiki/Meers_Brook" title="Meers Brook">Meers Brook</a></li>
+<li><a href="/wiki/Old_Hay_Brook" title="Old Hay Brook">Old Hay Brook</a></li>
+<li><a href="/wiki/Porter_Brook" title="Porter Brook">Porter Brook</a></li>
+<li><a href="/wiki/River_Rivelin" title="River Rivelin">Rivelin</a></li>
+<li><a href="/wiki/River_Rother,_South_Yorkshire" title="River Rother, South Yorkshire">Rother</a></li>
+<li><a href="/wiki/River_Ryton" title="River Ryton">Ryton</a></li>
+<li><a href="/wiki/River_Sheaf" title="River Sheaf">Sheaf</a></li>
+<li><a href="/wiki/Shire_Brook" title="Shire Brook">Shire Brook</a></li>
+<li><a href="/wiki/River_Torne" title="River Torne">Torne</a></li>
+<li><a href="/wiki/Totley_Brook" title="Totley Brook">Totley Brook</a></li>
+<li><a href="/wiki/River_Went" title="River Went">Went</a></li>
+<li><a href="/wiki/Wyming_Brook" title="Wyming Brook">Wyming Brook</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1256
+Cached time: 20190925144851
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.304 seconds
+Real time usage: 0.419 seconds
+Preprocessor visited node count: 1890/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 48144/2097152 bytes
+Template argument size: 10805/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 16626/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.144/10.000 seconds
+Lua memory usage: 5.19 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  363.169      1 -total
+ 46.27%  168.049      1 Template:Infobox_river
+ 45.62%  165.660      2 Template:Infobox
+ 26.30%   95.520      1 Template:Reflist
+ 23.64%   85.866      3 Template:Cite_web
+  9.95%   36.126      7 Template:Convert
+  7.84%   28.471      2 Template:Coord
+  7.32%   26.597      1 Template:Use_British_English
+  4.40%   15.967      6 Template:Infobox_river/source
+  4.16%   15.109      2 Template:DMCA
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3118085-0!canonical and timestamp 20190925144851 and revision id 917796422
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=River_Holme&amp;oldid=917796422">https://en.wikipedia.org/w/index.php?title=River_Holme&amp;oldid=917796422</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Rivers_of_Kirklees" title="Category:Rivers of Kirklees">Rivers of Kirklees</a></li><li><a href="/wiki/Category:Rivers_of_Huddersfield" title="Category:Rivers of Huddersfield">Rivers of Huddersfield</a></li><li><a href="/wiki/Category:Rivers_and_valleys_of_the_Peak_District" title="Category:Rivers and valleys of the Peak District">Rivers and valleys of the Peak District</a></li><li><a href="/wiki/Category:Holme_Valley" title="Category:Holme Valley">Holme Valley</a></li><li><a href="/wiki/Category:Rivers_of_West_Yorkshire" title="Category:Rivers of West Yorkshire">Rivers of West Yorkshire</a></li><li><a href="/wiki/Category:Aire_catchment" title="Category:Aire catchment">Aire catchment</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_British_English_from_October_2017" title="Category:Use British English from October 2017">Use British English from October 2017</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_October_2017" title="Category:Use dmy dates from October 2017">Use dmy dates from October 2017</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=River+Holme" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=River+Holme" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/River_Holme" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:River_Holme" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/River_Holme">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=River_Holme&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=River_Holme&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/River_Holme" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/River_Holme" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=River_Holme&amp;oldid=917796422" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=River_Holme&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7337506" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=River_Holme&amp;id=917796422" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=River+Holme">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=River+Holme&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=River_Holme&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/R%C3%ADo_Holme" title="Río Holme – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q7337506#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 September 2019, at 14:48<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=River_Holme&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.304","walltime":"0.419","ppvisitednodes":{"value":1890,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":48144,"limit":2097152},"templateargumentsize":{"value":10805,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":16626,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  363.169      1 -total"," 46.27%  168.049      1 Template:Infobox_river"," 45.62%  165.660      2 Template:Infobox"," 26.30%   95.520      1 Template:Reflist"," 23.64%   85.866      3 Template:Cite_web","  9.95%   36.126      7 Template:Convert","  7.84%   28.471      2 Template:Coord","  7.32%   26.597      1 Template:Use_British_English","  4.40%   15.967      6 Template:Infobox_river/source","  4.16%   15.109      2 Template:DMCA"]},"scribunto":{"limitreport-timeusage":{"value":"0.144","limit":"10.000"},"limitreport-memusage":{"value":5444266,"limit":52428800}},"cachereport":{"origin":"mw1256","timestamp":"20190925144851","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"River Holme","url":"https:\/\/en.wikipedia.org\/wiki\/River_Holme","sameAs":"http:\/\/www.wikidata.org\/entity\/Q7337506","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q7337506","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-11-09T17:02:34Z","dateModified":"2019-09-25T14:48:50Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/06\/River_Holme_%28left%29_joining_River_Colne_at_Huddersfield%2C_West_Yorkshire%2C_UK_%28RLH%29.JPG","headline":"river in Yorkshire, United Kingdom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":107,"wgHostname":"mw1256"});});</script>
+</body>
+</html>
+

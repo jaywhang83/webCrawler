@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Drayton House - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Drayton_House","wgTitle":"Drayton House","wgCurRevisionId":912462840,"wgRevisionId":912462840,"wgArticleId":32798039,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["EngvarB from February 2018","Use dmy dates from February 2018","Infobox mapframe without OSM relation ID on Wikidata","Coordinates on Wikidata","Pages using the Kartographer extension","Country houses in Northamptonshire","Grade I listed buildings in Northamptonshire","Grade I listed houses","East Northamptonshire District"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October",
+"November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Drayton_House","wgRelevantArticleId":32798039,"wgRequestId":"XY@XqgpAICoAADT6sPsAAAAY","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgKartographerLiveData":{"_e8490ba68d74c42c00ae829e19c1b6ee4b54c3d5":[{"type":"ExternalData","service":"geoshape","url":
+"https://maps.wikimedia.org/geoshape?getgeojson=1\u0026ids=Q5306118","properties":{"stroke-width":3,"stroke":"#FF0000","title":"Drayton House","fill":"#606060"}},{"type":"ExternalData","service":"geoline","url":"https://maps.wikimedia.org/geoline?getgeojson=1\u0026ids=Q5306118","properties":{"stroke-width":5,"stroke":"#FF0000","title":"Drayton House"}},{"type":"Feature","geometry":{"coordinates":[-0.585728,52.4097],"type":"Point"},"properties":{"title":"Drayton House","marker-color":"#5E74F3"}}]},"wgCoordinates":{"lat":52.40933,"lon":-0.58585},"wgWikibaseItemId":"Q5306118","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.kartographer.style":"ready","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready",
+"mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["ext.kartographer.staticframe","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init",
+"ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/8c/Drayton_House%2C_south-east_front-geograph.org.uk-2484619.jpg"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Drayton_House"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Drayton_House&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Drayton_House&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Drayton_House"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Drayton_House rootpage-Drayton_House skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Drayton House</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vcard" style="width:22em"><tbody><tr><th colspan="2" class="fn org" style="text-align:center;font-size:125%;font-weight:bold">Drayton House</th></tr><tr><td colspan="2" style="text-align:center;text-align: center"><a href="/wiki/File:Drayton_House,_south-east_front-geograph.org.uk-2484619.jpg" class="image"><img alt="Drayton House, south-east front-geograph.org.uk-2484619.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Drayton_House%2C_south-east_front-geograph.org.uk-2484619.jpg/240px-Drayton_House%2C_south-east_front-geograph.org.uk-2484619.jpg" decoding="async" width="240" height="180" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Drayton_House%2C_south-east_front-geograph.org.uk-2484619.jpg/360px-Drayton_House%2C_south-east_front-geograph.org.uk-2484619.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Drayton_House%2C_south-east_front-geograph.org.uk-2484619.jpg/480px-Drayton_House%2C_south-east_front-geograph.org.uk-2484619.jpg 2x" data-file-width="640" data-file-height="480" /></a><div style="text-align: center">Drayton House from south-east</div></td></tr><tr><td colspan="2" style="text-align:center;text-align: center"><a class="mw-kartographer-map mw-kartographer-container center" data-mw="interface" data-style="osm-intl" data-width="270" data-height="200" data-zoom="13" data-overlays="[&quot;_e8490ba68d74c42c00ae829e19c1b6ee4b54c3d5&quot;]" style="background-image: url(https://maps.wikimedia.org/img/osm-intl,13,a,a,270x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Drayton+House&amp;groups=_e8490ba68d74c42c00ae829e19c1b6ee4b54c3d5); width: 270px; height: 200px;" href="/wiki/Special:Map/13/a/a/en"></a></td></tr><tr><th colspan="2" style="text-align:center;background-color:#ededed">General information</th></tr><tr><th scope="row">Address</th><td>Drayton Park</td></tr><tr><th scope="row">Town or city</th><td><a href="/wiki/Lowick,_Northamptonshire" title="Lowick, Northamptonshire">Lowick, Northamptonshire</a></td></tr><tr><th scope="row">Country</th><td>England</td></tr><tr><th scope="row"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th><td><span style="font-size: small;"><span id="coordinates"><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Drayton_House&amp;params=52.40933_N_0.58585_W_type:landmark_region:GB"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">52°24′34″N</span> <span class="longitude">0°35′09″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">52.40933°N 0.58585°W</span><span style="display:none">&#xfeff; / <span class="geo">52.40933; -0.58585</span></span></span></a></span></span></span></td></tr><tr><th scope="row"><span class="nowrap">Construction started</span></th><td>1300</td></tr><tr><th scope="row">Owner</th><td>Stopford-Sackville family</td></tr><tr><th scope="row">Designations</th><td><a href="/wiki/Grade_I_listed_building" class="mw-redirect" title="Grade I listed building">Grade I listed building</a></td></tr><tr><th colspan="2" style="text-align:center;background-color:#ededed">Website</th></tr><tr><td colspan="2" style="text-align:center"><span class="url"><a rel="nofollow" class="external text" href="http://www.draytonestate.com">www<wbr />.draytonestate<wbr />.com</a></span></td></tr></tbody></table>
+<p><b>Drayton House</b> is a country house 1 mile (1.6&#160;km) south-west of the village of <a href="/wiki/Lowick,_Northamptonshire" title="Lowick, Northamptonshire">Lowick, Northamptonshire</a>, England.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> 
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Principal_owners_of_the_house"><span class="tocnumber">2</span> <span class="toctext">Principal owners of the house</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Main_rooms"><span class="tocnumber">3</span> <span class="toctext">Main rooms</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drayton_House&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Aubrey_de_Vere_I" title="Aubrey de Vere I">Aubrey de Vere I</a> participated in the <a href="/wiki/Norman_conquest_of_England" title="Norman conquest of England">Norman conquest of England</a> and was awarded land near Northampton to build a manor house. In the early thirteenth century, Sir Walter de Vere dropped the "de Vere" family name, and assumed the surname "Drayton".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:DraytonHouseJonesViews1829.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/DraytonHouseJonesViews1829.jpg/220px-DraytonHouseJonesViews1829.jpg" decoding="async" width="220" height="145" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/DraytonHouseJonesViews1829.jpg/330px-DraytonHouseJonesViews1829.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/DraytonHouseJonesViews1829.jpg/440px-DraytonHouseJonesViews1829.jpg 2x" data-file-width="546" data-file-height="359" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:DraytonHouseJonesViews1829.jpg" class="internal" title="Enlarge"></a></div>Drayton House in Northamptonshire, England from Jones's <i>Views of the Seats of Nobleman and Gentlemen</i> (1829)</div></div></div>
+<p>The core of the house was built by Sir Simon de Drayton around 1300 and still survives. He received his <a href="/wiki/Licence_to_crenellate" title="Licence to crenellate">licence to crenellate</a> in 1328. There have been changes to the house in each century since, including works recorded by Isaac Rowe, <a href="/wiki/John_Webb_(architect)" title="John Webb (architect)">John Webb</a>, <a href="/wiki/William_Talman_(architect)" title="William Talman (architect)">William Talman</a>, <a href="/wiki/Gerard_Lanscroon" title="Gerard Lanscroon">Gerard Lanscroon</a>, William Rhodes, Alexander Roos, <a href="/wiki/George_Devey" title="George Devey">George Devey</a> and <a href="/wiki/John_Alfred_Gotch" title="John Alfred Gotch">John Alfred Gotch</a>. However, the house is important for the transformation it underwent during the late 17th and early 18th centuries. There is a unique spiral cantilever oak staircase dating from around 1680 and an embroidered State Bed from 1700. 
+</p><p>In 1770 the house passed to the Sackville family. Two rooms were redecorated in the Adam style. The house today preserves its medieval origins and the changes in the Baroque period, and is a family home. It is built of squared coursed limestone and limestone ashlar with lead and <a href="/wiki/Collyweston_stone_slate" title="Collyweston stone slate">Collyweston stone slate</a> roofs, and sits in large grounds known as Drayton Park.
+</p><p>
+The house is open to groups of visitors by prior written appointment.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup></p><div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Principal_owners_of_the_house">Principal owners of the house</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drayton_House&amp;action=edit&amp;section=2" title="Edit section: Principal owners of the house">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:192px;"><a href="/wiki/File:2ndEarlOfPeterborough.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/7/75/2ndEarlOfPeterborough.jpg" decoding="async" width="190" height="290" class="thumbimage" data-file-width="190" data-file-height="290" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:2ndEarlOfPeterborough.jpg" class="internal" title="Enlarge"></a></div><a href="/wiki/Henry_Mordaunt,_2nd_Earl_of_Peterborough" title="Henry Mordaunt, 2nd Earl of Peterborough">Henry Mordaunt, 2nd Earl of Peterborough</a></div></div></div>
+<ul><li>Sir Simon de Drayton 1300 – 1357</li>
+<li>John de Drayton 1358</li>
+<li>Baldwin de Drayton 1358 – 1362</li>
+<li><a href="/wiki/Henry_Green_(English_judge)" title="Henry Green (English judge)">Sir Henry Green</a> 1362 – 1370 <a href="/wiki/Chief_Justice_of_the_King%27s_Bench" class="mw-redirect" title="Chief Justice of the King&#39;s Bench">Chief Justice of the King's Bench</a></li>
+<li><a href="/wiki/Henry_Green_(courtier)" title="Henry Green (courtier)">Sir Henry Greene</a> 1370 – 1399</li>
+<li><a href="/w/index.php?title=Ralph_Green_(MP)&amp;action=edit&amp;redlink=1" class="new" title="Ralph Green (MP) (page does not exist)">Ralph Green</a> 1400 – 1417</li>
+<li>John Green 1417 – 1433</li>
+<li>Henry Green 1433 – 1467</li>
+<li><a href="/wiki/John_Stafford,_1st_Earl_of_Wiltshire" title="John Stafford, 1st Earl of Wiltshire">John Stafford, 1st Earl of Wiltshire</a> 1467 – 1473</li>
+<li><a href="/wiki/Edward_Stafford,_2nd_Earl_of_Wiltshire" title="Edward Stafford, 2nd Earl of Wiltshire">Edward Stafford, 2nd Earl of Wiltshire</a> 1473 – 1498</li>
+<li><a href="/wiki/John_Mordaunt,_1st_Baron_Mordaunt" title="John Mordaunt, 1st Baron Mordaunt">John Mordaunt, 1st Baron Mordaunt</a> 1515 – 1561</li>
+<li><a href="/wiki/John_Mordaunt,_2nd_Baron_Mordaunt" title="John Mordaunt, 2nd Baron Mordaunt">John Mordaunt, 2nd Baron Mordaunt</a> 1561 – 1571</li>
+<li><a href="/wiki/Lewis_Mordaunt,_3rd_Baron_Mordaunt" title="Lewis Mordaunt, 3rd Baron Mordaunt">Lewis Mordaunt, 3rd Baron Mordaunt</a> 1571 – 1601</li>
+<li>Henry Mordaunt, 4th Baron Mordaunt 1601 – 1610</li>
+<li><a href="/wiki/John_Mordaunt,_1st_Earl_of_Peterborough" title="John Mordaunt, 1st Earl of Peterborough">John Mordaunt, 1st Earl of Peterborough</a> 1610 – 1642</li>
+<li><a href="/wiki/Henry_Mordaunt,_2nd_Earl_of_Peterborough" title="Henry Mordaunt, 2nd Earl of Peterborough">Henry Mordaunt, 2nd Earl of Peterborough</a> 1642 – 1697</li>
+<li><a href="/wiki/Mary_Howard,_Duchess_of_Norfolk_(d._1705)" class="mw-redirect" title="Mary Howard, Duchess of Norfolk (d. 1705)">Mary Howard, 7th Baroness Mordaunt</a>, and <a href="/wiki/Sir_John_Germain,_1st_Baronet" title="Sir John Germain, 1st Baronet">Sir John Germain, 1st Baronet</a> 1697 – 1718</li>
+<li><a href="/wiki/Elizabeth_Germain" title="Elizabeth Germain">Elizabeth Germain</a> 1718 – 1769</li>
+<li><a href="/wiki/George_Germain,_1st_Viscount_Sackville" title="George Germain, 1st Viscount Sackville">George Germain, 1st Viscount Sackville</a> 1770 – 1785</li>
+<li><a href="/wiki/Charles_Sackville-Germain,_5th_Duke_of_Dorset" title="Charles Sackville-Germain, 5th Duke of Dorset">Charles Sackville-Germain, 5th Duke of Dorset</a> 1785 – 1843</li>
+<li>William Bruce Stopford<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> 1843 – 1872</li>
+<li><a href="/wiki/Sackville_Stopford_Sackville" class="mw-redirect" title="Sackville Stopford Sackville">Sackville Stopford Sackville</a> 1872 – 1926</li>
+<li>Nigel Victor Stopford Sackville 1926 – 1972</li>
+<li>Lionel Geoffrey Stopford Sackville 1972 – 1997</li>
+<li>Charles Lionel Stopford Sackville 1997 – present</li></ul>
+<h2><span class="mw-headline" id="Main_rooms">Main rooms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drayton_House&amp;action=edit&amp;section=3" title="Edit section: Main rooms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Late thirteenth-century solar undercroft.</li>
+<li>Medieval Great Hall remodelled early in the eighteenth century by <a href="/wiki/William_Talman_(architect)" title="William Talman (architect)">William Talman</a> and decorated by Alexander Roos c.1850 to simulate marble.</li>
+<li>Dining room (originally the medieval buttery and pantry). Remodelled c.1771/74 by William Rhodes possibly to design by William Chambers.</li>
+<li>The Green Drawing Room remodelled c.1773 by W. Rhodes</li>
+<li>The Blue Drawing Room, with decoration by <a href="/wiki/John_Webb_(architect)" title="John Webb (architect)">John Webb</a>.</li>
+<li>The State Bedroom remodelled c.1653 by <a href="/wiki/John_Webb_(architect)" title="John Webb (architect)">John Webb</a>. This room has a <a href="/wiki/Priest_hole" title="Priest hole">Priest hole</a> above it.</li>
+<li>Lacquer closet off State Bedroom with panels of Chinese <a href="/wiki/Coromandel_screen" class="mw-redirect" title="Coromandel screen">Coromandel screens</a>.</li>
+<li>The chapel</li>
+<li>The King's Dining Room (originally the medieval <a href="/wiki/Solar_(room)" title="Solar (room)">solar</a>)</li>
+<li>The library (originally the <a href="/wiki/Long_gallery" title="Long gallery">long gallery</a>).</li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drayton_House&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"> Nikolaus Pevsner. Buildings of England: Northamptonshire, p.189</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"> Magnolia Plantation and Gardens By Derek Fell. Giibs Smith. 2009</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="/wiki/Historic_Houses_Association" title="Historic Houses Association">Historic Houses Association</a> website</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"> A genealogical and heraldic dictionary of the landed gentry of Great Britain and Ireland, Volume 2. Sir Bernard Burke, 1863</span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1271
+Cached time: 20190924201528
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.276 seconds
+Real time usage: 0.363 seconds
+Preprocessor visited node count: 1622/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 12615/2097152 bytes
+Template argument size: 3459/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 1725/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.133/10.000 seconds
+Lua memory usage: 3.49 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  318.528      1 -total
+ 70.31%  223.949      1 Template:Infobox_building
+ 62.83%  200.131      1 Template:Infobox
+ 13.92%   44.324      1 Template:Country_abbreviation
+ 12.37%   39.409      1 Template:Convert
+ 11.08%   35.296      2 Template:If_declined
+ 10.16%   32.369      1 Template:Infobox_mapframe
+  9.73%   30.985      1 Template:EngvarB
+  8.33%   26.523      1 Template:Coord
+  6.44%   20.513      6 Template:Ifempty
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:32798039-0!canonical and timestamp 20190924201528 and revision id 912462840
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Drayton_House&amp;oldid=912462840">https://en.wikipedia.org/w/index.php?title=Drayton_House&amp;oldid=912462840</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Country_houses_in_Northamptonshire" title="Category:Country houses in Northamptonshire">Country houses in Northamptonshire</a></li><li><a href="/wiki/Category:Grade_I_listed_buildings_in_Northamptonshire" title="Category:Grade I listed buildings in Northamptonshire">Grade I listed buildings in Northamptonshire</a></li><li><a href="/wiki/Category:Grade_I_listed_houses" title="Category:Grade I listed houses">Grade I listed houses</a></li><li><a href="/wiki/Category:East_Northamptonshire_District" title="Category:East Northamptonshire District">East Northamptonshire District</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:EngvarB_from_February_2018" title="Category:EngvarB from February 2018">EngvarB from February 2018</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_February_2018" title="Category:Use dmy dates from February 2018">Use dmy dates from February 2018</a></li><li><a href="/wiki/Category:Infobox_mapframe_without_OSM_relation_ID_on_Wikidata" title="Category:Infobox mapframe without OSM relation ID on Wikidata">Infobox mapframe without OSM relation ID on Wikidata</a></li><li><a href="/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li><li><a href="/wiki/Category:Pages_using_the_Kartographer_extension" title="Category:Pages using the Kartographer extension">Pages using the Kartographer extension</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Drayton+House" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Drayton+House" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Drayton_House" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Drayton_House" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Drayton_House">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Drayton_House&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Drayton_House&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Drayton_House" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Drayton_House" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Drayton_House&amp;oldid=912462840" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Drayton_House&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5306118" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Drayton_House&amp;id=912462840" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Drayton_House" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Drayton+House">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Drayton+House&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Drayton_House&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+									</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5306118#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 August 2019, at 19:32<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Drayton_House&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.276","walltime":"0.363","ppvisitednodes":{"value":1622,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":12615,"limit":2097152},"templateargumentsize":{"value":3459,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":1725,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  318.528      1 -total"," 70.31%  223.949      1 Template:Infobox_building"," 62.83%  200.131      1 Template:Infobox"," 13.92%   44.324      1 Template:Country_abbreviation"," 12.37%   39.409      1 Template:Convert"," 11.08%   35.296      2 Template:If_declined"," 10.16%   32.369      1 Template:Infobox_mapframe","  9.73%   30.985      1 Template:EngvarB","  8.33%   26.523      1 Template:Coord","  6.44%   20.513      6 Template:Ifempty"]},"scribunto":{"limitreport-timeusage":{"value":"0.133","limit":"10.000"},"limitreport-memusage":{"value":3660161,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20190924201528","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Drayton House","url":"https:\/\/en.wikipedia.org\/wiki\/Drayton_House","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5306118","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5306118","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-08-19T12:02:22Z","dateModified":"2019-08-25T19:32:17Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/8\/8c\/Drayton_House%2C_south-east_front-geograph.org.uk-2484619.jpg","headline":"Grade I listed building in East Northamptonshire, United Kingdom"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":112,"wgHostname":"mw1321"});});</script>
+</body>
+</html>
+

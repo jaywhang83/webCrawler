@@ -1,0 +1,5 @@
+Total file size of all the input files (in bytes): 178857683
+Total number of tokens across all input files: 937315
+Total number of unique tokens across all input files:99673
+Total index size, that is total size of the three index files (in bytes): 30618745
+Ratio of total index size to total file size is 30618745:178857683

@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Wakefield F.C. - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Wakefield_F.C.","wgTitle":"Wakefield F.C.","wgCurRevisionId":901690897,"wgRevisionId":901690897,"wgArticleId":3667033,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from February 2014","Use British English from February 2014","Defunct football clubs in England","Football clubs in West Yorkshire","Association football clubs established in 1903","1903 establishments in England","Sport in Wakefield","Huddersfield and District Association Football League","West Riding County Amateur Football League","Yorkshire Football League","Northern Counties East Football League","Northern Premier League clubs"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],
+"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wakefield_F.C.","wgRelevantArticleId":3667033,"wgRequestId":"XZHHvgpAICAAALT@QAIAAABC","wgCSPNonce":!1,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Wakefield_FC","wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgPoweredByHHVM":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia",
+"wgInternalRedirectTargetUrl":"/wiki/Wakefield_F.C.","wgWikibaseItemId":"Q18464","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse",
+"ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.34.0-wmf.24"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Wakefield_F.C..svg/1200px-Wakefield_F.C..svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Wakefield_F.C."/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Wakefield_F.C.&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Wakefield_F.C.&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Wakefield_F.C."/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Wakefield_F_C rootpage-Wakefield_F_C skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="en">Wakefield F.C.</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Wakefield_FC&amp;redirect=no" class="mw-redirect" title="Wakefield FC">Wakefield FC</a>)</span></div>
+		
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#p-search">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vcard" style="width:22em"><caption class="fn org">Wakefield</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:Wakefield_F.C..svg" class="image"><img alt="Wakefield F.C..svg" src="//upload.wikimedia.org/wikipedia/en/thumb/d/d8/Wakefield_F.C..svg/220px-Wakefield_F.C..svg.png" decoding="async" width="220" height="269" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/d8/Wakefield_F.C..svg/330px-Wakefield_F.C..svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/d8/Wakefield_F.C..svg/440px-Wakefield_F.C..svg.png 2x" data-file-width="235" data-file-height="287" /></a></td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Full name</th><td>Wakefield Football Club</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Nickname(s)</th><td class="nickname">The Bears</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Founded</th><td>1903, as <i>Emley</i></td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Dissolved</th><td>June 2014</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Ground</th><td class="label"><a href="/wiki/Belle_Vue_(Wakefield)" title="Belle Vue (Wakefield)">Belle Vue</a><br /><a href="/wiki/Wakefield" title="Wakefield">Wakefield</a><br /><a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left">Capacity</th><td>12,000</td></tr><tr><th scope="row" style="white-space: nowrap; text-align:left"><a href="/wiki/2013%E2%80%9314_Northern_Premier_League" title="2013–14 Northern Premier League">2013–14</a></th><td><a href="/wiki/Northern_Premier_League" title="Northern Premier League">Northern Premier League</a><br /><a href="/wiki/Northern_Premier_League_Division_One_North" class="mw-redirect" title="Northern Premier League Division One North">Division One North</a>, 22nd</td></tr><tr><td colspan="2" style="text-align:center"></td></tr><tr><td class="toccolours" style="padding: 0; background: #ffffff; text-align: center;" colspan="2">
+<table style="width:100%; text-align:center;">
+<tbody><tr>
+<td><div style="width: 100px; margin: 0 auto; padding: 0;">
+<div style="position: relative; left: 0px; top: 0px; width: 100px; height: 135px; margin: 0 auto; padding: 0;">
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px; background-color: #003399;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/f/f8/Kit_left_arm_whiteshoulders.png" decoding="async" title="Team colours" width="31" height="59" style="vertical-align: top" data-file-width="31" data-file-height="59" /></div>
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png" decoding="async" width="31" height="59" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/47px-Kit_left_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/62px-Kit_left_arm.svg.png 2x" data-file-width="31" data-file-height="59" /></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px; background-color: #003399;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/9/91/Kit_body_thinwhitesides.png" decoding="async" width="38" height="59" style="vertical-align: top" data-file-width="38" data-file-height="59" /></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png" decoding="async" width="38" height="59" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/57px-Kit_body.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/76px-Kit_body.svg.png 2x" data-file-width="38" data-file-height="59" /></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px; background-color: #003399;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/6/6c/Kit_right_arm_whiteshoulders.png" decoding="async" width="31" height="59" style="vertical-align: top" data-file-width="31" data-file-height="59" /></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/31px-Kit_right_arm.svg.png" decoding="async" width="31" height="59" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/47px-Kit_right_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/62px-Kit_right_arm.svg.png 2x" data-file-width="31" data-file-height="59" /></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px; background-color: #003399"></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png" decoding="async" width="100" height="36" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/150px-Kit_shorts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/200px-Kit_shorts.svg.png 2x" data-file-width="100" data-file-height="36" /></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px; background-color: #003399"></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png" decoding="async" width="100" height="40" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/150px-Kit_socks_long.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/200px-Kit_socks_long.svg.png 2x" data-file-width="100" data-file-height="40" /></div>
+</div>
+<div style="padding-top: 0.6em; text-align: center;"><b><a href="/wiki/Kit_(association_football)" title="Kit (association football)">Home colours</a></b></div>
+</div></td><td><div style="width: 100px; margin: 0 auto; padding: 0;">
+<div style="position: relative; left: 0px; top: 0px; width: 100px; height: 135px; margin: 0 auto; padding: 0;">
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px; background-color: #9AFE2E;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/4/4b/Kit_left_arm_blacklower.png" decoding="async" title="Team colours" width="31" height="59" style="vertical-align: top" data-file-width="31" data-file-height="59" /></div>
+<div style="position: absolute; left: 0px; top: 0px; width: 31px; height: 59px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png" decoding="async" width="31" height="59" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/47px-Kit_left_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/62px-Kit_left_arm.svg.png 2x" data-file-width="31" data-file-height="59" /></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px; background-color: #9AFE2E;"></div>
+<div style="position: absolute; left: 31px; top: 0px; width: 38px; height: 59px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/38px-Kit_body.svg.png" decoding="async" width="38" height="59" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/57px-Kit_body.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Kit_body.svg/76px-Kit_body.svg.png 2x" data-file-width="38" data-file-height="59" /></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px; background-color: #9AFE2E;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/f/ff/Kit_right_arm_blacklower.png" decoding="async" width="31" height="59" style="vertical-align: top" data-file-width="31" data-file-height="59" /></div>
+<div style="position: absolute; left: 69px; top: 0px; width: 31px; height: 59px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/31px-Kit_right_arm.svg.png" decoding="async" width="31" height="59" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/47px-Kit_right_arm.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kit_right_arm.svg/62px-Kit_right_arm.svg.png 2x" data-file-width="31" data-file-height="59" /></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px; background-color: #000000"></div>
+<div style="position: absolute; left: 0px; top: 59px; width: 100px; height: 36px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/100px-Kit_shorts.svg.png" decoding="async" width="100" height="36" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/150px-Kit_shorts.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/200px-Kit_shorts.svg.png 2x" data-file-width="100" data-file-height="36" /></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px; background-color: #000000"></div>
+<div style="position: absolute; left: 0px; top: 95px; width: 100px; height: 40px;"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/100px-Kit_socks_long.svg.png" decoding="async" width="100" height="40" style="vertical-align: top" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/150px-Kit_socks_long.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kit_socks_long.svg/200px-Kit_socks_long.svg.png 2x" data-file-width="100" data-file-height="40" /></div>
+</div>
+<div style="padding-top: 0.6em; text-align: center;"><b><a href="/wiki/Away_colours" title="Away colours">Away colours</a></b></div>
+</div></td></tr>
+</tbody></table></td></tr><tr style="display:none"><td colspan="2">
+</td></tr></tbody></table>
+<p><b>Wakefield F.C.</b> was an <a href="/wiki/English_football" class="mw-redirect" title="English football">English football</a> club based in <a href="/wiki/Wakefield" title="Wakefield">Wakefield</a>, <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a>. The club was previously based in the village of <a href="/wiki/Emley,_West_Yorkshire" title="Emley, West Yorkshire">Emley</a> and was known as <b>Emley A.F.C.</b> from 1903 to 2002. The club was wound up in June 2014.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Records"><span class="tocnumber">2</span> <span class="toctext">Records</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Honours"><span class="tocnumber">3</span> <span class="toctext">Honours</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakefield_F.C.&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/File:EmleyOld.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/EmleyOld.jpg/250px-EmleyOld.jpg" decoding="async" width="250" height="143" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/EmleyOld.jpg/375px-EmleyOld.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/EmleyOld.jpg/500px-EmleyOld.jpg 2x" data-file-width="630" data-file-height="360" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:EmleyOld.jpg" class="internal" title="Enlarge"></a></div>A pre-1913 Emley squad.</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:102px;"><a href="/wiki/File:Wakefieldandemleyafc.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Wakefieldandemleyafc.jpg/100px-Wakefieldandemleyafc.jpg" decoding="async" width="100" height="126" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Wakefieldandemleyafc.jpg/150px-Wakefieldandemleyafc.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Wakefieldandemleyafc.jpg/200px-Wakefieldandemleyafc.jpg 2x" data-file-width="281" data-file-height="354" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Wakefieldandemleyafc.jpg" class="internal" title="Enlarge"></a></div>Old Emley A.F.C. logo</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Em..jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Em..jpg/220px-Em..jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Em..jpg/330px-Em..jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Em..jpg/440px-Em..jpg 2x" data-file-width="800" data-file-height="600" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Em..jpg" class="internal" title="Enlarge"></a></div>The Welfare Ground at Emley, the club's long time home</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:132px;"><a href="/wiki/File:Wakefield-Emley-Logo.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Wakefield-Emley-Logo.jpg/130px-Wakefield-Emley-Logo.jpg" decoding="async" width="130" height="133" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Wakefield-Emley-Logo.jpg/195px-Wakefield-Emley-Logo.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Wakefield-Emley-Logo.jpg/260px-Wakefield-Emley-Logo.jpg 2x" data-file-width="294" data-file-height="300" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Wakefield-Emley-Logo.jpg" class="internal" title="Enlarge"></a></div>Wakefield–Emley logo</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:WAKEFIELD_FC_ARTHUR_STREET.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/WAKEFIELD_FC_ARTHUR_STREET.jpg/220px-WAKEFIELD_FC_ARTHUR_STREET.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/WAKEFIELD_FC_ARTHUR_STREET.jpg/330px-WAKEFIELD_FC_ARTHUR_STREET.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/WAKEFIELD_FC_ARTHUR_STREET.jpg/440px-WAKEFIELD_FC_ARTHUR_STREET.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:WAKEFIELD_FC_ARTHUR_STREET.jpg" class="internal" title="Enlarge"></a></div>Belle Vue, Arthur Street side</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wakefield_Football_Club_Arthur_street_stand.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wakefield_Football_Club_Arthur_street_stand.jpg/220px-Wakefield_Football_Club_Arthur_street_stand.jpg" decoding="async" width="220" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wakefield_Football_Club_Arthur_street_stand.jpg/330px-Wakefield_Football_Club_Arthur_street_stand.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Wakefield_Football_Club_Arthur_street_stand.jpg/440px-Wakefield_Football_Club_Arthur_street_stand.jpg 2x" data-file-width="528" data-file-height="400" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Wakefield_Football_Club_Arthur_street_stand.jpg" class="internal" title="Enlarge"></a></div>Belle Vue, Arthur Street stand</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wakefield_Football_Club_Trinity_stand_and_ground.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wakefield_Football_Club_Trinity_stand_and_ground.jpg/220px-Wakefield_Football_Club_Trinity_stand_and_ground.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wakefield_Football_Club_Trinity_stand_and_ground.jpg/330px-Wakefield_Football_Club_Trinity_stand_and_ground.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Wakefield_Football_Club_Trinity_stand_and_ground.jpg/440px-Wakefield_Football_Club_Trinity_stand_and_ground.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Wakefield_Football_Club_Trinity_stand_and_ground.jpg" class="internal" title="Enlarge"></a></div>Belle Vue, Trinity Street End</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wakefield_Football_Club_Doncaster_Rd_covered_spion_kop.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wakefield_Football_Club_Doncaster_Rd_covered_spion_kop.jpg/220px-Wakefield_Football_Club_Doncaster_Rd_covered_spion_kop.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wakefield_Football_Club_Doncaster_Rd_covered_spion_kop.jpg/330px-Wakefield_Football_Club_Doncaster_Rd_covered_spion_kop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Wakefield_Football_Club_Doncaster_Rd_covered_spion_kop.jpg/440px-Wakefield_Football_Club_Doncaster_Rd_covered_spion_kop.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Wakefield_Football_Club_Doncaster_Rd_covered_spion_kop.jpg" class="internal" title="Enlarge"></a></div>Belle Vue, Doncaster Road End</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wakefield_Football_Club_east_stand_and_terrace.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wakefield_Football_Club_east_stand_and_terrace.jpg/220px-Wakefield_Football_Club_east_stand_and_terrace.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wakefield_Football_Club_east_stand_and_terrace.jpg/330px-Wakefield_Football_Club_east_stand_and_terrace.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Wakefield_Football_Club_east_stand_and_terrace.jpg/440px-Wakefield_Football_Club_east_stand_and_terrace.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Wakefield_Football_Club_east_stand_and_terrace.jpg" class="internal" title="Enlarge"></a></div>Belle Vue, East Stand</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Wakefield_Football_Club_main_stand,_view_southwards.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Wakefield_Football_Club_main_stand%2C_view_southwards.jpg/220px-Wakefield_Football_Club_main_stand%2C_view_southwards.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Wakefield_Football_Club_main_stand%2C_view_southwards.jpg/330px-Wakefield_Football_Club_main_stand%2C_view_southwards.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Wakefield_Football_Club_main_stand%2C_view_southwards.jpg/440px-Wakefield_Football_Club_main_stand%2C_view_southwards.jpg 2x" data-file-width="2048" data-file-height="1536" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Wakefield_Football_Club_main_stand,_view_southwards.jpg" class="internal" title="Enlarge"></a></div>Belle Vue, Main Stand</div></div></div>
+<p>Paul Lines was appointed the new manager of Wakefield on 9 December 2011 and replaces general manager Mark Brier who was sacked earlier in week. He is joined in the dugout by Liam Sutcliffe as assistant manager.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Wakefield resigned from the <a href="/wiki/Northern_Premier_League" title="Northern Premier League">Northern Premier League</a> at the end of the 2013–14 season.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> and had planned to participate in the <a href="/wiki/Northern_Counties_East_Football_League" title="Northern Counties East Football League">Northern Counties East Football League</a> in the 2014–15 season with a view to returning to The Welfare Ground in Emley, where they were to share with <a href="/wiki/A.F.C._Emley" class="mw-redirect" title="A.F.C. Emley">AFC Emley</a>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> However the club informed the FA and the Northern Counties League on 21 June 2014 that they would not be competing in the forthcoming season ahead of the club being wound up.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Records">Records</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakefield_F.C.&amp;action=edit&amp;section=2" title="Edit section: Records">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/FA_Cup" title="FA Cup">FA Cup</a></b>
+<ul><li>3rd Round: 1997–98,  Lost 2–1 to <a href="/wiki/West_Ham_United" class="mw-redirect" title="West Ham United">West Ham United</a>.</li></ul></li>
+<li><b><a href="/wiki/FA_Trophy" title="FA Trophy">FA Trophy</a></b>
+<ul><li>Quarter-finalists 1990–91, 1998–99</li></ul></li>
+<li><b><a href="/wiki/FA_Vase" title="FA Vase">FA Vase</a></b>
+<ul><li>Runners-up: 1987–88</li></ul></li></ul>
+<p>All-time leading scorer: Dan Ford 115 in 230 games.
+</p>
+<h2><span class="mw-headline" id="Honours">Honours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakefield_F.C.&amp;action=edit&amp;section=3" title="Edit section: Honours">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><b><a href="/wiki/Northern_Premier_League" title="Northern Premier League">Northern Premier League</a></b>
+<ul><li>Runners-up: 2000–01</li></ul></li>
+<li><b><a href="/wiki/Northern_Counties_East_League" class="mw-redirect" title="Northern Counties East League">Northern Counties East League</a></b>
+<ul><li>Champions: 1987–88, 1988–89</li></ul></li>
+<li><b><a href="/wiki/Northern_Premier_League_First_Division" class="mw-redirect" title="Northern Premier League First Division">Northern Premier League First Division</a></b>
+<ul><li>Runners-up: 1990–91</li></ul></li>
+<li><b><a href="/wiki/Yorkshire_Football_League" title="Yorkshire Football League">Yorkshire League</a></b>
+<ul><li>Champions: 1975–76, 1977–78, 1979–80, 1981–82</li></ul></li>
+<li><b>Yorkshire League Cup</b>
+<ul><li>Winners: 1969–70, 1978–79, 1981–82</li></ul></li>
+<li><b>Sheffield Senior Cup:</b>
+<ul><li>Winners: 1975–76, 1979–80, 1980–81, 1983–84, 1988–89, 1990–91, 1991–92, 1997–98</li></ul></li>
+<li><b>Huddersfield League First Division</b>
+<ul><li>Champions: 1913–14, 1919–20, 1937–38, 1938–39,1942–43, 1959–60, 1965–66, 1966–67, 1967–68, 1968–69</li></ul></li>
+<li><b>Huddersfield League Second Division</b>
+<ul><li>Champions: 1947–48</li></ul></li>
+<li><b>Huddersfield Invitation Cup</b>
+<ul><li>Winners: 1938–39, 1965–66, 1967–68</li></ul></li>
+<li><b>Huddersfield Barlow Cup</b>
+<ul><li>Winners: 1954–55, 1965–66, 1967–68</li></ul></li>
+<li><b>Huddersfield FA Charity Shield</b>
+<ul><li>Winners: 1965–66, 1966–67</li></ul></li>
+<li><b>Aconley Cup</b>
+<ul><li>Winners: 1914</li></ul></li>
+<li><b>Dearne Valley Cup</b>
+<ul><li>Winners: 1931</li></ul></li>
+<li><b>Dearne Valley League</b>
+<ul><li>Champions: 1932</li></ul></li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakefield_F.C.&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/A.F.C._Emley" class="mw-redirect" title="A.F.C. Emley">A.F.C. Emley</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakefield_F.C.&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.northern.non-league-chat.com/change-of-manager-for-wakefield/">"Change of Manager For Wakefield"</a>. 9 December 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Change+of+Manager+For+Wakefield&amp;rft.date=2011-12-09&amp;rft_id=http%3A%2F%2Fwww.northern.non-league-chat.com%2Fchange-of-manager-for-wakefield%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWakefield+F.C." class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r886058088">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wakefieldfc.com/news/wakefield-withdraw-from-npl-1191360.html">Wakefield withdraw from NPL</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.wakefieldfc.com/news/club-statement-1199458.html">Club Statement</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://nonleague.pitchero.com/news/afc-emley-blow--wakefield-wound-up-32051/">Wakefield Wound Up</a></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wakefield_F.C.&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.wakefieldfc.com/">WakefieldFC.com&#160;– Official website</a></li>
+<li><a rel="nofollow" class="external free" href="http://www.pitchero.com/clubs/wakefieldfc">http://www.pitchero.com/clubs/wakefieldfc</a> (Fans Forum)</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Men&amp;#039;s_football_in_West_Yorkshire" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Men%27s_Football_in_West_Yorkshire" title="Template:Men&#39;s Football in West Yorkshire"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Men%27s_Football_in_West_Yorkshire" title="Template talk:Men&#39;s Football in West Yorkshire"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Men%27s_Football_in_West_Yorkshire&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Men&amp;#039;s_football_in_West_Yorkshire" style="font-size:114%;margin:0 4em">Men's football in <a href="/wiki/West_Yorkshire" title="West Yorkshire">West Yorkshire</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Clubs<br />(<a href="/w/index.php?title=List_of_football_clubs_in_West_Yorkshire&amp;action=edit&amp;redlink=1" class="new" title="List of football clubs in West Yorkshire (page does not exist)">List of</a>)</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Premier_League" title="Premier League">Premier League</a> &amp;<br /><a href="/wiki/English_Football_League" title="English Football League">Football League</a><br />(<a href="/wiki/English_football_league_system" title="English football league system">tiers</a> 1–4)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">1</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>None</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Huddersfield_Town_A.F.C." title="Huddersfield Town A.F.C.">Huddersfield Town</a></li>
+<li><a href="/wiki/Leeds_United_F.C." title="Leeds United F.C.">Leeds United</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">3</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>None</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">4</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bradford_City_A.F.C." title="Bradford City A.F.C.">Bradford City</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Non-League_football" title="Non-League football">Non-League</a><br />(<a href="/wiki/English_football_league_system" title="English football league system">tiers</a> 5–13)</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;text-align:center;">5</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/F.C._Halifax_Town" title="F.C. Halifax Town">Halifax Town</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:center;">6</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bradford_(Park_Avenue)_A.F.C." title="Bradford (Park Avenue) A.F.C.">Bradford (Park Avenue)</a></li>
+<li><a href="/wiki/Guiseley_A.F.C." title="Guiseley A.F.C.">Guiseley</a></li>
+<li><a href="/wiki/Farsley_Celtic_F.C." title="Farsley Celtic F.C.">Farsley Celtic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:center;">7</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>None</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:center;">8</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brighouse_Town_F.C." title="Brighouse Town F.C.">Brighouse Town</a></li>
+<li><a href="/wiki/Frickley_Athletic_F.C." title="Frickley Athletic F.C.">Frickley Athletic</a></li>
+<li><a href="/wiki/Ossett_United_F.C." title="Ossett United F.C.">Ossett United</a></li>
+<li><a href="/wiki/Pontefract_Collieries_F.C." title="Pontefract Collieries F.C.">Pontefract Collieries</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:center;">9</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Albion_Sports_A.F.C." title="Albion Sports A.F.C.">Albion Sports</a></li>
+<li><a href="/wiki/Garforth_Town_A.F.C." title="Garforth Town A.F.C.">Garforth Town</a></li>
+<li><a href="/wiki/Hemsworth_Miners_Welfare_F.C." title="Hemsworth Miners Welfare F.C.">Hemsworth Miners Welfare</a></li>
+<li><a href="/wiki/Liversedge_F.C." title="Liversedge F.C.">Liversedge</a></li>
+<li><a href="/wiki/Thackley_A.F.C." title="Thackley A.F.C.">Thackley</a></li>
+<li><a href="/wiki/Yorkshire_Amateur_A.F.C." title="Yorkshire Amateur A.F.C.">Yorkshire Amateur</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:center;">10</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Campion_A.F.C." title="Campion A.F.C.">Campion</a></li>
+<li><a href="/wiki/Eccleshill_United_F.C." title="Eccleshill United F.C.">Eccleshill United</a></li>
+<li><a href="/wiki/Emley_A.F.C." title="Emley A.F.C.">Emley</a></li>
+<li><a href="/wiki/Glasshoughton_Welfare_A.F.C." title="Glasshoughton Welfare A.F.C.">Glasshoughton Welfare</a></li>
+<li><a href="/wiki/Golcar_United_F.C." title="Golcar United F.C.">Golcar United</a></li>
+<li><a href="/wiki/Nostell_Miners_Welfare_F.C." title="Nostell Miners Welfare F.C.">Nostell Miners Welfare</a></li>
+<li><a href="/wiki/Shelley_F.C." class="mw-redirect" title="Shelley F.C.">Shelley</a></li>
+<li><a href="/wiki/Silsden_F.C." title="Silsden F.C.">Silsden</a></li>
+<li><a href="/wiki/Steeton_F.C." class="mw-redirect" title="Steeton F.C.">Steeton</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:center;">11</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Salts_F.C." title="Salts F.C.">Salts</a></li>
+<li><a href="/wiki/South_Kirkby_Colliery_F.C." title="South Kirkby Colliery F.C.">South Kirkby Colliery</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:center;">12</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/East_End_Park_Working_Mens_Club_F.C." title="East End Park Working Mens Club F.C.">East End Park Working Mens Club</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align:center;">13</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kinsley_Boys_F.C." title="Kinsley Boys F.C.">Kinsley Boys</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Defunct/Former</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brook_Sports_F.C." title="Brook Sports F.C.">Brook Sports</a></li>
+<li><a href="/wiki/Castleford_Town_F.C." title="Castleford Town F.C.">Castleford Town</a></li>
+<li><a href="/wiki/Collingham_F.C._(West_Yorkshire)" title="Collingham F.C. (West Yorkshire)">Collingham</a></li>
+<li><a href="/wiki/Fryston_Colliery_Welfare_F.C." title="Fryston Colliery Welfare F.C.">Fryston Colliery Welfare</a></li>
+<li><a href="/wiki/Halifax_Town_A.F.C." title="Halifax Town A.F.C.">Halifax Town A.F.C.</a></li>
+<li><a href="/wiki/Hemsworth_Colliery_F.C." title="Hemsworth Colliery F.C.">Hemsworth Colliery</a></li>
+<li><a href="/wiki/Hemsworth_West_End_F.C." title="Hemsworth West End F.C.">Hemsworth West End</a></li>
+<li><a href="/wiki/Leeds_Ashley_Road_F.C." title="Leeds Ashley Road F.C.">Leeds Ashley Road</a></li>
+<li><a href="/wiki/Leeds_Carnegie_F.C." title="Leeds Carnegie F.C.">Leeds Carnegie</a></li>
+<li><a href="/wiki/Leeds_City_F.C." title="Leeds City F.C.">Leeds City</a></li>
+<li><a href="/wiki/Ossett_Albion_A.F.C." title="Ossett Albion A.F.C.">Ossett Albion</a></li>
+<li><a href="/wiki/Ossett_Town_A.F.C." title="Ossett Town A.F.C.">Ossett Town</a></li>
+<li><a href="/wiki/Phoenix_Park_F.C." title="Phoenix Park F.C.">Phoenix Park</a></li>
+<li><a href="/wiki/South_Kirkby_Wednesday_F.C." title="South Kirkby Wednesday F.C.">South Kirkby Wednesday</a></li>
+<li><a class="mw-selflink selflink">Wakefield</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Competitions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/West_Yorkshire_Association_Football_League" title="West Yorkshire Association Football League">West Yorkshire Association Football League</a></li>
+<li><a href="/wiki/Craven_and_District_Football_League" title="Craven and District Football League">Craven and District Football League</a></li>
+<li><a href="/wiki/Halifax_and_District_Association_Football_League" title="Halifax and District Association Football League">Halifax and District Association Football League</a></li>
+<li><a href="/wiki/Huddersfield_and_District_Association_Football_League" title="Huddersfield and District Association Football League">Huddersfield and District Association Football League</a></li>
+<li><a href="/wiki/Spen_Valley_and_District_Association_Football_League" title="Spen Valley and District Association Football League">Spen Valley and District Association Football League</a></li>
+<li><a href="/wiki/Wakefield_and_District_Football_Association_League" title="Wakefield and District Football Association League">Wakefield and District Football Association League</a></li>
+<li><a href="/wiki/Yorkshire_Amateur_League" title="Yorkshire Amateur League">Yorkshire Amateur League</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Venues</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Valley_Parade" title="Valley Parade">Valley Parade</a></li>
+<li><a href="/wiki/Horsfall_Stadium" title="Horsfall Stadium">Horsfall Stadium</a></li>
+<li><a href="/wiki/The_Citadel,_Farsley" title="The Citadel, Farsley">The Citadel</a></li>
+<li><a href="/wiki/Nethermoor_Park" title="Nethermoor Park">Nethermoor Park</a></li>
+<li><a href="/wiki/The_Shay" title="The Shay">The Shay</a></li>
+<li><a href="/wiki/Kirklees_Stadium" title="Kirklees Stadium">Kirklees Stadium</a></li>
+<li><a href="/wiki/Elland_Road" title="Elland Road">Elland Road</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Rivalries</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bradford_derby" title="Bradford derby">Bradford derby</a></li>
+<li><a href="/wiki/West_Yorkshire_derby" title="West Yorkshire derby">West Yorkshire derby</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other topics</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li class="mw-empty-elt"></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1258
+Cached time: 20190907044921
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.192 seconds
+Real time usage: 0.284 seconds
+Preprocessor visited node count: 1128/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 80140/2097152 bytes
+Template argument size: 1579/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 7/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 3844/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.072/10.000 seconds
+Lua memory usage: 2.32 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  197.218      1 -total
+ 37.88%   74.703      1 Template:Reflist
+ 33.78%   66.618      1 Template:Cite_web
+ 29.86%   58.892      1 Template:Infobox_football_club
+ 22.66%   44.699      1 Template:Infobox
+ 16.45%   32.437      4 Template:Navbox
+ 16.14%   31.833      1 Template:Use_dmy_dates
+ 11.93%   23.519      1 Template:Men's_Football_in_West_Yorkshire
+  9.70%   19.127      2 Template:DMCA
+  8.30%   16.376      2 Template:Dated_maintenance_category
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3667033-0!canonical and timestamp 20190907044920 and revision id 901690897
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		
+		<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wakefield_F.C.&amp;oldid=901690897">https://en.wikipedia.org/w/index.php?title=Wakefield_F.C.&amp;oldid=901690897</a>"</div>
+		
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Defunct_football_clubs_in_England" title="Category:Defunct football clubs in England">Defunct football clubs in England</a></li><li><a href="/wiki/Category:Football_clubs_in_West_Yorkshire" title="Category:Football clubs in West Yorkshire">Football clubs in West Yorkshire</a></li><li><a href="/wiki/Category:Association_football_clubs_established_in_1903" title="Category:Association football clubs established in 1903">Association football clubs established in 1903</a></li><li><a href="/wiki/Category:1903_establishments_in_England" title="Category:1903 establishments in England">1903 establishments in England</a></li><li><a href="/wiki/Category:Sport_in_Wakefield" title="Category:Sport in Wakefield">Sport in Wakefield</a></li><li><a href="/wiki/Category:Huddersfield_and_District_Association_Football_League" title="Category:Huddersfield and District Association Football League">Huddersfield and District Association Football League</a></li><li><a href="/wiki/Category:West_Riding_County_Amateur_Football_League" title="Category:West Riding County Amateur Football League">West Riding County Amateur Football League</a></li><li><a href="/wiki/Category:Yorkshire_Football_League" title="Category:Yorkshire Football League">Yorkshire Football League</a></li><li><a href="/wiki/Category:Northern_Counties_East_Football_League" title="Category:Northern Counties East Football League">Northern Counties East Football League</a></li><li><a href="/wiki/Category:Northern_Premier_League_clubs" title="Category:Northern Premier League clubs">Northern Premier League clubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_February_2014" title="Category:Use dmy dates from February 2014">Use dmy dates from February 2014</a></li><li><a href="/wiki/Category:Use_British_English_from_February_2014" title="Category:Use British English from February 2014">Use British English from February 2014</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wakefield+F.C." title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Wakefield+F.C." title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Wakefield_F.C." title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Wakefield_F.C." rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Wakefield_F.C.">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Wakefield_F.C.&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Wakefield_F.C.&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Wakefield_F.C." title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Wakefield_F.C." rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wakefield_F.C.&amp;oldid=901690897" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wakefield_F.C.&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18464" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wakefield_F.C.&amp;id=901690897" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Wakefield_F.C." hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wakefield+F.C.">Create a book</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wakefield+F.C.&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Wakefield_F.C.&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Wakefield_FC" title="Wakefield FC – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/FC_Wakefield" title="FC Wakefield – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18464#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 13 June 2019, at 16:27<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Wakefield_F.C.&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.192","walltime":"0.284","ppvisitednodes":{"value":1128,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":80140,"limit":2097152},"templateargumentsize":{"value":1579,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":3844,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  197.218      1 -total"," 37.88%   74.703      1 Template:Reflist"," 33.78%   66.618      1 Template:Cite_web"," 29.86%   58.892      1 Template:Infobox_football_club"," 22.66%   44.699      1 Template:Infobox"," 16.45%   32.437      4 Template:Navbox"," 16.14%   31.833      1 Template:Use_dmy_dates"," 11.93%   23.519      1 Template:Men's_Football_in_West_Yorkshire","  9.70%   19.127      2 Template:DMCA","  8.30%   16.376      2 Template:Dated_maintenance_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.072","limit":"10.000"},"limitreport-memusage":{"value":2427615,"limit":52428800}},"cachereport":{"origin":"mw1258","timestamp":"20190907044921","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Wakefield F.C.","url":"https:\/\/en.wikipedia.org\/wiki\/Wakefield_F.C.","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18464","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18464","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-09T14:05:12Z","dateModified":"2019-06-13T16:27:20Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/d\/d8\/Wakefield_F.C..svg","headline":"association football club in Wakefield, England"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1330"});});</script>
+</body>
+</html>
+
